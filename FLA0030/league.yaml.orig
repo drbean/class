@@ -10,18 +10,13 @@ member:
     rating: 500
   - Chinese: 黃文青
     id: V9741002
-    name: Miranda
+    name: 黃文青
     password: wen
-    rating: 1200
+    rating: 500
   - Chinese: 夏芳婕
     id: V9841002
     name: 夏芳婕
     password: fang
-    rating: 500
-  - Chinese: 潘彥安
-    id: V9841004
-    name: 潘彥安
-    password: yan
     rating: 500
   - Chinese: 傅雅暉
     id: V9841005
@@ -76,7 +71,7 @@ member:
   - Chinese: 彭明俊
     id: V9841016
     name: 彭明俊
-    password: ming
+    password: min
     rating: 500
   - Chinese: 李澤爵
     id: V9841017
@@ -110,7 +105,7 @@ member:
     rating: 500
   - Chinese: 賴心怡
     id: V9841023
-    name: Apple
+    name: 賴心怡
     password: xin
     rating: 500
   - Chinese: 黃鳳玄
@@ -272,11 +267,6 @@ member:
     id: V9841064
     name: 李齊
     password: qi
-    rating: 500
-  - Chinese: 羅曼
-    name: 羅曼
-    password: man
-    id: V9741065
     rating: 500
   - Chinese: 蘇文彥
     id: V9841067

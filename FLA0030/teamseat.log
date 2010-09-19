@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=latex 2008.11.9)  16 SEP 2010 17:00
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=latex 2008.11.9)  17 SEP 2010 16:33
 entering extended mode
  %&-line parsing enabled.
 **classwork/1/teamseat.tex
@@ -71,7 +71,8 @@ Package: array 2005/08/23 v2.4b Tabular extension package (FMi)
 \NC@list=\toks15
 \extratabsurround=\skip43
 \backup@length=\skip44
-) (./teamseat.aux)
+)
+No file teamseat.aux.
 \openout1 = `teamseat.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
@@ -159,6 +160,12 @@ File: UTF8.enc 2008/08/10 4.8.1
 )
 (/usr/local/texlive/2008/texmf-dist/tex/latex/cjk/UTF8/UTF8.chr
 File: UTF8.chr 2008/08/10 4.8.1
+)
+LaTeX Font Info:    Try loading font information for C70+cyberbit on input line
+ 50.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/cjk/UTF8/c70cyberbit.fd
+File: c70cyberbit.fd 
 )
 Overfull \hbox (32.60497pt too wide) in paragraph at lines 50--51
 [][]
@@ -639,11 +646,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 333--334
 
  []
 
-LaTeX Font Info:    Try loading font information for C70+cyberbit on input line
- 339.
-(/usr/local/texlive/2008/texmf-dist/tex/latex/cjk/UTF8/c70cyberbit.fd
-File: c70cyberbit.fd 
-)
+
 Overfull \hbox (32.60497pt too wide) in paragraph at lines 339--340
 [][]
  []
@@ -792,12 +795,12 @@ Overfull \hbox (16.60031pt too wide) in paragraph at lines 425--426
 
 ] (./teamseat.aux) ) 
 Here is how much of TeX's memory you used:
- 1330 strings out of 493887
- 14938 string characters out of 1151143
- 109956 words of memory out of 3000000
- 4641 multiletter control sequences out of 10000+50000
- 6899 words of font info for 25 fonts, out of 3000000 for 5000
+ 1528 strings out of 493887
+ 19060 string characters out of 1151143
+ 111956 words of memory out of 3000000
+ 4796 multiletter control sequences out of 10000+50000
+ 20028 words of font info for 70 fonts, out of 3000000 for 5000
  714 hyphenation exceptions out of 8191
- 23i,6n,32p,201b,414s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 23i,6n,32p,201b,415s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on teamseat.dvi (1 page, 12220 bytes).
+Output written on teamseat.dvi (1 page, 14340 bytes).
