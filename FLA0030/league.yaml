@@ -336,8 +336,8 @@ member:
     rating: 1247
   - Chinese: 林志豪
     id: V9741066
-    name: 林志豪
-    password: Joe
+    name: Joe
+    password: zhi
     rating: 500
 out:
   - Chinese: 吳筱涵
