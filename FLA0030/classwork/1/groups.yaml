@@ -1,76 +1,85 @@
 ---
-YellowYellow:
-  - 陳彥叡
-  - Justin
-  - Anita
-  - 林志豪
+Black:
+  - Alyssa
+  - Vivi
+  - Alan
+  - Amy
 BlackBlack:
   - Sunny
-  - Melissa
-  - Cathy
-  - Ford
+  - Nancy
+  - Andy
+  - Bruce
 Blue:
   - Fenny
-  - Andy
-  - Elly
-  - Amy
+  - Vera
+  - Melissa
+  - Kathy
 BlueBlue:
   - Hank
-  - Alan
-  - Emily1
-  - Bruce
-Brown:
-  - Ashley
-  - Ryan
-  - Tracy
-  - Kathy
-Gray:
-  - Anne
-  - Vivi
-  - Carol
+  - Nana
+  - Justin
   - Ivy2
+Brown:
+  - Cindy
+  - Emma
+  - Anita
+  - Nina
+BrownBrown:
+  - Eunice
+  - Liu-ping
+  - Cathy
+  - Abby
+Gray:
+  - Ashley
+  - Ting'an
+  - Elly
+  - Molly
+GrayGray:
+  - Anne
+  - Chelsea
+  - Emily1
+  - Sophie
 Green:
   - Ting
-  - 陳昱樺
-  - Kumiko
-  - Nina
+  - Cloud
+  - Tracy
+  - Aska
 Orange:
-  - Joy
-  - Vera
-  - Donna
-  - Abby
+  - Joey
+  - Kiki
+  - Carol
+  - Ivy1
 Pink:
   - Lucas
-  - Nana
-  - Maggie
-  - Molly
-Purple:
-  - Mico
-  - Liu-ping
-  - Emily2
-  - Sophie
-Red:
-  - Nelson
-  - Chelsea
-  - Jacinta
-  - Aska
-White:
-  - Moto
-  - Cloud
-  - Peggy
-  - Ivy1
-Black:
-  - Tiffany
   - Amberly
-  - Candy
+  - Kumiko
   - Jessica2
-Yellow:
-  - Linda
-  - Daisy
-  - Rachel
+Purple:
+  - Jo
+  - Michelle
+  - Donna
   - Jessica1
-WhiteWhite:
-  - Ken
+Red:
+  - Mico
   - Vivian
-  - Tina
+  - Maggie
   - Eva
+White:
+  - Nelson
+  - Ken
+  - Emily2
+  - Tina
+WhiteWhite:
+  - Moto
+  - Linda
+  - Jacinta
+  - Rachel
+Yellow:
+  - Tiffany
+  - Ford
+  - Peggy
+  - Candy
+YellowYellow:
+  - Edison
+  - Ryan
+  - 林志豪
