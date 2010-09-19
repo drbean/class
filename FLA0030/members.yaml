@@ -1,308 +1,336 @@
 ---
-- Chinese: 廖政福
-  name: Ford
-  password: zheng
-  id: N9661737
-  rating: 1500
-
-- Chinese: 吳采薇
-  name: Mico
-  password: cai
-  id: N9661725
-  rating: 818
-- Chinese: 吳書儀
-  name: Amberly
-  password: shu
-  id: N9661746
-  rating: 1583
-
-- Chinese: 陳彥叡
-  id: 9622299
-  name: 陳彥叡
-  password: yan
-  rating: 500
-- Chinese: 劉佳佳
-  id: N9461738
-  name: Sunny
-  password: jia
-  rating: 52
-- Chinese: 劉芳君
-  id: N9561721
-  name: Fenny
-  password: fang
-  rating: 900
-- Chinese: 黃文和
-  id: N9561732
-  name: Hank
-  password: wen
-  rating: 1208
-- Chinese: 周品嫻
-  id: N9661702
-  name: Ashley
-  password: pin
-  rating: 853
-- Chinese: 吳嘉怡
-  id: N9661705
-  name: Anne
-  password: jia
-  rating: 1070
-- Chinese: 葉雅婷
-  id: N9661706
-  name: Ting
-  password: ya
-  rating: 1061
-- Chinese: 李昭毅
-  id: N9661713
-  name: Joy
-  password: zhao
-  rating: 1205
-- Chinese: 黃路加
-  id: N9661717
-  name: Lucas
-  password: lu
-  rating: 1161
-- Chinese: 賴恩聖
-  id: N9661727
-  name: Nelson
-  password: en
-  rating: 1000
-- Chinese: 黃聖昱
-  id: N9661728
-  name: Moto
-  password: sheng
-  rating: 1282
-- Chinese: 林庭萱
-  id: N9661731
-  name: Tiffany
-  password: ting
-  rating: 1231
-- Chinese: 鄭淑鈴
-  id: N9661738
-  name: Linda
-  password: shu
-  rating: 1246
-- Chinese: 汪大智
-  id: N9661740
-  name: Ken
-  password: da
-  rating: 1164
-- Chinese: 林妤容
-  id: N9661741
-  name: Vivian
-  password: yu
-  rating: 898
-- Chinese: 吳筱涵
-  id: N9661742
-  name: Daisy
-  password: xiao
-  rating: 904
-- Chinese: 楊妙雲
-  id: N9661748
-  name: Cloud
-  password: miao
-  rating: 1001
-- Chinese: 劉茹芬
-  id: N9661749
-  name: Chelsea
-  password: ru
-  rating: 1203
-- Chinese: 黃綠蘋
-  id: N9661754
-  name: Liu-ping
-  password: lu
-  rating: 500
-- Chinese: 徐如誼
-  id: N9661761
-  name: Nana
-  password: ru
-  rating: 500
-- Chinese: 張嘉宸
-  id: U9616041
-  name: Vera
-  password: jia
-  rating: 1211
-- Chinese: 陳昱樺
-  id: V9724004
-  name: 陳昱樺
-  password: yu
-  rating: 500
-- Chinese: 張杏君
-  id: V9731059
-  name: Vivi
-  password: xing
-  rating: 1246
-- Chinese: 黃國恩
-  id: V9741004
-  name: Ryan
-  password: guo
-  rating: 900
-- Chinese: 謝孟倫
-  id: V9741009
-  name: Alan
-  password: meng
-  rating: 1302
-- Chinese: 魏宏耘
-  id: V9741010
-  name: Andy
-  password: hong
-  rating: 1154
-- Chinese: 張玉春
-  id: V9741014
-  name: Melissa
-  password: yu
-  rating: 1315
-- Chinese: 甘慧婷
-  id: V9741015
-  name: Justin
-  password: hui
-  rating: 1156
-- Chinese: 林沛均
-  id: V9741016
-  name: Anita
-  password: pei
-  rating: 1174
-- Chinese: 邱郁晴
-  id: V9741018
-  name: Cathy
-  password: yu
-  rating: 1024
-- Chinese: 劉洛綺
-  id: V9741023
-  name: Elly
-  password: luo
-  rating: 1242
-- Chinese: 林庭如
-  id: V9741024
-  name: Emily1
-  password: ting
-  rating: 1266
-- Chinese: 朱淑卿
-  id: V9741025
-  name: Tracy
-  password: shu
-  rating: 1228
-- Chinese: 林芷嫻
-  id: V9741028
-  name: Carol
-  password: zhi
-  rating: 1052
-- Chinese: 傅泓瑜
-  id: V9741029
-  name: Kumiko
-  password: hong
-  rating: 1174
-- Chinese: 李欣怡
-  id: V9741030
-  name: Donna
-  password: xin
-  rating: 1178
-- Chinese: 蔣枚芳
-  id: V9741032
-  name: Maggie
-  password: mei
-  rating: 1066
-- Chinese: 周虹霓
-  id: V9741034
-  name: Emily2
-  password: hong
-  rating: 1266
-- Chinese: 陳詩梵
-  id: V9741036
-  name: Jacinta
-  password: shi
-  rating: 1054
-- Chinese: 鄭佩琪
-  id: V9741037
-  name: Peggy
-  password: pei
-  rating: 1230
-- Chinese: 謝宇函
-  id: V9741038
-  name: Candy
-  password: yu
-  rating: 1302
-- Chinese: 林幸嬿
-  id: V9741040
-  name: Rachel
-  password: xing
-  rating: 1365
-- Chinese: 曾文伶
-  id: V9741041
-  name: Tina
-  password: wen
-  rating: 1259
-- Chinese: 湯馥鎂
-  id: V9741042
-  name: Eva
-  password: fu
-  rating: 1208
-- Chinese: 楊婕妤
-  id: V9741043
-  name: Jessica1
-  password: jie
-  rating: 1292
-- Chinese: 張馨卿
-  id: V9741044
-  name: Jessica2
-  password: xin
-  rating: 1225
-- Chinese: 蔡淑女
-  id: V9741047
-  name: Ivy1
-  password: shu
-  rating: 1281
-- Chinese: 彭若芸
-  id: V9741048
-  name: Aska
-  password: ruo
-  rating: 1356
-- Chinese: 王夙惠
-  id: V9741049
-  name: Sophie
-  password: su
-  rating: 1382
-- Chinese: 彭莉喬
-  id: V9741053
-  name: Molly
-  password: li
-  rating: 1366
-- Chinese: 張雨涵
-  id: V9741055
-  name: Abby
-  password: yu
-  rating: 1260
-- Chinese: 賴宣蓉
-  id: V9741057
-  name: Nina
-  password: xuan
-  rating: 850
-- Chinese: 王寧
-  id: V9741059
-  name: Ivy2
-  password: ning
-  rating: 848
-- Chinese: 黃可茹
-  id: V9741060
-  name: Kathy
-  password: ke
-  rating: 1115
-- Chinese: 吳哲維
-  id: V9741061
-  name: Bruce
-  password: zhe
-  rating: 1328
-- Chinese: 白芳瑜
-  id: V9741064
-  name: Amy
-  password: fang
-  rating: 1247
-- Chinese: 羅曼
-  id: V9741065
-  name: 羅曼
-  password: man
-  rating: 500
-- Chinese: 林志豪
-  id: V9741066
-  name: 林志豪
-  password: zhi
-  rating: 500
+  - Chinese: Alyssa
+    name: Alyssa
+    password: Al
+    id: E9841001
+    rating: 1000
+  - Chinese: 羅庭安
+    name: "Ting'an"
+    password: ting
+    id: N9661753
+    rating: 1730
+  - Chinese: 林碧鏈
+    name: Emma
+    id: N9661758
+    password: bi
+    rating: 900
+  - Chinese: 鄭喻心
+    name: Cindy
+    id: N9561751
+    password: yu
+    rating: 1100
+  - Chinese: 林逸喬
+    name: Jo
+    password: yi
+    id: N9661724
+    rating: 930
+  - Chinese: 羅惠娟
+    name: Michelle
+    password: hui
+    id: N9661743
+    rating: 892
+  - Chinese: 邱靖棋
+    name: Kiki
+    password: jing
+    id: N9661747
+    rating: 1067
+  - Chinese: 許莉昀
+    name: Eunice
+    password: li
+    id: N9561762
+    rating: 1374
+  - Chinese: 廖政福
+    name: Ford
+    password: zheng
+    id: N9661737
+    rating: 1422
+  - Chinese: 吳采薇
+    name: Mico
+    password: cai
+    id: N9661725
+    rating: 818
+  - Chinese: 吳書儀
+    name: Amberly
+    id: N9661746
+    password: shu
+    rating: 1583
+  - Chinese: 陳彥叡
+    id: 9622299
+    name: Edison
+    password: yan
+    rating: 500
+  - Chinese: 劉佳佳
+    id: N9461738
+    name: Sunny
+    password: jia
+    rating: 52
+  - Chinese: 劉芳君
+    id: N9561721
+    name: Fenny
+    password: fang
+    rating: 900
+  - Chinese: 黃文和
+    id: N9561732
+    name: Hank
+    password: wen
+    rating: 1208
+  - Chinese: 周品嫻
+    id: N9661702
+    name: Ashley
+    password: pin
+    rating: 853
+  - Chinese: 吳嘉怡
+    id: N9661705
+    name: Anne
+    password: jia
+    rating: 1070
+  - Chinese: 葉雅婷
+    id: N9661706
+    name: Ting
+    password: ya
+    rating: 1061
+  - Chinese: 李昭毅
+    id: N9661713
+    name: Joey
+    password: zhao
+    rating: 1205
+  - Chinese: 黃路加
+    id: N9661717
+    name: Lucas
+    password: lu
+    rating: 1161
+  - Chinese: 賴恩聖
+    id: N9661727
+    name: Nelson
+    password: en
+    rating: 1000
+  - Chinese: 黃聖昱
+    id: N9661728
+    name: Moto
+    password: sheng
+    rating: 1282
+  - Chinese: 林庭萱
+    id: N9661731
+    name: Tiffany
+    password: ting
+    rating: 1231
+  - Chinese: 鄭淑鈴
+    id: N9661738
+    name: Linda
+    password: shu
+    rating: 1246
+  - Chinese: 汪大智
+    id: N9661740
+    name: Ken
+    password: da
+    rating: 1164
+  - Chinese: 林妤容
+    id: N9661741
+    name: Vivian
+    password: yu
+    rating: 898
+  - Chinese: 楊妙雲
+    id: N9661748
+    name: Cloud
+    password: miao
+    rating: 1001
+  - Chinese: 劉茹芬
+    id: N9661749
+    name: Chelsea
+    password: ru
+    rating: 1203
+  - Chinese: 黃綠蘋
+    id: N9661754
+    name: Liu-ping
+    password: lu
+    rating: 500
+  - Chinese: 徐如誼
+    id: N9661761
+    name: Nana
+    password: ru
+    rating: 500
+  - Chinese: 張嘉宸
+    id: U9616041
+    name: Vera
+    password: jia
+    rating: 1211
+  - Chinese: 陳昱樺
+    id: V9724004
+    name: Nancy
+    password: yu
+    rating: 500
+  - Chinese: 張杏君
+    id: V9731059
+    name: Vivi
+    password: xing
+    rating: 1246
+  - Chinese: 黃國恩
+    id: V9741004
+    name: Ryan
+    password: guo
+    rating: 900
+  - Chinese: 謝孟倫
+    id: V9741009
+    name: Alan
+    password: meng
+    rating: 1302
+  - Chinese: 魏宏耘
+    id: V9741010
+    name: Andy
+    password: hong
+    rating: 1154
+  - Chinese: 張玉春
+    id: V9741014
+    name: Melissa
+    password: yu
+    rating: 1315
+  - Chinese: 甘慧婷
+    id: V9741015
+    name: Justin
+    password: hui
+    rating: 1156
+  - Chinese: 林沛均
+    id: V9741016
+    name: Anita
+    password: pei
+    rating: 1174
+  - Chinese: 邱郁晴
+    id: V9741018
+    name: Cathy
+    password: yu
+    rating: 1024
+  - Chinese: 劉洛綺
+    id: V9741023
+    name: Elly
+    password: luo
+    rating: 1242
+  - Chinese: 林庭如
+    id: V9741024
+    name: Emily1
+    password: ting
+    rating: 1266
+  - Chinese: 朱淑卿
+    id: V9741025
+    name: Tracy
+    password: shu
+    rating: 1228
+  - Chinese: 林芷嫻
+    id: V9741028
+    name: Carol
+    password: zhi
+    rating: 1052
+  - Chinese: 傅泓瑜
+    id: V9741029
+    name: Kumiko
+    password: hong
+    rating: 1174
+  - Chinese: 李欣怡
+    id: V9741030
+    name: Donna
+    password: xin
+    rating: 1178
+  - Chinese: 蔣枚芳
+    id: V9741032
+    name: Maggie
+    password: mei
+    rating: 1066
+  - Chinese: 周虹霓
+    id: V9741034
+    name: Emily2
+    password: hong
+    rating: 1266
+  - Chinese: 陳詩梵
+    id: V9741036
+    name: Jacinta
+    password: shi
+    rating: 1054
+  - Chinese: 鄭佩琪
+    id: V9741037
+    name: Peggy
+    password: pei
+    rating: 1230
+  - Chinese: 謝宇函
+    id: V9741038
+    name: Candy
+    password: yu
+    rating: 1302
+  - Chinese: 林幸嬿
+    id: V9741040
+    name: Rachel
+    password: xing
+    rating: 1365
+  - Chinese: 曾文伶
+    id: V9741041
+    name: Tina
+    password: wen
+    rating: 1259
+  - Chinese: 湯馥鎂
+    id: V9741042
+    name: Eva
+    password: fu
+    rating: 1208
+  - Chinese: 楊婕妤
+    id: V9741043
+    name: Jessica1
+    password: jie
+    rating: 1292
+  - Chinese: 張馨卿
+    id: V9741044
+    name: Jessica2
+    password: xin
+    rating: 1225
+  - Chinese: 蔡淑女
+    id: V9741047
+    name: Ivy1
+    password: shu
+    rating: 1281
+  - Chinese: 彭若芸
+    id: V9741048
+    name: Aska
+    password: ruo
+    rating: 1356
+  - Chinese: 王夙惠
+    id: V9741049
+    name: Sophie
+    password: su
+    rating: 1382
+  - Chinese: 彭莉喬
+    id: V9741053
+    name: Molly
+    password: li
+    rating: 1366
+  - Chinese: 張雨涵
+    id: V9741055
+    name: Abby
+    password: yu
+    rating: 1260
+  - Chinese: 賴宣蓉
+    id: V9741057
+    name: Nina
+    password: xuan
+    rating: 850
+  - Chinese: 王寧
+    id: V9741059
+    name: Ivy2
+    password: ning
+    rating: 848
+  - Chinese: 黃可茹
+    id: V9741060
+    name: Kathy
+    password: ke
+    rating: 1115
+  - Chinese: 吳哲維
+    id: V9741061
+    name: Bruce
+    password: zhe
+    rating: 1328
+  - Chinese: 白芳瑜
+    id: V9741064
+    name: Amy
+    password: fang
+    rating: 1247
+  - Chinese: 林志豪
+    id: V9741066
+    name: 林志豪
+    password: Joe
+    rating: 500
