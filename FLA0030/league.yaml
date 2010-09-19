@@ -3,12 +3,16 @@ id: 991FLA0030
 field: 英文會話(三)
 league: 夜應外大學三甲
 member:
+  - Chinese: 許莉昀
+    name: Eunice
+    password: li
+    id: N9561762
+    rating: 1374
   - Chinese: 廖政福
     name: Ford
     password: zheng
     id: N9661737
     rating: 1422
-
   - Chinese: 吳采薇
     name: Mico
     password: cai
@@ -57,7 +61,7 @@ member:
     rating: 1061
   - Chinese: 李昭毅
     id: N9661713
-    name: Joy
+    name: Joey
     password: zhao
     rating: 1205
   - Chinese: 黃路加
