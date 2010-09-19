@@ -3,6 +3,41 @@ id: 991FLA0030
 field: 英文會話(三)
 league: 夜應外大學三甲
 member:
+  - Chinese: Alyssa
+    name: Alyssa
+    password: Al
+    id: E9841001
+    rating: 1000
+  - Chinese: 羅庭安
+    name: "Ting'an"
+    password: ting
+    id: N9661753
+    rating: 1730
+  - Chinese: 林碧鏈
+    name: Emma
+    id: N9661758
+    password: bi
+    rating: 900
+  - Chinese: 鄭喻心
+    name: Cindy
+    id: N9561751
+    password: yu
+    rating: 1100
+  - Chinese: 林逸喬
+    name: Jo
+    password: yi
+    id: N9661724
+    rating: 930
+  - Chinese: 羅惠娟
+    name: Michelle
+    password: hui
+    id: N9661743
+    rating: 892
+  - Chinese: 邱靖棋
+    name: Kiki
+    password: jing
+    id: N9661747
+    rating: 1067
   - Chinese: 許莉昀
     name: Eunice
     password: li
@@ -20,13 +55,13 @@ member:
     rating: 818
   - Chinese: 吳書儀
     name: Amberly
-    password: shu
     id: N9661746
+    password: shu
     rating: 1583
   
   - Chinese: 陳彥叡
     id: 9622299
-    name: 陳彥叡
+    name: Edison
     password: yan
     rating: 500
   - Chinese: 劉佳佳
@@ -99,11 +134,6 @@ member:
     name: Vivian
     password: yu
     rating: 898
-  - Chinese: 吳筱涵
-    id: N9661742
-    name: Daisy
-    password: xiao
-    rating: 904
   - Chinese: 楊妙雲
     id: N9661748
     name: Cloud
@@ -131,7 +161,7 @@ member:
     rating: 1211
   - Chinese: 陳昱樺
     id: V9724004
-    name: 陳昱樺
+    name: Nancy
     password: yu
     rating: 500
   - Chinese: 張杏君
@@ -307,9 +337,14 @@ member:
   - Chinese: 林志豪
     id: V9741066
     name: 林志豪
-    password: zhi
+    password: Joe
     rating: 500
 out:
+  - Chinese: 吳筱涵
+    id: N9661742
+    name: Daisy
+    password: xiao
+    rating: 904
   - Chinese: 羅曼
     id: V9741065
     name: 羅曼
