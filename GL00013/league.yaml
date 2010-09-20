@@ -1,0 +1,120 @@
+---
+id: GL00013
+league: 日語文共同學制虛擬班二乙
+field: 中級英文聽說訓練
+member:
+  - Chinese: 謝孟庭
+    id: 9622240
+    name: 謝孟庭
+    password: meng
+    rating: 500
+  - Chinese: 翁凱峯
+    id: T9822129
+    name: 翁凱峯
+    password: kai
+    rating: 500
+  - Chinese: 沈喬逸
+    id: T9822147
+    name: 沈喬逸
+    password: qiao
+    rating: 500
+  - Chinese: 陳奕佃
+    id: T9822149
+    name: 陳奕佃
+    password: yi
+    rating: 500
+  - Chinese: 李秉霖
+    id: T9823041
+    name: 李秉霖
+    password: bing
+    rating: 500
+  - Chinese: 張聖豪
+    id: U9622048
+    name: 張聖豪
+    password: sheng
+    rating: 500
+  - Chinese: 蔡宗祐
+    id: U9633019
+    name: 蔡宗祐
+    password: zong
+    rating: 500
+  - Chinese: 金詣耘
+    id: U9633052
+    name: 金詣耘
+    password: yi
+    rating: 500
+  - Chinese: 李孟彥
+    id: U9722022
+    name: 李孟彥
+    password: meng
+    rating: 500
+  - Chinese: 鄭仕元
+    id: U9723011
+    name: 鄭仕元
+    password: shi
+    rating: 500
+  - Chinese: 陳諭璿
+    id: U9733027
+    name: 陳諭璿
+    password: yu
+    rating: 500
+  - Chinese: 許賀順
+    id: U9734014
+    name: 許賀順
+    password: he
+    rating: 500
+  - Chinese: 郭家佑
+    id: U9810015
+    name: 郭家佑
+    password: jia
+    rating: 500
+  - Chinese: 許月馨
+    id: U9818007
+    name: 許月馨
+    password: yue
+    rating: 500
+  - Chinese: 何旻蓉
+    id: U9818011
+    name: 何旻蓉
+    password: min
+    rating: 500
+  - Chinese: 曾莉雯
+    id: U9818046
+    name: 曾莉雯
+    password: li
+    rating: 500
+  - Chinese: 潘辰妮
+    id: U9821142
+    name: 潘辰妮
+    password: chen
+    rating: 500
+  - Chinese: 黃筠庭
+    id: U9822004
+    name: 黃筠庭
+    password: yun
+    rating: 500
+  - Chinese: 顏資容
+    id: U9822019
+    name: 顏資容
+    password: zi
+    rating: 500
+  - Chinese: 鍾函芳
+    id: U9831041
+    name: 鍾函芳
+    password: han
+    rating: 500
+out:
+absent:
+  - None
+groupwork: classwork
+compcomp: comp
+room: A705
+hw: homework
+exams: exams
+hwMax: 2
+examMax: 4
+weights:
+  homework: 15
+  classwork: 70
+  exams: 15
+approach: CompComp
