@@ -1,0 +1,20 @@
+---
+id: GL00014
+league: 日語文共同學制虛擬班二乙
+field:  中高級英文閱讀
+member:
+out:
+absent:
+  - None
+groupwork: classwork
+compcomp: comp
+room: A705
+hw: homework
+exams: exams
+hwMax: 2
+examMax: 4
+weights:
+  homework: 15
+  classwork: 70
+  exams: 15
+approach: GroupworkNoFault
