@@ -14,6 +14,11 @@
   name: 林妤芳
   password: yu
   rating: 500
+- Chinese: 甘尚玉
+  id: U9613006
+  name: 甘尚玉
+  password: ~
+  rating: 500
 - Chinese: 陳偉吉
   id: U9617044
   name: 陳偉吉
@@ -38,6 +43,12 @@
   id: U9823033
   name: 陳明豪
   password: ming
+  password: ~
+  rating: 500
+- Chinese: 羅佳伶
+  id: U9842052
+  name: 羅佳伶
+  password: ~
   rating: 500
 - Chinese: 吳芷豪
   id: U9843013
