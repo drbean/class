@@ -18,6 +18,11 @@ member:
     name: 李鈞富
     password: jun
     rating: 500
+  - Chinese: 黃文青
+    name: Miranda
+    password: wen
+    id: V9741002
+    rating: 1200
   - Chinese: 傅泓瑜
     id: V9741029
     name: Kumiko
@@ -33,6 +38,11 @@ member:
     name: Amy
     password: fang
     rating: 1220
+  - Chinese: 林志豪
+    id: V9741066
+    name: Joe
+    password: zhi
+    rating: 500
   - Chinese: 潘彥安
     id: V9841004
     name: 潘彥安
