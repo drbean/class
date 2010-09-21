@@ -1,0 +1,200 @@
+---
+league: 日華文大學二甲
+field: 英文聽力及會話(一)
+id: 991CLA0023
+hw: /home/drbean/class/CLA0013/homework
+member:
+  - Chinese: 曾淑珍
+    id: U9833035
+    name: ~
+    password: shu
+    rating: 500
+  - Chinese: 廖福元
+    id: U9834038
+    name: ~
+    password: fu
+    rating: 500
+  - Chinese: 沈　揚
+    id: U9843001
+    name: ~
+    password: yang
+    rating: 500
+  - Chinese: 周美迎
+    id: U9843002
+    name: ~
+    password: mei
+    rating: 500
+  - Chinese: 郭庭妤
+    id: U9843003
+    name: ~
+    password: ting
+    rating: 500
+  - Chinese: 李炳榮
+    id: U9843004
+    name: ~
+    password: bing
+    rating: 500
+  - Chinese: 蔡宜君
+    id: U9843005
+    name: ~
+    password: yi
+    rating: 500
+  - Chinese: 張景淳
+    id: U9843010
+    name: ~
+    password: ying
+    rating: 500
+  - Chinese: 陳欣愉
+    id: U9843021
+    name: ~
+    password: xin
+    rating: 500
+  - Chinese: 李恩柔
+    id: U9843023
+    name: ~
+    password: en
+    rating: 500
+  - Chinese: 林冠佑
+    id: U9843025
+    name: ~
+    password: guan
+    rating: 500
+  - Chinese: 黃閔瑜
+    id: U9843026
+    name: ~
+    password: min
+    rating: 500
+  - Chinese: 蘇怡薇
+    id: U9843028
+    name: ~
+    password: yi
+    rating: 500
+  - Chinese: 蔡文賢
+    id: U9843030
+    name: ~
+    password: wen
+    rating: 500
+  - Chinese: 許珀瑋
+    id: U9843031
+    name: ~
+    password: po
+    rating: 500
+  - Chinese: 郭惠霓
+    id: U9843032
+    name: ~
+    password: hui
+    rating: 500
+  - Chinese: 陳柏妮
+    id: U9843038
+    name: ~
+    password: bo
+    rating: 500
+  - Chinese: 郭珮雯
+    id: U9843039
+    name: ~
+    password: pei
+    rating: 500
+  - Chinese: 洪晟庭
+    id: U9843040
+    name: ~
+    password: sheng
+    rating: 500
+  - Chinese: 鍾佳蓁
+    id: U9843042
+    name: ~
+    password: jia
+    rating: 500
+  - Chinese: 陳妍?
+    id: U9843046
+    name: ~
+    password: yan
+    rating: 500
+  - Chinese: 古繡鳳
+    id: U9843048
+    name: ~
+    password: xiu
+    rating: 500
+absent:
+  - None
+series:
+  - first
+  - second
+  - third
+  - fourth
+exams:
+  - exam1
+  - exam2
+  - exam3
+  - exam4
+weights:
+  classwork: 20
+  homework : 20
+  exams    : 60
+hwMax: 2
+examMax: 15
+seats:
+  Black     : [25, 25a, 26, 26a]
+  Blue      : [23, 15, 24, 16]
+  Brown     : [21, 13, 22, 14]
+  Gray      : [19, 11, 20, 12]
+  Green     : [17, 09, 18, 10]
+  Orange    : [01, 02, 03, 04]
+
+  Yellow    : [37, 27, 38, 28]
+  White     : [39, 29, 40, 30]
+  Red       : [41, 31, 42, 32]
+  Purple    : [43, 33, 44, 34]
+  Pink      : [45, 35, 46, 36]
+  BlackBlack: [47, 48, 49, 50]
+alternativeseats:
+  Orange    : [25, 25a, 26, 26a]
+  Green     : [23, 15, 24, 16]
+  Gray      : [21, 13, 22, 14]
+  Brown     : [19, 11, 20, 12]
+  Blue      : [17, 09, 18, 10]
+  Black     : [01, 02, 03, 04]
+
+  Pink      : [37, 27, 38, 28]
+  Purple    : [39, 29, 40, 30]
+  Red       : [41, 31, 42, 32]
+  White     : [43, 33, 44, 34]
+  Yellow    : [45, 35, 46, 36]
+  BlackBlack: [47, 48, 49, 50]
+regions:
+  LeftFront:
+    - Black
+    - Blue
+    - Brown
+  LeftBack:
+    - Gray
+    - Green
+    - Orange
+  RightFront:
+    - BlackBlack
+    - Pink
+    - Purple
+  RightBack:
+    - Red
+    - White
+    - Yellow
+expertseats:
+  LeftFront:
+    A: [17, 09, 01]
+    B: [02, 03, 04]
+    C: [18, 10, 19]
+    D: [11, 20, 12]
+  LeftBack:
+    A: [21, 13, 22]
+    B: [14, 23, 15]
+    C: [24, 16, 25]
+    D: [25a, 26, 26a]
+  RightFront:
+    A: [47, 37, 27]
+    B: [38, 28, 39]
+    C: [29, 40, 30]
+    D: [48, 49, 50]
+  RightBack:
+    A: [41, 31, 42]
+    B: [32, 43, 33]
+    C: [44, 34, 45]
+    D: [35, 46, 36]
