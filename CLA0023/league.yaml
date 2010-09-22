@@ -6,12 +6,12 @@ hw: /home/drbean/class/CLA0013/homework
 member:
   - Chinese: 曾淑珍
     id: U9833035
-    name: 曾淑珍
+    name: Jane
     password: shu
-    rating: 500
+    rating: 1500
   - Chinese: 廖福元
     id: U9834038
-    name: 廖福元
+    name: Frank
     password: fu
     rating: 500
   - Chinese: 沈　揚
@@ -21,62 +21,62 @@ member:
     rating: 500
   - Chinese: 周美迎
     id: U9843002
-    name: 周美迎
+    name: Peko
     password: mei
     rating: 500
   - Chinese: 郭庭妤
     id: U9843003
-    name: 郭庭妤
+    name: Tiffany
     password: ting
     rating: 500
   - Chinese: 李炳榮
     id: U9843004
-    name: 李炳榮
+    name: Wesley
     password: bing
     rating: 500
   - Chinese: 蔡宜君
     id: U9843005
-    name: 蔡宜君
+    name: Annie
     password: yi
     rating: 500
   - Chinese: 張景淳
     id: U9843010
-    name: 張景淳
+    name: Amy
     password: ying
     rating: 500
   - Chinese: 陳欣愉
     id: U9843021
-    name: 陳欣愉
+    name: Mimo
     password: xin
     rating: 500
   - Chinese: 李恩柔
     id: U9843023
-    name: 李恩柔
+    name: Vicky
     password: en
     rating: 500
   - Chinese: 林冠佑
     id: U9843025
-    name: 林冠佑
+    name: Leo
     password: guan
     rating: 500
   - Chinese: 黃閔瑜
     id: U9843026
-    name: 黃閔瑜
+    name: Ketty
     password: min
     rating: 500
   - Chinese: 蘇怡薇
     id: U9843028
-    name: 蘇怡薇
+    name: Lynn
     password: yi
     rating: 500
   - Chinese: 蔡文賢
     id: U9843030
-    name: 蔡文賢
+    name: Paul
     password: wen
     rating: 500
   - Chinese: 許珀瑋
     id: U9843031
-    name: 許珀瑋
+    name: Parry
     password: po
     rating: 500
   - Chinese: 郭惠霓
@@ -86,17 +86,17 @@ member:
     rating: 500
   - Chinese: 陳柏妮
     id: U9843038
-    name: 陳柏妮
+    name: Berny
     password: bo
     rating: 500
   - Chinese: 郭珮雯
     id: U9843039
-    name: 郭珮雯
+    name: Charolotte
     password: pei
     rating: 500
   - Chinese: 洪晟庭
     id: U9843040
-    name: 洪晟庭
+    name: "O'Neal"
     password: sheng
     rating: 500
   - Chinese: 鍾佳蓁
@@ -104,14 +104,14 @@ member:
     name: 鍾佳蓁
     password: jia
     rating: 500
-  - Chinese: 陳妍?
+  - Chinese: 陳妍伃
     id: U9843046
-    name: 陳妍?
+    name: Fish
     password: yan
     rating: 500
   - Chinese: 古繡鳳
     id: U9843048
-    name: 古繡鳳
+    name: Lisa
     password: xiu
     rating: 500
 out:
