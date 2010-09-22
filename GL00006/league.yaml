@@ -3,6 +3,16 @@ id: GL00006
 league: 日語文共同學制虛擬班二甲
 field: 中級英文聽說訓練
 member:
+  - Chinese: 胡語倫
+    name: Allen
+    password: yu
+    id: N9661712
+    rating: 1100
+  - Chinese: 劉庭閣
+    name: Peter
+    password: ting
+    id: U9714108
+    rating: 1000
   - Chinese: 徐曉彤
     name: Irin
     password: xiao
