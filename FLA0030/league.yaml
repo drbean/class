@@ -3,6 +3,12 @@ id: FLA0014
 field: 英語會話(一)
 league: 夜應外大學二甲
 member:
+  - Chinese: 劉芸玥
+    name: 劉芸玥
+    password: yun
+    id: E9841002
+    rating: 500
+  
   - Chinese: 李鈞富
     id: T9813047
     name: Chun-Fu
