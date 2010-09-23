@@ -1,0 +1,288 @@
+
+   帳號                            姓名         性別 生日 身份 E-mail 行動電話
+   U9742047
+   林綉芬
+           [female.gif]
+   正式生
+   [1]U9742047@smail.nuu.edu.tw
+   U9831001
+   陳　毅
+           [female.gif]          1991-03-24
+   正式生
+   [2]U9831001@smail.nuu.edu.tw
+   0963469393
+   U9831002
+   莊焜安
+           [female.gif]          1990-10-02
+   正式生
+   [3]U9831002@smail.nuu.edu.tw
+   0912855565
+   U9831003
+   胡振飛
+           [female.gif]          0000-00-00
+   正式生
+   [4]U9831003@smail.nuu.edu.tw
+   0971119222
+   U9831004
+   陳建名
+           [female.gif]          0000-00-00
+   正式生
+   [5]U9831004@smail.nuu.edu.tw
+   U9831005
+   陳韡之
+           [female.gif]          1991-07-01
+   正式生
+   [6]U9831005@smail.nuu.edu.tw
+   0963326513
+   U9831006
+   楊崴宇
+           [female.gif]          1991-05-21
+   正式生
+   [7]U9831006@smail.nuu.edu.tw
+   0921634411
+   U9831007
+   姚　順
+           [female.gif]          0000-00-00
+   正式生
+   [8]U9831007@smail.nuu.edu.tw
+   0926857250
+   U9831008
+   吳岱芬
+           [female.gif]          1991-02-15
+   正式生
+   [9]U9831008@smail.nuu.edu.tw
+   0989212541
+   U9831010
+   廖黛羽
+           [female.gif]
+   正式生
+   [10]U9831010@smail.nuu.edu.tw
+   U9831011
+   李旻益
+           [female.gif]          1991-04-09
+   正式生
+   [11]U9831011@smail.nuu.edu.tw
+   0918597923
+   U9831012
+   彭星喬
+           [female.gif]
+   正式生
+   [12]U9831012@smail.nuu.edu.tw
+   U9831013
+   李方渝
+           [female.gif]          1990-09-23
+   正式生
+   [13]U9831013@smail.nuu.edu.tw
+   0928612883
+   U9831014
+   楊智祺
+           [female.gif]          1991-02-24
+   正式生
+   [14]U9831014@smail.nuu.edu.tw
+   0928088273
+   U9831016
+   郭俐妤
+           [female.gif]          0000-00-00
+   正式生
+   [15]U9831016@smail.nuu.edu.tw
+   U9831017
+   張詠筌
+           [female.gif]          1991-04-15
+   正式生
+   [16]U9831017@smail.nuu.edu.tw
+   0910658958
+   U9831018
+   黃馨儀
+           [female.gif]
+   正式生
+   [17]U9831018@smail.nuu.edu.tw
+   U9831019
+   沈慧瑜
+           [female.gif]          1991-07-22
+   正式生
+   [18]U9831019@smail.nuu.edu.tw
+   0963259977
+   U9831020
+   許妤徽
+           [female.gif]          1991-08-24
+   正式生
+   [19]U9831020@smail.nuu.edu.tw
+   0911691733
+   U9831021
+   陳韋樵
+           [female.gif]          1991-09-09
+   正式生
+   [20]U9831021@smail.nuu.edu.tw
+   U9831023
+   卓宜君
+           [female.gif]          1990-10-07
+   正式生
+   [21]U9831023@smail.nuu.edu.tw
+   0963497662
+   U9831024
+   洪國亮
+           [female.gif]          1991-01-26
+   正式生
+   [22]U9831024@smail.nuu.edu.tw
+   0953151323
+   U9831025
+   林宜慧
+           [female.gif]          1991-06-04
+   正式生
+   [23]U9831025@smail.nuu.edu.tw
+   U9831027
+   黃柏喬
+           [female.gif]          2009-08-19
+   正式生
+   [24]U9831027@smail.nuu.edu.tw
+   0952226268
+   U9831028
+   林奕瑄
+           [female.gif]          1991-03-11
+   正式生
+   [25]U9831028@smail.nuu.edu.tw
+   U9831029
+   莊憶婷
+           [female.gif]          1991-02-07
+   正式生
+   [26]U9831029@smail.nuu.edu.tw
+   U9831030
+   魏羽伶
+           [female.gif]
+   正式生
+   [27]U9831030@smail.nuu.edu.tw
+   U9831034
+   莊雪蓮
+           [female.gif]          1990-09-25
+   正式生
+   [28]U9831034@smail.nuu.edu.tw
+   0963303936
+   U9831035
+   丘欣怡
+           [female.gif]          1991-01-16
+   正式生
+   [29]U9831035@smail.nuu.edu.tw
+   0975302636
+   U9831036
+   陳靜儒
+           [female.gif]          1990-12-10
+   正式生
+   [30]U9831036@smail.nuu.edu.tw
+   0981385372
+   U9831037
+   賴羿樺
+           [female.gif]
+   正式生
+   [31]U9831037@smail.nuu.edu.tw
+   U9831038
+   葉日維
+           [female.gif]          1990-12-09
+   正式生
+   [32]U9831038@smail.nuu.edu.tw
+   0911238129
+   U9831039
+   趙靚如
+           [female.gif]
+   正式生
+   [33]U9831039@smail.nuu.edu.tw
+   U9831040
+   楊正熏
+           [female.gif]          0000-00-00
+   正式生
+   [34]U9831040@smail.nuu.edu.tw
+   0933950142
+   U9831041
+   鍾函芳
+           [female.gif]          1991-07-20
+   正式生
+   [35]U9831041@smail.nuu.edu.tw
+   0932690757
+   U9831042
+   吳海琳
+           [female.gif]          1991-02-25
+   正式生
+   [36]U9831042@smail.nuu.edu.tw
+   U9831043
+   蕭文伶
+           [female.gif]          1990-12-29
+   正式生
+   [37]U9831043@smail.nuu.edu.tw
+   U9831044
+   丁婉涵
+           [female.gif]          0000-00-00
+   正式生
+   [38]U9831044@smail.nuu.edu.tw
+   0973180017
+   U9831045
+   劉品瑜
+           [female.gif]
+   正式生
+   [39]U9831045@smail.nuu.edu.tw
+   U9831046
+   鍾宇軒
+           [female.gif]          0000-00-00
+   正式生
+   [40]U9831046@smail.nuu.edu.tw
+   U9831047
+   王宜
+           [female.gif]
+   正式生
+   [41]U9831047@smail.nuu.edu.tw
+   U9831048
+   譚楚琪
+           [female.gif]          0000-00-00
+   正式生
+   [42]U9831048@smail.nuu.edu.tw
+   0973465547
+   U9831049
+   張力中
+           [female.gif]          1990-03-28
+   正式生
+   [43]U9831049@smail.nuu.edu.tw
+   0926721385
+
+References
+
+   1. mailto:U9742047@smail.nuu.edu.tw
+   2. mailto:U9831001@smail.nuu.edu.tw
+   3. mailto:U9831002@smail.nuu.edu.tw
+   4. mailto:U9831003@smail.nuu.edu.tw
+   5. mailto:U9831004@smail.nuu.edu.tw
+   6. mailto:U9831005@smail.nuu.edu.tw
+   7. mailto:U9831006@smail.nuu.edu.tw
+   8. mailto:U9831007@smail.nuu.edu.tw
+   9. mailto:U9831008@smail.nuu.edu.tw
+  10. mailto:U9831010@smail.nuu.edu.tw
+  11. mailto:U9831011@smail.nuu.edu.tw
+  12. mailto:U9831012@smail.nuu.edu.tw
+  13. mailto:U9831013@smail.nuu.edu.tw
+  14. mailto:U9831014@smail.nuu.edu.tw
+  15. mailto:U9831016@smail.nuu.edu.tw
+  16. mailto:U9831017@smail.nuu.edu.tw
+  17. mailto:U9831018@smail.nuu.edu.tw
+  18. mailto:U9831019@smail.nuu.edu.tw
+  19. mailto:U9831020@smail.nuu.edu.tw
+  20. mailto:U9831021@smail.nuu.edu.tw
+  21. mailto:U9831023@smail.nuu.edu.tw
+  22. mailto:U9831024@smail.nuu.edu.tw
+  23. mailto:U9831025@smail.nuu.edu.tw
+  24. mailto:U9831027@smail.nuu.edu.tw
+  25. mailto:U9831028@smail.nuu.edu.tw
+  26. mailto:U9831029@smail.nuu.edu.tw
+  27. mailto:U9831030@smail.nuu.edu.tw
+  28. mailto:U9831034@smail.nuu.edu.tw
+  29. mailto:U9831035@smail.nuu.edu.tw
+  30. mailto:U9831036@smail.nuu.edu.tw
+  31. mailto:U9831037@smail.nuu.edu.tw
+  32. mailto:U9831038@smail.nuu.edu.tw
+  33. mailto:U9831039@smail.nuu.edu.tw
+  34. mailto:U9831040@smail.nuu.edu.tw
+  35. mailto:U9831041@smail.nuu.edu.tw
+  36. mailto:U9831042@smail.nuu.edu.tw
+  37. mailto:U9831043@smail.nuu.edu.tw
+  38. mailto:U9831044@smail.nuu.edu.tw
+  39. mailto:U9831045@smail.nuu.edu.tw
+  40. mailto:U9831046@smail.nuu.edu.tw
+  41. mailto:U9831047@smail.nuu.edu.tw
+  42. mailto:U9831048@smail.nuu.edu.tw
+  43. mailto:U9831049@smail.nuu.edu.tw
