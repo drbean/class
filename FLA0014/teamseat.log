@@ -1,0 +1,806 @@
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=latex 2008.11.9)  17 SEP 2010 16:33
+entering extended mode
+ %&-line parsing enabled.
+**classwork/1/teamseat.tex
+(./classwork/1/teamseat.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, german-x-2008-06-18, ngerman-x-2008-06-18, ancientgreek, ibycus, ar
+abic, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutc
+h, esperanto, estonian, farsi, finnish, french, galician, german, ngerman, mono
+greek, greek, hungarian, icelandic, indonesian, interlingua, irish, italian, la
+tin, mongolian, mongolian2a, bokmal, nynorsk, polish, portuguese, romanian, rus
+sian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish, ukenglis
+h, ukrainian, uppersorbian, welsh, loaded.
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/cjk/CJK.sty
+Package: CJK 2008/08/10 4.8.1
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/cjk/mule/MULEenc.sty
+Package: MULEenc 2008/08/10 4.8.1
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/cjk/CJK.enc
+File: CJK.enc 2008/08/10 4.8.1
+)
+LaTeX Info: Redefining \selectfont on input line 748.
+\CJK@indent=\box26
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/textpos/textpos.sty
+Package: textpos 2007/03/30 v1.7d
+
+Package: `textpos' 1.7d <2007 March 30>
+(/usr/local/texlive/2008/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)
+\TP@textbox=\box27
+\TP@holdbox=\box28
+\TPHorizModule=\dimen103
+\TPVertModule=\dimen104
+\TP@margin=\dimen105
+\TP@absmargin=\dimen106
+
+Grid set 16 x 16 = 37.34424pt x 52.81541pt
+\TPboxrulesize=\dimen107
+\TP@ox=\dimen108
+\TP@oy=\dimen109
+\TP@tbargs=\toks14
+\TP@prevdepth=\dimen110
+TextBlockOrigin set to 0pt x 0pt
+)
+TextBlockOrigin set to 0.30cm x 0.35cm
+(/usr/local/texlive/2008/texmf-dist/tex/latex/tools/array.sty
+Package: array 2005/08/23 v2.4b Tabular extension package (FMi)
+\col@sep=\dimen111
+\extrarowheight=\dimen112
+\NC@list=\toks15
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+No file teamseat.aux.
+\openout1 = `teamseat.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+ABD: EveryShipout initializing macros
+(/usr/local/texlive/2008/texmf-dist/tex/latex/cjk/UTF8/UTF8.bdg
+File: UTF8.bdg 2008/08/10 4.8.1
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/cjk/UTF8/UTF8.enc
+File: UTF8.enc 2008/08/10 4.8.1
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/cjk/UTF8/UTF8.chr
+File: UTF8.chr 2008/08/10 4.8.1
+)
+LaTeX Font Info:    Try loading font information for C70+cyberbit on input line
+ 50.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/cjk/UTF8/c70cyberbit.fd
+File: c70cyberbit.fd 
+)
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 50--51
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 56--57
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 62--63
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 68--69
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 74--75
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 80--81
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 87--88
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 93--94
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 99--100
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 105--106
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 111--112
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 117--118
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 123--124
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 129--130
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 135--136
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 141--142
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 147--148
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 153--154
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 159--160
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 165--166
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 171--172
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 177--178
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 183--184
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 189--190
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 195--196
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 201--202
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 207--208
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 213--214
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 219--220
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 225--226
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 231--232
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 237--238
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 243--244
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 249--250
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 255--256
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 261--262
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 267--268
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 273--274
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 279--280
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 285--286
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 291--292
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 297--298
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 303--304
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 309--310
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 315--316
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 321--322
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 327--328
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 333--334
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 339--340
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 345--346
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--346
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 351--352
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 357--358
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 363--364
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 369--370
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 375--376
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--376
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 381--382
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 387--388
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 393--394
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--394
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 399--400
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 405--406
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--406
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 411--412
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+
+ []
+
+
+Overfull \hbox (32.60497pt too wide) in paragraph at lines 417--418
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--418
+
+ []
+
+
+Overfull \hbox (16.60031pt too wide) in paragraph at lines 425--426
+[][] 
+ []
+
+[1
+
+] (./teamseat.aux) ) 
+Here is how much of TeX's memory you used:
+ 1528 strings out of 493887
+ 19060 string characters out of 1151143
+ 111956 words of memory out of 3000000
+ 4796 multiletter control sequences out of 10000+50000
+ 20028 words of font info for 70 fonts, out of 3000000 for 5000
+ 714 hyphenation exceptions out of 8191
+ 23i,6n,32p,201b,415s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on teamseat.dvi (1 page, 14340 bytes).
