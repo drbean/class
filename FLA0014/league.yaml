@@ -14,11 +14,6 @@ member:
     name: Chun-Fu
     password: jun
     rating: 500
-  - Chinese: 黃文青
-    id: V9741002
-    name: Miranda
-    password: wen
-    rating: 1200
   - Chinese: 夏芳婕
     id: V9841002
     name: Kori
@@ -79,11 +74,6 @@ member:
     name: Shaq
     password: ming
     rating: 500
-  - Chinese: 彭明俊
-    id: V9841016
-    name: 彭明俊
-    password: ming
-    rating: 500
   - Chinese: 李澤爵
     id: V9841017
     name: Jeffrey
@@ -104,20 +94,11 @@ member:
     name: Stanley
     password: bo
     rating: 500
-  - Chinese: 陳勇安
-    id: V9841021
-    name: 陳勇安
-    password: yong
     rating: 500
   - Chinese: 吳千羽
     id: V9841022
     name: Hank
     password: qian
-    rating: 500
-  - Chinese: 賴心怡
-    id: V9841023
-    name: Apple
-    password: xin
     rating: 500
   - Chinese: 黃鳳玄
     id: V9841024
@@ -239,11 +220,6 @@ member:
     name: Ming
     password: yi
     rating: 500
-  - Chinese: 詹貿傑
-    id: V9841052
-    name: 詹貿傑
-    password: mao
-    rating: 500
   - Chinese: 張羽萍
     id: V9841053
     name: Carina
@@ -290,6 +266,30 @@ member:
     password: wen
     rating: 500
 out:
+  - Chinese: 彭明俊
+    id: V9841016
+    name: 彭明俊
+    password: ming
+    rating: 500
+  - Chinese: 詹貿傑
+    id: V9841052
+    name: 詹貿傑
+    password: mao
+    rating: 500
+  - Chinese: 陳勇安
+    id: V9841021
+    name: 陳勇安
+    password: yong
+  - Chinese: 賴心怡
+    id: V9841023
+    name: Apple
+    password: xin
+    rating: 500
+  - Chinese: 黃文青
+    id: V9741002
+    name: Miranda
+    password: wen
+    rating: 1200
 absent:
 exams: exams
 examMax: 5
