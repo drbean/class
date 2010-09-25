@@ -3,121 +3,127 @@ id: 991MIA0014
 league: 日資管大學二甲
 field: 商用英文實務(一)
 member:
+  - Chinese: 林政修
+    name: Tsun-show
+    password: zheng
+    id: U9842005
+    rating: 126
+  
   - Chinese: 張思羽
     id: T9833004
     name: 張思羽
     password: si
-    rating: ~
+    rating: 84
   - Chinese: 范國威
     id: T9833006
     name: 范國威
     password: guo
-    rating: ~
+    rating: 92
   - Chinese: 吳筱淇
     id: T9833009
     name: 吳筱淇
     password: xiao
-    rating: ~
+    rating: 84
   - Chinese: 邱瀚平
     id: T9833013
     name: 邱瀚平
     password: han
-    rating: ~
+    rating: 94
   - Chinese: 楊耀鈞
     id: T9833014
     name: 楊耀鈞
     password: yao
-    rating: ~
+    rating: 94
   - Chinese: 劉卉琳
     id: T9833025
     name: 劉卉琳
     password: hui
-    rating: ~
+    rating: 96
   - Chinese: 翁愷駿
     id: T9833027
     name: 翁愷駿
     password: kai
-    rating: ~
+    rating: 100
   - Chinese: 吳育瑄
     id: T9833028
     name: 吳育瑄
     password: yu
-    rating: ~
+    rating: 86
   - Chinese: 林美卿
     id: T9833030
     name: 林美卿
     password: mei
-    rating: ~
+    rating: 108
   - Chinese: 洪志慶
     id: T9833032
     name: 洪志慶
     password: zhi
-    rating: ~
+    rating: 88
   - Chinese: 陳家祥
     id: T9833035
     name: 陳家祥
     password: jia
-    rating: ~
+    rating: 82
   - Chinese: 楊郁婕
     id: T9833037
     name: 楊郁婕
     password: yu
-    rating: ~
+    rating: 92
   - Chinese: 紀雅萱
     id: T9833039
     name: 紀雅萱
     password: ya
-    rating: ~
+    rating: 82
   - Chinese: 林昱伶
     id: T9833041
     name: 林昱伶
     password: yu
-    rating: ~
+    rating: 104
   - Chinese: 廖曉葳
     id: T9833043
     name: 廖曉葳
     password: xiao
-    rating: ~
+    rating: 90
   - Chinese: 黃依庭
     id: T9833045
     name: 黃依庭
     password: yi
-    rating: ~
+    rating: 90
   - Chinese: 張雅婷
     id: T9833046
     name: 張雅婷
     password: ya
-    rating: ~
+    rating: 92
   - Chinese: 陳筱柔
     id: T9833050
     name: 陳筱柔
     password: xiao
-    rating: ~
+    rating: 100
   - Chinese: 蔡承運
     id: U9733013
     name: 蔡承運
     password: cheng
-    rating: ~
+    rating: 84
   - Chinese: 鄭雅云
     id: U9831107
     name: 鄭雅云
     password: ya
-    rating: ~
+    rating: 86
   - Chinese: 曾渝婷
     id: U9833001
     name: 曾渝婷
     password: yu
-    rating: ~
+    rating: 102
   - Chinese: 聞人翰
     id: U9833002
     name: 聞人翰
     password: ren
-    rating: ~
+    rating: 124
   - Chinese: 林辰翰
     id: U9833003
     name: 林辰翰
     password: chen
-    rating: ~
+    rating: 92
   - Chinese: 賴育茹
     id: U9833004
     name: 賴育茹
@@ -127,32 +133,32 @@ member:
     id: U9833005
     name: 林冠吟
     password: guan
-    rating: ~
+    rating: 100
   - Chinese: 蘇宸誼
     id: U9833007
     name: 蘇宸誼
     password: chen
-    rating: ~
+    rating: 102
   - Chinese: 蔡明翰
     id: U9833009
     name: 蔡明翰
     password: ming
-    rating: ~
+    rating: 82
   - Chinese: 陳曉嫺
     id: U9833011
     name: 陳曉嫺
     password: xiao
-    rating: ~
+    rating: 102
   - Chinese: 李品潔
     id: U9833014
     name: 李品潔
     password: pin
-    rating: ~
+    rating: 110
   - Chinese: 王偉帆
     id: U9833015
     name: 王偉帆
     password: wei
-    rating: ~
+    rating: 90
   - Chinese: 簡宇旋
     id: U9833017
     name: 簡宇旋
@@ -162,7 +168,7 @@ member:
     id: U9833019
     name: 石佳艷
     password: jia
-    rating: ~
+    rating: 88
   - Chinese: 薛維德
     id: U9833020
     name: 薛維德
@@ -177,57 +183,57 @@ member:
     id: U9833023
     name: 連恩典
     password: en
-    rating: ~
+    rating: 90
   - Chinese: 曾楚竣
     id: U9833024
     name: 曾楚竣
     password: chu
-    rating: ~
+    rating: 110
   - Chinese: 李俞瑩
     id: U9833025
     name: 李俞瑩
     password: yu
-    rating: ~
+    rating: 92
   - Chinese: 吳婕妤
     id: U9833026
     name: 吳婕妤
     password: jie
-    rating: ~
+    rating: 124
   - Chinese: 陳美涵
     id: U9833030
     name: 陳美涵
     password: mei
-    rating: ~
+    rating: 86
   - Chinese: 劉俐伶
     id: U9833031
     name: 劉俐伶
     password: li
-    rating: ~
+    rating: 108
   - Chinese: 李宗憲
     id: U9833034
     name: 李宗憲
     password: zong
-    rating: ~
+    rating: 94
   - Chinese: 曾淑珍
     id: U9833035
     name: 曾淑珍
     password: shu
-    rating: ~
+    rating: 114
   - Chinese: 羅曼淇
     id: U9833037
     name: 羅曼淇
     password: man
-    rating: ~
+    rating: 96
   - Chinese: 林于心
     id: U9833038
     name: 林于心
     password: yu
-    rating: ~
+    rating: 122
   - Chinese: 羅文孝
     id: U9833039
     name: 羅文孝
     password: wen
-    rating: ~
+    rating: 96
   - Chinese: 邱柏誌
     id: U9833040
     name: 邱柏誌
@@ -237,42 +243,42 @@ member:
     id: U9833041
     name: 鄭貴騰
     password: gui
-    rating: ~
+    rating: 96
   - Chinese: 林瀚宇
     id: U9833043
     name: 林瀚宇
     password: han
-    rating: ~
+    rating: 84
   - Chinese: 何宗樺
     id: U9833044
     name: 何宗樺
     password: zong
-    rating: ~
+    rating: 84
   - Chinese: 張宥聖
     id: U9833045
     name: 張宥聖
     password: you
-    rating: ~
+    rating: 88
   - Chinese: 黃劭宇
     id: U9833047
     name: 黃劭宇
     password: shao
-    rating: ~
+    rating: 118
   - Chinese: 陳穎璇
     id: U9833048
     name: 陳穎璇
     password: ying
-    rating: ~
+    rating: 90
   - Chinese: 趙展睿
     id: U9833049
     name: 趙展睿
     password: rui
-    rating: ~
+    rating: 104
   - Chinese: 謝其儒
     id: U9833050
     name: 謝其儒
     password: qi
-    rating: ~
+    rating: 92
   - Chinese: 葛　妮
     id: U9833051
     name: 葛　妮
@@ -282,7 +288,7 @@ member:
     id: U9833052
     name: 謝佳憓
     password: jia
-    rating: ~
+    rating: 96
 out:
 absent:
   - None
