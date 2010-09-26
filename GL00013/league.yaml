@@ -3,6 +3,12 @@ id: GL00013
 league: 日語文共同學制虛擬班二乙
 field: 中級英文聽說訓練
 member:
+  - Chinese: 陳玟伶
+    name: Ling
+    password: wen
+    id: U9818017
+    rating: 900
+  
   - Chinese: 劉發州
     name: Frank
     password: fa
