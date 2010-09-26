@@ -15,10 +15,10 @@
   id: N9661723
   rating: 1400
 
-- Chinese: 謝孟庭
-  id: 9622240
-  name: 謝孟庭
-  password: meng
+- Chinese: 劉俊良
+  id: 9622212
+  name: 劉俊良
+  password: ~
   rating: 500
 - Chinese: 翁凱峯
   id: T9822129
@@ -40,10 +40,10 @@
   name: 李秉霖
   password: bing
   rating: 500
-- Chinese: 張聖豪
-  id: U9622048
-  name: 張聖豪
-  password: sheng
+- Chinese: 王柏鈞
+  id: U9615010
+  name: 王柏鈞
+  password: ~
   rating: 500
 - Chinese: 蔡宗祐
   id: U9633019
@@ -65,16 +65,6 @@
   name: 鄭仕元
   password: shi
   rating: 500
-- Chinese: 陳諭璿
-  id: U9733027
-  name: 陳諭璿
-  password: yu
-  rating: 500
-- Chinese: 許賀順
-  id: U9734014
-  name: 許賀順
-  password: he
-  rating: 500
 - Chinese: 郭家佑
   id: U9810015
   name: 郭家佑
@@ -88,12 +78,27 @@
 - Chinese: 何旻蓉
   id: U9818011
   name: 何旻蓉
+  password: ~
+  rating: 500
+- Chinese: 呂美慧
+  id: U9818022
+  name: 呂美慧
+  password: ~
+  rating: 500
+- Chinese: 楊宛林
+  id: U9818032
+  name: 楊宛林
   password: min
   rating: 500
 - Chinese: 曾莉雯
   id: U9818046
   name: 曾莉雯
   password: li
+  rating: 500
+- Chinese: 王邦晟
+  id: U9821121
+  name: 王邦晟
+  password: ~
   rating: 500
 - Chinese: 潘辰妮
   id: U9821142
@@ -110,8 +115,13 @@
   name: 顏資容
   password: zi
   rating: 500
-- Chinese: 鍾函芳
-  id: U9831041
-  name: 鍾函芳
-  password: han
+- Chinese: 黃聖華
+  id: U9831127
+  name: 黃聖華
+  password: ~
+  rating: 500
+- Chinese: 林國煒
+  id: U9922031
+  name: 林國煒
+  password: ~
   rating: 500
