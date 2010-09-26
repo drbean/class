@@ -1,8 +1,8 @@
-   9622240
-   謝孟庭
+   9622212
+   劉俊良
            [female.gif]          0000-00-00
    正式生
-   [1]9622240@smail.nuu.edu.tw
+   [1]9622212@smail.nuu.edu.tw
    T9822129
    翁凱峯
            [female.gif]          1991-07-26
@@ -23,11 +23,11 @@
            [female.gif]
    正式生
    [5]T9823041@smail.nuu.edu.tw
-   U9622048
-   張聖豪
+   U9615010
+   王柏鈞
            [female.gif]
    正式生
-   [6]U9622048@smail.nuu.edu.tw
+   [6]U9615010@smail.nuu.edu.tw
    U9633019
    蔡宗祐
            [female.gif]
@@ -48,53 +48,63 @@
            [female.gif]          1990-01-23
    正式生
    [10]U9723011@smail.nuu.edu.tw
-   U9733027
-   陳諭璿
-           [female.gif]
-   正式生
-   [11]U9733027@smail.nuu.edu.tw
-   U9734014
-   許賀順
-           [female.gif]          0000-00-00
-   正式生
-   [12]U9734014@smail.nuu.edu.tw
    U9810015
    郭家佑
            [female.gif]
    正式生
-   [13]U9810015@smail.nuu.edu.tw
+   [11]U9810015@smail.nuu.edu.tw
    U9818007
    許月馨
            [female.gif]
    正式生
-   [14]U9818007@smail.nuu.edu.tw
+   [12]U9818007@smail.nuu.edu.tw
    U9818011
    何旻蓉
            [female.gif]
    正式生
-   [15]U9818011@smail.nuu.edu.tw
+   [13]U9818011@smail.nuu.edu.tw
+   U9818022
+   呂美慧
+           [female.gif]
+   正式生
+   [14]U9818022@smail.nuu.edu.tw
+   U9818032
+   楊宛林
+           [female.gif]
+   正式生
+   [15]U9818032@smail.nuu.edu.tw
    U9818046
    曾莉雯
            [female.gif]
    正式生
    [16]U9818046@smail.nuu.edu.tw
+   U9821121
+   王邦晟
+           [female.gif]
+   正式生
+   [17]U9821121@smail.nuu.edu.tw
    U9821142
    潘辰妮
            [female.gif]
    正式生
-   [17]U9821142@smail.nuu.edu.tw
+   [18]U9821142@smail.nuu.edu.tw
    U9822004
    黃筠庭
            [female.gif]          1990-11-27
    正式生
-   [18]U9822004@smail.nuu.edu.tw
+   [19]U9822004@smail.nuu.edu.tw
    U9822019
    顏資容
            [female.gif]
    正式生
-   [19]U9822019@smail.nuu.edu.tw
-   U9831041
-   鍾函芳
-           [female.gif]          1991-07-20
+   [20]U9822019@smail.nuu.edu.tw
+   U9831127
+   黃聖華
+           [female.gif]
    正式生
-   [20]U9831041@smail.nuu.edu.tw
+   [21]U9831127@smail.nuu.edu.tw
+   U9922031
+   林國煒
+           [female.gif]
+   正式生
+   [22]U9922031@smail.nuu.edu.tw
