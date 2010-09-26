@@ -3,10 +3,26 @@ id: GL00013
 league: 日語文共同學制虛擬班二乙
 field: 中級英文聽說訓練
 member:
-  - Chinese: 謝孟庭
-    id: 9622240
-    name: 謝孟庭
-    password: meng
+  - Chinese: 劉發州
+    name: Frank
+    password: fa
+    id: N9561766
+    rating: 1500
+  - Chinese: 邱靖棋
+    name: Kiki
+    password: jing
+    id: N9661747
+    rating: 1200
+  - Chinese: 謝文秀
+    name: Jessica
+    password: wen
+    id: N9661723
+    rating: 1400
+  
+  - Chinese: 劉俊良
+    id: 9622212
+    name: Ken
+    password: jun
     rating: 500
   - Chinese: 翁凱峯
     id: T9822129
@@ -15,34 +31,34 @@ member:
     rating: 500
   - Chinese: 沈喬逸
     id: T9822147
-    name: 沈喬逸
+    name: Sam
     password: qiao
-    rating: 500
+    rating: 900
   - Chinese: 陳奕佃
     id: T9822149
-    name: 陳奕佃
+    name: Keny
     password: yi
-    rating: 500
+    rating: 1000
   - Chinese: 李秉霖
     id: T9823041
-    name: 李秉霖
+    name: Larry
     password: bing
     rating: 500
-  - Chinese: 張聖豪
-    id: U9622048
-    name: 張聖豪
-    password: sheng
+  - Chinese: 王柏鈞
+    id: U9615010
+    name: 王柏鈞
+    password: bo
     rating: 500
   - Chinese: 蔡宗祐
     id: U9633019
-    name: 蔡宗祐
+    name: Kerwin
     password: zong
-    rating: 500
+    rating: 1000
   - Chinese: 金詣耘
     id: U9633052
-    name: 金詣耘
+    name: Eva
     password: yi
-    rating: 500
+    rating: 1000
   - Chinese: 李孟彥
     id: U9722022
     name: 李孟彥
@@ -50,18 +66,8 @@ member:
     rating: 500
   - Chinese: 鄭仕元
     id: U9723011
-    name: 鄭仕元
+    name: Kirk
     password: shi
-    rating: 500
-  - Chinese: 陳諭璿
-    id: U9733027
-    name: 陳諭璿
-    password: yu
-    rating: 500
-  - Chinese: 許賀順
-    id: U9734014
-    name: 許賀順
-    password: he
     rating: 500
   - Chinese: 郭家佑
     id: U9810015
@@ -70,38 +76,58 @@ member:
     rating: 500
   - Chinese: 許月馨
     id: U9818007
-    name: 許月馨
+    name: Emma
     password: yue
     rating: 500
   - Chinese: 何旻蓉
     id: U9818011
-    name: 何旻蓉
+    name: Stephanie
+    password: yu
+    rating: 500
+  - Chinese: 呂美慧
+    id: U9818022
+    name: 呂美慧
+    password: mei
+    rating: 500
+  - Chinese: 楊宛林
+    id: U9818032
+    name: 楊宛林
     password: min
     rating: 500
   - Chinese: 曾莉雯
     id: U9818046
-    name: 曾莉雯
+    name: Lily
     password: li
+    rating: 500
+  - Chinese: 王邦晟
+    id: U9821121
+    name: 王邦晟
+    password: bang
     rating: 500
   - Chinese: 潘辰妮
     id: U9821142
-    name: 潘辰妮
+    name: Ivory
     password: chen
     rating: 500
   - Chinese: 黃筠庭
     id: U9822004
-    name: 黃筠庭
+    name: Kate
     password: yun
     rating: 500
   - Chinese: 顏資容
     id: U9822019
-    name: 顏資容
+    name: Sarah
     password: zi
     rating: 500
-  - Chinese: 鍾函芳
-    id: U9831041
-    name: 鍾函芳
-    password: han
+  - Chinese: 黃聖華
+    id: U9831127
+    name: 黃聖華
+    password: sheng
+    rating: 500
+  - Chinese: 林國煒
+    id: U9922031
+    name: 林國煒
+    password: guo
     rating: 500
 out:
 absent:
