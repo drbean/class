@@ -1,0 +1,33 @@
+---
+round: 1
+week: 1
+absent:
+text: 
+activity:
+  drbean:
+    1:
+      -
+         White: N9561766
+         Black: U9723011
+      -
+         White: T9822149
+         Black: T9823041
+      -
+         White: T9822147
+         Black: U9633019
+      -
+         White: U9818011
+         Black: U9821142
+      -
+         White: U9822019
+         Black: U9818017
+      -
+         White: N9661723
+         Black: U9818046
+      -
+         White: N9661747
+         Black: U9633052
+      -
+         White: U9818007
+         Black: U9822004
+bye: 9622212
