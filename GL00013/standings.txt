@@ -1,0 +1,33 @@
+GL00013 League
+GL00013 Tournament Standings
+Player                  Rounds
+Number	Name	Rating	1		Score
+1 	顏資容 	500 	White,11,Win 	5
+2 	沈喬逸 	500 	White,17,Win 	5
+3 	許月馨 	500 	White,13,Win 	5
+4 	李秉霖 	500 	Black,15,Win 	5
+5 	Jessica 	1400 	White,14,Win 	5
+6 	劉俊良 	500 	Bye,Bye,Bye 	5
+7 	潘辰妮 	500 	Black,16,Win 	5
+8 	金詣耘 	500 	Black,12,Win 	5
+9 	Frank 	1500 	White,10,Draw 	4
+10 	鄭仕元 	500 	Black,9,Draw 	4
+11 	Ling 	900 	Black,1,Loss 	3
+12 	Kiki 	1200 	White,8,Loss 	3
+13 	黃筠庭 	500 	Black,3,Loss 	3
+14 	曾莉雯 	500 	Black,5,Loss 	3
+15 	陳奕佃 	500 	White,4,Loss 	3
+16 	何旻蓉 	500 	White,7,Loss 	3
+17 	蔡宗祐 	500 	Black,2,Loss 	3
+18 	郭家佑 	500 	,, 	0
+19 	王邦晟 	500 	,, 	0
+20 	林國煒 	500 	,, 	0
+21 	王柏鈞 	500 	,, 	0
+22 	楊宛林 	500 	,, 	0
+23 	翁凱峯 	500 	,, 	0
+24 	李孟彥 	500 	,, 	0
+25 	呂美慧 	500 	,, 	0
+26 	黃聖華 	500 	,, 	0
+5: Win, 3: Loss, 4: Draw, 1: Late, 0: Forfeit
+Quiz
+Copyright (c) your name goes here
