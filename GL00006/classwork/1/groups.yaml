@@ -1,26 +1,34 @@
 ---
 Black:
   - Irin
-  - 黃世賓
-  - Fang-Yi
-  - Chad
-Gray:
-  - Allen
-  - 魏子鈞
+  - James
   - Peter
   - May
-Green:
-  - Lucas
-  - James
+Gray:
+  - Allen
+  - Cloud
   - Cindy
   - Sam
-Pink:
-  - Moto
-  - Cloud
+Green:
+  - Lucas
+  - Daisy
   - Emaily
   - Kenny
-Purple:
+Pink:
+  - Moto
   - Ken
-  - Daisy
   - Yu-chi
   - Lily
+Purple:
+  - Rita
+  - Fang-Yi
+  - ~
+  - Amy
+White:
+  - 魏子鈞
+  - 黃世賓
+  - 朱建豪
+  - Chad
+Yellow:
+  - ~
+  - Shanghao
