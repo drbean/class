@@ -4,6 +4,12 @@ field: 英文聽力及會話(一)
 id: 991CLA0023
 hw: /home/drbean/class/CLA0013/homework
 member:
+  - Chinese: 閒慧琦
+    name: Emily
+    password: hui
+    id: N9561765
+    rating: 1200
+  
   - Chinese: 曾淑珍
     id: U9833035
     name: Jane
