@@ -3,6 +3,13 @@ id: GL00006
 league: 日語文共同學制虛擬班二甲
 field: 中級英文聽說訓練
 member:
+  - Chinese: 白芳瑜
+    name: Amy
+    password: fang
+    id: V9741064
+    rating: 1100
+
+
   - Chinese: 胡語倫
     name: Allen
     password: yu
@@ -55,22 +62,7 @@ member:
     id: T9722119
     name: James
     password: jian
-    rating: 500
-  - Chinese: 魏子鈞
-    id: T9722145
-    name: 魏子鈞
-    password: zi
-    rating: 500
-  - Chinese: 黃世賓
-    id: U9611002
-    name: 黃世賓
-    password: shi
-    rating: 500
-  - Chinese: 朱建豪
-    id: U9611024
-    name: 朱建豪
-    password: jian
-    rating: 500
+    rating: 800
   - Chinese: 詹芳宜
     id: U9714104
     name: Fang-Yi
@@ -111,6 +103,22 @@ member:
     name: May
     password: yu
     rating: 1000
+out:
+  - Chinese: 魏子鈞
+    id: T9722145
+    name: 魏子鈞
+    password: zi
+    rating: 500
+  - Chinese: 黃世賓
+    id: U9611002
+    name: 黃世賓
+    password: shi
+    rating: 500
+  - Chinese: 朱建豪
+    id: U9611024
+    name: 朱建豪
+    password: jian
+    rating: 500
   - Chinese: 邱毅青
     id: U9824047
     name: Chad
@@ -122,7 +130,6 @@ member:
     password: shang
     rating: 1800
 
-out:
 absent:
   - None
 groupwork: classwork
