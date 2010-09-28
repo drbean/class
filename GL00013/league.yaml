@@ -3,10 +3,16 @@ id: GL00013
 league: 日語文共同學制虛擬班二乙
 field: 中級英文聽說訓練
 member:
-  - Chinese: 陳玟伶
-    name: Ling
-    password: wen
-    id: U9818017
+  
+  - Chinese: 柯宛儂 
+    name: Amy
+    password: wan
+    id: U9622089
+    rating: 900
+  - Chinese: 謝孟庭
+    name: Ryan
+    password: meng
+    id: 9622040
     rating: 900
   
   - Chinese: 閒慧琦
@@ -42,14 +48,9 @@ member:
     rating: 900
   - Chinese: 陳奕佃
     id: T9822149
-    name: Keny
+    name: Kenny
     password: yi
     rating: 1000
-  - Chinese: 李秉霖
-    id: T9823041
-    name: Larry
-    password: bing
-    rating: 500
   - Chinese: 蔡宗祐
     id: U9633019
     name: Kerwin
@@ -60,20 +61,10 @@ member:
     name: Eva
     password: yi
     rating: 1000
-  - Chinese: 鄭仕元
-    id: U9723011
-    name: Kirk
-    password: shi
-    rating: 500
   - Chinese: 許月馨
     id: U9818007
     name: Emma
     password: yue
-    rating: 500
-  - Chinese: 何旻蓉
-    id: U9818011
-    name: Stephanie
-    password: yu
     rating: 500
   - Chinese: 曾莉雯
     id: U9818046
@@ -95,21 +86,47 @@ member:
     name: Sarah
     password: zi
     rating: 500
-
+  - Chinese: 黃聖華
+    id: U9831127
+    name: Alice
+    password: sheng
+    rating: 500
+  - Chinese: 李孟彥
+    id: U9722022
+    name: Mark
+    password: meng
+    rating: 500
   - Chinese: 翁凱峯
     id: T9822129
-    name: 翁凱峯
+    name: Kevin
     password: kai
     rating: 500
+
+out:
+  - Chinese: 何旻蓉
+    id: U9818011
+    name: Stephanie
+    password: yu
+    rating: 500
+  - Chinese: 鄭仕元
+    id: U9723011
+    name: Kirk
+    password: shi
+    rating: 500
+  - Chinese: 李秉霖
+    id: T9823041
+    name: Larry
+    password: bing
+    rating: 500
+  - Chinese: 陳玟伶
+    name: Ling
+    password: wen
+    id: U9818017
+    rating: 900
   - Chinese: 王柏鈞
     id: U9615010
     name: 王柏鈞
     password: bo
-    rating: 500
-  - Chinese: 李孟彥
-    id: U9722022
-    name: 李孟彥
-    password: meng
     rating: 500
   - Chinese: 郭家佑
     id: U9810015
@@ -131,17 +148,11 @@ member:
     name: 王邦晟
     password: bang
     rating: 500
-  - Chinese: 黃聖華
-    id: U9831127
-    name: 黃聖華
-    password: sheng
-    rating: 500
   - Chinese: 林國煒
     id: U9922031
     name: 林國煒
     password: guo
     rating: 500
-out:
 absent:
   - None
 groupwork: classwork
