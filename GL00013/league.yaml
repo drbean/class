@@ -95,7 +95,7 @@ member:
     name: Sarah
     password: zi
     rating: 500
-out:
+
   - Chinese: 翁凱峯
     id: T9822129
     name: 翁凱峯
@@ -141,6 +141,7 @@ out:
     name: 林國煒
     password: guo
     rating: 500
+out:
 absent:
   - None
 groupwork: classwork
