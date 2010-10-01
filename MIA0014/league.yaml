@@ -8,11 +8,6 @@ member:
     password: bing
     id: T9823041
     rating: 0
-  - Chinese: 林昱伶
-    id: T9833041
-    name: YuLing
-    password: yu
-    rating: 104
   
   - Chinese: 林政修
     name: Tsun-show
@@ -296,6 +291,11 @@ member:
     password: jia
     rating: 96
 out:
+  - Chinese: 林昱伶
+    id: T9833041
+    name: YuLing
+    password: yu
+    rating: 104
 absent:
   - None
 approach: CompComp
