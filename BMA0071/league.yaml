@@ -51,7 +51,7 @@ member:
     rating: 120
   - Chinese: 方承中
     id: U9831122
-    name: Jerry
+    name: Jerry2
     password: cheng
     rating: 118
   - Chinese: 陳君翰
@@ -204,14 +204,14 @@ member:
     name: Judy
     password: xiu
     rating: 98
-  - Chinese: 邱怕婷
+  - Chinese: 邱怡婷
     id: T9831003
     name: Bu-Dien
-    password: pa
+    password: yi
     rating: 98
   - Chinese: 林吟諴
     id: U9831102
-    name: Jerry
+    name: Jerry1
     password: yin
     rating: 96
   - Chinese: 林奕瑄
