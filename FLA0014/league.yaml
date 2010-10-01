@@ -265,7 +265,7 @@ member:
     name: Sue
     password: wen
     rating: 500
-out:
+
   - Chinese: 彭明俊
     id: V9841016
     name: 彭明俊
@@ -280,6 +280,7 @@ out:
     id: V9841021
     name: 陳勇安
     password: yong
+    rating: 500
   - Chinese: 賴心怡
     id: V9841023
     name: Apple
@@ -290,6 +291,7 @@ out:
     name: Miranda
     password: wen
     rating: 1200
+out:
 absent:
 exams: exams
 examMax: 5
