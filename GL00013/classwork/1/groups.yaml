@@ -1,36 +1,39 @@
 ---
 Black:
   - Frank
-  - Larry
-  - Kirk
+  - Sam
+  - Kevin
   - Ivory
 Gray:
   - Jessica
-  - Keny
+  - Kenny
   - Emma
   - Lily
 Green:
   - Kiki
-  - Sam
-  - Stephanie
-  - Ling
+  - ~
+  - Alice
+  - Mark
 Pink:
   - Emily
   - Kerwin
   - Kate
+  - Amy
 Purple:
   - Ken
   - Eva
   - Sarah
+  - Ryan
 White:
-  - 翁凱峯
-  - 王柏鈞
-  - 李孟彥
-  - 郭家佑
+  - Larry
+  - Kirk
+  - Ling
+  - Stephanie
 Yellow:
+  - 王柏鈞
+  - 郭家佑
   - 呂美慧
   - 楊宛林
-  - 王邦晟
-  - 黃聖華
 Red:
   - 林國煒
+  - 王邦晟
