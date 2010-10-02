@@ -4,6 +4,12 @@ league: 日語文共同學制虛擬班二乙
 field: 中級英文聽說訓練
 member:
   
+  - Chinese: 陳彥叡
+    name: Edison
+    password: yan
+    id: 9622299
+    rating: 1100
+  
   - Chinese: 柯宛儂 
     name: Amy
     password: wan
