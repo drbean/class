@@ -8,8 +8,33 @@ member:
     password: fang
     id: V9741064
     rating: 1100
+  - Chinese: 饒城芳
+    name: Hendy
+    password: cheng
+    id: U9824053
+    rating: 1000
+  - Chinese: 郭柏慶
+    name: Jim
+    password: bo
+    id: U9614044
+    rating: 500
+  - Chinese: 王葦琳
+    name: Kate
+    password: wei
+    id: U9714105
+    rating: 500
+  - Chinese: 王政傑
+    name: Jay
+    password: zheng
+    id: T9722102
+    rating: 500
 
 
+  - Chinese: 劉軒齊
+    name: Steven
+    password: xuan
+    id: N9661714
+    rating: 950
   - Chinese: 胡語倫
     name: Allen
     password: yu
@@ -103,6 +128,17 @@ member:
     name: May
     password: yu
     rating: 1000
+  - Chinese: 邱毅青
+    id: U9824047
+    name: Chad
+    password: yi
+    rating: 1500
+  - Chinese: 朱建豪
+    id: U9611024
+    name: John
+    password: jian
+    rating: 500
+
 out:
   - Chinese: 魏子鈞
     id: T9722145
@@ -114,16 +150,6 @@ out:
     name: 黃世賓
     password: shi
     rating: 500
-  - Chinese: 朱建豪
-    id: U9611024
-    name: 朱建豪
-    password: jian
-    rating: 500
-  - Chinese: 邱毅青
-    id: U9824047
-    name: Chad
-    password: yi
-    rating: 1500
   - Chinese: 蕭上好
     id: U9824054
     name: Shanghao
