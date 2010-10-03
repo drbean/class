@@ -139,7 +139,6 @@ member:
     password: jian
     rating: 500
 
-out:
   - Chinese: 魏子鈞
     id: T9722145
     name: 魏子鈞
@@ -156,6 +155,7 @@ out:
     password: shang
     rating: 1800
 
+out:
 absent:
   - None
 groupwork: classwork
