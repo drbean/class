@@ -3,8 +3,13 @@ id: FLA0014
 field: 英語會話(一)
 league: 夜應外大學二甲
 member:
+  - Chinese: 劉芬芳
+    name: Shophia
+    password: fen
+    id: N9661760
+    rating: 1000
   - Chinese: 劉芸玥
-    name: 劉芸玥
+    name: Christian
     password: yun
     id: E9841002
     rating: 500
