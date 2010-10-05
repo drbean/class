@@ -1,0 +1,28 @@
+CLA0023 League
+CLA0023 Tournament Standings
+Player			Rounds
+Number	Name	Rating	1	2	Score
+1 	Paul 	500 	White,8,Win 	White,6,Win 	10
+2 	Parry 	500 	White,7,Draw 	White,7,Win 	9
+3 	Mimo 	500 	Bye,Bye,Bye 	White,5,Draw 	9
+4 	Amy 	512 	Black,19,Win 	White,8,Draw 	9
+5 	Vicky 	500 	Black,16,Draw 	Black,3,Draw 	8
+6 	Wesley 	500 	White,9,Win 	Black,1,Loss 	8
+7 	Charolotte 	500 	Black,2,Draw 	Black,2,Loss 	7
+8 	O'Neal 	488 	Black,1,Loss 	Black,4,Draw 	7
+9 	Annie 	488 	Black,6,Loss 	Black,10,Draw 	7
+10 	Ketty 	497 	Black,12,Loss 	White,9,Draw 	7
+11 	Emily 	1200 	,, 	Black,18,Win 	5
+12 	Jane 	1490 	White,10,Win 	,, 	5
+13 	Berny 	500 	Black,15,Draw 	,, 	4
+14 	Leo 	500 	Black,17,Draw 	,, 	4
+15 	Lisa 	500 	White,13,Draw 	,, 	4
+16 	Lynn 	500 	White,5,Draw 	,, 	4
+17 	Frank 	500 	White,14,Draw 	,, 	4
+18 	鍾佳蓁 	500 	,, 	White,11,Loss 	3
+19 	Tiffany 	500 	White,4,Loss 	,, 	3
+20 	Fish 	500 	,, 	,, 	0
+21 	沈　揚 	500 	,, 	,, 	0
+22 	Peko 	500 	,, 	,, 	0
+23 	郭惠霓 	500 	,, 	,, 	0
+5: Win, 3: Loss, 4: Draw, 1: Late, 0: Forfeit CLA0023 League
