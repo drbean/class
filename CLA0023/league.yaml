@@ -30,11 +30,6 @@ member:
     name: Peko
     password: mei
     rating: 500
-  - Chinese: 郭庭妤
-    id: U9843003
-    name: Tiffany
-    password: ting
-    rating: 500
   - Chinese: 李炳榮
     id: U9843004
     name: Wesley
@@ -85,16 +80,6 @@ member:
     name: Parry
     password: po
     rating: 500
-  - Chinese: 郭惠霓
-    id: U9843032
-    name: 郭惠霓
-    password: hui
-    rating: 500
-  - Chinese: 陳柏妮
-    id: U9843038
-    name: Berny
-    password: bo
-    rating: 500
   - Chinese: 郭珮雯
     id: U9843039
     name: Charolotte
@@ -110,17 +95,32 @@ member:
     name: 鍾佳蓁
     password: jia
     rating: 500
-  - Chinese: 陳妍伃
-    id: U9843046
-    name: Fish
-    password: yan
-    rating: 500
   - Chinese: 古繡鳳
     id: U9843048
     name: Lisa
     password: xiu
     rating: 500
 out:
+  - Chinese: 陳妍伃
+    id: U9843046
+    name: Fish
+    password: yan
+    rating: 500
+  - Chinese: 郭庭妤
+    id: U9843003
+    name: Tiffany
+    password: ting
+    rating: 500
+  - Chinese: 郭惠霓
+    id: U9843032
+    name: 郭惠霓
+    password: hui
+    rating: 500
+  - Chinese: 陳柏妮
+    id: U9843038
+    name: Berny
+    password: bo
+    rating: 500
 absent:
   - None
 groupwork: classwork
