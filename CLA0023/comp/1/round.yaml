@@ -1,0 +1,34 @@
+---
+round: 1
+week: 1
+absent:
+text: 
+activity:
+  drbean:
+    1:
+      -
+         White: U9843028
+         Black: U9843023
+      -
+         White: U9843031
+         Black: U9843039
+      -
+         White: U9843003
+         Black: U9843010
+      -
+         White: U9843048
+         Black: U9843038
+      -
+         White: U9834038
+         Black: U9843025
+      -
+         White: U9833035
+         Black: U9843026
+      -
+         White: U9843004
+         Black: U9843005
+      -
+         White: U9843030
+         Black: U9843040
+bye: U9843021
+      
