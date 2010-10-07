@@ -14,11 +14,6 @@ member:
     id: N9561765
     rating: 1000
   
-  - Chinese: Alyssa
-    name: Alyssa
-    password: Al
-    id: E9841001
-    rating: 1000
   - Chinese: 羅庭安
     name: "Ting'an"
     password: ting
@@ -155,11 +150,6 @@ member:
     name: Chelsea
     password: ru
     rating: 1203
-  - Chinese: 黃綠蘋
-    id: N9661754
-    name: Liu-ping
-    password: lu
-    rating: 500
   - Chinese: 徐如誼
     id: N9661761
     name: Nana
@@ -346,6 +336,16 @@ member:
     password: zhi
     rating: 500
 out:
+  - Chinese: 黃綠蘋
+    id: N9661754
+    name: Liu-ping
+    password: lu
+    rating: 500
+  - Chinese: Alyssa
+    name: Alyssa
+    password: Al
+    id: E9841001
+    rating: 1000
   - Chinese: 黃國恩
     id: V9741004
     name: Ryan
