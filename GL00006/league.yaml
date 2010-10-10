@@ -144,6 +144,13 @@ member:
     password: jian
     rating: 500
 
+  - Chinese: 蕭上好
+    id: U9824054
+    name: Shanghao
+    password: shang
+    rating: 1800
+
+out:
   - Chinese: 魏子鈞
     id: T9722145
     name: 魏子鈞
@@ -154,13 +161,6 @@ member:
     name: 黃世賓
     password: shi
     rating: 500
-  - Chinese: 蕭上好
-    id: U9824054
-    name: Shanghao
-    password: shang
-    rating: 1800
-
-out:
 absent:
   - None
 groupwork: classwork
