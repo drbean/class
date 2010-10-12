@@ -3,12 +3,87 @@ id: GL00013
 league: 日語文共同學制虛擬班二乙
 field: 中級英文聽說訓練
 member:
-  
-  - Chinese: 陳彥叡
-    name: Edison
-    password: yan
-    id: 9622299
-    rating: 1100
+  - Chinese: 鄭仕元
+    id: U9723011
+    name: Kirk
+    password: shi
+    rating: 500
+  - Chinese: 劉發州
+    id: N9561766
+    name: Frank
+    password: fa
+    rating: 1500
+  - Chinese: 李秉霖
+    id: T9823041
+    name: Larry
+    password: bing
+    rating: 500
+  - Chinese: 陳奕佃
+    id: T9822149
+    name: Kenny
+    password: yi
+    rating: 1000
+  - Chinese: 蔡宗祐
+    id: U9633019
+    name: Kerwin
+    password: zong
+    rating: 1000
+  - Chinese: 沈喬逸
+    id: T9822147
+    name: Sam
+    password: qiao
+    rating: 900
+  - Chinese: 潘辰妮
+    id: U9821142
+    name: Ivory
+    password: chen
+    rating: 500
+  - Chinese: 何旻蓉
+    id: U9818011
+    name: Stephanie
+    password: yu
+    rating: 500
+  - Chinese: 陳玟伶
+    id: U9818017
+    name: Ling
+    password: wen
+    rating: 900
+  - Chinese: 顏資容
+    id: U9822019
+    name: Sarah
+    password: zi
+    rating: 500
+  - Chinese: 曾莉雯
+    id: U9818046
+    name: Lily
+    password: li
+    rating: 500
+  - Chinese: 謝文秀
+    id: N9661723
+    name: Jessica
+    password: wen
+    rating: 1400
+  - Chinese: 金詣耘
+    id: U9633052
+    name: Eva
+    password: yi
+    rating: 1000
+  - Chinese: 邱靖棋
+    id: N9661747
+    name: Kiki
+    password: jing
+    rating: 1200
+  - Chinese: 黃筠庭
+    id: U9822004
+    name: Kate
+    password: yun
+    rating: 500
+  - Chinese: 許月馨
+    id: U9818007
+    name: Emma
+    password: yue
+    rating: 500
+pool:
   
   - Chinese: 柯宛儂 
     name: Amy
@@ -108,6 +183,12 @@ member:
     password: kai
     rating: 500
 
+  - Chinese: 陳彥叡
+    name: Edison
+    password: yan
+    id: 9622299
+    rating: 1100
+  
   - Chinese: 王柏鈞
     id: U9615010
     name: Jerry
@@ -128,7 +209,6 @@ member:
     name: Larry
     password: bing
     rating: 500
-out:
   - Chinese: 鄭仕元
     id: U9723011
     name: Kirk
