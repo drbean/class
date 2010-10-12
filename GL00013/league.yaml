@@ -8,6 +8,16 @@ member:
     name: Ken
     password: jun
     rating: 500
+  - Chinese: 謝孟庭
+    id: 9622240
+    name: Ryan
+    password: meng
+    rating: 900
+  - Chinese: 閒慧琦
+    id: N9561765
+    name: Emily
+    password: hui
+    rating: 1200
   - Chinese: 劉發州
     id: N9561766
     name: Frank
@@ -23,6 +33,11 @@ member:
     name: Kiki
     password: jing
     rating: 1200
+  - Chinese: 翁凱峯
+    id: T9822129
+    name: Kevin
+    password: kai
+    rating: 500
   - Chinese: 沈喬逸
     id: T9822147
     name: Sam
@@ -33,11 +48,11 @@ member:
     name: Kenny
     password: yi
     rating: 1000
-  - Chinese: 李秉霖
-    id: T9823041
-    name: Larry
-    password: bing
-    rating: 500
+  - Chinese: 柯宛儂
+    id: U9622089
+    name: Amy
+    password: wan
+    rating: 900
   - Chinese: 蔡宗祐
     id: U9633019
     name: Kerwin
@@ -48,26 +63,16 @@ member:
     name: Eva
     password: yi
     rating: 1000
-  - Chinese: 鄭仕元
-    id: U9723011
-    name: Kirk
-    password: shi
+  - Chinese: 李孟彥
+    id: U9722022
+    name: Mark
+    password: meng
     rating: 500
   - Chinese: 許月馨
     id: U9818007
     name: Emma
     password: yue
     rating: 500
-  - Chinese: 何旻蓉
-    id: U9818011
-    name: Stephanie
-    password: yu
-    rating: 500
-  - Chinese: 陳玟伶
-    id: U9818017
-    name: Ling
-    password: wen
-    rating: 900
   - Chinese: 曾莉雯
     id: U9818046
     name: Lily
@@ -88,7 +93,12 @@ member:
     name: Sarah
     password: zi
     rating: 500
-
+  - Chinese: 黃聖華
+    id: U9831127
+    name: Alice
+    password: sheng
+    rating: 500
+  
 pool:
   
   - Chinese: 柯宛儂 
