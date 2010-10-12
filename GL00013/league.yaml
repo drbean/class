@@ -63,35 +63,10 @@ member:
     name: Emma
     password: yue
     rating: 500
-  - Chinese: 沈喬逸
-    id: T9822147
-    name: Sam
-    password: qiao
-    rating: 900
-  - Chinese: 劉發州
-    id: N9561766
-    name: Frank
-    password: fa
-    rating: 1500
-  - Chinese: 黃聖華
-    id: U9831127
-    name: Alice
-    password: sheng
-    rating: 500
-  - Chinese: 李孟彥
-    id: U9722022
-    name: Mark
-    password: meng
-    rating: 500
-  - Chinese: 潘辰妮
-    id: U9821142
-    name: Ivory
-    password: chen
-    rating: 500
-  - Chinese: 翁凱峯
-    id: T9822129
-    name: Kevin
-    password: kai
+  - Chinese: 劉俊良
+    id: 9622212
+    name: Ken
+    password: jun
     rating: 500
 
 pool:
