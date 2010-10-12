@@ -108,32 +108,37 @@ member:
     password: kai
     rating: 500
 
-out:
+  - Chinese: 王柏鈞
+    id: U9615010
+    name: Jerry
+    password: bo
+    rating: 500
+  - Chinese: 林國煒
+    id: U9922031
+    name: David
+    password: guo
+    rating: 500
   - Chinese: 何旻蓉
     id: U9818011
     name: Stephanie
     password: yu
-    rating: 500
-  - Chinese: 鄭仕元
-    id: U9723011
-    name: Kirk
-    password: shi
     rating: 500
   - Chinese: 李秉霖
     id: T9823041
     name: Larry
     password: bing
     rating: 500
+out:
+  - Chinese: 鄭仕元
+    id: U9723011
+    name: Kirk
+    password: shi
+    rating: 500
   - Chinese: 陳玟伶
     name: Ling
     password: wen
     id: U9818017
     rating: 900
-  - Chinese: 王柏鈞
-    id: U9615010
-    name: 王柏鈞
-    password: bo
-    rating: 500
   - Chinese: 郭家佑
     id: U9810015
     name: 郭家佑
@@ -153,11 +158,6 @@ out:
     id: U9821121
     name: 王邦晟
     password: bang
-    rating: 500
-  - Chinese: 林國煒
-    id: U9922031
-    name: 林國煒
-    password: guo
     rating: 500
 absent:
   - None
