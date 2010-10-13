@@ -23,11 +23,6 @@ member:
     name: HanPing
     password: han
     rating: 94
-  - Chinese: 楊耀鈞
-    id: T9833014
-    name: YaoJun
-    password: yao
-    rating: 94
   - Chinese: 劉卉琳
     id: T9833025
     name: HuiLin
@@ -68,11 +63,6 @@ member:
     name: Ya-syuan
     password: ya
     rating: 82
-  - Chinese: 林昱伶
-    id: T9833041
-    name: YuLing
-    password: yu
-    rating: 104
   - Chinese: 廖曉葳
     id: T9833043
     name: XiaoWei
@@ -93,11 +83,6 @@ member:
     name: XiaoRou
     password: xiao
     rating: 100
-  - Chinese: 蔡承運
-    id: U9733013
-    name: Jeter
-    password: cheng
-    rating: 84
   - Chinese: 鄭雅云
     id: U9831107
     name: YaYun
@@ -183,6 +168,11 @@ member:
     name: Hanna
     password: mei
     rating: 86
+  - Chinese: 劉俐伶
+    id: U9833031
+    name: LiLing
+    password: li
+    rating: 108
   - Chinese: 李宗憲
     id: U9833034
     name: Tim
@@ -193,6 +183,11 @@ member:
     name: Jane
     password: shu
     rating: 114
+  - Chinese: 羅曼淇
+    id: U9833037
+    name: ManQi
+    password: man
+    rating: 96
   - Chinese: 林于心
     id: U9833038
     name: YuXin
@@ -253,7 +248,7 @@ member:
     name: Flora
     password: jia
     rating: 96
-
+  
 pool:
   - Chinese: 李秉霖
     name: Ping-Lin
