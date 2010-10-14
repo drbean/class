@@ -1,0 +1,80 @@
+---
+round: 3
+week: 4
+absent:
+text: 
+activity:
+  candidate:
+    0:
+       -
+          White: T9833043
+          Black: U9833020
+       -
+          White: U9833048
+          Black: U9833035
+       -
+          White: U9833034
+          Black: T9833045
+       -
+          White: U9833040
+          Black: T9833035
+       -
+          White: T9833050
+          Black: U9833030
+       -
+          White: U9833050
+          Black: T9833009
+       -
+          White: U9733013
+          Black: U9833026
+       -
+          White: U9833005
+          Black: U9833019
+       -
+          White: T9833032
+          Black: U9833041
+       -
+          White: U9833007
+          Black: T9833006
+       -
+          White: U9833009
+          Black: U9833015
+       -
+          White: T9833013
+          Black: U9833049
+       -
+          White: T9833025
+          Black: U9833047
+       -
+          White: T9833027
+          Black: U9833045
+       -
+          White: U9833052
+          Black: U9833014
+       -
+          White: U9833031
+          Black: T9833046
+       -
+          White: U9833039
+          Black: T9833037
+       -
+          White: U9833023
+          Black: U9833002
+       -
+          White: U9833038
+          Black: T9833039
+       -
+          White: U9833024
+          Black: U9833001
+       -
+          White: T9833028
+          Black: U9833044
+       -
+          White: U9831107
+          Black: U9833025
+       -
+          White: T9833030
+          Black: U9833043
+       -
+          White: T9833004
+          Black: U9833011
