@@ -2,7 +2,7 @@
 id: 991MIA0014
 league: 日資管大學二甲
 field: 商用英文實務(一)
-member:
+active:
   - Chinese: 張思羽
     id: T9833004
     name: Si-Yu
@@ -83,6 +83,11 @@ member:
     name: XiaoRou
     password: xiao
     rating: 100
+  - Chinese: 蔡承運
+    id: U9733013
+    name: Jeter
+    password: cheng
+    rating: 84
   - Chinese: 鄭雅云
     id: U9831107
     name: YaYun
@@ -138,11 +143,6 @@ member:
     name: Victor
     password: wei
     rating: 126
-  - Chinese: 李燕豪
-    id: U9833022
-    name: Alexis
-    password: yan
-    rating: 140
   - Chinese: 連恩典
     id: U9833023
     name: Entian
@@ -183,11 +183,6 @@ member:
     name: Jane
     password: shu
     rating: 114
-  - Chinese: 羅曼淇
-    id: U9833037
-    name: ManQi
-    password: man
-    rating: 96
   - Chinese: 林于心
     id: U9833038
     name: YuXin
@@ -248,8 +243,8 @@ member:
     name: Flora
     password: jia
     rating: 96
-  
-pool:
+
+member:
   - Chinese: 李秉霖
     name: Ping-Lin
     password: bing
