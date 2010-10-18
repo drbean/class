@@ -43,11 +43,6 @@ member:
     name: Kenny
     password: yi
     rating: 1000
-  - Chinese: 王柏鈞
-    id: U9615010
-    name: Jerry
-    password: bo
-    rating: 500
   - Chinese: 柯宛儂
     id: U9622089
     name: Amy
@@ -93,12 +88,6 @@ member:
     name: Sarah
     password: zi
     rating: 500
-  - Chinese: 林國煒
-    id: U9922031
-    name: David
-    password: guo
-    rating: 500
-
 pool:
   
   - Chinese: 柯宛儂 
