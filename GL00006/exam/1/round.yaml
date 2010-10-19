@@ -1,0 +1,55 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 10
+pass: 6
+assistant:
+absent:
+  - Shanghao
+  - Amy
+  - Kate
+  - Sam
+text: /home/drbean/class/conversation/PlayLife/cards.yaml
+activity:
+  connell:
+    2:
+      - Black
+      - Green
+      - Gray
+  roxborough:
+    2:
+      - Pink
+      - Yellow
+      - White
+group:
+  Black:
+    - Irin
+    - James
+    - Peter
+    - May
+  Gray:
+    - Allen
+    - Cloud
+    - Cindy
+    - Rita
+  Green:
+    - Lucas
+    - Daisy
+    - Emaily
+    - Kenny
+  Pink:
+    - Moto
+    - Ken
+    - Yu-chi
+    - Lily
+  White:
+    - Fang-Yi
+    - Jay
+    - John
+    - Chad
+  Yellow:
+    - Steven
+    - Mico
+    - Hendy
+    - Jim
