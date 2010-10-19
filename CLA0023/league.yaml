@@ -3,32 +3,13 @@ league: 日華文大學二甲
 field: 英文聽力及會話(一)
 id: 991CLA0023
 member:
+# active:
   - Chinese: 閒慧琦
     name: Emily
     password: hui
     id: N9561765
     rating: 1200
   
-  - Chinese: 曾淑珍
-    id: U9833035
-    name: Jane
-    password: shu
-    rating: 1500
-  - Chinese: 廖福元
-    id: U9834038
-    name: Frank
-    password: fu
-    rating: 500
-  - Chinese: 沈　揚
-    id: U9843001
-    name: MegaPaul
-    password: yang
-    rating: 500
-  - Chinese: 周美迎
-    id: U9843002
-    name: Peko
-    password: mei
-    rating: 500
   - Chinese: 李炳榮
     id: U9843004
     name: Wesley
@@ -44,30 +25,15 @@ member:
     name: Amy
     password: jing
     rating: 500
-  - Chinese: 陳欣愉
-    id: U9843021
-    name: Mimo
-    password: xin
-    rating: 500
   - Chinese: 李恩柔
     id: U9843023
     name: Vicky
     password: en
     rating: 500
-  - Chinese: 林冠佑
-    id: U9843025
-    name: Leo
-    password: guan
-    rating: 500
   - Chinese: 黃閔瑜
     id: U9843026
     name: Ketty
     password: min
-    rating: 500
-  - Chinese: 蘇怡薇
-    id: U9843028
-    name: Lynn
-    password: yi
     rating: 500
   - Chinese: 蔡文賢
     id: U9843030
@@ -89,6 +55,39 @@ member:
     name: "O'Neal"
     password: sheng
     rating: 500
+
+pool:
+# member:
+  - Chinese: 廖福元
+    id: U9834038
+    name: Frank
+    password: fu
+    rating: 500
+  - Chinese: 沈　揚
+    id: U9843001
+    name: MegaPaul
+    password: yang
+    rating: 500
+  - Chinese: 周美迎
+    id: U9843002
+    name: Peko
+    password: mei
+    rating: 500
+  - Chinese: 陳欣愉
+    id: U9843021
+    name: Mimo
+    password: xin
+    rating: 500
+  - Chinese: 林冠佑
+    id: U9843025
+    name: Leo
+    password: guan
+    rating: 500
+  - Chinese: 蘇怡薇
+    id: U9843028
+    name: Lynn
+    password: yi
+    rating: 500
   - Chinese: 鍾佳蓁
     id: U9843042
     name: Hannah
@@ -99,7 +98,11 @@ member:
     name: Lisa
     password: xiu
     rating: 500
-out:
+  - Chinese: 曾淑珍
+    id: U9833035
+    name: Jane
+    password: shu
+    rating: 1500
   - Chinese: 陳妍伃
     id: U9843046
     name: Fish
@@ -120,6 +123,59 @@ out:
     name: Berny
     password: bo
     rating: 500
+
+  - Chinese: 閒慧琦
+    name: Emily
+    password: hui
+    id: N9561765
+    rating: 1200
+  
+  - Chinese: 李炳榮
+    id: U9843004
+    name: Wesley
+    password: bing
+    rating: 500
+  - Chinese: 蔡宜君
+    id: U9843005
+    name: Annie
+    password: yi
+    rating: 500
+  - Chinese: 張景淳
+    id: U9843010
+    name: Amy
+    password: jing
+    rating: 500
+  - Chinese: 李恩柔
+    id: U9843023
+    name: Vicky
+    password: en
+    rating: 500
+  - Chinese: 黃閔瑜
+    id: U9843026
+    name: Ketty
+    password: min
+    rating: 500
+  - Chinese: 蔡文賢
+    id: U9843030
+    name: Paul
+    password: wen
+    rating: 500
+  - Chinese: 許珀瑋
+    id: U9843031
+    name: Parry
+    password: po
+    rating: 500
+  - Chinese: 郭珮雯
+    id: U9843039
+    name: Charlotte
+    password: pei
+    rating: 500
+  - Chinese: 洪晟庭
+    id: U9843040
+    name: "O'Neal"
+    password: sheng
+    rating: 500
+
 absent:
   - None
 groupwork: classwork
