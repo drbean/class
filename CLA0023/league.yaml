@@ -127,11 +127,12 @@ groupwork: classwork
 compcomp: comp
 room: A705
 hw: homework
-exams: exams
+exams: exam
+jigsaw: exam
 hwMax: 2
 examMax: 4
 weights:
   homework: 15
   classwork: 70
   exams: 15
-approach: CompComp
+approach: Compcomp
