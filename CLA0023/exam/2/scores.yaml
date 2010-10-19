@@ -1,0 +1,24 @@
+---
+Chinese:
+  Black: 0
+  Green: 0
+  Pink: 0
+letters:
+  Black:
+    N9561765: 9
+    U9843023: 8
+    U9843030: 8
+    U9843040: 8
+    story: roxborough2
+  Green:
+    U9843023: 9
+    U9843010: 8
+    U9843031: 8
+    U9843039: 6
+    story: connell2
+  Pink:
+    U9843004: 7
+    U9843005: 8
+    U9843026: 8
+    U9843010: 4
+    story: connell2
