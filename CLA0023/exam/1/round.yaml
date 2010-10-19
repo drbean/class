@@ -1,0 +1,40 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 10
+pass: 6
+assistant:
+  - Amy
+  - O'Neal
+  - Paul
+  - Vicky
+absent:
+  - Mimo
+  - Lisa
+  - Hannah
+text: /home/drbean/class/conversation/PlayLife/cards.yaml
+activity:
+  connell:
+    2:
+      - Black
+  roxborough:
+    2:
+      - Green
+      - Pink
+group:
+  Black:
+    - Emily
+    - Vicky
+    - Paul
+    - O'Neal
+  Green:
+    - Paul
+    - Amy
+    - Parry
+    - Charolotte
+  Pink:
+    - Wesley
+    - Annie
+    - Ketty
+    - O'Neal
