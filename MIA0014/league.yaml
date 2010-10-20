@@ -2,6 +2,7 @@
 id: 991MIA0014
 league: 日資管大學二甲
 field: 商用英文實務(一)
+# member:
 active:
   - Chinese: 張思羽
     id: T9833004
@@ -143,6 +144,11 @@ active:
     name: Victor
     password: wei
     rating: 126
+  - Chinese: 李燕豪
+    id: U9833022
+    name: Alexis
+    password: yan
+    rating: 140
   - Chinese: 連恩典
     id: U9833023
     name: Entian
@@ -244,7 +250,8 @@ active:
     password: jia
     rating: 96
 
-member:
+# member:
+pool:
   - Chinese: 李秉霖
     name: Ping-Lin
     password: bing
