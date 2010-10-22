@@ -238,11 +238,6 @@ member:
     name: Wei
     password: wei
     rating: 500
-  - Chinese: 徐丞佑
-    id: V9841019
-    name: Eric
-    password: cheng
-    rating: 500
   - Chinese: 黃柏銘
     id: V9841020
     name: Stanley
@@ -420,6 +415,17 @@ member:
     password: wen
     rating: 500
 
+  - Chinese: 陳勇安
+    id: V9841021
+    name: Jason
+    password: yong
+    rating: 500
+  - Chinese: 黃文青
+    id: V9741002
+    name: Miranda
+    password: wen
+    rating: 1200
+out:
   - Chinese: 彭明俊
     id: V9841016
     name: Mike
@@ -430,22 +436,16 @@ member:
     name: Jerry
     password: mao
     rating: 500
-  - Chinese: 陳勇安
-    id: V9841021
-    name: Jason
-    password: yong
-    rating: 500
   - Chinese: 賴心怡
     id: V9841023
     name: Apple
     password: xin
     rating: 500
-  - Chinese: 黃文青
-    id: V9741002
-    name: Miranda
-    password: wen
-    rating: 1200
-out:
+  - Chinese: 徐丞佑
+    id: V9841019
+    name: Eric
+    password: cheng
+    rating: 500
 absent:
 exams: exam
 jigsaw: exam
