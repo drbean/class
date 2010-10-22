@@ -2,6 +2,155 @@
 id: FLA0014
 field: 英語會話(一)
 league: 夜應外大學二甲
+# member:
+active:
+  - Chinese: 劉芬芳
+    id: N9661760
+    name: Shophia
+    password: fen
+    rating: 1000
+  - Chinese: 黃文青
+    id: V9741002
+    name: Miranda
+    password: wen
+    rating: 1200
+  - Chinese: 羅曼
+    id: V9741065
+    name: Frances
+    password: man
+    rating: 500
+  - Chinese: 傅雅暉
+    id: V9841005
+    name: Fifi
+    password: ya
+    rating: 500
+  - Chinese: 賴薇如
+    id: V9841007
+    name: Laura
+    password: wei
+    rating: 500
+  - Chinese: 陳易駿
+    id: V9841014
+    name: Luke
+    password: yi
+    rating: 500
+  - Chinese: 賴名紘
+    id: V9841015
+    name: Shaq
+    password: ming
+    rating: 500
+  - Chinese: 李澤爵
+    id: V9841017
+    name: Jeffrey
+    password: ze
+    rating: 500
+  - Chinese: 吳千羽
+    id: V9841022
+    name: Hank
+    password: qian
+    rating: 500
+  - Chinese: 黃鳳玄
+    id: V9841024
+    name: Hannah
+    password: feng
+    rating: 500
+  - Chinese: 陳憶茹
+    id: V9841027
+    name: Yi-Ru
+    password: yi
+    rating: 500
+  - Chinese: 戴維儀
+    id: V9841030
+    name: Wei-Yi
+    password: wei
+    rating: 500
+  - Chinese: 黃裕惠
+    id: V9841031
+    name: Bass
+    password: yu
+    rating: 500
+  - Chinese: 郭芳萱
+    id: V9841033
+    name: Amber
+    password: fang
+    rating: 500
+  - Chinese: 林心如
+    id: V9841034
+    name: Rachel
+    password: xin
+    rating: 500
+  - Chinese: 林筠臻
+    id: V9841036
+    name: Jessica
+    password: yun
+    rating: 500
+  - Chinese: 邱湘凌
+    id: V9841037
+    name: Anne
+    password: xiang
+    rating: 500
+  - Chinese: 邱靜妤
+    id: V9841038
+    name: Julie
+    password: jing
+    rating: 500
+  - Chinese: 張筱青
+    id: V9841040
+    name: Joy
+    password: xiao
+    rating: 500
+  - Chinese: 鄧如金
+    id: V9841041
+    name: Rose
+    password: ru
+    rating: 500
+  - Chinese: 胡佳玟
+    id: V9841046
+    name: Lace
+    password: jia
+    rating: 500
+  - Chinese: 駱佳帷
+    id: V9841049
+    name: Joan
+    password: jia
+    rating: 500
+  - Chinese: 鄭宇筑
+    id: V9841050
+    name: Debbie
+    password: yu
+    rating: 500
+  - Chinese: 李奕蓂
+    id: V9841051
+    name: Ming
+    password: yi
+    rating: 500
+  - Chinese: 何青青
+    id: V9841054
+    name: Winne
+    password: qing
+    rating: 500
+  - Chinese: 吳芸帆
+    id: V9841058
+    name: Kitty
+    password: yun
+    rating: 500
+  - Chinese: 張玉青
+    id: V9841059
+    name: Yu-Ching
+    password: yu
+    rating: 500
+  - Chinese: 蘇文彥
+    id: V9841067
+    name: Sue
+    password: wen
+    rating: 500
+  - Chinese: 劉芸玥
+    id: V9999113
+    name: Christian
+    password: yun
+    rating: 500
+
+# pool:
 member:
   - Chinese: 劉芬芳
     name: Shophia
@@ -298,10 +447,11 @@ member:
     rating: 1200
 out:
 absent:
-exams: exams
+exams: exam
+jigsaw: exam
 examMax: 5
 hw: homework
-approach: CompComp
+approach: Compcomp
 groupwork: classwork
 compcomp: comp
 hwMax: 2
