@@ -6,7 +6,7 @@ league: 夜應外大學二甲
 active:
   - Chinese: 劉芬芳
     id: N9661760
-    name: Shophia
+    name: Sophia
     password: fen
     rating: 1000
   - Chinese: 黃文青
@@ -153,7 +153,7 @@ active:
 # pool:
 member:
   - Chinese: 劉芬芳
-    name: Shophia
+    name: Sophia
     password: fen
     id: N9661760
     rating: 1000
