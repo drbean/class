@@ -2,7 +2,8 @@
 id: GL00013
 league: 日語文共同學制虛擬班二乙
 field: 中級英文聽說訓練
-member:
+active:
+# member:
   - Chinese: 劉俊良
     id: 9622212
     name: Ken
@@ -88,7 +89,10 @@ member:
     name: Sarah
     password: zi
     rating: 500
+
+
 pool:
+# member:
   
   - Chinese: 柯宛儂 
     name: Amy
