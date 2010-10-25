@@ -284,10 +284,11 @@ absent:
 room: A706
 compcomp: comp
 groupwork: classwork
-exams: exams
+classMax: 2
+exams: exam
 hw: homework
 hwMax: 2
-examMax: 15
+examMax: 5
 weights:
   classwork: 20
   homework:  20
