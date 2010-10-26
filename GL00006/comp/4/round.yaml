@@ -1,0 +1,48 @@
+---
+round: 4
+week: 5
+absent:
+text: 
+activity:
+  connell:
+    1:
+      -
+         White: N9661712
+         Black: N9661728
+      -
+         White: U9714111
+         Black: U9714135
+      -
+         White: N9661717
+         Black: U9714141
+      -
+         White: N9661709
+         Black: N9661712
+      -
+         White: U9714127
+         Black: U9824047
+      -
+         White: U9714108
+         Black: U9611024
+      -
+         White: U9614044
+         Black: U9822020
+      -
+         White: N9661740
+         Black: N9532037
+      -
+         White: U9722142
+         Black: T9722102
+      -
+         White: N9661725
+         Black: N9661742
+      -
+         White: U9714104
+         Black: N9661709
+      -
+         White: N9661748
+         Black: N9661714
+      -
+         White: U9824053
+         Black: T9722119
+      
