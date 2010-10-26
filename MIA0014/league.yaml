@@ -250,13 +250,13 @@ active:
     password: jia
     rating: 96
 
-# member:
-pool:
+member:
+# pool:
   - Chinese: 李秉霖
     name: Ping-Lin
     password: bing
     id: T9823041
-    rating: 0
+    rating: 140
   
   - Chinese: 林政修
     name: Tsun-show
@@ -547,12 +547,13 @@ pool:
     rating: 104
 absent:
   - None
-approach: CompComp
+approach: Compcomp
 groupwork: classwork
 compcomp: comp
 hw: homework
 hwMax: 2
-exams: exams
+exams: exam
+jigsaw: exam
 examMax: 5
 weights:
   classwork: 60
