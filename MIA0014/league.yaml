@@ -44,6 +44,11 @@ active:
     name: MeiQing
     password: mei
     rating: 108
+  - Chinese: 洪志慶
+    id: T9833032
+    name: Ching
+    password: zhi
+    rating: 88
   - Chinese: 陳家祥
     id: T9833035
     name: JiaXiang
@@ -79,11 +84,6 @@ active:
     name: XiaoRou
     password: xiao
     rating: 100
-  - Chinese: 蔡承運
-    id: U9733013
-    name: Jeter
-    password: cheng
-    rating: 84
   - Chinese: 鄭雅云
     id: U9831107
     name: YaYun
