@@ -44,11 +44,6 @@ active:
     name: MeiQing
     password: mei
     rating: 108
-  - Chinese: 洪志慶
-    id: T9833032
-    name: Ching
-    password: zhi
-    rating: 88
   - Chinese: 陳家祥
     id: T9833035
     name: JiaXiang
@@ -104,6 +99,11 @@ active:
     name: Wade
     password: ren
     rating: 124
+  - Chinese: 林辰翰
+    id: U9833003
+    name: ChenHan
+    password: chen
+    rating: 92
   - Chinese: 林冠吟
     id: U9833005
     name: GuanYin
@@ -309,11 +309,6 @@ member:
     name: MeiQing
     password: mei
     rating: 108
-  - Chinese: 洪志慶
-    id: T9833032
-    name: Ching
-    password: zhi
-    rating: 88
   - Chinese: 陳家祥
     id: T9833035
     name: JiaXiang
@@ -469,11 +464,6 @@ member:
     name: Jane
     password: shu
     rating: 114
-  - Chinese: 羅曼淇
-    id: U9833037
-    name: ManQi
-    password: man
-    rating: 96
   - Chinese: 林于心
     id: U9833038
     name: YuXin
@@ -539,12 +529,24 @@ member:
     name: Flora
     password: jia
     rating: 96
-# out:
+  - Chinese: 洪志慶
+    id: T9833032
+    name: Ching
+    password: zhi
+    rating: 88
+  - Chinese: 羅曼淇
+    id: U9833037
+    name: ManQi
+    password: man
+    rating: 96
+
   - Chinese: 林昱伶
     id: T9833041
     name: YuLing
     password: yu
     rating: 104
+
+out:
 absent:
   - None
 approach: Compcomp
