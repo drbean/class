@@ -3,61 +3,6 @@ league: 日華文大學二甲
 field: 英文聽力及會話(一)
 id: 991CLA0023
 member:
-# active:
-  - Chinese: 閒慧琦
-    name: Emily
-    password: hui
-    id: N9561765
-    rating: 1200
-  
-  - Chinese: 李炳榮
-    id: U9843004
-    name: Wesley
-    password: bing
-    rating: 500
-  - Chinese: 蔡宜君
-    id: U9843005
-    name: Annie
-    password: yi
-    rating: 500
-  - Chinese: 張景淳
-    id: U9843010
-    name: Amy
-    password: jing
-    rating: 500
-  - Chinese: 李恩柔
-    id: U9843023
-    name: Vicky
-    password: en
-    rating: 500
-  - Chinese: 黃閔瑜
-    id: U9843026
-    name: Ketty
-    password: min
-    rating: 500
-  - Chinese: 蔡文賢
-    id: U9843030
-    name: Paul
-    password: wen
-    rating: 500
-  - Chinese: 許珀瑋
-    id: U9843031
-    name: Parry
-    password: po
-    rating: 500
-  - Chinese: 郭珮雯
-    id: U9843039
-    name: Charlotte
-    password: pei
-    rating: 500
-  - Chinese: 洪晟庭
-    id: U9843040
-    name: "O'Neal"
-    password: sheng
-    rating: 500
-
-pool:
-# member:
   - Chinese: 廖福元
     id: U9834038
     name: Frank
@@ -191,3 +136,45 @@ weights:
   classwork: 70
   exams: 15
 approach: Compcomp
+
+active:
+  - Chinese: 李炳榮
+    id: U9843004
+    name: Wesley
+    password: bing
+    rating: 500
+  - Chinese: 蔡宜君
+    id: U9843005
+    name: Annie
+    password: yi
+    rating: 500
+  - Chinese: 張景淳
+    id: U9843010
+    name: Amy
+    password: jing
+    rating: 500
+  - Chinese: 李恩柔
+    id: U9843023
+    name: Vicky
+    password: en
+    rating: 500
+  - Chinese: 黃閔瑜
+    id: U9843026
+    name: Ketty
+    password: min
+    rating: 500
+  - Chinese: 蔡文賢
+    id: U9843030
+    name: Paul
+    password: wen
+    rating: 500
+  - Chinese: 許珀瑋
+    id: U9843031
+    name: Parry
+    password: po
+    rating: 500
+  - Chinese: 洪晟庭
+    id: U9843040
+    name: O'Neal
+    password: sheng
+    rating: 500
