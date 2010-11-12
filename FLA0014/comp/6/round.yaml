@@ -1,0 +1,59 @@
+---
+round: 6
+week: 6
+absent:
+text: 
+activity:
+  breakstone:
+    1:
+      -
+         White: V9841009
+         Black: V9841027
+      -
+         White: V9841010
+         Black: V9841008
+      -
+         White: V9841028
+         Black: V9841024
+      -
+         White: V9841007
+         Black: V9841015
+      -
+         White: V9841050
+         Black: V9841006
+      -
+         White: V9841002
+         Black: V9841063
+      -
+         White: V9841011
+         Black: V9741065
+      -
+         White: V9841022
+         Black: V9841041
+      -
+         White: V9841058
+         Black: V9841029
+      -
+         White: V9841034
+         Black: V9841046
+      -
+         White: V9841033
+         Black: V9841036
+      -
+         White: V9841059
+         Black: V9999113
+      -
+         White: V9841051
+         Black: V9841064
+      -
+         White: V9841040
+         Black: V9841014
+      -
+         White: V9841026
+         Black: V9841005
+      -
+         White: V9841038
+         Black: V9841013
+      -
+         White: V9841017
+         Black: V9841067
