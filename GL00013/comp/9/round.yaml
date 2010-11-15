@@ -1,0 +1,33 @@
+---
+round: 9
+week: 9
+absent:
+text: /home/drbean/class/conversation/BreakstoneDesantis/Schifrin/cards.yaml
+bye: U9818046
+activity:
+  xmas:
+    easter:
+      - Black: N9661723
+        White: U9821142
+      - Black: 9622240
+        White: N9561766
+      - Black: T9822149
+        White: U9633052
+      - Black: U9822004
+        White: U9633019
+      - Black: U9818007
+        White: U9822019
+    australia:
+      - Black: N9561765
+        White: U9722022
+  shopping:
+    chinese:
+      - Black: U9822004
+        White: U9633019
+      - Black: U9818007
+        White: U9822019
+      - Black: N9661747
+        White: 9622212
+      - Black: N9561765
+        White: U9722022
+
