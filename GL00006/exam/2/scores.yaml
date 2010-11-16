@@ -1,0 +1,52 @@
+---
+Chinese:
+  Black: 0
+  Blue: 0
+  Gray: 0
+  Green: 0
+  Pink: 0
+  Purple: 0
+  White: 0
+letters:
+  Black:
+    U9611024: 8
+    U9722143: 8
+    U9714108: 8
+    N9661748: 8
+    story: breakstone1
+  Blue:
+    U9714105: 10
+    U9822015: 10
+    U9824054: 10
+    U9824053: 10
+    story: desantis1
+  Gray:
+    U9824047: 8
+    N9661717: 8
+    U9714141: 8
+    N9532037: 7
+    story: breakstone1
+  Green:
+    N9661712: 9
+    N9661725: 7
+    N9661742: 7
+    U9714135: 9
+    story: schifrin1
+  Pink:
+    N9661709: 6
+    U9824053: 8
+    U9714127: 8
+    U9714111: 8
+    story: schifrin1
+  Purple:
+    T9722102: 7
+    U9614044: 7
+    U9822020: 6
+    N9661740: 7
+    story: breakstone1
+  White:
+    N9661714: 8
+    N9661728: 9
+    T9722119: 7
+    U9714104: 5
+    story: desantis1
