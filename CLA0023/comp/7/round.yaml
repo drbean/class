@@ -1,0 +1,33 @@
+---
+round: 7
+week: 9
+absent:
+text: 
+bye: U9843040
+activity:
+  xmas:
+    easter:
+      - Black: U9843010
+        White: U9843004
+      - Black: U9843031
+        White: U9843030
+    australia:
+      - Black: U9843026
+        White: N9561765
+      - Black: U9843010
+        White: U9843004
+      - Black: U9843031
+        White: U9843030
+      - Black: U9843023
+        White: U9843001
+  shopping:
+    chinese:
+      - Black: U9843026
+        White: N9561765
+      - Black: U9843010
+        White: U9843004
+      - Black: U9843031
+        White: U9843030
+      - Black: U9843023
+        White: U9843001
+
