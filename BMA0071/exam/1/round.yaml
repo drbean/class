@@ -1,0 +1,83 @@
+---
+round: Exam 1
+week: 6
+questions:
+  - 6
+pass: 3
+assistant:
+  - Helen
+absent:
+text: /home/drbean/class/business/careers/candidate/cards.yaml
+activity:
+  candidate:
+    1:
+      - Black
+      - Brown
+      - Yellow
+    2:
+      - Orange
+      - Purple
+      - White
+    3:
+      - BlackBlack
+      - Blue
+      - Gray
+    4:
+      - Pink
+      - Red
+group:
+  Black:
+    - Gwan-Chi
+    - Zack
+    - Jerry1
+    - Michelle
+  BlackBlack:
+    - Helen
+    - Chiahao
+    - Tiffany
+    - WanHan
+  Blue:
+    - Aaron
+    - Sofie
+    - May
+    - Judy
+  Brown:
+    - Patrick
+    - Jheng-Syun
+    - ChiaoLing
+    - Zih-sheng
+  Gray:
+    - Stanley
+    - Jenny
+    - Tina
+    - Kuan-Li
+  Orange:
+    - Amy
+    - Sharon
+    - Wei-Cei
+    - Yi-Tang
+  Pink:
+    - Grace
+    - Betty
+    - Jerry2
+    - Reicho
+  Purple:
+    - Elaine
+    - Jenay
+    - Wayne
+    - Alice
+  Red:
+    - Candy
+    - Sandy
+    - Li
+    - Wan-ling
+  White:
+    - Dennis
+    - Dian
+    - Laura
+    - Pei-ci
+  Yellow:
+    - Wei-jhih
+    - Bu-Dien
+    - Helen
+    - Yi-xun
