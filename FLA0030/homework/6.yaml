@@ -1,0 +1,271 @@
+---
+cutpoints:
+  one: 50
+  two: 200
+exercise: spano
+grade:
+  9622299: 0
+  N9461738: 2
+  N9561721: 2
+  N9561732: 0
+  N9561751: 0
+  N9561762: 0
+  N9561765: 2
+  N9661702: 2
+  N9661705: 0
+  N9661706: 2
+  N9661713: 0
+  N9661717: 0
+  N9661724: 0
+  N9661725: 0
+  N9661727: 0
+  N9661728: 2
+  N9661731: 0
+  N9661737: 0
+  N9661738: 0
+  N9661740: 0
+  N9661741: 2
+  N9661743: 0
+  N9661746: 0
+  N9661747: 2
+  N9661748: 2
+  N9661749: 2
+  N9661753: 0
+  N9661758: 2
+  N9661761: 0
+  U9533039: 2
+  U9616041: 2
+  V9724004: 2
+  V9731059: 0
+  V9741009: 0
+  V9741010: 2
+  V9741014: 0
+  V9741015: 0
+  V9741016: 2
+  V9741018: 0
+  V9741023: 0
+  V9741024: 2
+  V9741025: 0
+  V9741028: 0
+  V9741029: 2
+  V9741030: 0
+  V9741032: 0
+  V9741034: 0
+  V9741036: 0
+  V9741037: 2
+  V9741038: 0
+  V9741040: 2
+  V9741041: 0
+  V9741042: 0
+  V9741043: 2
+  V9741044: 0
+  V9741047: 2
+  V9741048: 0
+  V9741049: 0
+  V9741053: 2
+  V9741055: 0
+  V9741057: 2
+  V9741059: 0
+  V9741060: 0
+  V9741061: 0
+  V9741064: 0
+  V9741066: 0
+points:
+  9622299:
+    letters: ~
+    questions: 0
+  N9461738:
+    letters: ~
+    questions: 1
+  N9561721:
+    letters: ~
+    questions: 1
+  N9561732:
+    letters: ~
+    questions: 0
+  N9561751:
+    letters: ~
+    questions: 0
+  N9561762:
+    letters: ~
+    questions: 0
+  N9561765:
+    letters: ~
+    questions: 1
+  N9661702:
+    letters: ~
+    questions: 1
+  N9661705:
+    letters: ~
+    questions: 0
+  N9661706:
+    letters: ~
+    questions: 1
+  N9661713:
+    letters: ~
+    questions: 0
+  N9661717:
+    letters: ~
+    questions: 0
+  N9661724:
+    letters: ~
+    questions: 0
+  N9661725:
+    letters: ~
+    questions: 0
+  N9661727:
+    letters: ~
+    questions: 0
+  N9661728:
+    letters: ~
+    questions: 1
+  N9661731:
+    letters: ~
+    questions: 0
+  N9661737:
+    letters: ~
+    questions: 0
+  N9661738:
+    letters: ~
+    questions: 0
+  N9661740:
+    letters: ~
+    questions: 0
+  N9661741:
+    letters: ~
+    questions: 1
+  N9661743:
+    letters: ~
+    questions: 0
+  N9661746:
+    letters: ~
+    questions: 0
+  N9661747:
+    letters: ~
+    questions: 1
+  N9661748:
+    letters: ~
+    questions: 1
+  N9661749:
+    letters: ~
+    questions: 1
+  N9661753:
+    letters: ~
+    questions: 0
+  N9661758:
+    letters: ~
+    questions: 1
+  N9661761:
+    letters: ~
+    questions: 0
+  U9533039:
+    letters: ~
+    questions: 1
+  U9616041:
+    letters: ~
+    questions: 1
+  V9724004:
+    letters: ~
+    questions: 1
+  V9731059:
+    letters: ~
+    questions: 0
+  V9741009:
+    letters: ~
+    questions: 0
+  V9741010:
+    letters: ~
+    questions: 1
+  V9741014:
+    letters: ~
+    questions: 0
+  V9741015:
+    letters: ~
+    questions: 0
+  V9741016:
+    letters: ~
+    questions: 1
+  V9741018:
+    letters: ~
+    questions: 0
+  V9741023:
+    letters: ~
+    questions: 0
+  V9741024:
+    letters: ~
+    questions: 1
+  V9741025:
+    letters: ~
+    questions: 0
+  V9741028:
+    letters: ~
+    questions: 0
+  V9741029:
+    letters: ~
+    questions: 1
+  V9741030:
+    letters: ~
+    questions: 0
+  V9741032:
+    letters: ~
+    questions: 0
+  V9741034:
+    letters: ~
+    questions: 0
+  V9741036:
+    letters: ~
+    questions: 0
+  V9741037:
+    letters: ~
+    questions: 1
+  V9741038:
+    letters: ~
+    questions: 0
+  V9741040:
+    letters: ~
+    questions: 1
+  V9741041:
+    letters: ~
+    questions: 0
+  V9741042:
+    letters: ~
+    questions: 0
+  V9741043:
+    letters: ~
+    questions: 1
+  V9741044:
+    letters: ~
+    questions: 0
+  V9741047:
+    letters: ~
+    questions: 1
+  V9741048:
+    letters: ~
+    questions: 0
+  V9741049:
+    letters: ~
+    questions: 0
+  V9741053:
+    letters: ~
+    questions: 1
+  V9741055:
+    letters: ~
+    questions: 0
+  V9741057:
+    letters: ~
+    questions: 1
+  V9741059:
+    letters: ~
+    questions: 0
+  V9741060:
+    letters: ~
+    questions: 0
+  V9741061:
+    letters: ~
+    questions: 0
+  V9741064:
+    letters: ~
+    questions: 0
+  V9741066:
+    letters: ~
+    questions: 0
