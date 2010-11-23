@@ -1,0 +1,38 @@
+---
+round: Exam 3
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+  - Amy
+  - MegaPaul
+  - Parry
+  - Vicky
+absent:
+  - Annie
+text: /home/drbean/class/conversation/BreakstoneDesantisSchifrin/cards.yaml
+activity:
+  desantis:
+    1:
+      - Gray
+  schifrin:
+    1:
+      - Green
+      - Pink
+group:
+  Gray:
+    - Ketty
+    - MegaPaul
+    - Vicky
+    - Parry
+  Pink:
+    - Emily
+    - O'Neal
+    - Amy
+    - MegaPaul
+  Green:
+    - Parry
+    - Wesley
+    - Paul
+    - Amy
