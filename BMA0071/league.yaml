@@ -1,7 +1,6 @@
 ---
-league: 日經管大學二甲
-field: 商用英文實務(一)
-id: 991BMA0071
+absent:
+  - ~
 active:
   - Chinese: 邱怡婷
     id: T9831003
@@ -22,12 +21,6 @@ active:
     id: T9831023
     name: Gwan-Chi
     password: kuan
-    rating: 96
-  - Chinese: 謝佳呁
-    id: T9831030
-    name: Candy
-    password: jia
-    rating: 102
   - Chinese: 林?芬
     id: U9742047
     name: Tiffany
@@ -38,6 +31,11 @@ active:
     name: Aaron
     password: kun
     rating: 96
+  - Chinese: 陳韡之
+    id: U9831005
+    name: Wei-jhih
+    password: wei
+    rating: 114
   - Chinese: 姚　順
     id: U9831007
     name: Dennis
@@ -68,375 +66,385 @@ active:
     name: Betty
     password: guo
     rating: 100
+  - Chinese: 林奕瑄
+    id: U9831028
+    name: Sharon
+    password: yi
+    rating: 96
   - Chinese: 丘欣怡
     id: U9831035
     name: Dian
     password: xin
     rating: 132
+  - Chinese: 趙靚如
+    id: U9831039
+    name: Jenny
+    password: jing
+    rating: 102
   - Chinese: 楊正熏
     id: U9831040
     name: Jheng-Syun
     password: zheng
-    rating: 104
-  - Chinese: 丁婉涵
-    id: U9831044
-    name: WanHan
-    password: wan
-    rating: 140
-  - Chinese: 鍾宇軒
-    id: U9831046
-    name: Zack
-    password: yu
-    rating: 126
-  - Chinese: 張力中
-    id: U9831049
-    name: Li
-    password: li
-    rating: 158
-  - Chinese: 林吟諴
-    id: U9831102
-    name: Jerry1
-    password: yin
-    rating: 96
-  - Chinese: 吳郁嬋
-    id: U9831106
-    name: Helen
-    password: yu
-    rating: 116
-  - Chinese: 張家豪
-    id: U9831109
-    name: Chiahao
-    password: jia
-    rating: 102
-  - Chinese: 劉雪樺
-    id: U9831110
-    name: May
-    password: xie
-    rating: 114
-  - Chinese: 劉巧翎
-    id: U9831112
-    name: ChiaoLing
-    password: qiao
-    rating: 106
-  - Chinese: 湯宇廷
-    id: U9831114
-    name: Tina
-    password: yu
-    rating: 100
-  - Chinese: 鍾志娟
-    id: U9831116
-    name: Laura
-    password: zhi
-    rating: 114
-  - Chinese: 張惟策
-    id: U9831119
-    name: Wei-Cei
-    password: wei
-    rating: 130
-  - Chinese: 方承中
-    id: U9831122
-    name: Jerry2
-    password: cheng
-    rating: 118
-  - Chinese: 黃從維
-    id: U9831124
-    name: Wayne
-    password: cong
-    rating: 112
-  - Chinese: 黃聖華
-    id: U9831127
-    name: Alice
-    password: sheng
-    rating: 108
-  - Chinese: 黃姿穎
-    id: U9831128
-    name: Reicho
-    password: zi
-    rating: 104
-  - Chinese: 王怡棠
-    id: U9831130
-    name: Yi-Tang
-    password: yi
-    rating: 102
-  - Chinese: 陳珮慈
-    id: U9831131
-    name: Pei-ci
-    password: pei
-    rating: 106
-  - Chinese: 陳冠吏
-    id: U9831132
-    name: Kuan-Li
-    password: guan
-    rating: 106
-  - Chinese: 林秀錡
-    id: U9831138
-    name: Judy
-    password: xiu
-    rating: 98
-  - Chinese: 陳君翰
-    id: U9831139
-    name: ChunHan
-    password: jun
-    rating: 118
-  - Chinese: 黃瑋瑄
-    id: U9831140
-    name: Michelle
-    password: wei
-    rating: 122
-  - Chinese: 鍾婉玲
-    id: U9831143
-    name: Wan-ling
-    password: wan
-    rating: 100
-  - Chinese: 蘇怡熏
-    id: U9831147
-    name: Yi-xun
-    password: yi
-    rating: 126
-
-# pool:
-member:
-  - Chinese: 謝佳呁
-    name: Candy
-    password: jia
-    id: T9831030
-    rating: 102
-
-  - Chinese: 張力中
-    id: U9831049
-    name: Li
-    password: li
-    rating: 158
-  - Chinese: 丁婉涵
-    id: U9831044
-    name: WanHan
-    password: wan
-    rating: 140
-  - Chinese: 丘欣怡
-    id: U9831035
-    name: Dian
-    password: xin
-    rating: 132
-  - Chinese: 張惟策
-    id: U9831119
-    name: Wei-Cei
-    password: wei
-    rating: 130
-  - Chinese: 蘇怡熏
-    id: U9831147
-    name: Yi-xun
-    password: yi
-    rating: 126
-  - Chinese: 鍾宇軒
-    id: U9831046
-    name: Zack
-    password: yu
-    rating: 126
-  - Chinese: 黃瑋瑄
-    id: U9831140
-    name: Michelle
-    password: wei
-    rating: 122
-  - Chinese: 陳韋樵
-    id: U9831021
-    name: Jenay
-    password: wei
-    rating: 120
-  - Chinese: 方承中
-    id: U9831122
-    name: Jerry2
-    password: cheng
-    rating: 118
-  - Chinese: 陳君翰
-    id: U9831139
-    name: ChunHan
-    password: jun
-    rating: 118
-  - Chinese: 黃馨儀
-    id: U9831018
-    name: Elaine
-    password: xin
-    rating: 118
-  - Chinese: 吳郁嬋
-    id: U9831106
-    name: Helen
-    password: yu
-    rating: 116
-  - Chinese: 王兆鈺
-    id: U9831108
-    name: ChouYu
-    password: zhao
-    rating: 116
-  - Chinese: 姚　順
-    id: U9831007
-    name: Dennis
-    password: shun
-    rating: 116
-  - Chinese: 劉雪樺
-    id: U9831110
-    name: May
-    password: xie
-    rating: 114
-  - Chinese: 鍾志娟
-    id: U9831116
-    name: Laura
-    password: zhi
-    rating: 114
-  - Chinese: 陳韡之
-    id: U9831005
-    name: Wei-jhih
-    password: wei
-    rating: 114
-  - Chinese: 黃從維
-    id: U9831124
-    name: Wayne
-    password: cong
-    rating: 112
-  - Chinese: 林子聖
-    id: U9831135
-    name: Zih-sheng
-    password: zi
-    rating: 112
-  - Chinese: 顏　摩
-    id: U9831144
-    name: Stanley
-    password: mo
-    rating: 112
-  - Chinese: 林?芬
-    id: U9742047
-    name: Tiffany
-    password: '?'
-    rating: 112
-  - Chinese: 黃聖華
-    id: U9831127
-    name: Alice
-    password: sheng
-    rating: 108
-  - Chinese: 郭俐妤
-    id: U9831016
-    name: Grace
-    password: li
-    rating: 108
-  - Chinese: 黃宣娣
-    id: T9831018
-    name: Sandy
-    password: xuan
-    rating: 108
-  - Chinese: 劉巧翎
-    id: U9831112
-    name: ChiaoLing
-    password: qiao
-    rating: 106
-  - Chinese: 陳珮慈
-    id: U9831131
-    name: Pei-ci
-    password: pei
-    rating: 106
-  - Chinese: 陳冠吏
-    id: U9831132
-    name: Kuan-Li
-    password: guan
-    rating: 106
-  - Chinese: 黃姿穎
-    id: U9831128
-    name: Reicho
-    password: zi
     rating: 104
   - Chinese: 蕭文伶
     id: U9831043
     name: Sofie
     password: wen
     rating: 104
-  - Chinese: 楊正熏
-    id: U9831040
-    name: Jheng-Syun
-    password: zheng
-    rating: 104
-  - Chinese: 張家豪
-    id: U9831109
-    name: Chiahao
-    password: jia
-    rating: 102
-  - Chinese: 王怡棠
-    id: U9831130
-    name: Yi-Tang
-    password: yi
-    rating: 102
-  - Chinese: 趙靚如
-    id: U9831039
-    name: Jenny
-    password: jing
-    rating: 102
-  - Chinese: 湯宇廷
-    id: U9831114
-    name: Tina
-    password: yu
-    rating: 100
-  - Chinese: 鍾婉玲
-    id: U9831143
-    name: Wan-ling
+  - Chinese: 丁婉涵
+    id: U9831044
+    name: WanHan
     password: wan
-    rating: 100
-  - Chinese: 洪國亮
-    id: U9831024
-    name: Betty
-    password: guo
-    rating: 100
-  - Chinese: 彭星喬
-    id: U9831012
-    name: Amy
-    password: xing
-    rating: 100
-  - Chinese: 吳嘉偉
-    id: T9831015
-    name: Patrick
-    password: jia
-    rating: 100
-  - Chinese: 林秀錡
-    id: U9831138
-    name: Judy
-    password: xiu
-    rating: 98
-  - Chinese: 邱怡婷
-    id: T9831003
-    name: Bu-Dien
-    password: yi
-    rating: 98
+    rating: 140
+  - Chinese: 鍾宇軒
+    id: U9831046
+    name: Zack
+    password: yu
+    rating: 126
+  - Chinese: 張力中
+    id: U9831049
+    name: Li
+    password: li
+    rating: 158
   - Chinese: 林吟諴
     id: U9831102
     name: Jerry1
     password: yin
     rating: 96
+  - Chinese: 吳郁嬋
+    id: U9831106
+    name: Helen
+    password: yu
+    rating: 116
+  - Chinese: 張家豪
+    id: U9831109
+    name: Chiahao
+    password: jia
+    rating: 102
+  - Chinese: 劉雪樺
+    id: U9831110
+    name: May
+    password: xie
+    rating: 114
+  - Chinese: 劉巧翎
+    id: U9831112
+    name: ChiaoLing
+    password: qiao
+    rating: 106
+  - Chinese: 湯宇廷
+    id: U9831114
+    name: Tina
+    password: yu
+    rating: 100
+  - Chinese: 鍾志娟
+    id: U9831116
+    name: Laura
+    password: zhi
+    rating: 114
+  - Chinese: 方承中
+    id: U9831122
+    name: Jerry2
+    password: cheng
+    rating: 118
+  - Chinese: 黃從維
+    id: U9831124
+    name: Wayne
+    password: cong
+    rating: 112
+  - Chinese: 黃姿穎
+    id: U9831128
+    name: Reicho
+    password: zi
+    rating: 104
+  - Chinese: 王怡棠
+    id: U9831130
+    name: Yi-Tang
+    password: yi
+    rating: 102
+  - Chinese: 陳珮慈
+    id: U9831131
+    name: Pei-ci
+    password: pei
+    rating: 106
+  - Chinese: 陳冠吏
+    id: U9831132
+    name: Kuan-Li
+    password: guan
+    rating: 106
+  - Chinese: 林子聖
+    id: U9831135
+    name: Zih-sheng
+    password: zi
+    rating: 112
+  - Chinese: 林秀錡
+    id: U9831138
+    name: Judy
+    password: xiu
+    rating: 98
+  - Chinese: 黃瑋瑄
+    id: U9831140
+    name: Michelle
+    password: wei
+    rating: 122
+  - Chinese: 鍾婉玲
+    id: U9831143
+    name: Wan-ling
+    password: wan
+    rating: 100
+  - Chinese: 顏　摩
+    id: U9831144
+    name: Stanley
+    password: mo
+    rating: 112
+  - Chinese: 蘇怡熏
+    id: U9831147
+    name: Yi-xun
+    password: yi
+    rating: 126
+approach: Compcomp
+compcomp: comp
+examMax: 5
+exams: exam
+field: 商用英文實務(一)
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 991BMA0071
+jigsaw: exam
+league: 日經管大學二甲
+member:
+  - Chinese: 謝佳呁
+    id: T9831030
+    name: Candy
+    password: jia
+    rating: 48
+  - Chinese: 張力中
+    id: U9831049
+    name: Li
+    password: li
+    rating: 67
+  - Chinese: 丁婉涵
+    id: U9831044
+    name: WanHan
+    password: wan
+    rating: 86
+  - Chinese: 丘欣怡
+    id: U9831035
+    name: Dian
+    password: xin
+    rating: 77
+  - Chinese: 張惟策
+    id: U9831119
+    name: Wei-Cei
+    password: wei
+    rating: 38
+  - Chinese: 蘇怡熏
+    id: U9831147
+    name: Yi-xun
+    password: yi
+    rating: 68
+  - Chinese: 鍾宇軒
+    id: U9831046
+    name: Zack
+    password: yu
+    rating: 83
+  - Chinese: 黃瑋瑄
+    id: U9831140
+    name: Michelle
+    password: wei
+    rating: 76
+  - Chinese: 陳韋樵
+    id: U9831021
+    name: Jenay
+    password: wei
+    rating: 93
+  - Chinese: 方承中
+    id: U9831122
+    name: Jerry2
+    password: cheng
+    rating: 69
+  - Chinese: 黃馨儀
+    id: U9831018
+    name: Elaine
+    password: xin
+    rating: 76
+  - Chinese: 吳郁嬋
+    id: U9831106
+    name: Helen
+    password: yu
+    rating: 78
+  - Chinese: 姚　順
+    id: U9831007
+    name: Dennis
+    password: shun
+    rating: 82
+  - Chinese: 劉雪樺
+    id: U9831110
+    name: May
+    password: xie
+    rating: 70
+  - Chinese: 鍾志娟
+    id: U9831116
+    name: Laura
+    password: zhi
+    rating: 82
+  - Chinese: 陳韡之
+    id: U9831005
+    name: Wei-jhih
+    password: wei
+    rating: 54
+  - Chinese: 黃從維
+    id: U9831124
+    name: Wayne
+    password: cong
+    rating: 78
+  - Chinese: 林子聖
+    id: U9831135
+    name: Zih-sheng
+    password: zi
+    rating: 76
+  - Chinese: 顏　摩
+    id: U9831144
+    name: Stanley
+    password: mo
+    rating: 58
+  - Chinese: 林?芬
+    id: U9742047
+    name: Tiffany
+    password: '?'
+    rating: 79
+  - Chinese: 黃聖華
+    id: U9831127
+    name: Alice
+    password: sheng
+    rating: 56
+  - Chinese: 郭俐妤
+    id: U9831016
+    name: Grace
+    password: li
+    rating: 87
+  - Chinese: 黃宣娣
+    id: T9831018
+    name: Sandy
+    password: xuan
+    rating: 86
+  - Chinese: 劉巧翎
+    id: U9831112
+    name: ChiaoLing
+    password: qiao
+    rating: 80
+  - Chinese: 陳珮慈
+    id: U9831131
+    name: Pei-ci
+    password: pei
+    rating: 80
+  - Chinese: 陳冠吏
+    id: U9831132
+    name: Kuan-Li
+    password: guan
+    rating: 69
+  - Chinese: 黃姿穎
+    id: U9831128
+    name: Reicho
+    password: zi
+    rating: 55
+  - Chinese: 蕭文伶
+    id: U9831043
+    name: Sofie
+    password: wen
+    rating: 72
+  - Chinese: 楊正熏
+    id: U9831040
+    name: Jheng-Syun
+    password: zheng
+    rating: 80
+  - Chinese: 張家豪
+    id: U9831109
+    name: Chiahao
+    password: jia
+    rating: 83
+  - Chinese: 王怡棠
+    id: U9831130
+    name: Yi-Tang
+    password: yi
+    rating: 84
+  - Chinese: 趙靚如
+    id: U9831039
+    name: Jenny
+    password: jing
+    rating: 78
+  - Chinese: 湯宇廷
+    id: U9831114
+    name: Tina
+    password: yu
+    rating: 84
+  - Chinese: 鍾婉玲
+    id: U9831143
+    name: Wan-ling
+    password: wan
+    rating: 83
+  - Chinese: 洪國亮
+    id: U9831024
+    name: Betty
+    password: guo
+    rating: 84
+  - Chinese: 彭星喬
+    id: U9831012
+    name: Amy
+    password: xing
+    rating: 85
+  - Chinese: 吳嘉偉
+    id: T9831015
+    name: Patrick
+    password: jia
+    rating: 76
+  - Chinese: 林秀錡
+    id: U9831138
+    name: Judy
+    password: xiu
+    rating: 88
+  - Chinese: 邱怡婷
+    id: T9831003
+    name: Bu-Dien
+    password: yi
+    rating: 73
+  - Chinese: 林吟諴
+    id: U9831102
+    name: Jerry1
+    password: yin
+    rating: 87
   - Chinese: 林奕瑄
     id: U9831028
     name: Sharon
     password: yi
-    rating: 96
-  - Chinese: 楊崴宇
-    id: U9831006
-    name: Nick
-    password: wei
-    rating: 96
+    rating: 77
   - Chinese: 莊焜安
     id: U9831002
     name: Aaron
     password: kun
-    rating: 96
+    rating: 77
   - Chinese: 黃寬棨
     id: T9831023
     name: Gwan-Chi
     password: kuan
-    rating: 96
-absent:
-  - ~
-approach: Compcomp
-compcomp: comp
-exams: exam
-jigsaw: exam
-examMax: 5
-groupwork: classwork
-hw: homework
-hwMax: 2
+    rating: 68
+  - Chinese: 楊崴宇
+    id: U9831006
+    name: Nick
+    password: wei
+    rating: 34
+out:
+  - Chinese: 陳君翰
+    id: U9831139
+    name: ChunHan
+    password: jun
+    rating: 118
+  - Chinese: 王兆鈺
+    id: U9831108
+    name: ChouYu
+    password: zhao
+    rating: 116
+room: 8502
 series:
   - first
   - second
@@ -446,4 +454,3 @@ weights:
   classwork: 60
   exams: 20
   homework: 20
-room: 8502
