@@ -1,4 +1,7 @@
 ---
+cutpoints:
+  one: 0
+  two: 0
 exercise: online
 grade:
   T9823041: 0
