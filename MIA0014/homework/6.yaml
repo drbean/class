@@ -1,4 +1,7 @@
 ---
+cutpoints:
+  one: 0
+  two: 0
 exercise: interview
 grade:
   T9833004: 2
