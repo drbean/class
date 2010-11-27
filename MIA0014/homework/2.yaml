@@ -1,4 +1,7 @@
 ---
+cutpoints:
+  one: 0
+  two: 0
 exercise: career
 grade:
   T9833004: 2
