@@ -1,0 +1,29 @@
+---
+round: 10
+week: 10
+absent:
+text: /home/drbean/class/conversation/work/cards.yaml
+activity:
+  cronig:
+    0:
+      -
+         White: U9818046
+         Black: 9622212
+      -
+         White: U9633019
+         Black: U9822004
+      -
+         White: T9822149
+         Black: U9821142
+      -
+         White: U9633052
+         Black: N9561766
+      -
+         White: U9818007
+         Black: U9722022
+      -
+         White: N9661747
+         Black: N9661723
+      -
+         White: N9561765
+         Black: 9622240
