@@ -5,69 +5,10 @@ absent:
     name: Charlotte
     password: pei
     rating: 500
-
-  - Chinese: 閒慧琦
-    name: Emily
-    password: hui
-    id: N9561765
-    rating: 1200
-  
-  - Chinese: 李炳榮
-    id: U9843004
-    name: Wesley
-    password: bing
-    rating: 500
-  - Chinese: 蔡宜君
-    id: U9843005
-    name: Annie
-    password: yi
-    rating: 500
-  - Chinese: 張景淳
-    id: U9843010
-    name: Amy
-    password: jing
-    rating: 500
-  - Chinese: 李恩柔
-    id: U9843023
-    name: Vicky
-    password: en
-    rating: 500
-  - Chinese: 黃閔瑜
-    id: U9843026
-    name: Ketty
-    password: min
-    rating: 500
-  - Chinese: 蔡文賢
-    id: U9843030
-    name: Paul
-    password: wen
-    rating: 500
-  - Chinese: 許珀瑋
-    id: U9843031
-    name: Parry
-    password: po
-    rating: 500
-  - Chinese: 洪晟庭
-    id: U9843040
-    name: "O'Neal"
-    password: sheng
-    rating: 500
-
-absent:
-  - Chinese: 郭珮雯
-    id: U9843039
-    name: Charlotte
-    password: pei
-    rating: 500
   - Chinese: 廖福元
     id: U9834038
     name: Frank
     password: fu
-    rating: 500
-  - Chinese: 沈　揚
-    id: U9843001
-    name: MegaPaul
-    password: yang
     rating: 500
   - Chinese: 周美迎
     id: U9843002
@@ -140,7 +81,69 @@ member:
     id: N9561765
     name: Emily
     password: hui
+    rating: 59
+  - Chinese: 沈　揚
+    id: U9843001
+    name: MegaPaul
+    password: yang
+    rating: 26
+  - Chinese: 李炳榮
+    id: U9843004
+    name: Wesley
+    password: bing
+    rating: 74
+  - Chinese: 蔡宜君
+    id: U9843005
+    name: Annie
+    password: yi
+    rating: 67
+  - Chinese: 張景淳
+    id: U9843010
+    name: Amy
+    password: jing
+    rating: 78
+  - Chinese: 李恩柔
+    id: U9843023
+    name: Vicky
+    password: en
+    rating: 83
+  - Chinese: 黃閔瑜
+    id: U9843026
+    name: Ketty
+    password: min
+    rating: 69
+  - Chinese: 蔡文賢
+    id: U9843030
+    name: Paul
+    password: wen
+    rating: 77
+  - Chinese: 許珀瑋
+    id: U9843031
+    name: Parry
+    password: po
+    rating: 65
+  - Chinese: 洪晟庭
+    id: U9843040
+    name: "O'Neal"
+    password: sheng
+    rating: 72
+room: A705
+weights:
+  classwork: 70
+  exams: 15
+  homework: 15
+
+active:
+  - Chinese: 閒慧琦
+    id: N9561765
+    name: Emily
+    password: hui
     rating: 57
+  - Chinese: 沈　揚
+    id: U9843001
+    name: MegaPaul
+    password: yang
+    rating: 500
   - Chinese: 李炳榮
     id: U9843004
     name: Wesley
@@ -178,53 +181,6 @@ member:
     rating: 61
   - Chinese: 洪晟庭
     id: U9843040
-    name: O'Neal
-    password: sheng
-    rating: 77
-room: A705
-weights:
-  classwork: 70
-  exams: 15
-  homework: 15
-
-active:
-  - Chinese: 閒慧琦
-    id: N9561765
-    name: Emily
-    password: hui
-    rating: 57
-  - Chinese: 李炳榮
-    id: U9843004
-    name: Wesley
-    password: bing
-    rating: 75
-  - Chinese: 蔡宜君
-    id: U9843005
-    name: Annie
-    password: yi
-    rating: 69
-  - Chinese: 張景淳
-    id: U9843010
-    name: Amy
-    password: jing
-    rating: 82
-  - Chinese: 李恩柔
-    id: U9843023
-    name: Vicky
-    password: en
-    rating: 83
-  - Chinese: 黃閔瑜
-    id: U9843026
-    name: Ketty
-    password: min
-    rating: 73
-  - Chinese: 蔡文賢
-    id: U9843030
-    name: Paul
-    password: wen
-    rating: 73
-  - Chinese: 洪晟庭
-    id: U9843040
-    name: O'Neal
+    name: "O'Neal"
     password: sheng
     rating: 77
