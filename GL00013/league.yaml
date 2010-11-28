@@ -1,65 +1,210 @@
 ---
-id: GL00013
-league: 日語文共同學制虛擬班二乙
-field: 中級英文聽說訓練
-member:
-  - Chinese: 柯宛儂 
+absent:
+  - Chinese: 王柏鈞
+    id: U9615010
+    name: Jerry
+    password: bo
+    rating: 500
+  - Chinese: 何旻蓉
+    id: U9818011
+    name: Stephanie
+    password: yu
+    rating: 500
+  - Chinese: 陳彥叡
+    id: 9622299
+    name: Edison
+    password: yan
+    rating: 1100
+  - Chinese: 陳玟伶
+    id: U9818017
+    name: Ling
+    password: wen
+    rating: 900
+  - Chinese: 李秉霖
+    id: T9823041
+    name: Larry
+    password: bing
+    rating: 500
+  - Chinese: 黃聖華
+    id: U9831127
+    name: Alice
+    password: sheng
+    rating: 500
+  - Chinese: 鄭仕元
+    id: U9723011
+    name: Kirk
+    password: shi
+    rating: 500
+  - Chinese: 林國煒
+    id: U9922031
+    name: David
+    password: guo
+    rating: 500
+  - Chinese: 郭家佑
+    id: U9810015
+    name: 郭家佑
+    password: jia
+    rating: 500
+  - Chinese: 呂美慧
+    id: U9818022
+    name: 呂美慧
+    password: mei
+    rating: 500
+  - Chinese: 楊宛林
+    id: U9818032
+    name: 楊宛林
+    password: min
+    rating: 500
+  - Chinese: 王邦晟
+    id: U9821121
+    name: 王邦晟
+    password: bang
+    rating: 500
+  - Chinese: 柯宛儂
+    id: U9622089
     name: Amy
     password: wan
-    id: U9622089
     rating: 900
+approach: Compcomp
+compcomp: comp
+examMax: 4
+exams: exam
+field: 中級英文聽說訓練
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: GL00013
+jigsaw: exam
+league: 日語文共同學制虛擬班二乙
+member:
   - Chinese: 謝孟庭
+    id: 9622240
     name: Ryan
     password: meng
-    id: 9622240
-    rating: 900
-  
+    rating: 79
   - Chinese: 閒慧琦
+    id: N9561765
     name: Emily
     password: hui
-    id: N9561765
-    rating: 1200
+    rating: 68
   - Chinese: 劉發州
+    id: N9561766
     name: Frank
     password: fa
-    id: N9561766
-    rating: 1500
+    rating: 79
   - Chinese: 邱靖棋
+    id: N9661747
     name: Kiki
     password: jing
-    id: N9661747
-    rating: 1200
+    rating: 76
   - Chinese: 謝文秀
+    id: N9661723
     name: Jessica
     password: wen
-    id: N9661723
-    rating: 1400
-  
+    rating: 86
+  - Chinese: 劉俊良
+    id: 9622212
+    name: Ken
+    password: jun
+    rating: 76
+  - Chinese: 陳奕佃
+    id: T9822149
+    name: Kenny
+    password: yi
+    rating: 75
+  - Chinese: 蔡宗祐
+    id: U9633019
+    name: Kerwin
+    password: zong
+    rating: 74
+  - Chinese: 金詣耘
+    id: U9633052
+    name: Eva
+    password: yi
+    rating: 81
+  - Chinese: 許月馨
+    id: U9818007
+    name: Emma
+    password: yue
+    rating: 69
+  - Chinese: 曾莉雯
+    id: U9818046
+    name: Lily
+    password: li
+    rating: 66
+  - Chinese: 潘辰妮
+    id: U9821142
+    name: Ivory
+    password: chen
+    rating: 90
+  - Chinese: 黃筠庭
+    id: U9822004
+    name: Kate
+    password: yun
+    rating: 83
+  - Chinese: 顏資容
+    id: U9822019
+    name: Sarah
+    password: zi
+    rating: 78
+  - Chinese: 李孟彥
+    id: U9722022
+    name: Mark
+    password: meng
+    rating: 75
+  - Chinese: 翁凱峯
+    id: T9822129
+    name: Kevin
+    password: kai
+    rating: 47
+room: A705
+weights:
+  classwork: 70
+  exams: 15
+  homework: 15
+
+active:
   - Chinese: 劉俊良
     id: 9622212
     name: Ken
     password: jun
     rating: 500
-  - Chinese: 沈喬逸
-    id: T9822147
-    name: Sam
-    password: qiao
+  - Chinese: 謝孟庭
+    id: 9622240
+    name: Ryan
+    password: meng
     rating: 900
+  - ~
+  - Chinese: 閒慧琦
+    id: N9561765
+    name: Emily
+    password: hui
+    rating: 1200
+  - Chinese: 劉發州
+    id: N9561766
+    name: Frank
+    password: fa
+    rating: 1500
+  - Chinese: 謝文秀
+    id: N9661723
+    name: Jessica
+    password: wen
+    rating: 1400
+  - Chinese: 邱靖棋
+    id: N9661747
+    name: Kiki
+    password: jing
+    rating: 1200
   - Chinese: 陳奕佃
     id: T9822149
     name: Kenny
     password: yi
     rating: 1000
-  - Chinese: 蔡宗祐
-    id: U9633019
-    name: Kerwin
-    password: zong
-    rating: 1000
-  - Chinese: 金詣耘
-    id: U9633052
-    name: Eva
-    password: yi
-    rating: 1000
+  - Chinese: 李孟彥
+    id: U9722022
+    name: Mark
+    password: meng
+    rating: 500
   - Chinese: 許月馨
     id: U9818007
     name: Emma
@@ -85,92 +230,3 @@ member:
     name: Sarah
     password: zi
     rating: 500
-  - Chinese: 黃聖華
-    id: U9831127
-    name: Alice
-    password: sheng
-    rating: 500
-  - Chinese: 李孟彥
-    id: U9722022
-    name: Mark
-    password: meng
-    rating: 500
-  - Chinese: 翁凱峯
-    id: T9822129
-    name: Kevin
-    password: kai
-    rating: 500
-
-  - Chinese: 陳彥叡
-    name: Edison
-    password: yan
-    id: 9622299
-    rating: 1100
-  
-  - Chinese: 王柏鈞
-    id: U9615010
-    name: Jerry
-    password: bo
-    rating: 500
-  - Chinese: 林國煒
-    id: U9922031
-    name: David
-    password: guo
-    rating: 500
-  - Chinese: 何旻蓉
-    id: U9818011
-    name: Stephanie
-    password: yu
-    rating: 500
-  - Chinese: 李秉霖
-    id: T9823041
-    name: Larry
-    password: bing
-    rating: 500
-  - Chinese: 鄭仕元
-    id: U9723011
-    name: Kirk
-    password: shi
-    rating: 500
-  - Chinese: 陳玟伶
-    name: Ling
-    password: wen
-    id: U9818017
-    rating: 900
-  - Chinese: 郭家佑
-    id: U9810015
-    name: 郭家佑
-    password: jia
-    rating: 500
-  - Chinese: 呂美慧
-    id: U9818022
-    name: 呂美慧
-    password: mei
-    rating: 500
-  - Chinese: 楊宛林
-    id: U9818032
-    name: 楊宛林
-    password: min
-    rating: 500
-  - Chinese: 王邦晟
-    id: U9821121
-    name: 王邦晟
-    password: bang
-    rating: 500
-absent:
-  - None
-groupwork: classwork
-compcomp: comp
-room: A705
-hw: homework
-exams: exam
-jigsaw: exam
-hwMax: 2
-examMax: 4
-weights:
-  homework: 15
-  classwork: 70
-  exams: 15
-approach: Compcomp
-
-active:
