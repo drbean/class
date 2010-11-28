@@ -1,0 +1,18 @@
+---
+round: 1
+week: 1
+absent:
+text: /home/drbean/class/conversation/food/cards.yaml
+activity:
+  lerman:
+    0:
+      - Black: U9843040
+        White: N9561765
+      - Black: U9843010
+        White: U9843004
+      - Black: U9843030
+        White: U9843005
+      - Black: U9843023
+        White: U9843026
+      - Black: U9843001
+        White: U9843031
