@@ -179,11 +179,21 @@ active:
     name: Irin
     password: xiao
     rating: 44
+  - Chinese: 胡語倫
+    id: N9661712
+    name: Allen
+    password: yu
+    rating: 51
   - Chinese: 劉軒齊
     id: N9661714
     name: Steven
     password: xuan
     rating: 66
+  - Chinese: 黃路加
+    id: N9661717
+    name: Lucas
+    password: lu
+    rating: 50
   - Chinese: 吳采薇
     id: N9661725
     name: Mico
@@ -269,6 +279,11 @@ active:
     name: Kenny
     password: cheng
     rating: 70
+  - Chinese: 陳靖武
+    id: U9822015
+    name: Sam
+    password: jing
+    rating: 64
   - Chinese: 黃鈺珊
     id: U9822020
     name: May
