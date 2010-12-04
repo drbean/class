@@ -1,8 +1,8 @@
 ---
-round: Exam 1
-week: 6
+round: Exam 2
+week: 9
 questions:
-  - 6
+  - 5
 pass: 2
 assistant:
   - Bernie
