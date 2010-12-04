@@ -1,0 +1,26 @@
+---
+absent:
+approach: Compcomp
+compcomp: comp
+examMax: 5
+exams: exam
+field: 商用英文實務(一)
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 991MIB0014
+jigsaw: exam
+league: 日資管大學二甲
+member:
+  - Chinese: 林辰翰
+    id: U9833003
+    name: ChenHan
+    password: chen
+    rating: 56
+room: A706
+weights:
+  classwork: 60
+  exams: 20
+  homework: 20
+
+active:
