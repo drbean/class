@@ -2,6 +2,8 @@
 round: 4
 week: 5
 absent:
+transfer:
+  - U9833003
 text: 
 activity:
   point:
