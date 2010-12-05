@@ -2,6 +2,8 @@
 round: 2
 week: 3
 absent:
+transfer:
+  - U9833003
 text: 
 activity:
   careers:
