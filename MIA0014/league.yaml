@@ -51,6 +51,8 @@ hwMax: 2
 id: 991MIA0014
 jigsaw: exam
 league: 日資管大學二甲
+transfer:
+  U9833003: MIB0014
 member:
   - Chinese: 張思羽
     id: T9833004
