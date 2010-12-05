@@ -2,6 +2,8 @@
 round: 1
 week: 1
 absent:
+transfer:
+  - U9833003
 text: 
 activity:
   drbean:
