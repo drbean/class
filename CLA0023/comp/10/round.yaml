@@ -1,0 +1,18 @@
+---
+round: 10
+week: 12
+absent:
+text: /home/drbean/class/conversation/food/cards.yaml
+activity:
+  tyson:
+    0:
+      - Black: U9843005
+        White: U9843010
+      - Black: N9561765
+        White: U9843023
+      - Black: U9843026
+        White: U9843030
+      - Black: U9843031
+        White: U9843040
+      - Black: U9843004
+        White: U9843001
