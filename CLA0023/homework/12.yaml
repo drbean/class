@@ -1,0 +1,49 @@
+---
+cutpoints:
+  one: 50
+  two: 170
+exercise: tyson
+grade:
+  N9561765: 2
+  U9843001: 2
+  U9843004: 2
+  U9843005: 2
+  U9843010: 2
+  U9843023: 2
+  U9843026: 2
+  U9843030: 2
+  U9843031: 0
+  U9843040: 1
+points:
+  N9561765:
+    letters: 287
+    questions: 1
+  U9843001:
+    letters: 0
+    questions: 1
+  U9843004:
+    letters: 227
+    questions: 0
+  U9843005:
+    letters: 200
+    questions: 0
+  U9843010:
+    letters: 227
+    questions: 0
+  U9843023:
+    # letters: 0  in /var/www/cgi-bin/dic/db/991qn
+    # letters: 227  in ~/dic/db/991qn
+    letters: 227
+    questions: 1
+  U9843026:
+    letters: 219
+    questions: 0
+  U9843030:
+    letters: 222
+    questions: 0
+  U9843031:
+    letters: 0
+    questions: 0
+  U9843040:
+    letters: 138
+    questions: 0
