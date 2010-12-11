@@ -1,0 +1,183 @@
+---
+cutpoints:
+  one: 50
+  two: 160
+exercise: swotikea
+grade:
+  T9831003: 2
+  T9831015: 2
+  T9831018: 2
+  T9831023: 2
+  T9831030: 0
+  U9742047: 2
+  U9831002: 2
+  U9831005: 2
+  U9831006: 2
+  U9831007: 2
+  U9831012: 2
+  U9831016: 2
+  U9831018: 2
+  U9831021: 2
+  U9831024: 2
+  U9831028: 2
+  U9831035: 2
+  U9831039: 2
+  U9831040: 2
+  U9831043: 2
+  U9831044: 2
+  U9831046: 2
+  U9831049: 0
+  U9831102: 0
+  U9831106: 2
+  U9831109: 2
+  U9831110: 2
+  U9831112: 2
+  U9831114: 2
+  U9831116: 2
+  U9831119: 0
+  U9831122: 2
+  U9831124: 0
+  U9831127: 0
+  U9831128: 2
+  U9831130: 2
+  U9831131: 2
+  U9831132: 0
+  U9831135: 0
+  U9831138: 2
+  U9831140: 2
+  U9831143: 2
+  U9831144: 2
+  U9831147: 2
+points:
+  T9831003:
+    letters: 191
+    questions: 0
+  T9831015:
+    letters: 183
+    questions: 1
+  T9831018:
+    letters: 191
+    questions: 1
+  T9831023:
+    letters: 0
+    questions: 1
+  T9831030:
+    letters: 0
+    questions: 0
+  U9742047:
+    letters: 181
+    questions: 1
+  U9831002:
+    letters: 0
+    questions: 2
+  U9831005:
+    letters: 190
+    questions: 0
+  U9831006:
+    letters: 187
+    questions: 0
+  U9831007:
+    letters: 191
+    questions: 1
+  U9831012:
+    letters: 191
+    questions: 1
+  U9831016:
+    letters: 191
+    questions: 0
+  U9831018:
+    letters: 119
+    questions: 1
+  U9831021:
+    letters: 0
+    questions: 1
+  U9831024:
+    letters: 0
+    questions: 1
+  U9831028:
+    letters: 183
+    questions: 0
+  U9831035:
+    letters: 0
+    questions: 1
+  U9831039:
+    letters: 185
+    questions: 0
+  U9831040:
+    letters: 187
+    questions: 0
+  U9831043:
+    letters: 0
+    questions: 1
+  U9831044:
+    letters: 164
+    questions: 0
+  U9831046:
+    letters: 0
+    questions: 1
+  U9831049:
+    letters: 0
+    questions: 0
+  U9831102:
+    letters: 0
+    questions: 0
+  U9831106:
+    letters: 179
+    questions: 0
+  U9831109:
+    letters: 0
+    questions: 1
+  U9831110:
+    letters: 0
+    questions: 1
+  U9831112:
+    letters: 0
+    questions: 1
+  U9831114:
+    letters: 190
+    questions: 0
+  U9831116:
+    letters: 238
+    questions: 1
+  U9831119:
+    letters: 0
+    questions: 0
+  U9831122:
+    letters: 213
+    questions: 1
+  U9831124:
+    letters: 0
+    questions: 0
+  U9831127:
+    letters: 0
+    questions: 0
+  U9831128:
+    letters: 182
+    questions: 0
+  U9831130:
+    letters: 223
+    questions: 1
+  U9831131:
+    letters: 187
+    questions: 0
+  U9831132:
+    letters: 0
+    questions: 0
+  U9831135:
+    letters: 0
+    questions: 0
+  U9831138:
+    letters: 190
+    questions: 1
+  U9831140:
+    letters: 187
+    questions: 1
+  U9831143:
+    letters: 190
+    questions: 1
+  U9831144:
+    letters: 190
+    questions: 1
+  U9831147:
+    letters: 0
+    questions: 1
