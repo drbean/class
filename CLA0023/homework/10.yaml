@@ -1,0 +1,43 @@
+---
+cutpoints:
+  one: 50
+  two: 180
+exercise: cronig
+grade:
+  N9561765: 0
+  U9843004: 2
+  U9843005: 2
+  U9843010: 2
+  U9843023: 2
+  U9843026: 0
+  U9843030: 2
+  U9843031: 0
+  U9843040: 0
+points:
+  N9561765:
+    letters: ~
+    questions: 0
+  U9843004:
+    letters: 225
+    questions: 1
+  U9843005:
+    letters: 225
+    questions: 0
+  U9843010:
+    letters: 205
+    questions: 0
+  U9843023:
+    letters: ~
+    questions: 1
+  U9843026:
+    letters: ~
+    questions: 0
+  U9843030:
+    letters: 205
+    questions: 1
+  U9843031:
+    letters: ~
+    questions: 0
+  U9843040:
+    letters: ~
+    questions: 0
