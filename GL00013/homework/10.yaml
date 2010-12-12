@@ -1,0 +1,71 @@
+---
+cutpoints:
+  one: 50
+  two: 180
+exercise: cronig
+grade:
+  9622212: 2
+  9622240: 2
+  N9561765: 0
+  N9561766: 0
+  N9661723: 2
+  N9661747: 2
+  T9822129: 0
+  T9822149: 0
+  U9633019: 2
+  U9633052: 2
+  U9722022: 2
+  U9818007: 0
+  U9818046: 0
+  U9821142: 2
+  U9822004: 0
+  U9822019: 2
+points:
+  9622212:
+    letters: 188
+    questions: 0
+  9622240:
+    letters: 225
+    questions: 0
+  N9561765:
+    letters: ~
+    questions: 0
+  N9561766:
+    letters: ~
+    questions: 0
+  N9661723:
+    letters: 216
+    questions: 1
+  N9661747:
+    letters: 225
+    questions: 0
+  T9822129:
+    letters: ~
+    questions: 0
+  T9822149:
+    letters: ~
+    questions: 0
+  U9633019:
+    letters: 225
+    questions: 0
+  U9633052:
+    letters: 216
+    questions: 1
+  U9722022:
+    letters: 189
+    questions: 0
+  U9818007:
+    letters: ~
+    questions: 0
+  U9818046:
+    letters: ~
+    questions: 0
+  U9821142:
+    letters: 205
+    questions: 1
+  U9822004:
+    letters: ~
+    questions: 0
+  U9822019:
+    letters: 205
+    questions: 1
