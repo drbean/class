@@ -1,0 +1,115 @@
+---
+cutpoints:
+  one: 50
+  two: 180
+exercise: cronig
+grade:
+  N9532037: 0
+  N9661709: 0
+  N9661712: 0
+  N9661714: 2
+  N9661717: 0
+  N9661725: 0
+  N9661728: 0
+  N9661740: 2
+  N9661742: 0
+  N9661748: 2
+  T9722102: 2
+  T9722119: 0
+  U9611024: 0
+  U9614044: 2
+  U9714104: 0
+  U9714105: 2
+  U9714108: 0
+  U9714111: 0
+  U9714127: 0
+  U9714135: 2
+  U9714141: 2
+  U9722143: 2
+  U9822015: 0
+  U9822020: 2
+  U9824047: 0
+  U9824053: 0
+  U9824054: 0
+points:
+  N9532037:
+    letters: ~
+    questions: 0
+  N9661709:
+    letters: ~
+    questions: 0
+  N9661712:
+    letters: ~
+    questions: 0
+  N9661714:
+    letters: 189
+    questions: 0
+  N9661717:
+    letters: ~
+    questions: 0
+  N9661725:
+    letters: ~
+    questions: 0
+  N9661728:
+    letters: 36
+    questions: 0
+  N9661740:
+    letters: 216
+    questions: 0
+  N9661742:
+    letters: ~
+    questions: 0
+  N9661748:
+    letters: 148
+    questions: 1
+  T9722102:
+    letters: 189
+    questions: 1
+  T9722119:
+    letters: ~
+    questions: 0
+  U9611024:
+    letters: ~
+    questions: 0
+  U9614044:
+    letters: 215
+    questions: 0
+  U9714104:
+    letters: ~
+    questions: 0
+  U9714105:
+    letters: 185
+    questions: 1
+  U9714108:
+    letters: ~
+    questions: 0
+  U9714111:
+    letters: ~
+    questions: 0
+  U9714127:
+    letters: ~
+    questions: 0
+  U9714135:
+    letters: 216
+    questions: 0
+  U9714141:
+    letters: 205
+    questions: 0
+  U9722143:
+    letters: 225
+    questions: 0
+  U9822015:
+    letters: ~
+    questions: 0
+  U9822020:
+    letters: 205
+    questions: 0
+  U9824047:
+    letters: ~
+    questions: 0
+  U9824053:
+    letters: ~
+    questions: 0
+  U9824054:
+    letters: ~
+    questions: 0
