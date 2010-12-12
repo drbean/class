@@ -77,6 +77,11 @@ id: GL00013
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
+  - Chinese: 王柏鈞
+    id: U9615010
+    name: Jerry
+    password: bo
+    rating: 500
   - Chinese: 謝孟庭
     id: 9622240
     name: Ryan
@@ -157,6 +162,12 @@ member:
     name: Kevin
     password: kai
     rating: 47
+  - name: "Ting'an"
+    id: N9661753
+  - name: Eva1
+    id: V9741042
+  - name: Emily1
+    id: V9741024
 room: A705
 weights:
   classwork: 70
@@ -168,65 +179,64 @@ active:
     id: 9622212
     name: Ken
     password: jun
-    rating: 500
+    rating: 76
   - Chinese: 謝孟庭
     id: 9622240
     name: Ryan
     password: meng
-    rating: 900
-  - ~
+    rating: 79
   - Chinese: 閒慧琦
     id: N9561765
     name: Emily
     password: hui
-    rating: 1200
-  - Chinese: 劉發州
-    id: N9561766
-    name: Frank
-    password: fa
-    rating: 1500
+    rating: 68
   - Chinese: 謝文秀
     id: N9661723
     name: Jessica
     password: wen
-    rating: 1400
+    rating: 86
   - Chinese: 邱靖棋
     id: N9661747
     name: Kiki
     password: jing
-    rating: 1200
+    rating: 76
   - Chinese: 陳奕佃
     id: T9822149
     name: Kenny
     password: yi
-    rating: 1000
+    rating: 75
+  - Chinese: 王柏鈞
+    id: U9615010
+    name: Jerry
+    password: bo
+    rating: 500
+  - Chinese: 蔡宗祐
+    id: U9633019
+    name: Kerwin
+    password: zong
+    rating: 74
+  - Chinese: 金詣耘
+    id: U9633052
+    name: Eva
+    password: yi
+    rating: 81
   - Chinese: 李孟彥
     id: U9722022
     name: Mark
     password: meng
-    rating: 500
-  - Chinese: 許月馨
-    id: U9818007
-    name: Emma
-    password: yue
-    rating: 500
-  - Chinese: 曾莉雯
-    id: U9818046
-    name: Lily
-    password: li
-    rating: 500
+    rating: 75
   - Chinese: 潘辰妮
     id: U9821142
     name: Ivory
     password: chen
-    rating: 500
+    rating: 90
   - Chinese: 黃筠庭
     id: U9822004
     name: Kate
     password: yun
-    rating: 500
+    rating: 83
   - Chinese: 顏資容
     id: U9822019
     name: Sarah
     password: zi
-    rating: 500
+    rating: 78
