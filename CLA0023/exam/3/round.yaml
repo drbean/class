@@ -9,10 +9,14 @@ assistant:
   - MegaPaul
   - Parry
   - Vicky
+  - Wesley
 absent:
   - Annie
 text: /home/drbean/class/conversation/BreakstoneDesantisSchifrin/cards.yaml
 activity:
+  breakstone:
+    1:
+      - Annie
   desantis:
     1:
       - Gray
@@ -36,3 +40,8 @@ group:
     - Wesley
     - Paul
     - Amy
+  Annie:
+    - Wesley
+    - Annie
+    - Amy
+    - Vicky
