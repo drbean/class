@@ -1,0 +1,37 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 10
+pass: 6
+assistant:
+  - MegaPaul
+  - Amy
+examiners:
+  - Gray
+  - Green
+  - Pink
+absent:
+text: /home/drbean/class/conversation/WorkFood/cards.yaml
+activity:
+  cronig:
+    1:
+      - Gray
+      - Green
+      - Pink
+group:
+  Gray:
+    - Parry
+    - O'Neal
+    - Amy
+    - MegaPaul
+  Green:
+    - Annie
+    - Ketty
+    - Wesley
+    - MegaPaul
+  Pink:
+    - Emily
+    - Paul
+    - Vicky
+    - Amy

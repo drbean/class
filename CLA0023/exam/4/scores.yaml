@@ -1,0 +1,24 @@
+---
+Chinese:
+  Gray: 0
+  Green: 0
+  Pink: 0
+letters:
+  Gray:
+    U9843031: 9
+    U9843040: 9
+    U9843010: 5
+    U9843001: 8
+    story: cronig1
+  Green:
+    U9843005: 9
+    U9843026: 9
+    U9843004: 9
+    U9843001: 9
+    story: cronig1
+  Pink:
+    N9561765: 7
+    U9843030: 7
+    U9843023: 7
+    U9843010: 6
+    story: cronig1
