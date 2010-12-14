@@ -1,6 +1,6 @@
 ---
 round: 11
-week: 11
+week: 10
 absent:
 text: 
 activity:
@@ -87,4 +87,8 @@ activity:
       -
          White: N9661706
          Black: N9661702
+      -
+         White: N9661741
+         Black: N9661738
+       
 bye: N9561732
