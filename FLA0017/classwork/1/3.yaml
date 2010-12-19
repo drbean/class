@@ -37,7 +37,8 @@ White:
   merits: 2
 Yellow:
   absent: 
-  merits: 7
+  # merits: 7
+  merits: 5
 WhiteWhite:
   absent: 
   merits: 2

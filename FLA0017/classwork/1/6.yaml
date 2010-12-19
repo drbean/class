@@ -11,7 +11,8 @@ BlackBlack:
 Blue:
   absent: 
     - Shiau-ching
-  merits      : 11
+  # merits      : 11
+  merits      : 5
 BlueBlue:
   absent: 
     - Kitty
@@ -30,7 +31,8 @@ Green:
   merits      : 0
 Orange:
   absent: 
-  merits      : 6
+  # merits      : 6
+  merits      : 5
 Pink:
   absent: 
   merits      : 5
