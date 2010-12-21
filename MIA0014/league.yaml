@@ -42,7 +42,7 @@ absent:
     rating: 104
 approach: Compcomp
 compcomp: comp
-examMax: 5
+examMax: 4
 exams: exam
 field: 商用英文實務(一)
 groupwork: classwork
@@ -311,3 +311,243 @@ weights:
   homework: 20
 
 active:
+  - Chinese: 李俞瑩
+    id: U9833025
+    name: Yu-Ying
+    password: yu
+    rating: 72
+  - Chinese: 林瀚宇
+    id: U9833043
+    name: Han-Yu
+    password: han
+    rating: 82
+  - Chinese: 張思羽
+    id: T9833004
+    name: Si-Yu
+    password: si
+    rating: 81
+  - Chinese: 范國威
+    id: T9833006
+    name: Kou-wei
+    password: guo
+    rating: 81
+  - Chinese: 吳筱淇
+    id: T9833009
+    name: XiaoQi
+    password: xiao
+    rating: 75
+  - Chinese: 劉卉琳
+    id: T9833025
+    name: HuiLin
+    password: hui
+    rating: 85
+  - Chinese: 翁愷駿
+    id: T9833027
+    name: Chung
+    password: kai
+    rating: 73
+  - Chinese: 吳育瑄
+    id: T9833028
+    name: YuXun
+    password: yu
+    rating: 83
+  - Chinese: 林美卿
+    id: T9833030
+    name: MeiQing
+    password: mei
+    rating: 77
+  - Chinese: 洪志慶
+    id: T9833032
+    name: Ching
+    password: zhi
+    rating: 50
+  - Chinese: 陳家祥
+    id: T9833035
+    name: JiaXiang
+    password: jia
+    rating: 71
+  - Chinese: 楊郁婕
+    id: T9833037
+    name: YuJie
+    password: yu
+    rating: 86
+  - Chinese: 紀雅萱
+    id: T9833039
+    name: Ya-syuan
+    password: ya
+    rating: 79
+  - Chinese: 廖曉葳
+    id: T9833043
+    name: XiaoWei
+    password: xiao
+    rating: 81
+  - Chinese: 黃依庭
+    id: T9833045
+    name: Yi-ting
+    password: yi
+    rating: 76
+  - Chinese: 張雅婷
+    id: T9833046
+    name: YaTing
+    password: ya
+    rating: 88
+  - Chinese: 陳筱柔
+    id: T9833050
+    name: XiaoRou
+    password: xiao
+    rating: 84
+  - Chinese: 蔡承運
+    id: U9733013
+    name: Jeter
+    password: cheng
+    rating: 36
+  - Chinese: 鄭雅云
+    id: U9831107
+    name: YaYun
+    password: ya
+    rating: 65
+  - Chinese: 曾渝婷
+    id: U9833001
+    name: Raffaele
+    password: yu
+    rating: 77
+  - Chinese: 聞人翰
+    id: U9833002
+    name: Wade
+    password: ren
+    rating: 71
+  - Chinese: 林辰翰
+    id: U9833003
+    name: ChenHan
+    password: chen
+    rating: 56
+  - Chinese: 林冠吟
+    id: U9833005
+    name: GuanYin
+    password: guan
+    rating: 81
+  - Chinese: 蘇宸誼
+    id: U9833007
+    name: David
+    password: chen
+    rating: 73
+  - Chinese: 蔡明翰
+    id: U9833009
+    name: MingHan
+    password: ming
+    rating: 60
+  - Chinese: 陳曉嫺
+    id: U9833011
+    name: XiaoXian
+    password: xiao
+    rating: 78
+  - Chinese: 李品潔
+    id: U9833014
+    name: PingJie
+    password: pin
+    rating: 76
+  - Chinese: 王偉帆
+    id: U9833015
+    name: Chase
+    password: wei
+    rating: 72
+  - Chinese: 石佳艷
+    id: U9833019
+    name: Yan
+    password: jia
+    rating: 68
+  - Chinese: 薛維德
+    id: U9833020
+    name: Victor
+    password: wei
+    rating: 85
+  - Chinese: 李燕豪
+    id: U9833022
+    name: Alexis
+    password: yan
+    rating: 85
+  - Chinese: 連恩典
+    id: U9833023
+    name: Entian
+    password: en
+    rating: 80
+  - Chinese: 曾楚竣
+    id: U9833024
+    name: ChuJun
+    password: chu
+    rating: 69
+  - Chinese: 吳婕妤
+    id: U9833026
+    name: Jie-Yu
+    password: jie
+    rating: 77
+  - Chinese: 陳美涵
+    id: U9833030
+    name: Hanna
+    password: mei
+    rating: 69
+  - Chinese: 劉俐伶
+    id: U9833031
+    name: LiLing
+    password: li
+    rating: 75
+  - Chinese: 李宗憲
+    id: U9833034
+    name: Tim
+    password: zong
+    rating: 78
+  - Chinese: 曾淑珍
+    id: U9833035
+    name: Jane
+    password: shu
+    rating: 69
+  - Chinese: 林于心
+    id: U9833038
+    name: YuXin
+    password: yu
+    rating: 82
+  - Chinese: 羅文孝
+    id: U9833039
+    name: WenXiao
+    password: wen
+    rating: 70
+  - Chinese: 邱柏誌
+    id: U9833040
+    name: Bernie
+    password: bo
+    rating: 80
+  - Chinese: 鄭貴騰
+    id: U9833041
+    name: Nate
+    password: gui
+    rating: 79
+  - Chinese: 何宗樺
+    id: U9833044
+    name: Zong-Hua
+    password: zong
+    rating: 77
+  - Chinese: 黃劭宇
+    id: U9833047
+    name: Peter
+    password: shao
+    rating: 75
+  - Chinese: 陳穎璇
+    id: U9833048
+    name: Ying-Hsuan
+    password: ying
+    rating: 77
+  - Chinese: 趙展睿
+    id: U9833049
+    name: Ray
+    password: zhan
+    rating: 72
+  - Chinese: 謝其儒
+    id: U9833050
+    name: Friday
+    password: qi
+    rating: 68
+  - Chinese: 謝佳憓
+    id: U9833052
+    name: Flora
+    password: jia
+    rating: 73
