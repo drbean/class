@@ -42,7 +42,7 @@ absent:
     rating: 104
 approach: Compcomp
 compcomp: comp
-examMax: 4
+examMax: 5
 exams: exam
 field: 商用英文實務(一)
 groupwork: classwork
