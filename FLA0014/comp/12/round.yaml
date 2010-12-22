@@ -1,0 +1,48 @@
+---
+round: 12
+week: 11
+absent:
+text: /home/drbean/class/conversation/food/cards.yaml
+activity:
+  lerman:
+    0:
+      - Black: V9841011
+        White: V9841039
+      - Black: V9841007
+        White: V9841031
+      - Black: V9841020
+        White: V9841022
+      - Black: V9999113
+        White: V9841028
+      - Black: V9841049
+        White: V9841029
+      - Black: V9841006
+        White: V9841064
+      - Black: V9841051
+        White: V9841040
+      - Black: V9841050
+        White: V9841037
+      - Black: V9841005
+        White: V9841017
+      - Black: V9841053
+        White: V9741065
+      - Black: V9841009
+        White: V9841038
+      - Black: V9841030
+        White: V9841024
+      - Black: V9841015
+        White: V9841014
+      - Black: V9841067
+        White: V9841041
+      - Black: V9841054
+        White: V9841034
+      - Black: V9841026
+        White: V9841048
+      - Black: V9841008
+        White: V9841027
+      - Black: N9661760
+        White: V9841010
+      - Black: V9841059
+        White: V9841062
+late:
+  - V9841059
