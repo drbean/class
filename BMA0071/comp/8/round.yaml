@@ -5,7 +5,7 @@ absent:
 text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
 activity:
   webnegotiation:
-    1:
+    0:
       - Black: U9831007
         White: U9831021
       - Black: U9831138
@@ -49,7 +49,7 @@ activity:
       - Black: U9831119
         White: U9831128
   vacations:
-    1:
+    0:
       - Black: U9831007
         White: U9831021
       - Black: U9831138
