@@ -1,0 +1,18 @@
+---
+round: 12
+week: 1
+absent:
+text: /home/drbean/class/conversation/disasters/cards.yaml
+activity:
+  duplantier:
+    1:
+      - White: N9561765
+        Black: U9843010
+      - White: U9843040
+        Black: U9843030
+      - White: U9843026
+        Black: U9843004
+      - White: U9843031
+        Black: U9843023
+      - White: U9843005
+        Black: U9843001
