@@ -1,0 +1,64 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 10
+pass: 6
+assistant:
+  - Lucas
+examiners:
+  - Blue
+  - Purple
+absent:
+text: /home/drbean/class/conversation/WorkFood/cards.yaml
+activity:
+  cronig:
+    1:
+      - Black
+      - Blue
+
+  lerman:
+    1:
+      - Gray
+      - Green
+      - Purple
+  tyson:
+    0:
+      - Pink
+      - White
+group:
+  Black:
+    - Allen
+    - Jay
+    - Daisy
+    - Cloud
+  Blue:
+    - Shanghao
+    - Jim
+    - Yu-chi
+    - Ken
+  Gray:
+    - John
+    - Mico
+    - Hendy
+    - James
+  Green:
+    - Lucas
+    - Kenny
+    - Kate
+    - May
+  Pink:
+    - Chad
+    - Lily
+    - Fang-Yi
+    - Emaily
+  Purple:
+    - Steven
+    - Moto
+    - Rita
+    - Sam
+  White:
+    - Irin
+    - Peter
+    - Cindy
+    - Lucas
