@@ -244,6 +244,13 @@ out:
     password: zhao
     rating: 116
 room: 8502
+scores:
+  win: 5
+  draw: 4
+  loss: 3
+  forfeit: 0
+  late: 1
+  bye: 5
 series:
   - first
   - second
