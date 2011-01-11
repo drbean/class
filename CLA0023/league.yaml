@@ -138,27 +138,27 @@ active:
     id: N9561765
     name: Emily
     password: hui
-    rating: 57
+    rating: 59
   - Chinese: 沈　揚
     id: U9843001
     name: MegaPaul
     password: yang
-    rating: 500
+    rating: 26
   - Chinese: 李炳榮
     id: U9843004
     name: Wesley
     password: bing
-    rating: 75
+    rating: 74
   - Chinese: 蔡宜君
     id: U9843005
     name: Annie
     password: yi
-    rating: 69
+    rating: 67
   - Chinese: 張景淳
     id: U9843010
     name: Amy
     password: jing
-    rating: 82
+    rating: 78
   - Chinese: 李恩柔
     id: U9843023
     name: Vicky
@@ -168,19 +168,19 @@ active:
     id: U9843026
     name: Ketty
     password: min
-    rating: 73
+    rating: 69
   - Chinese: 蔡文賢
     id: U9843030
     name: Paul
     password: wen
-    rating: 73
+    rating: 77
   - Chinese: 許珀瑋
     id: U9843031
     name: Parry
     password: po
-    rating: 61
+    rating: 65
   - Chinese: 洪晟庭
     id: U9843040
-    name: "O'Neal"
+    name: O'Neal
     password: sheng
-    rating: 77
+    rating: 72

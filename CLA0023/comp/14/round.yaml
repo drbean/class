@@ -1,0 +1,40 @@
+---
+round: 14
+week: 16
+absent:
+text: /home/drbean/class/conversation/disasters/cards.yaml
+late:
+  - U9843001
+activity:
+  conant:
+    0:
+      #0:
+      #   White: U9843010
+      #   Black: U9843023
+      #1:
+      #   White: U9843040
+      #   Black: U9843030
+      #2:
+      #   White: U9843005
+      #   Black: N9561765
+      #3:
+      #   White: U9843004
+      #   Black: U9843031
+      #4:
+      #   White: U9843001
+      #   Black: U9843001
+      -
+         White: U9843010
+         Black: U9843023
+      -
+         White: U9843040
+         Black: U9843030
+      -
+         White: U9843005
+         Black: N9561765
+      -
+         White: U9843004
+         Black: U9843031
+      -
+         White: U9843001
+         Black: U9843001

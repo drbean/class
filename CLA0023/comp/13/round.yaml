@@ -6,15 +6,27 @@ text: /home/drbean/class/conversation/disasters/cards.yaml
 activity:
   desilvey:
     1:
-      0:
+      -
         White: U9843010
         Black: U9843040
-      1:
+      -
         White: U9843023
         Black: U9843030
-      2:
+      -
         White: N9561765
         Black: U9843004
-      3:
+      -
         White: U9843026
         Black: U9843005
+      #0:
+      #  White: U9843010
+      #  Black: U9843040
+      #1:
+      #  White: U9843023
+      #  Black: U9843030
+      #2:
+      #  White: N9561765
+      #  Black: U9843004
+      #3:
+      #  White: U9843026
+      #  Black: U9843005
