@@ -1,0 +1,38 @@
+---
+round: 15
+week: 17
+absent:
+text: /home/drbean/class/conversation/disasters/cards.yaml
+activity:
+  harllee:
+    0:
+      #1:
+      #   White: U9843040
+      #   Black: U9843005
+      #2:
+      #   White: U9843004
+      #   Black: U9843023
+      #3:
+      #   White: U9843030
+      #   Black: U9843001
+      #4:
+      #   White: N9561765
+      #   Black: U9843026
+      #5:
+      #   White: U9843031
+      #   Black: U9843010
+      -
+         White: U9843040
+         Black: U9843005
+      -
+         White: U9843004
+         Black: U9843023
+      -
+         White: U9843030
+         Black: U9843001
+      -
+         White: N9561765
+         Black: U9843026
+      -
+         White: U9843031
+         Black: U9843010
