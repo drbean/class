@@ -5,6 +5,7 @@ absent:
 text: /home/drbean/class/conversation/disasters/cards.yaml
 late:
   - U9843001
+bye: U9843001
 activity:
   conant:
     0:
@@ -35,6 +36,3 @@ activity:
       -
          White: U9843004
          Black: U9843031
-      -
-         White: U9843001
-         Black: U9843001
