@@ -1,0 +1,146 @@
+---
+round: 16
+week: 17
+absent:
+text: /home/drbean/class/business/greatideas/cards.yaml
+activity:
+  internet:
+    0:
+      #0:
+      #  White: T9833032
+      #  Black: U9833022
+      #1:
+      #  White: U9833025
+      #  Black: T9833025
+      #2:
+      #  White: U9833038
+      #  Black: T9833043
+      #3:
+      #  White: T9833046
+      #  Black: U9833031
+      #4:
+      #  White: U9833001
+      #  Black: U9833003
+      #5:
+      #  White: U9833041
+      #  Black: T9833030
+      #6:
+      #  White: U9833023
+      #  Black: U9833043
+      #7:
+      #  White: T9833037
+      #  Black: U9833014
+      #8:
+      #  White: T9833006
+      #  Black: U9833030
+      #9:
+      #  White: U9833034
+      #  Black: T9833009
+      #10:
+      #  White: T9833050
+      #  Black: U9833005
+      #11:
+      #  White: U9833020
+      #  Black: U9833015
+      #12:
+      #  White: U9833044
+      #  Black: T9833028
+      #13:
+      #  White: U9833048
+      #  Black: U9833047
+      #14:
+      #  White: U9833026
+      #  Black: U9833039
+      #15:
+      #  White: T9833004
+      #  Black: U9833019
+      #16:
+      #  White: U9831107
+      #  Black: T9833035
+      #17:
+      #  White: U9833035
+      #  Black: T9833039
+      #18:
+      #  White: T9833027
+      #  Black: U9833011
+      #19:
+      #  White: U9833050
+      #  Black: U9833052
+      #20:
+      #  White: T9833013
+      #  Black: U9833009
+      #21:
+      #  White: U9833002
+      #  Black: T9833045
+      #22:
+      #  White: U9733013
+      #  Black: U9833040
+      -
+        White: T9833032
+        Black: U9833022
+      -
+        White: U9833025
+        Black: T9833025
+      -
+        White: U9833038
+        Black: T9833043
+      -
+        White: T9833046
+        Black: U9833031
+      -
+        White: U9833001
+        Black: U9833003
+      -
+        White: U9833041
+        Black: T9833030
+      -
+        White: U9833023
+        Black: U9833043
+      -
+        White: T9833037
+        Black: U9833014
+      -
+        White: T9833006
+        Black: U9833030
+      -
+        White: U9833034
+        Black: T9833009
+      -
+        White: T9833050
+        Black: U9833005
+      -
+        White: U9833020
+        Black: U9833015
+      -
+        White: U9833044
+        Black: T9833028
+      -
+        White: U9833048
+        Black: U9833047
+      -
+        White: U9833026
+        Black: U9833039
+      -
+        White: T9833004
+        Black: U9833019
+      -
+        White: U9831107
+        Black: T9833035
+      -
+        White: U9833035
+        Black: T9833039
+      -
+        White: T9833027
+        Black: U9833011
+      -
+        White: U9833050
+        Black: U9833052
+      -
+        White: T9833013
+        Black: U9833009
+      -
+        White: U9833002
+        Black: T9833045
+      -
+        White: U9733013
+        Black: U9833040
