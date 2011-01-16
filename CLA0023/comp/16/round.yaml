@@ -1,0 +1,99 @@
+---
+round: 16
+week: 18
+absent:
+text: /home/drbean/class/conversation/disasters/cards.yaml
+activity:
+  duplantier:
+    2:
+      1:
+         White: U9843023
+         Black: U9843005
+      2:
+         White: U9843030
+         Black: U9843004
+      3:
+         White: U9843010
+         Black: U9843026
+      4:
+         White: U9843001
+         Black: U9843031
+      5:
+         White: N9561765
+         Black: U9843040
+  desilvey:
+    2:
+      1:
+         White: U9843023
+         Black: U9843005
+      2:
+         White: U9843030
+         Black: U9843004
+      3:
+         White: U9843010
+         Black: U9843026
+      4:
+         White: U9843001
+         Black: U9843031
+      5:
+         White: N9561765
+         Black: U9843040
+  conant:
+    1:
+      1:
+         White: U9843023
+         Black: U9843005
+      2:
+         White: U9843030
+         Black: U9843004
+      3:
+         White: U9843010
+         Black: U9843026
+      4:
+         White: U9843001
+         Black: U9843031
+      5:
+         White: N9561765
+         Black: U9843040
+  harllee:
+    0:
+      2:
+         White: U9843030
+         Black: U9843004
+      3:
+         White: U9843010
+         Black: U9843026
+      5:
+         White: N9561765
+         Black: U9843040
+group:
+  #1:
+  #   White: U9843023
+  #   Black: U9843005
+  #2:
+  #   White: U9843030
+  #   Black: U9843004
+  #3:
+  #   White: U9843010
+  #   Black: U9843026
+  #4:
+  #   White: U9843001
+  #   Black: U9843031
+  #5:
+  #   White: N9561765
+  #   Black: U9843040
+  -
+     White: U9843023
+     Black: U9843005
+  -
+     White: U9843030
+     Black: U9843004
+  -
+     White: U9843010
+     Black: U9843026
+  -
+     White: U9843001
+     Black: U9843031
+  -
+     White: N9561765
+     Black: U9843040
