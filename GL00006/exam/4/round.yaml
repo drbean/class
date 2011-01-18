@@ -1,0 +1,66 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 6
+assistant:
+  - Moto
+  - Lucas
+  - Cloud
+absent:
+  - Shanghao
+  - Sam
+text: /home/drbean/class/conversation/disasters/cards.yaml
+activity:
+  duplantier:
+    1:
+      - Blue
+      - Purple
+  desilvey:
+    1:
+      - Black
+      - Pink
+  conant:
+    1:
+      - Gray
+      - White
+  harllee:
+    1:
+      - Green
+group:
+  Black:
+    - Lucas
+    - Moto
+    - Jay
+    - Kate
+  Blue:
+    - Irin
+    - Moto
+    - Lily
+    - Cloud
+  Gray:
+    - Rita
+    - Mico
+    - Peter
+    - Cindy
+  Green:
+    - John
+    - James
+    - Hendy
+    - Emaily
+  Pink:
+    - Lucas
+    - Fang-Yi
+    - Yu-chi
+    - Jim
+  Purple:
+    - Chad
+    - Daisy
+    - Kenny
+    - Ken
+  White:
+    - Allen
+    - Steven
+    - May
+    - Cloud
