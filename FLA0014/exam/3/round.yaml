@@ -1,0 +1,112 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+  - Fifi
+  - Rose
+  - Patty
+  - Kori
+  - Wei-Yi
+  - Leo
+  - Sue
+  - Ricky
+  - Yorick
+absent:
+  - Ivan
+  - Joanna
+  - Amber
+  - Miranda
+  - Shiau-ching
+  - Dan
+  - Jason
+  - Dennis
+text: /home/drbean/class/conversation/WorkFood/cards.yaml
+activity:
+  cronig:
+    1:
+      - Black
+      - BlackBlack
+      - Purple
+  lerman:
+    1:
+      - Gray
+      - Pink
+      - White
+      - Yellow
+  tyson:
+    0:
+      - Blue
+      - Brown
+      - Green
+      - Orange
+      - Red
+      - WhiteWhite
+group:
+  Black:
+    - Fifi
+    - Christian
+    - Winny
+    - Luke
+  BlackBlack:
+    - Rose
+    - Patty
+    - Joan
+    - Yu-Ching
+  Blue:
+    - Kitty
+    - Winne
+    - Abby
+    - Lace
+  Brown:
+    - Eva
+    - Patty
+    - Carina
+    - Rose
+  Gray:
+    - Annie
+    - Kori
+    - Anne
+    - Fifi
+  Green:
+    - Kori
+    - Yi-Ru
+    - Wei-Yi
+    - Joy
+  Orange:
+    - Ricky
+    - Yu-Lun
+    - Hank
+    - Wei-Yi
+  Pink:
+    - Tea
+    - Bass
+    - Hannah
+    - Rachel
+  Purple:
+    - Ricky
+    - Katty
+    - Sue
+    - Debbie
+  Red:
+    - Leo
+    - Yorick
+    - Jessica
+    - Frances
+  White:
+    - Yorick
+    - Sana
+    - Jeffrey
+    - Leo
+  WhiteWhite:
+    - Sue
+    - Stanley
+    - Shaq
+    - Laura
+  Yellow:
+    - Cathy
+    - Lisa
+    - Ming
+    - Julie
