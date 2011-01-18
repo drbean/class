@@ -1,0 +1,38 @@
+---
+round: 17
+week: 19
+absent:
+text: /home/drbean/class/conversation/life/cards.yaml
+activity:
+  nightcourt:
+    0:
+      #1:
+      #   White: U9843040
+      #   Black: U9843030
+      #2:
+      #   White: U9843026
+      #   Black: N9561765
+      #3:
+      #   White: U9843005
+      #   Black: U9843010
+      #4:
+      #   White: U9843031
+      #   Black: U9843023
+      #5:
+      #   White: U9843004
+      #   Black: U9843001
+      -
+         White: U9843040
+         Black: U9843030
+      -
+         White: U9843026
+         Black: N9561765
+      -
+         White: U9843005
+         Black: U9843010
+      -
+         White: U9843031
+         Black: U9843023
+      -
+         White: U9843004
+         Black: U9843001
