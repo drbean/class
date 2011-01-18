@@ -1,0 +1,38 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 6
+assistant:
+  - Vicky
+  - Paul
+absent:
+text: /home/drbean/class/conversation/disasters/cards.yaml
+activity:
+  duplantier:
+    1:
+      - Pink
+  desilvey:
+    1:
+      - Green
+  harllee:
+    1:
+      - Gray
+
+group:
+  Gray:
+    - Parry
+    - Ketty
+    - Wesley
+    - Paul
+  Green:
+    - Emily
+    - Annie
+    - Vicky
+    - Paul
+  Pink:
+    - MegaPaul
+    - O'Neal
+    - Amy
+    - Vicky
