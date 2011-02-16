@@ -1,0 +1,80 @@
+---
+Chinese:
+  Black: 0
+  BlackBlack: 0
+  Blue: 0
+  Brown: 0
+  Gray: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
+  Red: 0
+  White: 0
+  Yellow: 0
+letters:
+  Black:
+    T9831023: 4
+    U9831046: 4
+    U9831102: 5
+    U9831140: 4
+    story: candidate1
+  BlackBlack:
+    U9831106: 2
+    U9831109: 6
+    U9742047: 5
+    U9831044: 5
+    story: candidate3
+  Blue:
+    U9831002: 4
+    U9831043: 4
+    U9831110: 4
+    U9831138: 4
+    story: candidate3
+  Brown:
+    T9831015: 2
+    U9831040: 3
+    U9831112: 2
+    U9831135: 2
+    story: candidate1
+  Gray:
+    U9831144: 6
+    U9831039: 6
+    U9831114: 5
+    U9831132: 4
+    story: candidate3
+  Orange:
+    U9831012: 4
+    U9831028: 4
+    U9831119: 4
+    U9831130: 3
+    story: candidate2
+  Pink:
+    U9831016: 6
+    U9831024: 6
+    U9831122: 6
+    U9831128: 6
+    story: candidate4
+  Purple:
+    U9831018: 5
+    U9831021: 5
+    U9831124: 5
+    U9831127: 5
+    story: candidate2
+  Red:
+    T9831030: 2
+    T9831018: 5
+    U9831049: 5
+    U9831143: 5
+    story: candidate4
+  White:
+    U9831007: 5
+    U9831035: 4
+    U9831116: 4
+    U9831131: 2
+    story: candidate2
+  Yellow:
+    U9831005: 3
+    T9831003: 2
+    U9831106: 2
+    U9831147: 2
+    story: candidate1
