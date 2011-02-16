@@ -1,0 +1,100 @@
+---
+round: Exam 1
+week: 6
+questions:
+  - 6
+pass: 3
+assistant:
+  - Bernie
+  - MeiQing
+  - Ya-syuan
+absent:
+    - YuLung
+    - ManQi
+    - Ching
+text: /home/drbean/class/business/careers/candidate/cards.yaml
+activity:
+  candidate:
+    1:
+      - Black
+      - Red
+      - Purple
+      - Yellow
+    2:
+      - Blue
+      - Gray
+      - Orange
+    3:
+      - Brown
+      - Green
+      - Pink
+    4:
+      - BlackBlack
+      - White
+      - WhiteWhite
+group:
+  Black:
+    - Kou-wei
+    - MingHan
+    - Chase
+    - PingJie
+  BlackBlack:
+    - XiaoQi
+    - David
+    - XiaoXian
+    - Friday
+  Blue:
+    - HanPing
+    - GuanYin
+    - Yan
+    - Ray
+  Brown:
+    - HuiLin
+    - ChenHan
+    - Alexis
+    - Peter
+  Gray:
+    - Chung
+    - Wade
+    - Entian
+    - Sam
+  Green:
+    - YuXun
+    - Raffaele
+    - ChuJun
+    - Zong-Hua
+  Orange:
+    - MeiQing
+    - YaYun
+    - Yu-Ying
+    - Han-Yu
+  Pink:
+    - Bernie
+    - Jeter
+    - Jie-Yu
+    - Nate
+  Purple:
+    - JiaXiang
+    - XiaoRou
+    - Hanna
+    - Bernie
+  Red:
+    - YuJie
+    - YaTing
+    - LiLing
+    - WenXiao
+  White:
+    - Ya-syuan
+    - Yi-ting
+    - Tim
+    - YuXin
+  WhiteWhite:
+    - MeiQing
+    - XiaoWei
+    - Jane
+    - Ya-syuan
+  Yellow:
+    - Si-Yu
+    - Flora
+    - Victor
+    - Ying-Hsuan
