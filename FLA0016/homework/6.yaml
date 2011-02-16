@@ -1,0 +1,162 @@
+---
+cutpoints:
+  one: 0
+  two: 0
+exercise: breakstone
+grade:
+  V9841021: 0
+  V9841004: 0
+  V9841062: 0
+  V9841020: 0
+  V9841035: 0
+  V9841048: 0
+  V9741002: 0
+  V9841031: 0
+  V9841047: 0
+  V9841053: 0
+  V9841044: 0
+  V9841039: 0
+  V9841054: 0
+  V9841049: 0
+  V9841042: 0
+  V9841037: 0
+  V9841030: 0
+  N9661760: 0
+
+  V9741065: 2
+  V9841002: 0
+  V9841005: 2
+  V9841006: 1
+  V9841007: 2
+  V9841008: 0
+  V9841009: 0
+  V9841010: 0
+  V9841011: 2
+  V9841013: 2
+  V9841014: 1
+  V9841015: 2
+  V9841017: 0
+  V9841022: 0
+  V9841024: 1
+  V9841026: 2
+  V9841027: 0
+  V9841028: 0
+  V9841029: 0
+  V9841033: 2
+  V9841034: 2
+  V9841036: 2
+  V9841038: 2
+  V9841040: 2
+  V9841041: 2
+  V9841046: 2
+  V9841050: 2
+  V9841051: 0
+  V9841058: 0
+  V9841059: 2
+  V9841063: 1
+  V9841064: 0
+  V9841067: 2
+  V9999113: 2
+points:
+  V9741065:
+    letters: 158
+    questions: 0
+  V9841002:
+    letters: ~
+    questions: 0
+  V9841005:
+    letters: 141
+    questions: 1
+  V9841006:
+    letters: 99
+    questions: 0
+  V9841007:
+    letters: 144
+    questions: 1
+  V9841008:
+    letters: ~
+    questions: 0
+  V9841009:
+    letters: 39
+    questions: 0
+  V9841010:
+    letters: ~
+    questions: 0
+  V9841011:
+    letters: 158
+    questions: 1
+  V9841013:
+    letters: ~
+    questions: 1
+  V9841014:
+    letters: 111
+    questions: 0
+  V9841015:
+    letters: 20
+    questions: 1
+  V9841017:
+    letters: ~
+    questions: 0
+  V9841022:
+    letters: ~
+    questions: 0
+  V9841024:
+    letters: 69
+    questions: 0
+  V9841026:
+    letters: 158
+    questions: 0
+  V9841027:
+    letters: 6
+    questions: 0
+  V9841028:
+    letters: ~
+    questions: 0
+  V9841029:
+    letters: ~
+    questions: 0
+  V9841033:
+    letters: 187
+    questions: 0
+  V9841034:
+    letters: 151
+    questions: 1
+  V9841036:
+    letters: 187
+    questions: 0
+  V9841038:
+    letters: 187
+    questions: 1
+  V9841040:
+    letters: 147
+    questions: 0
+  V9841041:
+    letters: 158
+    questions: 1
+  V9841046:
+    letters: 147
+    questions: 1
+  V9841050:
+    letters: 124
+    questions: 1
+  V9841051:
+    letters: ~
+    questions: 0
+  V9841058:
+    letters: ~
+    questions: 0
+  V9841059:
+    letters: 187
+    questions: 1
+  V9841063:
+    letters: 109
+    questions: 0
+  V9841064:
+    letters: ~
+    questions: 0
+  V9841067:
+    letters: 158
+    questions: 0
+  V9999113:
+    letters: 149
+    questions: 0
