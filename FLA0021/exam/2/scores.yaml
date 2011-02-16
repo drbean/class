@@ -1,0 +1,122 @@
+---
+Chinese:
+  Black: 0
+  BlackBlack: 0
+  Blue: 0
+  BlueBlue: 0
+  Brown: 0
+  BrownBrown: 0
+  Gray: 0
+  GrayGray: 0
+  Green: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
+  Red: 0
+  White: 0
+  WhiteWhite: 0
+  Yellow: 0
+  YellowYellow: 0
+letters:
+  Black:
+    V9741028: 9
+    V9741049: 9
+    V9741029: 9
+    V9741037: 9
+    story: sunshine1
+  BlackBlack:
+    N9661724: 8
+    V9741043: 8
+    V9741015: 8
+    V9741047: 8
+    story: sunshine1
+  Blue:
+    N9661746: 6
+    N9661731: 5
+    N9661738: 7
+    V9731059: 6
+    story: spano1
+  BlueBlue:
+    9622299: 9
+    V9741042: 9
+    N9661748: 9
+    N9561721: 9
+    story: spano1
+  Brown:
+    V9741061: 7
+    V9741016: 7
+    N9661713: 7
+    N9461738: 7
+    story: spano1
+  BrownBrown:
+    N9661717: 6
+    N9661705: 6
+    N9661727: 6
+    U9616041: 6
+    story: spano1
+  Gray:
+    V9724004: 9
+    V9741041: 9
+    V9741055: 9
+    N9661740: 9
+    story: sunshine1
+  GrayGray:
+    V9741038: 6
+    N9561762: 9
+    V9741040: 9
+    V9741034: 9
+    story: conley1
+  Green:
+    V9741010: 6
+    N9661743: 7
+    V9741023: 8
+    N9661728: 8
+    story: spano1
+  Orange:
+    U9533039: 8
+    V9741036: 4
+    N9561732: 7
+    N9661747: 7
+    story: spano1
+  Pink:
+    N9661725: 9
+    N9661737: 9
+    V9741057: 7
+    V9741030: 9
+    story: conley1
+  Purple:
+    N9561765: 10
+    V9741025: 10
+    N9661706: 10
+    N9661702: 10
+    story: spano1
+  Red:
+    V9741018: 9
+    V9741066: 9
+    V9741060: 9
+    V9741053: 9
+    story: conley1
+  White:
+    V9741044: 8
+    N9561751: 8
+    V9741032: 8
+    N9661753: 8
+    story: conley1
+  WhiteWhite:
+    N9661758: 9
+    V9741009: 8
+    V9741064: 9
+    N9661761: 9
+    story: spano1
+  Yellow:
+    V9741059: 10
+    V9741048: 10
+    N9661741: 10
+    U9616041: 10
+    story: conley1
+  YellowYellow:
+    N9661749: 10
+    V9741014: 10
+    V9741024: 9
+    U9616041: 10
+    story: conley1

@@ -1,0 +1,122 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 10
+pass: 6
+assistant:
+  - Joey
+  - Vivi
+absent:
+text: /home/drbean/class/conversation/NovakWardTrinka/cards.yaml
+activity:
+  novak:
+    0:
+      - Brown
+      - GrayGray
+      - Red
+      - WhiteWhite
+  ward:
+    1:
+      - Black
+      - Pink
+      - Gray
+      - BrownBrown
+      - YellowYellow
+  trinka:
+    1:
+      - BlackBlack
+      - BlueBlue
+      - Orange
+      - White
+    2:
+      - Blue
+      - Green
+      - Purple
+      - Yellow
+group:
+  Black:
+    - Emily3
+    - Vivi
+    - Alan
+    - Amy
+  BlackBlack:
+    - Sunny
+    - Nancy
+    - Andy
+    - Bruce
+  Blue:
+    - Fenny
+    - Vera
+    - Melissa
+    - Kathy
+  BlueBlue:
+    - Hank
+    - Nana
+    - Justin
+    - Ivy2
+  Brown:
+    - Cindy
+    - Emma
+    - Anita
+    - Nina
+  BrownBrown:
+    - Eunice
+    - Ally
+    - Cathy
+    - Abby
+  Gray:
+    - Ashley
+    - Ting'an
+    - Elly
+    - Molly
+  GrayGray:
+    - Anne
+    - Chelsea
+    - Emily1
+    - Sophie
+  Green:
+    - Ting
+    - Cloud
+    - Tracy
+    - Aska
+  Orange:
+    - Joey
+    - Kiki
+    - Carol
+    - Ivy1
+  Pink:
+    - Lucas
+    - Amberly
+    - Kumiko
+    - Jessica2
+  Purple:
+    - Jo
+    - Michelle
+    - Donna
+    - Jessica1
+  Red:
+    - Mico
+    - Vivian
+    - Maggie
+    - Eva
+  White:
+    - Nelson
+    - Ken
+    - Emily2
+    - Tina
+  WhiteWhite:
+    - Moto
+    - Linda
+    - Jacinta
+    - Rachel
+  Yellow:
+    - Tiffany
+    - Ford
+    - Peggy
+    - Candy
+  YellowYellow:
+    - Joey
+    - Vivi
+    - Edison
+    - Joe
