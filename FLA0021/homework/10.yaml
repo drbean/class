@@ -1,0 +1,275 @@
+---
+cutpoints:
+  one: 50
+  two: 300
+exercise: ikeaup
+grade:
+  9622299: 0
+  N9461738: 2
+  N9561721: 2
+  N9561732: 2
+  N9561751: 0
+  N9561762: 0
+  N9561765: 2
+  N9661702: 2
+  N9661705: 0
+  N9661706: 2
+  N9661713: 0
+  N9661717: 0
+  N9661724: 2
+  # N9661725: 0
+  N9661725: 1
+  N9661727: 0
+  N9661728: 0
+  N9661731: 2
+  N9661737: 2
+  N9661738: 2
+  N9661740: 1
+  N9661741: 2
+  N9661743: 1
+  N9661746: 0
+  N9661747: 0
+  N9661748: 2
+  N9661749: 0
+  N9661753: 2
+  N9661758: 2
+  N9661761: 2
+  U9533039: 0
+  U9616041: 0
+  V9724004: 2
+  V9731059: 2
+  V9741009: 0
+  V9741010: 0
+  V9741014: 2
+  V9741015: 2
+  V9741016: 0
+  V9741018: 0
+  V9741023: 2
+  V9741024: 0
+  V9741025: 0
+  V9741028: 0
+  V9741029: 0
+  V9741030: 0
+  V9741032: 0
+  V9741034: 2
+  V9741036: 0
+  V9741037: 0
+  V9741038: 0
+  V9741040: 0
+  V9741041: 2
+  V9741042: 2
+  V9741043: 0
+  V9741044: 0
+  V9741047: 2
+  V9741048: 2
+  V9741049: 2
+  V9741053: 0
+  V9741055: 2
+  V9741057: 2
+  V9741059: 0
+  V9741060: 2
+  V9741061: 0
+  V9741064: 0
+  V9741066: 0
+points:
+  9622299:
+    letters: ~
+    questions: 0
+  N9461738:
+    letters: 468
+    questions: 0
+  N9561721:
+    letters: 594
+    questions: 0
+  N9561732:
+    letters: 366
+    questions: 0
+  N9561751:
+    letters: ~
+    questions: 0
+  N9561762:
+    letters: ~
+    questions: 0
+  N9561765:
+    letters: ~
+    questions: 1
+  N9661702:
+    letters: 501
+    questions: 0
+  N9661705:
+    letters: ~
+    questions: 0
+  N9661706:
+    # letters: 54 # ikea exercises
+    # letters: 259 # ikeaup exercises
+    letters: 313
+    questions: 1
+  N9661713:
+    letters: ~
+    questions: 0
+  N9661717:
+    letters: ~
+    questions: 0
+  N9661724:
+    letters: 553
+    questions: 0
+  N9661725:
+    # Miko said she sent it, but it said she didn't do it. Give her one point.
+    letters: ~
+    questions: 0
+  N9661727:
+    letters: ~
+    questions: 0
+  N9661728:
+    letters: 8
+    questions: 0
+  N9661731:
+    letters: 697
+    questions: 1
+  N9661737:
+    letters: ~
+    questions: 1
+  N9661738:
+    letters: 591
+    questions: 1
+  N9661740:
+    letters: 241
+    questions: 0
+  N9661741:
+    letters: 324
+    questions: 0
+  N9661743:
+    letters: 75
+    questions: 0
+  N9661746:
+    letters: ~
+    questions: 0
+  N9661747:
+    letters: ~
+    questions: 0
+  N9661748:
+    letters: 8
+    questions: 1
+  N9661749:
+    letters: ~
+    questions: 0
+  N9661753:
+    letters: ~
+    questions: 1
+  N9661758:
+    letters: 580
+    questions: 0
+  N9661761:
+    letters: ~
+    questions: 1
+  U9533039:
+    letters: ~
+    questions: 0
+  U9616041:
+    letters: ~
+    questions: 0
+  V9724004:
+    letters: 302
+    questions: 0
+  V9731059:
+    letters: 594
+    questions: 0
+  V9741009:
+    letters: ~
+    questions: 0
+  V9741010:
+    letters: 21
+    questions: 0
+  V9741014:
+    letters: 697
+    questions: 1
+  V9741015:
+    letters: 371
+    questions: 0
+  V9741016:
+    letters: ~
+    questions: 0
+  V9741018:
+    letters: ~
+    questions: 0
+  V9741023:
+    letters: ~
+    questions: 1
+  V9741024:
+    letters: ~
+    questions: 0
+  V9741025:
+    letters: ~
+    questions: 0
+  V9741028:
+    letters: ~
+    questions: 0
+  V9741029:
+    letters: ~
+    questions: 0
+  V9741030:
+    letters: ~
+    questions: 0
+  V9741032:
+    letters: ~
+    questions: 0
+  V9741034:
+    letters: ~
+    questions: 1
+  V9741036:
+    letters: ~
+    questions: 0
+  V9741037:
+    letters: ~
+    questions: 0
+  V9741038:
+    letters: ~
+    questions: 0
+  V9741040:
+    letters: ~
+    questions: 0
+  V9741041:
+    letters: 697
+    questions: 0
+  V9741042:
+    letters: 314
+    questions: 0
+  V9741043:
+    letters: 14
+    questions: 0
+  V9741044:
+    letters: ~
+    questions: 0
+  V9741047:
+    letters: 594
+    questions: 1
+  V9741048:
+    letters: 694
+    questions: 0
+  V9741049:
+    letters: 651
+    questions: 1
+  V9741053:
+    letters: ~
+    questions: 0
+  V9741055:
+    letters: 580
+    questions: 1
+  V9741057:
+    letters: ~
+    questions: 1
+  V9741059:
+    letters: ~
+    questions: 0
+  V9741060:
+    letters: 644
+    questions: 1
+  V9741061:
+    letters: ~
+    questions: 0
+  V9741064:
+    letters: ~
+    questions: 0
+  V9741066:
+    letters: ~
+    questions: 0

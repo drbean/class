@@ -1,0 +1,126 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 10
+pass: 6
+examiners:
+  - Gray
+  - YellowYellow
+assistant:
+  - Sophie
+  - Eva
+  - Vera
+absent:
+  - Jessica2
+text: /home/drbean/class/conversation/IKEAMacaulayDouglas/cards.yaml
+activity:
+  ikea:
+    1:
+      - BlackBlack
+      - BlueBlue
+      - GrayGray
+      - Pink
+      - Purple
+  macaulay:
+    1:
+      - Black
+      - Blue
+      - Brown
+      - Red
+      - White
+      - Yellow
+  douglas:
+    1:
+      - BrownBrown
+      - Gray
+      - Green
+      - Orange
+      - WhiteWhite
+      - YellowYellow
+group:
+  Black:
+    - Bruce
+    - Justin
+    - Sophie
+    - Vera
+  BlackBlack:
+    - Tiffany
+    - Vivi
+    - Nana
+    - Rachel
+  Blue:
+    - Lucas
+    - Ken
+    - Kathy
+    - Sophie
+  BlueBlue:
+    - Carol
+    - Ting'an
+    - Joe
+    - Cloud
+  Brown:
+    - Eunice
+    - Hank
+    - Jessica1
+    - Kumiko
+  BrownBrown:
+    - Mico
+    - Anita
+    - Abby
+    - Melissa
+  Gray:
+    - Jo
+    - Ford
+    - Emma
+    - Aska
+  GrayGray:
+    - Alan
+    - Cathy
+    - Moto
+    - Ivy1
+  Green:
+    - Edison
+    - Elly
+    - Eva
+    - Peggy
+  Orange:
+    - Cindy
+    - Joey
+    - Tina
+    - Kiki
+  Pink:
+    - Ashley
+    - Ally
+    - Ting
+    - Candy
+  Purple:
+    - Tracy
+    - Jacinta
+    - Emily2
+    - Michelle
+  Red:
+    - Linda
+    - Nancy
+    - Vivian
+    - Molly
+  White:
+    - Donna
+    - Emily3
+    - Amy
+    - Maggie
+  WhiteWhite:
+    - Sunny
+    - Ivy2
+    - Andy
+    - Nina
+  Yellow:
+    - Amberly
+    - Nelson
+    - Fenny
+    - Vera
+  YellowYellow:
+    - Chelsea
+    - Anne
+    - Emily1
+    - Eva
