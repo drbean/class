@@ -1,0 +1,51 @@
+---
+round: 7
+week: 8
+absent:
+  - U9742047
+text: 
+activity:
+  vacation:
+    1:
+      - Black: U9831021
+        White: U9831044
+      - Black: U9831012
+        White: U9831138
+      - Black: T9831015
+        White: U9831007
+      - Black: U9831110
+        White: U9831024
+      - Black: U9831131
+        White: U9831102
+      - Black: T9831018
+        White: U9831130
+      - Black: U9831112
+        White: U9831035
+      - Black: U9831109
+        White: U9831049
+      - Black: U9831116
+        White: U9831040
+      - Black: U9831143
+        White: U9831002
+      - Black: T9831003
+        White: U9831124
+      - Black: U9831046
+        White: U9831114
+      - Black: U9831016
+        White: U9831018
+      - Black: U9831135
+        White: U9831140
+      - Black: U9831043
+        White: U9831039
+      - Black: T9831023
+        White: U9831106
+      - Black: U9831127
+        White: U9831028
+      - Black: U9831005
+        White: U9831122
+      - Black: U9831147
+        White: U9831144
+      - Black: T9831030
+        White: U9831128
+      - Black: U9831006
+        White: U9831119

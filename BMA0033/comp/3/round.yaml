@@ -1,0 +1,65 @@
+---
+round: 3
+week: 4
+absent:
+text: 
+activity:
+  candidate:
+    0:
+      -
+        White: U9831127
+        Black: U9831021
+      -
+        White: U9831040
+        Black: U9831112
+      -
+        White: U9831046
+        Black: U9831110
+      -
+        White: U9831044
+        Black: U9831109
+      -
+        White: U9831007
+        Black: U9831116
+      -
+        White: U9831131
+        Black: U9831035
+      -
+        White: U9831130
+        Black: U9831147
+      -
+        White: T9831003
+        Black: U9831119
+      -
+        White: U9831012
+        Black: U9831106
+      -
+        White: U9831016
+        Black: U9831122
+      -
+        White: U9831128
+        Black: U9831024
+      -
+        White: U9831139
+        Black: U9742047
+      -
+        White: T9831023
+        Black: U9831140
+      -
+        White: U9831002
+        Black: U9831138
+      -
+        White: U9831143
+        Black: T9831018
+      -
+        White: T9831030
+        Black: U9831049
+      -
+        White: U9831132
+        Black: U9831102
+      -
+        White: T9831015
+        Black: U9831114
+      -
+        White: U9831018
+        Black: U9831124

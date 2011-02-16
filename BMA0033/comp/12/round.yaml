@@ -1,0 +1,69 @@
+---
+round: 12
+week: 13
+absent:
+text: /home/drbean/class/business/companies/cards.yaml
+activity:
+  dictation:
+    0:
+      -
+        White: U9831007
+        Black: U9831006
+      -
+        White: U9831005
+        Black: U9831106
+      -
+        White: U9831110
+        Black: T9831023
+      -
+        White: U9831109
+        Black: U9831124
+      -
+        White: U9831132
+        Black: U9831112
+      -
+        White: U9831046
+        Black: U9831018
+      -
+        White: U9831024
+        Black: T9831003
+      -
+        White: U9831127
+        Black: U9831102
+      -
+        White: U9831021
+        Black: U9831049
+      -
+        White: U9831040
+        Black: U9831043
+      -
+        White: U9831130
+        Black: U9831116
+      -
+        White: U9831135
+        Black: U9831147
+      -
+        White: T9831018
+        Black: T9831015
+      -
+        White: U9831044
+        Black: U9831012
+      -
+        White: U9831131
+        Black: U9831114
+      -
+        White: U9742047
+        Black: U9831138
+      -
+        White: U9831028
+        Black: U9831035
+      -
+        White: U9831140
+        Black: U9831143
+      -
+        White: U9831039
+        Black: U9831122
+      -
+        White: U9831002
+        Black: U9831016
+      

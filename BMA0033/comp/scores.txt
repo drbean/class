@@ -1,0 +1,76 @@
+BMA0071 League
+BMA0071 Tournament Standings
+Player			Rounds
+Number	Name	Rating	1		Score
+1 	Helen 	116 	White,46,Win 	5
+2 	Kuan-Li 106 	Black,42,Win 	5
+3 	洪國亮 	500 	Black,41,Win 	5
+4 	Judy 	98 	Black,44,Win 	5
+5 	ChouYu 	116 	White,43,Win 	5
+6 	Wayne 	112 	White,40,Win 	5
+7 	張力中 	500 	White,45,Win 	5
+8 	Laura 	114 	White,17,Draw 	4
+9 	Gwan-Chi 96 	White,14,Draw 	4
+10 	ChunHan 118 	White,26,Draw 	4
+11 	Yi-Tang 102 	Black,23,Draw 	4
+12 	蕭文伶 	500 	Black,38,Draw 	4
+13 	彭星喬 	500 	White,22,Draw 	4
+14 	鍾宇軒 	500 	Black,9,Draw 	4
+15 	Tiffany 1500 	White,39,Draw 	4 
+16 	黃馨儀 	500 	White,28,Draw 	4
+17 	Pei-ci 	106 	Black,8,Draw 	4
+18 	ChiaoLing 106 	White,19,Draw 	4
+19 	Zih-sheng 112 	Black,18,Draw 	4
+20 	Sandy 	108 	Black,31,Draw 	4
+21 	趙靚如 	500 	Black,36,Draw 	4
+22 	林奕瑄 	500 	Black,13,Draw 	4
+23 	Wei-Cei 130 	White,11,Draw 	4
+24 	姚　順 	500 	White,25,Draw 	4
+25 	丘欣怡 	500 	Black,24,Draw 	4
+26 	Chiahao 102 	Black,10,Draw 	4
+27 	Bu-Dien 98 	Black,34,Draw 	4
+28 	陳韋樵 	500 	Black,16,Draw 	4
+29 	Stanley 112 	Black,30,Draw 	4
+30 	Jerry1 	96 	White,29,Draw 	4
+31 	Candy 	102 	White,20,Draw 	4
+32 	Jerry2 	118 	White,37,Draw 	4
+33 	楊正熏 	500 	Black,35,Draw 	4
+34 	Patrick 100 	White,27,Draw 	4
+35 	陳韡之 	500 	White,33,Draw 	4
+36 	楊崴宇 	500 	White,21,Draw 	4
+37 	Reicho 	104 	Black,32,Draw 	4
+38 	莊焜安 	500 	White,12,Draw 	4
+39 	丁婉涵 	500 	Black,15,Draw 	4
+40 	Alice 	108 	Black,6,Loss 	3
+41 	郭俐妤 	500 	White,3,Loss 	3
+42 	Tina 	100 	White,2,Loss 	3
+43 	Michelle 122 	Black,5,Loss 	3
+44 	May 	114 	White,4,Loss 	3
+45 	Wan-ling 100 	Black,7,Loss 	3
+46 	Yi-xun 	126 	Black,1,Loss 	3
+47 	吳海琳 	500 	,, 	
+48 	王宜囗 	500 	,, 	
+49 	胡振飛 	500 	,, 	
+50 	李方渝 	500 	,, 	
+51 	陳靜儒 	500 	,, 	
+52 	李旻益 	500 	,, 	
+53 	魏羽伶 	500 	,, 	
+54 	賴羿樺 	500 	,, 	
+55 	廖黛羽 	500 	,, 	
+56 	張詠筌 	500 	,, 	
+57 	沈慧瑜 	500 	,, 	
+58 	鍾函芳 	500 	,, 	
+59 	許妤徽 	500 	,, 	
+60 	陳建名 	500 	,, 	
+61 	譚楚琪 	500 	,, 	
+62 	莊憶婷 	500 	,, 	
+63 	陳　毅 	500 	,, 	
+64 	林宜慧 	500 	,, 	
+65 	黃柏喬 	500 	,, 	
+66 	吳岱芬 	500 	,, 	
+67 	莊雪蓮 	500 	,, 	
+68 	卓宜君 	500 	,, 	
+69 	葉日維 	500 	,, 	
+70 	楊智祺 	500 	,, 	
+71 	劉品瑜 	500 	,, 	
+5: Win, 3: Loss, 4: Draw, 1: Late, 0: Forfeit 
