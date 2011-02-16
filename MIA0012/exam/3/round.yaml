@@ -1,0 +1,99 @@
+---
+round: Exam 1
+week: 6
+questions:
+  - 4
+pass: 1
+assistant:
+  - Bernie
+  - Tim
+  - XiaoXian
+absent:
+    - Sam
+    - HanPing
+text: /home/drbean/class/business/companies/cards.yaml
+activity:
+  fourswot:
+    0:
+      - Gray
+      - Purple
+      - Red
+      - Yellow
+    1:
+      - White
+      - Pink
+      - Blue
+    2:
+      - Brown
+      - Black
+      - Orange
+    3:
+      - Green
+      - BlackBlack
+      - WhiteWhite
+group:
+  Black:
+    - ChenHan
+    - MeiQing
+    - XiaoXian
+    - Victor
+  BlackBlack:
+    - MingHan
+    - Wade
+    - Peter
+    - YuXin
+  Blue:
+    - Friday
+    - LiLing
+    - PingJie
+    - XiaoRou
+  Brown:
+    - Hanna
+    - Jane
+    - Ying-Hsuan
+    - HuiLin
+  Gray:
+    - YaYun
+    - Chase
+    - Yi-ting
+    - Alexis
+  Green:
+    - Yan
+    - Ray
+    - Entian
+    - YuXun
+  Orange:
+    - Bernie
+    - Yu-Ying
+    - Nate
+    - Han-Yu
+  Pink:
+    - JiaXiang
+    - XiaoQi
+    - Kou-wei
+    - Bernie
+  Purple:
+    - ChuJun
+    - David
+    - GuanYin
+    - Tim
+  Red:
+    - Tim
+    - Chung
+    - Ya-syuan
+    - Zong-Hua
+  White:
+    - Flora
+    - WenXiao
+    - XiaoWei
+    - Si-Yu
+  WhiteWhite:
+    - Ching
+    - Jie-Yu
+    - YaTing
+    - XiaoXian
+  Yellow:
+    - Jeter
+    - Raffaele
+    - YuJie
+    - Bernie

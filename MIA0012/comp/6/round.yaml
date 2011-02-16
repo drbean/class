@@ -1,0 +1,58 @@
+---
+round: 6
+week: 7
+absent:
+text: 
+activity:
+  "online/argos":
+    1:
+      - Black: U9833020
+        White: T9833046
+      - Black: U9833034
+        White: U9833040
+      - Black: T9833037
+        White: U9833038
+      - Black: U9833044
+        White: T9833050
+      - Black: U9833022
+        White: U9833005
+      - Black: U9833026
+        White: T9833027
+      - Black: U9833023
+        White: U9833047
+      - Black: U9833043
+        White: U9833011
+      - Black: U9833002
+        White: U9833041
+      - Black: U9833014
+        White: T9833009
+      - Black: T9833004
+        White: T9833025
+      - Black: U9833050
+        White: U9833007
+      - Black: T9833045
+        White: T9833030
+      - Black: U9833052
+        White: T9833043
+      - Black: T9833028
+        White: U9833039
+      - Black: T9833013
+        White: U9833015
+      - Black: T9833006
+        White: T9833039
+      - Black: U9833035
+        White: U9833025
+      - Black: U9833048
+        White: U9833001
+      - Black: U9833031
+        White: U9833030
+      - Black: U9833009
+        White: U9831107
+      - Black: T9833035
+        White: U9833049
+      - Black: U9833045
+        White: U9833019
+      - Black: U9833024
+        White: U9833003
+bye: T9833032
+
