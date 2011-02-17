@@ -1,0 +1,83 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 4
+pass: 1
+assistant:
+  - Betty
+absent:
+text: /home/drbean/class/business/greatideas/cards.yaml
+activity:
+  fourideas:
+    2:
+      - Orange
+      - Red
+    3:
+      - BlackBlack
+      - Blue
+      - Yellow
+    4:
+      - Black
+      - Gray
+      - Purple
+    5:
+      - Brown
+      - Pink
+      - White
+group:
+  Black:
+    - Betty
+    - Patrick
+    - Jenny
+    - Judy
+  BlackBlack:
+    - Candy
+    - Jerry1
+    - Sharon
+    - Jenay
+  Blue:
+    - Nick
+    - Helen
+    - Yi-Tang
+    - WanHan
+  Brown:
+    - Stanley
+    - Wayne
+    - Tiffany
+    - Sandy
+  Gray:
+    - Reicho
+    - Jerry2
+    - Pei-ci
+    - Grace
+  Orange:
+    - Alice
+    - Gwan-Chi
+    - Dennis
+    - Betty
+  Pink:
+    - Kuan-Li
+    - Bu-Dien
+    - Aaron
+    - Amy
+  Purple:
+    - Wei-jhih
+    - Zack
+    - Dian
+    - Wan-ling
+  Red:
+    - Yi-xun
+    - Sofie
+    - Laura
+    - Chiahao
+  White:
+    - May
+    - Li
+    - Jheng-Syun
+    - Tina
+  Yellow:
+    - Zih-sheng
+    - Elaine
+    - Michelle
+    - ChiaoLing
