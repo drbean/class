@@ -1,6 +1,7 @@
 ---
 absent:
   - None
+active: ~
 approach: Compcomp
 compcomp: comp
 examMax: 4
@@ -12,97 +13,27 @@ hwMax: 2
 id: 992FLA0021
 jigsaw: exam
 league: 夜應外大學三甲
-member:
-  - Chinese: 蕭郁玲
-    id: U9533039
-    name: Ally
-    password: yu
-    rating: 70
-  - Chinese: 閒慧琦
-    id: N9561765
-    name: Emily3
-    password: hui
-    rating: 73
-  - Chinese: 羅庭安
-    id: N9661753
-    name: Ting'an
-    password: ting
-    rating: 71
-  -
-    id: N9661754
-    Chinese: 黃綠蘋
-    name: Liu-ping
-    password: lu
-    rating: ~
-  - Chinese: 林芷儀
-    id: N9661758
-    name: Emma
-    password: zhi
-    rating: 76
-  - Chinese: 鄭喻心
-    id: N9561751
-    name: Cindy
-    password: yu
+out:
+  - Chinese: 張馨卿
+    id: V9741044
+    name: Jessica2
+    password: xin
     rating: 62
-  - Chinese: 林逸喬
-    id: N9661724
-    name: Jo
-    password: yi
-    rating: 73
-  - Chinese: 羅惠娟
-    id: N9661743
-    name: Michelle
-    password: hui
-    rating: 81
-  - Chinese: 邱靖棋
-    id: N9661747
-    name: Kiki
-    password: jing
-    rating: 78
-  - Chinese: 廖政福
-    id: N9661737
-    name: Ford
-    password: zheng
-    rating: 68
-  - Chinese: 吳采薇
-    id: N9661725
-    name: Mico
-    password: cai
-    rating: 56
-  - Chinese: 吳書儀
-    id: N9661746
-    name: Amberly
-    password: shu
-    rating: 46
-  - Chinese: 陳彥叡
-    id: 9622299
-    name: Edison
-    password: yan
-    rating: 55
-  - Chinese: 劉佳佳
-    id: N9461738
-    name: Sunny
-    password: jia
-    rating: 69
   - Chinese: 劉芳君
     id: N9561721
     name: Fenny
     password: fang
     rating: 87
-  - Chinese: 黃文和
-    id: N9561732
-    name: Hank
-    password: wen
-    rating: 66
-  - id: N9561750
-    Chinese: 蘇啟瑞
-    name: Travis
-    password: qi
-  - Chinese: 許莉昀
-    id: N9561762
-    name: Eunice
-    password: li
-    rating: 63
+  - Chinese: 鄭喻心
+    id: N9561751
+    name: Cindy
+    password: yu
+    rating: 62
+  - Chinese: 閒慧琦
+    id: N9561765
+    name: Emily3
+    password: hui
+    rating: 73
   - Chinese: 周品嫻
     id: N9661702
     name: Ashley
@@ -113,6 +44,91 @@ member:
     name: Anne
     password: jia
     rating: 68
+  - Chinese: 黃路加
+    id: N9661717
+    name: Lucas
+    password: lu
+    rating: 59
+  - Chinese: 林逸喬
+    id: N9661724
+    name: Jo
+    password: yi
+    rating: 73
+  - Chinese: 賴恩聖
+    id: N9661727
+    name: Nelson
+    password: en
+    rating: 72
+  - Chinese: 黃聖昱
+    id: N9661728
+    name: Moto
+    password: sheng
+    rating: 73
+  - Chinese: 林庭萱
+    id: N9661731
+    name: Tiffany
+    password: ting
+    rating: 58
+  - Chinese: 廖政福
+    id: N9661737
+    name: Ford
+    password: zheng
+    rating: 68
+  - Chinese: 羅惠娟
+    id: N9661743
+    name: Michelle
+    password: hui
+    rating: 81
+  - Chinese: 吳書儀
+    id: N9661746
+    name: Amberly
+    password: shu
+    rating: 46
+  - Chinese: 邱靖棋
+    id: N9661747
+    name: Kiki
+    password: jing
+    rating: 78
+  - Chinese: 羅庭安
+    id: N9661753
+    name: Ting'an
+    password: ting
+    rating: 71
+  - Chinese: 林芷儀
+    id: N9661758
+    name: Emma
+    password: zhi
+    rating: 76
+  - Chinese: 蕭郁玲
+    id: U9533039
+    name: Ally
+    password: yu
+    rating: 70
+member:
+  - Chinese: 陳彥叡
+    id: 9622299
+    name: Edison
+    password: yan
+    rating: 55
+  - Chinese: 劉佳佳
+    id: N9461738
+    name: Sunny
+    password: jia
+    rating: 69
+  - Chinese: 黃文和
+    id: N9561732
+    name: Hank
+    password: wen
+    rating: 66
+  - Chinese: 蘇啟瑞
+    id: N9561750
+    name: Travis
+    password: qi
+  - Chinese: 許莉昀
+    id: N9561762
+    name: Eunice
+    password: li
+    rating: 63
   - Chinese: 葉雅婷
     id: N9661706
     name: Ting
@@ -133,31 +149,16 @@ member:
     name: Steven
     password: xuan
     rating: 66
-  - Chinese: 黃路加
-    id: N9661717
-    name: Lucas
-    password: lu
-    rating: 59
   - Chinese: 週于婷
+    id: N9661719
     name: Eleven
     password: yu
-    id: N9661719
     rating: 1000
-  - Chinese: 賴恩聖
-    id: N9661727
-    name: Nelson
-    password: en
-    rating: 72
-  - Chinese: 黃聖昱
-    id: N9661728
-    name: Moto
-    password: sheng
-    rating: 73
-  - Chinese: 林庭萱
-    id: N9661731
-    name: Tiffany
-    password: ting
-    rating: 58
+  - Chinese: 吳采薇
+    id: N9661725
+    name: Mico
+    password: cai
+    rating: 56
   - Chinese: 鄭淑鈴
     id: N9661738
     name: Linda
@@ -188,6 +189,11 @@ member:
     name: Chelsea
     password: ru
     rating: 40
+  - Chinese: 黃綠蘋
+    id: N9661754
+    name: Liu-ping
+    password: lu
+    rating: ~
   - Chinese: 徐如誼
     id: N9661761
     name: Nana
@@ -373,16 +379,8 @@ member:
     name: Joe
     password: zhi
     rating: 76
-out:
-  - Chinese: 張馨卿
-    id: V9741044
-    name: Jessica2
-    password: xin
-    rating: 62
 room: A902
 weights:
   classwork: 70
   exams: 15
   homework: 15
-
-active:
