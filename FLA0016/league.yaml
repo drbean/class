@@ -1,5 +1,6 @@
 ---
 absent: ~
+active: ~
 approach: Compcomp
 compcomp: comp
 examMax: 4
@@ -11,22 +12,43 @@ hwMax: 2
 id: 992FLA0015
 jigsaw: exam
 league: 夜應外大學二甲
+out:
+  - Chinese: 劉芬芳
+    id: N9661760
+    name: Sophia
+    password: fen
+    rating: 39
+  - Chinese: 陳勇安
+    id: V9841021
+    name: Jason
+    password: yong
+    rating: 41
+  - Chinese: 韋筱晴
+    id: V9841035
+    name: Shiau-ching
+    password: xiao
+    rating: 30
+  - Chinese: 黃啟信
+    id: V9841062
+    name: Ivan
+    password: qi
+    rating: 22
+  - Chinese: 劉芸玥
+    id: V9999113
+    name: Christian
+    password: yun
+    rating: 65
 member:
   - Chinese: 吳佳樺
     id: N9661752
     name: 吳佳樺
     password: jia
     rating: ~
-  - Chinese: 劉芬芳
-    id: N9661760
-    name: Sophia
-    password: fen
-    rating: 39
-  - Chinese: 劉芸玥
-    id: V9999113
-    name: Christian
-    password: yun
-    rating: 65
+  - Chinese: 黃文青
+    id: V9741002
+    name: Miranda
+    password: wen
+    rating: 35
   - Chinese: 黃文青
     id: V9741002
     name: Miranda
@@ -167,11 +189,6 @@ member:
     name: Rachel
     password: xin
     rating: 71
-  - Chinese: 韋筱晴
-    id: V9841035
-    name: Shiau-ching
-    password: xiao
-    rating: 30
   - Chinese: 林筠臻
     id: V9841036
     name: Jessica
@@ -267,11 +284,6 @@ member:
     name: Yu-Ching
     password: yu
     rating: 81
-  - Chinese: 黃啟信
-    id: V9841062
-    name: Ivan
-    password: qi
-    rating: 22
   - Chinese: 湯浩軍
     id: V9841063
     name: Tea
@@ -287,21 +299,8 @@ member:
     name: Sue
     password: wen
     rating: 67
-  - Chinese: 陳勇安
-    id: V9841021
-    name: Jason
-    password: yong
-    rating: 41
-  - Chinese: 黃文青
-    id: V9741002
-    name: Miranda
-    password: wen
-    rating: 35
-out:
 room: A706
 weights:
   classwork: 70
   exams: 15
   homework: 15
-
-active:
