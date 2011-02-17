@@ -1,0 +1,44 @@
+---
+round: 1
+week: 1
+absent:
+text: 
+activity:
+  point:
+    1:
+      - Black: U9831024
+        White: U9831021
+      - Black: U9831007
+        White: U9831138
+      - Black: U9831012
+        White: U9831124
+      - Black: U9831102
+        White: U9831049
+      - Black: U9831109
+        White: U9831044
+      - Black: U9831131
+        White: U9831130
+      - Black: T9831015
+        White: U9742047
+      - Black: T9831003
+        White: U9831035
+      - Black: U9831002
+        White: U9831112
+      - Black: U9831116
+        White: U9831132
+      - Black: T9831018
+        White: U9831110
+      - Black: U9831016
+        White: U9831046
+      - Black: U9831040
+        White: U9831140
+      - Black: U9831114
+        White: U9831143
+      - Black: T9831023
+        White: U9831043
+      - Black: U9831039
+        White: U9831135
+      - Black: U9831028
+        White: U9831006
+      - Black: U9831144
+        White: U9831005
