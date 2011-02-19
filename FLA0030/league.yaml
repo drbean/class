@@ -1,5 +1,4 @@
 ---
-id: FLA0030
 absent: ~
 active: ~
 approach: Compcomp
@@ -10,15 +9,83 @@ field: 西洋通俗文化
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 992FLA0016
+id: 992FLA0030
 jigsaw: exam
 league: 夜應外大學四甲
 member:
-out:
-absent:
-  - None
+  - Chinese: 陳彥叡
+    id: 9622299
+    name: Edison
+    password: yan
+    rating: 63
+  - Chinese: 徐兆瑜
+    id: N9361758
+    name: Stella
+    password: zhao
+    rating: 71
+  - Chinese: 黃文和
+    id: N9561732
+    name: Hank
+    password: wen
+    rating: 72
+  - Chinese: 魏宏耘
+    id: V9741010
+    name: Andy
+    password: hong
+    rating: 74
+  - Chinese: 林沛均
+    id: V9741016
+    name: Anita
+    password: pei
+    rating: 72
+  - Chinese: 劉洛綺
+    id: V9741023
+    name: Elly
+    password: luo
+    rating: 78
+  - Chinese: 蔣枚芳
+    id: V9741032
+    name: Maggie
+    password: mei
+    rating: 82
+  - Chinese: 周虹霓
+    id: V9741034
+    name: Emily2
+    password: hong
+    rating: 79
+  - Chinese: 謝宇函
+    id: V9741038
+    name: Candy
+    password: yu
+    rating: 81
+  - Chinese: 王夙惠
+    id: V9741049
+    name: Sophie
+    password: su
+    rating: 86
+  - Chinese: 張雨涵
+    id: V9741055
+    name: Abby
+    password: yu
+    rating: 77
+  - Chinese: 賴宣蓉
+    id: V9741057
+    name: Nina
+    password: xuan
+    rating: 80
+  - Chinese: 吳哲維
+    id: V9741061
+    name: Bruce
+    password: zhe
+    rating: 65
+  - Chinese: 白芳瑜
+    id: V9741064
+    name: Amy
+    password: fang
+    rating: 76
+out: ~
 room: A704
 weights:
   classwork: 70
-  homework : 15
-  exams    : 15
+  exams: 15
+  homework: 15
