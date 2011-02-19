@@ -1,74 +1,61 @@
 ---
 Black:
-  - Christian
-  - Wei-Yi
-  - Bass
-  - Sue
+  - 吳佳樺
+  - Winny
+  - Anne
+  - Luke
 BlackBlack:
-  - Chun-Fu
-  - Lisa
-  - Amber
-  - Ricky
+  - Mike
+  - Yorick
+  - Kitty
+  - Leo
 Blue:
-  - Frances
-  - Katty
-  - Rachel
-  - Tea
+  - 黃偉鳴
+  - Jeffrey
+  - Yu-Lun
+  - Yu-Ching
 Brown:
+  - Joanna
+  - Shaq
+  - Patty
+  - Debbie
+Gray:
+  - Miranda
+  - Lisa
+  - Sue
+  - Laura
+Green:
+  - Dan
   - Kori
   - Yi-Ru
-  - Shiau-ching
-  - Ivan
-Gray:
-  - Dan
-  - Yu-Lun
-  - Jessica
-  - Yu-Ching
-Green:
-  - Fifi
-  - Hannah
-  - Anne
-  - Kitty
-Orange:
-  - Abby
-  - Hank
-  - Julie
-  - Winne
-Pink:
-  - Laura
-  - Stanley
-  - Patty
-  - Carina
-Purple:
-  - Sana
-  - Eric
   - Joy
-  - Ming
-Red:
-  - Winny
-  - Wei
-  - Rose
-  - Debbie
-White:
-  - Yorick
-  - Jeffrey
-  - Joanna
-  - Joan
-WhiteWhite:
-  - Leo
-  - Shaq
+Orange:
   - Eva
-  - Cathy
-Yellow:
+  - Abby
+  - Carina
+  - Hannah
+Pink:
   - Dennis
-  - Luke
+  - Cathy
+  - Fifi
+  - Hank
+Purple:
+  - Tea
+  - Stanley
+  - Winne
+  - Jessica
+Red:
+  - Sana
+  - Amber
+  - Ming
+  - Rachel
+White:
   - Lace
+  - Katty
+  - Julie
+  - Wei-Yi
+WhiteWhite:
   - Annie
-BlueBlue:
-  - Mike
-  - Jerry
-  - Jason
-  - Miranda
-YellowYellow:
-  - Apple
-  - Sophia
+  - Ricky
+  - Bass
+  - Frances
