@@ -1,0 +1,20 @@
+---
+absent: ~
+active: ~
+approach: Compcomp
+compcomp: comp
+examMax: 4
+exams: exam
+field: 中級英文聽說訓練
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 992GL00022
+jigsaw: exam
+league: 日語文共同學制虛擬班二乙
+member:
+room: A706
+weights:
+  classwork: 70
+  exams: 15
+  homework: 15

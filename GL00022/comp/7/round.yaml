@@ -1,0 +1,30 @@
+---
+round: 7
+week: 7
+absent:
+text:
+activity:
+  xmas:
+    2:
+      -
+         White: U9633052
+         Black: U9821142
+      -
+         White: T9822149
+         Black: U9822019
+      -
+         White: U9822004
+         Black: N9561766
+      -
+         White: N9661723
+         Black: 9622212
+      -
+         White: 9622240
+         Black: U9722022
+      -
+         White: T9822129
+         Black: U9622089
+      -
+         White: N9661747
+         Black: N9561765
+bye: U9633019

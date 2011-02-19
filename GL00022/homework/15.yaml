@@ -1,0 +1,71 @@
+---
+cutpoints:
+  one: 50
+  two: 140
+exercise: desilvey
+grade:
+  9622212: 2
+  9622240: 2
+  N9561765: 2
+  N9561766: 2
+  N9661723: 2
+  N9661747: 2
+  T9822149: 0
+  U9615010: 0
+  U9633019: 2
+  U9633052: 2
+  U9722022: 2
+  U9818007: 2
+  U9818046: 0
+  U9821142: 2
+  U9822004: 1
+  U9822019: 2
+points:
+  9622212:
+    letters: 172
+    questions: 1
+  9622240:
+    letters: 0
+    questions: 1
+  N9561765:
+    letters: 228
+    questions: 0
+  N9561766:
+    letters: 157
+    questions: 0
+  N9661723:
+    letters: 182
+    questions: 1
+  N9661747:
+    letters: 159
+    questions: 0
+  T9822149:
+    letters: 0
+    questions: 0
+  U9615010:
+    letters: 0
+    questions: 0
+  U9633019:
+    letters: 159
+    questions: 1
+  U9633052:
+    letters: 171
+    questions: 1
+  U9722022:
+    letters: 171
+    questions: 1
+  U9818007:
+    letters: 182
+    questions: 0
+  U9818046:
+    letters: 0
+    questions: 0
+  U9821142:
+    letters: 159
+    questions: 1
+  U9822004:
+    letters: 106
+    questions: 0
+  U9822019:
+    letters: 171
+    questions: 0
