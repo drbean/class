@@ -1,104 +1,106 @@
 ---
-round: 3
-week: 3
+round: Exam 1
+week: 4
+pass: 5
+questions:
+  - 5
+assistant:
 absent:
-text: 
+text: /home/drbean/class/friends/exam1/cards.yaml
 activity:
-  yes-no:
+  44:
     1:
-      -
-         White: N9661747
-         Black: N9661713
-      -
-         White: N9661737
-         Black: N9661731
-      -
-         White: V9741044
-         Black: N9661746
-      -
-         White: N9661717
-         Black: V9741029
-      -
-         White: V9741038
-         Black: V9741037
-      -
-         White: V9741047
-         Black: V9741028
-      -
-         White: N9661702
-         Black: N9661753
-      -
-         White: N9661725
-         Black: V9741032
-      -
-         White: V9741036
-         Black: N9661728
-      -
-         White: N9661743
-         Black: V9741043
-      -
-         White: V9741042
-         Black: N9661741
-      -
-         White: N9661724
-         Black: V9741030
-      -
-         White: N9561751
-         Black: V9741016
-      -
-         White: N9661740
-         Black: N9661727
-      -
-         White: V9741041
-         Black: V9741034
-      -
-         White: N9661706
-         Black: V9741025
-      -
-         White: V9741018
-         Black: N9561762
-      -
-         White: V9741040
-         Black: N9661738
-      -
-         White: N9661758
-         Black: V9741057
-      -
-         White: N9661705
-         Black: V9741049
-      -
-         White: U9533039
-         Black: V9741055
-      -
-         White: N9661748
-         Black: V9741048
-      -
-         White: V9741023
-         Black: V9741053
-      -
-         White: V9741059
-         Black: V9741015
-      -
-         White: N9561732
-         Black: N9661761
-      -
-         White: V9741010
-         Black: V9741061
-      -
-         White: V9724004
-         Black: V9741009
-      -
-         White: V9741060
-         Black: V9741014
-      -
-         White: U9616041
-         Black: N9561721
-      -
-         White: V9741066
-         Black: 9622299
-      -
-         White: V9731059
-         Black: V9741064
-      -
-         White: N9561765
-         Black: V9741024
+      - N9661740
+      - N9661760
+      - N9661741
+      - N9661723
+      - N9661719
+      - N9661745
+      - N9661701
+      - N9661709
+      - N9461738
+      - N9561765
+      - N9661734
+      - N9661705
+      - N9661728
+      - N9661753
+      - N9661743
+      - N9561766
+      - N9661715
+      - N9461760
+      - N9661706
+  1-8:
+    1:
+      - N9661724
+  18-25:
+    1:
+      - N9661702
+      - N9661742
+      - N9661731
+pair:
+  N9461738:
+    White: N9461738
+    Black: N9661714
+  N9461760:
+    White: N9461760
+    Black: N9661755
+  N9561765:
+    White: N9561765
+    Black: N9561758
+  N9561766:
+    White: N9561766
+    Black: N9561741
+  N9661701:
+    White: N9661701
+    Black: N9661737
+  N9661702:
+    White: N9661702
+    Black: N9661757
+  N9661705:
+    White: N9661705
+    Black: N9461748
+  N9661706:
+    White: N9661706
+    Black: N9561754
+  N9661709:
+    White: N9661709
+    Black: N9661717
+  N9661715:
+    White: N9661715
+    Black: N9661712
+  N9661719:
+    White: N9661719
+    Black: N9561713
+  N9661723:
+    White: N9661723
+    Black: N9561748
+  N9661724:
+    White: N9661724
+    Black: N9461747
+  N9661728:
+    White: N9661728
+    Black: N9661720
+  N9661731:
+    White: N9661731
+    Black: N9561725
+  N9661734:
+    White: N9661734
+    Black: N9661747
+  N9661740:
+    White: N9661740
+    Black: N9661725
+  N9661741:
+    White: N9661741
+    Black: N9661748
+  N9661742:
+    White: N9661742
+    Black: N9561762
+  N9661743:
+    White: N9661743
+    Black: N9661746
+  N9661745:
+    White: N9661745
+    Black: N9461734
+  N9661753:
+    White: N9661753
+    Black: N9661722

@@ -1,95 +1,94 @@
 ---
 round: 2
-week: 2
+week: 4
+pass: 5
+questions:
+  - 5
+assistant:
 absent:
-text: 
+text: /home/drbean/class/friends/6/cards.yaml
 activity:
-  novak:
-    0:
-      -
-         White: V9741037
-         Black: N9661737
-      -
-         White: V9741028
-         Black: V9741047
-      -
-         White: N9661717
-         Black: V9741029
-      -
-         White: U9616041
-         Black: V9741060
-      -
-         White: V9741066
-         Black: V9741009
-      -
-         White: V9741064
-         Black: V9731059
-      -
-         White: U9533039
-         Black: N9561762
-      -
-         White: V9741014
-         Black: N9561721
-      -
-         White: V9741059
-         Black: V9741015
-      -
-         White: V9741025
-         Black: N9661706
-      -
-         White: V9741057
-         Black: V9741038
-      -
-         White: N9661761
-         Black: N9561732
-      -
-         White: V9741061
-         Black: V9741010
-      -
-         White: N9461738
-         Black: V9724004
-      -
-         White: V9741032
-         Black: V9741044
-      -
-         White: N9661713
-         Black: N9661747
-      -
-         White: V9741018
-         Black: V9741055
-      -
-         White: V9741024
-         Black: V9741049
-      -
-         White: V9741023
-         Black: V9741053
-      -
-         White: V9741034
-         Black: V9741041
-      -
-         White: N9661727
-         Black: N9661740
-      -
-         White: V9741043
-         Black: N9661743
-      -
-         White: N9661741
-         Black: V9741042
-      -
-         White: V9741048
-         Black: N9661748
-      -
-         White: N9661702
-         Black: N9661753
-      -
-         White: N9661705
-         Black: N9661749
-      -
-         White: N9661728
-         Black: V9741036
-      -
-         White: 9622299
-         Black: N9561765
-      -
-         White: V9741040
-         Black: N9661758
+  18-25:
+    1:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 99
+# Note these pair roles are not correct!!
+pair:
+  1:
+    White: N9561713
+    Black: N9661743
+  2:
+    White: N9561725
+    Black: N9661705
+  3:
+    White: N9561748
+    Black: N9661723
+  4:
+    White: N9561754
+    Black: N9661706
+  5:
+    White: N9561758
+    Black: N9661712
+  6:
+    White: N9561762
+    Black: N9661742
+  7:
+    White: N9661701
+    Black: N9661737
+  8:
+    White: N9661702
+    Black: N9661757
+  9:
+    White: N9661709
+    Black: N9661740
+  10:
+    White: N9661715
+    Black: N9461734
+  11:
+    White: N9661717
+    Black: N9661725
+  12:
+    White: N9661720
+    Black: N9661748
+  13:
+    White: N9661722
+    Black: N9661753
+  14:
+    White: N9661724
+    Black: N9661731
+  15:
+    White: N9661728
+    Black: N9661741
+  16:
+    White: N9661734
+    Black: N9661747
+  17:
+    White: N9661745
+    Black: N9561765
+  18:
+    White: N9661746
+    Black: N9661719
+  19:
+    White: N9661755
+    Black: N9461760
+  99:
+    White: N9661714
+    Black: N9461747

@@ -1,82 +1,91 @@
 ---
 round: 9
-week: 9
+week: 12
+not folded:
 absent:
-text: /home/drbean/class/conversation/SpanoSunshineConley/cards.yaml
+late:
+text: /home/drbean/class/friends/8/cards.yaml
 activity:
-  bet:
+  24:
     0:
-      - Black: N9661725
-        White: N9661717
-  conley:
-    0:
-      - Black: N9661725
-        White: N9661717
-      - Black: N9661747
-        White: V9741034
-  sunshine:
-    0:
-      - Black: V9741066
-        White: N9661743
-      - Black: V9741049
-        White: V9741032
-      - Black: V9741048
-        White: V9741038
-      - Black: V9741053
-        White: V9741047
-      - Black: N9661727
-        White: V9741024
-      - Black: N9561721
-        White: N9661748
-      - Black: V9741040
-        White: U9616041
-      - Black: N9661705
-        White: V9741014
-      - Black: N9661713
-        White: V9741015
-      - Black: V9741009
-        White: V9741010
-      - Black: V9741064
-        White: N9661758
-      - Black: N9661737
-        White: V9741059
-      - Black: V9741018
-        White: V9741023
-      - Black: N9561732
-        White: V9741055
-      - Black: U9533039
-        White: V9741041
-      - Black: V9741042
-        White: V9741037
-      - Black: N9661728
-        White: V9741057
-      - Black: V9741025
-        White: N9661724
-      - Black: V9741043
-        White: V9741016
-      - Black: N9661761
-        White: V9741029
-      - Black: N9561762
-        White: N9661706
-      - Black: N9661740
-        White: V9724004
-      - Black: V9741036
-        White: N9561751
-      - Black: N9661753
-        White: V9741028
-      - Black: V9731059
-        White: N9561765
-      - Black: N9461738
-        White: V9741060
-      - Black: N9661741
-        White: N9661738
-      - Black: N9661725
-        White: N9661717
-      - Black: V9741044
-        White: V9741061
-      - Black: N9661702
-        White: 9622299
-      - Black: N9661746
-        White: V9741030
-      - Black: N9661749
-        White: N9661731
+      - N9461734
+      - N9461760
+      - N9561741
+      - N9561748
+      - N9561754
+      - N9661702
+      - N9661709
+      - N9661715
+      - N9661717
+      - N9661720
+      - N9661722
+      - N9661725
+      - N9661728
+      - N9661734
+      - N9661737
+      - N9661740
+      - N9661741
+      - N9661742
+      - N9661747
+      - N9661748
+pair:
+  N9461734:
+    Black: N9661712
+    White: N9461734
+  N9461760:
+    Black: N9661743
+    White: N9461760
+  N9561741:
+    Black: N9561725
+    White: N9561741
+  N9561748:
+    Black: N9661753
+    White: N9561748
+  N9561754:
+    Black: N9561762
+    White: N9561754
+  N9661702:
+    Black: N9661706
+    White: N9661702
+  N9661709:
+    Black: N9561713
+    White: N9661709
+  N9661715:
+    Black: N9461738
+    White: N9661715
+  N9661717:
+    Black: N9661723
+    White: N9661717
+  N9661720:
+    Black: N9661745
+    White: N9661720
+  N9661722:
+    Black: N9661705
+    White: N9661722
+  N9661725:
+    Black: N9661724
+    White: N9661725
+  N9661728:
+    Black: N9561758
+    White: N9661728
+  N9661734:
+    Black: N9661719
+    White: N9661734
+  N9661737:
+    Black: N9661757
+    White: N9661737
+  N9661740:
+    Black: N9661701
+    White: N9661740
+  N9661741:
+    Black: N9561766
+    White: N9661741
+  N9661742:
+    Black: N9461748
+    White: N9661742
+  N9661747:
+    Black: N9461747
+    White: N9661747
+  N9661748:
+    Black: N9661755
+    White: N9661748

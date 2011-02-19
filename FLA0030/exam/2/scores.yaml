@@ -1,122 +1,80 @@
 ---
 Chinese:
   Black: 0
-  BlackBlack: 0
-  Blue: 0
-  BlueBlue: 0
   Brown: 0
-  BrownBrown: 0
+  DarkGreen: 0
   Gray: 0
-  GrayGray: 0
-  Green: 0
+  LightBlue: 0
+  LightGreen: 0
   Orange: 0
   Pink: 0
   Purple: 0
   Red: 0
   White: 0
-  WhiteWhite: 0
-  Yellow: 0
-  YellowYellow: 0
 letters:
   Black:
-    V9741028: 9
-    V9741049: 9
-    V9741029: 9
-    V9741037: 9
-    story: sunshine1
-  BlackBlack:
-    N9661724: 8
-    V9741043: 8
-    V9741015: 8
-    V9741047: 8
-    story: sunshine1
-  Blue:
-    N9661746: 6
-    N9661731: 5
-    N9661738: 7
-    V9731059: 6
-    story: spano1
-  BlueBlue:
-    9622299: 9
-    V9741042: 9
-    N9661748: 9
-    N9561721: 9
-    story: spano1
+    N9561741: 6
+    N9661745: 10
+    N9661709: 9
+    N9661706: 6
+    story: 1-82
   Brown:
-    V9741061: 7
-    V9741016: 7
-    N9661713: 7
-    N9461738: 7
-    story: spano1
-  BrownBrown:
-    N9661717: 6
-    N9661705: 6
-    N9661727: 6
-    U9616041: 6
-    story: spano1
+    N9561713: 7
+    N9461760: 7
+    N9661714: 9
+    N9661702: 7
+    story: 241
+  DarkGreen:
+    N9561766: 7
+    N9661720: 10
+    N9661712: 8
+    N9561765: 9
+    story: 11
   Gray:
-    V9724004: 9
-    V9741041: 9
-    V9741055: 9
-    N9661740: 9
-    story: sunshine1
-  GrayGray:
-    V9741038: 6
-    N9561762: 9
-    V9741040: 9
-    V9741034: 9
-    story: conley1
-  Green:
-    V9741010: 6
-    N9661743: 7
-    V9741023: 8
-    N9661728: 8
-    story: spano1
-  Orange:
-    U9533039: 8
-    V9741036: 4
-    N9561732: 7
+    N9561725: 7
+    N9661755: 9
+    N9661719: 7
+    N9461734: 9
+    story: 1-82
+  LightBlue:
+    N9661725: 8
+    N9661734: 8
+    N9661740: 10
+    N9661723: 6
+    story: 241
+  LightGreen:
+    N9661717: 7
     N9661747: 7
-    story: spano1
+    N9461738: 8
+    N9661748: 10
+    story: 11
+  Orange:
+    N9661743: 8
+    N9661701: 10
+    N9561758: 7
+    N9661737: 8
+    story: 1-82
   Pink:
-    N9661725: 9
-    N9661737: 9
-    V9741057: 7
-    V9741030: 9
-    story: conley1
+    N9661724: 6
+    N9561762: 7
+    N9561754: 7
+    N9661741: 6
+    story: 241
   Purple:
-    N9561765: 10
-    V9741025: 10
-    N9661706: 10
-    N9661702: 10
-    story: spano1
+    N9461747: 9
+    N9661757: 9
+    N9661715: 9
+    N9561748: 9
+    story: 11
   Red:
-    V9741018: 9
-    V9741066: 9
-    V9741060: 9
-    V9741053: 9
-    story: conley1
+    N9661705: 8
+    N9661728: 8
+    N9461748: 7
+    N9661722: 8
+    story: 241
   White:
-    V9741044: 8
-    N9561751: 8
-    V9741032: 8
+    N9661746: 8
     N9661753: 8
-    story: conley1
-  WhiteWhite:
-    N9661758: 9
-    V9741009: 8
-    V9741064: 9
-    N9661761: 9
-    story: spano1
-  Yellow:
-    V9741059: 10
-    V9741048: 10
-    N9661741: 10
-    U9616041: 10
-    story: conley1
-  YellowYellow:
-    N9661749: 10
-    V9741014: 10
-    V9741024: 9
-    U9616041: 10
-    story: conley1
+    N9661731: 8
+    N9661742: 8
+    story: 11
