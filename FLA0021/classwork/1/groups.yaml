@@ -1,86 +1,70 @@
 ---
 Black:
-  - ~
-  - Vivi
-  - Alan
-  - Amy
-BlackBlack:
-  - Sunny
-  - Nancy
+  - Steven
   - Andy
-  - Bruce
-Blue:
-  - Fenny
-  - Vera
-  - Melissa
-  - Kathy
-BlueBlue:
-  - Hank
-  - Nana
-  - Justin
-  - Ivy2
-Brown:
-  - Cindy
-  - Emma
-  - Anita
-  - Nina
-BrownBrown:
-  - Eunice
-  - Ally
-  - Cathy
-  - Abby
-Gray:
-  - Ashley
-  - Ting'an
-  - Elly
-  - Molly
-GrayGray:
-  - Anne
-  - Chelsea
-  - Emily1
-  - Sophie
-Green:
-  - Ting
-  - Cloud
-  - Tracy
-  - Aska
-Orange:
-  - Joey
-  - Kiki
-  - Carol
-  - Ivy1
-Pink:
-  - Lucas
-  - Amberly
-  - Kumiko
-  - Jessica2
-Purple:
-  - Jo
-  - Michelle
-  - Donna
-  - Jessica1
-Red:
-  - Mico
   - Vivian
-  - Maggie
-  - Eva
-White:
-  - Nelson
-  - Ken
-  - Emily2
-  - Tina
-WhiteWhite:
-  - Moto
-  - Linda
-  - Jacinta
+  - Melissa
+BlackBlack:
+  - Eleven
+  - Jessica1
+  - Justin
+  - Sophie
+Blue:
+  - Daisy
+  - Vivi
+  - Ivy2
+  - Emily1
+Brown:
+  - Frances
+  - Anita
+  - Joey
   - Rachel
-Yellow:
-  - Tiffany
-  - Ford
+Gray:
+  - Allen
+  - Ken
+  - Kumiko
   - Peggy
-  - Candy
-YellowYellow:
-  - Edison
+GrayGray:
+  - Travis
+  - Hank
+  - Amy
+  - Ivy1
+Green:
+  - Chelsea
+  - Kathy
   - Joe
-  - Emily3
-  - ~
+  - Maggie
+Orange:
+  - Carol
+  - Linda
+  - Abby
+  - Vera
+Pink:
+  - Alan
+  - Donna
+  - Elly
+  - Nana
+PinkPink:
+  - Nancy
+  - Sunny
+  - Cloud
+  - Candy
+Purple:
+  - Jacinta
+  - Tracy
+  - Emily2
+  - Eva
+Red:
+  - Edison
+  - Bruce
+  - Molly
+  - Ting
+White:
+  - Mico
+  - Cathy
+  - Tina
+  - Nina
+WhiteWhite:
+  - Liu-ping
+  - Eunice
+  - Aska
