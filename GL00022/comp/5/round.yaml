@@ -1,0 +1,33 @@
+---
+round: 5
+week: 5
+absent:
+text:
+activity:
+  roxborough:
+    1:
+      -
+         White: U9822004
+         Black: N9661723
+      -
+         White: N9561766
+         Black: U9633019
+      -
+         White: U9821142
+         Black: N9561765
+      -
+         White: U9622089
+         Black: T9822149
+      -
+         White: 9622240
+         Black: N9661747
+      -
+         White: U9818007
+         Black: 9622212
+      -
+         White: U9633052
+         Black: U9818046
+      -
+         White: U9822019
+         Black: U9722022
+bye: T9822129

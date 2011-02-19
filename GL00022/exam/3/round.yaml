@@ -1,0 +1,53 @@
+---
+round: Exam 3
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+  - Kerwin
+  - Ivory
+  - Eva
+  - Ryan
+  - Jessica
+absent:
+  - Kevin
+text: /home/drbean/class/conversation/BreakstoneDesantisSchifrin/cards.yaml
+activity:
+  breakstone:
+    1:
+      - Green
+  desantis:
+    1:
+      - Pink
+      - Purple
+  schifrin:
+    1:
+      - Black
+      - Gray
+group:
+  Black:
+    - Kerwin
+    - Lily
+    - Emma
+    - Eva
+  Gray:
+    - Emily
+    - Ryan
+    - Sarah
+    - Jessica
+  Green:
+    - Ivory
+    - Kerwin
+    - Kate
+    - Eva
+  Pink:
+    - Ken
+    - Kenny
+    - Ryan
+    - Frank
+  Purple:
+    - Mark
+    - Kiki
+    - Jessica
+    - Ivory
