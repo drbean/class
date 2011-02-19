@@ -1,44 +1,51 @@
 ---
-Absent:
-  - Polly
 Black:
-  - Stella
-  - Luby
-  - Gina
-  - Sophie
+  - Anny
+  - Lucas
+  - Cindy
+  - Fenny
 Blue:
-  - Jack
-  - Nina
-  - Ingar
-  - Eunice
+  - Iris
+  - Tiffany
+  - Amberly
+  - Michelle
 Brown:
-  - 張汶鈴
-  - Roy
-  - Viola
-  - Brian
+  - Liu-ping
+  - Elvy
+  - Mico
+  - Nana
+Gray:
+  - Steven
+  - Jessica
+  - Sunny
+  - Candy
 Green:
-  - Kimmy
-  - Ann
   - Rita
-  - Emily
-  - Frank
+  - Sophia
+  - Nelson
+  - Ting
+Orange:
+  - Eleven
+  - Mary
+  - Moto
+  - Kiki
 Pink:
-  - Edith
-  - Wendy
-  - Fred
-  - 吳佳倩
+  - Irin
+  - Lucy
+  - Ken
+  - Cloud
 Purple:
-  - Nicole
-  - Riva
-  - Cara
-  - Shally
+  - 佳樺
+  - Allen
+  - Ashley
+  - Emma
 Red:
-  - Crystal
-  - Fanny
-  - Ivy
-  - Zing-fong
+  - Daisy
+  - Sandy
+  - Anne
+  - Vivian
 White:
-  - Wesley
-  - 姚佩伶
-  - Jill
-  - Abbie
+  - Ivy
+  - Jean
+  - Ford
+  - Jo
