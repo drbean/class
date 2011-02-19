@@ -2,121 +2,86 @@
 Chinese:
   Black: 0
   BlackBlack: 0
-  Blue: 0
-  BlueBlue: 0
   Brown: 0
-  BrownBrown: 0
+  DarkGreen: 0
   Gray: 0
-  GrayGray: 0
-  Green: 0
+  LightBlueGreen: 0
   Orange: 0
   Pink: 0
   Purple: 0
   Red: 0
   White: 0
-  WhiteWhite: 0
   Yellow: 0
-  YellowYellow: 0
 letters:
   Black:
-    N9561765: 4
-    V9731059: 5
-    V9741009: 5
-    V9741064: 6
-    story: ward1
+    N9661753: 7
+    N9561741: 8
+    N9661705: 9
+    N9661706: 8
+    story: 1-81
   BlackBlack:
-    N9461738: 5
-    V9724004: 5
-    V9741010: 3
-    V9741061: 7
-    story: trinka1
-  Blue:
-    N9561721: 10
-    U9616041: 10
-    V9741014: 10
-    V9741060: 10
-    story: trinka2
-  BlueBlue:
-    N9561732: 6
-    N9661761: 6
-    V9741015: 4
-    V9741059: 6
-    story: trinka1
-  Brown:
-    N9561751: 6
-    N9661758: 7
-    V9741016: 7
-    V9741057: 8
-    story: novak0
-  BrownBrown:
-    N9561762: 4
-    U9533039: 6
-    V9741018: 4
-    V9741055: 4
-    story: ward1
-  Gray:
-    N9661702: 8
-    N9661753: 8
-    V9741023: 8
-    V9741053: 6
-    story: ward1
-  GrayGray:
-    N9661705: 8
-    N9661749: 7
-    V9741024: 7
-    V9741049: 7
-    story: novak0
-  Green:
-    N9661706: 10
-    N9661748: 10
-    V9741025: 10
-    V9741048: 9
-    story: trinka2
-  Orange:
-    N9661713: 5
-    N9661747: 5
-    V9741028: 5
-    V9741047: 5
-    story: trinka1
-  Pink:
-    N9661717: 9
-    N9661746: 10
-    V9741029: 10
-    V9741044: 10
-    story: ward1
-  Purple:
-    N9661724: 10
-    N9661743: 10
-    V9741030: 10
-    V9741043: 10
-    story: trinka2
-  Red:
-    N9661725: 7
-    N9661741: 8
-    V9741032: 7
-    V9741042: 7
-    story: novak0
-  White:
-    N9661727: 5
-    N9661740: 5
-    V9741034: 5
-    V9741041: 5
-    story: trinka1
-  WhiteWhite:
-    N9661728: 9
-    N9661738: 8
-    V9741036: 9
-    V9741040: 10
-    story: novak0
-  Yellow:
-    N9661731: 10
+    N9661722: 10
+    N9661734: 10
     N9661737: 10
-    V9741037: 10
-    V9741038: 10
-    story: trinka2
-  YellowYellow:
-    N9661713: 6
-    V9731059: 8
-    9622299: 1
-    V9741066: 9
-    story: ward1
+    N9661755: 10
+    story: 1-81
+  Brown:
+    N9461738: 10
+    N9661746: 10
+    N9561713: 9
+    N9661701: 10
+    story: 1-81
+  DarkGreen:
+    N9461734: 8
+    N9561765: 8
+    N9661728: 9
+    N9661731: 7
+    story: 1-81
+  Gray:
+    N9661720: 8
+    N9561725: 6
+    N9661722: 8
+    N9661743: 7
+    story: 18-251
+  LightBlueGreen:
+    N9661740: 7
+    N9661742: 7
+    N9661745: 9
+    N9461748: 8
+    story: 18-251
+  Orange:
+    N9661734: 10
+    N9661702: 10
+    N9661757: 9
+    N9661741: 4
+    story: 1-81
+  Pink:
+    N9561766: 10
+    N9661709: 10
+    N9561762: 10
+    N9461760: 10
+    story: 1-81
+  Purple:
+    N9561758: 3
+    N9661715: 4
+    N9661717: 3
+    N9661724: 3
+    story: 18-251
+  Red:
+    N9561754: 8
+    N9661725: 8
+    N9561748: 8
+    N9661712: 8
+    story: 18-251
+  White:
+    N9661748: 7
+    N9661723: 8
+    N9661755: 8
+    N9661747: 8
+    story: 18-251
+  Yellow:
+    N9461747: 8
+    N9661717: 7
+    N9661719: 7
+    N9661714: 7
+    story: 18-251

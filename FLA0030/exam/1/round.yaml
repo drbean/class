@@ -5,118 +5,88 @@ questions:
   - 10
 pass: 6
 assistant:
-  - Joey
-  - Vivi
+  - Lucas
+  - Iris
+  - Yuwen
+  - Lucy
 absent:
-text: /home/drbean/class/conversation/NovakWardTrinka/cards.yaml
+  - Ivy1
+text: /home/drbean/class/friends/6/cards.yaml
 activity:
-  novak:
-    0:
-      - Brown
-      - GrayGray
-      - Red
-      - WhiteWhite
-  ward:
+  1-8:
     1:
       - Black
-      - Pink
-      - Gray
-      - BrownBrown
-      - YellowYellow
-  trinka:
-    1:
-      - BlackBlack
-      - BlueBlue
+      - Brown
+      - DarkGreen
       - Orange
-      - White
-    2:
-      - Blue
-      - Green
+      - Pink
+      - BlackBlack
+  18-25:
+    1:
+      - Gray
+      - LightBlueGreen
       - Purple
+      - Red
+      - White
       - Yellow
 group:
   Black:
-    - Emily3
-    - Vivi
-    - Alan
-    - Amy
-  BlackBlack:
-    - Sunny
-    - Nancy
-    - Andy
-    - Bruce
-  Blue:
-    - Fenny
-    - Vera
-    - Melissa
-    - Kathy
-  BlueBlue:
-    - Hank
-    - Nana
-    - Justin
-    - Ivy2
-  Brown:
-    - Cindy
-    - Emma
-    - Anita
-    - Nina
-  BrownBrown:
-    - Eunice
-    - Ally
-    - Cathy
-    - Abby
-  Gray:
-    - Ashley
-    - Ting'an
-    - Elly
-    - Molly
-  GrayGray:
+    - "Ting'an"
+    - Rita
     - Anne
-    - Chelsea
-    - Emily1
-    - Sophie
-  Green:
     - Ting
-    - Cloud
-    - Tracy
-    - Aska
-  Orange:
-    - Joey
-    - Kiki
-    - Carol
-    - Ivy1
-  Pink:
-    - Lucas
+  Brown:
+    - Sunny
     - Amberly
-    - Kumiko
-    - Jessica2
-  Purple:
-    - Jo
-    - Michelle
-    - Donna
-    - Jessica1
-  Red:
-    - Mico
-    - Vivian
-    - Maggie
-    - Eva
-  White:
-    - Nelson
-    - Ken
-    - Emily2
-    - Tina
-  WhiteWhite:
+    - Crystal
+    - Ivy2
+  DarkGreen:
+    - Akigo
+    - Emily
     - Moto
-    - Linda
-    - Jacinta
-    - Rachel
-  Yellow:
     - Tiffany
+  Gray:
+    - Jean
+    - Riva
+    - Iris
+    - Michelle
+  LightBlueGreen:
+    - Ken
+    - Daisy
+    - Mary
+    - Clare
+  Orange:
+    - Lucy
+    - Ashley
+    - Sandy
+    - Vivian
+  Pink:
+    - Frank
+    - Irin
+    - Eunice
+    - Cloudy
+  Purple:
+    - Rock
+    - Rogers
+    - Lucas
+    - Jo
+  Red:
+    - Monica
+    - Mico
+    - Fred
+    - Allen2
+  White:
+    - Cloud
+    - Jessica
+    - Yuwen
+    - Kiki
+  Yellow:
+    - Allen1
+    - Lucas
+    - Eleven
+    - Steven
+  BlackBlack:
+    - Iris
+    - Lucy
     - Ford
-    - Peggy
-    - Candy
-  YellowYellow:
-    - Joey
-    - Vivi
-    - Edison
-    - Joe
+    - Yuwen

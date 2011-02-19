@@ -1,107 +1,84 @@
 ---
 round: 5
-week: 5
-absent:
-text: 
+week: 7
+not folded:
+late:
+  - N9661747
+  - N9661715
+  - N9661701
+  - N9661702
+  - N9461748
+  - N9661723
+text: /home/drbean/class/friends/7/cards.yaml
 activity:
-  trinka:
+  1:
     0:
-      -
-         White: N9661727
-         Black: N9661706
-      -
-         White: N9661738
-         Black: N9661761
-      -
-         White: V9741043
-         Black: V9741057
-      -
-         White: V9741047
-         Black: V9741064
-      -
-         White: N9661746
-         Black: U9616041
-      -
-         White: V9741028
-         Black: V9741009
-      -
-         White: V9741037
-         Black: V9741010
-      -
-         White: N9661717
-         Black: N9561721
-      -
-         White: V9741034
-         Black: V9741025
-      -
-         White: N9661749
-         Black: V9741024
-      -
-         White: N9661743
-         Black: N9661758
-      -
-         White: N9661705
-         Black: V9741055
-      -
-         White: V9741036
-         Black: V9741015
-      -
-         White: V9741030
-         Black: V9741016
-      -
-         White: V9741029
-         Black: V9741014
-      -
-         White: 9622299
-         Black: N9661713
-      -
-         White: N9661747
-         Black: V9731059
-      -
-         White: V9741044
-         Black: V9741060
-      -
-         White: N9661737
-         Black: V9724004
-      -
-         White: V9741066
-         Black: V9741018
-      -
-         White: N9661725
-         Black: N9661702
-      -
-         White: N9661740
-         Black: N9661748
-      -
-         White: N9661741
-         Black: N9661753
-      -
-         White: V9741042
-         Black: V9741053
-      -
-         White: N9661731
-         Black: N9461738
-      -
-         White: U9533039
-         Black: N9561762
-      -
-         White: N9561765
-         Black: V9741049
-      -
-         White: V9741041
-         Black: V9741048
-      -
-         White: V9741038
-         Black: V9741061
-      -
-         White: N9661724
-         Black: N9561751
-      -
-         White: V9741040
-         Black: V9741059
-      -
-         White: N9661728
-         Black: N9561732
-      -
-         White: V9741032
-         Black: V9741023
+      - N9461738
+      - N9461748
+      - N9561713
+      - N9561725
+      - N9561741
+      - N9561758
+      - N9561766
+      - N9661714
+      - N9661715
+      - N9661717
+      - N9661719
+      - N9661724
+      - N9661725
+      - N9661740
+      - N9661743
+      - N9661746
+      - N9461747
+pair:
+  N9461738:
+    White: N9461738
+    Black: N9661748
+  N9461748:
+    White: N9461748
+    Black: N9661728
+  N9561713:
+    White: N9561713
+    Black: N9561765
+  N9561725:
+    White: N9561725
+    Black: N9661755
+  N9561741:
+    White: N9561741
+    Black: N9661745
+  N9561758:
+    White: N9561758
+    Black: N9661737
+  N9561766:
+    White: N9561766
+    Black: N9661720
+  N9661714:
+    White: N9661714
+    Black: N9661702
+  N9661715:
+    White: N9661715
+    Black: N9561748
+  N9661717:
+    White: N9661717
+    Black: N9661747
+  N9661719:
+    White: N9661719
+    Black: N9461734
+  N9661724:
+    White: N9661724
+    Black: N9561762
+  N9661725:
+    White: N9661725
+    Black: N9661734
+  N9661740:
+    White: N9661740
+    Black: N9661723
+  N9661743:
+    White: N9661743
+    Black: N9661701
+  N9661746:
+    White: N9661746
+    Black: N9661753
+  N9461747:
+    White: N9461747
+    Black: N9661757

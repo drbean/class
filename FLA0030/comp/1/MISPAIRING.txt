@@ -1,0 +1,14 @@
+drbean@sac swiss]$ perl script_files/updateratings.pl -l FLA0031 -r 2
+Player N9361758 had no, or zero rating in round 1 at script_files/updateratings.pl line 84.
+Player N9461738 had no, or zero rating in round 1 at script_files/updateratings.pl line 84.
+Player N9461748 had no, or zero rating in round 1 at script_files/updateratings.pl line 84.
+Player N9661706 got 4 points in Round 1, but opponent is Unpaired? at script_files/updateratings.pl line 95.
+Player N9661755, with 1700 rating, missing from Opponents database in Round 1, at script_files/updateratings.pl line 90.
+Player N9461734, with 1250 rating, missing from Opponents database in Round 1, at script_files/updateratings.pl line 90.
+Player N9561765, with 1200 rating, missing from Opponents database in Round 1, at script_files/updateratings.pl line 90.
+Player N9661731, with 1250 rating, missing from Opponents database in Round 1, at script_files/updateratings.pl line 90.
+Player N9461760, with 1100 rating, missing from Opponents database in Round 1, at script_files/updateratings.pl line 90.
+[drbean@sac swiss]$ 
+
+Table 7, Frank N9561766, Anne N9661705 answered no questions.
+Table 12, Ken answered no questions.
