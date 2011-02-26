@@ -13,9 +13,75 @@ id: GL00022
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
+  - Chinese: 謝穎儒
+    name: Ying-ru
+    password: ying
+    id: U9813035
+    rating: ~
+  - Chinese: 盧昕緯
+    name: Hsin-wei
+    password: xin
+    id: U9813033
+    rating: ~
+  - Chinese: 王維佑
+    name: Aaron
+    password: wei
+    id: U9813040
+    rating: ~
+  - Chinese: 黃靖嵐
+    name: Gina2
+    password: jing
+    id: U9813031
+    rating: ~
+  - Chinese: 蘇仲富
+    name: Edwin
+    password: zhung
+    id: T9812014
+    rating: ~
+  - Chinese: 楊承建
+    name: Jason2
+    password: cheng
+    id: U9613045
+    rating: ~
+  - Chinese: 邱世勳
+    name: Andy
+    password: shi
+    id: U9813030
+    rating: ~
+  - Chinese: 李炳榮
+    id: U9843004
+    name: Wesley
+    password: bing
+    rating: 74
+  - Chinese: 李恩柔
+    id: U9843023
+    name: Vicky
+    password: en
+    rating: 83
+  - Chinese: 劉淞傑
+    name: Daniel
+    password: song
+    id: U9822002
+    rating: ~
+  - Chinese: 林惠賢
+    name: Betty
+    password: hui
+    id: U9931231
+    rating: 
+  - Chinese: 楊仁專
+    name: Scott
+    password: ren
+    id: U9811142
+    rating: ~
+  - Chinese: 杜孟哲
+    name: Jeff
+    password: meng
+    id: U9811127
+    rating: ~
+  
   - Chinese: 楊蕙瑜
     id: 9616201
-    name: 楊蕙瑜
+    name: Julia
     password: hui
     rating: ~
   - Chinese: 彭義融
@@ -35,12 +101,12 @@ member:
     rating: ~
   - Chinese: 林欣儀
     id: T9811101
-    name: 林欣儀
+    name: XinYi
     password: xin
     rating: ~
   - Chinese: 姚申峰
     id: T9811111
-    name: 姚申峰
+    name: Richard
     password: shen
     rating: ~
   - Chinese: 林祐全
@@ -50,7 +116,7 @@ member:
     rating: ~
   - Chinese: 林鈺賀
     id: T9811142
-    name: 林鈺賀
+    name: Lin
     password: yu
     rating: ~
   - Chinese: 莊博鈞
@@ -60,7 +126,7 @@ member:
     rating: ~
   - Chinese: 趙家頤
     id: T9813003
-    name: 趙家頤
+    name: Vivi
     password: jia
     rating: ~
   - Chinese: 張雅筑
@@ -70,7 +136,7 @@ member:
     rating: ~
   - Chinese: 陳昶諭
     id: T9813009
-    name: 陳昶諭
+    name: Jerry
     password: chang
     rating: ~
   - Chinese: 陳正儒
@@ -80,17 +146,17 @@ member:
     rating: ~
   - Chinese: 楊智強
     id: T9821014
-    name: 楊智強
+    name: Jason1
     password: zhi
     rating: ~
   - Chinese: 游琮柏
     id: T9821033
-    name: 游琮柏
+    name: Jack
     password: cong
     rating: ~
   - Chinese: 劉勇呈
     id: T9821043
-    name: 劉勇呈
+    name: Lou
     password: yong
     rating: ~
   - Chinese: 邱威侖
@@ -115,7 +181,7 @@ member:
     rating: ~
   - Chinese: 謝竺芸
     id: U9692049
-    name: 謝竺芸
+    name: Chu
     password: zhu
     rating: ~
   - Chinese: 陳偉生
@@ -125,7 +191,7 @@ member:
     rating: ~
   - Chinese: 呂曜宇
     id: U9711013
-    name: 呂曜宇
+    name: Kevin
     password: yao
     rating: ~
   - Chinese: 林昱豪
@@ -140,17 +206,17 @@ member:
     rating: ~
   - Chinese: 潘郁茹
     id: U9718033
-    name: 潘郁茹
+    name: Kate
     password: yu
     rating: ~
   - Chinese: 陳思?
     id: U9718036
-    name: 陳思?
+    name: Shirley
     password: si
     rating: ~
   - Chinese: 蔡亞彬
     id: U9718043
-    name: 蔡亞彬
+    name: Ya-Pin
     password: ya
     rating: ~
   - Chinese: 廖玉紅
@@ -160,12 +226,12 @@ member:
     rating: ~
   - Chinese: 張　駿
     id: U9718053
-    name: 張　駿
+    name: Roger
     password: jun
     rating: ~
   - Chinese: 溫子玉
     id: U9742052
-    name: 溫子玉
+    name: Gina1
     password: zi
     rating: ~
   - Chinese: 嚴虹渚
@@ -175,27 +241,27 @@ member:
     rating: ~
   - Chinese: 陳蓓欣
     id: U9810022
-    name: 陳蓓欣
+    name: Penny
     password: bei
     rating: ~
   - Chinese: 楊勍崧
     id: U9811010
-    name: 楊勍崧
+    name: Garen
     password: qing
     rating: ~
   - Chinese: 吳信宏
     id: U9811114
-    name: 吳信宏
+    name: Les
     password: xin
     rating: ~
   - Chinese: 江秉哲
     id: U9811144
-    name: 江秉哲
+    name: John
     password: bing
     rating: ~
   - Chinese: 張志揚
     id: U9811149
-    name: 張志揚
+    name: Terry
     password: zhi
     rating: ~
   - Chinese: 李芳儀
@@ -205,12 +271,12 @@ member:
     rating: ~
   - Chinese: 許晁睿
     id: U9821036
-    name: 許晁睿
+    name: Raymond
     password: chao
     rating: ~
   - Chinese: 陳明豪
     id: U9823033
-    name: 陳明豪
+    name: Dale
     password: ming
     rating: ~
   - Chinese: 莫教祥
@@ -220,7 +286,7 @@ member:
     rating: ~
   - Chinese: 姜宇庭
     id: U9931216
-    name: 姜宇庭
+    name: Jeanie
     password: yu
     rating: ~
   - Chinese: 李?鑾
@@ -233,7 +299,7 @@ member:
     name: 張百慧
     password: bai
     rating: ~
-room: A706
+room: A705
 weights:
   classwork: 70
   exams: 15
