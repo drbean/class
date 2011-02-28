@@ -1,56 +1,61 @@
 ---
 Black:
-  - Gwan-Chi
-  - Zack
-  - Jerry1
-  - Michelle
-BlackBlack:
-  - ChunHan
-  - Chiahao
-  - Tiffany
-  - WanHan
-Blue:
-  - Aaron
-  - Sofie
-  - May
-  - Judy
-Brown:
-  - Patrick
-  - Jheng-Syun
-  - ChiaoLing
   - Zih-sheng
-Gray:
-  - Nick
-  - Jenny
-  - Tina
-  - Kuan-Li
-Orange:
-  - Amy
-  - Sharon
-  - Wei-Cei
   - Yi-Tang
-Pink:
-  - Grace
-  - Betty
-  - Jerry2
-  - Reicho
-Purple:
-  - Elaine
+  - Pei-ci
   - Jenay
-  - Wayne
+White:
+  - Kuan-Li
+  - ChiaoLing
+  - Jenny
+  - Judy
+Blue:
   - Alice
-Red:
-  - Candy
-  - Sandy
+  - Tiffany
+  - Michelle
+  - Amy
+Brown:
+  - Nick
+  - Jheng-Syun
+  - Gwan-Chi
+  - WanHan
+Gray:
+  - Stanley
+  - Sofie
+  - Jerry2
+  - Patrick
+Green:
+  - Wei-jhih
+  - Helen
+  - Tina
+  - Chiahao
+Orange:
+  - Reicho
+  - Zack
+  - Bu-Dien
+  - Aaron
+Pink:
+  - May
   - Li
   - Wan-ling
-White:
-  - Dennis
+  - Grace
+Purple:
+  - Elaine
+  - Wayne
   - Dian
-  - Laura
-  - Pei-ci
-Yellow:
-  - ~
-  - Bu-Dien
-  - Helen
+  - Sandy
+Red:
   - Yi-xun
+  - Jerry1
+  - Sharon
+  - Laura
+Yellow:
+  - Candy
+  - Dennis
+  - Jessie
+#  - Betty
+#BlackBlack:
+#  - T-Play
+#  - Wei-Cei
+#  - ~
+#  - Wang
