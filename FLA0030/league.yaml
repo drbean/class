@@ -9,10 +9,40 @@ field: 西洋通俗文化
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 992FLA0030
+id: FLA0030
 jigsaw: exam
 league: 夜應外大學四甲
 member:
+  - Chinese: 王寧
+    id: V9741059
+    name: Ivy
+    password: ning
+    rating: 73
+  - Chinese: 林志豪
+    id: V9741066
+    name: Joe
+    password: zhi
+    rating: 76
+  - Chinese: 鄭淑鈴
+    id: N9661738
+    name: Linda
+    password: shu
+    rating: 65
+  - Chinese: 傅泓瑜
+    id: V9741029
+    name: Kumiko
+    password: hong
+    rating: 70
+  - Chinese: 林芷嫻
+    id: V9741028
+    name: Carol
+    password: zhi
+    rating: 58
+  - Chinese: 李欣怡
+    id: V9741030
+    name: Donna
+    password: xin
+    rating: 60
   - Chinese: 陳彥叡
     id: 9622299
     name: Edison
@@ -50,7 +80,7 @@ member:
     rating: 82
   - Chinese: 周虹霓
     id: V9741034
-    name: Emily2
+    name: Emily
     password: hong
     rating: 79
   - Chinese: 謝宇函
@@ -84,7 +114,7 @@ member:
     password: fang
     rating: 76
 out: ~
-room: A704
+room: A705
 weights:
   classwork: 70
   exams: 15
