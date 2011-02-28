@@ -13,16 +13,6 @@ id: FIA0038
 jigsaw: exam
 league: 日財金大學二甲
 member:
-  - Chinese: 游敏靜
-    id: T9731019
-    name: 敏靜
-    password: min
-    rating: ~
-  - Chinese: 張雅如
-    id: T9731029
-    name: 雅如
-    password: ya
-    rating: ~
   - Chinese: 賴育茹
     id: U9833004
     name: Cathy
@@ -37,11 +27,6 @@ member:
     id: U9834002
     name: Peace
     password: he
-    rating: ~
-  - Chinese: 陳喬昀
-    id: U9834003
-    name: Patterson
-    password: qiao
     rating: ~
   - Chinese: 陳欣宜
     id: U9834004
@@ -243,7 +228,22 @@ member:
     name: Tina
     password: yan
     rating: ~
-# out:
+out:
+  - Chinese: 游敏靜
+    id: T9731019
+    name: 敏靜
+    password: min
+    rating: ~
+  - Chinese: 張雅如
+    id: T9731029
+    name: 雅如
+    password: ya
+    rating: ~
+  - Chinese: 陳喬昀
+    id: U9834003
+    name: Patterson
+    password: qiao
+    rating: ~
   - Chinese: 李勁緯
     id: U9834008
     name: Hawkins

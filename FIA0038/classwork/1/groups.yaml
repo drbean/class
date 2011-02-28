@@ -2,12 +2,12 @@
 BlackBlack:
   - Jeren
   - Peace
-  - Patterson
+  - ~
   - Joy
 Black:
   - Ezra
   - Jean
-  - 敏靜
+  - ~
   - Linda2
 Blue:
   - Jenny
@@ -18,14 +18,14 @@ BlueBlue:
   - Alex
   - Linda1
   - Jack
-  - Hawkins
+  - ~
 Brown:
   - Kelly
   - Trisha
-  - 雅如
+  - Annie
   - Maggie
 Gray:
-  - ~
+  - Jill
   - Sherry2
   - Ray
   - Penny
@@ -49,11 +49,6 @@ Red:
   - Dennis
   - Brian
   - Nancy
-White:
-  - Eileen
-  - ~
-  - Annie
-  - Jill
 WhiteWhite:
   - Ashly
   - ~
