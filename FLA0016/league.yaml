@@ -9,20 +9,35 @@ field: 英語會話(二)
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 992FLA0016
+id: FLA0016
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+  - id: U9693040
+    Chinese: 池采逸
+    name: Anny
+    password: cai
+    rating: ~
+  - id: U9693041
+    Chinese: 李欣蔓
+    name: Bella
+    password: xin
+    rating: ~
+  - id: U9693046
+    Chinese: 蔡逸璇
+    name: Sherry
+    password: yi
+    rating: ~
+  - Chinese: 黃啟信
+    id: V9841062
+    name: Ivan
+    password: qi
+    rating: ~
   - Chinese: 吳佳樺
     id: N9661752
-    name: 吳佳樺
+    name: Michelle
     password: jia
     rating: ~
-  - Chinese: 黃文青
-    id: V9741002
-    name: Miranda
-    password: wen
-    rating: 23
   - Chinese: 黃文青
     id: V9741002
     name: Miranda
@@ -103,11 +118,6 @@ member:
     name: Jeffrey
     password: ze
     rating: 63
-  - Chinese: 黃偉鳴
-    id: V9841018
-    name: 黃偉鳴
-    password: wei
-    rating: ~
   - Chinese: 黃柏銘
     id: V9841020
     name: Stanley
@@ -233,11 +243,6 @@ member:
     name: Ming
     password: yi
     rating: 71
-  - Chinese: 詹貿傑
-    id: V9841052
-    name: Jerry
-    password: mao
-    rating: ~
   - Chinese: 張羽萍
     id: V9841053
     name: Carina
@@ -274,6 +279,16 @@ member:
     password: wen
     rating: 67
 out:
+  - Chinese: 詹貿傑
+    id: V9841052
+    name: Jerry
+    password: mao
+    rating: ~
+  - Chinese: 黃偉鳴
+    id: V9841018
+    name: 黃偉鳴
+    password: wei
+    rating: ~
   - Chinese: 劉芬芳
     id: N9661760
     name: Sophia
