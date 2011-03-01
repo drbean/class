@@ -84,21 +84,6 @@ member:
     name: Julia
     password: hui
     rating: ~
-  - Chinese: 彭義融
-    id: 9622297
-    name: 彭義融
-    password: yi
-    rating: ~
-  - Chinese: 黃丞沂
-    id: T9716021
-    name: 黃丞沂
-    password: cheng
-    rating: ~
-  - Chinese: 施建宗
-    id: T9721041
-    name: 施建宗
-    password: jian
-    rating: ~
   - Chinese: 林欣儀
     id: T9811101
     name: XinYi
@@ -109,40 +94,20 @@ member:
     name: Richard
     password: shen
     rating: ~
-  - Chinese: 林祐全
-    id: T9811139
-    name: 林祐全
-    password: you
-    rating: ~
   - Chinese: 林鈺賀
     id: T9811142
     name: Lin
     password: yu
-    rating: ~
-  - Chinese: 莊博鈞
-    id: T9811153
-    name: 莊博鈞
-    password: bo
     rating: ~
   - Chinese: 趙家頤
     id: T9813003
     name: Vivi
     password: jia
     rating: ~
-  - Chinese: 張雅筑
-    id: T9813004
-    name: 張雅筑
-    password: ya
-    rating: ~
   - Chinese: 陳昶諭
     id: T9813009
     name: Jerry
     password: chang
-    rating: ~
-  - Chinese: 陳正儒
-    id: T9813038
-    name: 陳正儒
-    password: zheng
     rating: ~
   - Chinese: 楊智強
     id: T9821014
@@ -159,50 +124,15 @@ member:
     name: Lou
     password: yong
     rating: ~
-  - Chinese: 邱威侖
-    id: U9611051
-    name: 邱威侖
-    password: wei
-    rating: ~
-  - Chinese: 陳?恩
-    id: U9621094
-    name: 陳?恩
-    password: ?
-    rating: ~
-  - Chinese: 曾鈺婷
-    id: U9634032
-    name: 曾鈺婷
-    password: yu
-    rating: ~
-  - Chinese: 廖芳媛
-    id: U9692038
-    name: 廖芳媛
-    password: fang
-    rating: ~
   - Chinese: 謝竺芸
     id: U9692049
     name: Chu
     password: zhu
     rating: ~
-  - Chinese: 陳偉生
-    id: U9693054
-    name: 陳偉生
-    password: wei
-    rating: ~
   - Chinese: 呂曜宇
     id: U9711013
     name: Kevin
     password: yao
-    rating: ~
-  - Chinese: 林昱豪
-    id: U9715023
-    name: 林昱豪
-    password: yu
-    rating: ~
-  - Chinese: 黃介廷
-    id: U9718016
-    name: 黃介廷
-    password: jie
     rating: ~
   - Chinese: 潘郁茹
     id: U9718033
@@ -219,11 +149,6 @@ member:
     name: Ya-Pin
     password: ya
     rating: ~
-  - Chinese: 廖玉紅
-    id: U9718048
-    name: 廖玉紅
-    password: yu
-    rating: ~
   - Chinese: 張　駿
     id: U9718053
     name: Roger
@@ -233,11 +158,6 @@ member:
     id: U9742052
     name: Gina1
     password: zi
-    rating: ~
-  - Chinese: 嚴虹渚
-    id: U9743024
-    name: 嚴虹渚
-    password: hong
     rating: ~
   - Chinese: 陳蓓欣
     id: U9810022
@@ -264,11 +184,6 @@ member:
     name: Terry
     password: zhi
     rating: ~
-  - Chinese: 李芳儀
-    id: U9817024
-    name: 李芳儀
-    password: fang
-    rating: ~
   - Chinese: 許晁睿
     id: U9821036
     name: Raymond
@@ -279,15 +194,101 @@ member:
     name: Dale
     password: ming
     rating: ~
-  - Chinese: 莫教祥
-    id: U9824003
-    name: 莫教祥
-    password: jiao
-    rating: ~
   - Chinese: 姜宇庭
     id: U9931216
     name: Jeanie
     password: yu
+    rating: ~
+out:
+  - Chinese: 彭義融
+    id: 9622297
+    name: 彭義融
+    password: yi
+    rating: ~
+  - Chinese: 黃丞沂
+    id: T9716021
+    name: 黃丞沂
+    password: cheng
+    rating: ~
+  - Chinese: 施建宗
+    id: T9721041
+    name: 施建宗
+    password: jian
+    rating: ~
+  - Chinese: 林祐全
+    id: T9811139
+    name: 林祐全
+    password: you
+    rating: ~
+  - Chinese: 莊博鈞
+    id: T9811153
+    name: 莊博鈞
+    password: bo
+    rating: ~
+  - Chinese: 張雅筑
+    id: T9813004
+    name: 張雅筑
+    password: ya
+    rating: ~
+  - Chinese: 陳正儒
+    id: T9813038
+    name: 陳正儒
+    password: zheng
+    rating: ~
+  - Chinese: 邱威侖
+    id: U9611051
+    name: 邱威侖
+    password: wei
+    rating: ~
+  - Chinese: 陳?恩
+    id: U9621094
+    name: 陳?恩
+    password: ?
+    rating: ~
+  - Chinese: 曾鈺婷
+    id: U9634032
+    name: 曾鈺婷
+    password: yu
+    rating: ~
+  - Chinese: 廖芳媛
+    id: U9692038
+    name: 廖芳媛
+    password: fang
+    rating: ~
+  - Chinese: 陳偉生
+    id: U9693054
+    name: 陳偉生
+    password: wei
+    rating: ~
+  - Chinese: 林昱豪
+    id: U9715023
+    name: 林昱豪
+    password: yu
+    rating: ~
+  - Chinese: 黃介廷
+    id: U9718016
+    name: 黃介廷
+    password: jie
+    rating: ~
+  - Chinese: 廖玉紅
+    id: U9718048
+    name: 廖玉紅
+    password: yu
+    rating: ~
+  - Chinese: 嚴虹渚
+    id: U9743024
+    name: 嚴虹渚
+    password: hong
+    rating: ~
+  - Chinese: 李芳儀
+    id: U9817024
+    name: 李芳儀
+    password: fang
+    rating: ~
+  - Chinese: 莫教祥
+    id: U9824003
+    name: 莫教祥
+    password: jiao
     rating: ~
   - Chinese: 李?鑾
     id: U9942012
