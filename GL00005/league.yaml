@@ -13,6 +13,47 @@ id: GL00005
 jigsaw: exam
 league: 日語文共同學制虛擬班二甲
 member:
+   #- Chinese: 杜代璿
+   #  name: DaiShian
+   #  password: dai
+   #  id: 杜代璿
+   #  rating: ~
+  - Chinese: 張力中
+    name: Li
+    password: li
+    id: U9831049
+    rating: ~
+  - Chinese: 洪彰鍵
+    name: Charlie
+    password: zhang
+    id: U9621018
+    rating: ~
+  - Chinese: 林芳義
+    name: Amy
+    password: fang
+    id: U9931143
+    rating: ~
+  - Chinese: 郭威廷
+    name: Welson
+    password: wei
+    id: U9624042
+    rating: ~
+  - Chinese: 羅曼
+    name: Frances
+    password: man
+    id: V9741065
+    rating: ~
+  - Chinese: 林怡佩
+    name: YiPei
+    password: yi
+    id: U9711052
+    rating: ~
+  - Chinese: 林宜寬
+    name: YiKuan
+    password: yi
+    id: U9711025
+    rating: ~
+  
   - Chinese: 黃俊淵
     id: 9611203
     name: 黃俊淵
@@ -40,37 +81,37 @@ member:
     rating: ~
   - Chinese: 陳郁翔
     id: T9811035
-    name: 陳郁翔
+    name: YuiSung
     password: yu
     rating: ~
   - Chinese: 余奕霖
     id: T9811130
-    name: 余奕霖
+    name: YiLin
     password: yi
     rating: ~
   - Chinese: 徐梓育
     id: T9811136
-    name: 徐梓育
+    name: ZiYu
     password: zi
     rating: ~
   - Chinese: 鄧傑宇
     id: T9811137
-    name: 鄧傑宇
+    name: JieYu
     password: jie
     rating: ~
   - Chinese: 張丞硯
     id: T9811151
-    name: 張丞硯
+    name: ChenYan
     password: cheng
     rating: ~
   - Chinese: 莊至昇
     id: T9811155
-    name: 莊至昇
+    name: Zhisheng
     password: zhi
     rating: ~
   - Chinese: 栗譽僑
     id: T9831040
-    name: 栗譽僑
+    name: DrLee
     password: yu
     rating: ~
   - Chinese: 李培誥
@@ -115,22 +156,22 @@ member:
     rating: ~
   - Chinese: 陳冠嘉
     id: U9813024
-    name: 陳冠嘉
+    name: KuanChia
     password: guan
     rating: ~
   - Chinese: 莊凱賀
     id: U9814114
-    name: 莊凱賀
+    name: Kyle
     password: kai
     rating: ~
   - Chinese: 賴文德
     id: U9814117
-    name: 賴文德
+    name: WenTe
     password: wen
     rating: ~
   - Chinese: 吳家蓁
     id: U9823011
-    name: 吳家蓁
+    name: Judy
     password: jia
     rating: ~
   - Chinese: 楊喬富
@@ -165,10 +206,10 @@ member:
     rating: ~
   - Chinese: ?頌偉
     id: U9922235
-    name: ?頌偉
+    name: SongWei
     password: song
     rating: ~
-room: A706
+room: A705
 weights:
   classwork: 70
   exams: 15
