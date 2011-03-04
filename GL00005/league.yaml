@@ -54,31 +54,6 @@ member:
     id: U9711025
     rating: ~
   
-  - Chinese: 黃俊淵
-    id: 9611203
-    name: 黃俊淵
-    password: jun
-    rating: ~
-  - Chinese: 徐誥邦
-    id: 9633247
-    name: 徐誥邦
-    password: gao
-    rating: ~
-  - Chinese: 高文華
-    id: T9721105
-    name: 高文華
-    password: wen
-    rating: ~
-  - Chinese: 李鴻昌
-    id: T9721137
-    name: 李鴻昌
-    password: hong
-    rating: ~
-  - Chinese: 陳楚宗
-    id: T9721139
-    name: 陳楚宗
-    password: chu
-    rating: ~
   - Chinese: 陳郁翔
     id: T9811035
     name: YuiSung
@@ -114,46 +89,6 @@ member:
     name: DrLee
     password: yu
     rating: ~
-  - Chinese: 李培誥
-    id: U9611077
-    name: 李培誥
-    password: pei
-    rating: ~
-  - Chinese: 謝章聖
-    id: U9617038
-    name: 謝章聖
-    password: zhang
-    rating: ~
-  - Chinese: 陳乃如
-    id: U9617042
-    name: 陳乃如
-    password: nai
-    rating: ~
-  - Chinese: 林育生
-    id: U9623038
-    name: 林育生
-    password: yu
-    rating: ~
-  - Chinese: 周鈺燊
-    id: U9710018
-    name: 周鈺燊
-    password: yu
-    rating: ~
-  - Chinese: 彭韋綸
-    id: U9713030
-    name: 彭韋綸
-    password: wei
-    rating: ~
-  - Chinese: 蔡宗霖
-    id: U9715010
-    name: 蔡宗霖
-    password: zong
-    rating: ~
-  - Chinese: 楊竣博
-    id: U9715014
-    name: 楊竣博
-    password: jun
-    rating: ~
   - Chinese: 陳冠嘉
     id: U9813024
     name: KuanChia
@@ -174,40 +109,106 @@ member:
     name: Judy
     password: jia
     rating: ~
-  - Chinese: 楊喬富
-    id: U9834024
-    name: 楊喬富
-    password: qiao
+  - Chinese: ?頌偉
+    id: U9922235
+    name: SongWei
+    password: song
     rating: ~
-  - Chinese: 楊琬婷
-    id: U9834027
-    name: 楊琬婷
-    password: wan
-    rating: ~
-  - Chinese: 陳美萱
-    id: U9834028
-    name: 陳美萱
-    password: mei
-    rating: ~
-  - Chinese: 朱怡禎
-    id: U9834031
-    name: 朱怡禎
-    password: yi
+out:
+  - Chinese: 曾宇溢
+    id: U9921022
+    name: 曾宇溢
+    password: yu
     rating: ~
   - Chinese: 黃珮芸
     id: U9834034
     name: 黃珮芸
     password: pei
     rating: ~
-  - Chinese: 曾宇溢
-    id: U9921022
-    name: 曾宇溢
+  - Chinese: 朱怡禎
+    id: U9834031
+    name: 朱怡禎
+    password: yi
+    rating: ~
+  - Chinese: 陳美萱
+    id: U9834028
+    name: 陳美萱
+    password: mei
+    rating: ~
+  - Chinese: 楊琬婷
+    id: U9834027
+    name: 楊琬婷
+    password: wan
+    rating: ~
+  - Chinese: 楊喬富
+    id: U9834024
+    name: 楊喬富
+    password: qiao
+    rating: ~
+  - Chinese: 楊竣博
+    id: U9715014
+    name: 楊竣博
+    password: jun
+    rating: ~
+  - Chinese: 蔡宗霖
+    id: U9715010
+    name: 蔡宗霖
+    password: zong
+    rating: ~
+  - Chinese: 彭韋綸
+    id: U9713030
+    name: 彭韋綸
+    password: wei
+    rating: ~
+  - Chinese: 周鈺燊
+    id: U9710018
+    name: 周鈺燊
     password: yu
     rating: ~
-  - Chinese: ?頌偉
-    id: U9922235
-    name: SongWei
-    password: song
+  - Chinese: 林育生
+    id: U9623038
+    name: 林育生
+    password: yu
+    rating: ~
+  - Chinese: 陳乃如
+    id: U9617042
+    name: 陳乃如
+    password: nai
+    rating: ~
+  - Chinese: 謝章聖
+    id: U9617038
+    name: 謝章聖
+    password: zhang
+    rating: ~
+  - Chinese: 李培誥
+    id: U9611077
+    name: 李培誥
+    password: pei
+    rating: ~
+  - Chinese: 陳楚宗
+    id: T9721139
+    name: 陳楚宗
+    password: chu
+    rating: ~
+  - Chinese: 李鴻昌
+    id: T9721137
+    name: 李鴻昌
+    password: hong
+    rating: ~
+  - Chinese: 高文華
+    id: T9721105
+    name: 高文華
+    password: wen
+    rating: ~
+  - Chinese: 徐誥邦
+    id: 9633247
+    name: 徐誥邦
+    password: gao
+    rating: ~
+  - Chinese: 黃俊淵
+    id: 9611203
+    name: 黃俊淵
+    password: jun
     rating: ~
 room: A705
 weights:
