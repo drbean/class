@@ -13,6 +13,46 @@ id: GL00022
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
+  - Chinese: 吳晉宇
+    name: JinYi
+    password: jin
+    id: T9821036
+    rating: ~
+  - Chinese: 張雅?
+    name: Janet
+    password: ya
+    id: T9813004
+    rating: ~
+  - Chinese: 楊豐穗
+    name: Sui
+    password: feng
+    id: U9718022
+    rating: ~
+  - Chinese: 林佑翰
+    name: Terry
+    password: you
+    id: U9621082
+    rating: ~
+  - Chinese: 陳晧恩
+    id: U9621094
+    name: Howard
+    password: hao
+    rating: ~
+  - Chinese: 黃丞沂
+    id: T9716021
+    name: Fiora
+    password: cheng
+    rating: ~
+  - Chinese: 黃介廷
+    id: U9718016
+    name: Butler
+    password: jie
+    rating: ~
+  - Chinese: 廖芳媛
+    id: U9692038
+    name: Amily
+    password: fang
+    rating: ~
   - Chinese: 謝穎儒
     name: Ying-ru
     password: ying
@@ -205,11 +245,6 @@ out:
     name: 彭義融
     password: yi
     rating: ~
-  - Chinese: 黃丞沂
-    id: T9716021
-    name: 黃丞沂
-    password: cheng
-    rating: ~
   - Chinese: 施建宗
     id: T9721041
     name: 施建宗
@@ -240,20 +275,10 @@ out:
     name: 邱威侖
     password: wei
     rating: ~
-  - Chinese: 陳?恩
-    id: U9621094
-    name: 陳?恩
-    password: ?
-    rating: ~
   - Chinese: 曾鈺婷
     id: U9634032
     name: 曾鈺婷
     password: yu
-    rating: ~
-  - Chinese: 廖芳媛
-    id: U9692038
-    name: 廖芳媛
-    password: fang
     rating: ~
   - Chinese: 陳偉生
     id: U9693054
@@ -264,11 +289,6 @@ out:
     id: U9715023
     name: 林昱豪
     password: yu
-    rating: ~
-  - Chinese: 黃介廷
-    id: U9718016
-    name: 黃介廷
-    password: jie
     rating: ~
   - Chinese: 廖玉紅
     id: U9718048
