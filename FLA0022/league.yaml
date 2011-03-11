@@ -9,9 +9,34 @@ field: 英語演說
 groupwork: classwork
 hw: homework
 hwMax: 3
-id: 992FLA0022
+id: FLA0022
 league: 夜應外大學四甲
 member:
+  - Chinese: 陳宜玟
+    name: Shally
+    password: yi
+    id: U9631039
+    rating: 0
+  - Chinese: 廖重生
+    name: Luby
+    password: zhong
+    id: N9561715
+    rating: 0
+  - Chinese: 閒慧琦
+    id: N9561765
+    name: Emily
+    password: hui
+    rating: 73
+  - Chinese: 林芷嫻
+    id: V9741028
+    name: Carol
+    password: zhi
+    rating: 55
+  - Chinese: 鄭淑鈴
+    id: N9661738
+    name: Linda
+    password: shu
+    rating: 71
   - Chinese: 劉佳佳
     id: N9461738
     name: Sunny
