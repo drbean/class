@@ -13,6 +13,12 @@ id: FIA0038
 jigsaw: exam
 league: 日財金大學二甲
 member:
+  - Chinese: 劉詩?
+    name: Lious
+    password: shi
+    id: U9634018
+    rating: ~
+  
   - Chinese: 陳喬昀
     id: U9834003
     name: Patterson
@@ -101,7 +107,7 @@ member:
   - Chinese: 董從驊
     id: U9834019
     name: Jenny
-    password: zong
+    password: cong
     rating: ~
   - Chinese: 蔡晏甄
     id: U9834020
