@@ -1,70 +1,46 @@
 ---
 Black:
-  - Steven
-  - Andy
-  - Vivian
-  - Melissa
-BlackBlack:
-  - Eleven
   - Jessica1
-  - Justin
-  - Sophie
+  - Andy
+  - Melissa
+  - ~
 Blue:
-  - Daisy
+  - Justin
   - Vivi
   - Ivy2
   - Emily1
 Brown:
   - Frances
   - Anita
-  - Joey
+  - Sophie
   - Rachel
 Gray:
-  - Allen
-  - Ken
-  - Kumiko
-  - Peggy
-GrayGray:
-  - Travis
-  - Hank
   - Amy
   - Ivy1
+  - Kumiko
+  - Peggy
 Green:
-  - Chelsea
+  - Nancy
   - Kathy
   - Joe
   - Maggie
 Orange:
   - Carol
-  - Linda
+  - Candy
   - Abby
-  - Vera
+  - Aska
 Pink:
   - Alan
   - Donna
   - Elly
-  - Nana
-PinkPink:
-  - Nancy
-  - Sunny
-  - Cloud
-  - Candy
+  - Bruce
 Purple:
   - Jacinta
   - Tracy
   - Emily2
   - Eva
-Red:
-  - Edison
-  - Bruce
-  - Molly
-  - Ting
 White:
-  - Mico
+  - Molly
   - Cathy
   - Tina
   - Nina
-WhiteWhite:
-  - Liu-ping
-  - Eunice
-  - Aska
