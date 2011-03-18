@@ -12,6 +12,16 @@ hwMax: 3
 id: FLA0022
 league: 夜應外大學四甲
 member:
+  - Chinese: 謝宇函
+    id: V9741038
+    name: Candy
+    password: yu
+    rating: 81
+  - Chinese: 彭希柔
+    id: U9693044
+    name: Elvy
+    password: xi
+    rating: ~
   - Chinese: 陳宜玟
     name: Shally
     password: yi
@@ -223,22 +233,12 @@ member:
     password: ru
     rating: 81
 out:
-  - Chinese: 謝宇函
-    id: V9741038
-    name: Candy
-    password: yu
-    rating: 81
-  - Chinese: 彭希柔
-    id: U9693044
-    name: Elvy
-    password: xi
-    rating: ~
   - Chinese: 池采逸
     id: U9693040
     name: Anny
     password: cai
     rating: ~
-room: A706
+room: A705
 weights:
   classwork: 40
   exams: 20
