@@ -169,7 +169,7 @@ member:
     rating: ~
   - Chinese: 羅惠娟
     id: N9661743
-    name: Michelle
+    name: Michelle1
     password: hui
     rating: 83
   - Chinese: 吳桂麗
@@ -194,7 +194,7 @@ member:
     rating: 79
   - Chinese: 吳佳樺
     id: N9661752
-    name: 佳樺
+    name: Michelle2
     password: jia
     rating: ~
   - Chinese: 黃綠蘋
@@ -222,22 +222,22 @@ member:
     name: Nana
     password: ru
     rating: 81
-  - Chinese: 池采逸
-    id: U9693040
-    name: Anny
-    password: cai
-    rating: ~
-  - Chinese: 彭希柔
-    id: U9693044
-    name: Elvy
-    password: xi
-    rating: ~
+out:
   - Chinese: 謝宇函
     id: V9741038
     name: Candy
     password: yu
     rating: 81
-out: ~
+  - Chinese: 彭希柔
+    id: U9693044
+    name: Elvy
+    password: xi
+    rating: ~
+  - Chinese: 池采逸
+    id: U9693040
+    name: Anny
+    password: cai
+    rating: ~
 room: A706
 weights:
   classwork: 40
