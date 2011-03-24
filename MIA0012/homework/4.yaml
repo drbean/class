@@ -1,33 +1,34 @@
 ---
 cutpoints:
-  one: 0
-  two: 0
-exercise: candidate
+  one: 50
+  two: 120
+exercise: cusp
 grade:
-  T9833032: 0
+  T9733022: 0
   T9833004: 2
   T9833006: 2
   T9833009: 2
   T9833013: 2
   T9833025: 2
-  T9833027: 1
+  T9833027: 2
   T9833028: 2
   T9833030: 2
+  T9833032: 2
   T9833035: 2
   T9833037: 2
   T9833039: 2
   T9833043: 2
   T9833045: 2
-  T9833046: 2
+  T9833046: 0
   T9833050: 2
   U9733013: 0
   U9831107: 2
   U9833001: 2
   U9833002: 2
-  U9833003: transfer
+  U9833003: 2
   U9833005: 2
   U9833007: 2
-  U9833009: 1
+  U9833009: 0
   U9833011: 2
   U9833014: 2
   U9833015: 2
@@ -38,7 +39,7 @@ grade:
   U9833024: 2
   U9833025: 2
   U9833026: 2
-  U9833030: 2
+  U9833030: 0
   U9833031: 2
   U9833034: 2
   U9833035: 2
@@ -46,159 +47,165 @@ grade:
   U9833039: 1
   U9833040: 2
   U9833041: 2
-  U9833043: 1
+  U9833043: 2
   U9833044: 2
   U9833045: 2
   U9833047: 2
   U9833048: 2
   U9833049: 2
-  U9833050: 0
+  U9833050: 2
   U9833052: 2
 points:
+  T9733022:
+    letters: 0
+    questions: 0
   T9833004:
-    letters: 277
+    letters: 0
     questions: 1
   T9833006:
-    letters: 277
-    questions: 0
+    letters: 0
+    questions: 1
   T9833009:
-    letters: 251
+    letters: 126
     questions: 0
   T9833013:
-    letters: 254
+    letters: 0
     questions: 1
   T9833025:
-    letters: 271
+    letters: 0
     questions: 1
   T9833027:
-    letters: 179
+    letters: 132
     questions: 0
   T9833028:
-    letters: 251
+    letters: 0
     questions: 1
   T9833030:
-    letters: 254
+    letters: 123
     questions: 0
-  T9833035:
-    letters: 254
+  T9833032:
+    letters: 0
     questions: 1
+  T9833035:
+    letters: 123
+    questions: 0
   T9833037:
-    letters: 271
-    questions: 0
+    letters: 0
+    questions: 1
   T9833039:
-    letters: 251
-    questions: 0
+    letters: 0
+    questions: 1
   T9833043:
-    letters: 251
+    letters: 0
     questions: 1
   T9833045:
-    letters: 271
+    letters: 123
     questions: 0
   T9833046:
-    letters: 277
-    questions: 1
+    letters: 0
+    questions: 0
   T9833050:
-    letters: 271
+    letters: 37
     questions: 1
   U9733013:
-    letters: ~
+    letters: 50
     questions: 0
   U9831107:
-    letters: 271
+    letters: 0
     questions: 1
   U9833001:
-    letters: ~
-    questions: 1
-  U9833002:
-    letters: ~
-    questions: 1
-  U9833003:
-    letters: ~
+    letters: 123
     questions: 0
+  U9833002:
+    letters: 123
+    questions: 0
+  U9833003:
+    letters: 33
+    questions: 1
   U9833005:
-    letters: 277
+    letters: 149
     questions: 0
   U9833007:
-    letters: 271
+    letters: 149
     questions: 0
   U9833009:
-    letters: 60
+    letters: 0
     questions: 0
   U9833011:
-    letters: 251
+    letters: 126
     questions: 1
   U9833014:
-    letters: 271
+    letters: 0
     questions: 1
   U9833015:
-    letters: 274
-    questions: 1
+    letters: 126
+    questions: 0
   U9833019:
-    letters: 254
+    letters: 83
     questions: 1
   U9833020:
-    letters: 251
-    questions: 1
+    letters: 149
+    questions: 0
   U9833022:
-    letters: 251
+    letters: 0
     questions: 1
   U9833023:
-    letters: 251
-    questions: 1
+    letters: 132
+    questions: 0
   U9833024:
-    letters: 254
+    letters: 132
     questions: 0
   U9833025:
-    letters: 254
-    questions: 1
-  U9833026:
-    letters: 277
+    letters: 132
     questions: 0
+  U9833026:
+    letters: 0
+    questions: 1
   U9833030:
-    letters: 254
+    letters: 14
     questions: 0
   U9833031:
-    letters: 277
-    questions: 0
+    letters: 0
+    questions: 1
   U9833034:
-    letters: 251
+    letters: 126
     questions: 1
   U9833035:
-    letters: 251
-    questions: 0
+    letters: 127
+    questions: 1
   U9833038:
-    letters: 277
+    letters: 132
     questions: 0
   U9833039:
-    letters: 182
+    letters: 117
     questions: 0
   U9833040:
-    letters: 277
-    questions: 0
+    letters: 146
+    questions: 1
   U9833041:
-    letters: 254
-    questions: 1
-  U9833043:
-    letters: 234
+    letters: 126
     questions: 0
+  U9833043:
+    letters: 0
+    questions: 1
   U9833044:
-    letters: 271
-    questions: 1
+    letters: 149
+    questions: 0
   U9833045:
-    letters: ~
-    questions: 2
-  U9833047:
-    letters: 254
+    letters: 0
     questions: 1
+  U9833047:
+    letters: 123
+    questions: 0
   U9833048:
-    letters: ~
+    letters: 149
     questions: 1
   U9833049:
-    letters: 264
-    questions: 1
+    letters: 132
+    questions: 0
   U9833050:
-    letters: ~
+    letters: 126
     questions: 0
   U9833052:
-    letters: 251
+    letters: 125
     questions: 0
