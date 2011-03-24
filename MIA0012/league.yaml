@@ -12,6 +12,11 @@ id: MIA0012
 jigsaw: exam
 league: 日資管大學二甲
 member:
+  - Chinese: 王泉勝
+    name: Shuai
+    password: quan
+    id: T9733022
+    rating: ~
   - Chinese: 張思羽
     id: T9833004
     name: Si-Yu
