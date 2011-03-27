@@ -1,100 +1,97 @@
 ---
 round: Exam 1
-week: 6
+week: 5
 questions:
-  - 6
-pass: 3
+  - 4
+pass: 2
 assistant:
-  - Bernie
-  - MeiQing
-  - Ya-syuan
+  - Hanna
+  - YuJie
 absent:
-    - YuLung
-    - ManQi
-    - Ching
-text: /home/drbean/class/business/careers/candidate/cards.yaml
+    - Jeter
+text: /home/drbean/class/business/stress/cards.yaml
 activity:
-  candidate:
-    1:
-      - Black
-      - Red
-      - Purple
-      - Yellow
-    2:
-      - Blue
+  adventure:
+# - BlackBlack
+    4:
       - Gray
       - Orange
-    3:
-      - Brown
+      - Yellow
+    5:
+      - Black
       - Green
       - Pink
-    4:
-      - BlackBlack
+    6:
+      - Blue
+      - Purple
+      - Red
+    7:
+      - Brown
       - White
       - WhiteWhite
 group:
   Black:
-    - Kou-wei
-    - MingHan
-    - Chase
-    - PingJie
-  BlackBlack:
-    - XiaoQi
-    - David
-    - XiaoXian
-    - Friday
-  Blue:
-    - HanPing
-    - GuanYin
-    - Yan
-    - Ray
-  Brown:
-    - HuiLin
-    - ChenHan
-    - Alexis
-    - Peter
-  Gray:
-    - Chung
-    - Wade
-    - Entian
     - Sam
-  Green:
-    - YuXun
-    - Raffaele
-    - ChuJun
-    - Zong-Hua
-  Orange:
-    - MeiQing
-    - YaYun
-    - Yu-Ying
-    - Han-Yu
-  Pink:
-    - Bernie
-    - Jeter
-    - Jie-Yu
-    - Nate
-  Purple:
     - JiaXiang
+    - GuanYin
+    - Nate
+#  BlackBlack:
+#    - MingHan
+#    - XiaoXian
+#    - Ya-syuan
+#    - Victor
+  Blue:
+    - Ching
+    - XiaoQi
+    - Ying-Hsuan
     - XiaoRou
+  Brown:
+    - Ray
+    - Chase
+    - Raffaele
+    - Han-Yu
+  Gray:
+    - Wade
+    - Flora
+    - Zong-Hua
+    - YuXin
+  Green:
+    - Friday
+    - Yu-Ying
+    - Peter
+    - HuiLin
+  Orange:
+    - WenXiao
+    - Yi-ting
+    - XiaoWei
+    - Entian
+  Pink:
+    - David
+    - Si-Yu
+    - MeiQing
+    - Tim
+  Purple:
+    - Jane
     - Hanna
     - Bernie
-  Red:
     - YuJie
-    - YaTing
-    - LiLing
-    - WenXiao
+  Red:
+    - ChuJun
+    - Yan
+    - YuXun
+    - ChenHan
   White:
-    - Ya-syuan
-    - Yi-ting
-    - Tim
-    - YuXin
+    - Chung
+    - YaYun
+    - Kou-wei
+    - LiLing
   WhiteWhite:
-    - MeiQing
-    - XiaoWei
-    - Jane
-    - Ya-syuan
+    - HanPing
+    - Jie-Yu
+    - YaTing
+    - Shuai
   Yellow:
-    - Si-Yu
-    - Flora
-    - Victor
-    - Ying-Hsuan
+    - PingJie
+    - Hanna
+    - Alexis
+    - YuJie
