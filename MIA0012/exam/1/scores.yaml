@@ -1,7 +1,6 @@
 ---
 Chinese:
   Black: 0
-  BlackBlack: 0
   Blue: 0
   Brown: 0
   Gray: 0
@@ -15,80 +14,74 @@ Chinese:
   Yellow: 0
 letters:
   Black:
-    T9833006: 5
-    U9833009: 4
-    U9833015: 5
-    U9833014: 2
-    story: candidate1
-  BlackBlack:
-    T9833009: 3
-    U9833007: 3
-    U9833011: 4
-    U9833050: 0
-    story: candidate4
-  Blue:
-    T9833013: 2
-    U9833005: 2
-    U9833019: 2
-    U9833049: 2
-    story: candidate2
-  Brown:
-    T9833025: 3
-    U9833003: 2
-    U9833022: 3
-    U9833047: 3
-    story: candidate3
-  Gray:
-    T9833027: 2
-    U9833002: 2
-    U9833023: 2
     U9833045: 2
-    story: candidate2
-  Green:
-    T9833028: 5
-    U9833001: 4
-    U9833024: 3
-    U9833044: 5
-    story: candidate3
-  Orange:
-    T9833030: 2
-    U9831107: 2
-    U9833025: 4
-    U9833043: 3
-    story: candidate2
-  Pink:
-    U9833040: 3
-    U9733013: 4
-    U9833026: 3
-    U9833041: 4
-    story: candidate3
-  Purple:
     T9833035: 2
+    U9833005: 4
+    U9833041: 4
+    story: adventure5
+  Blue:
+    T9833032: 4
+    T9833009: 4
+    U9833048: 4
     T9833050: 4
-    U9833030: 3
-    U9833040: 1
-    story: candidate1
-  Red:
-    T9833037: 4
-    T9833046: 4
-    U9833031: 4
-    U9833039: 3
-    story: candidate1
-  White:
-    T9833039: 3
-    T9833045: 3
-    U9833034: 3
-    U9833038: 3
-    story: candidate4
-  WhiteWhite:
+    story: adventure6
+  Brown:
+    U9833049: 2
+    U9833015: 2
+    U9833001: 2
+    U9833043: 2
+    story: adventure7
+  Gray:
+    U9833002: 2
+    U9833052: 2
+    U9833044: 2
+    U9833038: 2
+    story: adventure4
+  Green:
+    U9833050: 4
+    U9833025: 4
+    U9833047: 4
+    T9833025: 4
+    story: adventure5
+  Orange:
+    U9833039: 4
+    T9833045: 4
+    T9833043: 3
+    U9833023: 4
+    story: adventure4
+  Pink:
+    U9833007: 4
+    T9833004: 4
     T9833030: 4
-    T9833043: 4
-    U9833035: 4
-    T9833039: 4
-    story: candidate4
+    U9833034: 4
+    story: adventure5
+  Purple:
+    U9833035: 2
+    U9833030: 2
+    U9833040: 2
+    T9833037: 2
+    story: adventure6
+  Red:
+    U9833024: 1
+    U9833019: 1
+    T9833028: 1
+    U9833003: 1
+    story: adventure6
+  White:
+    T9833027: 4
+    U9831107: 4
+    T9833006: 4
+    U9833031: 4
+    story: adventure7
+  WhiteWhite:
+    T9833013: 2
+    U9833026: 2
+    T9833046: 2
+    T9733022: 2
+    story: adventure7
   Yellow:
-    T9833004: 3
-    U9833052: 5
-    U9833020: 4
-    U9833048: 3
-    story: candidate1
+    U9833014: 2
+    U9833030: 2
+    U9833022: 2
+    T9833037: 2
+    story: adventure4
