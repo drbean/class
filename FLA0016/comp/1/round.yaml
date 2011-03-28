@@ -1,7 +1,7 @@
 ---
 activity:
   eckert:
-    0:
+    1:
       - 0
       - 1
       - 2
@@ -22,70 +22,142 @@ activity:
       - 17
       - 18
       - 19
+      - 20
+      - 21
+      - 22
+      - 23
+      - 24
+    2:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+      - 24
+    3:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+      - 24
 bye: U9693046
 group:
   0:
-    White: V9841014
-    Black: V9841017
+    White: V9841049
+    Black: V9841014
   1:
-    White: V9841058
-    Black: V9841041
+    White: V9841041
+    Black: V9841017
   2:
-    White: V9841011
-    Black: V9841009
+    White: V9841009
+    Black: V9841011
   3:
-    White: V9841002
-    Black: V9841059
+    White: V9841059
+    Black: V9841010
   4:
-    White: V9841050
-    Black: V9841029
+    White: V9841002
+    Black: V9841050
   5:
-    White: V9841015
-    Black: V9841007
+    White: V9841007
+    Black: V9841029
   6:
-    White: V9841024
-    Black: V9841006
+    White: V9841015
+    Black: V9841024
   7:
-    White: V9841020
-    Black: V9841040
+    White: V9841040
+    Black: V9841006
   8:
-    White: V9841022
-    Black: V9841033
+    White: V9841036
+    Black: V9841048
   9:
-    White: V9841028
-    Black: V9841036
+    White: V9841020
+    Black: V9841034
   10:
-    White: V9841034
-    Black: V9841064
+    White: V9841031
+    Black: V9841033
   11:
-    White: V9841046
-    Black: V9841031
+    White: V9841028
+    Black: V9741065
   12:
-    White: V9741065
-    Black: V9841008
+    White: V9841030
+    Black: V9841064
   13:
-    White: V9841013
-    Black: V9841005
+    White: V9841008
+    Black: V9841053
   14:
-    White: V9841038
-    Black: V9741002
+    White: V9841005
+    Black: V9841063
   15:
-    White: V9841042
-    Black: V9841051
+    White: V9841044
+    Black: V9841038
   16:
-    White: V9841054
-    Black: U9693040
+    White: V9841051
+    Black: V9841004
   17:
-    White: U9693041
-    Black: V9841039
+    White: V9841042
+    Black: V9841054
   18:
-    White: V9841067
-    Black: V9841062
+    White: V9841039
+    Black: U9693040
   19:
+    White: U9693041
+    Black: V9841067
+  20:
+    White: V9841027
+    Black: V9741018
+  21:
+    White: V9841062
+    Black: V9841058
+  22:
+    White: V9841026
+    Black: V9841052
+  23:
     White: N9661752
-    Black: V9841027
+    Black: V9841037
+  24:
+    White: V9841013
+    Black: V9841022
 late:
   - ~
 round: 1
-text: ~
-week: ~
+text: ../../class/conversation/9-11/cards.yaml
+week: 5
