@@ -2,95 +2,106 @@
 round: Exam 1
 week: 5
 questions:
-  - 10
-pass: 6
+  - 4
+pass: 2
 assistant:
-  - Hank
+  - Luke
+  - Bass
+  - Kori
+  - Joy
+  - Yorick
 absent:
-    - Chun-Fu
-    - Ivan
-    - Wei
-    - Dennis
-    - Annie
-    - Yorick
-    - Joanna
-    - Eric
-text: /home/drbean/class/conversation/PlayLife/cards.yaml
+  - Miranda
+  - Mike
+  - Annie
+  - Lace
+text: /home/drbean/class/conversation/9-11/cards.yaml
 activity:
-  connell:
-    2:
-      - Black
-      - Gray
-      - Orange
-      - Purple
-      - White
-      - WhiteWhite
-  roxborough:
-    2:
-      - BlackBlack
-      - Blue
+  eckert:
+    1:
+      - BlueBlue
       - Brown
       - Green
+      - Orange
       - Pink
+      - Purple
+      - White
+    31:
+      - Black
+      - BlackBlack
+      - Blue
+      - Gray
       - Red
+      - WhiteWhite
+      - Yellow
 group:
   Black:
-    - Christian
-    - Wei-Yi
-    - Bass
-    - Sue
+    - Michelle
+    - Winny
+    - Anne
+    - Luke
   BlackBlack:
-    - Jason
-    - Lisa
-    - Amber
-    - Ricky
+    - Bass
+    - Yorick
+    - Kitty
+    - Leo
   Blue:
-    - Frances
-    - Katty
-    - Rachel
-    - Tea
+    - Ivan
+    - Jeffrey
+    - Yu-Lun
+    - Yu-Ching
+  BlueBlue:
+    - Joan
+    - Jerry
+    - Cathy2
+    - Luke
   Brown:
+    - Joanna
+    - Shaq
+    - Patty
+    - Debbie
+  Gray:
+    - Joy
+    - Lisa
+    - Sue
+    - Laura
+  Green:
+    - Dan
     - Kori
     - Yi-Ru
-    - Shiau-ching
-    - Miranda
-  Gray:
-    - Dan
-    - Yu-Lun
-    - Jessica
-    - Yu-Ching
-  Green:
-    - Fifi
-    - Hannah
-    - Anne
-    - Kitty
-  Orange:
-    - Abby
-    - Hank
-    - Julie
-    - Winne
-  Pink:
-    - Laura
-    - Stanley
-    - Patty
-    - Carina
-  Purple:
-    - Sana
-    - Sophia
     - Joy
-    - Ming
-  Red:
-    - Winny
-    - Lace
-    - Rose
-    - Debbie
-  White:
-    - Luke
-    - Jeffrey
-    - Hank
-    - Joan
-  WhiteWhite:
-    - Leo
-    - Shaq
+  Orange:
     - Eva
+    - Abby
+    - Carina
+    - Hannah
+  Pink:
+    - Dennis
     - Cathy
+    - Fifi
+    - Hank
+  Purple:
+    - Rachel
+    - Stanley
+    - Winne
+    - Jessica
+  Red:
+    - Sana
+    - Amber
+    - Ming
+    - Tea
+  White:
+    - Kori
+    - Katty
+    - Julie
+    - Wei-Yi
+  WhiteWhite:
+    - Yorick
+    - Ricky
+    - Bass
+    - Frances
+  Yellow:
+    - Rose
+    - Bella
+    - Anny
+    - Sherry
