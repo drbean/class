@@ -3,85 +3,99 @@ Chinese:
   Black: 0
   BlackBlack: 0
   Blue: 0
+  BlueBlue: 0
   Brown: 0
   Gray: 0
   Green: 0
   Orange: 0
   Pink: 0
   Purple: 0
-  Red: 1
+  Red: 0
   White: 0
   WhiteWhite: 0
+  Yellow: 0
 letters:
   Black:
-    V9999113: 8
-    V9841030: 1
-    V9841031: 9
-    V9841067: 0
-    story: connell2
+    N9661752: 4
+    V9841009: 2
+    V9841037: 4
+    V9841014: 4
+    story: eckert31
   BlackBlack:
-    V9841021: 6
-    V9841029: 4
-    V9841033: 5
-    V9841064: 4
-    story: roxborough2
+    V9841031: 4
+    V9841010: 4
+    V9841058: 4
+    V9841011: 4
+    story: eckert31
   Blue:
-    V9741065: 7
-    V9841028: 6
-    V9841034: 9
-    V9841063: 6
-    story: roxborough2
+    V9841062: 4
+    V9841017: 4
+    V9841026: 4
+    V9841059: 4
+    story: eckert31
+  BlueBlue:
+    V9841049: 2
+    V9841052: 2
+    V9741018: 2
+    V9841014: 2
+    story: eckert1
   Brown:
-    V9841002: 6
-    V9841027: 5
-    V9841035: 5
-    V9741002: 5
-    story: roxborough2
+    V9841042: 1
+    V9841015: 4
+    V9841039: 2
+    V9841050: 2
+    story: eckert1
   Gray:
-    V9841004: 8
-    V9841026: 7
-    V9841036: 7
-    V9841059: 9
-    story: connell2
+    V9841040: 4
+    V9841029: 4
+    V9841067: 4
+    V9841007: 4
+    story: eckert31
   Green:
-    V9841005: 9
-    V9841024: 9
-    V9841037: 9
-    V9841058: 8
-    story: roxborough2
+    V9841004: 2
+    V9841002: 2
+    V9841027: 2
+    V9841040: 2
+    story: eckert1
   Orange:
-    V9841006: 5
-    V9841022: 5
-    V9841038: 5
-    V9841054: 4
-    story: connell2
+    V9841044: 4
+    V9841006: 3
+    V9841053: 2
+    V9841024: 3
+    story: eckert1
   Pink:
-    V9841007: 6
-    V9841020: 6
-    V9841039: 5
-    V9841053: 6
-    story: roxborough2
+    V9841013: 4
+    V9841048: 4
+    V9841005: 4
+    V9841022: 4
+    story: eckert1
   Purple:
-    V9841008: 4
-    N9661760: 5
-    V9841040: 5
-    V9841051: 4
-    story: connell2
+    V9841034: 4
+    V9841020: 4
+    V9841054: 4
+    V9841036: 4
+    story: eckert1
   Red:
-    V9841009: 4
-    V9841046: 4
-    V9841041: 4
-    V9841050: 4
-    story: roxborough2
+    V9841008: 4
+    V9841033: 1
+    V9841051: 4
+    V9841063: 4
+    story: eckert31
   White:
-    V9841014: 9
-    V9841017: 9
-    V9841022: 9
-    V9841049: 9
-    story: connell2
+    V9841002: 4
+    V9841028: 3
+    V9841038: 4
+    V9841030: 4
+    story: eckert1
   WhiteWhite:
-    V9841011: 8
-    V9841015: 8
-    V9841044: 6
-    V9841048: 6
-    story: connell2
+    V9841010: 4
+    V9841064: 4
+    V9841031: 4
+    V9741065: 4
+    story: eckert31
+  Yellow:
+    V9841041: 4
+    U9693041: 4
+    U9693040: 4
+    U9693046: 4
+    story: eckert31
