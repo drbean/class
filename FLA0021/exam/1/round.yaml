@@ -2,121 +2,71 @@
 round: Exam 1
 week: 5
 questions:
-  - 10
-pass: 6
+  - 4
+pass: 2
 assistant:
-  - Joey
-  - Vivi
+  - Emily2
+  - Molly
 absent:
-text: /home/drbean/class/conversation/NovakWardTrinka/cards.yaml
+  - Justin
+text: /home/drbean/class/conversation/9-11/cards.yaml
 activity:
-  novak:
+  eckert:
     0:
-      - Brown
-      - GrayGray
-      - Red
-      - WhiteWhite
-  ward:
-    1:
       - Black
       - Pink
-      - Gray
-      - BrownBrown
-      - YellowYellow
-  trinka:
-    1:
-      - BlackBlack
-      - BlueBlue
-      - Orange
       - White
-    2:
+    1:
       - Blue
-      - Green
+      - Orange
+      - Red
+    31:
+      - Brown
+      - Gray
       - Purple
-      - Yellow
 group:
   Black:
-    - Emily3
-    - Vivi
-    - Alan
-    - Amy
-  BlackBlack:
-    - Sunny
-    - Nancy
-    - Andy
-    - Bruce
-  Blue:
-    - Fenny
-    - Vera
-    - Melissa
-    - Kathy
-  BlueBlue:
-    - Hank
-    - Nana
-    - Justin
-    - Ivy2
-  Brown:
-    - Cindy
-    - Emma
-    - Anita
-    - Nina
-  BrownBrown:
-    - Eunice
-    - Ally
-    - Cathy
-    - Abby
-  Gray:
-    - Ashley
-    - Ting'an
-    - Elly
-    - Molly
-  GrayGray:
-    - Anne
-    - Chelsea
-    - Emily1
-    - Sophie
-  Green:
-    - Ting
-    - Cloud
-    - Tracy
-    - Aska
-  Orange:
-    - Joey
-    - Kiki
-    - Carol
-    - Ivy1
-  Pink:
-    - Lucas
-    - Amberly
-    - Kumiko
-    - Jessica2
-  Purple:
-    - Jo
-    - Michelle
-    - Donna
     - Jessica1
-  Red:
-    - Mico
-    - Vivian
-    - Maggie
-    - Eva
-  White:
-    - Nelson
-    - Ken
+    - Andy
+    - Melissa
+    - Molly
+  Blue:
     - Emily2
-    - Tina
-  WhiteWhite:
-    - Moto
-    - Linda
-    - Jacinta
-    - Rachel
-  Yellow:
-    - Tiffany
-    - Ford
-    - Peggy
-    - Candy
-  YellowYellow:
-    - Joey
     - Vivi
-    - Edison
+    - Ivy2
+    - Emily1
+  Brown:
+    - Frances
+    - Anita
+    - Sophie
+    - Rachel
+  Gray:
+    - Amy
+    - Ivy1
+    - Kumiko
+    - Peggy
+  Orange:
+    - Carol
+    - Candy
+    - Abby
+    - Aska
+  Pink:
+    - Alan
+    - Donna
+    - Elly
+    - Bruce
+  Purple:
+    - Jacinta
+    - Tracy
+    - Emily2
+    - Eva
+  Red:
+    - Molly
+    - Cathy
+    - Tina
+    - Nina
+  White:
+    - Nancy
+    - Kathy
     - Joe
+    - Maggie
