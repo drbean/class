@@ -1,13 +1,18 @@
 ---
+Black:
+  - Edwin
+  - Janet
+  - Jeff
+  - Wesley
 Blue:
   - Jack
-  - Daniel
+  - ~
   - Ruru
   - Amily
 Brown:
   - Terry1
   - Colin
-  - Rita
+  - Scott
   - Julia
 Gray:
   - Jason1
@@ -27,5 +32,5 @@ Pink:
 Red:
   - Howard
   - JinYi
-  - Wade
-  - Lin
+  - Finna
+  - Shirley
