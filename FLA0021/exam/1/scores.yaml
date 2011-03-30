@@ -1,122 +1,66 @@
 ---
 Chinese:
   Black: 0
-  BlackBlack: 0
   Blue: 0
-  BlueBlue: 0
   Brown: 0
-  BrownBrown: 0
   Gray: 0
-  GrayGray: 0
-  Green: 0
   Orange: 0
   Pink: 0
   Purple: 0
   Red: 0
   White: 0
-  WhiteWhite: 0
-  Yellow: 0
-  YellowYellow: 0
 letters:
   Black:
-    N9561765: 4
-    V9731059: 5
-    V9741009: 5
-    V9741064: 6
-    story: ward1
-  BlackBlack:
-    N9461738: 5
-    V9724004: 5
-    V9741010: 3
-    V9741061: 7
-    story: trinka1
+    V9741043: 4
+    V9741010: 4
+    V9741014: 4
+    V9741053: 4
+    story: eckert0
   Blue:
-    N9561721: 10
-    U9616041: 10
-    V9741014: 10
-    V9741060: 10
-    story: trinka2
-  BlueBlue:
-    N9561732: 6
-    N9661761: 6
-    V9741015: 4
-    V9741059: 6
-    story: trinka1
+    V9741034: 2
+    V9731059: 2
+    V9741059: 2
+    V9741024: 2
+    story: eckert1
   Brown:
-    N9561751: 6
-    N9661758: 7
-    V9741016: 7
-    V9741057: 8
-    story: novak0
-  BrownBrown:
-    N9561762: 4
-    U9533039: 6
-    V9741018: 4
-    V9741055: 4
-    story: ward1
+    V9741065: 4
+    V9741016: 4
+    V9741049: 4
+    V9741040: 4
+    story: eckert31
   Gray:
-    N9661702: 8
-    N9661753: 8
-    V9741023: 8
-    V9741053: 6
-    story: ward1
-  GrayGray:
-    N9661705: 8
-    N9661749: 7
-    V9741024: 7
-    V9741049: 7
-    story: novak0
-  Green:
-    N9661706: 10
-    N9661748: 10
-    V9741025: 10
-    V9741048: 9
-    story: trinka2
+    V9741064: 4
+    V9741047: 4
+    V9741029: 4
+    V9741037: 4
+    story: eckert31
   Orange:
-    N9661713: 5
-    N9661747: 5
-    V9741028: 5
-    V9741047: 5
-    story: trinka1
+    V9741028: 2
+    V9741038: 2
+    V9741055: 4
+    V9741048: 4
+    story: eckert1
   Pink:
-    N9661717: 9
-    N9661746: 10
-    V9741029: 10
-    V9741044: 10
-    story: ward1
+    V9741009: 4
+    V9741030: 4
+    V9741023: 4
+    V9741061: 4
+    story: eckert0
   Purple:
-    N9661724: 10
-    N9661743: 10
-    V9741030: 10
-    V9741043: 10
-    story: trinka2
+    V9741036: 4
+    V9741025: 4
+    V9741034: 4
+    V9741042: 4
+    story: eckert31
   Red:
-    N9661725: 7
-    N9661741: 8
-    V9741032: 7
-    V9741042: 7
-    story: novak0
+    V9741053: 2
+    V9741018: 2
+    V9741041: 2
+    V9741057: 2
+    story: eckert1
   White:
-    N9661727: 5
-    N9661740: 5
-    V9741034: 5
-    V9741041: 5
-    story: trinka1
-  WhiteWhite:
-    N9661728: 9
-    N9661738: 8
-    V9741036: 9
-    V9741040: 10
-    story: novak0
-  Yellow:
-    N9661731: 10
-    N9661737: 10
-    V9741037: 10
-    V9741038: 10
-    story: trinka2
-  YellowYellow:
-    N9661713: 6
-    V9731059: 8
-    9622299: 1
-    V9741066: 9
-    story: ward1
+    V9724004: 4
+    V9741060: 4
+    V9741066: 4
+    V9741032: 4
+    story: eckert0
