@@ -13,6 +13,37 @@ id: FLA0030
 jigsaw: exam
 league: 夜應外大學四甲
 member:
+  -
+    id: N9661754
+    Chinese: 黃綠蘋
+    name: Lu-Ping
+    password: lu
+    rating: ~
+  - Chinese: 陳昱樺
+    id: V9724004
+    name: Nancy
+    password: yu
+    rating: 68
+  - Chinese: 林庭如
+    id: V9741024
+    name: Emily1
+    password: ting
+    rating: 86
+  - Chinese: 湯馥鎂
+    id: V9741042
+    name: Eva
+    password: fu
+    rating: 76
+  - Chinese: 彭莉喬
+    id: V9741053
+    name: Molly
+    password: li
+    rating: 83
+  - Chinese: 楊婕妤
+    id: V9741043
+    name: Jessica
+    password: jie
+    rating: 78
   - Chinese: 王寧
     id: V9741059
     name: Ivy
@@ -80,7 +111,7 @@ member:
     rating: 82
   - Chinese: 周虹霓
     id: V9741034
-    name: Emily
+    name: Emily2
     password: hong
     rating: 79
   - Chinese: 謝宇函
