@@ -5,88 +5,56 @@ questions:
   - 10
 pass: 6
 assistant:
-  - Lucas
-  - Iris
-  - Yuwen
-  - Lucy
+  - Carol
+  - Kumiko
 absent:
-  - Ivy1
+  - ~
 text: /home/drbean/class/friends/6/cards.yaml
 activity:
   1-8:
     1:
       - Black
-      - Brown
-      - DarkGreen
-      - Orange
-      - Pink
-      - BlackBlack
+      - Gray
+      - Green
+      - White
   18-25:
     1:
-      - Gray
-      - LightBlueGreen
+      - Blue
+      - Pink
       - Purple
-      - Red
-      - White
-      - Yellow
 group:
   Black:
-    - "Ting'an"
-    - Rita
-    - Anne
-    - Ting
-  Brown:
-    - Sunny
-    - Amberly
-    - Crystal
-    - Ivy2
-  DarkGreen:
-    - Akigo
-    - Emily
-    - Moto
-    - Tiffany
-  Gray:
-    - Jean
-    - Riva
-    - Iris
-    - Michelle
-  LightBlueGreen:
-    - Ken
-    - Daisy
-    - Mary
-    - Clare
-  Orange:
-    - Lucy
-    - Ashley
-    - Sandy
-    - Vivian
-  Pink:
-    - Frank
-    - Irin
-    - Eunice
-    - Cloudy
-  Purple:
-    - Rock
-    - Rogers
-    - Lucas
-    - Jo
-  Red:
-    - Monica
-    - Mico
-    - Fred
-    - Allen2
-  White:
-    - Cloud
+    - Carol
+    - Kumiko
+    - Ivy
+    - Donna
+  Blue:
+    - Molly
     - Jessica
-    - Yuwen
-    - Kiki
-  Yellow:
-    - Allen1
-    - Lucas
-    - Eleven
-    - Steven
-  BlackBlack:
-    - Iris
-    - Lucy
-    - Ford
-    - Yuwen
+    - Kumiko
+    - Carol
+  Gray:
+    - Stella
+    - Andy
+    - Elly
+    - Candy
+  Green:
+    - Hank
+    - Anita
+    - Emily2
+    - Nina
+  Pink:
+    - Bruce
+    - Amy
+    - Linda
+    - Maggie
+  Purple:
+    - Edison
+    - Abby
+    - Joe
+    - Sophie
+  White:
+    - Eva
+    - Emily1
+    - Lu-Ping
+    - Nancy
