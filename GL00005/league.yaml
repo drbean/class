@@ -13,6 +13,17 @@ id: GL00005
 jigsaw: exam
 league: 日語文共同學制虛擬班二甲
 member:
+  - Chinese: 李伯富
+    name: Puff
+    password: bo
+    id: U9942017
+    rating: ~
+  
+  - Chinese: 楊竣博
+    id: U9715014
+    name: Chung-Po
+    password: jun
+    rating: ~
   - Chinese: 梁康泓
     name: Andrew
     password: kang
@@ -175,11 +186,6 @@ out:
     id: U9834024
     name: 楊喬富
     password: qiao
-    rating: ~
-  - Chinese: 楊竣博
-    id: U9715014
-    name: 楊竣博
-    password: jun
     rating: ~
   - Chinese: 蔡宗霖
     id: U9715010
