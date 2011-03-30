@@ -13,6 +13,48 @@ id: GL00022
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
+  - Chinese: 陳昱如
+    id: U9718042
+    name: Finna
+    password: yu
+    rating: ~
+  - Chinese: 嚴虹渚
+    id: U9743024
+    name: Rita
+    password: hong
+    rating: ~
+  - Chinese: 候佳君
+    name: Amber
+    password: jia
+    id: T9831047
+    rating: ~
+  
+  - Chinese: 黃政翰
+    name: Peter
+    password: zheng
+    id: U9811126
+    rating: ~
+  - Chinese: 王德民
+    name: Vaness
+    password: de
+    id: U9711023
+    rating: ~
+  - Chinese: 黃科霖
+    name: Davis
+    password: ke
+    id: U9711048
+    rating: ~
+  
+  - Chinese: 吳瑞釩
+    name: Victor
+    password: rui
+    id: T9813010
+    rating: ~
+  - Chinese: 陳正儒
+    id: T9813038
+    name: Jyco
+    password: zheng
+    rating: ~
   - Chinese: 吳晉宇
     name: JinYi
     password: jin
@@ -29,7 +71,7 @@ member:
     id: U9718022
     rating: ~
   - Chinese: 林佑翰
-    name: Terry
+    name: Wade
     password: you
     id: U9621082
     rating: ~
@@ -76,7 +118,7 @@ member:
   - Chinese: 蘇仲富
     name: Edwin
     password: zhung
-    id: T9812014
+    id: T9813014
     rating: ~
   - Chinese: 楊承達
     name: Jason2
@@ -126,7 +168,7 @@ member:
     rating: ~
   - Chinese: 林欣儀
     id: T9811101
-    name: XinYi
+    name: Ruru
     password: xin
     rating: ~
   - Chinese: 姚申峰
@@ -161,7 +203,7 @@ member:
     rating: ~
   - Chinese: 劉勇呈
     id: T9821043
-    name: Lou
+    name: Liu
     password: yong
     rating: ~
   - Chinese: 謝竺芸
@@ -206,7 +248,7 @@ member:
     rating: ~
   - Chinese: 楊勍崧
     id: U9811010
-    name: Garen
+    name: Colin
     password: qing
     rating: ~
   - Chinese: 吳信宏
@@ -221,7 +263,7 @@ member:
     rating: ~
   - Chinese: 張志揚
     id: U9811149
-    name: Terry
+    name: Terry1
     password: zhi
     rating: ~
   - Chinese: 許晁睿
@@ -265,11 +307,6 @@ out:
     name: 張雅筑
     password: ya
     rating: ~
-  - Chinese: 陳正儒
-    id: T9813038
-    name: 陳正儒
-    password: zheng
-    rating: ~
   - Chinese: 邱威侖
     id: U9611051
     name: 邱威侖
@@ -294,11 +331,6 @@ out:
     id: U9718048
     name: 廖玉紅
     password: yu
-    rating: ~
-  - Chinese: 嚴虹渚
-    id: U9743024
-    name: 嚴虹渚
-    password: hong
     rating: ~
   - Chinese: 李芳儀
     id: U9817024
