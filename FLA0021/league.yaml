@@ -410,7 +410,7 @@ out:
     name: Ally
     password: yu
     rating: 70
-room: A902
+room: A706
 weights:
   classwork: 70
   exams: 15
