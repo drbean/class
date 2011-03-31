@@ -12,27 +12,35 @@ grade:
   T9813003: 0
   T9813004: 0
   T9813009: 0
+  T9813010: 0
   T9813014: 2
+  T9813038: 2
   T9821014: 2
   T9821033: 2
   T9821036: 0
-  T9821043: 2
+  T9821043: 0
+  T9831047: 0
   U9613045: 2
   U9621082: 0
   U9621094: 2
   U9692038: 2
   U9692049: 2
   U9711013: 0
+  U9711023: 0
+  U9711048: 0
   U9718016: 2
   U9718022: 2
   U9718033: 2
   U9718036: 2
+  U9718042: 0
   U9718043: 2
   U9718053: 0
   U9742052: 2
+  U9743024: 0
   U9810022: 0
   U9811010: 0
   U9811114: 2
+  U9811126: 0
   U9811127: 2
   U9811142: 2
   U9811144: 2
@@ -74,8 +82,14 @@ points:
   T9813009:
     letters: 0
     questions: 0
+  T9813010:
+    letters: 0
+    questions: 0
   T9813014:
     letters: 167
+    questions: 0
+  T9813038:
+    letters: 160
     questions: 0
   T9821014:
     letters: 179
@@ -87,7 +101,10 @@ points:
     letters: 0
     questions: 0
   T9821043:
-    letters: 179
+    letters: 0
+    questions: 0
+  T9831047:
+    letters: 0
     questions: 0
   U9613045:
     letters: 0
@@ -107,6 +124,12 @@ points:
   U9711013:
     letters: 0
     questions: 0
+  U9711023:
+    letters: 0
+    questions: 0
+  U9711048:
+    letters: 0
+    questions: 0
   U9718016:
     letters: 0
     questions: 1
@@ -119,6 +142,9 @@ points:
   U9718036:
     letters: 167
     questions: 0
+  U9718042:
+    letters: 0
+    questions: 0
   U9718043:
     letters: 167
     questions: 0
@@ -128,6 +154,9 @@ points:
   U9742052:
     letters: 0
     questions: 1
+  U9743024:
+    letters: 0
+    questions: 0
   U9810022:
     letters: 0
     questions: 0
@@ -137,6 +166,9 @@ points:
   U9811114:
     letters: 0
     questions: 1
+  U9811126:
+    letters: 0
+    questions: 0
   U9811127:
     letters: 157
     questions: 0
