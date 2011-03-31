@@ -16,68 +16,81 @@ activity:
       - 11
       - 12
       - 13
-      - 14
-      - 15
-      - 16
-      - 17
-bye: U9813035
+    2:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+    3:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
 group:
   0:
-    White: T9813009
-    Black: U9843023
+    White: U9843023
+    Black: U9811127
   1:
-    White: U9843004
-    Black: U9811144
+    White: T9813009
+    Black: U9843004
   2:
-    White: 9616201
-    Black: U9813040
+    White: T9821036
+    Black: T9831047
   3:
-    White: U9813030
-    Black: U9718033
+    White: U9692038
+    Black: U9811144
   4:
-    White: U9711013
-    Black: U9931231
+    White: 9616201
+    Black: U9718016
   5:
     White: U9692049
-    Black: U9811114
+    Black: U9718033
   6:
-    White: T9811142
-    Black: U9823033
+    White: T9821043
+    Black: U9811010
   7:
-    White: U9822002
-    Black: T9821043
+    White: U9743024
+    Black: T9813014
   8:
-    White: U9810022
-    Black: T9812014
+    White: U9718042
+    Black: T9811101
   9:
-    White: U9811010
-    Black: U9821036
-  10:
-    White: T9811111
-    Black: U9742052
-  11:
-    White: U9813031
-    Black: U9718053
-  12:
-    White: U9811142
-    Black: U9813033
-  13:
-    White: T9821033
+    White: U9621094
     Black: U9718036
-  14:
+  10:
+    White: T9821033
+    Black: U9718022
+  11:
     White: U9811149
-    Black: T9821014
-  15:
-    White: U9613045
+    Black: T9813004
+  12:
+    White: T9821014
+    Black: T9813010
+  13:
+    White: U9822002
     Black: T9813003
-  16:
-    White: T9811101
-    Black: U9931216
-  17:
-    White: U9811127
-    Black: U9718043
 late:
-  - ~
+  - U9822002
 round: 1
-text: /home/drbean/class/conversation/9-11/cards.yaml
-week: ~
+text: ../../class/conversation/9-11/cards.yaml
+week: 5
