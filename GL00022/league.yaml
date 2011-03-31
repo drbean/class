@@ -18,42 +18,15 @@ member:
     name: Finna
     password: yu
     rating: ~
-  - Chinese: 嚴虹渚
-    id: U9743024
-    name: Rita
-    password: hong
-    rating: ~
   - Chinese: 候佳君
     name: Amber
     password: jia
     id: T9831047
     rating: ~
-  
-  - Chinese: 黃政翰
-    name: Peter
-    password: zheng
-    id: U9811126
-    rating: ~
-  - Chinese: 王德民
-    name: Vaness
-    password: de
-    id: U9711023
-    rating: ~
-  - Chinese: 黃科霖
-    name: Davis
-    password: ke
-    id: U9711048
-    rating: ~
-  
   - Chinese: 吳瑞釩
     name: Victor
     password: rui
     id: T9813010
-    rating: ~
-  - Chinese: 陳正儒
-    id: T9813038
-    name: Jyco
-    password: zheng
     rating: ~
   - Chinese: 吳晉宇
     name: JinYi
@@ -70,20 +43,10 @@ member:
     password: feng
     id: U9718022
     rating: ~
-  - Chinese: 林佑翰
-    name: Wade
-    password: you
-    id: U9621082
-    rating: ~
   - Chinese: 陳晧恩
     id: U9621094
     name: Howard
     password: hao
-    rating: ~
-  - Chinese: 黃丞沂
-    id: T9716021
-    name: Fiora
-    password: cheng
     rating: ~
   - Chinese: 黃介廷
     id: U9718016
@@ -95,40 +58,10 @@ member:
     name: Amily
     password: fang
     rating: ~
-  - Chinese: 謝穎儒
-    name: Ying-ru
-    password: ying
-    id: U9813035
-    rating: ~
-  - Chinese: 盧昕緯
-    name: Hsin-wei
-    password: xin
-    id: U9813033
-    rating: ~
-  - Chinese: 王維佑
-    name: Aaron
-    password: wei
-    id: U9813040
-    rating: ~
-  - Chinese: 黃靖嵐
-    name: Gina2
-    password: jing
-    id: U9813031
-    rating: ~
   - Chinese: 蘇仲富
     name: Edwin
     password: zhung
     id: T9813014
-    rating: ~
-  - Chinese: 楊承達
-    name: Jason2
-    password: cheng
-    id: U9613045
-    rating: ~
-  - Chinese: 邱世勳
-    name: Andy
-    password: shi
-    id: U9813030
     rating: ~
   - Chinese: 李炳榮
     id: U9843004
@@ -145,11 +78,6 @@ member:
     password: song
     id: U9822002
     rating: ~
-  - Chinese: 林惠賢
-    name: Betty
-    password: hui
-    id: U9931231
-    rating: 
   - Chinese: 楊仁專
     name: Scott
     password: ren
@@ -170,16 +98,6 @@ member:
     id: T9811101
     name: Ruru
     password: xin
-    rating: ~
-  - Chinese: 姚申峰
-    id: T9811111
-    name: Richard
-    password: shen
-    rating: ~
-  - Chinese: 林鈺賀
-    id: T9811142
-    name: Lin
-    password: yu
     rating: ~
   - Chinese: 趙家頤
     id: T9813003
@@ -211,11 +129,6 @@ member:
     name: Chu
     password: zhu
     rating: ~
-  - Chinese: 呂曜宇
-    id: U9711013
-    name: Kevin
-    password: yao
-    rating: ~
   - Chinese: 潘郁茹
     id: U9718033
     name: Kate
@@ -225,6 +138,108 @@ member:
     id: U9718036
     name: Shirley
     password: si
+    rating: ~
+  - Chinese: 溫子玉
+    id: U9742052
+    name: Gina1
+    password: zi
+    rating: ~
+  - Chinese: 楊勍崧
+    id: U9811010
+    name: Colin
+    password: qing
+    rating: ~
+  - Chinese: 江秉哲
+    id: U9811144
+    name: John
+    password: bing
+    rating: ~
+  - Chinese: 張志揚
+    id: U9811149
+    name: Terry1
+    password: zhi
+    rating: ~
+
+out:
+  - Chinese: 黃政翰
+    name: Peter
+    password: zheng
+    id: U9811126
+    rating: ~
+  - Chinese: 王德民
+    name: Vaness
+    password: de
+    id: U9711023
+    rating: ~
+  - Chinese: 黃科霖
+    name: Davis
+    password: ke
+    id: U9711048
+    rating: ~
+  - Chinese: 陳正儒
+    id: T9813038
+    name: Jyco
+    password: zheng
+    rating: ~
+  - Chinese: 林佑翰
+    name: Wade
+    password: you
+    id: U9621082
+    rating: ~
+  - Chinese: 黃丞沂
+    id: T9716021
+    name: Fiora
+    password: cheng
+    rating: ~
+  - Chinese: 謝穎儒
+    name: Ying-ru
+    password: ying
+    id: U9813035
+    rating: ~
+  - Chinese: 盧昕緯
+    name: Hsin-wei
+    password: xin
+    id: U9813033
+    rating: ~
+  - Chinese: 王維佑
+    name: Aaron
+    password: wei
+    id: U9813040
+    rating: ~
+  - Chinese: 黃靖嵐
+    name: Gina2
+    password: jing
+    id: U9813031
+    rating: ~
+  - Chinese: 楊承達
+    name: Jason2
+    password: cheng
+    id: U9613045
+    rating: ~
+  - Chinese: 邱世勳
+    name: Andy
+    password: shi
+    id: U9813030
+    rating: ~
+  - Chinese: 林惠賢
+    name: Betty
+    password: hui
+    id: U9931231
+    rating: 
+  - Chinese: 姚申峰
+    id: T9811111
+    name: Richard
+    password: shen
+    rating: ~
+  - Chinese: 林鈺賀
+    id: T9811142
+    name: Lin
+    password: yu
+    rating: ~
+  - Chinese: 呂曜宇
+    id: U9711013
+    name: Kevin
+    password: yao
     rating: ~
   - Chinese: 蔡亞彬
     id: U9718043
@@ -236,35 +251,15 @@ member:
     name: Roger
     password: jun
     rating: ~
-  - Chinese: 溫子玉
-    id: U9742052
-    name: Gina1
-    password: zi
-    rating: ~
   - Chinese: 陳蓓欣
     id: U9810022
     name: Penny
     password: bei
     rating: ~
-  - Chinese: 楊勍崧
-    id: U9811010
-    name: Colin
-    password: qing
-    rating: ~
   - Chinese: 吳信宏
     id: U9811114
     name: Les
     password: xin
-    rating: ~
-  - Chinese: 江秉哲
-    id: U9811144
-    name: John
-    password: bing
-    rating: ~
-  - Chinese: 張志揚
-    id: U9811149
-    name: Terry1
-    password: zhi
     rating: ~
   - Chinese: 許晁睿
     id: U9821036
@@ -281,7 +276,11 @@ member:
     name: Jeanie
     password: yu
     rating: ~
-out:
+  - Chinese: 嚴虹渚
+    id: U9743024
+    name: Rita
+    password: hong
+    rating: ~
   - Chinese: 彭義融
     id: 9622297
     name: 彭義融
