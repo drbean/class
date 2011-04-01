@@ -15,11 +15,17 @@ Pink:
   absent: 
   merits: 3
 Purple:
-  absent: 
-  merits: 3
+  absent: Michelle2
+  merits: 2
 Red:
   absent: 
   merits: 2
 White:
   absent: 
   merits: 3
+BlackBlackA:
+  absent: 
+  merits: 3
+BlackBlackB:
+  absent: 
+  merits: 2
