@@ -1,8 +1,9 @@
 ---
-Brown:
+BlackBlackA:
   - Carol
-  - Candy
   - Shally
+BlackBlackB:
+  - Candy
   - Elvy
 Black:
   - Emily
@@ -14,42 +15,42 @@ Blue:
   - Tiffany
   - Amberly
   - Michelle1
-Pink:
+Brown:
   - Liu-ping
   - Luby
   - Mico
   - Nana
-Purple:
+Gray:
   - Steven
   - Jessica
   - Sunny
   - Linda
-Red:
+Green:
   - Rita
   - Sophia
   - Nelson
   - Ting
-Gray:
+Orange:
   - Eleven
   - Mary
   - Moto
   - Kiki
-Green:
+Pink:
   - Irin
   - Lucy
   - Ken
   - Cloud
-White:
+Purple:
   - Michelle2
   - Allen
   - Ashley
   - Emma
-Yellow:
+Red:
   - Daisy
   - Sandy
   - Anne
   - Vivian
-YellowYellow:
+White:
   - Ivy
   - Jean
   - Ford
