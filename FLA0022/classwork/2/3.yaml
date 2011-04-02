@@ -8,14 +8,21 @@ Blue:
 Brown:
   absent: 
   merits: 3
-Green:
+Gray:
   absent: 
   merits: 2
+Green:
+  absent: 
+  merits: 3
+Orange:
+  absent: 
+  merits: 3
 Pink:
   absent: 
   merits: 3
 Purple:
-  absent: Michelle2
+  absent:
+    - Michelle2
   merits: 2
 Red:
   absent: 
