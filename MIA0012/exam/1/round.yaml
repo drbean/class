@@ -14,6 +14,7 @@ activity:
   adventure:
 # - BlackBlack
     4:
+      - BlackBlack
       - Gray
       - Orange
       - Yellow
@@ -35,11 +36,11 @@ group:
     - JiaXiang
     - GuanYin
     - Nate
-#  BlackBlack:
-#    - MingHan
-#    - XiaoXian
-#    - Ya-syuan
-#    - Victor
+  BlackBlack:
+    - MingHan
+    - XiaoXian
+    - Ya-syuan
+    - Victor
   Blue:
     - Ching
     - XiaoQi
