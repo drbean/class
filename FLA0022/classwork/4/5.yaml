@@ -1,43 +1,41 @@
 ---
 Black:
   absent: 
-    - Cindy
-  merits: 2
+    - Lucas
+  merits: 3
 Blue:
   absent: 
-    - Tiffany
-    - Amberly
-  merits: 3
+  merits: 2
 Gray:
   absent: 
-  merits: 2
+  merits: 3
 Green:
   absent: 
-  merits: 3
+  merits: 2
 Pink:
   absent: 
-    - Liu-ping
-    - Mico
-  merits: 3
+  merits: 2
 Purple:
   absent:
-  merits: 2
+  merits: 3
 Red:
   absent: 
+    - Sophia
   merits: 2
 White:
   absent: 
-  merits: 2
+  merits: 3
 Yellow:
   absent: 
-  merits: 3
+  merits: 2
 YellowYellow:
   absent: 
-    - Jo
   merits: 3
 BlackBlackA:
   absent: 
-  merits: 3
+    - Shally
+  merits: 0
 BlackBlackB:
   absent: 
-  merits: 2
+    - Elvy
+  merits: 0
