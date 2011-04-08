@@ -1,15 +1,14 @@
 ---
 BlackBlackA:
-  - Carol
   - Shally
 BlackBlackB:
-  - Candy
   - Elvy
 Black:
   - Emily
   - Lucas
   - Cindy
   - Fenny
+  - Carol
 Blue:
   - Iris
   - Tiffany
@@ -30,6 +29,7 @@ Red:
   - Sophia
   - Nelson
   - Ting
+  - Candy
 Gray:
   - Eleven
   - Mary
