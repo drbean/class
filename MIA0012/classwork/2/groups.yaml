@@ -1,63 +1,65 @@
 ---
 Black:
-  - Chung
-  - XiaoXian
-  - Wade
-  - Hanna
-BlackBlack:
-  - MingHan
-  - David
-  - Yi-ting
-  - HuiLin
-Blue:
-  - XiaoQi
-  - Victor
-  - Bernie
-  - Peter
-Brown:
-  - HanPing
-  - Raffaele
-  - Yu-Ying
-  - ChuJun
-Gray:
-  - Ray
-  - XiaoRou
-  - YaTing
-  - Ya-syuan
-Green:
-  - Flora
-  - MeiQing
-  - YuXun
-  - GuanYin
-Orange:
-  - YaYun
-  - Yan
-  - Kou-wei
-  - Jie-Yu
-Pink:
-  - Jane
-  - Ying-Hsuan
-  - Alexis
-  - Entian
-Purple:
-  - Han-Yu
-  - XiaoWei
-  - YuJie
-  - Tim
-Red:
-  - WenXiao
+  - Jeter
+  - JiaXiang
   - PingJie
+  - YaTing
+BlackBlack:
+  - HanPing
+  - XiaoXian
+  - GuanYin
+  - Nate
+Blue:
+  - Sam
+  - XiaoQi
+  - Ya-syuan
+  - Victor
+Brown:
+  - MingHan
   - Chase
+  - Ying-Hsuan
+  - XiaoRou
+Gray:
+  - Ching
+  - Flora
+  - Raffaele
+  - Han-Yu
+Green:
+  - Ray
+  - Yu-Ying
   - Zong-Hua
-White:
+  - YuXin
+Orange:
+  - Wade
+  - Yi-ting
+  - Peter
+  - HuiLin
+Pink:
   - Friday
   - Si-Yu
-  - JiaXiang
-WhiteWhite:
-  - Jeter
-  - YuXin
-  - Nate
-Yellow:
+  - XiaoWei
+  - Entian
+Purple:
+  - WenXiao
+  - Hanna
+  - MeiQing
+  - Tim
+Red:
+  - David
+  - Yan
+  - Bernie
+  - YuJie
+White:
+  - Jane
+  - YaYun
+  - YuXun
   - ChenHan
+WhiteWhite:
+  - ChuJun
+  - Chung
+  - Kou-wei
   - LiLing
-  - Sam
+Yellow:
+  - Shuai
+  - Jie-Yu
+  - Alexis
