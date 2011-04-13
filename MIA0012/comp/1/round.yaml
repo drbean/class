@@ -1,6 +1,35 @@
 ---
 activity:
-  stress-1:
+  stress:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 21
+      - 22
+      - 23
+      - 24
+  adventure:
     0:
       - 0
       - 1
@@ -27,85 +56,113 @@ activity:
       - 22
       - 23
       - 24
-bye: T9733022
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+      - 24
+bye: ~
 group:
   0:
     White: U9833022
     Black: U9833026
   1:
-    White: T9833035
+    White: T9833039
     Black: T9833046
   2:
     White: U9833041
-    Black: T9833009
+    Black: T9833035
   3:
-    White: U9833011
+    White: T9833009
     Black: U9833020
   4:
     White: T9833050
-    Black: U9833015
+    Black: U9833011
   5:
-    White: U9833052
+    White: U9833015
     Black: U9833043
   6:
     White: U9833038
-    Black: T9833004
+    Black: U9833052
   7:
-    White: T9833045
+    White: T9833004
     Black: T9833025
   8:
     White: U9833003
-    Black: U9833025
+    Black: T9833045
   9:
-    White: U9833030
+    White: U9833025
     Black: U9833023
   10:
     White: U9833031
-    Black: U9833019
+    Black: U9833030
   11:
-    White: U9831107
+    White: U9833019
     Black: U9833034
   12:
     White: T9833037
-    Black: U9833024
+    Black: U9831107
   13:
-    White: T9833027
-    Black: U9833040
-  14:
     White: T9833006
-    Black: U9833007
-  15:
-    White: U9833035
+    Black: U9833024
+  14:
+    White: T9833027
     Black: T9833030
-  16:
+  15:
     White: T9833043
-    Black: U9833050
-  17:
-    White: U9833039
+    Black: U9833007
+  16:
+    White: U9833050
     Black: T9833028
-  18:
+  17:
     White: U9833047
-    Black: U9833002
-  19:
-    White: U9833049
+    Black: U9833039
+  18:
+    White: U9833002
     Black: U9833001
-  20:
+  19:
     White: U9833048
-    Black: T9833032
-  21:
-    White: U9833009
+    Black: U9833049
+  20:
+    White: T9833032
     Black: U9833044
-  22:
+  21:
     White: U9833005
-    Black: T9833013
-  23:
+    Black: U9833009
+  22:
     White: U9833045
     Black: U9833014
+  23:
+    White: T9833013
+    Black: T9733022
   24:
-    White: T9833039
-    Black: U9733013
+    White: U9833035
+    Black: U9833040
 late:
-  - ~
+  - U9833035
+  - U9833040
+  - T9833013
 round: 1
-text: /home/drbean/class/business/stress/cards.yaml
-week: ~
+text: ../../class/business/stress/cards.yaml
+week: 5
