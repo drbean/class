@@ -12,7 +12,6 @@ absent:
 text: /home/drbean/class/business/stress/cards.yaml
 activity:
   adventure:
-# - BlackBlack
     4:
       - BlackBlack
       - Gray
