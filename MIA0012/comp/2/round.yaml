@@ -1,83 +1,106 @@
 ---
-round: 2
-week: 3
-absent:
-transfer:
-  - U9833003
-text: 
 activity:
-  careers:
-    tips:
-      -
-         White: U9833015
-         Black: T9833006
-      -
-         White: U9831107
-         Black: U9833043
-      -
-         White: U9833007
-         Black: T9833009
-      -
-         White: U9833026
-         Black: T9833032
-      -
-         White: U9833035
-         Black: U9833037
-      -
-         White: U9833009
-         Black: U9833005
-      -
-         White: T9833028
-         Black: T9833043
-      -
-         White: T9833027
-         Black: U9833022
-      -
-         White: U9833025
-         Black: T9833030
-      -
-         White: U9833050
-         Black: T9833013
-      -
-         White: U9833049
-         Black: U9833047
-      -
-         White: U9833024
-         Black: U9833023
-      -
-         White: U9833030
-         Black: T9833035
-      -
-         White: U9833002
-         Black: U9833045
-      -
-         White: U9833044
-         Black: U9833001
-      -
-         White: U9833031
-         Black: T9833037
-      -
-         White: U9833034
-         Black: T9833039
-      -
-         White: U9833052
-         Black: U9833014
-      -
-         White: T9833046
-         Black: U9833039
-      -
-         White: T9833045
-         Black: U9833038
-      -
-         White: U9833048
-         Black: U9833020
-      -
-         White: T9833025
-         Black: U9833019
-      -
-         White: T9833004
-         Black: U9833011
-      -
-         White: T9833050
-         Black: U9833040
-bye: U9833041
+  sale:
+    fruit:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+group:
+  0:
+     White: U9833009
+     Black: U9833011
+  1:
+     White: U9833024
+     Black: U9833019
+  2:
+     White: U9833049
+     Black: U9833015
+  3:
+     White: U9833014
+     Black: U9833022
+  4:
+     White: U9833044
+     Black: U9833038
+  5:
+     White: U9833050
+     Black: T9833025
+  6:
+     White: U9833047
+     Black: U9833025
+  7:
+     White: T9833027
+     Black: U9831107
+  8:
+     White: T9833028
+     Black: U9833003
+  9:
+     White: U9833040
+     Black: T9833037
+  10:
+     White: T9833006
+     Black: U9833031
+  11:
+     White: U9833001
+     Black: U9833043
+  12:
+     White: T9833032
+     Black: T9833009
+  13:
+     White: U9833005
+     Black: U9833041
+  14:
+     White: U9833045
+     Black: T9833035
+  15:
+     White: T9833046
+     Black: U9833052
+  16:
+     White: U9833048
+     Black: T9833050
+  17:
+     White: T9833039
+     Black: U9833020
+  18:
+     White: U9833007
+     Black: T9833004
+  19:
+     White: T9833013
+     Black: U9833026
+  20:
+     White: T9833030
+     Black: U9833034
+  21:
+     White: U9833035
+     Black: U9833030
+  22:
+     White: T9833043
+     Black: U9833023
+  23:
+     White: U9833039
+     Black: T9833045
+late:
+  - ~
+round: 2
+text: ../../class/business/marketing/cards.yaml
+week: 6
