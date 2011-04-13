@@ -1,6 +1,7 @@
 ---
 Chinese:
   Black: 0
+  BlackBlack: 0
   Blue: 0
   Brown: 0
   Gray: 0
@@ -19,6 +20,12 @@ letters:
     U9833005: 4
     U9833041: 4
     story: adventure5
+  BlackBlack:
+    U9833009: 1
+    U9833011: 1
+    T9833039: 1
+    U9833020: 1
+    story: adventure4
   Blue:
     T9833032: 4
     T9833009: 4
