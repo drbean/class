@@ -1,84 +1,45 @@
 ---
 Black:
   - Carol
-  - Sophie
   - Kumiko
-  - Peggy
-BlackBlack:
-  - Jo
-  - Jessica1
-  - Justin
-  - Ivy1
-Blue:
-  - Amberly
-  - Tiffany
-  - Linda
-  - Vivi
-BlueBlue:
-  - Edison
-  - Eva
-  - Cloud
-  - Fenny
-Brown:
-  - Bruce
-  - Anita
-  - Joey
-  - Sunny
-BrownBrown:
-  - Lucas
-  - Anne
-  - Nelson
-  - Vera
-Gray:
-  - Nancy
-  - Tina
-  - Abby
-  - Ken
-GrayGray:
-  - Candy
-  - Eunice
-  - Rachel
-  - Emily2
-Green:
-  - Andy
-  - Michelle
-  - Elly
-  - Moto
-Orange:
-  - Ally
-  - Jacinta
-  - Hank
-  - Kiki
-Pink:
-  - Mico
-  - Ford
-  - Nina
-  - Donna
-Purple:
-  - Emily3
-  - Tracy
-  - Ting
-  - Ashley
-Red:
-  - Cathy
   - Joe
-  - Kathy
-  - Molly
-White:
-  - Jessica2
-  - Cindy
-  - Maggie
-  - Ting'an
-WhiteWhite:
-  - Emma
-  - Alan
-  - Amy
-  - Nana
-Yellow:
-  - Ivy2
-  - Aska
-  - Vivian
-YellowYellow:
-  - Chelsea
   - Melissa
+Blue:
+  - Alan
+  - Ivy2
+  - Abby
+  - Sophie
+Brown:
+  - Nancy
+  - Justin
+  - Elly
   - Emily1
+Gray:
+  - Jacinta
+  - Andy
+  - Emily2
+  - Rachel
+Orange:
+  - Cathy
+  - Jessica1
+  - Molly
+  - Peggy
+Pink:
+  - Bruce
+  - Vivi
+  - Tina
+  - Ivy1
+Purple:
+  - Tracy
+  - Anita
+  - Nina
+  - Maggie
+Red:
+  - Donna
+  - Kathy
+  - Eva
+  - Candy
+White:
+  - Frances
+  - Amy
+  - Aska
