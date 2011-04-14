@@ -13,6 +13,11 @@ id: GL00022
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
+  - Chinese: 邱之杏
+    name: Iris
+    password: zhi
+    id: U9999006
+    rating: ~
   - Chinese: 陳昱如
     id: U9718042
     name: Finna
@@ -74,7 +79,7 @@ member:
     password: en
     rating: 83
   - Chinese: 劉淞傑
-    name: Daniel
+    name: Danial
     password: song
     id: U9822002
     rating: ~
@@ -159,6 +164,21 @@ member:
     name: Terry1
     password: zhi
     rating: ~
+  - Chinese: 姚申峰
+    id: T9811111
+    name: Richard
+    password: shen
+    rating: ~
+  - Chinese: 林鈺賀
+    id: T9811142
+    name: Lin
+    password: yu
+    rating: ~
+  - Chinese: 嚴虹渚
+    id: U9743024
+    name: Rita
+    password: hong
+    rating: ~
 
 out:
   - Chinese: 黃政翰
@@ -226,16 +246,6 @@ out:
     password: hui
     id: U9931231
     rating: 
-  - Chinese: 姚申峰
-    id: T9811111
-    name: Richard
-    password: shen
-    rating: ~
-  - Chinese: 林鈺賀
-    id: T9811142
-    name: Lin
-    password: yu
-    rating: ~
   - Chinese: 呂曜宇
     id: U9711013
     name: Kevin
@@ -275,11 +285,6 @@ out:
     id: U9931216
     name: Jeanie
     password: yu
-    rating: ~
-  - Chinese: 嚴虹渚
-    id: U9743024
-    name: Rita
-    password: hong
     rating: ~
   - Chinese: 彭義融
     id: 9622297
