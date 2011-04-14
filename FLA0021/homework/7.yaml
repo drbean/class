@@ -1,271 +1,147 @@
 ---
 cutpoints:
   one: 50
-  two: 160
-exercise: sunshine
+  two: 200
+exercise: biodad
 grade:
-  9622299: 0
-  N9461738: 0
-  N9561721: 0
-  N9561732: 0
-  N9561751: 0
-  N9561762: 0
-  N9561765: 2
-  N9661702: 2
-  N9661705: 0
-  N9661706: 2
-  N9661713: 0
-  N9661717: 0
-  N9661724: 0
-  N9661725: 2
-  N9661727: 0
-  N9661728: 2
-  N9661731: 2
-  N9661737: 0
-  N9661738: 2
-  N9661740: 0
-  N9661741: 2
-  N9661743: 0
-  N9661746: 0
-  N9661747: 0
-  N9661748: 2
-  N9661749: 0
-  N9661753: 0
-  N9661758: 0
-  N9661761: 2
-  U9533039: 0
-  U9616041: 2
-  V9724004: 0
-  V9731059: 0
+  V9724004: 2
+  V9731059: 2
   V9741009: 0
   V9741010: 2
   V9741014: 2
   V9741015: 0
-  V9741016: 2
-  V9741018: 0
-  V9741023: 0
+  V9741016: 0
+  V9741018: 2
+  V9741023: 2
   V9741024: 2
-  V9741025: 0
+  V9741025: 2
   V9741028: 0
-  V9741029: 0
-  V9741030: 0
-  V9741032: 0
+  V9741029: 2
+  V9741030: 2
+  V9741032: 2
   V9741034: 2
-  V9741036: 0
-  V9741037: 0
-  V9741038: 0
+  V9741036: 2
+  V9741037: 2
+  V9741038: 2
   V9741040: 2
   V9741041: 2
-  V9741042: 0
-  V9741043: 0
-  V9741044: 0
-  V9741047: 0
-  V9741048: 0
+  V9741042: 2
+  V9741043: 2
+  V9741047: 2
+  V9741048: 2
   V9741049: 0
-  V9741053: 0
+  V9741053: 2
   V9741055: 2
   V9741057: 2
   V9741059: 0
-  V9741060: 0
-  V9741061: 0
-  V9741064: 2
+  V9741060: 2
+  V9741061: 2
+  V9741064: 1
+  V9741065: 2
   V9741066: 0
 points:
-  9622299:
-    letters: ~
-    questions: 0
-  N9461738:
-    letters: ~
-    questions: 0
-  N9561721:
-    letters: ~
-    questions: 0
-  N9561732:
-    letters: ~
-    questions: 0
-  N9561751:
-    letters: ~
-    questions: 0
-  N9561762:
-    letters: ~
-    questions: 0
-  N9561765:
-    letters: ~
-    questions: 1
-  N9661702:
-    letters: ~
-    questions: 1
-  N9661705:
-    letters: ~
-    questions: 0
-  N9661706:
-    letters: ~
-    questions: 1
-  N9661713:
-    letters: ~
-    questions: 0
-  N9661717:
-    letters: ~
-    questions: 0
-  N9661724:
-    letters: ~
-    questions: 0
-  N9661725:
-    letters: ~
-    questions: 1
-  N9661727:
-    letters: ~
-    questions: 0
-  N9661728:
-    letters: ~
-    questions: 1
-  N9661731:
-    letters: ~
-    questions: 1
-  N9661737:
-    letters: ~
-    questions: 0
-  N9661738:
-    letters: ~
-    questions: 1
-  N9661740:
-    letters: ~
-    questions: 0
-  N9661741:
-    letters: ~
-    questions: 1
-  N9661743:
-    letters: ~
-    questions: 0
-  N9661746:
-    letters: ~
-    questions: 0
-  N9661747:
-    letters: ~
-    questions: 0
-  N9661748:
-    letters: ~
-    questions: 1
-  N9661749:
-    letters: ~
-    questions: 0
-  N9661753:
-    letters: ~
-    questions: 0
-  N9661758:
-    letters: ~
-    questions: 0
-  N9661761:
-    letters: ~
-    questions: 1
-  U9533039:
-    letters: ~
-    questions: 0
-  U9616041:
-    letters: ~
-    questions: 1
   V9724004:
-    letters: ~
-    questions: 0
+    letters: 0
+    questions: 1
   V9731059:
-    letters: ~
-    questions: 0
+    letters: 242
+    questions: 1
   V9741009:
-    letters: ~
+    letters: 0
     questions: 0
   V9741010:
-    letters: ~
+    letters: 0
     questions: 1
   V9741014:
-    letters: ~
+    letters: 249
     questions: 1
   V9741015:
-    letters: ~
+    letters: 0
     questions: 0
   V9741016:
-    letters: ~
-    questions: 2
-  V9741018:
-    letters: ~
+    letters: 0
     questions: 0
+  V9741018:
+    letters: 100
+    questions: 1
   V9741023:
-    letters: ~
+    letters: 249
     questions: 0
   V9741024:
-    letters: ~
-    questions: 1
+    letters: 242
+    questions: 0
   V9741025:
-    letters: ~
+    letters: 242
     questions: 0
   V9741028:
-    letters: ~
+    letters: 0
     questions: 0
   V9741029:
-    letters: ~
+    letters: 242
     questions: 0
   V9741030:
-    letters: ~
+    letters: 242
     questions: 0
   V9741032:
-    letters: ~
+    letters: 249
     questions: 0
   V9741034:
-    letters: ~
+    letters: 242
     questions: 1
   V9741036:
-    letters: ~
-    questions: 0
+    letters: 269
+    questions: 1
   V9741037:
-    letters: ~
+    letters: 249
     questions: 0
   V9741038:
-    letters: ~
-    questions: 0
-  V9741040:
-    letters: ~
+    letters: 0
     questions: 1
+  V9741040:
+    letters: 249
+    questions: 0
   V9741041:
-    letters: ~
+    letters: 269
     questions: 1
   V9741042:
-    letters: ~
+    letters: 242
     questions: 0
   V9741043:
-    letters: ~
-    questions: 0
-  V9741044:
-    letters: ~
-    questions: 0
+    letters: 37
+    questions: 1
   V9741047:
-    letters: ~
-    questions: 0
+    letters: 518
+    questions: 1
   V9741048:
-    letters: ~
+    letters: 242
     questions: 0
   V9741049:
-    letters: ~
+    letters: 0
     questions: 0
   V9741053:
-    letters: ~
-    questions: 0
+    letters: 0
+    questions: 1
   V9741055:
-    letters: ~
+    letters: 248
     questions: 1
   V9741057:
-    letters: ~
+    letters: 0
     questions: 1
   V9741059:
-    letters: ~
+    letters: 0
     questions: 0
   V9741060:
-    letters: ~
+    letters: 249
     questions: 0
   V9741061:
-    letters: ~
-    questions: 0
-  V9741064:
-    letters: ~
+    letters: 242
     questions: 1
+  V9741064:
+    letters: 196
+    questions: 0
+  V9741065:
+    letters: 0
+    questions: 3
   V9741066:
-    letters: ~
+    letters: 0
     questions: 0
