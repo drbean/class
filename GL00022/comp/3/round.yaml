@@ -1,36 +1,65 @@
 ---
-round: 3
-week: 4
-absent:
-text:
 activity:
-  roxborough:
-    1:
-      -
-         White: 9622212
-         Black: U9822019
-      -
-         White: N9661747
-         Black: N9561766
-      -
-         White: U9633052
-         Black: 9622240
-      -
-         White: U9922031
-         Black: T9822129
-      -
-         White: N9561765
-         Black: U9822004
-      -
-         White: U9615010
-         Black: U9821142
-      -
-         White: U9633019
-         Black: U9622089
-      -
-         White: T9822149
-         Black: U9818046
-      -
-         White: N9661723
-         Black: U9818007
-bye: U9722022
+  biodad:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+group:
+  0:
+    White: 9616201
+    Black: T9821043
+  1:
+    White: T9813014
+    Black: U9718033
+  2:
+    White: U9843023
+    Black: T9821014
+  3:
+    White: T9813004
+    Black: T9821036
+  4:
+    White: U9718036
+    Black: T9811101
+  5:
+    White: T9813003
+    Black: U9718042
+  6:
+    White: U9718022
+    Black: U9811149
+  7:
+    White: U9718016
+    Black: U9811127
+  8:
+    White: U9811144
+    Black: T9813009
+  9:
+    White: U9621094
+    Black: U9811142
+  10:
+    White: T9811142
+    Black: U9822002
+  11:
+    White: T9811111
+    Black: U9743024
+  12:
+    White: T9831047
+    Black: U9742052
+forfeit:
+  - U9718022
+  - U9811149
+late:
+  - ~
+round: 3
+text: ../../class/conversation/parents/cards.yaml
+week: 7
