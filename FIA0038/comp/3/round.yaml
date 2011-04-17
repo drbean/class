@@ -1,65 +1,95 @@
 ---
-round: 3
-week: 4
-absent:
-text: 
 activity:
-  candidate:
-    0:
-      -
-        White: U9831127
-        Black: U9831021
-      -
-        White: U9831040
-        Black: U9831112
-      -
-        White: U9831046
-        Black: U9831110
-      -
-        White: U9831044
-        Black: U9831109
-      -
-        White: U9831007
-        Black: U9831116
-      -
-        White: U9831131
-        Black: U9831035
-      -
-        White: U9831130
-        Black: U9831147
-      -
-        White: T9831003
-        Black: U9831119
-      -
-        White: U9831012
-        Black: U9831106
-      -
-        White: U9831016
-        Black: U9831122
-      -
-        White: U9831128
-        Black: U9831024
-      -
-        White: U9831139
-        Black: U9742047
-      -
-        White: T9831023
-        Black: U9831140
-      -
-        White: U9831002
-        Black: U9831138
-      -
-        White: U9831143
-        Black: T9831018
-      -
-        White: T9831030
-        Black: U9831049
-      -
-        White: U9831132
-        Black: U9831102
-      -
-        White: T9831015
-        Black: U9831114
-      -
-        White: U9831018
-        Black: U9831124
+  sales:
+    shoes:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+bye: U9834013
+group:
+  0:
+    White: U9834051
+    Black: U9634018
+  1:
+    White: U9834034
+    Black: U9834047
+  2:
+    White: U9834027
+    Black: U9834041
+  3:
+    White: U9834029
+    Black: U9834036
+  4:
+    White: U9834024
+    Black: U9834014
+  5:
+    White: U9834007
+    Black: U9834042
+  6:
+    White: U9834050
+    Black: U9834028
+  7:
+    White: U9834010
+    Black: U9834033
+  8:
+    White: U9834038
+    Black: U9834049
+  9:
+    White: U9834021
+    Black: U9834001
+  10:
+    White: U9834004
+    Black: U9834006
+  11:
+    White: U9834012
+    Black: U9834052
+  12:
+    White: U9834031
+    Black: U9834037
+  13:
+    White: U9834020
+    Black: U9834025
+  14:
+    White: U9834039
+    Black: U9834046
+  15:
+    White: U9834032
+    Black: U9834009
+  16:
+    White: U9834057
+    Black: U9834016
+  17:
+    White: U9833004
+    Black: U9834017
+  18:
+    White: U9834005
+    Black: U9834026
+  19:
+    White: U9834011
+    Black: U9834002
+  20:
+     White: U9834019
+     Black: U9834040
+late:
+  - U9834040
+  - U9834019
+round: 3
+text: ../../class/business/marketing/cards.yaml
+week: 8
