@@ -9,6 +9,7 @@ grade:
   U9693041: 2
   U9693046: 2
   V9741002: 0
+  V9741018: 0
   V9741065: 2
   V9841002: 0
   V9841004: 0
@@ -49,6 +50,7 @@ grade:
   V9841049: 0
   V9841050: 1
   V9841051: 0
+  V9841052: 0
   V9841053: 0
   V9841054: 0
   V9841058: 0
@@ -71,6 +73,9 @@ points:
     letters: 0
     questions: 1
   V9741002:
+    letters: 0
+    questions: 0
+  V9741018:
     letters: 0
     questions: 0
   V9741065:
@@ -191,6 +196,9 @@ points:
     letters: 147
     questions: 0
   V9841051:
+    letters: 0
+    questions: 0
+  V9841052:
     letters: 0
     questions: 0
   V9841053:
