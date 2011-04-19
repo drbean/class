@@ -1,15 +1,8 @@
 ---
-round: 2
-week: 4
-pass: 5
-questions:
-  - 5
-assistant:
-absent:
-text: /home/drbean/class/friends/6/cards.yaml
 activity:
-  18-25:
+  10:
     1:
+      - 0
       - 1
       - 2
       - 3
@@ -21,74 +14,45 @@ activity:
       - 9
       - 10
       - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
-      - 19
-      - 99
-# Note these pair roles are not correct!!
-pair:
+group:
+  0:
+    White: V9741034
+    Black: 9622299
   1:
-    White: N9561713
-    Black: N9661743
+    White: V9724004
+    Black: N9661754
   2:
-    White: N9561725
-    Black: N9661705
+    White: N9661738
+    Black: V9741061
   3:
-    White: N9561748
-    Black: N9661723
+    White: V9741059
+    Black: V9741010
   4:
-    White: N9561754
-    Black: N9661706
+    White: V9741024
+    Black: V9741016
   5:
-    White: N9561758
-    Black: N9661712
+    White: V9741030
+    Black: V9741032
   6:
-    White: N9561762
-    Black: N9661742
+    White: V9741066
+    Black: V9741042
   7:
-    White: N9661701
-    Black: N9661737
+    White: N9561732
+    Black: V9741057
   8:
-    White: N9661702
-    Black: N9661757
+    White: N9361758
+    Black: V9741049
   9:
-    White: N9661709
-    Black: N9661740
+    White: V9741023
+    Black: V9741028
   10:
-    White: N9661715
-    Black: N9461734
+    White: V9741064
+    Black: V9741029
   11:
-    White: N9661717
-    Black: N9661725
-  12:
-    White: N9661720
-    Black: N9661748
-  13:
-    White: N9661722
-    Black: N9661753
-  14:
-    White: N9661724
-    Black: N9661731
-  15:
-    White: N9661728
-    Black: N9661741
-  16:
-    White: N9661734
-    Black: N9661747
-  17:
-    White: N9661745
-    Black: N9561765
-  18:
-    White: N9661746
-    Black: N9661719
-  19:
-    White: N9661755
-    Black: N9461760
-  99:
-    White: N9661714
-    Black: N9461747
+    White: V9741038
+    Black: V9741055
+late:
+  - ~
+round: 2
+text: ../../class/friends/7/cards.yaml
+week: 6
