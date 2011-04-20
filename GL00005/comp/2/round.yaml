@@ -1,37 +1,30 @@
 ---
-round: 2
-week: 3
-absent:
-text: 
 activity:
-  connell:
-    1:
-      -
-         White: N9561765
-         Black: U9633019
-      -
-         White: U9822004
-         Black: U9622089
-      -
-         White: 9622212
-         Black: U9633052
-      -
-         White: U9822019
-         Black: 9622240
-      -
-         White: N9661723
-         Black: T9822149
-      -
-         White: U9818007
-         Black: U9818046
-      -
-         White: N9561766
-         Black: T9822147
-      -
-         White: U9722022
-         Black: U9831127
-      -
-         White: T9822129
-         Black: U9821142
+  biomom:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+group:
+  0:
+    White: U9823011
+    Black: T9831040
+  1:
+    White: U9916029
+    Black: U9715014
+  2:
+    White: U9831049
+    Black: V9741065
+  3:
+    White: U9922235
+    Black: U9931143
+  4:
+    White: U9723056
+    Black: T9811035
 late:
-  - N9661747
+  - ~
+round: 2
+text: ../../class/conversation/parents/cards.yaml
+week: 6
