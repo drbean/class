@@ -1,72 +1,83 @@
 ---
 cutpoints:
   one: 50
-  two: 220
-exercise: desantis
+  two: 200
+exercise: biodad
 grade:
-  U9615010: 0
-  9622212: 2
-  9622240: 2
-  N9561765: 0
-  N9561766: 1
-  N9661723: 2
-  N9661747: 0
-  T9822129: 2
-  T9822149: 2
-  U9633019: 2
-  U9633052: 2
-  U9722022: 2
-  U9818007: 0
-  U9818046: 0
-  U9821142: 2
-  U9822004: 2
-  U9822019: 2
+  9611203: 0
+  M9923001: 0
+  M9923005: 0
+  T9811035: 2
+  T9831040: 2
+  U9623038: 2
+  U9711025: 2
+  U9711052: 0
+  U9715014: 2
+  U9723056: 2
+  U9813024: 2
+  U9823011: 0
+  U9831049: 2
+  U9916027: 0
+  U9916029: 0
+  U9922235: 0
+  U9931143: 2
+  U9942017: 0
+  V9741065: 2
 points:
-  9622212:
+  9611203:
+    letters: 0
+    questions: 0
+  M9923001:
+    letters: 0
+    questions: 0
+  M9923005:
+    letters: 0
+    questions: 0
+  T9811035:
     letters: 238
     questions: 0
-  9622240:
-    letters: 247
+  T9831040:
+    letters: 242
     questions: 0
-  N9561765:
-    letters: ~
+  U9623038:
+    letters: 249
     questions: 0
-  N9561766:
-    letters: 210
+  U9711025:
+    letters: 249
     questions: 0
-  N9661723:
-    letters: 247
+  U9711052:
+    letters: 0
     questions: 0
-  N9661747:
-    letters: ~
+  U9715014:
+    letters: 233
     questions: 0
-  T9822129:
-    letters: 238
+  U9723056:
+    letters: 242
     questions: 0
-  T9822149:
-    letters: 238
+  U9813024:
+    letters: 242
     questions: 0
-  U9633019:
-    letters: 238
+  U9823011:
+    letters: 0
     questions: 0
-  U9633052:
-    letters: 238
+  U9831049:
+    letters: 0
+    questions: 1
+  U9916027:
+    letters: 0
     questions: 0
-  U9722022:
-    letters: 238
+  U9916029:
+    letters: 0
     questions: 0
-  U9818007:
-    letters: ~
+  U9922235:
+    letters: 0
     questions: 0
-  U9818046:
-    letters: ~
+  U9931143:
+    letters: 242
     questions: 0
-  U9821142:
-    letters: 246
+  U9942017:
+    letters: 0
     questions: 0
-  U9822004:
-    letters: 247
-    questions: 0
-  U9822019:
-    letters: 247
-    questions: 0
+  V9741065:
+    letters: 0
+    questions: 3
