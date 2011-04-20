@@ -1,127 +1,83 @@
 ---
 cutpoints:
-  one: 0
-  two: 0
-exercise: breakstone
+  one: 50
+  two: 200
+exercise: biomom
 grade:
-  9622212: 2
-  9622240: 2
-  9622299: 0
-  N9561765: 2
-  N9561766: 2
-  N9661723: 2
-  N9661747: 2
-  T9822129: 0
-  T9822147: 0
-  T9822149: 2
-  T9823041: 0
-  U9615010: 0
-  U9622089: 2
-  U9633019: 2
-  U9633052: 2
-  U9722022: 2
-  U9723011: 0
-  U9810015: 0
-  U9818007: 1
-  U9818011: 0
-  U9818017: 0
-  U9818022: 0
-  U9818032: 0
-  U9818046: 0
-  U9821121: 0
-  U9821142: 2
-  U9822004: 2
-  U9822019: 2
-  U9831127: 0
-  U9922031: 0
+  9611203: 0
+  M9923001: 0
+  M9923005: 0
+  T9811035: 0
+  T9831040: 2
+  U9623038: 2
+  U9711025: 0
+  U9711052: 2
+  U9715014: 1
+  U9723056: 2
+  U9813024: 0
+  U9823011: 1
+  U9831049: 2
+  U9916027: 0
+  U9916029: 2
+  U9922235: 2
+  U9931143: 2
+  U9942017: 0
+  V9741065: 2
 points:
-  9622212:
-    letters: 158
+  9611203:
+    letters: 0
+    questions: 0
+  M9923001:
+    letters: 0
+    questions: 0
+  M9923005:
+    letters: 0
+    questions: 0
+  T9811035:
+    letters: 20
+    questions: 0
+  T9831040:
+    letters: 262
+    questions: 0
+  U9623038:
+    letters: 224
+    questions: 0
+  U9711025:
+    letters: 0
+    questions: 0
+  U9711052:
+    letters: 0
     questions: 1
-  9622240:
-    letters: 187
+  U9715014:
+    letters: 174
+    questions: 0
+  U9723056:
+    letters: 17
     questions: 1
-  9622299:
-    letters: ~
+  U9813024:
+    letters: 0
     questions: 0
-  N9561765:
-    letters: 183
+  U9823011:
+    letters: 184
     questions: 0
-  N9561766:
-    letters: 158
+  U9831049:
+    letters: 0
     questions: 1
-  N9661723:
-    letters: 187
+  U9916027:
+    letters: 0
+    questions: 0
+  U9916029:
+    letters: 249
+    questions: 0
+  U9922235:
+    letters: 249
+    questions: 0
+  U9931143:
+    letters: 0
     questions: 1
-  N9661747:
-    letters: 158
-    questions: 1
-  T9822129:
-    letters: ~
+  U9942017:
+    letters: 0
     questions: 0
-  T9822147:
-    letters: ~
-    questions: 0
-  T9822149:
-    letters: 158
-    questions: 1
-  T9823041:
-    letters: ~
-    questions: 0
-  U9615010:
-    letters: ~
-    questions: 0
-  U9622089:
-    letters: 187
-    questions: 1
-  U9633019:
-    letters: 158
-    questions: 1
-  U9633052:
-    letters: 158
-    questions: 2
-  U9722022:
-    letters: 158
-    questions: 0
-  U9723011:
-    letters: ~
-    questions: 0
-  U9810015:
-    letters: ~
-    questions: 0
-  U9818007:
-    letters: 90
-    questions: 0
-  U9818011:
-    letters: ~
-    questions: 0
-  U9818017:
-    letters: ~
-    questions: 0
-  U9818022:
-    letters: ~
-    questions: 0
-  U9818032:
-    letters: ~
-    questions: 0
-  U9818046:
-    letters: ~
-    questions: 0
-  U9821121:
-    letters: ~
-    questions: 0
-  U9821142:
-    letters: 187
-    questions: 2
-  U9822004:
-    letters: 187
-    questions: 1
-  U9822019:
-    letters: 187
-    questions: 1
-  U9831127:
-    letters: ~
-    questions: 0
-  U9922031:
-    letters: ~
-    questions: 0
+  V9741065:
+    letters: 0
+    questions: 3
