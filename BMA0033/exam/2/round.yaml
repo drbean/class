@@ -3,80 +3,93 @@ round: Exam 2
 week: 9
 questions:
   - 5
-pass: 2
+pass: 3
 assistant:
+  - Li
+  - Jenay
+  - Sofie
+  - Betty
 absent:
-text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
+  - T-Play
+  - Wei-Cei
+  - Nick
+text: /home/drbean/class/business/marketing/cards.yaml
 activity:
-  vacations:
-    6:
-      - Black
+  water:
+    1:
+      - Green
       - White
-    7:
-      - BlackBlack
+      - Yellow
+      - YellowYellow
+    2:
       - Blue
       - Brown
-    8:
-      - Gray
       - Pink
-      - Red
-    9:
-      - Orange
       - Purple
-      - Yellow
+    3:
+      - Gray
+      - Red
+    4:
+      - Black
+      - Orange
 group:
   Black:
-    - Candy
-    - Jenay
-    - Jerry1
-    - Chiahao
-  BlackBlack:
-    - Wei-Cei
-    - Laura
-    - Helen
-    - WanHan
-  Blue:
-    - Reicho
-    - Aaron
-    - Yi-Tang
-    - Michelle
-  Brown:
-    - Stanley
-    - Elaine
-    - Amy
-    - Dian
-  Gray:
-    - Nick
-    - Kuan-Li
-    - Betty
-    - Dennis
-  Orange:
-    - Alice
-    - Wayne
+    - Li
+    - Zack
     - Jheng-Syun
-    - Tina
+    - Jenay
+  Blue:
+    - Wang
+    - Gwan-Chi
+    - Tiffany
+    - Judy
+  Brown:
+    - Jenay
+    - Bu-Dien
+    - Yi-Tang
+    - Amy
+  Gray:
+    - Stanley
+    - Wayne
+    - Jenny
+    - WanHan
+  Green:
+    - Sofie
+    - Li
+    - Dian
+    - Grace
+  Orange:
+    - Zih-sheng
+    - ChiaoLing
+    - Michelle
+    - Laura
   Pink:
     - Wei-jhih
-    - Zih-sheng
-    - Zack
-    - Sharon
+    - Helen
+    - Jerry1
+    - Chiahao
   Purple:
-    - Yi-xun
-    - ChiaoLing
-    - Patrick
-    - Judy
-  Red:
-    - Li
+    - Reicho
     - Sofie
-    - Tiffany
-    - Jenny
+    - Pei-ci
+    - Aaron
+  Red:
+    - Kuan-Li
+    - Yi-xun
+    - Sharon
+    - Dennis
   White:
-    - Bu-Dien
+    - Alice
     - May
-    - Grace
+    - Tina
     - Sandy
   Yellow:
-    - Gwan-Chi
-    - Jerry2
+    - Candy
+    - Elaine
+    - Patrick
     - Wan-ling
-    - Pei-ci
+  YellowYellow:
+    - Jessie
+    - Jerry2
+    - Betty
+    - Betty
