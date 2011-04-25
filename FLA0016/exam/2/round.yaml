@@ -5,103 +5,104 @@ questions:
   - 10
 pass: 6
 assistant:
-  - Leo
-  - Anne
-  - Joanna
-  - Kori
+  - Luke
+  - Hank
+  - Dennis
+  - Hannah
+  - Yorick
 absent:
-  - Wei
-  - Chun-Fu
-text: /home/drbean/class/conversation/BreakstoneDesantisSchifrin/cards.yaml
+  - Joanna
+  - Lace
+text: /home/drbean/class/conversation/parents/cards.yaml
 activity:
-  breakstone:
-    1:
+  biomom:
+    2e:
       - Black
       - Gray
-      - Orange
-      - White
-      - WhiteWhite
-  desantis:
-    1:
-      - Blue
+      - Mike
       - Pink
-      - Purple
-      - Red
-      - Yellow
-  schifrin:
-    1:
-      - BlackBlack
-      - BlueBlue
+      - White
+  biodad:
+    3:
+      - Blue
       - Brown
       - Green
+      - Purple
+      - Yellow
+  emersonj:
+    1:
+      - BlackBlack
+      - Orange
+      - Red
+      - WhiteWhite
 group:
   Black:
-    - Shiau-ching
-    - Joan
-    - Wei-Yi
-    - Rachel
-  BlackBlack:
-    - Sana
-    - Eva
-    - Yi-Ru
+    - Anny
     - Winny
-  Blue:
-    - Hannah
-    - Annie
-    - Katty
-    - Lace
-  BlueBlue:
-    - Tea
-    - Bass
-    - Leo
-    - Frances
-  Brown:
-    - Dennis
-    - Miranda
-    - Julie
-    - Anne
-  Gray:
-    - Yu-Lun
-    - Jeffrey
-    - Fifi
-    - Sue
-  Green:
-    - Kori
-    - Cathy
-    - Debbie
-    - Abby
-  Orange:
-    - Christian
-    - Hank
-    - Yu-Ching
+    - Joan
     - Rose
-  Pink:
-    - Lisa
-    - Jason
-    - Kitty
-    - Joanna
-  Purple:
-    - Leo
-    - Sophia
-    - Yorick
-    - Winne
-  Red:
-    - Shaq
-    - Joy
-    - Carina
-    - Luke
-  White:
-    - Anne
-    - Stanley
-    - Laura
-    - Patty
-  WhiteWhite:
+  BlackBlack:
     - Ivan
-    - Ricky
-    - Ming
-    - Joanna
-  Yellow:
-    - Dan
-    - Amber
-    - Jessica
+    - Yorick
+    - Anne
+    - Luke
+  Blue:
+    - Sherry
+    - Jeffrey
+    - Kitty
+    - Leo
+  Brown:
+    - Jerry
+    - Shaq
+    - Yu-Lun
+    - Yu-Ching
+  Gray:
+    - Michelle
+    - Lisa
+    - Patty
+    - Debbie
+  Green:
+    - Bella
     - Kori
+    - Sue
+    - Laura
+  Orange:
+    - Cathy2
+    - Abby
+    - Yi-Ru
+    - Joy
+  Pink:
+    - Luke
+    - Cathy
+    - Carina
+    - Hannah
+  Purple:
+    - Dan
+    - Stanley
+    - Fifi
+    - Hank
+  Red:
+    - Eva
+    - Amber
+    - Winne
+    - Jessica
+  White:
+    - Dennis
+    - Katty
+    - Ming
+    - Rachel
+  WhiteWhite:
+    - Tea
+    - Ricky
+    - Julie
+    - Wei-Yi
+  Yellow:
+    - Sana
+    - Yorick
+    - Bass
+    - Frances
+  Mike:
+    - Hank
+    - Dennis
+    - Hannah
+    - Mike
