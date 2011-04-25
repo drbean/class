@@ -3,80 +3,82 @@ round: Exam 2
 week: 9
 questions:
   - 5
-pass: 2
+pass: 3
 assistant:
+  - Dennis
 absent:
-text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
+  - Patterson
+text: /home/drbean/class/business/marketing/cards.yaml
 activity:
-  vacations:
-    6:
-      - Black
+  water:
+    1:
+      - Green
       - White
-    7:
-      - BlackBlack
+    2:
       - Blue
-      - Brown
-    8:
       - Gray
-      - Pink
-      - Red
-    9:
       - Orange
+      - WhiteWhite
+    3:
+      - BlackBlack
+      - Pink
       - Purple
-      - Yellow
+    4:
+      - Black
+      - Brown
 group:
   Black:
-    - Candy
-    - Jenay
-    - Jerry1
-    - Chiahao
+    - Jill
+    - Rebecca
+    - Frank
+    - Jerry
   BlackBlack:
-    - Wei-Cei
-    - Laura
-    - Helen
-    - WanHan
-  Blue:
-    - Reicho
-    - Aaron
-    - Yi-Tang
-    - Michelle
-  Brown:
-    - Stanley
-    - Elaine
-    - Amy
-    - Dian
-  Gray:
-    - Nick
-    - Kuan-Li
-    - Betty
-    - Dennis
-  Orange:
-    - Alice
-    - Wayne
-    - Jheng-Syun
-    - Tina
-  Pink:
-    - Wei-jhih
-    - Zih-sheng
-    - Zack
-    - Sharon
-  Purple:
-    - Yi-xun
-    - ChiaoLing
-    - Patrick
-    - Judy
-  Red:
-    - Li
-    - Sofie
-    - Tiffany
+    - Jeren
     - Jenny
+    - Brian
+    - Abby
+  Blue:
+    - Debbie
+    - Ezra
+    - Alex
+    - Jack
+  Brown:
+    - Dennis
+    - Amy
+    - Emma
+    - Linda2
+  Gray:
+    - Penny
+    - Irene
+    - Danny
+    - Linda1
+  Green:
+    - Keano
+    - Vicky
+    - Ashly
+    - Sherry2
+  Orange:
+    - Peace
+    - Maggie
+    - Ivy
+    - Nancy
+  Pink:
+    - Ray
+    - Joy
+    - Lisa
+    - Cammy
+  Purple:
+    - Tina
+    - Lious
+    - Annie
+    - Cathy
   White:
-    - Bu-Dien
-    - May
-    - Grace
-    - Sandy
-  Yellow:
-    - Gwan-Chi
-    - Jerry2
-    - Wan-ling
-    - Pei-ci
+    - Kelly
+    - Sherry1
+    - Trisha
+    - Jean
+  WhiteWhite:
+    - Hardy
+    - Ann
+    - Tommy
+    - Hannah
