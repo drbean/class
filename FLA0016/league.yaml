@@ -49,11 +49,6 @@ member:
     name: Michelle
     password: jia
     rating: ~
-  - Chinese: 黃文青
-    id: V9741002
-    name: Miranda
-    password: wen
-    rating: 23
   - Chinese: 羅曼
     id: V9741065
     name: Frances
@@ -119,11 +114,6 @@ member:
     name: Shaq
     password: ming
     rating: 62
-  - Chinese: 彭明俊
-    id: V9841016
-    name: Mike
-    password: ming
-    rating: ~
   - Chinese: 李澤爵
     id: V9841017
     name: Jeffrey
@@ -229,11 +219,6 @@ member:
     name: Lace
     password: jia
     rating: 52
-  - Chinese: 柯佩君
-    id: V9841047
-    name: Annie
-    password: pei
-    rating: 53
   - Chinese: 徐亦嫺
     id: V9841048
     name: Cathy
@@ -289,7 +274,22 @@ member:
     name: Sue
     password: wen
     rating: 67
+  - Chinese: 彭明俊
+    id: V9841016
+    name: Mike
+    password: ming
+    rating: ~
 out:
+  - Chinese: 柯佩君
+    id: V9841047
+    name: Annie
+    password: pei
+    rating: 53
+  - Chinese: 黃文青
+    id: V9741002
+    name: Miranda
+    password: wen
+    rating: 23
   - Chinese: 黃偉鳴
     id: V9841018
     name: 黃偉鳴
