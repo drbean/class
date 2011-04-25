@@ -5,76 +5,76 @@ Chinese:
   Blue: 0
   Brown: 0
   Gray: 0
+  Green: 0
   Orange: 0
   Pink: 0
   Purple: 0
-  Red: 0
   White: 0
-  Yellow: 0
+  WhiteWhite: 0
 letters:
   Black:
-    T9831030: 5
-    U9831021: 5
-    U9831102: 5
-    U9831109: 5
-    story: vacations6
+    U9834036: 4
+    U9834040: 5
+    U9834038: 4
+    U9834032: 4
+    story: water4
   BlackBlack:
-    U9831119: 2
-    U9831116: 2
-    U9831106: 2
-    U9831044: 2
-    story: vacations7
+    U9834001: 3
+    U9834019: 4
+    U9834026: 4
+    U9834051: 4
+    story: water3
   Blue:
-    U9831128: 2
-    U9831002: 2
-    U9831130: 2
-    U9831140: 2
-    story: vacations7
+    U9834039: 4
+    U9834017: 4
+    U9834005: 4
+    U9834007: 4
+    story: water2
   Brown:
-    U9831144: 3
-    U9831018: 3
-    U9831012: 3
-    U9831035: 3
-    story: vacations7
+    U9834033: 5
+    U9834042: 5
+    U9834031: 4
+    U9834010: 5
+    story: water4
   Gray:
-    U9831006: 3
-    U9831132: 3
-    U9831024: 3
-    U9831007: 3
-    story: vacations8
+    U9834016: 5
+    U9834041: 5
+    U9834037: 5
+    U9834006: 5
+    story: water2
+  Green:
+    U9834011: 5
+    U9834027: 5
+    U9834047: 5
+    U9834015: 5
+    story: water1
   Orange:
-    U9831127: 4
-    U9831124: 4
-    U9831040: 4
-    U9831114: 4
-    story: vacations9
+    U9834002: 4
+    U9834014: 4
+    U9834050: 4
+    U9834034: 4
+    story: water2
   Pink:
-    U9831005: 5
-    U9831135: 5
-    U9831046: 5
-    U9831028: 5
-    story: vacations8
+    U9834024: 4
+    U9834004: 4
+    U9834020: 4
+    U9834029: 4
+    story: water3
   Purple:
-    U9831147: 4
-    U9831112: 4
-    T9831015: 4
-    U9831138: 4
-    story: vacations9
-  Red:
-    U9831049: 3
-    U9831043: 3
-    U9742047: 3
-    U9831039: 3
-    story: vacations8
+    U9834057: 5
+    U9634018: 4
+    U9834046: 4
+    U9833004: 4
+    story: water3
   White:
-    T9831003: 4
-    U9831110: 4
-    U9831016: 4
-    T9831018: 4
-    story: vacations6
-  Yellow:
-    T9831023: 3
-    U9831122: 2
-    U9831143: 2
-    U9831131: 2
-    story: vacations9
+    U9834021: 5
+    U9834012: 5
+    U9834013: 5
+    U9834009: 5
+    story: water1
+  WhiteWhite:
+    U9834025: 4
+    U9834028: 4
+    U9834049: 4
+    U9834052: 4
+    story: water2
