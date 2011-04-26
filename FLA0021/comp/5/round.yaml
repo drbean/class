@@ -1,107 +1,116 @@
 ---
-round: 5
-week: 5
-absent:
-text: 
 activity:
-  trinka:
+  biomom:
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+  biodad:
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+  emersonj:
     0:
-      -
-         White: N9661727
-         Black: N9661706
-      -
-         White: N9661738
-         Black: N9661761
-      -
-         White: V9741043
-         Black: V9741057
-      -
-         White: V9741047
-         Black: V9741064
-      -
-         White: N9661746
-         Black: U9616041
-      -
-         White: V9741028
-         Black: V9741009
-      -
-         White: V9741037
-         Black: V9741010
-      -
-         White: N9661717
-         Black: N9561721
-      -
-         White: V9741034
-         Black: V9741025
-      -
-         White: N9661749
-         Black: V9741024
-      -
-         White: N9661743
-         Black: N9661758
-      -
-         White: N9661705
-         Black: V9741055
-      -
-         White: V9741036
-         Black: V9741015
-      -
-         White: V9741030
-         Black: V9741016
-      -
-         White: V9741029
-         Black: V9741014
-      -
-         White: 9622299
-         Black: N9661713
-      -
-         White: N9661747
-         Black: V9731059
-      -
-         White: V9741044
-         Black: V9741060
-      -
-         White: N9661737
-         Black: V9724004
-      -
-         White: V9741066
-         Black: V9741018
-      -
-         White: N9661725
-         Black: N9661702
-      -
-         White: N9661740
-         Black: N9661748
-      -
-         White: N9661741
-         Black: N9661753
-      -
-         White: V9741042
-         Black: V9741053
-      -
-         White: N9661731
-         Black: N9461738
-      -
-         White: U9533039
-         Black: N9561762
-      -
-         White: N9561765
-         Black: V9741049
-      -
-         White: V9741041
-         Black: V9741048
-      -
-         White: V9741038
-         Black: V9741061
-      -
-         White: N9661724
-         Black: N9561751
-      -
-         White: V9741040
-         Black: V9741059
-      -
-         White: N9661728
-         Black: N9561732
-      -
-         White: V9741032
-         Black: V9741023
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+group:
+  0:
+    White: V9741061
+    Black: V9741043
+  1:
+    White: V9741048
+    Black: V9741065
+  2:
+    White: V9741014
+    Black: V9741060
+  3:
+    White: V9741032
+    Black: V9741037
+  4:
+    White: V9741049
+    Black: V9741047
+  5:
+    White: V9741042
+    Black: V9741028
+  6:
+    White: V9741055
+    Black: V9741025
+  7:
+    White: V9741024
+    Black: V9741064
+  8:
+    White: V9741053
+    Black: V9741041
+  9:
+    White: V9724004
+    Black: V9741023
+  10:
+    White: V9741030
+    Black: V9741029
+  11:
+    White: V9741016
+    Black: V9741009
+  12:
+    White: V9741038
+    Black: V9741066
+  13:
+    White: V9731059
+    Black: V9741057
+  14:
+    White: V9741059
+    Black: V9741018
+  15:
+     White: V9741034
+     Black: V9741040
+  16:
+     White: V9741036
+     Black: V9741010
+late:
+  - ~
+round: 5
+text: ../../class/conversation/parents/cards.yaml
+week: 9
