@@ -81,6 +81,7 @@ member:
     name: SongWei
     password: song
     rating: ~
+out:
   - Chinese: 羅庭安
     name: "Ting'an"
     password: ting
@@ -91,7 +92,6 @@ member:
     name: Laura
     password: wei
     rating: 76
-out:
   - Chinese: 李伯富
     name: Puff
     password: bo
