@@ -1,51 +1,54 @@
 ---
 round: Exam 2
-week: 5
+week: 9
 questions:
   - 10
 pass: 6
 assistant:
-  - Jessica
-  - Frank
+  - Danial
 absent:
-  - David
-  - Jerry
-  - Alice
-  - Sam
-text: /home/drbean/class/conversation/PlayLife/cards.yaml
+text: /home/drbean/class/conversation/parents/cards.yaml
 activity:
-  connell:
-    2:
-      - Purple
-      - Black
-  roxborough:
-    2:
-      - Pink
+  biomom:
+    2e:
       - Gray
+      - Pink
+      - White
+  biodad:
+    3:
+      - Purple
+  emersonj:
+    1:
+      - Black
       - Green
 group:
   Black:
-    - Frank
-    - Jessica
-    - Kevin
-    - Ivory
+    - Jack
+    - Vicky
+    - Amber
+    - Jason1
   Gray:
-    - Jessica
-    - Kenny
-    - Emma
-    - Lily
+    - Julia
+    - Colin
+    - Gina1
+    - Lin
   Green:
-    - Kiki
-    - Jessica
-    - Frank
-    - Mark
+    - Ruru
+    - Finna
+    - Edwin
+    - Wesley
   Pink:
-    - Emily
-    - Kerwin
+    - Danial
+    - Janet
     - Kate
-    - Amy
+    - Butler
   Purple:
-    - Ken
-    - Eva
-    - Sarah
-    - Ryan
+    - Jeff
+    - Shirley
+    - Howard
+    - Sui
+  White:
+    - Liu
+    - Danial
+    - Jerry
+    - Vivi
