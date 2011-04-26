@@ -214,11 +214,6 @@ member:
     name: Eva
     password: yi
     rating: 34
-  - Chinese: 胡佳玟
-    id: V9841046
-    name: Lace
-    password: jia
-    rating: 52
   - Chinese: 徐亦嫺
     id: V9841048
     name: Cathy
@@ -280,6 +275,11 @@ member:
     password: ming
     rating: ~
 out:
+  - Chinese: 胡佳玟
+    id: V9841046
+    name: Lace
+    password: jia
+    rating: 52
   - Chinese: 柯佩君
     id: V9841047
     name: Annie
