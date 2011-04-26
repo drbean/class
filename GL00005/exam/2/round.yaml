@@ -1,51 +1,49 @@
 ---
 round: Exam 2
-week: 5
+week: 9
 questions:
-  - 10
+  - 9
 pass: 6
 assistant:
-  - Jessica
-  - Frank
+  - SongWei
+  - Simon
 absent:
-  - David
-  - Jerry
-  - Alice
-  - Sam
-text: /home/drbean/class/conversation/PlayLife/cards.yaml
+text: /home/drbean/class/conversation/parents/cards.yaml
 activity:
-  connell:
-    2:
-      - Purple
-      - Black
-  roxborough:
-    2:
+  biomom:
+    2e:
       - Pink
+  biodad:
+    3:
+      - Black
       - Gray
-      - Green
+  emersonj:
+    1:
+      - Judy
+      - White
 group:
   Black:
-    - Frank
-    - Jessica
-    - Kevin
-    - Ivory
+    - Frances
+    - Simon
+    - SongWei
+    - KuanChia
   Gray:
-    - Jessica
-    - Kenny
-    - Emma
-    - Lily
-  Green:
-    - Kiki
-    - Jessica
-    - Frank
-    - Mark
-  Pink:
-    - Emily
-    - Kerwin
-    - Kate
+    - Dai-shian
     - Amy
-  Purple:
-    - Ken
-    - Eva
-    - Sarah
-    - Ryan
+    - DrLee
+    - Simon
+  Pink:
+    - SongWei
+    - YuiSung
+    - Li
+    - YiPei
+  White:
+    - Chung-Po
+    - SongWei
+    - Frances
+    - YiKuan
+  Judy:
+    - Judy
+    - Frances
+    - Laura
+    - Ting'an
