@@ -39,11 +39,6 @@ member:
     name: Melissa
     password: yu
     rating: 89
-  - Chinese: 甘慧婷
-    id: V9741015
-    name: Justin
-    password: hui
-    rating: 75
   - Chinese: 林沛均
     id: V9741016
     name: Anita
@@ -190,6 +185,11 @@ member:
     password: zhi
     rating: 76
 out:
+  - Chinese: 甘慧婷
+    id: V9741015
+    name: Justin
+    password: hui
+    rating: 75
   - Chinese: 張嘉宸
     id: U9616041
     name: Vera
