@@ -55,9 +55,9 @@ group:
   12:
     White: T9831047
     Black: U9742052
-forfeit:
-  - U9718022
-  - U9811149
+#forfeit:
+#  - U9718022
+#  - U9811149
 late:
   - ~
 round: 3
