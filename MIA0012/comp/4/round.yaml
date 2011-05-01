@@ -1,55 +1,111 @@
 ---
-round: 4
-week: 5
-absent:
-transfer:
-  - U9833003
-text: 
 activity:
-  point:
-    1:
-      - Black: U9833002
-        White: U9833020
-      - Black: U9833038
-        White: U9833044
-      - Black: T9833046
-        White: U9833034
-      - Black: T9833050
-        White: U9833040
-      - Black: U9833041
-        White: U9833014
-      - Black: U9833043
-        White: U9833005
-      - Black: T9833004
-        White: U9833047
-      - Black: T9833013
-        White: U9833026
-      - Black: T9833030
-        White: U9833023
-      - Black: T9833043
-        White: T9833006
-      - Black: U9833001
-        White: T9833037
-      - Black: T9833027
-        White: U9833015
-      - Black: T9833009
-        White: U9833024
-      - Black: U9833007
-        White: U9833009
-      - Black: T9833025
-        White: U9833050
-      - Black: U9833011
-        White: T9833045
-      - Black: U9833039
-        White: U9831107
-      - Black: T9833039
-        White: U9833048
-      - Black: U9833030
-        White: T9833028
-      - Black: U9833052
-        White: T9833035
-      - Black: U9833022
-        White: U9733013
-bye: U9833031
+  sale:
+    shoes:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+# bye: U9733013
+group:
+  0:
+    White: U9833034
+    Black: T9833004
+  1:
+    White: U9833044
+    Black: U9833003
+  2:
+    White: U9833048
+    Black: U9833050
+  3:
+    White: T9833030
+    Black: T9833037
+  4:
+    White: U9833009
+    Black: T9833050
+  5:
+    White: U9833025
+    Black: U9833038
+  6:
+    White: U9833031
+    Black: T9833039
+  7:
+    White: U9831107
+    Black: T9833045
+  8:
+    White: U9833015
+    Black: U9833023
+  9:
+    White: T9833035
+    Black: U9833014
+  10:
+    White: U9833020
+    Black: T9833006
+  11:
+    White: U9833011
+    Black: U9833041
+  12:
+    White: T9833028
+    Black: T9833027
+  13:
+    White: U9833026
+    Black: T9833043
+  14:
+    White: U9833007
+    Black: U9833040
+  15:
+    White: U9833039
+    Black: U9833005
+  16:
+    White: U9833052
+    Black: U9833022
+  17:
+    White: T9833025
+    Black: U9833001
+  18:
+    White: U9833024
+    Black: T9833009
+  19:
+    White: T9833046
+    Black: U9833035
+  20:
+    White: U9833030
+    Black: U9833047
+  21:
+    White: U9833019
+    Black: U9833049
+  22:
+     White: U9733013
+     Black: U9833045
+  23:
+     White: T9833013
+     Black: U9833043
+late:
+  - U9833043
+  - T9833013
+  - U9833045
 forfeit:
-  - U9833024
+  - U9833052
+round: 4
+text: ../../class/business/marketing/cards.yaml
+week: 8
