@@ -132,8 +132,9 @@ group:
   20:
     White: U9742047
     Black: U9831108
+bye: U9831122
 late:
-  - ~
+  - U9831122
 round: 1
 text: ../../class/business/stress/cards.yaml
 week: 5
