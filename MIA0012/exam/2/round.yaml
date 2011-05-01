@@ -3,95 +3,93 @@ round: Exam 2
 week: 9
 questions:
   - 5
-pass: 2
+pass: 3
 assistant:
-  - Bernie
-  - MeiQing
-  - Victor
+  - XiaoXian
 absent:
-text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
+text: /home/drbean/class/business/marketing/cards.yaml
 activity:
-  vacations:
-    6:
+  water:
+    1:
       - Black
-      - Green
-      - Orange
-      - Red
-    7:
       - BlackBlack
-      - Gray
-      - Purple
-    8:
-      - Blue
-      - Brown
-      - WhiteWhite
-    9:
       - Pink
-      - White
+    2:
+      - Brown
+      - Green
+      - Purple
       - Yellow
+    3:
+      - Blue
+      - Red
+      - WhiteWhite
+    4:
+      - Gray
+      - Orange
+      - White
 group:
   Black:
-    - Chung
-    - XiaoXian
-    - Wade
-    - Hanna
-  BlackBlack:
-    - MingHan
-    - David
-    - Yi-ting
-    - HuiLin
-  Blue:
-    - XiaoQi
-    - Victor
-    - Bernie
-    - Peter
-  Brown:
-    - HanPing
-    - Raffaele
-    - Yu-Ying
-    - ChuJun
-  Gray:
-    - Ray
-    - XiaoRou
-    - YaTing
-    - Ya-syuan
-  Green:
-    - Flora
-    - MeiQing
-    - YuXun
-    - GuanYin
-  Orange:
-    - YaYun
-    - Yan
-    - Kou-wei
-    - Jie-Yu
-  Pink:
-    - Jane
-    - Ying-Hsuan
-    - Alexis
-    - Entian
-  Purple:
-    - Han-Yu
-    - XiaoWei
-    - YuJie
-    - Tim
-  Red:
-    - WenXiao
+    - Jeter
+    - JiaXiang
     - PingJie
+    - YaTing
+  BlackBlack:
+    - HanPing
+    - XiaoXian
+    - GuanYin
+    - Nate
+  Blue:
+    - Sam
+    - XiaoQi
+    - Ya-syuan
+    - Victor
+  Brown:
+    - MingHan
     - Chase
+    - Ying-Hsuan
+    - XiaoRou
+  Gray:
+    - Ching
+    - Flora
+    - Raffaele
+    - Han-Yu
+  Green:
+    - Ray
+    - Yu-Ying
     - Zong-Hua
-  White:
+    - YuXin
+  Orange:
+    - Wade
+    - Yi-ting
+    - Peter
+    - HuiLin
+  Pink:
     - Friday
     - Si-Yu
-    - JiaXiang
+    - XiaoWei
+    - Entian
+  Purple:
+    - WenXiao
+    - Hanna
     - MeiQing
-  WhiteWhite:
-    - Victor
-    - YuXin
-    - Nate
-    - Ching
-  Yellow:
-    - ChenHan
-    - LiLing
-    - Sam
+    - Tim
+  Red:
+    - David
+    - Yan
     - Bernie
+    - YuJie
+  White:
+    - Jane
+    - YaYun
+    - YuXun
+    - ChenHan
+  WhiteWhite:
+    - ChuJun
+    - Chung
+    - Kou-wei
+    - LiLing
+  Yellow:
+    - Shuai
+    - Jie-Yu
+    - Alexis
+    - XiaoXian
