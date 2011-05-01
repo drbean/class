@@ -1,64 +1,65 @@
 ---
 Black:
-  - ChenHan
-  - MeiQing
-  - XiaoXian
-  - Victor
+  - Shuai
+  - Kou-wei
+  - HuiLin
+  - Si-Yu
 BlackBlack:
   - MingHan
-  - Wade
-  - Peter
-  - YuXin
-Blue:
-  - Friday
-  - LiLing
-  - PingJie
-  - XiaoRou
-Brown:
-  - Hanna
-  - Jane
-  - Ying-Hsuan
-  - HuiLin
-Gray:
-  - YaYun
-  - Chase
-  - Yi-ting
-  - Alexis
-Green:
-  - Yan
-  - Ray
-  - Entian
-  - YuXun
-Orange:
-  - HanPing
-  - Yu-Ying
-  - Nate
-  - Han-Yu
-Pink:
-  - JiaXiang
-  - XiaoQi
-  - Kou-wei
   - Bernie
-Purple:
-  - ChuJun
-  - David
-  - GuanYin
-  - Tim
-Red:
-  - Sam
-  - Chung
   - Ya-syuan
-  - Zong-Hua
-White:
-  - Flora
-  - WenXiao
-  - XiaoWei
-  - Si-Yu
-WhiteWhite:
-  - Ching
-  - Jie-Yu
+  - LiLing
+Blue:
   - YaTing
+  - XiaoXian
+  - JiaXiang
+  - Entian
+Brown:
+  - Ray
+  - David
+  - YuXin
+  - Ying-Hsuan
+Gray:
+  - Wade
+  - Sam
+  - Alexis
+  - Yu-Ying
+Green:
+  - PingJie
+  - GuanYin
+  - ChenHan
+  - XiaoRou
+Orange:
+  - Yan
+  - Jie-Yu
+  - YuJie
+  - MeiQing
+Pink:
+  - Hanna
+  - YuXun
+  - Chung
+  - Zong-Hua
+Purple:
+  - Flora
+  - Jane
+  - XiaoWei
+  - Yi-ting
+Red:
+  - HanPing
+  - Peter
+  - Victor
+  - YaYun
+White:
+  - Raffaele
+  - WenXiao
+  - XiaoQi
+  - Nate
+WhiteWhite:
+  - ChuJun
+  - Ching
+  - Friday
+  - Chase
 Yellow:
   - Jeter
-  - Raffaele
-  - YuJie
+  - Han-Yu
+  - Tim
