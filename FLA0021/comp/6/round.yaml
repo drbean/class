@@ -1,87 +1,74 @@
 ---
-round: 6
-week: 6
-absent:
-text: 
 activity:
-  bet:
+  undertaker:
     0:
-      -
-         White: N9661741
-         Black: V9741014
-      -
-         White: V9741055
-         Black: N9661740
-      -
-         White: N9661748
-         Black: N9661761
-      -
-         White: V9724004
-         Black: V9741041
-      -
-         White: V9741057
-         Black: V9741049
-      -
-         White: V9741032
-         Black: N9661753
-      -
-         White: N9661758
-         Black: V9741040
-      -
-         White: V9741059
-         Black: V9741048
-      -
-         White: N9561765
-         Black: V9741025
-      -
-         White: V9741018
-         Black: V9741066
-      -
-         White: V9741047
-         Black: V9741064
-      -
-         White: V9741038
-         Black: N9561762
-      -
-         White: N9661713
-         Black: N9461738
-      -
-         White: U9616041
-         Black: N9561721
-      -
-         White: V9741034
-         Black: N9661727
-      -
-         White: N9561732
-         Black: N9661747
-      -
-         White: N9661724
-         Black: V9741043
-      -
-         White: N9661717
-         Black: N9661705
-      -
-         White: N9661706
-         Black: N9661702
-      -
-         White: V9741010
-         Black: N9661743
-      -
-         White: N9661738
-         Black: V9741016
-      -
-         White: V9741015
-         Black: V9741042
-      -
-         White: N9661725
-         Black: N9661737
-      -
-         White: U9533039
-         Black: V9741053
-      -
-         White: V9741024
-         Black: V9741037
-      -
-         White: V9741023
-         Black: N9661728
-bye: V9741009
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+group:
+  0:
+    White: V9741048
+    Black: V9741043
+  1:
+    White: V9741032
+    Black: V9741061
+  2:
+    White: V9741047
+    Black: V9741065
+  3:
+    White: V9741028
+    Black: V9741014
+  4:
+    White: V9741037
+    Black: V9741024
+  5:
+    White: V9741040
+    Black: V9741049
+  6:
+    White: V9741041
+    Black: V9741055
+  7:
+    White: V9741010
+    Black: V9741029
+  8:
+    White: V9741064
+    Black: V9741034
+  9:
+    White: V9741023
+    Black: V9741053
+  10:
+    White: V9724004
+    Black: V9741042
+  11:
+    White: V9741009
+    Black: V9741036
+  12:
+    White: V9741057
+    Black: V9741030
+  13:
+    White: V9741018
+    Black: V9741038
+  14:
+    White: V9741066
+    Black: V9741016
+  15:
+    White: V9741059
+    Black: V9731059
+late:
+  - ~
+round: 6
+text: ../../class/conversation/dying/cards.yaml
+week: 10
