@@ -1,30 +1,35 @@
 ---
-round: 7
-week: 7
-absent:
-text:
 activity:
-  xmas:
-    2:
-      -
-         White: U9633052
-         Black: U9821142
-      -
-         White: T9822149
-         Black: U9822019
-      -
-         White: U9822004
-         Black: N9561766
-      -
-         White: N9661723
-         Black: 9622212
-      -
-         White: 9622240
-         Black: U9722022
-      -
-         White: T9822129
-         Black: U9622089
-      -
-         White: N9661747
-         Black: N9561765
-bye: U9633019
+  oakland:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+bye: U9711025
+group:
+  0:
+    White: U9823011
+    Black: U9831049
+  1:
+    White: U9715014
+    Black: U9922235
+  2:
+    White: U9711052
+    Black: V9741065
+  3:
+    White: U9931143
+    Black: U9813024
+  4:
+    White: T9811035
+    Black: T9831040
+  5:
+    White: U9916029
+    Black: U9623038
+late:
+  - ~
+round: 7
+text: ~
+week: ~
