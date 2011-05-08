@@ -1,77 +1,59 @@
 ---
 cutpoints:
   one: 50
-  two: 170
-exercise: lerman
+  two: 200
+exercise: oakland
 grade:
-  9622212: 2
-  9622240: 2
-  N9561765: 2
-  N9561766: 1
-  N9661723: 2
-  N9661747: 2
-  T9822129: 0
-  T9822149: 0
-  U9615010: 0
-  U9633019: 0
-  U9633052: 2
-  U9722022: 2
-  U9818007: 0
-  U9818046: 0
-  U9821142: 2
-  U9822004: 2
-  U9822019: 2
+  T9811035: 2
+  T9831040: 1
+  U9623038: 2
+  U9711025: 2
+  U9711052: 2
+  U9715014: 2
+  U9723056: 2
+  U9813024: 2
+  U9823011: 2
+  U9831049: 2
+  U9922235: 2
+  U9931143: 2
+  V9741065: 2
 points:
-  9622212:
-    letters: 218
-    questions: 0
-  9622240:
-    letters: 228
-    questions: 0
-  N9561765:
-    # letters: 204 # /var/www/cgi-bin/dic/db/991qn
-    # letters: 228 # ~/dic/db/991qn
-    letters: 228
+  T9811035:
+    letters: 19
     questions: 1
-  N9561766:
-    letters: 161
+  T9831040:
+    letters: 138
     questions: 0
-  N9661723:
-    letters: 199
-    questions: 1
-  N9661747:
-    letters: 216
-    questions: 0
-  T9822129:
-    letters: 0
-    questions: 0
-  T9822149:
-    letters: 0
-    questions: 0
-  U9615010:
-    letters: 0
-    questions: 0
-  U9633019:
-    letters: 0
-    questions: 0
-  U9633052:
-    letters: 218
-    questions: 1
-  U9722022:
-    letters: 199
-    questions: 0
-  U9818007:
-    letters: 0
-    questions: 0
-  U9818046:
-    letters: 0
-    questions: 0
-  U9821142:
-    letters: 228
-    questions: 1
-  U9822004:
+  U9623038:
     letters: 0
     questions: 1
-  U9822019:
-    letters: 199
+  U9711025:
+    letters: 227
+    questions: 0
+  U9711052:
+    letters: 240
+    questions: 0
+  U9715014:
+    letters: 205
+    questions: 0
+  U9723056:
+    letters: 224
+    questions: 0
+  U9813024:
+    letters: 240
+    questions: 0
+  U9823011:
+    letters: 0
+    questions: 1
+  U9831049:
+    letters: 254
+    questions: 0
+  U9922235:
+    letters: 224
+    questions: 0
+  U9931143:
+    letters: 240
+    questions: 0
+  V9741065:
+    letters: 208
     questions: 0
