@@ -1,72 +1,99 @@
 ---
 cutpoints:
   one: 50
-  two: 180
-exercise: cronig
+  two: 150
+exercise: undertaker
 grade:
-  U9615010: 0
-  9622212: 2
-  9622240: 2
-  N9561765: 0
-  N9561766: 0
-  N9661723: 2
-  N9661747: 2
-  T9822129: 0
-  T9822149: 0
-  U9633019: 2
-  U9633052: 2
-  U9722022: 2
-  U9818007: 0
-  U9818046: 0
-  U9821142: 2
-  U9822004: 0
-  U9822019: 2
+  9616201: 2
+  T9811101: 2
+  T9811142: 2
+  T9813003: 0
+  T9813004: 2
+  T9813009: 0
+  T9813014: 2
+  T9821014: 2
+  T9821033: 2
+  T9821043: 2
+  T9831047: 2
+  U9621094: 2
+  U9718016: 2
+  U9718022: 0
+  U9718033: 2
+  U9718036: 2
+  U9718042: 2
+  U9742052: 2
+  U9811010: 0
+  U9811127: 0
+  U9822002: 0
+  U9843004: 2
+  U9843023: 2
 points:
-  9622212:
-    letters: 188
+  9616201:
+    letters: 180
     questions: 0
-  9622240:
-    letters: 225
+  T9811101:
+    letters: 173
     questions: 0
-  N9561765:
-    letters: ~
-    questions: 0
-  N9561766:
-    letters: ~
-    questions: 0
-  N9661723:
-    letters: 216
+  T9811142:
+    letters: 0
     questions: 1
-  N9661747:
-    letters: 225
+  T9813003:
+    letters: 0
     questions: 0
-  T9822129:
-    letters: ~
+  T9813004:
+    letters: 180
     questions: 0
-  T9822149:
-    letters: ~
+  T9813009:
+    letters: 0
     questions: 0
-  U9633019:
-    letters: 225
+  T9813014:
+    letters: 180
     questions: 0
-  U9633052:
-    letters: 216
-    questions: 1
-  U9722022:
+  T9821014:
     letters: 189
     questions: 0
-  U9818007:
-    letters: ~
+  T9821033:
+    letters: 204
     questions: 0
-  U9818046:
-    letters: ~
+  T9821043:
+    letters: 189
     questions: 0
-  U9821142:
-    letters: 205
+  T9831047:
+    letters: 173
     questions: 1
-  U9822004:
-    letters: ~
+  U9621094:
+    letters: 178
+    questions: 1
+  U9718016:
+    letters: 0
+    questions: 1
+  U9718022:
+    letters: 0
     questions: 0
-  U9822019:
-    letters: 205
+  U9718033:
+    letters: 173
+    questions: 0
+  U9718036:
+    letters: 0
+    questions: 1
+  U9718042:
+    letters: 0
+    questions: 1
+  U9742052:
+    letters: 173
+    questions: 1
+  U9811010:
+    letters: 0
+    questions: 0
+  U9811127:
+    letters: 0
+    questions: 0
+  U9822002:
+    letters: 0
+    questions: 0
+  U9843004:
+    letters: 0
+    questions: 1
+  U9843023:
+    letters: 0
     questions: 1
