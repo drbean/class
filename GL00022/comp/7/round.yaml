@@ -1,30 +1,56 @@
 ---
-round: 7
-week: 7
-absent:
-text:
 activity:
-  xmas:
-    2:
-      -
-         White: U9633052
-         Black: U9821142
-      -
-         White: T9822149
-         Black: U9822019
-      -
-         White: U9822004
-         Black: N9561766
-      -
-         White: N9661723
-         Black: 9622212
-      -
-         White: 9622240
-         Black: U9722022
-      -
-         White: T9822129
-         Black: U9622089
-      -
-         White: N9661747
-         Black: N9561765
-bye: U9633019
+  oakland:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 21
+group:
+  0:
+    White: T9821043
+    Black: T9821014
+  1:
+    White: U9718033
+    Black: U9843023
+  2:
+    White: U9718016
+    Black: T9813003
+  3:
+    White: T9811142
+    Black: U9718036
+  4:
+    White: T9813004
+    Black: T9813009
+  5:
+    White: T9811101
+    Black: U9811144
+  6:
+    White: T9821036
+    Black: T9821033
+  7:
+    White: U9811142
+    Black: U9843004
+  8:
+    White: U9811149
+    Black: U9742052
+  9:
+    White: U9811127
+    Black: T9831047
+  21:
+    White: U9822002
+    Black: U9743024
+  
+late:
+  - U9822002
+  - U9743024
+round: 7
+text: ../../class/conversation/dying/cards.yaml
+week: 11
