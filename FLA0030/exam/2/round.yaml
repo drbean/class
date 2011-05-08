@@ -6,78 +6,53 @@ questions:
 pass: 6
 assistant:
 absent:
+  - Lu-Ping
 text: /home/drbean/class/friends/7/cards.yaml
 activity:
+  1:
+    1:
+      - Blue
+      - Gray
+      - Purple
   1-8:
     2:
       - Black
-      - Gray
-      - Orange
-  1:
-    1:
-      - DarkGreen
-      - LightGreen
-      - Purple
-      - White
-  24:
-    1:
-      - Brown
-      - LightBlue
+      - Green
       - Pink
-      - Red
+      - White
 group:
   Black:
-    - Rita
-    - Mary
-    - Irin
-    - Ting
-  Brown:
-    - Crystal
-    - Cloudy
-    - Steven
-    - Ashley
-  DarkGreen:
-    - Frank
-    - Jean
-    - Allen2
-    - Emily
+    - Donna
+    - Ivy
+    - Eva
+    - Molly
+  Blue:
+    - Edison
+    - Anita
+    - Amy
+    - Maggie
   Gray:
-    - Riva
-    - Yuwen
-    - Eleven
-    - Akigo
-  LightBlue:
-    - Mico
-    - Lucy
-    - Ken
+    - Linda
+    - Hank
+    - Abby
+    - Candy
+  Green:
+    - Bruce
+    - Stella
     - Jessica
-  LightGreen:
-    - Lucas
-    - Kiki
-    - Sunny
-    - Cloud
-  Orange:
-    - Michelle
-    - Ivy2
-    - Rock
-    - Ford
+    - Nina
   Pink:
-    - Jo
-    - Eunice
-    - Monica
-    - Vivian
+    - Nancy
+    - Kumiko
+    - Elly
+    - Emily2
   Purple:
-    - Allen1
-    - Sandy
-    - Rogers
-    - Fred
-  Red:
-    - Anne
-    - Moto
-    - Clare
-    - Iris
+    - Carol
+    - Andy
+    - Abby
+    - Sophie
   White:
-    - Amberly
-    - Ting'an
-    - Tiffany
-    - Daisy
+    - Emily2
+    - Joe
+    - Abby
+    - Emily1
