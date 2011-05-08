@@ -13,11 +13,6 @@ id: GL00022
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
-  - Chinese: 邱之杏
-    name: Iris
-    password: zhi
-    id: U9999006
-    rating: ~
   - Chinese: 陳昱如
     id: U9718042
     name: Finna
@@ -27,16 +22,6 @@ member:
     name: Amber
     password: jia
     id: T9831047
-    rating: ~
-  - Chinese: 吳瑞釩
-    name: Victor
-    password: rui
-    id: T9813010
-    rating: ~
-  - Chinese: 吳晉宇
-    name: JinYi
-    password: jin
-    id: T9821036
     rating: ~
   - Chinese: 張雅?
     name: Janet
@@ -58,11 +43,6 @@ member:
     name: Butler
     password: jie
     rating: ~
-  - Chinese: 廖芳媛
-    id: U9692038
-    name: Amily
-    password: fang
-    rating: ~
   - Chinese: 蘇仲富
     name: Edwin
     password: zhung
@@ -82,11 +62,6 @@ member:
     name: Danial
     password: song
     id: U9822002
-    rating: ~
-  - Chinese: 楊仁專
-    name: Scott
-    password: ren
-    id: U9811142
     rating: ~
   - Chinese: 杜孟哲
     name: Jeff
@@ -129,11 +104,6 @@ member:
     name: Liu
     password: yong
     rating: ~
-  - Chinese: 謝竺芸
-    id: U9692049
-    name: Chu
-    password: zhu
-    rating: ~
   - Chinese: 潘郁茹
     id: U9718033
     name: Kate
@@ -154,6 +124,22 @@ member:
     name: Colin
     password: qing
     rating: ~
+  - Chinese: 林鈺賀
+    id: T9811142
+    name: Lin
+    password: yu
+    rating: ~
+
+  - Chinese: 嚴虹渚
+    id: U9743024
+    name: Rita
+    password: hong
+    rating: ~
+  - Chinese: 姚申峰
+    id: T9811111
+    name: Richard
+    password: shen
+    rating: ~
   - Chinese: 江秉哲
     id: U9811144
     name: John
@@ -164,23 +150,38 @@ member:
     name: Terry1
     password: zhi
     rating: ~
-  - Chinese: 姚申峰
-    id: T9811111
-    name: Richard
-    password: shen
+  - Chinese: 楊仁專
+    name: Scott
+    password: ren
+    id: U9811142
     rating: ~
-  - Chinese: 林鈺賀
-    id: T9811142
-    name: Lin
-    password: yu
-    rating: ~
-  - Chinese: 嚴虹渚
-    id: U9743024
-    name: Rita
-    password: hong
+  - Chinese: 吳晉宇
+    name: JinYi
+    password: jin
+    id: T9821036
     rating: ~
 
 out:
+  - Chinese: 謝竺芸
+    id: U9692049
+    name: Chu
+    password: zhu
+    rating: ~
+  - Chinese: 廖芳媛
+    id: U9692038
+    name: Amily
+    password: fang
+    rating: ~
+  - Chinese: 吳瑞釩
+    name: Victor
+    password: rui
+    id: T9813010
+    rating: ~
+  - Chinese: 邱之杏
+    name: Iris
+    password: zhi
+    id: U9999006
+    rating: ~
   - Chinese: 黃政翰
     name: Peter
     password: zheng
