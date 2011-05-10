@@ -1,59 +1,87 @@
 ---
-round: 6
-week: 6
-absent:
-text: 
 activity:
-  breakstone:
-    1:
-      -
-         White: V9841009
-         Black: V9841027
-      -
-         White: V9841010
-         Black: V9841008
-      -
-         White: V9841028
-         Black: V9841024
-      -
-         White: V9841007
-         Black: V9841015
-      -
-         White: V9841050
-         Black: V9841006
-      -
-         White: V9841002
-         Black: V9841063
-      -
-         White: V9841011
-         Black: V9741065
-      -
-         White: V9841022
-         Black: V9841041
-      -
-         White: V9841058
-         Black: V9841029
-      -
-         White: V9841034
-         Black: V9841046
-      -
-         White: V9841033
-         Black: V9841036
-      -
-         White: V9841059
-         Black: V9999113
-      -
-         White: V9841051
-         Black: V9841064
-      -
-         White: V9841040
-         Black: V9841014
-      -
-         White: V9841026
-         Black: V9841005
-      -
-         White: V9841038
-         Black: V9841013
-      -
-         White: V9841017
-         Black: V9841067
+  oakland:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+group:
+  0:
+     White: V9841064
+     Black: V9741018
+  1:
+     White: V9841067
+     Black: U9693040
+  2:
+     White: V9841039
+     Black: V9841058
+  3:
+     White: V9841004
+     Black: V9841030
+  4:
+     White: V9841031
+     Black: V9841059
+  5:
+     White: U9693046
+     Black: V9841010
+  6:
+     White: V9841015
+     Black: V9741065
+  7:
+     White: V9841022
+     Black: U9693041
+  8:
+     White: V9841013
+     Black: V9841036
+  9:
+     White: V9841049
+     Black: V9841062
+  10:
+     White: V9841011
+     Black: V9841024
+  11:
+     White: V9841051
+     Black: V9841008
+  12:
+     White: V9841020
+     Black: V9841050
+  13:
+     White: V9841017
+     Black: V9841054
+  14:
+     White: V9841009
+     Black: V9841026
+  15:
+     White: V9841006
+     Black: V9841041
+  16:
+     White: V9841029
+     Black: V9841007
+  17:
+     White: V9841037
+     Black: V9841040
+  18:
+     White: V9841033
+     Black: V9841038
+bye: N9661752   
+late:
+forfeit:
+round: 6
+text: ../../class/conversation/dying/cards.yaml
+week: 11
