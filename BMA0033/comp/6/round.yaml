@@ -1,48 +1,71 @@
 ---
-round: 6
-week: 7
-absent:
-text: 
 activity:
-  'online/argos':
-    1:
-      - Black: U9831021
-        White: U9831138
-      - Black: U9831007
-        White: U9831012
-      - Black: U9831044
-        White: T9831015
-      - Black: U9742047
-        White: U9831131
-      - Black: U9831130
-        White: U9831112
-      - Black: U9831035
-        White: U9831024
-      - Black: U9831049
-        White: U9831116
-      - Black: U9831124
-        White: T9831018
-      - Black: U9831040
-        White: U9831109
-      - Black: U9831016
-        White: U9831143
-      - Black: U9831114
-        White: T9831003
-      - Black: U9831132
-        White: U9831046
-      - Black: U9831140
-        White: U9831110
-      - Black: U9831018
-        White: U9831043
-      - Black: U9831135
-        White: U9831028
-      - Black: U9831039
-        White: T9831023
-      - Black: U9831106
-        White: U9831127
-      - Black: U9831122
-        White: U9831147
-      - Black: U9831102
-        White: U9831144
-      - Black: U9831002
-        White: U9831005
+  kendall:
+    coventgreen:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+bye: U9831006
+group:
+  0:
+    White: U9831012
+    Black: U9831131
+  1:
+    White: U9831007
+    Black: U9831138
+  2:
+    White: U9831049
+    Black: U9831040
+  3:
+    White: U9831143
+    Black: U9831016
+  4:
+    White: T9831018
+    Black: U9831122
+  5:
+    White: U9831002
+    Black: T9831003
+  6:
+    White: U9831046
+    Black: U9831116
+  7:
+    White: U9831140
+    Black: U9831130
+  8:
+    White: U9831024
+    Black: U9831021
+  9:
+    White: U9831114
+    Black: U9831043
+  10:
+    White: U9831147
+    Black: U9831035
+  11:
+    White: U9831028
+    Black: U9831110
+  12:
+    White: T9831015
+    Black: T9831023
+  13:
+    White: U9831005
+    Black: U9831112
+  14:
+    White: U9831018
+    Black: U9742047
+late:
+  - ~
+round: 6
+text: ../../class/business/planning/cards.yaml
+week: 11
