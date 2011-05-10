@@ -1,84 +1,87 @@
 ---
-round: 4
-week: 6
-not folded:
-late:
-  - N9661747
-  - N9661715
-  - N9661701
-  - N9661702
-  - N9461748
-  - N9661723
-text: /home/drbean/class/friends/7/cards.yaml
 activity:
   10:
     1:
-      - N9461747
-      - N9461760
-      - N9561713
-      - N9561741
-      - N9561748
-      - N9561762
-      - N9561765
-      - N9661714
-      - N9661720
-      - N9661724
-      - N9661728
-      - N9661734
-      - N9661737
-      - N9661740
-      - N9661741
-      - N9661746
-      - N9661748
-pair:
-  N9461747:
-    Black: N9661709
-    White: N9461747
-  N9461760:
-    Black: N9561754
-    White: N9461760
-  N9561713:
-    Black: N9661719
-    White: N9561713
-  N9561741:
-    Black: N9561766
-    White: N9561741
-  N9561748:
-    Black: N9661722
-    White: N9561748
-  N9561762:
-    Black: N9661755
-    White: N9561762
-  N9561765:
-    Black: N9661753
-    White: N9561765
-  N9661714:
-    Black: N9461738
-    White: N9661714
-  N9661720:
-    Black: N9561758
-    White: N9661720
-  N9661724:
-    Black: N9661705
-    White: N9661724
-  N9661728:
-    Black: N9661745
-    White: N9661728
-  N9661734:
-    Black: N9661706
-    White: N9661734
-  N9661737:
-    Black: N9661757
-    White: N9661737
-  N9661740:
-    Black: N9661725
-    White: N9661740
-  N9661741:
-    Black: N9661717
-    White: N9661741
-  N9661746:
-    Black: N9661743
-    White: N9661746
-  N9661748:
-    Black: N9661742
-    White: N9661748
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+  1:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+  24:
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+group:
+  0:
+    White: V9741030
+    Black: V9741029
+  1:
+    White: V9741061
+    Black: V9741049
+  2:
+    White: N9361758
+    Black: 9622299
+  3:
+    White: V9724004
+    Black: V9741016
+  4:
+    White: V9741055
+    Black: V9741057
+  5:
+    White: V9741024
+    Black: V9741032
+  6:
+    White: V9741034
+    Black: V9741010
+  7:
+    White: N9561732
+    Black: V9741064
+  8:
+    White: V9741059
+    Black: V9741023
+  9:
+    White: V9741028
+    Black: V9741042
+  10:
+    White: N9661738
+    Black: V9741053
+  11:
+    White: V9741038
+    Black: V9741043
+bye: V9741066
+late:
+  - V9741066
+round: 4
+text: ../../class/friends/7/cards.yaml
+week: 9
