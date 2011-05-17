@@ -1,77 +1,63 @@
 ---
 cutpoints:
   one: 50
-  two: 170
-exercise: tyson
+  two: 220
+exercise: spirits
 grade:
-  9622212: 2
-  9622240: 2
-  N9561765: 2
-  N9561766: 2
-  N9661723: 2
-  N9661747: 2
-  T9822129: 0
-  T9822149: 0
-  U9615010: 0
-  U9633019: 0
-  U9633052: 2
-  U9722022: 2
-  U9818007: 0
-  U9818046: 0
-  U9821142: 2
-  U9822004: 2
-  U9822019: 2
+  T9811035: 0
+  T9831040: 2
+  U9623038: 2
+  U9711025: 2
+  U9711052: 1
+  U9715014: 2
+  U9723056: 2
+  U9813024: 0
+  U9823011: 2
+  U9831049: 2
+  U9916029: 0
+  U9922235: 0
+  U9931143: 2
+  V9741065: 0
 points:
-  9622212:
-    letters: 189
+  T9811035:
+    letters: 0
+    questions: 0
+  T9831040:
+    letters: 0
     questions: 1
-  9622240:
-    letters: 200
+  U9623038:
+    letters: 237
     questions: 0
-  N9561765:
-    letters: 287
+  U9711025:
+    letters: 0
     questions: 1
-  N9561766:
-    letters: 190
+  U9711052:
+    letters: 198
     questions: 0
-  N9661723:
-    # letters: 200 # /var/www/cgi-bin/dic/db/991qn
-    # letters: 227 # ~/dic/db/991qn
-    letters: 227
+  U9715014:
+    letters: 230
     questions: 0
-  N9661747:
-    letters: 222
+  U9723056:
+    letters: 253
     questions: 0
-  T9822129:
+  U9813024:
     letters: 0
     questions: 0
-  T9822149:
+  U9823011:
     letters: 0
-    questions: 0
-  U9615010:
-    letters: 0
-    questions: 0
-  U9633019:
-    letters: 0
-    questions: 0
-  U9633052:
-    letters: 200
     questions: 1
-  U9722022:
-    letters: 222
+  U9831049:
+    letters: 264
     questions: 0
-  U9818007:
+  U9916029:
     letters: 0
     questions: 0
-  U9818046:
+  U9922235:
     letters: 0
     questions: 0
-  U9821142:
-    letters: 190
-    questions: 0
-  U9822004:
-    letters: 190
+  U9931143:
+    letters: 0
     questions: 1
-  U9822019:
-    letters: 222
+  V9741065:
+    letters: 0
     questions: 0
