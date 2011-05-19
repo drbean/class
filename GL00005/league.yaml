@@ -81,6 +81,16 @@ member:
     name: SongWei
     password: song
     rating: ~
+  - Chinese: 梁康泓
+    name: Andrew
+    password: kang
+    id: U9916029
+    rating: ~
+  - Chinese: 李伯富
+    name: Puff
+    password: bo
+    id: U9942017
+    rating: ~
 out:
   - Chinese: 羅庭安
     name: "Ting'an"
@@ -92,11 +102,6 @@ out:
     name: Laura
     password: wei
     rating: 76
-  - Chinese: 李伯富
-    name: Puff
-    password: bo
-    id: U9942017
-    rating: ~
   - Chinese: 許建中
     name: Billy
     password: jian
@@ -111,11 +116,6 @@ out:
     id: 9611203
     name: Matthew
     password: jun
-    rating: ~
-  - Chinese: 梁康泓
-    name: Andrew
-    password: kang
-    id: U9916029
     rating: ~
   - Chinese: 何立維
     name: Eric
