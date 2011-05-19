@@ -1,103 +1,108 @@
 ---
-round: 8
-week: 9
-absent:
-bye: U9833030
-text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
 activity:
-  webnegotiation:
-    0:
-      - Black: U9833040
-        White: U9833020
-      - Black: T9833050
-        White: U9833038
-      - Black: T9833046
-        White: U9833022
-      - Black: T9833027
-        White: U9833047
-      - Black: T9833025
-        White: U9833007
-      - Black: U9833041
-        White: T9833037
-      - Black: T9833045
-        White: T9833013
-      - Black: U9833044
-        White: U9833005
-      - Black: T9833028
-        White: U9833011
-      - Black: T9833004
-        White: U9833014
-      - Black: U9833026
-        White: U9833025
-      - Black: T9833006
-        White: U9833002
-      - Black: T9833043
-        White: T9833009
-      - Black: U9833031
-        White: U9833001
-      - Black: U9833050
-        White: T9833030
-      - Black: U9833048
-        White: U9833039
-      - Black: U9833035
-        White: T9833039
-      - Black: U9833015
-        White: U9833049
-      - Black: U9833009
-        White: T9833035
-      - Black: U9831107
-        White: U9833019
-      - Black: T9833032
-        White: U9833045
-      - Black: U9833003
-        White: U9833024
-  vacations:
-    0:
-      - Black: U9833040
-        White: U9833020
-      - Black: T9833050
-        White: U9833038
-      - Black: T9833046
-        White: U9833022
-      - Black: T9833027
-        White: U9833047
-      - Black: T9833025
-        White: U9833007
-      - Black: U9833041
-        White: T9833037
-      - Black: T9833045
-        White: T9833013
-      - Black: U9833034
-        White: U9833043
-      - Black: U9833044
-        White: U9833005
-      - Black: T9833028
-        White: U9833011
-      - Black: T9833004
-        White: U9833014
-      - Black: U9833026
-        White: U9833025
-      - Black: T9833006
-        White: U9833002
-      - Black: T9833043
-        White: T9833009
-      - Black: U9833023
-        White: U9833052
-      - Black: U9833031
-        White: U9833001
-      - Black: U9833050
-        White: T9833030
-      - Black: U9833048
-        White: U9833039
-      - Black: U9833035
-        White: T9833039
-      - Black: U9833015
-        White: U9833049
-      - Black: U9833009
-        White: T9833035
-      - Black: U9831107
-        White: U9833019
-      - Black: T9833032
-        White: U9833045
-      - Black: U9833003
-        White: U9833024
+  kendall:
+    influences:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+bye: U9833049
+group:
+  0:
+    White: U9833034
+    Black: U9833023
+  1:
+    White: U9833020
+    Black: T9833030
+  2:
+    White: U9833022
+    Black: T9833037
+  3:
+    White: U9833015
+    Black: U9833044
+  4:
+    White: U9833025
+    Black: T9833028
+  5:
+    White: T9833035
+    Black: U9833003
+  6:
+    White: U9833001
+    Black: T9833050
+  7:
+    White: U9833026
+    Black: U9833041
+  8:
+    White: T9833009
+    Black: U9833038
+  9:
+    White: U9833011
+    Black: U9833048
+  10:
+    White: U9833007
+    Black: T9833039
+  11:
+    White: T9833045
+    Black: U9833005
+  12:
+    White: T9833004
+    Black: U9833024
+  13:
+    White: T9833046
+    Black: T9833027
+  14:
+    White: T9833006
+    Black: U9833039
+  15:
+    White: U9833043
+    Black: U9833009
+  16:
+    White: U9833040
+    Black: U9833045
+  17:
+    White: T9833025
+    Black: U9831107
+  18:
+    White: U9833014
+    Black: T9833032
+  19:
+    White: U9833050
+    Black: U9833035
+  20:
+    White: T9833043
+    Black: U9833019
+  21:
+    White: U9833031
+    Black: U9833047
+  22:
+    White: U9833030
+    Black: U9833052
+  23:
+    White: U9733013
+    Black: U9833002
+late:
+  - ~
+pairing: swiss
+round: 8
+text: ../../class/business/planning/cards.yaml
+week: 12
