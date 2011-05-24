@@ -1,56 +1,36 @@
 ---
 Black:
-  - Riva
-  - Mary
-  - Irin
-  - Ken
-Brown:
-  - Jo
-  - Jean
-  - Steven
-  - Daisy
-DarkGreen:
-  - Rita
-  - Yuwen
-  - Vivian
-  - Sunny
+  - Linda
+  - Molly
+  - Eva
+  - Bruce
+Blue:
+  - Edison
+  - Nancy
+  - Hank
+  - Andy
 Gray:
-  - Crystal
-  - Fred
-  - Rock
-  - Eleven
-LightBlue:
-  - Frank
-  - Ting'an
-  - Allen1
-  - Emily
-LightGreen:
-  - Lucas
-  - Lucy
-  - Ting
-  - Ashley
-Orange:
-  - Michelle
-  - Sandy
-  - Clare
-  - Iris
+  - Carol
+  - Emily2
+  - Nina
+  - Abby
+Green:
+  - Amy
+  - Ivy
+  - Sophie
+  - Kumiko
 Pink:
-  - Anne
-  - Moto
-  - Mico
-  - Jessica
+  - Candy
+  - Joe
+  - Emily1
+  - Anita
 Purple:
-  - Tiffany
-  - Ivy2
-  - Akigo
-  - Cloudy
-Red:
-  - Allen2
-  - Eunice
-  - Rogers
-  - Kiki
+  - Jessica
+  - Elly
+  - ~
+  - Stella
 White:
-  - Amberly
-  - Cloud
-  - Monica
-  - Ford
+  - Lu-Ping
+  - Maggie
+  - ~
+  - Donna
