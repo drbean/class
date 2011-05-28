@@ -1,80 +1,86 @@
 ---
 Chinese:
   Black: 0
-  BlackBlack: 0
   Blue: 0
   Brown: 0
   Gray: 0
+  Green: 0
   Orange: 0
   Pink: 0
   Purple: 0
   Red: 0
   White: 0
   Yellow: 0
+  YellowYellow: 0
 letters:
   Black:
-    U9831006: 2
-    U9742047: 2
-    U9831002: 1
-    U9831021: 1
-    story: fourswot0
-  BlackBlack:
-    U9831044: 2
-    U9831106: 2
-    U9831035: 2
-    U9831138: 2
-    story: fourswot1
+    T9831030: 9
+    U9831130: 9
+    U9831039: 8
+    U9831044: 8
+    story: story2
   Blue:
-    U9831128: 2
-    U9831049: 2
-    U9831040: 2
-    U9831044: 2
-    story: fourswot1
+    U9831108: 4
+    U9831016: 4
+    U9831147: 4
+    U9831049: 3
+    story: kendall2
   Brown:
-    U9831144: 3
-    U9831028: 3
-    U9831131: 3
-    U9831016: 3
-    story: fourswot1
+    U9831018: 10
+    U9831132: 10
+    U9831002: 10
+    U9831012: 7
+    story: nicholson0
   Gray:
-    T9831030: 1
-    U9831039: 1
-    U9831135: 1
-    U9831102: 1
-    story: fourswot2
+    U9831102: 8
+    U9831046: 7
+    U9831110: 8
+    U9831127: 8
+    story: nicholson0
+  Green:
+    U9831144: 8
+    U9831135: 7
+    T9831018: 9
+    U9831143: 8
+    story: kendall3
   Orange:
-    T9831023: 2
-    U9831140: 2
-    U9831124: 2
-    U9831007: 2
-    story: fourswot3
+    U9734040: 8
+    U9831112: 8
+    U9831114: 8
+    U9831024: 8
+    story: story3
   Pink:
-    U9831005: 1
-    U9831018: 1
-    U9831116: 1
-    T9831018: 1
-    story: fourswot2
+    U9831124: 9
+    T9831023: 9
+    U9831043: 9
+    U9831007: 9
+    story: story3
   Purple:
-    U9831122: 2
-    T9831015: 3
-    U9831109: 3
-    U9831012: 2
-    story: fourswot3
+    U9831128: 10
+    U9831021: 9
+    U9831028: 9
+    U9831116: 7
+    story: story2
   Red:
-    U9831127: 0
-    U9831110: 0
-    U9831143: 0
-    U9831112: 1
-    story: fourswot2
+    U9831005: 7
+    T9831015: 9
+    U9831106: 7
+    U9831109: 9
+    story: kendall2
   White:
-    U9831043: 0
-    T9831003: 0
-    U9831114: 0
-    U9831046: 0
-    story: fourswot0
+    T9831003: 10
+    U9831035: 10
+    U9831131: 10
+    U9831138: 10
+    story: kendall3
   Yellow:
-    U9831147: 1
-    U9831131: 1
-    U9831130: 1
-    U9831024: 1
-    story: fourswot3
+    U9831122: 10
+    U9742047: 10
+    U9831140: 10
+    U9831040: 10
+    story: kendall3
+  YellowYellow:
+    U9731044: 0
+    U9831006: 0
+    U9831119: 0
+    story: nicholson0
