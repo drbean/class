@@ -11,7 +11,6 @@ Chinese:
   Red: 0
   White: 0
   Yellow: 0
-  YellowYellow: 0
 letters:
   Black:
     T9831030: 9
@@ -79,8 +78,3 @@ letters:
     U9831140: 10
     U9831040: 10
     story: kendall3
-  YellowYellow:
-    U9731044: 0
-    U9831006: 0
-    U9831119: 0
-    story: absent0

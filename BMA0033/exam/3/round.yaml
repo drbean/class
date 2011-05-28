@@ -30,9 +30,6 @@ activity:
     0:
       - Brown
       - Gray
-  absent:
-    0:
-      - YellowYellow
 group:
   Black:
     - Candy
@@ -89,7 +86,3 @@ group:
     - Tiffany
     - Michelle
     - Jheng-Syun
-  YellowYellow:
-    - T-Play
-    - Nick
-    - Wei-Cei
