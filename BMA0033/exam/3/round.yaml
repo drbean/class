@@ -2,83 +2,92 @@
 round: Exam 3
 week: 13
 questions:
-  - 4
-pass: 1
+  - 9
+pass: 3
 assistant:
-  - Pei-ci
-  - WanHan
 absent:
-text: /home/drbean/class/business/companies/cards.yaml
+  - Nick
+  - T-Play
+  - Wei-Cei
+text: /home/drbean/class/business/PlanningManagingConflict/cards.yaml
 activity:
-  fourswot:
-    0:
-      - Black
-      - White
-    1:
-      - BlackBlack
-      - Blue
-      - Brown
+  story:
     2:
-      - Gray
-      - Pink
-      - Red
+      - Black
+      - Purple
     3:
       - Orange
-      - Purple
+      - Pink
+  kendall:
+    2:
+      - Blue
+      - Red
+    3:
+      - Green
+      - White
       - Yellow
+  nicholson:
+    0:
+      - Brown
+      - Gray
+      - YellowYellow
 group:
   Black:
-    - Nick
-    - Tiffany
-    - Aaron
-    - Jenay
-  BlackBlack:
-    - WanHan
-    - Helen
-    - Dian
-    - Judy
-  Blue:
-    - Reicho
-    - Li
-    - Jheng-Syun
-    - WanHan
-  Brown:
-    - Stanley
-    - Sharon
-    - Pei-ci
-    - Grace
-  Gray:
     - Candy
-    - Jenny
-    - Zih-sheng
-    - Jerry1
-  Orange:
-    - Gwan-Chi
-    - Michelle
-    - Wayne
-    - Dennis
-  Pink:
-    - Wei-jhih
-    - Elaine
-    - Laura
-    - Sandy
-  Purple:
-    - Jerry2
-    - Patrick
-    - Chiahao
-    - Amy
-  Red:
-    - Alice
-    - May
-    - Wan-ling
-    - ChiaoLing
-  White:
-    - Sofie
-    - Bu-Dien
-    - Tina
-    - Zack
-  Yellow:
-    - Yi-xun
-    - Pei-ci
     - Yi-Tang
+    - Jenny
+    - WanHan
+  Blue:
+    - Wang
+    - Grace
+    - Yi-xun
+    - Li
+  Brown:
+    - Elaine
+    - Kuan-Li
+    - Aaron
+    - Amy
+  Gray:
+    - Jerry1
+    - Zack
+    - May
+    - Alice
+  Green:
+    - Stanley
+    - Zih-sheng
+    - Sandy
+    - Wan-ling
+  Orange:
+    - Jessie
+    - ChiaoLing
+    - Tina
     - Betty
+  Pink:
+    - Wayne
+    - Gwan-Chi
+    - Sofie
+    - Dennis
+  Purple:
+    - Reicho
+    - Jenay
+    - Sharon
+    - Laura
+  Red:
+    - Wei-jhih
+    - Patrick
+    - Helen
+    - Chiahao
+  White:
+    - Bu-Dien
+    - Dian
+    - Pei-ci
+    - Judy
+  Yellow:
+    - Jerry2
+    - Tiffany
+    - Michelle
+    - Jheng-Syun
+  YellowYellow:
+    - T-Play
+    - Nick
+    - Wei-Cei
