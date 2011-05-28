@@ -30,6 +30,8 @@ activity:
     0:
       - Brown
       - Gray
+  absent:
+    0:
       - YellowYellow
 group:
   Black:
