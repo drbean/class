@@ -1,78 +1,108 @@
 ---
-round: 10
-week: 11
-absent:
-text: /home/drbean/class/business/companies/cards.yaml
 activity:
-  ikval:
+  story:
     0:
-      -
-         White: U9833041
-         Black: U9833043
-      -
-         White: T9833032
-         Black: T9833046
-      -
-         White: T9833035
-         Black: T9833009
-      -
-         White: T9833006
-         Black: U9833040
-      -
-         White: U9833011
-         Black: U9833020
-      -
-         White: U9831107
-         Black: U9833015
-      -
-         White: U9833001
-         Black: T9833037
-      -
-         White: U9833048
-         Black: T9833025
-      -
-         White: U9833030
-         Black: U9833035
-      -
-         White: U9833047
-         Black: U9833038
-      -
-         White: U9833014
-         Black: T9833050
-      -
-         White: U9833005
-         Black: U9833034
-      -
-         White: U9833024
-         Black: U9833007
-      -
-         White: U9833026
-         Black: U9833031
-      -
-         White: U9833019
-         Black: U9833049
-      -
-         White: U9833023
-         Black: T9833028
-      -
-         White: T9833045
-         Black: U9833022
-      -
-         White: T9833013
-         Black: U9833025
-      -
-         White: U9833009
-         Black: U9833002
-      -
-         White: T9833043
-         Black: T9833004
-      -
-         White: U9833045
-         Black: T9833027
-      -
-         White: T9833039
-         Black: U9833044
-      -
-         White: U9833003
-         Black: T9833030
-bye: U9833039
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+bye: T9833013
+group:
+  0:
+    White: U9833034
+    Black: U9831107
+  1:
+    White: U9833024
+    Black: T9833050
+  2:
+    White: T9833030
+    Black: U9833050
+  3:
+    White: T9833028
+    Black: U9833023
+  4:
+    White: U9833025
+    Black: T9833032
+  5:
+    White: T9833043
+    Black: U9833041
+  6:
+    White: T9833004
+    Black: T9833039
+  7:
+    White: T9833035
+    Black: U9833022
+  8:
+    White: T9833045
+    Black: U9833040
+  9:
+    White: U9833035
+    Black: U9833007
+  10:
+    White: T9833009
+    Black: U9833003
+  11:
+    White: U9833031
+    Black: T9833037
+  12:
+    White: U9833015
+    Black: U9833047
+  13:
+    White: U9833001
+    Black: T9833025
+  14:
+    White: U9833020
+    Black: U9833019
+  15:
+    White: U9833043
+    Black: U9833048
+  16:
+    White: U9833005
+    Black: U9833039
+  17:
+    White: T9833046
+    Black: U9833044
+  18:
+    White: T9833027
+    Black: U9833014
+  19:
+    White: U9833030
+    Black: U9833026
+  20:
+    White: T9833006
+    Black: U9833049
+  21:
+    White: U9833052
+    Black: U9833011
+  22:
+    White: U9833038
+    Black: U9833002
+  23:
+    White: U9833009
+    Black: U9833045
+late:
+  - T9833013
+pairing: swiss (changed)
+round: 1 (was 10)
+text: ../../class/business/conflict/cards.yaml
+week: 14
