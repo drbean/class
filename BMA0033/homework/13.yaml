@@ -1,14 +1,16 @@
 ---
 cutpoints:
   one: 50
-  two: 160
-exercise: flicker
+  two: 230
+exercise: wilson
 grade:
-  T9831003: 2
+  T9831003: 0
   T9831015: 2
   T9831018: 2
   T9831023: 2
   T9831030: 0
+  U9731044: 0
+  U9734040: 1
   U9742047: 2
   U9831002: 2
   U9831005: 2
@@ -16,7 +18,7 @@ grade:
   U9831007: 2
   U9831012: 2
   U9831016: 2
-  U9831018: 1
+  U9831018: 2
   U9831021: 2
   U9831024: 2
   U9831028: 2
@@ -25,47 +27,54 @@ grade:
   U9831040: 2
   U9831043: 2
   U9831044: 2
-  U9831046: 1
+  U9831046: 2
   U9831049: 2
-  U9831102: 0
+  U9831102: 2
   U9831106: 2
+  U9831108: 2
   U9831109: 2
-  U9831110: 0
+  U9831110: 2
   U9831112: 2
   U9831114: 2
   U9831116: 2
   U9831119: 0
-  U9831122: 2
+  U9831122: 0
   U9831124: 2
-  U9831127: 0
-  U9831128: 0
+  U9831127: 2
+  U9831128: 2
   U9831130: 2
-  U9831131: 1
+  U9831131: 2
   U9831132: 0
   U9831135: 0
   U9831138: 2
   U9831140: 2
   U9831143: 2
-  U9831144: 0
+  U9831144: 2
   U9831147: 2
 points:
   T9831003:
     letters: 0
-    questions: 1
+    questions: 0
   T9831015:
-    letters: 192
+    letters: 239
     questions: 0
   T9831018:
-    letters: 24
-    questions: 1
+    letters: 239
+    questions: 0
   T9831023:
     letters: 0
     questions: 1
   T9831030:
     letters: 0
     questions: 0
+  U9731044:
+    letters: 0
+    questions: 0
+  U9734040:
+    letters: 150
+    questions: 0
   U9742047:
-    letters: 197
+    letters: 3
     questions: 1
   U9831002:
     letters: 0
@@ -74,110 +83,113 @@ points:
     letters: 0
     questions: 1
   U9831006:
-    letters: 194
-    questions: 0
+    letters: 295
+    questions: 1
   U9831007:
-    letters: 192
+    letters: 239
     questions: 0
   U9831012:
-    letters: 208
-    questions: 0
-  U9831016:
     letters: 0
     questions: 1
+  U9831016:
+    letters: 295
+    questions: 0
   U9831018:
-    letters: 116
+    letters: 239
     questions: 0
   U9831021:
-    letters: 205
-    questions: 0
-  U9831024:
     letters: 0
     questions: 1
+  U9831024:
+    letters: 247
+    questions: 0
   U9831028:
-    letters: 205
+    letters: 295
     questions: 0
   U9831035:
     letters: 0
     questions: 1
   U9831039:
-    letters: 162
+    letters: 269
     questions: 0
   U9831040:
-    letters: 0
-    questions: 1
+    letters: 239
+    questions: 0
   U9831043:
     letters: 0
     questions: 1
   U9831044:
-    letters: 168
+    letters: 0
     questions: 1
   U9831046:
-    letters: 152
-    questions: 0
-  U9831049:
-    letters: 208
-    questions: 0
-  U9831102:
-    letters: 9
-    questions: 0
-  U9831106:
-    letters: 181
-    questions: 0
-  U9831109:
     letters: 0
     questions: 1
+  U9831049:
+    letters: 269
+    questions: 0
+  U9831102:
+    letters: 247
+    questions: 0
+  U9831106:
+    letters: 0
+    questions: 1
+  U9831108:
+    letters: 0
+    questions: 1
+  U9831109:
+    letters: 295
+    questions: 0
   U9831110:
     letters: 0
-    questions: 0
+    questions: 1
   U9831112:
-    letters: 208
-    questions: 0
+    letters: 0
+    questions: 1
   U9831114:
-    letters: 205
+    letters: 269
     questions: 0
   U9831116:
-    letters: 40
+    letters: 116
     questions: 1
   U9831119:
     letters: 0
     questions: 0
   U9831122:
-    letters: 205
+    letters: 0
     questions: 0
   U9831124:
-    letters: 0
-    questions: 1
+    letters: 247
+    questions: 0
   U9831127:
     letters: 0
-    questions: 0
+    questions: 1
   U9831128:
     letters: 0
-    questions: 0
-  U9831130:
-    letters: 91
     questions: 1
-  U9831131:
-    letters: 140
+  U9831130:
+    letters: 247
     questions: 0
+  U9831131:
+    letters: 0
+    questions: 1
   U9831132:
-    letters: 44
+    letters: 0
     questions: 0
   U9831135:
     letters: 0
     questions: 0
   U9831138:
-    letters: 156
+    letters: 0
     questions: 1
   U9831140:
-    letters: 208
+    letters: 269
     questions: 0
   U9831143:
-    letters: 197
-    questions: 0
-  U9831144:
-    letters: 0
-    questions: 0
-  U9831147:
     letters: 0
     questions: 1
+  U9831144:
+    letters: 0
+    questions: 1
+  U9831147:
+    letters: 247
+    questions: 0
