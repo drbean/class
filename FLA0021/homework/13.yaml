@@ -1,66 +1,34 @@
 ---
 cutpoints:
   one: 50
-  two: 180
-exercise: bruno
+  two: 150
+exercise: wardead
 grade:
-  9622299: 1
-  N9461738: 2
-  N9561721: 2
-  N9561732: 2
-  N9561751: 0
-  N9561762: 2
-  N9561765: 2
-  N9661702: 2
-  N9661705: 2
-  N9661706: 2
-  N9661713: 0
-  N9661717: 0
-  N9661724: 2
-  N9661725: 2
-  N9661727: 2
-  N9661728: 2
-  N9661731: 0
-  N9661737: 2
-  N9661738: 2
-  N9661740: 2
-  N9661741: 2
-  N9661743: 2
-  N9661746: 2
-  N9661747: 2
-  N9661748: 1
-  N9661749: 0
-  N9661753: 2
-  N9661758: 2
-  N9661761: 2
-  U9533039: 2
-  U9616041: 2
   V9724004: 0
   V9731059: 2
   V9741009: 0
   V9741010: 2
   V9741014: 2
-  V9741015: 2
-  V9741016: 0
+  V9741016: 2
   V9741018: 2
   V9741023: 2
-  V9741024: 2
-  V9741025: 2
+  V9741024: 0
+  V9741025: 0
   V9741028: 0
-  V9741029: 1
+  V9741029: 2
   V9741030: 2
   V9741032: 2
   V9741034: 2
-  V9741036: 0
+  V9741036: 2
   V9741037: 2
   V9741038: 2
   V9741040: 2
   V9741041: 2
   V9741042: 2
-  V9741043: 0
+  V9741043: 2
   V9741047: 2
   V9741048: 2
-  V9741049: 2
+  V9741049: 0
   V9741053: 2
   V9741055: 2
   V9741057: 2
@@ -68,200 +36,108 @@ grade:
   V9741060: 2
   V9741061: 2
   V9741064: 2
+  V9741065: 2
   V9741066: 2
 points:
-  9622299:
-    letters: 115
-    questions: 0
-  N9461738:
-    letters: 194
-    questions: 0
-  N9561721:
-    letters: 0
-    questions: 1
-  N9561732:
-    letters: 191
-    questions: 0
-  N9561751:
-    letters: 0
-    questions: 0
-  N9561762:
-    letters: 229
-    questions: 0
-  N9561765:
-    letters: 201
-    questions: 0
-  N9661702:
-    letters: 207
-    questions: 1
-  N9661705:
-    letters: 167
-    questions: 1
-  N9661706:
-    letters: 198
-    questions: 1
-  N9661713:
-    letters: 0
-    questions: 0
-  N9661717:
-    letters: 0
-    questions: 0
-  N9661724:
-    letters: 2
-    questions: 1
-  N9661725:
-    letters: 195
-    questions: 0
-  N9661727:
-    letters: 0
-    questions: 1
-  N9661728:
-    letters: 201
-    questions: 0
-  N9661731:
-    letters: 0
-    questions: 0
-  N9661737:
-    letters: 151
-    questions: 1
-  N9661738:
-    letters: 207
-    questions: 0
-  N9661740:
-    letters: 0
-    questions: 1
-  N9661741:
-    letters: 201
-    questions: 1
-  N9661743:
-    letters: 229
-    questions: 0
-  N9661746:
-    letters: 195
-    questions: 0
-  N9661747:
-    letters: 229
-    questions: 0
-  N9661748:
-    letters: 124
-    questions: 0
-  N9661749:
-    letters: 0
-    questions: 0
-  N9661753:
-    letters: 0
-    questions: 1
-  N9661758:
-    letters: 0
-    questions: 1
-  N9661761:
-    letters: 229
-    questions: 0
-  U9533039:
-    letters: 229
-    questions: 0
-  U9616041:
-    letters: 201
-    questions: 0
   V9724004:
     letters: 0
     questions: 0
   V9731059:
-    letters: 195
-    questions: 0
+    letters: 188
+    questions: 1
   V9741009:
     letters: 0
     questions: 0
   V9741010:
-    letters: 194
+    letters: 200
     questions: 0
   V9741014:
-    letters: 201
+    letters: 188
     questions: 1
-  V9741015:
-    letters: 207
-    questions: 0
   V9741016:
-    letters: 47
+    letters: 188
     questions: 0
   V9741018:
-    letters: 0
+    letters: 103
     questions: 1
   V9741023:
-    letters: 0
-    questions: 1
+    letters: 188
+    questions: 0
   V9741024:
-    letters: 201
+    letters: 45
     questions: 0
   V9741025:
-    letters: 201
+    letters: 0
     questions: 0
   V9741028:
     letters: 0
     questions: 0
   V9741029:
-    letters: 106
+    letters: 206
     questions: 0
   V9741030:
-    letters: 195
+    letters: 286
     questions: 1
   V9741032:
-    letters: 207
-    questions: 0
-  V9741034:
     letters: 0
     questions: 1
+  V9741034:
+    letters: 201
+    questions: 0
   V9741036:
-    letters: 0
+    letters: 206
     questions: 0
   V9741037:
-    letters: 195
-    questions: 0
-  V9741038:
-    letters: 32
+    letters: 188
     questions: 1
+  V9741038:
+    letters: 188
+    questions: 0
   V9741040:
-    letters: 207
+    letters: 188
     questions: 1
   V9741041:
-    letters: 195
-    questions: 0
-  V9741042:
-    letters: 188
+    letters: 206
     questions: 1
+  V9741042:
+    letters: 206
+    questions: 0
   V9741043:
-    letters: 30
+    letters: 174
     questions: 0
   V9741047:
-    letters: 229
-    questions: 0
+    letters: 286
+    questions: 1
   V9741048:
-    letters: 229
+    letters: 201
     questions: 1
   V9741049:
-    letters: 195
+    letters: 0
     questions: 0
   V9741053:
-    letters: 117
-    questions: 1
-  V9741055:
-    letters: 207
-    questions: 1
-  V9741057:
-    letters: 188
-    questions: 0
-  V9741059:
     letters: 0
     questions: 1
-  V9741060:
-    letters: 207
-    questions: 0
-  V9741061:
-    letters: 212
+  V9741055:
+    letters: 201
     questions: 1
-  V9741064:
-    letters: 229
+  V9741057:
+    letters: 0
+    questions: 1
+  V9741059:
+    letters: 228
     questions: 0
+  V9741060:
+    letters: 0
+    questions: 1
+  V9741061:
+    letters: 201
+    questions: 0
+  V9741064:
+    letters: 188
+    questions: 0
+  V9741065:
+    letters: 206
+    questions: 1
   V9741066:
     letters: 0
     questions: 1
