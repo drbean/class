@@ -2,83 +2,88 @@
 round: Exam 3
 week: 13
 questions:
-  - 4
-pass: 1
+  - 9
+pass: 3
 assistant:
-  - Pei-ci
-  - WanHan
+  - Jill
+  - Danny
 absent:
-text: /home/drbean/class/business/companies/cards.yaml
+  - Hannah
+  - Jack
+text: /home/drbean/class/business/PlanningManagingConflict/cards.yaml
 activity:
-  fourswot:
-    0:
-      - Black
-      - White
-    1:
-      - BlackBlack
-      - Blue
-      - Brown
+  story:
     2:
-      - Gray
-      - Pink
+      - Green
       - Red
     3:
-      - Orange
+      - BlackBlack
+      - White
+  kendall:
+    2:
+      - Gray
       - Purple
-      - Yellow
+    3:
+      - Brown
+      - Pink
+  nicholson:
+    0:
+      - Black
+      - Blue
+      - Orange
 group:
   Black:
-    - Nick
-    - Tiffany
-    - Aaron
-    - Jenay
+    - Hardy
+    - Jean
+    - Sherry1
+    - Tommy
   BlackBlack:
-    - WanHan
-    - Helen
-    - Dian
-    - Judy
+    - Kelly
+    - Rebecca
+    - Ann
+    - Trisha
   Blue:
-    - Reicho
-    - Li
-    - Jheng-Syun
-    - WanHan
-  Brown:
-    - Stanley
-    - Sharon
-    - Pei-ci
-    - Grace
-  Gray:
-    - Candy
+    - Jill
     - Jenny
-    - Zih-sheng
-    - Jerry1
-  Orange:
-    - Gwan-Chi
-    - Michelle
-    - Wayne
-    - Dennis
-  Pink:
-    - Wei-jhih
-    - Elaine
-    - Laura
-    - Sandy
-  Purple:
-    - Jerry2
-    - Patrick
-    - Chiahao
+    - Frank
+    - Jerry
+  Brown:
+    - Jill
+    - Ezra
+    - Brian
+    - Abby
+  Gray:
+    - Jeren
     - Amy
+    - Alex
+    - Danny
+  Green:
+    - Debbie
+    - Irene
+    - Emma
+    - Linda2
+  Orange:
+    - Dennis
+    - Vicky
+    - Danny
+    - Linda1
+  Pink:
+    - Penny
+    - Maggie
+    - Ashly
+    - Sherry2
+  Purple:
+    - Keano
+    - Joy
+    - Ivy
+    - Nancy
   Red:
-    - Alice
-    - May
-    - Wan-ling
-    - ChiaoLing
+    - Peace
+    - Lious
+    - Lisa
+    - Cammy
   White:
-    - Sofie
-    - Bu-Dien
+    - Ray
     - Tina
-    - Zack
-  Yellow:
-    - Yi-xun
-    - Pei-ci
-    - Yi-Tang
-    - Betty
+    - Annie
+    - Cathy
