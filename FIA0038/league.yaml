@@ -19,11 +19,6 @@ member:
     id: U9634018
     rating: ~
   
-  - Chinese: 陳喬昀
-    id: U9834003
-    name: Patterson
-    password: qiao
-    rating: ~
   - Chinese: 賴育茹
     id: U9833004
     name: Cathy
@@ -240,6 +235,11 @@ member:
     password: yan
     rating: ~
 out:
+  - Chinese: 陳喬昀
+    id: U9834003
+    name: Patterson
+    password: qiao
+    rating: ~
   - Chinese: 游敏靜
     id: T9731019
     name: 敏靜
