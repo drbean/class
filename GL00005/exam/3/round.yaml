@@ -1,53 +1,45 @@
 ---
 round: Exam 3
-week: 9
+week: 14
 questions:
   - 10
 pass: 6
 assistant:
-  - Kerwin
-  - Ivory
-  - Eva
-  - Ryan
-  - Jessica
+  - Li
+  - KuanChia
 absent:
-  - Kevin
-text: /home/drbean/class/conversation/BreakstoneDesantisSchifrin/cards.yaml
+text: /home/drbean/class/conversation/dying/cards.yaml
 activity:
-  breakstone:
+  undertaker:
     1:
-      - Green
-  desantis:
-    1:
+      - White
+  oakland:
+    0:
       - Pink
-      - Purple
-  schifrin:
-    1:
-      - Black
+  spirits:
+    0:
       - Gray
+  wardead:
+    0:
+      - Black
 group:
   Black:
-    - Kerwin
-    - Lily
-    - Emma
-    - Eva
+    - Judy
+    - YiPei
+    - Chung-Po
+    - Li
   Gray:
-    - Emily
-    - Ryan
-    - Sarah
-    - Jessica
-  Green:
-    - Ivory
-    - Kerwin
-    - Kate
-    - Eva
+    - YiKuan
+    - KuanChia
+    - Amy
+    - SongWei
   Pink:
-    - Ken
-    - Kenny
-    - Ryan
-    - Frank
-  Purple:
-    - Mark
-    - Kiki
-    - Jessica
-    - Ivory
+    - Simon
+    - DrLee
+    - KuanChia
+    - Frances
+  White:
+    - YuiSung
+    - Dai-shian
+    - Andrew
+    - Li
