@@ -1,40 +1,91 @@
 ---
-round: 1
-week: 1
-absent:
-text: /home/drbean/class/business/companies/cards.yaml
 activity:
-  ikval:
+  ingredients:
     0:
-      - White: U9831021
-        Black: U9831039
-      - White: U9831002
-        Black: U9831138
-      - White: U9831016
-        Black: U9831035
-      - White: T9831018
-        Black: U9831043
-      - White: U9831044
-        Black: U9831122
-      - White: U9831012
-        Black: T9831023
-      - White: U9831024
-        Black: U9831128
-      - White: U9831028
-        Black: U9831114
-      - White: U9831140
-        Black: U9831130
-      - White: T9831015
-        Black: U9831143
-      - White: T9831003
-        Black: U9831116
-      - White: U9831112
-        Black: U9831005
-      - White: U9831110
-        Black: U9831040
-      - White: U9831132
-        Black: U9831131
-      - White: U9831049
-        Black: U9742047
-      - White: U9831119
-        Black: U9831127
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+group:
+  0:
+    White: U9831116
+    Black: U9831012
+  1:
+    White: U9831122
+    Black: U9831024
+  2:
+    White: U9831143
+    Black: U9831127
+  3:
+    White: U9742047
+    Black: U9831007
+  4:
+    White: U9831144
+    Black: U9831131
+  5:
+    White: U9831018
+    Black: U9831028
+  6:
+    White: U9831021
+    Black: U9831035
+  7:
+    White: U9831049
+    Black: U9831112
+  8:
+    White: U9831140
+    Black: U9831109
+  9:
+    White: T9831003
+    Black: U9831147
+  10:
+    White: U9831016
+    Black: T9831015
+  11:
+    White: U9831138
+    Black: U9831102
+  12:
+    White: U9734040
+    Black: U9831040
+  13:
+    White: U9831044
+    Black: U9831002
+  14:
+    White: U9831106
+    Black: U9831108
+  15:
+    White: T9831023
+    Black: U9831114
+  16:
+    White: T9831018
+    Black: U9831046
+  17:
+    White: U9831130
+    Black: U9831039
+  18:
+    White: U9831110
+    Black: U9831043
+  19:
+    White: U9831006
+    Black: U9831124
+late:
+  - ~
+pairing: swiss
+round: 3 (was 10)
+text: ../../class/business/newbusiness/cards.yaml
+week: 15
