@@ -1,5 +1,6 @@
 ---
 Chinese:
+  Black: 0
   BlackBlack: 0
   Blue: 0
   Brown: 0
@@ -9,79 +10,78 @@ Chinese:
   Pink: 0
   Purple: 0
   Red: 0
-  Rump: 0
-  Shaq: 0
-  White: 0
+  White: 1
+  WhiteWhite: 0
 letters:
+  Black:
+    V9841044: 5
+    V9841064: 8
+    V9841030: 8
+    U9693040: 8
+    story: selassie0
   BlackBlack:
-    N9661760: 5
-    V9841014: 8
-    V9841036: 6
+    V9841002: 7
+    V9841058: 7
+    V9841013: 7
     V9841041: 8
-    story: harllee1
+    story: brock0
   Blue:
-    V9841054: 9
-    V9841027: 9
-    V9841037: 9
-    V9841040: 3
-    story: desilvey1
+    V9841033: 9
+    V9841022: 7
+    V9841062: 9
+    V9741065: 9
+    story: brock0
   Brown:
-    V9841047: 9
-    V9841009: 5
-    V9999113: 9
-    V9841011: 9
-    story: duplantier1
+    V9841004: 4
+    V9841009: 7
+    V9841037: 7
+    V9841024: 7
+    story: selassie0
   Gray:
-    V9841008: 10
-    V9841058: 10
-    V9841031: 10
-    V9841050: 10
-    story: duplantier1
+    V9841006: 10
+    V9841040: 10
+    V9841015: 10
+    V9841038: 10
+    story: brock0
   Green:
-    V9841064: 9
-    V9841049: 9
-    V9841022: 9
-    V9841059: 9
-    story: conant1
+    V9841031: 6
+    V9841026: 5
+    V9841008: 9
+    U9693041: 7
+    story: brock0
   Orange:
-    V9841029: 10
-    V9841002: 10
-    V9841053: 10
-    V9841034: 10
-    story: harllee1
+    V9841049: 8
+    V9841027: 8
+    V9841067: 9
+    U9693046: 9
+    story: selassie0
   Pink:
-    V9841028: 10
-    V9841039: 10
-    V9841067: 10
-    V9841005: 10
-    story: duplantier1
-  Purple:
-    V9841048: 8
     V9841017: 8
-    V9841038: 8
-    V9841024: 9
-    story: desilvey1
-  Red:
-    V9841020: 5
-    V9841006: 6
-    V9741065: 6
-    V9841007: 6
-    story: conant1
-  Rump:
-    V9841044: 10
-    V9841004: 10
-    V9841013: 10
-    V9841033: 10
-    story: harllee1
-  Shaq:
-    V9841005: 8
-    V9841017: 9
-    V9841015: 8
-    V9841020: 10
-    story: conant1
-  White:
-    V9841010: 9
-    V9841026: 7
-    V9841030: 9
+    V9841020: 8
+    V9841034: 8
+    V9841054: 8
+    story: selassie0
+  Purple:
     V9841051: 9
-    story: duplantier1
+    V9841014: 9
+    V9841036: 9
+    V9841059: 9
+    story: selassie0
+  Red:
+    V9841028: 7
+    V9841005: 7
+    N9661752: 7
+    V9841029: 6
+    story: selassie0
+  White:
+    V9841010: 6
+    V9841039: 6
+    V9841050: 6
+    V9741018: 6
+    story: brock0
+  WhiteWhite:
+    V9841048: 7
+    V9841053: 7
+    V9841011: 7
+    V9841007: 7
+    story: brock0
