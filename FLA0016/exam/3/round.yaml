@@ -1,112 +1,109 @@
 ---
-round: Exam 2
-week: 9
+round: Exam 3
+week: 14
 questions:
   - 10
 pass: 6
 assistant:
-  - Fifi
-  - Rose
-  - Patty
-  - Kori
-  - Wei-Yi
-  - Leo
-  - Sue
-  - Ricky
+  - Frances
+  - Sherry
+  - Bass
   - Yorick
+  - Anny
 absent:
-  - Ivan
   - Joanna
-  - Amber
-  - Miranda
-  - Shiau-ching
+  - Mike
+  - Tea
+  - Jerry
   - Dan
-  - Jason
-  - Dennis
-text: /home/drbean/class/conversation/WorkFood/cards.yaml
+  - Abby
+  - Ming
+text: /home/drbean/class/conversation/dying/cards.yaml
 activity:
-  cronig:
+  undertaker:
     1:
-      - Black
-      - BlackBlack
-      - Purple
-  lerman:
-    1:
-      - Gray
-      - Pink
-      - White
-      - Yellow
-  tyson:
-    0:
-      - Blue
-      - Brown
-      - Green
-      - Orange
       - Red
       - WhiteWhite
+      - Yellow
+  oakland:
+    0:
+      - Blue
+      - Green
+      - Purple
+  spirits:
+    0:
+      - Black
+      - Gray
+      - Pink
+  wardead:
+    0:
+      - BlackBlack
+      - Brown
+      - Orange
+      - White
 group:
   Black:
-    - Fifi
-    - Christian
-    - Winny
-    - Luke
-  BlackBlack:
-    - Rose
-    - Patty
-    - Joan
-    - Yu-Ching
-  Blue:
-    - Kitty
-    - Winne
-    - Abby
-    - Lace
-  Brown:
-    - Eva
-    - Patty
-    - Carina
-    - Rose
-  Gray:
-    - Annie
-    - Kori
-    - Anne
-    - Fifi
-  Green:
-    - Kori
-    - Yi-Ru
-    - Wei-Yi
-    - Joy
-  Orange:
-    - Ricky
-    - Yu-Lun
-    - Hank
-    - Wei-Yi
-  Pink:
-    - Tea
-    - Bass
-    - Hannah
-    - Rachel
-  Purple:
-    - Ricky
-    - Katty
-    - Sue
-    - Debbie
-  Red:
-    - Leo
-    - Yorick
-    - Jessica
     - Frances
-  White:
-    - Yorick
-    - Sana
-    - Jeffrey
     - Leo
-  WhiteWhite:
-    - Sue
-    - Stanley
-    - Shaq
+    - Sana
+    - Hannah
+  BlackBlack:
+    - Frances
+    - Dennis
     - Laura
-  Yellow:
-    - Cathy
+    - Jessica
+  Blue:
+    - Sherry
+    - Hank
+    - Anny
+    - Bella
+  Brown:
+    - Yorick
+    - Shaq
     - Lisa
-    - Ming
+    - Frances
+  Gray:
+    - Bass
+    - Sue
+    - Wei-Yi
+    - Anny
+  Green:
+    - Patty
+    - Michelle
+    - Yi-Ru
+    - Yorick
+  Orange:
+    - Eva
+    - Katty
+    - Stanley
+    - Rachel
+  Pink:
+    - Jeffrey
+    - Kori
+    - Winne
+    - Debbie
+  Purple:
+    - Sherry
+    - Winny
+    - Rose
+    - Yu-Lun
+  Red:
+    - Cathy
+    - Yorick
+    - Sherry
+    - Fifi
+  White:
+    - Ricky
+    - Bass
+    - Cathy2
+    - Yu-Ching
+  WhiteWhite:
+    - Amber
+    - Anne
     - Julie
+    - Joy
+  Yellow:
+    - Joan
+    - Carina
+    - Ivan
+    - Luke
