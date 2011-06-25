@@ -1,23 +1,68 @@
 ---
-round: 14
-week: 14
-absent:
-text: /home/drbean/class/conversation/disasters/cards.yaml
-bye: N9561766
 activity:
-  duplantier:
-    1:
-      - White: N9661747
-        Black: N9561765
-      - White: T9822149
-        Black: U9722022
-      - White: 9622212
-        Black: N9661723
-      - White: U9822019
-        Black: 9622240
-      - White: U9822004
-        Black: U9821142
-      - White: U9818007
-        Black: U9633052
-      - White: U9633019
-        Black: U9818046
+  brock:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+bye: U9811010
+group:
+  0:
+    White: T9813003
+    Black: U9718033
+  1:
+    White: U9718016
+    Black: T9821036
+  2:
+    White: U9843023
+    Black: T9811142
+  3:
+    White: T9821043
+    Black: U9718042
+  4:
+    White: U9718036
+    Black: 9616201
+  5:
+    White: T9813014
+    Black: T9813004
+  6:
+    White: U9822002
+    Black: U9742052
+  7:
+    White: T9813009
+    Black: T9821014
+  8:
+    White: U9811127
+    Black: T9821033
+  9:
+    White: T9811111
+    Black: T9831047
+  10:
+    White: T9811101
+    Black: U9621094
+  11:
+    White: U9811142
+    Black: U9811144
+  12:
+    White: U9811149
+    Black: U9843004
+  13:
+    White: U9718022
+    Black: U9743024
+late:
+  - ~
+pairing: swiss
+round: 14
+text: ~
+week: ~
