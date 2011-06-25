@@ -1,148 +1,79 @@
 ---
-round: 14
-week: 13
-absent:
-text: /home/drbean/class/conversation/IKEAMacaulayDouglas/cards.yaml
-bye: N9661713
 activity:
-  macaulay:
-    1:
-      -
-         White: V9741060
-         Black: V9741057
-      -
-         White: V9741037
-         Black: V9741014
-      -
-         White: N9461738
-         Black: N9661746
-      -
-         White: N9661747
-         Black: V9741038
-      -
-         White: V9741034
-         Black: N9661741
-      -
-         White: 9622299
-         Black: N9661725
-      -
-         White: V9741059
-         Black: N9661727
-      -
-         White: V9741023
-         Black: V9741016
-      -
-         White: V9741041
-         Black: N9661706
-      -
-         White: N9661705
-         Black: U9533039
-      -
-         White: N9661731
-         Black: V9741028
-      -
-         White: V9741061
-         Black: N9661717
-      -
-         White: N9561751
-         Black: N9661702
-      -
-         White: V9731059
-         Black: N9661753
-      -
-         White: V9741064
-         Black: N9661728
-      -
-         White: N9561762
-         Black: N9661724
-      -
-         White: N9661749
-         Black: V9741024
-      -
-         White: V9741010
-         Black: N9561721
-      -
-         White: V9741032
-         Black: V9741047
-      -
-         White: N9561732
-         Black: N9661737
-      -
-         White: V9741040
-         Black: N9661748
-      -
-         White: N9661761
-         Black: V9741066
-      -
-         White: V9741015
-         Black: N9661740
-  douglas:
-    1:
-      -
-         White: N9461738
-         Black: N9661746
-      -
-         White: N9561765
-         Black: V9741018
-      -
-         White: V9741034
-         Black: N9661741
-      -
-         White: V9741029
-         Black: V9741048
-      -
-         White: 9622299
-         Black: N9661725
-      -
-         White: V9741036
-         Black: V9724004
-      -
-         White: V9741059
-         Black: N9661727
-      -
-         White: V9741023
-         Black: V9741016
-      -
-         White: V9741041
-         Black: N9661706
-      -
-         White: N9661731
-         Black: V9741028
-      -
-         White: V9741030
-         Black: V9741009
-      -
-         White: V9741025
-         Black: N9661738
-      -
-         White: N9661758
-         Black: V9741043
-      -
-         White: V9731059
-         Black: N9661753
-      -
-         White: V9741042
-         Black: V9741055
-      -
-         White: U9616041
-         Black: V9741049
-      -
-         White: N9561762
-         Black: N9661724
-      -
-         White: N9661743
-         Black: V9741053
-      -
-         White: V9741040
-         Black: N9661748
-      -
-         White: N9661761
-         Black: V9741066
-      -
-         White: V9741015
-         Black: N9661740
-  freetalking:
+  brock:
     0:
-      -
-         White: N9661731
-         Black: V9741028
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+group:
+  0:
+    White: V9741053
+    Black: V9741055
+  1:
+    White: V9741064
+    Black: V9741048
+  2:
+    White: V9741037
+    Black: V9741047
+  3:
+    White: V9741049
+    Black: V9741014
+  4:
+    White: V9741059
+    Black: V9741042
+  5:
+    White: V9724004
+    Black: V9741043
+  6:
+    White: V9741023
+    Black: V9741060
+  7:
+    White: V9741028
+    Black: V9741040
+  8:
+    White: V9741009
+    Black: V9741032
+  9:
+    White: V9741066
+    Black: V9741061
+  10:
+    White: V9741018
+    Black: V9741016
+  11:
+    White: V9741024
+    Black: V9741010
+  12:
+    White: V9741065
+    Black: V9731059
+  13:
+    White: V9741025
+    Black: V9741041
+  14:
+    White: V9741057
+    Black: V9741030
+  15:
+    White: V9741034
+    Black: V9741029
+  16:
+    White: V9741038
+    Black: V9741036
+late:
+  - ~
+pairing: swiss
+round: 4
+text: ~
+week: ~
