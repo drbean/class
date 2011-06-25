@@ -2,21 +2,31 @@
 activity:
   brock:
     0:
-      - 0
       - 1
+      - 2
+      - 4
+      - 6
+      - 7
+      - 11
+      - 12
+  selassie:
+    0:
+      - 0
+      - 5
+      - 6
+      - 7
+      - 9
+      - 11
+  tremonte:
+    0:
       - 2
       - 3
       - 4
       - 5
-      - 6
-      - 7
       - 8
       - 9
       - 10
-      - 11
       - 12
-      - 13
-bye: U9811010
 group:
   0:
     White: T9813003
@@ -41,7 +51,7 @@ group:
     Black: U9742052
   7:
     White: T9813009
-    Black: T9821014
+    Black: U9811149
   8:
     White: U9811127
     Black: T9821033
@@ -55,14 +65,12 @@ group:
     White: U9811142
     Black: U9811144
   12:
-    White: U9811149
-    Black: U9843004
-  13:
     White: U9718022
-    Black: U9743024
+    Black: U9811010
+bye: U9843004
 late:
-  - ~
-pairing: swiss
+  - U9843004
+pairing: swiss (changed)
 round: 14
-text: ~
-week: ~
+text: ../../class/conversation/psych/cards.yaml
+week: 18
