@@ -161,21 +161,6 @@ member:
     id: T9821036
     rating: ~
 
-  - Chinese: 栗譽僑
-    id: T9831040
-    name: DrLee
-    password: yu
-    rating: ~
-  - Chinese: 陳郁翔
-    id: T9811035
-    name: YuiSung
-    password: yu
-    rating: ~
-  - Chinese: 林芳義
-    name: Amy
-    password: fang
-    id: U9931143
-    rating: ~
 out:
   - Chinese: 謝竺芸
     id: U9692049
