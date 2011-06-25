@@ -1,56 +1,44 @@
 ---
-round: Exam 3
-week: 13
+round: Exam 4
+week: 18
 questions:
   - 10
 pass: 6
 assistant:
-  - Eva
-  - Jessica
-  - Kerwin
+  - KuanChia
+  - Li
+  - YiKuan
 absent:
-  - Lily
-  - Emma
-examiners:
-  - Gray
-  - Green
-text: /home/drbean/class/conversation/WorkFood/cards.yaml
+text: /home/drbean/class/conversation/psych/cards.yaml
 activity:
-  cronig:
-    1:
-      - Gray
-  lerman:
-    1:
-      - Pink
-      - White
-  tyson:
+  brock:
     0:
-      - Green
-      - Purple
+      - Gray
+      - White
+  selassie:
+    0:
+      - Black
+  tremonte:
+    0:
+      - Pink
 group:
+  Black:
+    - KuanChia
+    - Judy
+    - DrLee
+    - SongWei
   Gray:
-    - Jerry
-    - Kenny
-    - Sarah
-    - Ivory
-  Green:
-    - Emily
-    - Ryan
-    - Kerwin
-    - Kate
+    - Simon
+    - YiKuan
+    - Frances
+    - Amy
   Pink:
-    - Eva
-    - Ken
-    - Kiki
-    - Jessica
-  Purple:
-    - Jessica
-    - Mark
-    - Eva
-    - Kerwin
+    - Andrew
+    - Dai-shian
+    - Li
+    - KuanChia
   White:
-    - Emily1
-    - Eva1
-    - Frank
-    - "Ting'an"
-
+    - YuiSung
+    - YiPei
+    - YiKuan
+    - Li
