@@ -19,11 +19,6 @@ member:
     id: V9741018
     rating: ~
   
-  - Chinese: 詹貿傑
-    id: V9841052
-    name: Jerry
-    password: mao
-    rating: ~
   - id: U9693040
     Chinese: 池采逸
     name: Anny
@@ -204,11 +199,6 @@ member:
     name: Rose
     password: ru
     rating: 83
-  - Chinese: 李家安
-    id: V9841042
-    name: Joanna
-    password: jia
-    rating: 19
   - Chinese: 徐己雁
     id: V9841044
     name: Eva
@@ -254,11 +244,6 @@ member:
     name: Yu-Ching
     password: yu
     rating: 79
-  - Chinese: 湯浩軍
-    id: V9841063
-    name: Tea
-    password: hao
-    rating: 41
   - Chinese: 李齊
     id: V9841064
     name: Ricky
@@ -269,12 +254,27 @@ member:
     name: Sue
     password: wen
     rating: 67
+out:
+  - Chinese: 詹貿傑
+    id: V9841052
+    name: Jerry
+    password: mao
+    rating: ~
+  - Chinese: 湯浩軍
+    id: V9841063
+    name: Tea
+    password: hao
+    rating: 41
   - Chinese: 彭明俊
     id: V9841016
     name: Mike
     password: ming
     rating: ~
-out:
+  - Chinese: 李家安
+    id: V9841042
+    name: Joanna
+    password: jia
+    rating: 19
   - Chinese: 胡佳玟
     id: V9841046
     name: Lace
@@ -310,11 +310,6 @@ out:
     name: Shiau-ching
     password: xiao
     rating: 30
-  - Chinese: 黃啟信
-    id: V9841062
-    name: Ivan
-    password: qi
-    rating: 22
   - Chinese: 劉芸玥
     id: V9999113
     name: Christian
