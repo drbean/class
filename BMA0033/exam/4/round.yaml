@@ -2,82 +2,88 @@
 round: Exam 4
 week: 18
 questions:
-  - 4
-pass: 1
+  - 10
+pass: 6
 assistant:
+  - May
+  - Grace
   - Betty
 absent:
-text: /home/drbean/class/business/greatideas/cards.yaml
+text: /home/drbean/class/business/newbusiness/cards.yaml
 activity:
-  fourideas:
-    2:
-      - Orange
-      - Red
-    3:
-      - BlackBlack
-      - Blue
-      - Yellow
-    4:
+  huang:
+    00:
       - Black
-      - Gray
-      - Purple
-    5:
       - Brown
-      - Pink
+      - Green
+      - Orange
       - White
+      - YellowYellow
+    11:
+      - Blue
+      - Gray
+      - Pink
+      - Purple
+      - Red
+      - Yellow
 group:
   Black:
-    - Betty
-    - Patrick
-    - Jenny
-    - Judy
-  BlackBlack:
     - Candy
-    - Jerry1
-    - Sharon
-    - Jenay
-  Blue:
-    - Nick
     - Helen
     - Yi-Tang
-    - WanHan
-  Brown:
-    - Stanley
-    - Wayne
-    - Tiffany
-    - Sandy
-  Gray:
+    - Li
+  Blue:
     - Reicho
+    - ChiaoLing
+    - Zack
+    - Judy
+  Brown:
+    - Wang
+    - Sofie
+    - Dian
+    - Laura
+  Gray:
+    - Wei-jhih
+    - Aaron
+    - Patrick
+    - Amy
+  Green:
+    - Kuan-Li
+    - Alice
+    - Sandy
+    - Michelle
+  Orange:
+    - Jessie
+    - Tiffany
+    - Tina
+    - Wan-ling
+  Pink:
+    - Wayne
+    - Gwan-Chi
     - Jerry2
     - Pei-ci
-    - Grace
-  Orange:
-    - Alice
-    - Gwan-Chi
-    - Dennis
-    - Betty
-  Pink:
-    - Kuan-Li
-    - Bu-Dien
-    - Aaron
-    - Amy
   Purple:
-    - Wei-jhih
-    - Zack
-    - Dian
-    - Wan-ling
-  Red:
-    - Yi-xun
-    - Sofie
-    - Laura
+    - Jerry1
     - Chiahao
-  White:
-    - May
-    - Li
+    - Jenay
     - Jheng-Syun
-    - Tina
-  Yellow:
+  Red:
     - Zih-sheng
+    - May
+    - Grace
+    - Betty
+  White:
+    - Stanley
+    - Bu-Dien
+    - Sharon
+    - WanHan
+  Yellow:
+    - Jenny
     - Elaine
-    - Michelle
-    - ChiaoLing
+    - Dennis
+    - Yi-xun
+  YellowYellow:
+    - Nick
+    - May
+    - Grace
+    - Betty
