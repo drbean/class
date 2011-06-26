@@ -7,6 +7,7 @@ pass: 6
 assistant:
   - Dennis
 absent:
+  - Alex
 text: /home/drbean/class/business/newbusiness/cards.yaml
 activity:
   huang:
@@ -76,6 +77,6 @@ group:
     - Hardy
   White:
     - Tina
-    - Alex
+    - Dennis
     - Vicky
     - Amy
