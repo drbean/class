@@ -1,15 +1,15 @@
 ---
 Chinese:
-  Black: 1
+  Black: 0
   BlackBlack: 0
-  Blue: 1
+  Blue: 0
   Brown: 0
-  Gray: 4
-  Green: 3
+  Gray: 3
+  Green: 2
   Orange: 0
-  Pink: 1
-  Purple: 1
-  Red: 1
+  Pink: 0
+  Purple: 0
+  Red: 0
   White: 0
 letters:
   Black:
@@ -74,7 +74,7 @@ letters:
     story: huang00
   White:
     U9834057: 9
-    U9834005: 10
+    U9834033: 10
     U9834027: 10
     U9834042: 10
     story: huang11
