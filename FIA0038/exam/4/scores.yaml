@@ -1,80 +1,80 @@
 ---
 Chinese:
-  Black: 0
+  Black: 1
   BlackBlack: 0
-  Blue: 0
+  Blue: 1
   Brown: 0
-  Gray: 0
+  Gray: 4
+  Green: 3
   Orange: 0
-  Pink: 0
-  Purple: 0
-  Red: 0
+  Pink: 1
+  Purple: 1
+  Red: 1
   White: 0
-  Yellow: 0
 letters:
   Black:
-    U9831024: 4
-    T9831015: 4
-    U9831039: 4
-    U9831138: 4
-    story: fourideas4
+    U9834011: 9
+    U9834012: 9
+    U9834032: 9
+    U9834006: 9
+    story: huang00
   BlackBlack:
-    T9831030: 4
-    U9831102: 4
-    U9831028: 4
-    U9831021: 4
-    story: fourideas3
+    U9834017: 4
+    U9834014: 8
+    U9834001: 6
+    U9834031: 6
+    story: huang11
   Blue:
-    U9831006: 0
-    U9831106: 0
-    U9831130: 2
-    U9831044: 1
-    story: fourideas3
+    U9834002: 7
+    U9834033: 8
+    U9834004: 7
+    U9834038: 7
+    story: huang00
   Brown:
-    U9831144: 2
-    U9831124: 1
-    U9742047: 2
-    T9831018: 0
-    story: fourideas5
+    U9834026: 8
+    U9834037: 8
+    U9834010: 8
+    U9834009: 8
+    story: huang00
   Gray:
-    U9831128: 4
-    U9831122: 4
-    U9831131: 3
-    U9831016: 4
-    story: fourideas4
+    U9834013: 9
+    U9834040: 9
+    U9834051: 9
+    U9834034: 9
+    story: huang11
+  Green:
+    U9834052: 9
+    U9834049: 9
+    U9834028: 9
+    U9834029: 9
+    story: huang11
   Orange:
-    U9831127: 4
-    T9831023: 4
-    U9831007: 4
-    U9831024: 4
-    story: fourideas2
+    U9634018: 9
+    U9834039: 9
+    U9834036: 9
+    U9834041: 9
+    story: huang11
   Pink:
-    U9831132: 1
-    T9831003: 4
-    U9831002: 4
-    U9831012: 4
-    story: fourideas5
+    U9834019: 8
+    U9834021: 8
+    U9834024: 8
+    U9834020: 8
+    story: huang00
   Purple:
-    U9831005: 1
-    U9831046: 1
-    U9831035: 1
-    U9831143: 1
-    story: fourideas4
+    U9834046: 3
+    U9834007: 1
+    U9834047: 0
+    U9834050: 3
+    story: huang00
   Red:
-    U9831147: 4
-    U9831043: 4
-    U9831116: 4
-    U9831109: 4
-    story: fourideas2
+    U9833004: 10
+    U9834015: 9
+    U9834016: 10
+    U9834025: 10
+    story: huang00
   White:
-    U9831110: 0
-    U9831049: 2
-    U9831040: 0
-    U9831114: 0
-    story: fourideas5
-  Yellow:
-    U9831135: 1
-    U9831018: 1
-    U9831140: 1
-    U9831112: 1
-    story: fourideas3
+    U9834057: 9
+    U9834005: 10
+    U9834027: 10
+    U9834042: 10
+    story: huang11
