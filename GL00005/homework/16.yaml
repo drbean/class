@@ -1,71 +1,63 @@
 ---
 cutpoints:
   one: 50
-  two: 190
-exercise: conant
+  two: 180
+exercise: selassie
 grade:
-  9622212: 0
-  9622240: 2
-  N9561765: 1
-  N9561766: 2
-  N9661723: 2
-  N9661747: 2
-  T9822149: 0
-  U9615010: 0
-  U9633019: 0
-  U9633052: 2
-  U9722022: 2
-  U9818007: 2
-  U9818046: 1
-  U9821142: 2
-  U9822004: 2
-  U9822019: 2
+  T9811035: 0
+  T9831040: 1
+  U9623038: 2
+  U9711025: 0
+  U9711052: 2
+  U9715014: 2
+  U9723056: 2
+  U9813024: 0
+  U9823011: 2
+  U9831049: 2
+  U9916029: 1
+  U9922235: 2
+  U9931143: 2
+  V9741065: 0
 points:
-  9622212:
+  T9811035:
     letters: 0
     questions: 0
-  9622240:
+  T9831040:
+    letters: 121
+    questions: 0
+  U9623038:
     letters: 0
     questions: 1
-  N9561765:
-    letters: 157
+  U9711025:
+    letters: 0
     questions: 0
-  N9561766:
+  U9711052:
+    letters: 192
+    questions: 0
+  U9715014:
     letters: 196
-    questions: 0
-  N9661723:
-    letters: 220
-    questions: 0
-  N9661747:
-    letters: 231
     questions: 1
-  T9822149:
-    letters: 0
-    questions: 0
-  U9615010:
-    letters: 0
-    questions: 0
-  U9633019:
-    letters: 0
-    questions: 0
-  U9633052:
-    letters: 231
-    questions: 1
-  U9722022:
+  U9723056:
     letters: 0
     questions: 1
-  U9818007:
-    letters: 229
+  U9813024:
+    letters: 0
     questions: 0
-  U9818046:
-    letters: 147
-    questions: 0
-  U9821142:
-    letters: 220
+  U9823011:
+    letters: 0
     questions: 1
-  U9822004:
-    letters: 220
+  U9831049:
+    letters: 0
+    questions: 1
+  U9916029:
+    letters: 52
     questions: 0
-  U9822019:
-    letters: 229
+  U9922235:
+    letters: 182
+    questions: 0
+  U9931143:
+    letters: 0
+    questions: 1
+  V9741065:
+    letters: 0
     questions: 0
