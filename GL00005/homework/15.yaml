@@ -1,71 +1,63 @@
 ---
 cutpoints:
   one: 50
-  two: 140
-exercise: desilvey
+  two: 150
+exercise: brock
 grade:
-  9622212: 2
-  9622240: 2
-  N9561765: 2
-  N9561766: 2
-  N9661723: 2
-  N9661747: 2
-  T9822149: 0
-  U9615010: 0
-  U9633019: 2
-  U9633052: 2
-  U9722022: 2
-  U9818007: 2
-  U9818046: 0
-  U9821142: 2
-  U9822004: 1
-  U9822019: 2
+  T9811035: 0
+  T9831040: 1
+  U9623038: 2
+  U9711025: 0
+  U9711052: 0
+  U9715014: 2
+  U9723056: 2
+  U9813024: 1
+  U9823011: 1
+  U9831049: 2
+  U9916029: 1
+  U9922235: 2
+  U9931143: 2
+  V9741065: 2
 points:
-  9622212:
-    letters: 172
-    questions: 1
-  9622240:
-    letters: 0
-    questions: 1
-  N9561765:
-    letters: 228
-    questions: 0
-  N9561766:
-    letters: 157
-    questions: 0
-  N9661723:
-    letters: 182
-    questions: 1
-  N9661747:
-    letters: 159
-    questions: 0
-  T9822149:
+  T9811035:
     letters: 0
     questions: 0
-  U9615010:
+  T9831040:
+    letters: 58
+    questions: 0
+  U9623038:
+    letters: 0
+    questions: 1
+  U9711025:
     letters: 0
     questions: 0
-  U9633019:
-    letters: 159
-    questions: 1
-  U9633052:
-    letters: 171
-    questions: 1
-  U9722022:
-    letters: 171
-    questions: 1
-  U9818007:
-    letters: 182
-    questions: 0
-  U9818046:
+  U9711052:
     letters: 0
     questions: 0
-  U9821142:
-    letters: 159
+  U9715014:
+    letters: 12
     questions: 1
-  U9822004:
-    letters: 106
+  U9723056:
+    letters: 0
+    questions: 1
+  U9813024:
+    letters: 87
     questions: 0
-  U9822019:
-    letters: 171
+  U9823011:
+    letters: 84
     questions: 0
+  U9831049:
+    letters: 0
+    questions: 1
+  U9916029:
+    letters: 102
+    questions: 0
+  U9922235:
+    letters: 0
+    questions: 1
+  U9931143:
+    letters: 158
+    questions: 0
+  V9741065:
+    letters: 0
+    questions: 1
