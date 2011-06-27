@@ -105,7 +105,6 @@ group:
 late:
   - V9841005
   - V9741018
-  - 
 pairing: swiss (changed)
 round: 2 (was: 9)
 text: ../../class/conversation/dying/cards.yaml
