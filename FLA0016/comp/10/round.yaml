@@ -91,7 +91,7 @@ group:
   21:
     White: V9841022
     Black: V9841044
-late: ~
+late:
 pairing: swiss
 round: 1 (was 10)
 text: ../../class/conversation/psych/cards.yaml

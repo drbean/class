@@ -93,7 +93,6 @@ group:
     White: V9841011
     Black: V9841053
 late:
-  - ~
 pairing: swiss
 round: 2 (was 11)
 text: ../../class/conversation/psych/cards.yaml
