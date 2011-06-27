@@ -6,6 +6,7 @@ exercise: undertaker
 grade:
   9616201: 2
   T9811101: 2
+  T9811111: 2
   T9811142: 2
   T9813003: 0
   T9813004: 2
@@ -13,6 +14,7 @@ grade:
   T9813014: 2
   T9821014: 2
   T9821033: 2
+  T9821036: 2
   T9821043: 2
   T9831047: 2
   U9621094: 2
@@ -22,8 +24,12 @@ grade:
   U9718036: 2
   U9718042: 2
   U9742052: 2
+  U9743024: 2
   U9811010: 0
-  U9811127: 0
+  U9811127: 1
+  U9811142: 2
+  U9811144: 2
+  U9811149: 2
   U9822002: 0
   U9843004: 2
   U9843023: 2
@@ -34,6 +40,9 @@ points:
   T9811101:
     letters: 173
     questions: 0
+  T9811111:
+    letters: 0
+    questions: 1
   T9811142:
     letters: 0
     questions: 1
@@ -55,6 +64,9 @@ points:
   T9821033:
     letters: 204
     questions: 0
+  T9821036:
+    letters: 180
+    questions: 0
   T9821043:
     letters: 189
     questions: 0
@@ -72,7 +84,7 @@ points:
     questions: 0
   U9718033:
     letters: 173
-    questions: 0
+    questions: 1
   U9718036:
     letters: 0
     questions: 1
@@ -82,12 +94,24 @@ points:
   U9742052:
     letters: 173
     questions: 1
+  U9743024:
+    letters: 173
+    questions: 1
   U9811010:
     letters: 0
     questions: 0
   U9811127:
-    letters: 0
+    letters: 65
     questions: 0
+  U9811142:
+    letters: 189
+    questions: 0
+  U9811144:
+    letters: 0
+    questions: 1
+  U9811149:
+    letters: 0
+    questions: 1
   U9822002:
     letters: 0
     questions: 0
