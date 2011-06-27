@@ -14,6 +14,7 @@ grade:
   U9813024: 2
   U9823011: 2
   U9831049: 2
+  U9916029: 0
   U9922235: 2
   U9931143: 2
   V9741065: 2
@@ -47,6 +48,9 @@ points:
     questions: 1
   U9831049:
     letters: 254
+    questions: 0
+  U9916029:
+    letters: 19
     questions: 0
   U9922235:
     letters: 224
