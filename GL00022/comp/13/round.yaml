@@ -1,25 +1,47 @@
 ---
-round: 13
-week: 13
-absent:
-text: /home/drbean/class/conversation/WorkFood/cards.yaml
-bye: U9615010
 activity:
-  cronig:
-    1:
-      - White: U9722022
-        Black: N9661747
-      - White: 9622240
-        Black: 9622212
-  lerman:
-    1:
-      - White: U9822004
-        Black: N9561765
-      - White: U9633052
-        Black: U9633019
-  tyson:
-    1:
-      - White: N9661723
-        Black: T9822149
-      - White: U9821142
-        Black: U9822019
+  tremonte:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+bye: U9743024
+group:
+  0:
+    White: U9718033
+    Black: U9822002
+  1:
+    White: T9811142
+    Black: U9718016
+  2:
+    White: T9813003
+    Black: U9843023
+  3:
+    White: T9813004
+    Black: T9821043
+  4:
+    White: 9616201
+    Black: T9821036
+  5:
+    White: U9742052
+    Black: T9813014
+  6:
+    White: U9621094
+    Black: T9813009
+  7:
+    White: T9831047
+    Black: T9821033
+  8:
+    White: U9811127
+    Black: T9811111
+late:
+pairing: swiss
+round: 13
+text: ../../class/conversation/psych/cards.yaml
+week: 17
