@@ -157,7 +157,6 @@ group:
     White: V9841013
     Black: V9841022
 late:
-  - ~
 round: 1
 text: ../../class/conversation/9-11/cards.yaml
 week: 5

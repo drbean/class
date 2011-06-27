@@ -85,7 +85,6 @@ group:
     White: V9841004
     Black: V9841022
 late:
-  - ~
 round: 2
 text: ../../class/conversation/parents/cards.yaml
 week: 6
