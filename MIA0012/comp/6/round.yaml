@@ -97,12 +97,13 @@ group:
     Black: T9833013
   23:
      White: U9833002
-     Black: U9833001
+     Black: U9833009
   24:
      White: U9833030
      Black: U9833035
   
 late:
+  - U9833009
   - U9833035
   - U9833030
 round: 6
