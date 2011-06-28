@@ -1,61 +1,94 @@
 ---
-round: 7
-week: 8
-absent:
-text: 
-late:
-#  - U9833045
-#  - U9833049
 activity:
-  vacation:
-    1:
-      - Black: T9833050
-        White: U9833020
-      - Black: T9833046
-        White: U9833040
-      - Black: U9833047
-        White: U9833022
-      - Black: U9833038
-        White: U9833034
-      - Black: T9833027
-        White: T9833037
-      - Black: T9833025
-        White: U9833043
-      - Black: U9833007
-        White: U9833014
-      - Black: U9833011
-        White: U9833044
-      - Black: U9833041
-        White: U9833026
-      - Black: U9833002
-        White: T9833045
-      - Black: U9833052
-        White: T9833013
-      - Black: U9833005
-        White: U9833023
-      - Black: U9833039
-        White: T9833004
-      - Black: T9833009
-        White: T9833006
-      - Black: U9833025
-        White: U9833050
-      - Black: T9833039
-        White: T9833028
-      - Black: T9833030
-        White: U9833048
-      - Black: T9833043
-        White: U9833015
-      - Black: U9833001
-        White: U9833035
-      - Black: U9833049
-        White: U9833009
-      - Black: U9831107
-        White: U9833031
-      - Black: U9833024
-        White: U9833045
-      - Black: U9833019
-        White: T9833035
-      -
-         White: T9833032
-         Black: U9833003
-      
+  kendall:
+    coventgreen:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+group:
+  0:
+    White: T9833037
+    Black: U9833034
+  1:
+    White: U9833044
+    Black: U9833022
+  2:
+    White: U9833020
+    Black: T9833035
+  3:
+    White: T9833030
+    Black: U9833025
+  4:
+    White: U9833038
+    Black: U9833023
+  5:
+    White: T9833028
+    Black: U9833015
+  6:
+    White: U9833003
+    Black: U9833001
+  7:
+    White: T9833050
+    Black: T9833045
+  8:
+    White: T9833039
+    Black: T9833009
+  9:
+    White: U9833048
+    Black: U9833026
+  10:
+    White: T9833046
+    Black: U9833011
+  11:
+    White: U9833041
+    Black: U9833043
+  12:
+    White: U9833039
+    Black: U9833007
+  13:
+    White: T9833027
+    Black: T9833006
+  14:
+    White: U9833005
+    Black: U9833040
+  15:
+    White: U9833024
+    Black: U9833045
+  16:
+    White: U9833009
+    Black: U9833014
+  17:
+    White: U9833019
+    Black: T9833025
+  18:
+    White: U9833035
+    Black: T9833032
+  19:
+    White: T9733022
+    Black: U9833030
+  20:
+     White: T9833013
+     Black: T9833043
+late:
+  - T9833043
+round: 7
+text: ../../class/business/planning/cards.yaml
+week: 11
