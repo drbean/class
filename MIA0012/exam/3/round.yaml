@@ -1,99 +1,102 @@
 ---
-round: Exam 1
-week: 6
+round: Exam 3
+week: 13
 questions:
-  - 4
-pass: 1
+  - 9
+pass: 3
 assistant:
-  - Bernie
-  - Tim
-  - XiaoXian
+  - YaTing
+  - Victor
+  - Yu-Ying
 absent:
-    - Sam
-    - HanPing
-text: /home/drbean/class/business/companies/cards.yaml
+    - Shuai
+    - Jeter
+text: /home/drbean/class/business/PlanningManagingConflict/cards.yaml
 activity:
-  fourswot:
-    0:
-      - Gray
-      - Purple
-      - Red
-      - Yellow
-    1:
-      - White
-      - Pink
-      - Blue
+  story:
     2:
-      - Brown
-      - Black
-      - Orange
+      - Gray
+      - Red
     3:
-      - Green
-      - BlackBlack
+      - Pink
       - WhiteWhite
+  kendall:
+    2:
+      - Black
+      - Blue
+      - Green
+    3:
+      - Brown
+      - Purple
+      - Yellow
+  nicholson:
+    0:
+      - BlackBlack
+      - Orange
+      - White
 group:
   Black:
-    - ChenHan
-    - MeiQing
-    - XiaoXian
-    - Victor
+    - YaTing
+    - Kou-wei
+    - HuiLin
+    - Si-Yu
   BlackBlack:
     - MingHan
-    - Wade
-    - Peter
-    - YuXin
-  Blue:
-    - Friday
-    - LiLing
-    - PingJie
-    - XiaoRou
-  Brown:
-    - Hanna
-    - Jane
-    - Ying-Hsuan
-    - HuiLin
-  Gray:
-    - YaYun
-    - Chase
-    - Yi-ting
-    - Alexis
-  Green:
-    - Yan
-    - Ray
-    - Entian
-    - YuXun
-  Orange:
     - Bernie
-    - Yu-Ying
-    - Nate
-    - Han-Yu
-  Pink:
-    - JiaXiang
-    - XiaoQi
-    - Kou-wei
-    - Bernie
-  Purple:
-    - ChuJun
-    - David
-    - GuanYin
-    - Tim
-  Red:
-    - Tim
-    - Chung
     - Ya-syuan
-    - Zong-Hua
-  White:
-    - Flora
-    - WenXiao
-    - XiaoWei
-    - Si-Yu
-  WhiteWhite:
-    - Ching
-    - Jie-Yu
+    - LiLing
+  Blue:
     - YaTing
     - XiaoXian
-  Yellow:
-    - Jeter
-    - Raffaele
+    - JiaXiang
+    - Entian
+  Brown:
+    - Ray
+    - David
+    - YuXin
+    - Ying-Hsuan
+  Gray:
+    - Wade
+    - Sam
+    - Alexis
+    - Yu-Ying
+  Green:
+    - PingJie
+    - GuanYin
+    - ChenHan
+    - XiaoRou
+  Orange:
+    - Yan
+    - Jie-Yu
     - YuJie
-    - Bernie
+    - MeiQing
+  Pink:
+    - Hanna
+    - YuXun
+    - Chung
+    - Zong-Hua
+  Purple:
+    - Flora
+    - Jane
+    - XiaoWei
+    - Yi-ting
+  Red:
+    - HanPing
+    - Peter
+    - Victor
+    - YaYun
+  White:
+    - Raffaele
+    - WenXiao
+    - XiaoQi
+    - Nate
+  WhiteWhite:
+    - ChuJun
+    - Ching
+    - Friday
+    - Chase
+  Yellow:
+    - Victor
+    - Han-Yu
+    - Tim
+    - Yu-Ying
