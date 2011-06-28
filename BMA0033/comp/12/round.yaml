@@ -1,69 +1,171 @@
 ---
-round: 12
-week: 13
-absent:
-text: /home/drbean/class/business/companies/cards.yaml
 activity:
-  dictation:
+  ingredients:
     0:
-      -
-        White: U9831007
-        Black: U9831006
-      -
-        White: U9831005
-        Black: U9831106
-      -
-        White: U9831110
-        Black: T9831023
-      -
-        White: U9831109
-        Black: U9831124
-      -
-        White: U9831132
-        Black: U9831112
-      -
-        White: U9831046
-        Black: U9831018
-      -
-        White: U9831024
-        Black: T9831003
-      -
-        White: U9831127
-        Black: U9831102
-      -
-        White: U9831021
-        Black: U9831049
-      -
-        White: U9831040
-        Black: U9831043
-      -
-        White: U9831130
-        Black: U9831116
-      -
-        White: U9831135
-        Black: U9831147
-      -
-        White: T9831018
-        Black: T9831015
-      -
-        White: U9831044
-        Black: U9831012
-      -
-        White: U9831131
-        Black: U9831114
-      -
-        White: U9742047
-        Black: U9831138
-      -
-        White: U9831028
-        Black: U9831035
-      -
-        White: U9831140
-        Black: U9831143
-      -
-        White: U9831039
-        Black: U9831122
-      -
-        White: U9831002
-        Black: U9831016
-      
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+  market:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+  huang:
+    2:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+bye: T9831030
+group:
+  0:
+    White: U9831002
+    Black: U9831049
+  1:
+    White: U9831116
+    Black: U9831112
+  2:
+    White: U9831035
+    Black: U9831138
+  3:
+    White: U9831140
+    Black: U9831046
+  4:
+    White: T9831023
+    Black: U9831131
+  5:
+    White: U9831024
+    Black: U9742047
+  6:
+    White: T9831003
+    Black: U9831040
+  7:
+    White: U9831028
+    Black: U9831109
+  8:
+    White: U9831039
+    Black: U9831143
+  9:
+    White: U9831044
+    Black: U9831110
+  10:
+    White: U9831144
+    Black: U9831012
+  11:
+    White: U9831007
+    Black: U9831127
+  12:
+    White: U9831018
+    Black: U9831016
+  13:
+    White: U9831122
+    Black: U9734040
+  14:
+    White: U9831102
+    Black: U9831021
+  15:
+    White: U9831147
+    Black: U9831124
+  16:
+    White: U9831135
+    Black: T9831015
+  17:
+    White: T9831018
+    Black: U9831108
+  18:
+    White: U9831132
+    Black: U9831106
+  19:
+    White: U9831043
+    Black: U9831005
+  20:
+    White: U9831006
+    Black: U9831114
+  21:
+    White: U9831130
+    Black: U9831128
+late:
+  - ~
+pairing: swiss
+round: 1 (was 12)
+text: ../../class/business/newbusiness/cards.yaml
+week: 18
