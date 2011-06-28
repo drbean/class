@@ -4,10 +4,10 @@ cutpoints:
   two: 150
 exercise: stress-1
 grade:
+  U9634018: 0
   U9833004: 0
   U9834001: 2
   U9834002: 0
-  U9834003: 0
   U9834004: 2
   U9834005: 2
   U9834006: 2
@@ -49,6 +49,9 @@ grade:
   U9834052: 0
   U9834057: 0
 points:
+  U9634018:
+    letters: 0
+    questions: 0
   U9833004:
     letters: 0
     questions: 0
@@ -56,9 +59,6 @@ points:
     letters: 188
     questions: 0
   U9834002:
-    letters: 0
-    questions: 0
-  U9834003:
     letters: 0
     questions: 0
   U9834004:
