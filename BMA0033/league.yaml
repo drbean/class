@@ -233,22 +233,22 @@ member:
     name: Gwan-Chi
     password: kuan
     rating: 76
-  - Chinese: 黃思翰
-    id: U9731044
-    name: T-Play
-    password: si
-    rating: ~
   - Chinese: 楊崴宇
     id: U9831006
     name: Nick
     password: wei
     rating: 54
+out:
+  - Chinese: 黃思翰
+    id: U9731044
+    name: T-Play
+    password: si
+    rating: ~
   - Chinese: 張惟策
     id: U9831119
     name: Wei-Cei
     password: wei
     rating: ~
-out:
 room: A705
 scores:
   bye: 5
