@@ -1,0 +1,359 @@
+---
+0:
+  undertaker: ~
+  oakland: ~
+  spirits:
+    0:
+      free:
+        U9718033:
+          q:
+            1: 2
+          a:
+            1: 2
+        U9718036:
+          q:
+            1: 2
+          a:
+            1: 2
+      set:
+        U9718033:
+          6: T
+        U9718036:
+          6: T
+  wardead: ~
+1:
+  undertaker: ~
+  oakland: ~
+  spirits: ~
+  wardead:
+    0:
+      free:
+        U9718016:
+          q:
+            1: 2
+          a:
+            1: 2
+        T9821043:
+          q:
+            1: 2
+          a:
+            1: 2
+      set:
+        U9718016:
+          5:   F
+        T9821043:
+          5: T
+2:
+  undertaker: ~
+  oakland:
+    0:
+      free:
+        U9843023:
+          q:
+            1: 2
+          a:
+            1: 2
+        U9718042:
+          q:
+            1: 2
+          a:
+            1: 2
+      set:
+        U9843023:
+          4:   F
+        U9718042:
+          4:   F
+  spirits: ~
+  wardead: ~
+3:
+  undertaker: ~
+  oakland: ~
+  spirits:
+    0:
+      free:
+        T9813003:
+          q:
+            1: 2
+          a:
+            1: 2
+        9616201:
+          q:
+            1: 2
+          a:
+            1: 2
+      set:
+        T9813003:
+          6:   F
+        9616201:
+          6: T
+  wardead: ~
+4:
+  undertaker:
+    1:
+      free:
+        T9811142:
+          q:
+            1: 2
+          a:
+            1: 2
+        T9821014:
+          q:
+            1: 1
+          a:
+            1: 2
+      set:
+        T9811142:
+          6: T
+        T9821014:
+          6: T
+  oakland: ~
+  spirits: ~
+  wardead: ~
+5:
+  undertaker: ~
+  oakland: ~
+  spirits: ~
+  wardead:
+    0:
+      free:
+        U9822002:
+          q:
+            1: 1
+          a:
+            1: 2
+        T9813014:
+          q:
+            1: 2
+          a:
+            1: 2
+      set:
+        U9822002:
+          4: T
+        T9813014:
+          4:   F
+6:
+  undertaker: ~
+  oakland:
+    0:
+      free:
+        T9821033:
+          q:
+            1: 1
+          a:
+            1: 2
+        U9811144:
+          q:
+            1: 1
+          a:
+            1: 2
+      set:
+        T9821033:
+          4: T
+        U9811144:
+          4: T
+  spirits: ~
+  wardead:
+    0:
+      free:
+        T9821033:
+          q:
+            1: 1
+          a:
+            1: 2
+        U9811144:
+          q:
+            1: 2
+          a:
+            1: 2
+      set:
+        T9821033:
+          1: ~
+        U9811144:
+          1: ~
+7:
+  undertaker: ~
+  oakland: ~
+  spirits:
+    0:
+      free:
+        T9813009:
+          q:
+            1: 1
+          a:
+            1: 2
+        U9811127:
+          q:
+            1: 1
+          a:
+            1: 2
+      set:
+        T9813009:
+          5: T
+        U9811127:
+          5: T
+  wardead: ~
+8:
+  undertaker:
+    1:
+      free:
+        T9821036:
+          q:
+            1: 2
+          a:
+            1: 2
+        U9621094:
+          q:
+            1: 2
+          a:
+            1: 2
+      set:
+        T9821036:
+          6: T
+        U9621094:
+          6: T
+  oakland: ~
+  spirits: ~
+  wardead:
+    0:
+      free:
+        T9821036:
+          q:
+            1: 2
+          a:
+            1: 2
+        U9621094:
+          q:
+            1: 2
+          a:
+            1: 2
+      set:
+        T9821036:
+          1: ~
+        U9621094:
+          1: ~
+9:
+  undertaker: ~
+  oakland: ~
+  spirits: ~
+  wardead:
+    0:
+      free:
+        U9718022:
+          q:
+            1: 1
+            2: 2
+          a:
+            1: 2
+            2: 2
+        U9742052:
+          q:
+            1: 1
+            2: 1
+          a:
+            1: 2
+            2: 2
+      set:
+        U9718022:
+          6: T
+        U9742052:
+          6: T
+10:
+  undertaker: ~
+  oakland:
+    0:
+      free:
+        T9831047:
+          q:
+            1: 2
+          a:
+            1: 2
+        U9811149:
+          q:
+            1: 2
+          a:
+            1: 2
+      set:
+        T9831047:
+          4: T
+        U9811149:
+          4: T
+  spirits: ~
+  wardead:
+    0:
+      free:
+        T9831047:
+          q:
+            1: 2
+          a:
+            1: 2
+        U9811149:
+          q:
+            1: 1
+          a:
+            1: 2
+      set:
+        T9831047:
+          1: ~
+        U9811149:
+          1: ~
+11:
+  undertaker: ~
+  oakland: ~
+  spirits:
+    0:
+      free:
+        T9811111:
+          q:
+            1: 2
+          a:
+            1: 2
+        T9811101:
+          q:
+            1: 1
+          a:
+            1: 2
+      set:
+        T9811111:
+          6: T
+        T9811101:
+          6: T
+  wardead: ~
+12:
+  undertaker:
+    1:
+      free:
+        U9811142:
+          q:
+            1: 2
+          a:
+            1: 2
+        U9743024:
+          q:
+            1: 2
+          a:
+            1: 2
+      set:
+        U9811142:
+          5: T
+        U9743024:
+          5: T
+  oakland:
+    0:
+      free:
+        U9811142:
+          q:
+            1: 2
+          a:
+            1: 2
+        U9743024:
+          q:
+            1: 1
+          a:
+            1: 2
+      set:
+        U9811142:
+          1: ~
+        U9743024:
+          1: ~
+  spirits: ~
+  wardead: ~

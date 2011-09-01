@@ -1,0 +1,43 @@
+---
+activity:
+  brock:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+group:
+  0:
+     White: U9621094
+     Black: U9811127
+  1:
+     White: U9718033
+     Black: T9821043
+  2:
+     White: T9821033
+     Black: T9811142
+  3:
+     White: T9811101
+     Black: T9831047
+  4:
+     White: U9718036
+     Black: U9718016
+  5:
+     White: U9718042
+     Black: T9821036
+  6:
+     White: U9742052
+     Black: T9811111
+  7:
+     White: T9821014
+     Black: U9843023
+bye: U9822002
+late:
+pairing: hand
+round: 11
+text: ../../class/conversation/psych/cards.yaml
+week: 15

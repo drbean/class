@@ -1,0 +1,45 @@
+---
+Chinese:
+  Black: 0
+  Gray: 0
+  Green: 0
+  Pink: 0
+  Purple: 0
+  White: 0
+letters:
+  Black:
+    T9821033: 9
+    U9843023: 10
+    T9831047: 6
+    T9821014: 4
+    story: emersonj1
+  Gray:
+    9616201: 9
+    U9811010: 8
+    U9742052: 9
+    T9811142: 8
+    story: biomom2e
+  Green:
+    T9811101: 4
+    U9718042: 4
+    T9813014: 4
+    U9843004: 2
+    story: emersonj1
+  Pink:
+    U9822002: 7
+    T9813004: 6
+    U9718033: 9
+    U9718016: 8
+    story: biomom2e
+  Purple:
+    U9811127: 6
+    U9718036: 5
+    U9621094: 3
+    U9718022: 7
+    story: biodad3
+  White:
+    T9821043: 7
+    U9822002: 8
+    T9813009: 6
+    T9813003: 6
+    story: biomom2e

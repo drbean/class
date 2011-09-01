@@ -1,0 +1,75 @@
+---
+activity:
+  undertaker:
+    1:
+      - 4
+      - 8
+      - 12
+  oakland:
+    0:
+      - 2
+      - 6
+      - 10
+      - 12
+  spirits:
+    0:
+      - 0
+      - 3
+      - 7
+      - 11
+  wardead:
+    0:
+      - 1
+      - 5
+      - 6
+      - 8
+      - 9
+      - 10
+group:
+  0:
+    White: U9718033
+    Black: U9718036
+  1:
+    White: U9718016
+    Black: T9821043
+  2:
+    White: U9843023
+    Black: U9718042
+  3:
+    White: T9813003
+    Black: 9616201
+  4:
+    White: T9811142
+    Black: T9821014
+  5:
+    White: U9822002
+    Black: T9813014
+  6:
+    White: T9821033
+    Black: U9811144
+  7:
+    White: T9813009
+    Black: U9811127
+  8:
+    White: T9821036
+    Black: U9621094
+  9:
+    White: U9718022
+    Black: U9742052
+  10:
+    White: T9831047
+    Black: U9811149
+  11:
+    White: T9811111
+    Black: T9811101
+  12:
+     White: U9811142
+     Black: U9743024
+bye: T9813004
+late:
+  - U9743024
+  - T9813004
+pairing: swiss (changed)
+round: 10
+text: ../../class/conversation/dying/cards.yaml
+week: 14
