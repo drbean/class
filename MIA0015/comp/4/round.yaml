@@ -1,0 +1,108 @@
+---
+activity:
+  huang:
+    2:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+bye: T9733022
+group:
+  0:
+    White: U9833048
+    Black: T9833009
+  1:
+    White: U9833040
+    Black: U9833034
+  2:
+    White: U9833044
+    Black: U9833050
+  3:
+    White: U9831107
+    Black: U9833025
+  4:
+    White: U9833002
+    Black: U9833026
+  5:
+    White: U9833014
+    Black: T9833006
+  6:
+    White: U9833011
+    Black: T9833028
+  7:
+    White: T9833039
+    Black: T9833030
+  8:
+    White: U9833023
+    Black: T9833035
+  9:
+    White: T9833037
+    Black: U9833045
+  10:
+    White: U9833022
+    Black: U9833001
+  11:
+    White: U9833035
+    Black: T9833004
+  12:
+    White: U9833030
+    Black: U9833020
+  13:
+    White: U9833049
+    Black: T9833027
+  14:
+    White: T9833025
+    Black: U9833039
+  15:
+    White: T9833013
+    Black: U9833005
+  16:
+    White: U9833003
+    Black: T9833045
+  17:
+    White: T9833032
+    Black: T9833043
+  18:
+    White: T9833050
+    Black: T9833046
+  19:
+    White: U9833041
+    Black: U9833047
+  20:
+    White: U9833038
+    Black: U9833007
+  21:
+    White: U9833015
+    Black: U9833052
+  22:
+    White: U9833009
+    Black: U9733013
+  23:
+    White: U9833031
+    Black: U9833019
+late:
+  - T9833043
+pairing: swiss
+round: 4 (was 13)
+text: ../../class/business/newbusiness/cards.yaml
+week: 17

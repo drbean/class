@@ -1,0 +1,97 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 4
+pass: 2
+assistant:
+  - Hanna
+  - YuJie
+absent:
+    - Jeter
+text: /home/drbean/class/business/stress/cards.yaml
+activity:
+  adventure:
+    4:
+      - BlackBlack
+      - Gray
+      - Orange
+      - Yellow
+    5:
+      - Black
+      - Green
+      - Pink
+    6:
+      - Blue
+      - Purple
+      - Red
+    7:
+      - Brown
+      - White
+      - WhiteWhite
+group:
+  Black:
+    - Sam
+    - JiaXiang
+    - GuanYin
+    - Nate
+  BlackBlack:
+    - MingHan
+    - XiaoXian
+    - Ya-syuan
+    - Victor
+  Blue:
+    - Ching
+    - XiaoQi
+    - Ying-Hsuan
+    - XiaoRou
+  Brown:
+    - Ray
+    - Chase
+    - Raffaele
+    - Han-Yu
+  Gray:
+    - Wade
+    - Flora
+    - Zong-Hua
+    - YuXin
+  Green:
+    - Friday
+    - Yu-Ying
+    - Peter
+    - HuiLin
+  Orange:
+    - WenXiao
+    - Yi-ting
+    - XiaoWei
+    - Entian
+  Pink:
+    - David
+    - Si-Yu
+    - MeiQing
+    - Tim
+  Purple:
+    - Jane
+    - Hanna
+    - Bernie
+    - YuJie
+  Red:
+    - ChuJun
+    - Yan
+    - YuXun
+    - ChenHan
+  White:
+    - Chung
+    - YaYun
+    - Kou-wei
+    - LiLing
+  WhiteWhite:
+    - HanPing
+    - Jie-Yu
+    - YaTing
+    - Shuai
+  Yellow:
+    - PingJie
+    - Hanna
+    - Alexis
+    - YuJie

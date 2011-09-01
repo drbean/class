@@ -1,0 +1,94 @@
+---
+activity:
+  kendall:
+    coventgreen:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+group:
+  0:
+    White: T9833037
+    Black: U9833034
+  1:
+    White: U9833044
+    Black: U9833022
+  2:
+    White: U9833020
+    Black: T9833035
+  3:
+    White: T9833030
+    Black: U9833025
+  4:
+    White: U9833038
+    Black: U9833023
+  5:
+    White: T9833028
+    Black: U9833015
+  6:
+    White: U9833003
+    Black: U9833001
+  7:
+    White: T9833050
+    Black: T9833045
+  8:
+    White: T9833039
+    Black: T9833009
+  9:
+    White: U9833048
+    Black: U9833026
+  10:
+    White: T9833046
+    Black: U9833011
+  11:
+    White: U9833041
+    Black: U9833043
+  12:
+    White: U9833039
+    Black: U9833007
+  13:
+    White: T9833027
+    Black: T9833006
+  14:
+    White: U9833005
+    Black: U9833040
+  15:
+    White: U9833024
+    Black: U9833045
+  16:
+    White: U9833009
+    Black: U9833014
+  17:
+    White: U9833019
+    Black: T9833025
+  18:
+    White: U9833035
+    Black: T9833032
+  19:
+    White: T9733022
+    Black: U9833030
+  20:
+     White: T9833013
+     Black: T9833043
+late:
+  - T9833043
+round: 7
+text: ../../class/business/planning/cards.yaml
+week: 11

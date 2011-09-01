@@ -1,0 +1,95 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 5
+pass: 3
+assistant:
+  - XiaoXian
+absent:
+text: /home/drbean/class/business/marketing/cards.yaml
+activity:
+  water:
+    1:
+      - Black
+      - BlackBlack
+      - Pink
+    2:
+      - Brown
+      - Green
+      - Purple
+      - Yellow
+    3:
+      - Blue
+      - Red
+      - WhiteWhite
+    4:
+      - Gray
+      - Orange
+      - White
+group:
+  Black:
+    - Jeter
+    - JiaXiang
+    - PingJie
+    - YaTing
+  BlackBlack:
+    - HanPing
+    - XiaoXian
+    - GuanYin
+    - Nate
+  Blue:
+    - Sam
+    - XiaoQi
+    - Ya-syuan
+    - Victor
+  Brown:
+    - MingHan
+    - Chase
+    - Ying-Hsuan
+    - XiaoRou
+  Gray:
+    - Ching
+    - Flora
+    - Raffaele
+    - Han-Yu
+  Green:
+    - Ray
+    - Yu-Ying
+    - Zong-Hua
+    - YuXin
+  Orange:
+    - Wade
+    - Yi-ting
+    - Peter
+    - HuiLin
+  Pink:
+    - Friday
+    - Si-Yu
+    - XiaoWei
+    - Entian
+  Purple:
+    - WenXiao
+    - Hanna
+    - MeiQing
+    - Tim
+  Red:
+    - David
+    - Yan
+    - Bernie
+    - YuJie
+  White:
+    - Jane
+    - YaYun
+    - YuXun
+    - ChenHan
+  WhiteWhite:
+    - ChuJun
+    - Chung
+    - Kou-wei
+    - LiLing
+  Yellow:
+    - Shuai
+    - Jie-Yu
+    - Alexis
+    - XiaoXian

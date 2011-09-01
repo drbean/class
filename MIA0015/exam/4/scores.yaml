@@ -1,0 +1,94 @@
+---
+Chinese:
+  Black: 1
+  BlackBlack: 1
+  Blue: 0
+  Brown: 0
+  Gray: 0
+  Green: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
+  Red: 1
+  White: 1
+  WhiteWhite: 1
+  Yellow: 0
+letters:
+  Black:
+    T9733022: 7
+    U9831107: 8
+    T9833027: 9
+    T9833030: 8
+    story: huang00
+  BlackBlack:
+    T9833013: 3
+    T9833035: 5
+    T9833028: 3
+    U9833025: 3
+    story: huang11
+  Blue:
+    U9833002: 6
+    U9833050: 6
+    U9833005: 6
+    U9833041: 6
+    story: huang2
+  Brown:
+    U9833009: 5
+    U9833045: 8
+    U9833011: 8
+    T9833037: 8
+    story: huang11
+  Gray:
+    U9833052: 9
+    U9833001: 8
+    T9833004: 9
+    T9833050: 9
+    story: huang00
+  Green:
+    U9833049: 9
+    U9833040: 9
+    U9833038: 9
+    T9833009: 9
+    story: huang2
+  Orange:
+    U9833030: 8
+    U9833014: 8
+    T9833006: 8
+    U9833020: 8
+    story: huang11
+  Pink:
+    U9833014: 7
+    U9833047: 7
+    U9833015: 7
+    U9833023: 7
+    story: huang11
+  Purple:
+    T9833046: 9
+    U9833039: 9
+    T9833039: 9
+    U9833022: 9
+    story: huang00
+  Red:
+    U9833043: 9
+    U9833019: 9
+    U9833024: 9
+    U9833007: 9
+    story: huang11
+  White:
+    U9833035: 5
+    T9833043: 5
+    T9833045: 5
+    U9833048: 5
+    story: huang2
+  WhiteWhite:
+    U9833031: 5
+    U9833003: 5
+    U9833044: 6
+    U9833026: 6
+    story: huang2
+  Yellow:
+    U9733013: 9
+    T9833025: 9
+    T9833004: 9
+    T9833050: 9
+    story: huang00
