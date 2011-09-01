@@ -1,0 +1,101 @@
+---
+activity:
+  kendall:
+    influences:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+group:
+  0:
+    White: U9831106
+    Black: U9831002
+  1:
+    White: U9742047
+    Black: U9831135
+  2:
+    White: U9831006
+    Black: U9831112
+  3:
+    White: U9831005
+    Black: U9831018
+  4:
+    White: U9831021
+    Black: U9831016
+  5:
+    White: T9831003
+    Black: U9831102
+  6:
+    White: U9831007
+    Black: U9831044
+  7:
+    White: U9831138
+    Black: U9831127
+  8:
+    White: U9831116
+    Black: U9831049
+  9:
+    White: U9831122
+    Black: U9831144
+  10:
+    White: U9831109
+    Black: U9831012
+  11:
+    White: U9831028
+    Black: U9831147
+  12:
+    White: T9831015
+    Black: U9831132
+  13:
+    White: U9831040
+    Black: U9831143
+  14:
+    White: U9831131
+    Black: U9831110
+  15:
+    White: U9734040
+    Black: U9831024
+  16:
+    White: T9831023
+    Black: U9831130
+  17:
+    White: U9831128
+    Black: U9831108
+  18:
+    White: U9831043
+    Black: U9831039
+  19:
+    White: U9831035
+    Black: U9831046
+  20:
+    White: T9831030
+    Black: U9831124
+  21:
+    White: U9831140
+    Black: T9831018
+bye: U9831114
+late:
+  - U9831109
+  - U9831012
+  - U9831002
+round: 7
+text: ../../class/business/planning/cards.yaml
+week: 12

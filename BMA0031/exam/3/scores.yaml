@@ -1,0 +1,80 @@
+---
+Chinese:
+  Black: 0
+  Blue: 0
+  Brown: 0
+  Gray: 0
+  Green: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
+  Red: 0
+  White: 0
+  Yellow: 0
+letters:
+  Black:
+    T9831030: 9
+    U9831130: 9
+    U9831039: 8
+    U9831044: 8
+    story: story2
+  Blue:
+    U9831108: 4
+    U9831016: 4
+    U9831147: 4
+    U9831049: 3
+    story: kendall2
+  Brown:
+    U9831018: 10
+    U9831132: 10
+    U9831002: 10
+    U9831012: 7
+    story: nicholson0
+  Gray:
+    U9831102: 8
+    U9831046: 7
+    U9831110: 8
+    U9831127: 8
+    story: nicholson0
+  Green:
+    U9831144: 8
+    U9831135: 7
+    T9831018: 9
+    U9831143: 8
+    story: kendall3
+  Orange:
+    U9734040: 8
+    U9831112: 8
+    U9831114: 8
+    U9831024: 8
+    story: story3
+  Pink:
+    U9831124: 9
+    T9831023: 9
+    U9831043: 9
+    U9831007: 9
+    story: story3
+  Purple:
+    U9831128: 10
+    U9831021: 9
+    U9831028: 9
+    U9831116: 7
+    story: story2
+  Red:
+    U9831005: 7
+    T9831015: 9
+    U9831106: 7
+    U9831109: 9
+    story: kendall2
+  White:
+    T9831003: 10
+    U9831035: 10
+    U9831131: 10
+    U9831138: 10
+    story: kendall3
+  Yellow:
+    U9831122: 10
+    U9742047: 10
+    U9831140: 10
+    U9831040: 10
+    story: kendall3

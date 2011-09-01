@@ -1,0 +1,89 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 6
+assistant:
+  - May
+  - Grace
+  - Betty
+absent:
+text: /home/drbean/class/business/newbusiness/cards.yaml
+activity:
+  huang:
+    00:
+      - Black
+      - Brown
+      - Green
+      - Orange
+      - White
+      - YellowYellow
+    11:
+      - Blue
+      - Gray
+      - Pink
+      - Purple
+      - Red
+      - Yellow
+group:
+  Black:
+    - Candy
+    - Helen
+    - Yi-Tang
+    - Li
+  Blue:
+    - Reicho
+    - ChiaoLing
+    - Zack
+    - Judy
+  Brown:
+    - Wang
+    - Sofie
+    - Dian
+    - Laura
+  Gray:
+    - Wei-jhih
+    - Aaron
+    - Patrick
+    - Amy
+  Green:
+    - Kuan-Li
+    - Alice
+    - Sandy
+    - Michelle
+  Orange:
+    - Jessie
+    - Tiffany
+    - Tina
+    - Wan-ling
+  Pink:
+    - Wayne
+    - Gwan-Chi
+    - Jerry2
+    - Pei-ci
+  Purple:
+    - Jerry1
+    - Chiahao
+    - Jenay
+    - Jheng-Syun
+  Red:
+    - Zih-sheng
+    - May
+    - Grace
+    - Betty
+  White:
+    - Stanley
+    - Bu-Dien
+    - Sharon
+    - WanHan
+  Yellow:
+    - Jenny
+    - Elaine
+    - Dennis
+    - Yi-xun
+  YellowYellow:
+    - Nick
+    - May
+    - Grace
+    - Betty

@@ -1,0 +1,87 @@
+---
+Chinese:
+  Black: 0
+  Blue: 0
+  Brown: 0
+  Gray: 0
+  Green: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
+  Red: 0
+  White: 0
+  Yellow: 0
+  YellowYellow: 0
+letters:
+  Black:
+    T9831030: 9
+    U9831106: 9
+    U9831130: 9
+    U9831049: 9
+    story: huang00
+  Blue:
+    U9831128: 9
+    U9831112: 9
+    U9831046: 9
+    U9831138: 9
+    story: huang11
+  Brown:
+    U9831108: 9
+    U9831043: 9
+    U9831035: 9
+    U9831116: 9
+    story: huang00
+  Gray:
+    U9831005: 7
+    U9831002: 7
+    T9831015: 7
+    U9831012: 7
+    story: huang11
+  Green:
+    U9831132: 9
+    U9831127: 9
+    T9831018: 9
+    U9831140: 9
+    story: huang00
+  Orange:
+    U9734040: 10
+    U9742047: 10
+    U9831114: 10
+    U9831143: 10
+    story: huang00
+  Pink:
+    U9831124: 9
+    T9831023: 9
+    U9831122: 9
+    U9831131: 9
+    story: huang11
+  Purple:
+    U9831102: 10
+    U9831109: 10
+    U9831021: 10
+    U9831040: 10
+    story: huang11
+  Red:
+    U9831135: 5
+    U9831110: 5
+    U9831016: 5
+    U9831024: 5
+    story: huang11
+  White:
+    U9831144: 7
+    T9831003: 10
+    U9831028: 8
+    U9831044: 9
+    story: huang00
+  Yellow:
+    U9831039: 8
+    U9831018: 8
+    U9831007: 8
+    U9831147: 6
+    story: huang11
+  YellowYellow:
+    U9831006: 9
+    U9831110: 9
+    U9831016: 9
+    U9831024: 9
+    story: huang00

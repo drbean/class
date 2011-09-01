@@ -1,0 +1,95 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 5
+pass: 3
+assistant:
+  - Li
+  - Jenay
+  - Sofie
+  - Betty
+absent:
+  - T-Play
+  - Wei-Cei
+  - Nick
+text: /home/drbean/class/business/marketing/cards.yaml
+activity:
+  water:
+    1:
+      - Green
+      - White
+      - Yellow
+      - YellowYellow
+    2:
+      - Blue
+      - Brown
+      - Pink
+      - Purple
+    3:
+      - Gray
+      - Red
+    4:
+      - Black
+      - Orange
+group:
+  Black:
+    - Li
+    - Zack
+    - Jheng-Syun
+    - Jenay
+  Blue:
+    - Wang
+    - Gwan-Chi
+    - Tiffany
+    - Judy
+  Brown:
+    - Jenay
+    - Bu-Dien
+    - Yi-Tang
+    - Amy
+  Gray:
+    - Stanley
+    - Wayne
+    - Jenny
+    - WanHan
+  Green:
+    - Sofie
+    - Li
+    - Dian
+    - Grace
+  Orange:
+    - Zih-sheng
+    - ChiaoLing
+    - Michelle
+    - Laura
+  Pink:
+    - Wei-jhih
+    - Helen
+    - Jerry1
+    - Chiahao
+  Purple:
+    - Reicho
+    - Sofie
+    - Pei-ci
+    - Aaron
+  Red:
+    - Kuan-Li
+    - Yi-xun
+    - Sharon
+    - Dennis
+  White:
+    - Alice
+    - May
+    - Tina
+    - Sandy
+  Yellow:
+    - Candy
+    - Elaine
+    - Patrick
+    - Wan-ling
+  YellowYellow:
+    - Jessie
+    - Jerry2
+    - Betty
+    - Betty

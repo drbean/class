@@ -1,0 +1,102 @@
+---
+activity:
+  story:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+# bye: U9831124
+group:
+  0:
+    White: U9831046
+    Black: U9831143
+  1:
+    White: U9831114
+    Black: U9831112
+  2:
+    White: T9831015
+    Black: U9831049
+  3:
+    White: U9831012
+    Black: T9831003
+  4:
+    White: U9831035
+    Black: U9831140
+  5:
+    White: U9831024
+    Black: U9831106
+  6:
+    White: U9831127
+    Black: U9831138
+  7:
+    White: U9831040
+    Black: T9831023
+  8:
+    White: U9831131
+    Black: U9742047
+  9:
+    White: U9831147
+    Black: U9734040
+  10:
+    White: U9831002
+    Black: U9831016
+  11:
+    White: U9831109
+    Black: U9831044
+  12:
+    White: U9831028
+    Black: U9831005
+  13:
+    White: U9831135
+    Black: U9831021
+  14:
+    White: U9831102
+    Black: U9831130
+  15:
+    White: T9831018
+    Black: U9831144
+  16:
+    White: U9831108
+    Black: U9831116
+  17:
+    White: U9831007
+    Black: U9831018
+  18:
+    White: U9831043
+    Black: U9831122
+  19:
+    White: U9831039
+    Black: U9831110
+  20:
+    White: U9831124
+    Black: U9831128
+  21:
+    White: U9831132
+    Black: T9831030
+late:
+  - U9831128
+  - U9831132
+  - T9831030
+pairing: swiss (changed)
+round: 2
+text: ../../class/business/conflict/cards.yaml
+week: 14

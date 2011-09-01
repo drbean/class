@@ -1,0 +1,90 @@
+---
+activity:
+  sale:
+    shoes:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+group:
+  0:
+    White: U9831007
+    Black: U9831039
+  1:
+    White: U9831138
+    Black: U9831012
+  2:
+    White: U9831109
+    Black: U9831128
+  3:
+    White: T9831018
+    Black: U9831044
+  4:
+    White: U9831040
+    Black: U9831143
+  5:
+    White: U9831106
+    Black: U9831114
+  6:
+    White: U9831127
+    Black: U9831132
+  7:
+    White: U9831005
+    Black: U9831131
+  8:
+    White: U9831035
+    Black: U9831002
+  9:
+    White: U9831110
+    Black: U9831130
+  10:
+    White: U9831021
+    Black: U9831049
+  11:
+    White: U9831140
+    Black: U9831046
+  12:
+    White: U9831028
+    Black: T9831023
+  13:
+    White: U9831016
+    Black: U9831147
+  14:
+    White: U9831124
+    Black: U9831024
+  15:
+    White: U9831043
+    Black: T9831003
+  16:
+    White: U9831116
+    Black: T9831030
+  17:
+    White: U9831112
+    Black: U9831102
+  18:
+    White: U9831122
+    Black: U9734040
+  19:
+    White: U9831006
+    Black: U9831018
+late:
+  - ~
+round: 3
+text: ../../class/business/marketing/cards.yaml
+week: 8

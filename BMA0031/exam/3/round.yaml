@@ -1,0 +1,88 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 9
+pass: 3
+assistant:
+absent:
+  - Nick
+  - T-Play
+  - Wei-Cei
+text: /home/drbean/class/business/PlanningManagingConflict/cards.yaml
+activity:
+  story:
+    2:
+      - Black
+      - Purple
+    3:
+      - Orange
+      - Pink
+  kendall:
+    2:
+      - Blue
+      - Red
+    3:
+      - Green
+      - White
+      - Yellow
+  nicholson:
+    0:
+      - Brown
+      - Gray
+group:
+  Black:
+    - Candy
+    - Yi-Tang
+    - Jenny
+    - WanHan
+  Blue:
+    - Wang
+    - Grace
+    - Yi-xun
+    - Li
+  Brown:
+    - Elaine
+    - Kuan-Li
+    - Aaron
+    - Amy
+  Gray:
+    - Jerry1
+    - Zack
+    - May
+    - Alice
+  Green:
+    - Stanley
+    - Zih-sheng
+    - Sandy
+    - Wan-ling
+  Orange:
+    - Jessie
+    - ChiaoLing
+    - Tina
+    - Betty
+  Pink:
+    - Wayne
+    - Gwan-Chi
+    - Sofie
+    - Dennis
+  Purple:
+    - Reicho
+    - Jenay
+    - Sharon
+    - Laura
+  Red:
+    - Wei-jhih
+    - Patrick
+    - Helen
+    - Chiahao
+  White:
+    - Bu-Dien
+    - Dian
+    - Pei-ci
+    - Judy
+  Yellow:
+    - Jerry2
+    - Tiffany
+    - Michelle
+    - Jheng-Syun
