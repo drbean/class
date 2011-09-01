@@ -1,0 +1,102 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 9
+pass: 3
+assistant:
+  - YaTing
+  - Victor
+  - Yu-Ying
+absent:
+    - Shuai
+    - Jeter
+text: /home/drbean/class/business/PlanningManagingConflict/cards.yaml
+activity:
+  story:
+    2:
+      - Gray
+      - Red
+    3:
+      - Pink
+      - WhiteWhite
+  kendall:
+    2:
+      - Black
+      - Blue
+      - Green
+    3:
+      - Brown
+      - Purple
+      - Yellow
+  nicholson:
+    0:
+      - BlackBlack
+      - Orange
+      - White
+group:
+  Black:
+    - YaTing
+    - Kou-wei
+    - HuiLin
+    - Si-Yu
+  BlackBlack:
+    - MingHan
+    - Bernie
+    - Ya-syuan
+    - LiLing
+  Blue:
+    - YaTing
+    - XiaoXian
+    - JiaXiang
+    - Entian
+  Brown:
+    - Ray
+    - David
+    - YuXin
+    - Ying-Hsuan
+  Gray:
+    - Wade
+    - Sam
+    - Alexis
+    - Yu-Ying
+  Green:
+    - PingJie
+    - GuanYin
+    - ChenHan
+    - XiaoRou
+  Orange:
+    - Yan
+    - Jie-Yu
+    - YuJie
+    - MeiQing
+  Pink:
+    - Hanna
+    - YuXun
+    - Chung
+    - Zong-Hua
+  Purple:
+    - Flora
+    - Jane
+    - XiaoWei
+    - Yi-ting
+  Red:
+    - HanPing
+    - Peter
+    - Victor
+    - YaYun
+  White:
+    - Raffaele
+    - WenXiao
+    - XiaoQi
+    - Nate
+  WhiteWhite:
+    - ChuJun
+    - Ching
+    - Friday
+    - Chase
+  Yellow:
+    - Victor
+    - Han-Yu
+    - Tim
+    - Yu-Ying

@@ -1,0 +1,105 @@
+---
+activity:
+  nicholson:
+    stealing:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+# bye: T9733022 # took ChenHan U9833003's place
+group:
+  0:
+    White: U9833025
+    Black: U9833034
+  1:
+    White: T9833037
+    Black: U9833020
+  2:
+    White: U9833023
+    Black: U9833022
+  3:
+    White: T9833030
+    Black: U9833044
+  4:
+    White: T9833050
+    Black: T9833035
+  5:
+    White: T9833045
+    Black: U9833015
+  6:
+    # White: U9833003  # thought he was there
+    White: T9733022
+    Black: U9833007
+  7:
+    White: U9833041
+    Black: T9833009
+  8:
+    White: U9833048
+    Black: T9833046
+  9:
+    White: U9833038
+    Black: U9833026
+  10:
+    White: T9833028
+    Black: U9833011
+  11:
+    White: U9833024
+    Black: U9833001
+  12:
+    White: T9833039
+    Black: T9833004
+  13:
+    White: U9833009
+    Black: T9833006
+  14:
+    White: U9833045
+    Black: U9833005
+  15:
+    White: T9833027
+    Black: T9833025
+  16:
+    White: U9833039
+    Black: U9833040
+  17:
+    White: U9833014
+    Black: U9833031
+  18:
+    White: U9833019
+    Black: U9833050
+  19:
+    White: U9831107
+    Black: T9833043
+  20:
+    White: T9833032
+    Black: U9833030
+  21:
+    White: U9833035
+    Black: U9833047
+  22:
+    White: U9833052
+    Black: U9833049
+late:
+  - ~
+pairing: swiss (changed)
+round: 9
+text: ../../class/business/managing/cards.yaml
+week: 13

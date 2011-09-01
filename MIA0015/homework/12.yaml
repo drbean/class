@@ -1,0 +1,211 @@
+---
+cutpoints:
+  one: 50
+  two: 220
+exercise: organic
+grade:
+  T9733022: 0
+  T9833004: 2
+  T9833006: 2
+  T9833009: 2
+  T9833013: 1
+  T9833025: 2
+  T9833027: 2
+  T9833028: 2
+  T9833030: 2
+  T9833032: 2
+  T9833035: 2
+  T9833037: 2
+  T9833039: 2
+  T9833043: 2
+  T9833045: 2
+  T9833046: 2
+  T9833050: 2
+  U9733013: 2
+  U9831107: 2
+  U9833001: 2
+  U9833002: 2
+  U9833003: 2
+  U9833005: 2
+  U9833007: 2
+  U9833009: 2
+  U9833011: 2
+  U9833014: 2
+  U9833015: 2
+  U9833019: 2
+  U9833020: 2
+  U9833022: 2
+  U9833023: 2
+  U9833024: 2
+  U9833025: 2
+  U9833026: 2
+  U9833030: 2
+  U9833031: 0
+  U9833034: 2
+  U9833035: 2
+  U9833038: 2
+  U9833039: 2
+  U9833040: 2
+  U9833041: 2
+  U9833043: 2
+  U9833044: 2
+  U9833045: 2
+  U9833047: 2
+  U9833048: 2
+  U9833049: 2
+  U9833050: 2
+  U9833052: 2
+points:
+  T9733022:
+    letters: 0
+    questions: 0
+  T9833004:
+    letters: 285
+    questions: 0
+  T9833006:
+    letters: 285
+    questions: 0
+  T9833009:
+    letters: 269
+    questions: 0
+  T9833013:
+    letters: 162
+    questions: 0
+  T9833025:
+    letters: 219
+    questions: 1
+  T9833027:
+    letters: 0
+    questions: 1
+  T9833028:
+    letters: 265
+    questions: 0
+  T9833030:
+    letters: 269
+    questions: 0
+  T9833032:
+    letters: 0
+    questions: 1
+  T9833035:
+    letters: 265
+    questions: 0
+  T9833037:
+    letters: 0
+    questions: 1
+  T9833039:
+    letters: 0
+    questions: 1
+  T9833043:
+    letters: 0
+    questions: 1
+  T9833045:
+    letters: 285
+    questions: 0
+  T9833046:
+    letters: 247
+    questions: 1
+  T9833050:
+    letters: 265
+    questions: 0
+  U9733013:
+    letters: 0
+    questions: 1
+  U9831107:
+    letters: 269
+    questions: 0
+  U9833001:
+    letters: 0
+    questions: 1
+  U9833002:
+    letters: 285
+    questions: 0
+  U9833003:
+    letters: 39
+    questions: 1
+  U9833005:
+    letters: 0
+    questions: 1
+  U9833007:
+    letters: 285
+    questions: 0
+  U9833009:
+    letters: 269
+    questions: 0
+  U9833011:
+    letters: 29
+    questions: 1
+  U9833014:
+    letters: 285
+    questions: 0
+  U9833015:
+    letters: 285
+    questions: 0
+  U9833019:
+    letters: 12
+    questions: 1
+  U9833020:
+    letters: 285
+    questions: 0
+  U9833022:
+    letters: 276
+    questions: 0
+  U9833023:
+    letters: 269
+    questions: 0
+  U9833024:
+    letters: 0
+    questions: 1
+  U9833025:
+    letters: 0
+    questions: 1
+  U9833026:
+    letters: 0
+    questions: 1
+  U9833030:
+    letters: 0
+    questions: 1
+  U9833031:
+    letters: 0
+    questions: 0
+  U9833034:
+    letters: 0
+    questions: 1
+  U9833035:
+    letters: 0
+    questions: 1
+  U9833038:
+    letters: 45
+    questions: 1
+  U9833039:
+    letters: 236
+    questions: 1
+  U9833040:
+    letters: 215
+    questions: 1
+  U9833041:
+    letters: 136
+    questions: 1
+  U9833043:
+    letters: 269
+    questions: 0
+  U9833044:
+    letters: 0
+    questions: 1
+  U9833045:
+    letters: 285
+    questions: 0
+  U9833047:
+    letters: 269
+    questions: 0
+  U9833048:
+    letters: 285
+    questions: 1
+  U9833049:
+    letters: 0
+    questions: 1
+  U9833050:
+    letters: 285
+    questions: 0
+  U9833052:
+    letters: 265
+    questions: 0
