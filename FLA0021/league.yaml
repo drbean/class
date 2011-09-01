@@ -1,6 +1,5 @@
 ---
-absent:
-  - None
+absent: ~
 active: ~
 approach: Compcomp
 compcomp: comp
@@ -310,11 +309,6 @@ out:
     name: Emily3
     password: hui
     rating: 73
-  - Chinese: 羅惠娟
-    id: N9661743
-    name: Michelle
-    password: hui
-    rating: 81
   - Chinese: 廖政福
     id: N9661737
     name: Ford
@@ -355,11 +349,6 @@ out:
     name: Rita
     password: jin
     rating: ~
-  - Chinese: 周品嫻
-    id: N9661702
-    name: Ashley
-    password: pin
-    rating: 72
   - Chinese: 張馨卿
     id: V9741044
     name: Jessica2
@@ -415,3 +404,10 @@ weights:
   classwork: 70
   exams: 15
   homework: 15
+scores:
+  win    : 5
+  loss   : 3
+  draw   : 4
+  bye    : 5
+  forfeit: 0
+  late   : 1

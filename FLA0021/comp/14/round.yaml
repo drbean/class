@@ -4,21 +4,39 @@ activity:
     0:
       - 0
       - 1
-      - 2
+      - 4
+      - 5
+      - 6
+      - 7
+      - 9
+      - 10
+      - 12
+      - 15
+      - 16
+  selassie:
+    0:
+      - 0
+      - 1
       - 3
       - 4
       - 5
       - 6
       - 7
       - 8
-      - 9
       - 10
-      - 11
       - 12
       - 13
       - 14
       - 15
-      - 16
+  tremonte:
+    0:
+      - 2
+      - 3
+      - 7
+      - 8
+      - 10
+      - 12
+      - 13
 group:
   0:
     White: V9741053
@@ -34,7 +52,7 @@ group:
     Black: V9741014
   4:
     White: V9741059
-    Black: V9741042
+    Black: V9741010
   5:
     White: V9724004
     Black: V9741043
@@ -53,9 +71,6 @@ group:
   10:
     White: V9741018
     Black: V9741016
-  11:
-    White: V9741024
-    Black: V9741010
   12:
     White: V9741065
     Black: V9731059
@@ -71,9 +86,9 @@ group:
   16:
     White: V9741038
     Black: V9741036
-late:
-  - ~
-pairing: swiss
-round: 4
-text: ~
-week: ~
+forfeit:
+  - V9741038
+pairing: swiss (changed)
+round: 4 (was 14)
+text: ../../class/conversation/psych/cards.yaml
+week: 18

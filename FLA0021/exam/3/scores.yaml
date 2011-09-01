@@ -1,122 +1,66 @@
 ---
 Chinese:
   Black: 0
-  BlackBlack: 0
   Blue: 0
-  BlueBlue: 0
   Brown: 0
-  BrownBrown: 0
   Gray: 0
-  GrayGray: 0
-  Green: 0
   Orange: 0
   Pink: 0
   Purple: 0
   Red: 0
   White: 0
-  WhiteWhite: 0
-  Yellow: 0
-  YellowYellow: 0
 letters:
   Black:
-    V9741061: 9
-    V9741015: 9
-    V9741049: 9
-    U9616041: 9
-    story: macaulay1
-  BlackBlack:
-    N9661731: 9
-    V9731059: 8
-    N9661761: 8
-    V9741040: 6
-    story: ikea1
+    V9741018: 9
+    V9741064: 9
+    V9741010: 7
+    V9741065: 10
+    story: spirits0
   Blue:
-    N9661717: 8
-    N9661740: 9
-    V9741060: 9
-    V9741049: 9
-    story: macaulay1
-  BlueBlue:
-    V9741028: 7
-    N9661753: 7
-    V9741066: 7
-    N9661748: 7
-    story: ikea1
+    V9731059: 6
+    V9741023: 6
+    V9741053: 6
+    V9741032: 6
+    story: wardead0
   Brown:
-    N9561762: 6
-    N9561732: 6
-    V9741043: 6
-    V9741029: 6
-    story: macaulay1
-  BrownBrown:
-    N9661725: 8
-    V9741016: 8
-    V9741055: 9
-    V9741014: 7
-    story: douglas1
+    V9741028: 10
+    V9741041: 10
+    V9741034: 10
+    V9741037: 10
+    story: undertaker1
   Gray:
-    N9661724: 10
-    N9661737: 10
-    N9661758: 10
-    V9741048: 10
-    story: douglas1
-  GrayGray:
-    V9741009: 9
-    V9741018: 8
-    N9661728: 8
-    V9741047: 8
-    story: ikea1
-  Green:
-    9622299: 9
-    V9741023: 9
-    V9741042: 10
-    V9741037: 9
-    story: douglas1
+    V9741057: 8
+    V9724004: 8
+    V9741049: 8
+    V9741014: 5
+    story: oakland0
   Orange:
-    N9561751: 8
-    N9661713: 8
-    V9741041: 7
-    N9661747: 8
-    story: douglas1
+    V9741009: 10
+    V9741025: 9
+    V9741055: 10
+    V9741060: 10
+    story: spirits0
   Pink:
-    N9661702: 7
-    U9533039: 4
-    N9661706: 5
-    V9741038: 7
-    story: ikea1
+    V9741016: 10
+    V9741030: 10
+    V9741047: 10
+    V9741061: 10
+    story: spirits0
   Purple:
-    V9741025: 3
-    V9741036: 6
-    V9741034: 9
-    N9661743: 7
-    story: ikea1
+    V9741038: 8
+    V9741036: 8
+    V9741024: 8
+    V9741040: 8
+    story: wardead0
   Red:
-    N9661738: 5
-    V9724004: 5
-    N9661741: 5
-    V9741053: 5
-    story: macaulay1
-  White:
-    V9741030: 6
-    N9561765: 6
-    V9741064: 6
-    V9741032: 4
-    story: macaulay1
-  WhiteWhite:
-    N9461738: 6
-    V9741059: 5
-    V9741010: 5
-    V9741057: 6
-    story: douglas1
-  Yellow:
-    N9661746: 8
-    N9661727: 7
-    N9561721: 9
-    U9616041: 9
-    story: macaulay1
-  YellowYellow:
-    N9661749: 9
-    N9661705: 6
-    V9741024: 9
+    V9741066: 9
     V9741042: 9
-    story: douglas1
+    V9741048: 9
+    V9741065: 9
+    story: oakland0
+  White:
+    V9741059: 8
+    V9741029: 8
+    V9741043: 8
+    V9741053: 8
+    story: undertaker1
