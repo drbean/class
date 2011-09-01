@@ -1,0 +1,89 @@
+---
+activity:
+  nicholson:
+    stealing:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+bye: T9831030
+group:
+  0:
+    White: U9831049
+    Black: U9831002
+  1:
+    White: U9831106
+    Black: U9831012
+  2:
+    White: U9831140
+    Black: T9831015
+  3:
+    White: U9831046
+    Black: U9831007
+  4:
+    White: U9831138
+    Black: U9831109
+  5:
+    White: U9831112
+    Black: U9831116
+  6:
+    White: U9831044
+    Black: U9831035
+  7:
+    White: T9831023
+    Black: U9831024
+  8:
+    White: U9831016
+    Black: U9831127
+  9:
+    White: T9831003
+    Black: U9831040
+  10:
+    White: U9831130
+    Black: U9831135
+  11:
+    White: U9742047
+    Black: U9831147
+  12:
+    White: U9831143
+    Black: U9831132
+  13:
+    White: U9831144
+    Black: U9831028
+  14:
+    White: U9831005
+    Black: U9831131
+  15:
+    White: U9831018
+    Black: U9831114
+  16:
+    White: U9831122
+    Black: U9831102
+  17:
+    White: U9734040
+    Black: T9831018
+  18:
+    White: U9831021
+    Black: U9831108
+late:
+  - U9831130
+  - U9831135
+pairing: swiss
+round: 8
+text: ../../class/business/managing/cards.yaml
+week: 13

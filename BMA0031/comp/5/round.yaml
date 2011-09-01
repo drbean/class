@@ -1,0 +1,94 @@
+---
+activity:
+  olivier:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+group:
+  0:
+    White: U9831044
+    Black: U9831039
+  1:
+    White: U9831007
+    Black: U9831012
+  2:
+    White: U9831049
+    Black: U9831131
+  3:
+    White: U9831106
+    Black: U9831143
+  4:
+    White: U9831138
+    Black: U9831024
+  5:
+    White: U9831109
+    Black: U9831002
+  6:
+    White: U9831040
+    Black: U9831132
+  7:
+    White: U9831046
+    Black: T9831018
+  8:
+    White: U9831016
+    Black: U9831114
+  9:
+    White: U9831116
+    Black: U9831035
+  10:
+    White: U9831028
+    Black: T9831003
+  11:
+    White: U9831043
+    Black: U9831130
+  12:
+    White: T9831023
+    Black: U9831147
+  13:
+    White: U9831128
+    Black: U9831140
+  14:
+    White: U9831124
+    Black: U9831021
+  15:
+    White: U9831112
+    Black: U9831110
+  16:
+    White: T9831015
+    Black: U9831102
+  17:
+    White: U9831144
+    Black: U9734040
+  18:
+    White: U9831135
+    Black: U9831018
+  19:
+    White: U9831122
+    Black: U9831108
+  20:
+    White: U9831006
+    Black: U9742047
+late:
+  - U9742047
+round: 5
+text: ../../class/business/conflict/cards.yaml
+week: 10

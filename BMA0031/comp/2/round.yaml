@@ -1,0 +1,91 @@
+---
+absent:
+  - Candy, was in 12 with Betty. Put Jerry (with Bye) with Betty
+  - Grace, was in 14 with May, Gave May Bye
+activity:
+  stress:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+bye: U9831110
+group:
+  0:
+    White: U9831012
+    Black: U9831040
+  1:
+    White: T9831015
+    Black: U9831109
+  2:
+    White: U9831044
+    Black: U9831138
+  3:
+    White: U9831114
+    Black: U9831144
+  4:
+    White: U9831143
+    Black: T9831018
+  5:
+    White: U9831002
+    Black: U9831007
+  6:
+    White: U9831128
+    Black: U9831106
+  7:
+    White: U9831039
+    Black: U9831021
+  8:
+    White: U9831135
+    Black: U9831132
+  9:
+    White: U9831130
+    Black: U9742047
+  10:
+    White: U9831131
+    Black: U9831035
+  11:
+    White: T9831003
+    Black: U9831127
+  12:
+    White: U9831024
+    Black: U9831102
+  13:
+    White: U9831049
+    Black: U9831043
+  15:
+    White: T9831023
+    Black: U9831140
+  16:
+    White: U9831116
+    Black: U9831005
+  17:
+    White: U9831046
+    Black: U9831028
+  18:
+    White: U9831147
+    Black: U9831124
+  19:
+    White: U9831018
+    Black: U9831122
+late:
+  - ~
+round: 2
+text: ../../class/business/marketing/cards.yaml
+week: 6
