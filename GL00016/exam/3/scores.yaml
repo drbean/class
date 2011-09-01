@@ -1,0 +1,52 @@
+---
+Chinese:
+  Black: 0
+  Gray: 0
+  Green: 0
+  Pink: 0
+  Purple: 0
+  White: 0
+  Yellow: 0
+letters:
+  Black:
+    U9822002: 7
+    T9811101: 6
+    U9718016: 7
+    U9718033: 7
+    story: oakland0
+  Gray:
+    U9742052: 9
+    U9811127: 9
+    U9718042: 8
+    U9843023: 9
+    story: wardead0
+  Green:
+    T9811142: 6
+    U9718022: 8
+    U9811142: 9
+    T9821014: 8
+    story: wardead0
+  Pink:
+    T9831047: 4
+    T9821033: 4
+    T9813004: 4
+    T9821043: 4
+    story: oakland0
+  Purple:
+    T9813003: 9
+    T9813009: 8
+    T9813014: 7
+    U9718036: 9
+    story: undertaker1
+  White:
+    U9811144: 7
+    U9811149: 9
+    U9743024: 9
+    T9821036: 9
+    story: spirits0
+  Yellow:
+    U9718036: 9
+    U9621094: 9
+    T9811111: 9
+    9616201: 9
+    story: undertaker1

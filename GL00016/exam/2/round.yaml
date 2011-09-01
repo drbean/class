@@ -1,0 +1,54 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+  - Danial
+absent:
+text: /home/drbean/class/conversation/parents/cards.yaml
+activity:
+  biomom:
+    2e:
+      - Gray
+      - Pink
+      - White
+  biodad:
+    3:
+      - Purple
+  emersonj:
+    1:
+      - Black
+      - Green
+group:
+  Black:
+    - Jack
+    - Vicky
+    - Amber
+    - Jason1
+  Gray:
+    - Julia
+    - Colin
+    - Gina1
+    - Lin
+  Green:
+    - Ruru
+    - Finna
+    - Edwin
+    - Wesley
+  Pink:
+    - Danial
+    - Janet
+    - Kate
+    - Butler
+  Purple:
+    - Jeff
+    - Shirley
+    - Howard
+    - Sui
+  White:
+    - Liu
+    - Danial
+    - Jerry
+    - Vivi

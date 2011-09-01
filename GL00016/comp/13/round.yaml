@@ -1,0 +1,47 @@
+---
+activity:
+  tremonte:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+bye: U9743024
+group:
+  0:
+    White: U9718033
+    Black: U9822002
+  1:
+    White: T9811142
+    Black: U9718016
+  2:
+    White: T9813003
+    Black: U9843023
+  3:
+    White: T9813004
+    Black: T9821043
+  4:
+    White: 9616201
+    Black: T9821036
+  5:
+    White: U9742052
+    Black: T9813014
+  6:
+    White: U9621094
+    Black: T9813009
+  7:
+    White: T9831047
+    Black: T9821033
+  8:
+    White: U9811127
+    Black: T9811111
+late:
+pairing: swiss
+round: 13
+text: ../../class/conversation/psych/cards.yaml
+week: 17

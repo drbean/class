@@ -1,0 +1,67 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 4
+pass: 2
+assistant:
+    - Victor
+    - Jerry
+    - Jack
+    - John
+absent:
+text: /home/drbean/class/conversation/9-11/cards.yaml
+activity:
+  eckert:
+    0:
+      - Blue
+      - Orange
+      - Pink
+    1:
+      - Brown
+      - Daniel
+      - Gray
+    31:
+      - Black
+      - Red
+group:
+  Black:
+    - Edwin
+    - Victor
+    - Jeff
+    - Wesley
+  Blue:
+    - Jack
+    - Janet
+    - Ruru
+    - Amily
+  Brown:
+    - Terry1
+    - Colin
+    - Scott
+    - Julia
+  Gray:
+    - Jason1
+    - Victor
+    - Jerry
+    - Vivi
+  Orange:
+    - Kate
+    - Sui
+    - Liu
+    - Butler
+  Pink:
+    - Amber
+    - John
+    - Chu
+    - Vicky
+  Red:
+    - Howard
+    - JinYi
+    - Finna
+    - Shirley
+  Daniel:
+    - Daniel
+    - Jerry
+    - Jack
+    - John
