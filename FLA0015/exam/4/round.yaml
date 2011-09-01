@@ -1,0 +1,96 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 10
+pass: 6
+assistant:
+  - Fifi
+  - Jeffrey
+  - Stanley
+absent:
+    - Tea
+    - Lace
+text: /home/drbean/class/conversation/disasters/cards.yaml
+activity:
+  duplantier:
+    1:
+      - Pink
+      - White
+      - Brown
+      - Gray
+  desilvey:
+    1:
+      - Purple
+      - Blue
+  conant:
+    1:
+      - Shaq
+      - Green
+      - Red
+  harllee:
+    1:
+      - Orange
+      - Rump
+      - BlackBlack
+group:
+  Shaq:
+    - Fifi
+    - Jeffrey
+    - Shaq
+    - Stanley
+  Rump:
+    - Eva
+    - Dan
+    - Dennis
+    - Amber
+  BlackBlack:
+    - Sophia
+    - Luke
+    - Jessica
+    - Rose
+  Blue:
+    - Winne
+    - Yi-Ru
+    - Anne
+    - Joy
+  Brown:
+    - Annie
+    - Winny
+    - Christian
+    - Leo
+  Gray:
+    - Sana
+    - Kitty
+    - Bass
+    - Debbie
+  Green:
+    - Ricky
+    - Joan
+    - Hank
+    - Yu-Ching
+  Orange:
+    - Lisa
+    - Kori
+    - Carina
+    - Rachel
+  Pink:
+    - Katty
+    - Patty
+    - Sue
+    - Fifi
+  Purple:
+    - Cathy
+    - Jeffrey
+    - Julie
+    - Hannah
+  Red:
+    - Stanley
+    - Abby
+    - Frances
+    - Laura
+  White:
+    - Yorick
+    - Yu-Lun
+    - Wei-Yi
+    - Ming
