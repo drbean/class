@@ -3,81 +3,69 @@ round: Exam 3
 week: 14
 questions:
   - 10
-pass: 5
+pass: 6
 assistant:
+  - Abby
+  - Ivy
+  - Sophie
+  - Kumiko
+
 absent:
+  - Lu-Ping
 text: /home/drbean/class/friends/eight_nine/cards.yaml
 activity:
   12:
     1:
+      - Gray
       - Purple
-      - Pink
-      - LightGreen
-      - Black
   24:
     1:
-      - Red
-      - Orange
-      - Gray
-      - Brown
-  6:
-    1:
+      - Black
+      - Green
       - White
-      - LightBlue
-      - DarkGreen
+  13:
+    1:
+      - Blue
+      - GreenwithoutAmy
+      - Pink
 group:
   Black:
-    - Riva
-    - Mary
-    - Irin
-    - Ken
-  Brown:
-    - Jo
-    - Jean
-    - Steven
-    - Daisy
-  DarkGreen:
-    - Rita
-    - Yuwen
-    - Vivian
-    - Sunny
+    - Linda
+    - Molly
+    - Eva
+    - Bruce
+  Blue:
+    - Edison
+    - Nancy
+    - Hank
+    - Andy
   Gray:
-    - Crystal
-    - Fred
-    - Rock
-    - Eleven
-  LightBlue:
-    - Frank
-    - Ting'an
-    - Allen1
-    - Emily
-  LightGreen:
-    - Lucas
-    - Lucy
-    - Ting
-    - Ashley
-  Orange:
-    - Michelle
-    - Sandy
-    - Clare
-    - Iris
+    - Carol
+    - Emily2
+    - Nina
+    - Abby
+  Green:
+    - Amy
+    - Ivy
+    - Sophie
+    - Kumiko
+  GreenwithoutAmy:
+    - Abby
+    - Ivy
+    - Sophie
+    - Kumiko
   Pink:
-    - Anne
-    - Moto
-    - Mico
-    - Jessica
+    - Candy
+    - Joe
+    - Emily1
+    - Anita
   Purple:
-    - Tiffany
-    - Ivy2
-    - Akigo
-    - Cloudy
-  Red:
-    - Allen2
-    - Eunice
-    - Rogers
-    - Kiki
+    - Jessica
+    - Elly
+    - Stella
+    - Stella
   White:
-    - Amberly
-    - Cloud
-    - Monica
-    - Ford
+    - Lu-Ping
+    - Maggie
+    - Abby
+    - Donna

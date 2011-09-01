@@ -150,3 +150,11 @@ weights:
   classwork: 70
   exams: 15
   homework: 15
+scores:
+  win    : 5
+  loss   : 3
+  draw   : 4
+  bye    : 5
+  forfeit: 0
+  late   : 1
+
