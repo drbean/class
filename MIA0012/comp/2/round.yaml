@@ -1,7 +1,7 @@
 ---
 activity:
-  sale:
-    fruit:
+  ingredients:
+    0:
       - 0
       - 1
       - 2
@@ -28,80 +28,81 @@ activity:
       - 23
 group:
   0:
-     White: U9833009
-     Black: U9833011
+    White: U9833011
+    Black: U9833034
   1:
-     White: U9833024
-     Black: U9833019
+    White: T9833039
+    Black: U9833025
   2:
-     White: U9833049
-     Black: U9833015
+    White: T9833037
+    Black: T9833006
   3:
-     White: U9833014
-     Black: U9833022
+    White: T9833028
+    Black: U9833020
   4:
-     White: U9833044
-     Black: U9833038
+    White: U9833039
+    Black: T9833009
   5:
-     White: U9833050
-     Black: T9833025
+    White: U9833048
+    Black: U9833001
   6:
-     White: U9833047
-     Black: U9833025
+    White: U9833014
+    Black: U9833024
   7:
-     White: T9833027
-     Black: U9831107
+    White: U9833040
+    Black: T9833030
   8:
-     White: T9833028
-     Black: U9833003
+    White: U9833041
+    Black: T9833035
   9:
-     White: U9833040
-     Black: T9833037
+    White: U9833022
+    Black: T9833043
   10:
-     White: T9833006
-     Black: U9833031
+    White: U9833026
+    Black: T9833046
   11:
-     White: U9833001
-     Black: U9833043
+    White: U9833044
+    Black: U9833030
   12:
-     White: T9833032
-     Black: T9833009
+    White: U9833002
+    Black: T9833045
   13:
-     White: U9833005
-     Black: U9833041
+    White: U9833050
+    Black: U9833038
   14:
-     White: U9833045
-     Black: T9833035
+    White: T9833050
+    Black: U9833035
   15:
-     White: T9833046
-     Black: U9833052
+    White: U9833023
+    Black: U9833031
   16:
-     White: U9833048
-     Black: T9833050
+    White: U9833045
+    Black: U9833015
   17:
-     White: T9833039
-     Black: U9833020
+    White: T9833032
+    Black: T9833004
   18:
-     White: U9833007
-     Black: T9833004
+    White: U9833019
+    Black: U9833005
   19:
-     White: T9833013
-     Black: U9833026
+    White: U9833003
+    Black: T9833027
   20:
-     White: T9833030
-     Black: U9833034
+    White: T9833025
+    Black: U9833043
   21:
-     White: U9833035
-     Black: U9833030
+    White: U9831107
+    Black: U9833052
   22:
-     White: T9833043
-     Black: U9833023
+    White: U9833049
+    Black: T9733022
   23:
-     White: U9833039
-     Black: T9833045
+     White: U9733013
+     Black: T9833013
+# bye: U9733013
 late:
-  - ~
-round: 2
-text: ../../class/business/marketing/cards.yaml
-week: 6
-Note: This was actually in Week 3,4, or 5. with 'adventure stress causes' as activity. Week 6 is ungraded. Week 6 was very first where I evaluated q and a. Very few came to front.
+  - T9833013
+pairing: swiss (changed)
+round: 2 (was 11)
+text: ../../class/business/newbusiness/cards.yaml
+week: 15
