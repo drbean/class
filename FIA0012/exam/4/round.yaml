@@ -1,0 +1,82 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 6
+assistant:
+  - Dennis
+absent:
+  - Alex
+text: /home/drbean/class/business/newbusiness/cards.yaml
+activity:
+  huang:
+    00:
+      - Black
+      - Blue
+      - Brown
+      - Pink
+      - Purple
+      - Red
+    11:
+      - BlackBlack
+      - Gray
+      - Green
+      - Orange
+      - White
+group:
+  Black:
+    - Keano
+    - Sherry1
+    - Jerry
+    - Linda1
+  BlackBlack:
+    - Ezra
+    - Maggie
+    - Jeren
+    - Emma
+  Blue:
+    - Peace
+    - Dennis
+    - Joy
+    - Frank
+  Brown:
+    - Brian
+    - Danny
+    - Linda2
+    - Jean
+  Gray:
+    - Trisha
+    - Rebecca
+    - Abby
+    - Nancy
+  Green:
+    - Hannah
+    - Tommy
+    - Ann
+    - Cammy
+  Orange:
+    - Lious
+    - Debbie
+    - Jill
+    - Irene
+  Pink:
+    - Jenny
+    - Kelly
+    - Ray
+    - Lisa
+  Purple:
+    - Annie
+    - Jack
+    - Ashly
+    - Ivy
+  Red:
+    - Cathy
+    - Sherry2
+    - Penny
+    - Hardy
+  White:
+    - Tina
+    - Dennis
+    - Vicky
+    - Amy

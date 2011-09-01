@@ -1,0 +1,183 @@
+---
+cutpoints:
+  one: 50
+  two: 150
+exercise: graham
+grade:
+  U9634018: 1
+  U9833004: 0
+  U9834001: 2
+  U9834002: 0
+  U9834004: 0
+  U9834005: 2
+  U9834006: 2
+  U9834007: 2
+  U9834009: 2
+  U9834010: 2
+  U9834011: 0
+  U9834012: 0
+  U9834013: 0
+  U9834014: 2
+  U9834015: 2
+  U9834016: 2
+  U9834017: 0
+  U9834019: 0
+  U9834020: 2
+  U9834021: 0
+  U9834024: 2
+  U9834025: 2
+  U9834026: 0
+  U9834027: 2
+  U9834028: 0
+  U9834029: 2
+  U9834031: 2
+  U9834032: 2
+  U9834033: 2
+  U9834034: 2
+  U9834036: 2
+  U9834037: 2
+  U9834038: 2
+  U9834039: 2
+  U9834040: 2
+  U9834041: 2
+  U9834042: 2
+  U9834046: 0
+  U9834047: 2
+  U9834049: 2
+  U9834050: 2
+  U9834051: 2
+  U9834052: 0
+  U9834057: 0
+points:
+  U9634018:
+    letters: 130
+    questions: 0
+  U9833004:
+    letters: 0
+    questions: 0
+  U9834001:
+    letters: 0
+    questions: 1
+  U9834002:
+    letters: 0
+    questions: 0
+  U9834004:
+    letters: 0
+    questions: 0
+  U9834005:
+    letters: 0
+    questions: 1
+  U9834006:
+    letters: 0
+    questions: 1
+  U9834007:
+    letters: 0
+    questions: 1
+  U9834009:
+    letters: 187
+    questions: 0
+  U9834010:
+    letters: 0
+    questions: 1
+  U9834011:
+    letters: 0
+    questions: 0
+  U9834012:
+    letters: 11
+    questions: 0
+  U9834013:
+    letters: 0
+    questions: 0
+  U9834014:
+    letters: 179
+    questions: 0
+  U9834015:
+    letters: 0
+    questions: 1
+  U9834016:
+    letters: 0
+    questions: 1
+  U9834017:
+    letters: 0
+    questions: 0
+  U9834019:
+    letters: 0
+    questions: 0
+  U9834020:
+    letters: 0
+    questions: 1
+  U9834021:
+    letters: 0
+    questions: 0
+  U9834024:
+    letters: 0
+    questions: 1
+  U9834025:
+    letters: 0
+    questions: 2
+  U9834026:
+    letters: 0
+    questions: 0
+  U9834027:
+    letters: 0
+    questions: 1
+  U9834028:
+    letters: 0
+    questions: 0
+  U9834029:
+    letters: 187
+    questions: 0
+  U9834031:
+    letters: 0
+    questions: 1
+  U9834032:
+    letters: 0
+    questions: 1
+  U9834033:
+    letters: 0
+    questions: 1
+  U9834034:
+    letters: 0
+    questions: 1
+  U9834036:
+    letters: 0
+    questions: 1
+  U9834037:
+    letters: 169
+    questions: 0
+  U9834038:
+    letters: 185
+    questions: 0
+  U9834039:
+    letters: 0
+    questions: 1
+  U9834040:
+    letters: 0
+    questions: 1
+  U9834041:
+    letters: 0
+    questions: 1
+  U9834042:
+    letters: 0
+    questions: 1
+  U9834046:
+    letters: 0
+    questions: 0
+  U9834047:
+    letters: 0
+    questions: 1
+  U9834049:
+    letters: 187
+    questions: 0
+  U9834050:
+    letters: 187
+    questions: 0
+  U9834051:
+    letters: 187
+    questions: 0
+  U9834052:
+    letters: 0
+    questions: 0
+  U9834057:
+    letters: 0
+    questions: 0

@@ -1,0 +1,89 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 9
+pass: 3
+assistant:
+  - Jill
+  - Danny
+absent:
+  - Hannah
+  - Jack
+text: /home/drbean/class/business/PlanningManagingConflict/cards.yaml
+activity:
+  story:
+    2:
+      - Green
+      - Red
+    3:
+      - BlackBlack
+      - White
+  kendall:
+    2:
+      - Gray
+      - Purple
+    3:
+      - Brown
+      - Pink
+  nicholson:
+    0:
+      - Black
+      - Blue
+      - Orange
+group:
+  Black:
+    - Hardy
+    - Jean
+    - Sherry1
+    - Tommy
+  BlackBlack:
+    - Kelly
+    - Rebecca
+    - Ann
+    - Trisha
+  Blue:
+    - Jill
+    - Jenny
+    - Frank
+    - Jerry
+  Brown:
+    - Jill
+    - Ezra
+    - Brian
+    - Abby
+  Gray:
+    - Jeren
+    - Amy
+    - Alex
+    - Danny
+  Green:
+    - Debbie
+    - Irene
+    - Emma
+    - Linda2
+  Orange:
+    - Dennis
+    - Vicky
+    - Danny
+    - Linda1
+  Pink:
+    - Penny
+    - Maggie
+    - Ashly
+    - Sherry2
+  Purple:
+    - Keano
+    - Joy
+    - Ivy
+    - Nancy
+  Red:
+    - Peace
+    - Lious
+    - Lisa
+    - Cammy
+  White:
+    - Ray
+    - Tina
+    - Annie
+    - Cathy

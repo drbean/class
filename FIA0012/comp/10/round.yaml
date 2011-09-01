@@ -1,0 +1,96 @@
+---
+activity:
+  ingredients:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+group:
+  0:
+    White: U9834006
+    Black: U9834029
+  1:
+    White: U9834038
+    Black: U9834025
+  2:
+    White: U9834034
+    Black: U9834041
+  3:
+    White: U9834028
+    Black: U9834020
+  4:
+    White: U9834009
+    Black: U9834031
+  5:
+    White: U9834033
+    Black: U9834050
+  6:
+    White: U9834051
+    Black: U9834024
+  7:
+    White: U9834027
+    Black: U9834010
+  8:
+    White: U9834014
+    Black: U9834057
+  9:
+    White: U9834042
+    Black: U9834004
+  10:
+    White: U9834007
+    Black: U9834012
+  11:
+    White: U9834002
+    Black: U9834016
+  12:
+    White: U9834040
+    Black: U9834047
+  13:
+    White: U9834036
+    Black: U9834021
+  14:
+    White: U9834001
+    Black: U9634018
+  15:
+    White: U9834037
+    Black: U9834046
+  16:
+    White: U9834039
+    Black: U9834052
+  17:
+    White: U9834019
+    Black: U9834032
+  18:
+    White: U9834049
+    Black: U9834017
+  19:
+    White: U9834015
+    Black: U9833004
+  20:
+    White: U9834026
+    Black: U9834011
+bye: U9834013
+late:
+  - ~
+pairing: swiss (changed)
+round: 10
+text: ../../class/business/newbusiness/cards.yaml
+week: 15

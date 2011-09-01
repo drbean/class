@@ -1,0 +1,80 @@
+---
+Chinese:
+  Black: 0
+  BlackBlack: 0
+  Blue: 0
+  Brown: 0
+  Gray: 0
+  Green: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
+  White: 0
+  WhiteWhite: 0
+letters:
+  Black:
+    U9834036: 4
+    U9834040: 5
+    U9834038: 4
+    U9834032: 4
+    story: water4
+  BlackBlack:
+    U9834001: 3
+    U9834019: 4
+    U9834026: 4
+    U9834051: 4
+    story: water3
+  Blue:
+    U9834039: 4
+    U9834017: 4
+    U9834005: 4
+    U9834007: 4
+    story: water2
+  Brown:
+    U9834033: 5
+    U9834042: 5
+    U9834031: 4
+    U9834010: 5
+    story: water4
+  Gray:
+    U9834016: 5
+    U9834041: 5
+    U9834037: 5
+    U9834006: 5
+    story: water2
+  Green:
+    U9834011: 5
+    U9834027: 5
+    U9834047: 5
+    U9834015: 5
+    story: water1
+  Orange:
+    U9834002: 4
+    U9834014: 4
+    U9834050: 4
+    U9834034: 4
+    story: water2
+  Pink:
+    U9834024: 4
+    U9834004: 4
+    U9834020: 4
+    U9834029: 4
+    story: water3
+  Purple:
+    U9834057: 5
+    U9634018: 4
+    U9834046: 4
+    U9833004: 4
+    story: water3
+  White:
+    U9834021: 5
+    U9834012: 5
+    U9834013: 5
+    U9834009: 5
+    story: water1
+  WhiteWhite:
+    U9834025: 4
+    U9834028: 4
+    U9834049: 4
+    U9834052: 4
+    story: water2

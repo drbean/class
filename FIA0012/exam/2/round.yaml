@@ -1,0 +1,84 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 5
+pass: 3
+assistant:
+  - Dennis
+absent:
+  - Patterson
+text: /home/drbean/class/business/marketing/cards.yaml
+activity:
+  water:
+    1:
+      - Green
+      - White
+    2:
+      - Blue
+      - Gray
+      - Orange
+      - WhiteWhite
+    3:
+      - BlackBlack
+      - Pink
+      - Purple
+    4:
+      - Black
+      - Brown
+group:
+  Black:
+    - Jill
+    - Rebecca
+    - Frank
+    - Jerry
+  BlackBlack:
+    - Jeren
+    - Jenny
+    - Brian
+    - Abby
+  Blue:
+    - Debbie
+    - Ezra
+    - Alex
+    - Jack
+  Brown:
+    - Dennis
+    - Amy
+    - Emma
+    - Linda2
+  Gray:
+    - Penny
+    - Irene
+    - Danny
+    - Linda1
+  Green:
+    - Keano
+    - Vicky
+    - Ashly
+    - Sherry2
+  Orange:
+    - Peace
+    - Maggie
+    - Ivy
+    - Nancy
+  Pink:
+    - Ray
+    - Joy
+    - Lisa
+    - Cammy
+  Purple:
+    - Tina
+    - Lious
+    - Annie
+    - Cathy
+  White:
+    - Kelly
+    - Sherry1
+    - Trisha
+    - Jean
+  WhiteWhite:
+    - Hardy
+    - Ann
+    - Tommy
+    - Hannah
