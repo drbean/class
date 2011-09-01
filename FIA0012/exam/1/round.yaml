@@ -1,0 +1,85 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 4
+pass: 2
+assistant:
+  - Dennis
+absent:
+  - Ezra
+  - Patterson
+text: /home/drbean/class/business/stress/cards.yaml
+activity:
+  adventure:
+    4:
+      - Orange
+      - Brown
+      - Red
+    5:
+      - WhiteWhite
+      - Purple
+      - Gray
+    6:
+      - BlueBlue
+      - Yellow
+      - Pink
+    7:
+      - Blue
+      - BlackBlack
+group:
+  BlackBlack:
+    - Jeren
+    - Peace
+    - Jean
+    - Joy
+  Blue:
+    - Jenny
+    - Keano
+    - Lisa
+    - Sherry1
+  BlueBlue:
+    - Alex
+    - Linda1
+    - Jack
+    - Dennis
+  Brown:
+    - Kelly
+    - Trisha
+    - Annie
+    - Maggie
+  Gray:
+    - Jill
+    - Sherry2
+    - Ray
+    - Penny
+  Orange:
+    - Danny
+    - Vicky
+    - Frank
+    - Ann
+  Pink:
+    - Debbie
+    - Cammy
+    - Rebecca
+    - Lious
+  Purple:
+    - Irene
+    - Emma
+    - Amy
+    - Jerry
+  Red:
+    - Hardy
+    - Dennis
+    - Brian
+    - Nancy
+  WhiteWhite:
+    - Ashly
+    - Linda2
+    - Tommy
+    - Ivy
+  Yellow:
+    - Abby
+    - Hannah
+    - Tina
+    - Cathy

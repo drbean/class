@@ -1,0 +1,80 @@
+---
+Chinese:
+  BlackBlack: 0
+  Blue: 0
+  BlueBlue: 0
+  Brown: 0
+  Gray: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
+  Red: 0
+  WhiteWhite: 0
+  Yellow: 0
+letters:
+  BlackBlack:
+    U9834001: 3
+    U9834002: 4
+    U9834009: 4
+    U9834004: 4
+    story: adventure7
+  Blue:
+    U9834019: 4
+    U9834011: 0
+    U9834020: 4
+    U9834012: 4
+    story: adventure7
+  BlueBlue:
+    U9834005: 2
+    U9834006: 2
+    U9834007: 2
+    U9834033: 2
+    story: adventure6
+  Brown:
+    U9834021: 1
+    U9834013: 1
+    U9834046: 1
+    U9834014: 1
+    story: adventure4
+  Gray:
+    U9834036: 4
+    U9834015: 4
+    U9834024: 4
+    U9834016: 4
+    story: adventure5
+  Orange:
+    U9834037: 2
+    U9834027: 2
+    U9834038: 2
+    U9834028: 2
+    story: adventure4
+  Pink:
+    U9834039: 4
+    U9834029: 0
+    U9834040: 3
+    U9634018: 1
+    story: adventure6
+  Purple:
+    U9834041: 4
+    U9834031: 4
+    U9834042: 4
+    U9834032: 4
+    story: adventure5
+  Red:
+    U9834025: 2
+    U9834033: 2
+    U9834026: 2
+    U9834034: 1
+    story: adventure4
+  WhiteWhite:
+    U9834047: 4
+    U9834010: 4
+    U9834049: 4
+    U9834050: 4
+    story: adventure5
+  Yellow:
+    U9834051: 2
+    U9834052: 1
+    U9834057: 2
+    U9833004: 2
+    story: adventure6

@@ -1,0 +1,136 @@
+---
+round: 13
+week: 14
+absent:
+text: /home/drbean/class/business/companies/cards.yaml
+activity:
+  ikea:
+    0:
+      - White: U9831112
+        Black: U9831024
+      - White: U9831035
+        Black: U9831044
+      - White: U9831143
+        Black: U9831122
+      - White: T9831023
+        Black: U9831002
+      - White: U9831049
+        Black: U9831043
+      - White: U9831138
+        Black: U9831028
+      - White: T9831018
+        Black: U9831140
+      - White: U9831012
+        Black: U9742047
+      - White: T9831003
+        Black: U9831040
+      - White: T9831015
+        Black: U9831021
+      - White: U9831114
+        Black: U9831110
+      - White: U9831005
+        Black: U9831039
+      - White: U9831116
+        Black: U9831131
+      - White: U9831016
+        Black: U9831130
+      - White: U9831106
+        Black: U9831135
+      - White: U9831109
+        Black: U9831046
+      - White: U9831102
+        Black: U9831018
+      - White: U9831124
+        Black: U9831127
+      - White: U9831147
+        Black: U9831007
+      - White: U9831006
+        Black: T9831030
+      - White: U9831144
+        Black: U9831128
+  dictation:
+    0:
+      - White: U9831112
+        Black: U9831024
+      - White: U9831035
+        Black: U9831044
+      - White: U9831143
+        Black: U9831122
+      - White: T9831023
+        Black: U9831002
+      - White: U9831049
+        Black: U9831043
+      - White: U9831138
+        Black: U9831028
+      - White: T9831018
+        Black: U9831140
+      - White: U9831012
+        Black: U9742047
+      - White: T9831003
+        Black: U9831040
+      - White: T9831015
+        Black: U9831021
+      - White: U9831114
+        Black: U9831110
+      - White: U9831005
+        Black: U9831039
+      - White: U9831116
+        Black: U9831131
+      - White: U9831016
+        Black: U9831130
+      - White: U9831106
+        Black: U9831135
+      - White: U9831109
+        Black: U9831046
+      - White: U9831102
+        Black: U9831018
+      - White: U9831124
+        Black: U9831127
+      - White: U9831147
+        Black: U9831007
+      - White: U9831006
+        Black: T9831030
+      - White: U9831144
+        Black: U9831128
+  flicker:
+    0:
+      - White: U9831112
+        Black: U9831024
+      - White: U9831035
+        Black: U9831044
+      - White: U9831143
+        Black: U9831122
+      - White: T9831023
+        Black: U9831002
+      - White: U9831049
+        Black: U9831043
+      - White: U9831138
+        Black: U9831028
+      - White: T9831018
+        Black: U9831140
+      - White: U9831012
+        Black: U9742047
+      - White: T9831003
+        Black: U9831040
+      - White: T9831015
+        Black: U9831021
+      - White: U9831114
+        Black: U9831110
+      - White: U9831005
+        Black: U9831039
+      - White: U9831116
+        Black: U9831131
+      - White: U9831016
+        Black: U9831130
+      - White: U9831106
+        Black: U9831135
+      - White: U9831109
+        Black: U9831046
+      - White: U9831102
+        Black: U9831018
+      - White: U9831124
+        Black: U9831127
+      - White: U9831147
+        Black: U9831007
+      - White: U9831006
+        Black: T9831030
