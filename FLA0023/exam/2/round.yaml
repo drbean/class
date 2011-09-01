@@ -1,0 +1,108 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+  - Luke
+  - Hank
+  - Dennis
+  - Hannah
+  - Yorick
+absent:
+  - Joanna
+  - Lace
+text: /home/drbean/class/conversation/parents/cards.yaml
+activity:
+  biomom:
+    2e:
+      - Black
+      - Gray
+      - Mike
+      - Pink
+      - White
+  biodad:
+    3:
+      - Blue
+      - Brown
+      - Green
+      - Purple
+      - Yellow
+  emersonj:
+    1:
+      - BlackBlack
+      - Orange
+      - Red
+      - WhiteWhite
+group:
+  Black:
+    - Anny
+    - Winny
+    - Joan
+    - Rose
+  BlackBlack:
+    - Ivan
+    - Yorick
+    - Anne
+    - Luke
+  Blue:
+    - Sherry
+    - Jeffrey
+    - Kitty
+    - Leo
+  Brown:
+    - Jerry
+    - Shaq
+    - Yu-Lun
+    - Yu-Ching
+  Gray:
+    - Michelle
+    - Lisa
+    - Patty
+    - Debbie
+  Green:
+    - Bella
+    - Kori
+    - Sue
+    - Laura
+  Orange:
+    - Cathy2
+    - Abby
+    - Yi-Ru
+    - Joy
+  Pink:
+    - Luke
+    - Cathy
+    - Carina
+    - Hannah
+  Purple:
+    - Dan
+    - Stanley
+    - Fifi
+    - Hank
+  Red:
+    - Eva
+    - Amber
+    - Winne
+    - Jessica
+  White:
+    - Dennis
+    - Katty
+    - Ming
+    - Rachel
+  WhiteWhite:
+    - Tea
+    - Ricky
+    - Julie
+    - Wei-Yi
+  Yellow:
+    - Sana
+    - Yorick
+    - Bass
+    - Frances
+  Mike:
+    - Hank
+    - Dennis
+    - Hannah
+    - Mike

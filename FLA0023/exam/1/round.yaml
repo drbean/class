@@ -1,0 +1,107 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 4
+pass: 2
+assistant:
+  - Luke
+  - Bass
+  - Kori
+  - Joy
+  - Yorick
+absent:
+  - Miranda
+  - Mike
+  - Annie
+  - Lace
+text: /home/drbean/class/conversation/9-11/cards.yaml
+activity:
+  eckert:
+    1:
+      - BlueBlue
+      - Brown
+      - Green
+      - Orange
+      - Pink
+      - Purple
+      - White
+    31:
+      - Black
+      - BlackBlack
+      - Blue
+      - Gray
+      - Red
+      - WhiteWhite
+      - Yellow
+group:
+  Black:
+    - Michelle
+    - Winny
+    - Anne
+    - Luke
+  BlackBlack:
+    - Bass
+    - Yorick
+    - Kitty
+    - Leo
+  Blue:
+    - Ivan
+    - Jeffrey
+    - Yu-Lun
+    - Yu-Ching
+  BlueBlue:
+    - Joan
+    - Jerry
+    - Cathy2
+    - Luke
+  Brown:
+    - Joanna
+    - Shaq
+    - Patty
+    - Debbie
+  Gray:
+    - Joy
+    - Lisa
+    - Sue
+    - Laura
+  Green:
+    - Dan
+    - Kori
+    - Yi-Ru
+    - Joy
+  Orange:
+    - Eva
+    - Abby
+    - Carina
+    - Hannah
+  Pink:
+    - Dennis
+    - Cathy
+    - Fifi
+    - Hank
+  Purple:
+    - Rachel
+    - Stanley
+    - Winne
+    - Jessica
+  Red:
+    - Sana
+    - Amber
+    - Ming
+    - Tea
+  White:
+    - Kori
+    - Katty
+    - Julie
+    - Wei-Yi
+  WhiteWhite:
+    - Yorick
+    - Ricky
+    - Bass
+    - Frances
+  Yellow:
+    - Rose
+    - Bella
+    - Anny
+    - Sherry
