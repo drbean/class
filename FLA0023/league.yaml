@@ -5,60 +5,84 @@ approach: Compcomp
 compcomp: comp
 examMax: 4
 exams: exam
-field: 英語會話(二)
+field: 英語會話(三)
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: FLA0016
+id: FLA0023
 jigsaw: exam
 league: 夜應外大學二甲
 member:
-  - Chinese: 邱郁晴
-    name: Cathy2
+  - Chinese: 林佩瑄
+    id: N9561735
+    name: Ingar
+    password: pei
+    rating: 60
+  - Chinese: 劉發州
+    id: N9561766
+    name: Frank
+    password: fa
+    rating: 78
+  - Chinese: 黃綠蘋
+    id: N9661754
+    name: Lu-ping
+    password: lu
+    rating: 52
+  - Chinese: 李秉霖
+    id: T9823041
+    name: 李秉霖
+    password: bing
+    rating: ~
+  - Chinese: 潘昱安
+    id: U9843014
+    name: Alex
     password: yu
-    id: V9741018
+    rating: 85
+  - Chinese: 謝永彬
+    id: V9716015
+    name: 謝永彬
+    password: yong
     rating: ~
-  
-  - id: U9693040
-    Chinese: 池采逸
-    name: Anny
-    password: cai
-    rating: ~
-  - id: U9693041
-    Chinese: 李欣蔓
-    name: Bella
+  - Chinese: 陳昱樺
+    id: V9724004
+    name: Nancy
+    password: yu
+    rating: 65
+  - Chinese: 黃文青
+    id: V9741002
+    name: Miranda
+    password: wen
+    rating: 52
+  - Chinese: 黃國恩
+    id: V9741004
+    name: Ryan
+    password: guo
+    rating: 54
+  - Chinese: 林芸竹
+    id: V9741028
+    name: Carol
+    password: yun
+    rating: 76
+  - Chinese: 張馨卿
+    id: V9741044
+    name: Jessica2
     password: xin
-    rating: ~
-  - id: U9693046
-    Chinese: 蔡逸璇
-    name: Sherry
-    password: yi
-    rating: ~
-  - Chinese: 黃啟信
-    id: V9841062
-    name: Ivan
-    password: qi
-    rating: ~
-  - Chinese: 吳佳樺
-    id: N9661752
-    name: Michelle
-    password: jia
-    rating: ~
+    rating: 42
   - Chinese: 羅曼
     id: V9741065
     name: Frances
     password: man
-    rating: 72
+    rating: 85
   - Chinese: 夏芳婕
     id: V9841002
     name: Kori
     password: fang
-    rating: 62
+    rating: 55
   - Chinese: 潘彥安
     id: V9841004
     name: Dan
     password: yan
-    rating: 32
+    rating: 58
   - Chinese: 傅雅暉
     id: V9841005
     name: Fifi
@@ -68,47 +92,47 @@ member:
     id: V9841006
     name: Abby
     password: mei
-    rating: 60
+    rating: 64
   - Chinese: 賴薇如
     id: V9841007
     name: Laura
     password: wei
-    rating: 76
+    rating: 77
   - Chinese: 廖家宜
     id: V9841008
     name: Sana
     password: jia
-    rating: 52
+    rating: 76
   - Chinese: 戴偉庭
     id: V9841009
     name: Winny
     password: wei
-    rating: 63
+    rating: 69
   - Chinese: 彭浩瑀
     id: V9841010
     name: Yorick
     password: hao
-    rating: 63
+    rating: 62
   - Chinese: 劉建平
     id: V9841011
     name: Leo
     password: jian
-    rating: 80
+    rating: 72
   - Chinese: 江培寬
     id: V9841013
     name: Dennis
     password: pei
-    rating: 39
+    rating: 73
   - Chinese: 陳易駿
     id: V9841014
     name: Luke
     password: yi
-    rating: 83
+    rating: 69
   - Chinese: 賴名紘
     id: V9841015
     name: Shaq
     password: ming
-    rating: 62
+    rating: 71
   - Chinese: 李澤爵
     id: V9841017
     name: Jeffrey
@@ -118,62 +142,62 @@ member:
     id: V9841020
     name: Stanley
     password: bo
-    rating: 59
+    rating: 74
   - Chinese: 吳千羽
     id: V9841022
     name: Hank
     password: qian
-    rating: 74
+    rating: 75
   - Chinese: 黃鳳玄
     id: V9841024
     name: Hannah
     password: feng
-    rating: 75
+    rating: 80
   - Chinese: 戴郁倫
     id: V9841026
     name: Yu-Lun
     password: yu
-    rating: 66
+    rating: 71
   - Chinese: 陳憶茹
     id: V9841027
     name: Yi-Ru
     password: yi
-    rating: 67
+    rating: 69
   - Chinese: 彭怡靜
     id: V9841028
     name: Katty
     password: yi
-    rating: 57
+    rating: 64
   - Chinese: 朱莉鳳
     id: V9841029
     name: Lisa
     password: li
-    rating: 62
+    rating: 80
   - Chinese: 戴維儀
     id: V9841030
     name: Wei-Yi
     password: wei
-    rating: 72
+    rating: 75
   - Chinese: 黃裕惠
     id: V9841031
     name: Bass
     password: yu
-    rating: 72
+    rating: 61
   - Chinese: 郭芳萱
     id: V9841033
     name: Amber
     password: fang
-    rating: 58
+    rating: 57
   - Chinese: 林心如
     id: V9841034
     name: Rachel
     password: xin
-    rating: 73
+    rating: 76
   - Chinese: 林筠臻
     id: V9841036
-    name: Jessica
+    name: Jessica1
     password: yun
-    rating: 73
+    rating: 78
   - Chinese: 邱湘凌
     id: V9841037
     name: Anne
@@ -183,37 +207,37 @@ member:
     id: V9841038
     name: Julie
     password: jing
-    rating: 71
+    rating: 84
   - Chinese: 劉媁玲
     id: V9841039
     name: Patty
     password: wei
-    rating: 67
+    rating: 64
   - Chinese: 張筱青
     id: V9841040
     name: Joy
     password: xiao
-    rating: 75
+    rating: 72
   - Chinese: 鄧如金
     id: V9841041
     name: Rose
     password: ru
-    rating: 83
-  - Chinese: 徐己雁
-    id: V9841044
-    name: Eva
-    password: yi
-    rating: 34
+    rating: 87
+  - Chinese: 胡佳玟
+    id: V9841046
+    name: Lace
+    password: jia
+    rating: 52
   - Chinese: 徐亦嫺
     id: V9841048
     name: Cathy
     password: yi
-    rating: 59
+    rating: 63
   - Chinese: 駱佳帷
     id: V9841049
     name: Joan
     password: jia
-    rating: 64
+    rating: 66
   - Chinese: 鄭宇筑
     id: V9841050
     name: Debbie
@@ -223,107 +247,72 @@ member:
     id: V9841051
     name: Ming
     password: yi
-    rating: 71
-  - Chinese: 張羽萍
+    rating: 65
+  - Chinese: 張馥琦
     id: V9841053
     name: Carina
     password: yu
-    rating: 71
+    rating: 66
   - Chinese: 何青青
     id: V9841054
     name: Winne
     password: qing
-    rating: 71
+    rating: 79
   - Chinese: 吳芸帆
     id: V9841058
     name: Kitty
     password: yun
-    rating: 66
+    rating: 72
   - Chinese: 張玉青
     id: V9841059
     name: Yu-Ching
     password: yu
-    rating: 79
+    rating: 81
+  - Chinese: 黃啟信
+    id: V9841062
+    name: Ivan
+    password: qi
+    rating: 75
   - Chinese: 李齊
     id: V9841064
     name: Ricky
     password: qi
-    rating: 55
+    rating: 73
   - Chinese: 蘇文彥
     id: V9841067
     name: Sue
     password: wen
-    rating: 67
+    rating: 74
+  - Chinese: 邱珞媺
+    id: V9841068
+    name: 邱珞媺
+    password: luo
+    rating: ~
+  - Chinese: 王國權
+    id: V9841069
+    name: 王國權
+    password: guo
+    rating: ~
+  - Chinese: 劉國薇
+    id: V9841070
+    name: 劉國薇
+    password: guo
+    rating: ~
+  - Chinese: 張馨方
+    id: V9841071
+    name: 張馨方
+    password: xin
+    rating: ~
 out:
-  - Chinese: 詹貿傑
-    id: V9841052
-    name: Jerry
-    password: mao
-    rating: ~
-  - Chinese: 湯浩軍
-    id: V9841063
-    name: Tea
-    password: hao
-    rating: 41
-  - Chinese: 彭明俊
-    id: V9841016
-    name: Mike
-    password: ming
-    rating: ~
-  - Chinese: 李家安
-    id: V9841042
-    name: Joanna
-    password: jia
-    rating: 19
-  - Chinese: 胡佳玟
-    id: V9841046
-    name: Lace
-    password: jia
-    rating: 52
-  - Chinese: 柯佩君
-    id: V9841047
-    name: Annie
-    password: pei
-    rating: 53
-  - Chinese: 黃文青
-    id: V9741002
-    name: Miranda
-    password: wen
-    rating: 23
-  - Chinese: 黃偉鳴
-    id: V9841018
-    name: 黃偉鳴
-    password: wei
-    rating: ~
-  - Chinese: 劉芬芳
-    id: N9661760
-    name: Sophia
-    password: fen
-    rating: 39
-  - Chinese: 陳勇安
-    id: V9841021
-    name: Jason
-    password: yong
-    rating: 41
-  - Chinese: 韋筱晴
-    id: V9841035
-    name: Shiau-ching
-    password: xiao
-    rating: 30
-  - Chinese: 劉芸玥
-    id: V9999113
-    name: Christian
-    password: yun
-    rating: 65
 room: A706
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
 weights:
   classwork: 70
   exams: 15
   homework: 15
-scores:
-  win    : 5
-  loss   : 3
-  draw   : 4
-  bye    : 5
-  forfeit: 0
-  late   : 1
