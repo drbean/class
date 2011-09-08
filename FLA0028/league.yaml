@@ -12,6 +12,12 @@ hwMax: 3
 id: FLA0028
 league: 夜應外大學四甲
 member:
+  - Chinese: 賴慶民
+    name: Jimmy
+    password: qing
+    id: V0000001
+    rating: ~
+  
   - Chinese: 陳彥叡
     id: 9622299
     name: Edison
@@ -203,7 +209,7 @@ member:
     password: yi
     rating: 69
 out:
-room: A705
+room: A706
 weights:
   classwork: 40
   exams: 20
