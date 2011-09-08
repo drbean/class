@@ -1,70 +1,76 @@
 ---
 Black:
-  - 劉國薇
+  - 張馨方
   - Luke
+  - Winny
+  - Rose
+BlackBlack:
+  - Alan
+  - Joan
+  - Yi-Ru
+  - Frances
+Blue:
+  - 王國權
+  - Carina
   - Fifi
   - Alex
-BlackBlack:
-  - 謝永彬
-  - Joan
+BlueBlue:
+  - 劉國薇
+  - Ming
   - Yu-Lun
   - Julie
-Blue:
-  - 邱珞媺
-  - Carina
+Brown:
+  - 謝永彬
+  - Nancy
   - Shaq
   - Yu-Ching
-BlueBlue:
-  - 李秉霖
-  - Ming
+Gray:
+  - 邱珞媺
+  - Katty
   - Kitty
   - Lisa
-Brown:
-  - Jessica2
-  - Nancy
+Green:
+  - Jacinta
+  - Anne
   - Joy
   - Hannah
-Gray:
-  - Lu-ping
-  - Katty
+Orange:
+  - 李秉霖
+  - Abby
   - Leo
   - Winne
-Green:
-  - Miranda
-  - Anne
+Pink:
+  - Jessica2
+  - Patty
   - Dennis
   - Jessica1
-Orange:
-  - Lace
-  - Abby
+Purple:
+  - Lu-ping
+  - Jeffrey
   - Ricky
   - Frank
-Pink:
-  - Ryan
-  - Patty
+Red:
+  - Miranda
+  - Cathy
   - Stanley
   - Laura
-Purple:
-  - Kori
-  - Jeffrey
+White:
+  - Lace
+  - Yorick
   - Sue
   - Rachel
-Red:
-  - Amber
-  - Cathy
+WhiteWhite:
+  - Ryan
+  - Bass
   - Ivan
   - Debbie
-White:
-  - Dan
-  - Yorick
+Yellow:
+  - Kori
+  - Ingar
   - Hank
   - Carol
-WhiteWhite:
-  - Ingar
-  - Bass
+YellowYellow:
+  - Amber
+  - Dan
   - Wei-Yi
   - Sana
-Yellow:
-  - 張馨方
-  - Yi-Ru
-  - Rose
