@@ -13,6 +13,17 @@ id: FLA0023
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+  - Chinese: 陳詩梵 
+    name: Jacinta
+    password: shi
+    id: V9741036
+    rating: 73
+  - Chinese: 謝孟倫
+    name: Alan
+    password: meng
+    id: V9741009
+    rating: 71
+  
   - Chinese: 林佩瑄
     id: N9561735
     name: Ingar
