@@ -4,11 +4,6 @@ Black:
   - Sophie
   - Amy
   - Rachel
-BlackBlack:
-  - Luke
-  - Kathy
-  - Eva
-  - Melissa
 Blue:
   - Joe
   - Anita
@@ -39,10 +34,16 @@ Pink:
   - Vivi
   - Elly
   - Frances
+Purple:
+  - Luke
+  - Kathy
+  - Eva
+  - Melissa
 Red:
   - Nancy
   - Cathy
   - Aska
+  - Jimmy
 White:
   - Chelsea
   - Kumiko
