@@ -13,6 +13,12 @@ id: 001GL00003
 jigsaw: exam
 league: 日語文共同學制虛擬班二甲
 member:
+  - Chinese: 謝宇函
+    name: Candy
+    password: yu
+    id: V9741038
+    rating: ~
+  
   - Chinese: 劉卉琳
     id: T9833025
     name: 劉卉琳
