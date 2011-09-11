@@ -13,6 +13,12 @@ id: FLA0023
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+  - Chinese: 張宇瑤
+    name: Yu-Yao
+    password: yu
+    id: U9843020
+    rating: ~
+  
   - Chinese: 陳詩梵 
     name: Jacinta
     password: shi
@@ -36,12 +42,12 @@ member:
     rating: 78
   - Chinese: 黃綠蘋
     id: N9661754
-    name: Lu-ping
+    name: Julia
     password: lu
     rating: 52
   - Chinese: 李秉霖
     id: T9823041
-    name: 李秉霖
+    name: Larry
     password: bing
     rating: ~
   - Chinese: 潘昱安
@@ -296,12 +302,12 @@ member:
     rating: 74
   - Chinese: 邱珞媺
     id: V9841068
-    name: 邱珞媺
+    name: Louise
     password: luo
     rating: ~
   - Chinese: 王國權
     id: V9841069
-    name: 王國權
+    name: Kenny
     password: guo
     rating: ~
   - Chinese: 劉國薇
@@ -311,7 +317,7 @@ member:
     rating: ~
   - Chinese: 張馨方
     id: V9841071
-    name: 張馨方
+    name: XinFang
     password: xin
     rating: ~
 out:
