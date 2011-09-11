@@ -55,11 +55,6 @@ member:
     name: Alex
     password: yu
     rating: 85
-  - Chinese: 謝永彬
-    id: V9716015
-    name: 謝永彬
-    password: yong
-    rating: ~
   - Chinese: 陳昱樺
     id: V9724004
     name: Nancy
