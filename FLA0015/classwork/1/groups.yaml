@@ -1,76 +1,78 @@
 ---
 Black:
-  - 謝佳汝
-  - 陳采玲
-  - 涂為智
-  - Donna
-BlackBlack:
-  - 楊琬茹
+  - 劉好英
   - Joanna
-  - 張鉯芸
-  - Edison
-Blue:
-  - 黃宇襄
-  - 林忠廣
   - 吳李龍
   - Lu-Ping
-BlueBlue:
-  - 劉好英
-  - 蔡佩芸
+BlackBlack:
+  - 朱文章
+  - 林忠廣
   - 謝東霖
   - 詹春英
-Brown:
-  - 朱文章
-  - 張真黛
+Blue:
+  - 陳乙瑄
+  - 蔡佩芸
   - 陳俞靜
   - 李欣蕙
-Gray:
-  - 陳乙瑄
-  - 張雅婷
+BlueBlue:
+  - 陳彥瑋
+  - 張真黛
   - 彭姿菁
   - 黎彥廷
-Green:
-  - 陳彥瑋
-  - 徐?焜
+Brown:
+  - 洪欣慈
+  - 張雅婷
   - 羅苡心
   - 劉紋君
-Orange:
-  - 洪欣慈
-  - 洪詠舜
+BrownBrown:
+  - 彭宣儒
+  - 徐?焜
   - 黃君瑋
   - 范治偉
-Pink:
-  - 彭宣儒
-  - 涂孟玉
+Gray:
+  - 曾姿蒨
+  - 洪詠舜
   - 吳仰婷
   - 彭馨慧
-Purple:
-  - 曾姿蒨
-  - 林柏如
+Green:
+  - 陳雅婷
+  - 涂孟玉
   - 謝孟璇
   - 何杰倫
-Red:
-  - 陳雅婷
+Orange:
+  - Tea
+  - 林柏如
+  - 曾馨誼
+  - 謝旻諺
+Pink:
+  - 莊翌蝶
   - 林依妮
   - Mike
-  - 謝旻諺
-White:
-  - Tea
+  - 黃于真
+Purple:
+  - 葉瓊惠
   - 徐婉綾
   - '?翔義'
-  - 黃于真
-WhiteWhite:
-  - 莊翌蝶
-  - 徐艷昀
-  - 曾馨誼
   - 蕭莉娟
-Yellow:
-  - 葉瓊惠
-  - 湯明勳
+Red:
+  - 詹春華
+  - 徐艷昀
   - 徐義傑
   - 鍾興科
-YellowYellow:
-  - 詹春華
+White:
   - 鄭合真
+  - 湯明勳
   - 楊千慧
   - 賴淑君
+WhiteWhite:
+  - 黃宇襄
+  - 陳采玲
+  - Joe
+Yellow:
+  - 楊琬茹
+  - 涂為智
+  - Edison
+YellowYellow:
+  - 謝佳汝
+  - 張鉯芸
+  - Donna
