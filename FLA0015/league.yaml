@@ -12,6 +12,17 @@ id: FLA0014
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+  - Chinese: 謝永彬
+   id: V9716015
+   name: Ben
+   password: yong
+   rating: ~
+
+  - Chinese: 林志豪
+    name: Joe
+    password: zhi
+    id: V9741066
+    rating: 69
   - Chinese: 陳彥叡
     id: 9622299
     name: Edison
