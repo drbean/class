@@ -20,7 +20,7 @@ member:
     rating: ~
   - Chinese: 張思羽
     id: T9833004
-    name: 張思羽
+    name: Si-Yu
     password: si
     rating: ~
   - Chinese: 葉宜庭
@@ -35,17 +35,17 @@ member:
     rating: ~
   - Chinese: 謝捷茹
     id: U9918024
-    name: 謝捷茹
+    name: Peggy
     password: jie
     rating: ~
   - Chinese: 林美君
     id: U9918057
-    name: 林美君
+    name: Minnie
     password: mei
     rating: ~
   - Chinese: 吳佳蓉
     id: U9934002
-    name: 吳佳蓉
+    name: Julie
     password: jia
     rating: ~
   - Chinese: 劉冠伶
@@ -55,12 +55,12 @@ member:
     rating: ~
   - Chinese: 葉偉君
     id: U9934021
-    name: 葉偉君
+    name: Daisy
     password: wei
     rating: ~
   - Chinese: 韓偲羽
     id: U9934025
-    name: 韓偲羽
+    name: Annie
     password: si
     rating: ~
   - Chinese: 李?鑾
