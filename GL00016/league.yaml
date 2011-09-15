@@ -38,11 +38,6 @@ member:
     name: Peggy
     password: jie
     rating: ~
-  - Chinese: 林美君
-    id: U9918057
-    name: Minnie
-    password: mei
-    rating: ~
   - Chinese: 吳佳蓉
     id: U9934002
     name: Julie
@@ -69,6 +64,17 @@ member:
     password: ?
     rating: ~
 out:
+  - Chinese: 林美君
+    id: U9918057
+    name: Minnie
+    password: mei
+    rating: ~
+  - Chinese: 丁偉傑
+    name: Bill
+    password: wei
+    id: U9922129
+    rating: ~
+  
 room: A705
 weights:
   classwork: 70
