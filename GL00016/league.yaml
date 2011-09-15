@@ -13,11 +13,6 @@ id: GL00022
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
-  - Chinese: 杜晃琳
-    id: T9711047
-    name: 杜晃琳
-    password: huang
-    rating: ~
   - Chinese: 張思羽
     id: T9833004
     name: Si-Yu
@@ -25,12 +20,12 @@ member:
     rating: ~
   - Chinese: 葉宜庭
     id: T9833033
-    name: 葉宜庭
+    name: Vicky
     password: yi
     rating: ~
   - Chinese: 蔡依紜
     id: U9816015
-    name: 蔡依紜
+    name: Karen
     password: yi
     rating: ~
   - Chinese: 謝捷茹
@@ -45,7 +40,7 @@ member:
     rating: ~
   - Chinese: 劉冠伶
     id: U9934003
-    name: 劉冠伶
+    name: Emily
     password: guan
     rating: ~
   - Chinese: 葉偉君
@@ -60,10 +55,15 @@ member:
     rating: ~
   - Chinese: 李?鑾
     id: U9942012
-    name: 李?鑾
+    name: Helen
     password: ?
     rating: ~
 out:
+  - Chinese: 杜晃琳
+    id: T9711047
+    name: 杜晃琳
+    password: huang
+    rating: ~
   - Chinese: 林美君
     id: U9918057
     name: Minnie
