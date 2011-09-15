@@ -13,6 +13,17 @@ id: GL00022
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
+  - Chinese: 吳偉宗
+    name: Daniel
+    password: wei
+    id: U9822150
+    rating: ~
+  - Chinese: 葉文慈
+    name: Sylvia
+    password: wen
+    id: U0031026
+    rating: ~
+  
   - Chinese: 張思羽
     id: T9833004
     name: Si-Yu
