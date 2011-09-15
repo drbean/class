@@ -13,6 +13,79 @@ id: 001GL00003
 jigsaw: exam
 league: 日語文共同學制虛擬班二甲
 member:
+  - Chinese: 曾文君
+    name: Vikin
+    password: wen
+    id: T9833016
+    rating: ~
+  - Chinese: 廖玉紅
+    name: Iris
+    password: yu
+    id: U9718048
+    rating: ~
+  - Chinese: 賴建君
+    name: JunJinn
+    password: jian
+    id: U9742033
+    rating: ~
+  - Chinese: 林喬俐
+    name: Mark
+    password: qiao
+    id: U9718012
+    rating: ~
+  - Chinese: 辜婉琳
+    name: WanLin
+    password: wan
+    id: U9631020
+    rating: ~
+  - Chinese: 張皓鈞
+    name: Chris
+    password: hao
+    id: U9713044
+    rating: ~
+  - Chinese: 葉秉儒
+    name: Daniel
+    password: bing
+    id: U9823006
+    rating: ~
+  - Chinese: 林敬儒
+    name: James
+    password: jing
+    id: U0021016
+    rating: ~
+  
+  
+  
+  - Chinese: 黃可茹
+    id: V9741060
+    name: Kathy
+    password: ke
+    rating: 71
+  - Chinese: 王寧
+    id: V9741059
+    name: Ivy
+    password: ning
+    rating: 73
+  - Chinese: 傅泓瑜
+    id: V9741029
+    name: Kumiko
+    password: hong
+    rating: 70
+  - Chinese: 李欣怡
+    id: V9741030
+    name: Donna
+    password: xin
+    rating: 60
+  - Chinese: 賴宣蓉
+    id: V9741057
+    name: Nina
+    password: xuan
+    rating: 80
+  - Chinese: 魏宏耘
+    id: V9741010
+    name: Andy
+    password: hong
+    rating: 74
   - Chinese: 謝宇函
     name: Candy
     password: yu
@@ -21,75 +94,75 @@ member:
   
   - Chinese: 劉卉琳
     id: T9833025
-    name: 劉卉琳
+    name: Hui-Lin
     password: hui
-    rating: ~
-  - Chinese: 陳宗霖
-    id: U9616024
-    name: 陳宗霖
-    password: zong
     rating: ~
   - Chinese: 劉興翰
     id: U9711105
-    name: 劉興翰
+    name: Hazel
     password: xing
     rating: ~
   - Chinese: 張俊傑
     id: U9711115
-    name: 張俊傑
+    name: Taylor
     password: jun
     rating: ~
   - Chinese: 夏國倫
     id: U9711120
-    name: 夏國倫
+    name: GuoLun
     password: guo
     rating: ~
   - Chinese: 劉哲愷
     id: U9711132
-    name: 劉哲愷
+    name: Kai
     password: zhe
     rating: ~
   - Chinese: 林峻緯
     id: U9713020
-    name: 林峻緯
+    name: Jerry
     password: jun
     rating: ~
   - Chinese: 黃旻
     id: U9731046
-    name: 黃旻
+    name: Vicky
     password: min
+    rating: ~
+  - Chinese: 李奇育
+    id: U9915004
+    name: Jusky
+    password: qi
+    rating: ~
+  - Chinese: 邱建榮
+    id: U9918043
+    name: Gene
+    password: jian
+    rating: ~
+  - Chinese: 黃文欣
+    id: U9922232
+    name: Wen-hsin
+    password: wen
+    rating: ~
+  - Chinese: 顏霆毅
+    id: U9922318
+    name: Nick
+    password: ting
+    rating: ~
+out:
+  - Chinese: 張嘉元
+    id: U9922110
+    name: 張嘉元
+    password: jia
     rating: ~
   - Chinese: 許竣幃
     id: U9911136
     name: 許竣幃
     password: jun
     rating: ~
-  - Chinese: 李奇育
-    id: U9915004
-    name: 李奇育
-    password: qi
+  - Chinese: 陳宗霖
+    id: U9616024
+    name: 陳宗霖
+    password: zong
     rating: ~
-  - Chinese: 邱建榮
-    id: U9918043
-    name: 邱建榮
-    password: jian
-    rating: ~
-  - Chinese: 張嘉元
-    id: U9922110
-    name: 張嘉元
-    password: jia
-    rating: ~
-  - Chinese: 黃文欣
-    id: U9922232
-    name: 黃文欣
-    password: wen
-    rating: ~
-  - Chinese: 顏霆毅
-    id: U9922318
-    name: 顏霆毅
-    password: ting
-    rating: ~
-out:
 room: A705
 weights:
   classwork: 70
