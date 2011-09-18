@@ -13,6 +13,60 @@ hwMax: 2
 id: 001FLA0019
 league: 夜應外大學二甲
 member:
+  - Chinese: 王國權
+    id: V9841069
+    name: Kenny
+    password: guo
+    rating: ~
+  - Chinese: 黃宇襄
+    name: Jill
+    password: yu
+    id: V9941045
+    rating: ~
+  - Chinese: 莊翌蝶
+    name: Claire
+    password: yi
+    id: V9941040
+    rating: ~
+  - Chinese: 徐碩謙
+    name: Cindy
+    password: shi
+    id: V0000002
+    rating: ~
+  - Chinese: 謝永彬
+    name: Ben
+    password: yong
+    id: V9716015
+    rating: ~
+  
+  
+
+  - Chinese: 葉瓊惠
+    name: Sandy
+    password: qiong
+    id: V9841025
+    rating: ~
+  - Chinese: 林柏如
+    name: Brenda
+    password: bo
+    id: V9941075
+    rating: ~
+  - Chinese: 邱珞媺
+    id: V9841068
+    name: Louise
+    password: luo
+    rating: ~
+  - Chinese: 陳昱樺
+    id: V9724004
+    name: Nancy
+    password: yu
+    rating: 65
+  - Chinese: 陳彥瑋
+    name: Travis
+    password: yan
+    id: U9841001
+    rating: ~
+  
   - Chinese: 李昭毅
     id: N9661713
     name: Joey
@@ -100,42 +154,42 @@ member:
     rating: 84
   - Chinese: 謝旻諺
     id: V9941003
-    name: 謝旻諺
+    name: Jibson
     password: min
     rating: ~
   - Chinese: 徐?焜
     id: V9941005
-    name: 徐?焜
+    name: Innocent
     password: ?
     rating: ~
   - Chinese: 湯明勳
     id: V9941010
-    name: 湯明勳
+    name: Robert
     password: ming
     rating: ~
   - Chinese: 鍾興科
     id: V9941011
-    name: 鍾興科
+    name: Adam
     password: xing
     rating: ~
   - Chinese: 謝東霖
     id: V9941014
-    name: 謝東霖
+    name: Tony
     password: dong
     rating: ~
   - Chinese: 涂為智
     id: V9941015
-    name: 涂為智
+    name: Henry
     password: wei
     rating: ~
   - Chinese: 黃于真
     id: V9941059
-    name: 黃于真
+    name: Sophia
     password: yu
     rating: ~
   - Chinese: 吳李龍
     id: V9941060
-    name: 吳李龍
+    name: Leon
     password: li
     rating: ~
   - Chinese: 楊千慧
