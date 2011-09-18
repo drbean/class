@@ -1,23 +1,23 @@
 ---
 Black:
   absent: 
-  merits      : 2
+  merits      : 3
 Blue:
   absent: 
-    - QianHui
+    - Frances
     - Emily
-  merits      : 2
+  merits      : 1
 Brown:
   absent: 
     - Eva
-  merits      : 0
+    - Elly
+  merits      : 2
 Gray:
   absent: 
+    - Innocent
   merits      : 2
 Orange:
   absent: 
-    - Sophia
-    - Jibson
     - Ivy
   merits      : 3
 Pink:
@@ -26,15 +26,13 @@ Pink:
   merits      : 3
 Purple:
   absent: 
+    - Aska
   merits      : 2
 Red:
   absent: 
-    - Jill
+    - Brenda
+    - Nancy
   merits      : 2
 White:
   absent:
-    - Claire
-    - Kenny
-    - Cindy
-    - Ben
-  merits      : 0
+  merits      : 1
