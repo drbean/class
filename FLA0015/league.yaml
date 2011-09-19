@@ -13,10 +13,10 @@ jigsaw: exam
 league: 夜應外大學二甲
 member:
   - Chinese: 謝永彬
-   id: V9716015
-   name: Ben
-   password: yong
-   rating: ~
+    id: V9716015
+    name: Ben
+    password: yong
+    rating: ~
 
   - Chinese: 林志豪
     name: Joe
