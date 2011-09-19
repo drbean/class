@@ -1,204 +1,159 @@
 ---
 cutpoints:
-  one: 0
-  two: 0
-exercise: career
+  one: 50
+  two: 190
+exercise: candidate
 grade:
-  T9833032: 0
-  T9833004: 2
-  T9833006: 2
-  T9833009: 2
-  T9833013: 2
-  T9833025: 2
-  T9833027: 0
-  T9833028: 2
-  T9833030: 2
-  T9833035: 2
-  T9833037: 2
-  T9833039: 2
-  T9833043: 2
-  T9833045: 2
-  T9833046: 2
-  T9833050: 2
-  U9733013: 2
-  U9831107: 0
-  U9833001: 2
-  U9833002: 2
-  U9833003: transfer
-  U9833005: 2
-  U9833007: 2
-  U9833009: 2
-  U9833011: 2
-  U9833014: 2
-  U9833015: 2
-  U9833019: 2
-  U9833020: 2
-  U9833022: 2
-  U9833023: 2
-  U9833024: 2
-  U9833025: 2
-  U9833026: 2
-  U9833030: 2
-  U9833031: 2
-  U9833034: 2
-  U9833035: 1
-  U9833038: 2
-  U9833039: 2
-  U9833040: 2
-  U9833041: 2
-  U9833043: 2
-  U9833044: 2
-  U9833045: 2
-  U9833047: 2
-  U9833048: 2
-  U9833049: 0
-  U9833050: 2
-  U9833052: 0
+  U9933001: 2
+  U9933003: 2
+  U9933005: 2
+  U9933006: 2
+  U9933008: 2
+  U9933010: 2
+  U9933011: 2
+  U9933013: 0
+  U9933017: 2
+  U9933020: 2
+  U9933022: 2
+  U9933023: 2
+  U9933024: 2
+  U9933025: 2
+  U9933026: 2
+  U9933027: 2
+  U9933029: 2
+  U9933030: 2
+  U9933031: 2
+  U9933033: 0
+  U9933037: 2
+  U9933038: 0
+  U9933039: 2
+  U9933041: 2
+  U9933043: 2
+  U9933044: 2
+  U9933045: 2
+  U9933107: 0
+  U9933108: 0
+  U9933109: 0
+  U9933112: 0
+  U9933116: 2
+  U9933126: 0
+  U9933136: 0
+  U9933138: 2
+  U9933139: 0
+  U9933143: 2
+  U9933149: 0
 points:
-  T9833004:
-    letters: 341
+  U9933001:
+    letters: 251
     questions: 0
-  T9833006:
-    letters: 341
+  U9933003:
+    letters: 277
     questions: 1
-  T9833009:
-    letters: 340
-    questions: 1
-  T9833013:
-    letters: 348
+  U9933005:
+    letters: 254
     questions: 0
-  T9833025:
-    letters: 297
+  U9933006:
+    letters: 271
     questions: 0
-  T9833027:
-    letters: ~
+  U9933008:
+    letters: 277
     questions: 0
-  T9833028:
-    letters: 349
+  U9933010:
+    letters: 271
     questions: 0
-  T9833030:
-    letters: 349
+  U9933011:
+    letters: 254
     questions: 0
-  T9833035:
-    letters: 348
-    questions: 2
-  T9833037:
-    letters: 297
+  U9933013:
+    letters: 0
     questions: 0
-  T9833039:
-    letters: 349
+  U9933017:
+    letters: 270
+    questions: 1
+  U9933020:
+    letters: 251
     questions: 0
-  T9833043:
-    letters: 349
-    questions: 1
-  T9833045:
-    letters: 333
+  U9933022:
+    letters: 260
     questions: 0
-  T9833046:
-    letters: 341
-    questions: 1
-  T9833050:
-    letters: 297
-    questions: 1
-  U9733013:
-    letters: ~
-    questions: 1
-  U9831107:
-    letters: ~
+  U9933023:
+    letters: 277
     questions: 0
-  U9833001:
-    letters: ~
-    questions: 1
-  U9833002:
-    letters: 297
+  U9933024:
+    letters: 254
     questions: 0
-  U9833003:
-    letters: ~
+  U9933025:
+    letters: 254
+    questions: 1
+  U9933026:
+    letters: 277
     questions: 0
-  U9833005:
-    letters: 332
+  U9933027:
+    letters: 251
     questions: 1
-  U9833007:
-    letters: 297
-    questions: 1
-  U9833009:
-    letters: 297
+  U9933029:
+    letters: 251
     questions: 0
-  U9833011:
-    letters: 343
-    questions: 1
-  U9833014:
-    letters: 297
+  U9933030:
+    letters: 271
     questions: 0
-  U9833015:
-    letters: 341
-    questions: 1
-  U9833019:
-    letters: 349
-    questions: 1
-  U9833020:
-    letters: 349
-    questions: 1
-  U9833022:
-    letters: 342
-    questions: 1
-  U9833023:
-    letters: 349
-    questions: 1
-  U9833024:
-    letters: 349
-    questions: 1
-  U9833025:
-    letters: 3
-    questions: 1
-  U9833026:
-    letters: 341
-    questions: 1
-  U9833030:
-    letters: 349
+  U9933031:
+    letters: 254
     questions: 0
-  U9833031:
-    letters: 341
-    questions: 1
-  U9833034:
-    letters: 349
-    questions: 1
-  U9833035:
-    letters: 207
+  U9933033:
+    letters: 0
     questions: 0
-  U9833038:
-    letters: 324
+  U9933037:
+    letters: 254
     questions: 1
-  U9833039:
-    letters: 326
+  U9933038:
+    letters: 0
     questions: 0
-  U9833040:
-    letters: 336
-    questions: 2
-  U9833041:
-    letters: 348
+  U9933039:
+    letters: 271
     questions: 1
-  U9833043:
-    letters: 239
-    questions: 1
-  U9833044:
-    letters: 297
-    questions: 1
-  U9833045:
-    letters: 349
-    questions: 1
-  U9833047:
-    letters: 349
-    questions: 1
-  U9833048:
-    letters: ~
-    questions: 1
-  U9833049:
-    letters: ~
+  U9933041:
+    letters: 277
     questions: 0
-  U9833050:
-    letters: 297
+  U9933043:
+    letters: 270
+    questions: 0
+  U9933044:
+    letters: 0
     questions: 1
-  U9833052:
-    letters: ~
+  U9933045:
+    letters: 277
+    questions: 0
+  U9933107:
+    letters: 0
+    questions: 0
+  U9933108:
+    letters: 0
+    questions: 0
+  U9933109:
+    letters: 0
+    questions: 0
+  U9933112:
+    letters: 0
+    questions: 0
+  U9933116:
+    letters: 251
+    questions: 1
+  U9933126:
+    letters: 0
+    questions: 0
+  U9933136:
+    letters: 0
+    questions: 0
+  U9933138:
+    letters: 254
+    questions: 0
+  U9933139:
+    letters: 0
+    questions: 0
+  U9933143:
+    letters: 196
+    questions: 0
+  U9933149:
+    letters: 0
     questions: 0
