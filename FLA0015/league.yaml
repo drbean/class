@@ -30,7 +30,7 @@ member:
     rating: 71
   - Chinese: 黃綠蘋
     id: N9661754
-    name: Lu-Ping
+    name: Julia
     password: lu
     rating: 52
   - Chinese: 李欣怡
@@ -40,7 +40,7 @@ member:
     rating: 89
   - Chinese: 陳彥瑋
     id: V9841001
-    name: 陳彥瑋
+    name: Travis
     password: yan
     rating: ~
   - Chinese: 彭明俊
@@ -50,7 +50,7 @@ member:
     rating: ~
   - Chinese: 葉瓊惠
     id: V9841025
-    name: 葉瓊惠
+    name: Sandy
     password: qiong
     rating: ~
   - Chinese: 李家安
@@ -80,12 +80,12 @@ member:
     rating: ~
   - Chinese: 謝旻諺
     id: V9941003
-    name: 謝旻諺
+    name: Jibson
     password: min
     rating: ~
   - Chinese: 徐?焜
     id: V9941005
-    name: 徐?焜
+    name: Innocent
     password: ?
     rating: ~
   - Chinese: 朱文章
@@ -95,12 +95,12 @@ member:
     rating: ~
   - Chinese: 湯明勳
     id: V9941010
-    name: 湯明勳
+    name: Robert
     password: ming
     rating: ~
   - Chinese: 鍾興科
     id: V9941011
-    name: 鍾興科
+    name: Adam
     password: xing
     rating: ~
   - Chinese: '?翔義'
@@ -115,12 +115,12 @@ member:
     rating: ~
   - Chinese: 謝東霖
     id: V9941014
-    name: 謝東霖
+    name: Tony
     password: dong
     rating: ~
   - Chinese: 涂為智
     id: V9941015
-    name: 涂為智
+    name: Henry
     password: wei
     rating: ~
   - Chinese: 何杰倫
@@ -205,7 +205,7 @@ member:
     rating: ~
   - Chinese: 莊翌蝶
     id: V9941040
-    name: 莊翌蝶
+    name: Claire
     password: yi
     rating: ~
   - Chinese: 涂孟玉
@@ -225,7 +225,7 @@ member:
     rating: ~
   - Chinese: 黃宇襄
     id: V9941045
-    name: 黃宇襄
+    name: Jill
     password: yu
     rating: ~
   - Chinese: 蕭莉娟
@@ -265,12 +265,12 @@ member:
     rating: ~
   - Chinese: 黃于真
     id: V9941059
-    name: 黃于真
+    name: Sophia
     password: yu
     rating: ~
   - Chinese: 吳李龍
     id: V9941060
-    name: 吳李龍
+    name: Leon
     password: li
     rating: ~
   - Chinese: 范治偉
@@ -310,12 +310,12 @@ member:
     rating: ~
   - Chinese: 楊千慧
     id: V9941073
-    name: 楊千慧
+    name: QianHui
     password: qian
     rating: ~
   - Chinese: 林柏如
     id: V9941075
-    name: 林柏如
+    name: Brenda
     password: bo
     rating: ~
   - Chinese: 謝孟璇
