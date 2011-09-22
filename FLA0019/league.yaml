@@ -200,5 +200,5 @@ member:
 room: A706
 weights:
   classwork: 20
-  exams: 60
-  homework: 20
+  homework: 60
+  exams: 20
