@@ -1,6 +1,6 @@
 ---
 absent: ~
-approach: Compcomp
+approach: GroupworkNoFault
 compcomp: comp
 examMax: 4
 exams: exam
@@ -12,12 +12,16 @@ id: 001FLA0015
 jigsaw: exam
 league: 夜應外大學二甲
 member:
-  - Chinese: 謝永彬
-    id: V9716015
-    name: Ben
-    password: yong
+  - Chinese: 陳昱樺
+    id: V9724004
+    name: Nancy
+    password: yu
+    rating: 59
+  - Chinese: 劉芬芳
+    password: fen
+    name: Sophia2
+    id: N9661760
     rating: ~
-
   - Chinese: 林志豪
     name: Joe
     password: zhi
@@ -70,7 +74,7 @@ member:
     rating: ~
   - Chinese: 吳仰婷
     id: V9941001
-    name: 吳仰婷
+    name: Yang-ting
     password: yang
     rating: ~
   - Chinese: 彭宣儒
@@ -90,7 +94,7 @@ member:
     rating: ~
   - Chinese: 朱文章
     id: V9941007
-    name: 朱文章
+    name: Redd
     password: wen
     rating: ~
   - Chinese: 湯明勳
@@ -105,12 +109,12 @@ member:
     rating: ~
   - Chinese: '?翔義'
     id: V9941012
-    name: '?翔義'
+    name: XiangYi
     password: xiang
     rating: ~
   - Chinese: 洪詠舜
     id: V9941013
-    name: 洪詠舜
+    name: Yong-Shun
     password: yong
     rating: ~
   - Chinese: 謝東霖
@@ -125,7 +129,7 @@ member:
     rating: ~
   - Chinese: 何杰倫
     id: V9941016
-    name: 何杰倫
+    name: Jielun
     password: jie
     rating: ~
   - Chinese: 徐義傑
@@ -135,7 +139,7 @@ member:
     rating: ~
   - Chinese: 林忠廣
     id: V9941020
-    name: 林忠廣
+    name: Zhong-guang
     password: zhong
     rating: ~
   - Chinese: 彭馨慧
@@ -145,47 +149,47 @@ member:
     rating: ~
   - Chinese: 陳俞靜
     id: V9941022
-    name: 陳俞靜
+    name: Vicki
     password: yu
     rating: ~
   - Chinese: 彭姿菁
     id: V9941023
-    name: 彭姿菁
+    name: Tzu-Ching
     password: zi
     rating: ~
   - Chinese: 陳乙瑄
     id: V9941025
-    name: 陳乙瑄
+    name: Sharon
     password: yi
     rating: ~
   - Chinese: 張真黛
     id: V9941026
-    name: 張真黛
+    name: Zhen-Dai
     password: zhen
     rating: ~
   - Chinese: 楊琬茹
     id: V9941027
-    name: 楊琬茹
+    name: Wan-Ru
     password: wan
     rating: ~
   - Chinese: 張雅婷
     id: V9941029
-    name: 張雅婷
+    name: YaTing
     password: ya
     rating: ~
   - Chinese: 洪欣慈
     id: V9941031
-    name: 洪欣慈
+    name: Hsin-Cih
     password: xin
     rating: ~
   - Chinese: 曾馨誼
     id: V9941032
-    name: 曾馨誼
+    name: Mary
     password: xin
     rating: ~
   - Chinese: 曾姿蒨
     id: V9941033
-    name: 曾姿蒨
+    name: Zi-Qian
     password: zi
     rating: ~
   - Chinese: 陳采玲
@@ -195,12 +199,12 @@ member:
     rating: ~
   - Chinese: 劉紋君
     id: V9941037
-    name: 劉紋君
+    name: WenJun
     password: wen
     rating: ~
   - Chinese: 羅苡心
     id: V9941039
-    name: 羅苡心
+    name: Mita
     password: yi
     rating: ~
   - Chinese: 莊翌蝶
@@ -215,7 +219,7 @@ member:
     rating: ~
   - Chinese: 賴淑君
     id: V9941043
-    name: 賴淑君
+    name: Shu-Jun
     password: shu
     rating: ~
   - Chinese: 林依妮
@@ -230,22 +234,22 @@ member:
     rating: ~
   - Chinese: 蕭莉娟
     id: V9941046
-    name: 蕭莉娟
+    name: LiJuan
     password: li
     rating: ~
   - Chinese: 徐婉綾
     id: V9941047
-    name: 徐婉綾
+    name: Wan-Lin
     password: wan
     rating: ~
   - Chinese: 詹春英
     id: V9941049
-    name: 詹春英
+    name: Chun-Ying
     password: chun
     rating: ~
   - Chinese: 詹春華
     id: V9941050
-    name: 詹春華
+    name: Chun-Hua
     password: chun
     rating: ~
   - Chinese: 謝佳汝
@@ -255,7 +259,7 @@ member:
     rating: ~
   - Chinese: 張鉯芸
     id: V9941057
-    name: 張鉯芸
+    name: David
     password: yi
     rating: ~
   - Chinese: 李欣蕙
@@ -265,7 +269,7 @@ member:
     rating: ~
   - Chinese: 黃于真
     id: V9941059
-    name: Sophia
+    name: Sophia1
     password: yu
     rating: ~
   - Chinese: 吳李龍
@@ -275,7 +279,7 @@ member:
     rating: ~
   - Chinese: 范治偉
     id: V9941062
-    name: 范治偉
+    name: Zhi-Wei
     password: zhi
     rating: ~
   - Chinese: 黃君瑋
@@ -285,27 +289,27 @@ member:
     rating: ~
   - Chinese: 鄭合真
     id: V9941064
-    name: 鄭合真
+    name: Albert
     password: he
     rating: ~
   - Chinese: 劉好英
     id: V9941067
-    name: 劉好英
+    name: Ivy
     password: hao
     rating: ~
   - Chinese: 徐艷昀
     id: V9941068
-    name: 徐艷昀
+    name: Yan-Yun
     password: yan
     rating: ~
   - Chinese: 蔡佩芸
     id: V9941069
-    name: 蔡佩芸
+    name: Pei-Yun
     password: pei
     rating: ~
   - Chinese: 陳雅婷
     id: V9941071
-    name: 陳雅婷
+    name: YaTing
     password: ya
     rating: ~
   - Chinese: 楊千慧
