@@ -1,76 +1,77 @@
 ---
 Black:
+  - Jill
+  - 陳采玲
+  - Leon
+  - Joe
+BlackBlack:
   - 劉好英
   - Joanna
-  - 吳李龍
-  - Lu-Ping
-BlackBlack:
+  - Tony
+  - Julia
+Blue:
   - 朱文章
   - 林忠廣
-  - 謝東霖
+  - 陳俞靜
   - 詹春英
-Blue:
+BlueBlue:
   - 陳乙瑄
   - 蔡佩芸
-  - 陳俞靜
-  - 李欣蕙
-BlueBlue:
-  - 陳彥瑋
-  - 張真黛
   - 彭姿菁
-  - 黎彥廷
+  - 李欣蕙
 Brown:
+  - Travis
+  - 張真黛
+  - 羅苡心
+  - 黎彥廷
+BrownBrown:
   - 洪欣慈
   - 張雅婷
-  - 羅苡心
-  - 劉紋君
-BrownBrown:
-  - 彭宣儒
-  - 徐?焜
   - 黃君瑋
-  - 范治偉
+  - 劉紋君
 Gray:
+  - 彭宣儒
+  - Innocent
+  - 吳仰婷
+  - 范治偉
+Green:
   - 曾姿蒨
   - 洪詠舜
-  - 吳仰婷
+  - 謝孟璇
   - 彭馨慧
-Green:
+Orange:
   - 陳雅婷
   - 涂孟玉
-  - 謝孟璇
-  - 何杰倫
-Orange:
-  - Tea
-  - 林柏如
   - 曾馨誼
-  - 謝旻諺
+  - 何杰倫
 Pink:
-  - 莊翌蝶
-  - 林依妮
+  - Tea
+  - Brenda
   - Mike
-  - 黃于真
+  - Jibson
 Purple:
-  - 葉瓊惠
-  - 徐婉綾
+  - Claire
+  - 林依妮
   - '?翔義'
-  - 蕭莉娟
+  - Sophia
 Red:
+  - Sandy
+  - 徐婉綾
+  - 徐義傑
+  - 蕭莉娟
+White:
   - 詹春華
   - 徐艷昀
-  - 徐義傑
-  - 鍾興科
-White:
-  - 鄭合真
-  - 湯明勳
-  - 楊千慧
-  - 賴淑君
+  - QianHui
+  - Adam
 WhiteWhite:
-  - 黃宇襄
-  - 陳采玲
-  - Joe
+  - 鄭合真
+  - Robert
+  - 賴淑君
+  - Ben
 Yellow:
   - 楊琬茹
-  - 涂為智
+  - Henry
   - Edison
 YellowYellow:
   - 謝佳汝
