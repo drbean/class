@@ -12,6 +12,11 @@ id: 001FLA0015
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+  - Chinese: 謝永彬
+    name: Ben
+    password: yong
+    id: V9716015
+    rating: ~
   - Chinese: 陳昱樺
     id: V9724004
     name: Nancy
@@ -174,7 +179,7 @@ member:
     rating: ~
   - Chinese: 張雅婷
     id: V9941029
-    name: YaTing
+    name: YaTing1
     password: ya
     rating: ~
   - Chinese: 洪欣慈
@@ -309,7 +314,7 @@ member:
     rating: ~
   - Chinese: 陳雅婷
     id: V9941071
-    name: YaTing
+    name: YaTing2
     password: ya
     rating: ~
   - Chinese: 楊千慧
