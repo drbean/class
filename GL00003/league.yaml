@@ -34,7 +34,7 @@ member:
     id: U9718048
     rating: ~
   - Chinese: 賴建君
-    name: JunJinn
+    name: Cathy
     password: jian
     id: U9742033
     rating: ~
@@ -173,7 +173,7 @@ out:
     name: 陳宗霖
     password: zong
     rating: ~
-room: A705
+room: 2110
 weights:
   classwork: 70
   exams: 15
