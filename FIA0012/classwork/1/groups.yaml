@@ -3,9 +3,7 @@ Black:
   - Lynn
   - Johnson
   - Kelly
-  - Jay2
 Blue:
-  - Same
   - Paul
   - Amy2
   - Emily
@@ -15,9 +13,9 @@ Brown:
   - Ting
   - Joe
 Gray:
-  - 李祐承
+  - Jack2
   - Amy1
-  - 周孝峰
+  - Sam1
   - Doris
 Green:
   - Robin
@@ -30,15 +28,15 @@ Orange:
   - Jennifer
   - Abby
 Pink:
-  - Betty
+  - Betty2
   - Diana
   - Cindy
-  - 楊毅
+  - Jerry
 Purple:
   - Andy
-  - 呂宗翰
+  - Justin
   - Daisy
-  - 尤欣洋
+  - Dalai
 Red:
   - Jay1
   - Bob
@@ -47,15 +45,19 @@ Red:
 White:
   - Tommy
   - Reese
-  - 黃馨儀
+  - Celia
   - Carol
 Yellow:
   - Bill
-  - Jack
-  - 鄭文良
-  - 蔡宜霖
+  - Jack1
+  - Orton
+  - Betty1
 YellowYellow:
   - Larry
   - Sherry
   - Annie
   - Shirley
+BlackBlack:
+  - Jay2
+  - Sam2
+  - Harry
