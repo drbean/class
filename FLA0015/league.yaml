@@ -204,7 +204,7 @@ member:
     rating: ~
   - Chinese: 陳采玲
     id: V9941036
-    name: 陳采玲
+    name: Cai-ling
     password: cai
     rating: ~
   - Chinese: 劉紋君
@@ -224,7 +224,7 @@ member:
     rating: ~
   - Chinese: 涂孟玉
     id: V9941041
-    name: 涂孟玉
+    name: Debby
     password: meng
     rating: ~
   - Chinese: 賴淑君
@@ -234,7 +234,7 @@ member:
     rating: ~
   - Chinese: 林依妮
     id: V9941044
-    name: 林依妮
+    name: Yi-ni
     password: yi
     rating: ~
   - Chinese: 黃宇襄
@@ -249,7 +249,7 @@ member:
     rating: ~
   - Chinese: 徐婉綾
     id: V9941047
-    name: Wan-Lin
+    name: Wan-Ling
     password: wan
     rating: ~
   - Chinese: 詹春英
@@ -334,7 +334,7 @@ member:
     rating: ~
   - Chinese: 謝孟璇
     id: V9941076
-    name: 謝孟璇
+    name: MengShiung
     password: meng
     rating: ~
 out:
