@@ -13,6 +13,12 @@ id: 001FIA0012
 jigsaw: exam
 league: 日財金大學二甲
 member:
+  - Chinese: 鄭惠蓮
+    name: Lilith
+    password: hui
+    id: U9816024
+    rating: ~
+  
   - Chinese: 王證傑
     name: Harry
     password: zheng
