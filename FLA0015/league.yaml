@@ -262,11 +262,6 @@ member:
     name: Chun-Hua
     password: chun
     rating: ~
-  - Chinese: 謝佳汝
-    id: V9941051
-    name: 謝佳汝
-    password: jia
-    rating: ~
   - Chinese: 張鉯芸
     id: V9941057
     name: David
@@ -338,6 +333,11 @@ member:
     password: meng
     rating: ~
 out:
+  - Chinese: 謝佳汝
+    id: V9941051
+    name: 謝佳汝
+    password: jia
+    rating: ~
 room: A706
 weights:
   classwork: 70
