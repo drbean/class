@@ -1,83 +1,51 @@
 ---
 cutpoints:
-  one: 0
-  two: 0
-exercise: roxborough
+  one: 50
+  two: 150
+exercise: clay
 grade:
-  9622212: 2
-  9622240: 2
-  N9561765: 2
-  N9561766: 2
-  N9661723: 2
-  N9661747: 2
-  T9822129: 2
-  T9822149: 2
-  U9615010: 0
-  U9622089: 2
-  U9633019: 2
-  U9633052: 2
-  U9722022: 2
-  U9818007: 1
-  U9818046: 2
-  U9821142: 2
-  U9822004: 2
-  U9822019: 2
-  U9922031: 0
+  T9833004: 0
+  T9833033: 0
+  U0031026: 0
+  U9816015: 0
+  U9822150: 0
+  U9918024: 0
+  U9934002: 1
+  U9934003: 2
+  U9934021: 1
+  U9934025: 2
+  U9942012: 0
 points:
-  9622212:
-    letters: 223
-    questions: 1
-  9622240:
-    letters: ~
-    questions: 1
-  N9561765:
-    letters: 211
-    questions: 1
-  N9561766:
-    letters: 205
+  T9833004:
+    letters: 0
     questions: 0
-  N9661723:
-    letters: 227
-    questions: 1
-  N9661747:
-    letters: 217
+  T9833033:
+    letters: 0
     questions: 0
-  T9822129:
-    letters: 221
-    questions: 1
-  T9822149:
-    letters: 217
+  U0031026:
+    letters: 0
     questions: 0
-  U9615010:
-    letters: ~
+  U9816015:
+    letters: 0
     questions: 0
-  U9622089:
-    letters: 211
-    questions: 1
-  U9633019:
-    letters: 217
-    questions: 1
-  U9633052:
-    letters: 223
+  U9822150:
+    letters: 0
     questions: 0
-  U9722022:
-    letters: 223
-    questions: 1
-  U9818007:
-    letters: 160
+  U9918024:
+    letters: 0
     questions: 0
-  U9818046:
-    letters: 224
+  U9934002:
+    letters: 126
     questions: 0
-  U9821142:
-    letters: 221
+  U9934003:
+    letters: 0
     questions: 1
-  U9822004:
-    letters: 227
+  U9934021:
+    letters: 92
+    questions: 0
+  U9934025:
+    letters: 0
     questions: 1
-  U9822019:
-    letters: 211
-    questions: 1
-  U9922031:
-    letters: ~
+  U9942012:
+    letters: 0
     questions: 0
