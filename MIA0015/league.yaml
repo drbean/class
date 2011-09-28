@@ -47,11 +47,6 @@ member:
     name: Linda1
     password: wan
     rating: ~
-  - Chinese: 陳冠霖
-    id: U9933013
-    name: Tina
-    password: guan
-    rating: ~
   - Chinese: 陳威凱
     id: U9933017
     name: Peter2
@@ -154,7 +149,7 @@ member:
     rating: ~
   - Chinese: 王映婷
     id: U9933108
-    name: 王映婷
+    name: Tina
     password: ying
     rating: ~
   - Chinese: 沈映均
@@ -189,7 +184,7 @@ member:
     rating: ~
   - Chinese: 何政冠
     id: U9933139
-    name: 何政冠
+    name: James
     password: zheng
     rating: ~
   - Chinese: 蔡淑芬
@@ -197,12 +192,17 @@ member:
     name: Sophia
     password: shu
     rating: ~
+out:
+  - Chinese: 陳冠霖
+    id: U9933013
+    name: Tina
+    password: guan
+    rating: ~
   - Chinese: 劉宇晟
     id: U9933149
     name: 劉宇晟
     password: yu
     rating: ~
-out: ~
 room: A706
 scores:
   bye: 5
