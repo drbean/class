@@ -13,9 +13,15 @@ id: 001FIA0012
 jigsaw: exam
 league: 日財金大學二甲
 member:
+  - Chinese: 王證傑
+    name: Harry
+    password: zheng
+    id: T9833026
+    rating: ~
+  
   - Chinese: 黃程浩
     id: T9833008
-    name: Same
+    name: Sam2
     password: cheng
     rating: ~
   - Chinese: 陳信丞
@@ -36,7 +42,7 @@ member:
   - Chinese: 何宜軒
     id: U9934001
     name: Amy1
-    password: xuan
+    password: yi
     rating: ~
   - Chinese: 吳佳蓉
     id: U9934002
@@ -60,7 +66,7 @@ member:
     rating: ~
   - Chinese: 黃馨儀
     id: U9934006
-    name: 黃馨儀
+    name: Celia
     password: xin
     rating: ~
   - Chinese: 黃柏蒼
@@ -85,12 +91,12 @@ member:
     rating: ~
   - Chinese: 蔡宜霖
     id: U9934012
-    name: 蔡宜霖
-    password: xuan
+    name: Betty1
+    password: yi
     rating: ~
   - Chinese: 林君諺
     id: U9934013
-    name: Jack
+    name: Jack1
     password: jun
     rating: ~
   - Chinese: 謝英蔚
@@ -100,12 +106,12 @@ member:
     rating: ~
   - Chinese: 鄭文良
     id: U9934016
-    name: 鄭文良
+    name: Orton
     password: wen
     rating: ~
   - Chinese: 周上智
     id: U9934017
-    name: Tonny
+    name: Tommy
     password: shang
     rating: ~
   - Chinese: 李嘉于
@@ -145,7 +151,7 @@ member:
     rating: ~
   - Chinese: 周孝峰
     id: U9934026
-    name: 周孝峰
+    name: Sam1
     password: xiao
     rating: ~
   - Chinese: 李孟羲
@@ -160,7 +166,7 @@ member:
     rating: ~
   - Chinese: 呂宗翰
     id: U9934029
-    name: 呂宗翰
+    name: Justin
     password: zong
     rating: ~
   - Chinese: 謝佳茹
@@ -175,7 +181,7 @@ member:
     rating: ~
   - Chinese: 楊毅
     id: U9934032
-    name: 楊毅
+    name: Jerry
     password: yi
     rating: ~
   - Chinese: 陳民憲
@@ -185,7 +191,7 @@ member:
     rating: ~
   - Chinese: 吳敏意
     id: U9934034
-    name: Betty
+    name: Betty2
     password: min
     rating: ~
   - Chinese: 余佳穎
@@ -235,7 +241,7 @@ member:
     rating: ~
   - Chinese: 李祐承
     id: U9934047
-    name: 李祐承
+    name: Jack2
     password: you
     rating: ~
   - Chinese: 梁佑銘
@@ -250,7 +256,7 @@ member:
     rating: ~
   - Chinese: 尤欣洋
     id: U9934051
-    name: 尤欣洋
+    name: Dalai
     password: xin
     rating: ~
 out: ~
