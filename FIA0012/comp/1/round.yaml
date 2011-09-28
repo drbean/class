@@ -4,10 +4,8 @@ activity:
     0:
       - 0
       - 1
-      - 2
       - 3
       - 4
-      - 5
       - 6
       - 7
       - 8
@@ -33,18 +31,18 @@ group:
   1:
     White: U9934001
     Black: U9934046
-  2:
-    White: U9934027
-    Black: U9934044
+  #2:
+  #  White: U9934027
+  #  Black: U9934044
   3:
     White: U9934011
     Black: U9934040
   4:
     White: U9934033
     Black: U9934025
-  5:
-    White: U9934034
-    Black: U9934002
+  #5:
+  #  White: U9934034
+  #  Black: U9934002
   6:
     White: U9934005
     Black: U9934010
@@ -60,9 +58,9 @@ group:
   10:
     White: U9934023
     Black: U9913132
-  11:
-    White: U9934021
-    Black: U9934037
+  #11:
+  #  White: U9934021
+  #  Black: U9934037
   12:
     White: U9934015
     Black: U9934038
@@ -71,16 +69,17 @@ group:
     Black: U9934045
   14:
     White: U9934007
-    Black: U9934003
+    # Black: U9934003
+    Black: U9934051
   15:
     White: U9934022
     Black: T9833008
-  16:
-    White: U9934004
-    Black: U9934013
-  17:
-    White: U9934048
-    Black: U9934030
+  #16:
+  #  White: U9934004
+  #  Black: U9934013
+  #17:
+  #  White: U9934048
+  #  Black: U9934030
   18:
     White: U9933147
     Black: U9934024
