@@ -12,6 +12,11 @@ id: 001FLA0015
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+  - Chinese: 劉茹芬
+    id: N9661749
+    name: Chelsea
+    password: ru
+    rating: 39
   - Chinese: 謝永彬
     name: Ben
     password: yong
