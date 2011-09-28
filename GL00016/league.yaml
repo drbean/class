@@ -13,6 +13,27 @@ id: GL00022
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
+  - Chinese: 范力方
+    name: Fanny
+    password: li
+    id: U9918047
+    rating: ~
+  - Chinese: 黃國軒
+    name: Kenni
+    password: guo
+    id: T9821018
+    rating: ~
+  - Chinese: 翁煌承
+    name: Eric
+    password: huang
+    id: U9918036
+    rating: ~
+  - Chinese: 尤欣洋
+    name: Dalai
+    password: xin
+    id: U9934051
+    rating: ~
+  
   - Chinese: 吳偉宗
     name: Daniel
     password: wei
