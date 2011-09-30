@@ -1,7 +1,7 @@
 ---
 absent: ~
 active: ~
-approach: GroupworkNoFault
+approach: Compcomp
 compcomp: comp
 examMax: 5
 exams: exam
@@ -9,7 +9,7 @@ field: 商用英文實務(一)
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: BMA0033
+id: 001BMA0031
 jigsaw: exam
 league: 日經管大學二甲
 member:
@@ -55,7 +55,7 @@ member:
     rating: ~
   - Chinese: '?崇新'
     id: U9931009
-    name: Kevin
+    name: Kevin1
     password: chong
     rating: ~
   - Chinese: 鄔揚正
@@ -223,6 +223,112 @@ member:
     name: Amy2
     password: yan
     rating: ~
+  - Chinese: 賴詩婷
+    id: U9931101
+    name: Jenny
+    password: shi
+    rating: ~
+  - Chinese: 楊孟軒
+    id: U9931102
+    name: Kevin2
+    password: ~
+    rating: ~
+  - Chinese: 范心怡
+    id: U9931103
+    name: 范心怡
+    password: ~
+    rating: ~
+  - Chinese: 孫君儀
+    id: U9931105
+    name: 孫君儀
+    password: ~
+    rating: ~
+  - Chinese: 吳佩蓉
+    id: U9931109
+    name: Cathy
+    password: ~
+    rating: ~
+  - Chinese: 蕭美玲
+    id: U9931110
+    name: Merlin
+    password: ~
+    rating: ~
+  - Chinese: 李伊純
+    id: U9931111
+    name: YiChun
+    password: ~
+    rating: ~
+  - Chinese: 葉錦霖
+    id: U9931125
+    name: Jim
+    password: ~
+    rating: ~
+  - Chinese: 陳佩璘
+    id: U9931127
+    name: Peilin
+    password: ~
+    rating: ~
+  - Chinese: 江佳蕙
+    id: U9931129
+    name: Flora
+    password: ~
+    rating: ~
+  - Chinese: 陳欣潔
+    id: U9931130
+    name: Lisa
+    password: ~
+    rating: ~
+  - Chinese: 林家瑜
+    id: U9931133
+    name: Amy3
+    password: ~
+    rating: ~
+  - Chinese: 邱雅婷
+    id: U9931134
+    name: Tina
+    password: ~
+    rating: ~
+  - Chinese: 黃敏華
+    id: U9931138
+    name: Mandy
+    password: ~
+    rating: ~
+  - Chinese: 林雅婷
+    id: U9931139
+    name: Linda
+    password: ~
+    rating: ~
+  - Chinese: 楊尚偉
+    id: U9931140
+    name: Will
+    password: ~
+    rating: ~
+  - Chinese: 康瑤琳
+    id: U9931142
+    name: Sandy
+    password: ~
+    rating: ~
+  - Chinese: 林芳儀
+    id: U9931143
+    name: Amy4
+    password: ~
+    rating: ~
+  - Chinese: 徐子茵
+    id: U9931145
+    name: Erin
+    password: ~
+    rating: ~
+  - Chinese: 許安廷
+    id: U9931146
+    name: Anting
+    password: ~
+    rating: ~
+  - Chinese: 羅子竣
+    id: U9931149
+    name: 羅子竣
+    password: ~
+    rating: ~
+out:
   - Chinese: 莊竣弘
     id: U9931045
     name: Jack
@@ -243,12 +349,6 @@ member:
     name: Allen
     password: zhe
     rating: ~
-  - Chinese: 賴詩婷
-    id: U9931101
-    name: 賴詩婷
-    password: shi
-    rating: ~
-out:
 room: A705
 scores:
   bye: 5
