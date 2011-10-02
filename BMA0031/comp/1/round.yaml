@@ -1,6 +1,6 @@
 ---
 activity:
-  stress:
+  tips:
     0:
       - 0
       - 1
@@ -23,118 +23,74 @@ activity:
       - 18
       - 19
       - 20
-  adventure:
-    0:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
-      - 19
-      - 20
-    1:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
-      - 19
-      - 20
+bye: U9931012
 group:
   0:
-    White: U9831040
-    Black: U9831024
+    White: U9931041
+    Black: U9931028
   1:
-    White: U9831021
-    Black: T9831003
+    White: U9931036
+    Black: U9931046
   2:
-    White: T9831023
-    Black: U9831012
+    White: U9931029
+    Black: U9931049
   3:
-    White: U9831138
-    Black: U9831046
+    White: U9931025
+    Black: U9931003
   4:
-    White: U9831124
-    Black: U9831044
+    White: U9931004
+    Black: U9931044
   5:
-    White: U9831016
-    Black: U9831112
+    White: U9931031
+    Black: U9931005
   6:
-    White: U9831106
-    Black: U9831116
+    White: U9931009
+    Black: U9931002
   7:
-    White: U9831109
-    Black: U9831049
+    White: U9931014
+    Black: U9931043
   8:
-    White: U9831043
-    Black: U9831002
+    White: U9931026
+    Black: U9931010
   9:
-    White: U9831007
-    Black: U9831147
+    White: U9931034
+    Black: U9931015
   10:
-    White: U9831110
-    Black: T9831015
+    White: U9931020
+    Black: U9931024
   11:
-    White: T9831018
-    Black: T9831030
+    White: U9931016
+    Black: U9931013
   12:
-    White: U9831127
-    Black: U9831143
+    White: U9931048
+    Black: U9931008
   13:
-    White: U9831132
-    Black: U9831131
+    White: U9931038
+    Black: U9931007
   14:
-    White: U9831028
-    Black: U9831128
+    White: U9931032
+    Black: U9931033
   15:
-    White: U9831005
-    Black: U9831114
+    White: U9931042
+    Black: U9931011
   16:
-    White: U9831035
-    Black: U9831135
+    White: U9931006
+    Black: U9931022
   17:
-    White: U9831006
-    Black: U9831039
+    White: U9931045
+    Black: U9931035
   18:
-    White: U9831140
-    Black: U9831144
+    White: U9931027
+    Black: U9931039
   19:
-    White: U9734040
-    Black: U9831130
+    White: U9931017
+    Black: U9931001
   20:
-    White: U9742047
-    Black: U9831108
-bye: U9831122
+    White: U9931030
+    Black: U9931037
 late:
-  - U9831122
+  - ~
+pairing: swiss
 round: 1
-text: ../../class/business/stress/cards.yaml
-week: 5
+text: ~
+week: ~
