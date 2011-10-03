@@ -13,7 +13,7 @@ DarkGreen:
   - Alice2
   - Amy2
   - Willie
-  - Kevin
+  - Kevin1
 Gray:
   - Will
   - Irene
@@ -21,7 +21,6 @@ Gray:
   - Cindy
 LightBlue:
   - Amy1
-  - Allen
   - Linda
   - Amy3
 LightGreen:
@@ -41,7 +40,7 @@ Pink:
   - Kimberly
 Purple:
   - Kelly
-  - Sandy
+  - Sandy2
   - Peilin
   - Alice1
 Red:
@@ -59,3 +58,5 @@ Yellow:
   - Angel
   - Tina
   - YiChun
+BlackBlack:
+  - Sandy1
