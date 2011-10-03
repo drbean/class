@@ -1,30 +1,71 @@
 ---
 activity:
-  biomom:
+  goetz:
     0:
       - 0
       - 1
       - 2
       - 3
       - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
 group:
   0:
-    White: U9823011
-    Black: T9831040
+    White: V9741057
+    Black: V9741009
   1:
-    White: U9916029
-    Black: U9715014
+    White: U9631020
+    Black: T9833016
   2:
-    White: U9831049
-    Black: V9741065
+    White: V9741010
+    Black: V9741038
   3:
-    White: U9922235
-    Black: U9931143
+    White: V9741030
+    Black: U9742033
   4:
-    White: U9723056
-    Black: T9811035
+    White: T9833027
+    Black: U9711120
+  5:
+    White: V9741059
+    Black: T9833025
+  6:
+    White: U0021016
+    Black: U9713020
+  7:
+    White: U9718012
+    Black: U9711132
+  8:
+    White: V9741029
+    Black: U9814127
+  9:
+    White: U9922318
+    Black: U9922232
+  10:
+    White: V9741060
+    Black: U9713044
+  11:
+    White: U9718048
+    Black: U9711105
+  12:
+    White: U9918043
+    Black: U9915004
+  13:
+    White: U9711115
+    Black: U9814126
+  14:
+    White: U9731046
+    Black: U9823006
 late:
   - ~
+pairing: swiss
 round: 2
-text: ../../class/conversation/parents/cards.yaml
-week: 6
+text: ~
+week: ~
