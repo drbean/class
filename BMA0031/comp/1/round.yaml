@@ -23,74 +23,80 @@ activity:
       - 18
       - 19
       - 20
-bye: U9931012
+      - 21
 group:
   0:
-    White: U9931041
-    Black: U9931028
+    White: U9931145
+    Black: U9931138
   1:
-    White: U9931036
-    Black: U9931046
+    White: U9931103
+    Black: U9931140
   2:
-    White: U9931029
-    Black: U9931049
+    White: U9931101
+    Black: U9931146
   3:
-    White: U9931025
-    Black: U9931003
+    White: U9931006
+    Black: U9931025
   4:
     White: U9931004
-    Black: U9931044
+    Black: U9931149
   5:
-    White: U9931031
-    Black: U9931005
+    White: U9931125
+    Black: U9931102
   6:
-    White: U9931009
-    Black: U9931002
+    White: U9931044
+    Black: U9931142
   7:
-    White: U9931014
-    Black: U9931043
+    White: U9931037
+    Black: U9931022
   8:
-    White: U9931026
-    Black: U9931010
+    White: U9931002
+    Black: U9931109
   9:
-    White: U9931034
+    White: U9931041
     Black: U9931015
   10:
-    White: U9931020
-    Black: U9931024
-  11:
-    White: U9931016
+    White: U9931012
     Black: U9931013
+  11:
+    White: U9931105
+    Black: U9931026
   12:
-    White: U9931048
-    Black: U9931008
+    White: U9931134
+    Black: U9931143
   13:
-    White: U9931038
+    White: U9931039
     Black: U9931007
   14:
-    White: U9931032
-    Black: U9931033
-  15:
-    White: U9931042
-    Black: U9931011
-  16:
-    White: U9931006
-    Black: U9931022
-  17:
-    White: U9931045
-    Black: U9931035
-  18:
-    White: U9931027
-    Black: U9931039
-  19:
     White: U9931017
+    Black: U9931042
+  15:
+    White: U9931029
+    Black: U9931139
+  16:
+    White: U9931127
     Black: U9931001
+  17:
+    White: U9931003
+    Black: U9931034
+  18:
+    White: U9931129
+    Black: U9931133
+  19:
+    White: U9931014
+    Black: U9931130
   20:
-    White: U9931030
-    Black: U9931037
+    White: U9931043
+    Black: U9931032
+  21:
+    White: U9931111
+    Black: U9931110
+  
+bye: U9931028
 late:
-  - ~
-pairing: swiss
+  - U9931145
+  - U9931138
+pairing: hand (cross room)
 round: 1
-text: ~
-week: ~
+text: /home/drbean/class/business/careers/cards.yaml
+week: 4
