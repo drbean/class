@@ -4,6 +4,10 @@ cutpoints:
   two: 150
 exercise: clay
 grade:
+  T9833027: 0
+  U9814126: 0
+  U9814127: 0
+
   T9833016: 0
   T9833025: 2
   U0021016: 2
@@ -33,6 +37,15 @@ grade:
   V9741059: 0
   V9741060: 2
 points:
+  T9833027:
+    letters: ~
+    questions: ~
+  U9814126:
+    letters: ~
+    questions: ~
+  U9814127:
+    letters: ~
+    questions: ~
   T9833016:
     letters: 0
     questions: 0
