@@ -13,6 +13,26 @@ id: 001GL00003
 jigsaw: exam
 league: 日語文共同學制虛擬班二甲
 member:
+  - Chinese: 鄭聖玄
+    name: Sam
+    password: sheng
+    id: U9723020
+    rating: ~
+  - Chinese: 林子軒
+    name: Hudi
+    password: zi
+    id: U9922203
+    rating: ~
+  - Chinese: 黃詩喬
+    name: Joyce
+    password: shi
+    id: U9814127
+    rating: ~
+  - Chinese: 許展禎
+    name: Jane
+    password: zhan
+    id: U9814126
+    rating: ~
   - Chinese: 翁愷駿
     id: T9833027
     name: Chung
