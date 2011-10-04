@@ -3,10 +3,7 @@ activity:
   goetz:
     0:
       - 0
-      - 1
       - 2
-      - 3
-      - 4
       - 5
       - 6
       - 7
@@ -14,25 +11,13 @@ activity:
       - 9
       - 10
       - 11
-      - 12
-      - 13
-      - 14
 group:
   0:
     White: V9741057
-    Black: V9741009
-  1:
-    White: U9631020
     Black: T9833016
   2:
     White: V9741010
     Black: V9741038
-  3:
-    White: V9741030
-    Black: U9742033
-  4:
-    White: T9833027
-    Black: U9711120
   5:
     White: V9741059
     Black: T9833025
@@ -40,11 +25,11 @@ group:
     White: U0021016
     Black: U9713020
   7:
-    White: U9718012
-    Black: U9711132
+    White: U9915004
+    Black: U9718012
   8:
     White: V9741029
-    Black: U9814127
+    Black: V9741030
   9:
     White: U9922318
     Black: U9922232
@@ -52,20 +37,9 @@ group:
     White: V9741060
     Black: U9713044
   11:
-    White: U9718048
-    Black: U9711105
-  12:
-    White: U9918043
-    Black: U9915004
-  13:
-    White: U9711115
-    Black: U9814126
-  14:
-    White: U9731046
-    Black: U9823006
-late:
-  - ~
-pairing: swiss
+    White: U9723020
+    Black: U9922203
+pairing: swiss (adjusted)
 round: 2
-text: ~
-week: ~
+text: /home/drbean/class/conversation/marriage/cards.yaml
+week: 4
