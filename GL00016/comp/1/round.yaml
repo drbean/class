@@ -1,96 +1,26 @@
 ---
 activity:
-  eckert:
-    1:
+  goetz:
+    0:
       - 0
       - 1
       - 2
       - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-    2:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-    3:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
 group:
   0:
-    White: U9843023
-    Black: U9811127
+    White: U9934025
+    Black: U9934002
   1:
-    White: T9813009
-    Black: U9843004
+    White: U9934021
+    Black: U9934051
   2:
-    White: T9821036
-    Black: T9831047
+    White: T9821018
+    Black: U9934003
   3:
-    White: U9692038
-    Black: U9811144
-  4:
-    White: 9616201
-    Black: U9718016
-  5:
-    White: U9692049
-    Black: U9718033
-  6:
-    White: T9821043
-    Black: U9811010
-  7:
-    White: U9811142
-    Black: T9813014
-  8:
-    White: U9718042
-    Black: T9811101
-  9:
-    White: U9621094
-    Black: U9718036
-  10:
-    White: T9821033
-    Black: U9718022
-  11:
-    White: U9811149
-    Black: T9813004
-  12:
-    White: T9821014
-    Black: T9813010
-  13:
-    White: U9822002
-    Black: T9813003
+    White: T9821003
+    Black: T9821024
 late:
-  - U9822002
+  - ~
 round: 1
-text: ../../class/conversation/9-11/cards.yaml
-week: 5
+text: ../../class/conversation/marriage/cards.yaml
+week: 4
