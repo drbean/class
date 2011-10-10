@@ -1,6 +1,6 @@
 ---
 activity:
-  goetz:
+  ClayAllenGoetz:
     0:
       - 0
       - 1
@@ -47,9 +47,10 @@ group:
   10:
     White: U9711105
     Black: U9723020
+bye: U0013147
 late:
-  - ~
+  - U0013147
 pairing: swiss
 round: 3
-text: ~
-week: ~
+text: /home/drbean/class/conversation/marriage/cards.yaml
+week: 5
