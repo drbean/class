@@ -1,63 +1,147 @@
 ---
 cutpoints:
-  one: 50
-  two: 150
-exercise: eckert
+  one: 20
+  two: 85
+exercise: allen
 grade:
-  T9811035: 0
-  T9831040: 1
-  U9623038: 2
-  U9711025: 2
-  U9711052: 2
-  U9715014: 0
-  U9723056: 0
-  U9813024: 2
-  U9823011: 0
-  U9831049: 2
-  U9916029: 1
-  U9922235: 1
-  U9931143: 2
-  V9741065: 2
+  T9833016: 1
+  T9833025: 2
+  U0021016: 2
+  U9631020: 2
+  U9711105: 2
+  U9711115: 2
+  U9711120: 2
+  U9711132: 2
+  U9713020: 2
+  U9713044: 2
+  U9718012: 2
+  U9718048: 0
+  U9731046: 0
+  U9742033: 0
+  U9823006: 0
+  U9915004: 2
+  U9918043: 0
+  U9922232: 1
+  U9922318: 2
+  V9731059: 2
+  V9741009: 0
+  V9741010: 1
+  V9741029: 0
+  V9741030: 0
+  V9741038: 1
+  V9741057: 1
+  V9741059: 1
+  V9741060: 2
 points:
-  T9811035:
+  T9833016:
+    letters: 114
+    percent: 52
+    questions: ~
+  T9833025:
+    letters: 221
+    percent: 100
+    questions: ~
+  U0021016:
+    letters: 221
+    percent: 100
+    questions: ~
+  U9631020:
+    letters: 217
+    percent: 100
+    questions: ~
+  U9711105:
+    letters: 217
+    percent: 100
+    questions: ~
+  U9711115:
+    letters: 221
+    percent: 100
+    questions: ~
+  U9711120:
+    letters: 221
+    percent: 100
+    questions: ~
+  U9711132:
+    letters: 221
+    percent: 100
+    questions: ~
+  U9713020:
+    letters: 217
+    percent: 100
+    questions: ~
+  U9713044:
+    letters: 221
+    percent: 100
+    questions: ~
+  U9718012:
+    letters: 215
+    percent: 97
+    questions: ~
+  U9718048:
     letters: 0
-    questions: 0
-  T9831040:
-    letters: 111
-    questions: 0
-  U9623038:
-    letters: 167
-    questions: 0
-  U9711025:
-    letters: 167
-    questions: 0
-  U9711052:
-    letters: 160
-    questions: 0
-  U9715014:
+    percent: 0
+    questions: ~
+  U9731046:
     letters: 0
-    questions: 0
-  U9723056:
+    percent: 0
+    questions: ~
+  U9742033:
     letters: 0
-    questions: 0
-  U9813024:
-    letters: 160
-    questions: 0
-  U9823011:
+    percent: 0
+    questions: ~
+  U9823006:
     letters: 0
-    questions: 0
-  U9831049:
-    letters: 179
-    questions: 0
-  U9916029:
-    letters: 131
-    questions: 0
-  U9922235:
-    letters: 84
-    questions: 0
-  U9931143:
-    letters: 179
-    questions: 0
-  V9741065:
-    letters: 381
-    questions: 0
+    percent: 0
+    questions: ~
+  U9915004:
+    letters: 217
+    percent: 100
+    questions: ~
+  U9918043:
+    letters: 0
+    percent: 0
+    questions: ~
+  U9922232:
+    letters: 126
+    percent: 57
+    questions: ~
+  U9922318:
+    letters: 221
+    percent: 100
+    questions: ~
+  V9731059:
+    letters: 221
+    percent: 100
+    questions: ~
+  V9741009:
+    letters: 0
+    percent: 0
+    questions: ~
+  V9741010:
+    letters: 165
+    percent: 75
+    questions: ~
+  V9741029:
+    letters: 20
+    percent: 9
+    questions: ~
+  V9741030:
+    letters: 21
+    percent: 10
+    questions: ~
+  V9741038:
+    letters: 83
+    percent: 38
+    questions: ~
+  V9741057:
+    letters: 171
+    percent: 79
+    questions: ~
+  V9741059:
+    letters: 135
+    percent: 62
+    questions: ~
+  V9741060:
+    letters: 221
+    percent: 100
+    questions: ~
