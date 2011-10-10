@@ -1,83 +1,147 @@
 ---
 cutpoints:
-  one: 50
-  two: 190
-exercise: obit
+  one: 20
+  two: 85
+exercise: goetz
 grade:
-  9611203: 0
-  M9923001: 0
-  M9923005: 0
-  T9811035: 0
-  T9831040: 2
-  U9623038: 2
-  U9711025: 2
-  U9711052: 2
-  U9715014: 2
-  U9723056: 0
-  U9813024: 2
-  U9823011: 1
-  U9831049: 2
-  U9916027: 0
-  U9916029: 2
-  U9922235: 2
-  U9931143: 2
-  U9942017: 2
-  V9741065: 2
+  T9833016: 2
+  T9833025: 2
+  U0021016: 2
+  U9631020: 2
+  U9711105: 2
+  U9711115: 0
+  U9711120: 2
+  U9711132: 2
+  U9713020: 2
+  U9713044: 2
+  U9718012: 2
+  U9718048: 0
+  U9731046: 0
+  U9742033: 0
+  U9823006: 0
+  U9915004: 2
+  U9918043: 0
+  U9922232: 1
+  U9922318: 2
+  V9731059: 2
+  V9741009: 1
+  V9741010: 2
+  V9741029: 1
+  V9741030: 2
+  V9741038: 2
+  V9741057: 2
+  V9741059: 2
+  V9741060: 2
 points:
-  9611203:
+  T9833016:
+    letters: 248
+    percent: 93
+    questions: 0
+  T9833025:
+    letters: 266
+    percent: 100
+    questions: 0
+  U0021016:
+    letters: 274
+    percent: 100
+    questions: 0
+  U9631020:
+    letters: 225
+    percent: 100
+    questions: 0
+  U9711105:
+    letters: 222
+    percent: 99
+    questions: 0
+  U9711115:
+    letters: 3
+    percent: 1
+    questions: 0
+  U9711120:
+    letters: 275
+    percent: 100
+    questions: 0
+  U9711132:
+    letters: 275
+    percent: 100
+    questions: 0
+  U9713020:
+    letters: 268
+    percent: 100
+    questions: 0
+  U9713044:
+    letters: 266
+    percent: 100
+    questions: 0
+  U9718012:
+    letters: 259
+    percent: 97
+    questions: 0
+  U9718048:
     letters: 0
+    percent: 0
     questions: 0
-  M9923001:
+  U9731046:
     letters: 0
+    percent: 0
     questions: 0
-  M9923005:
+  U9742033:
     letters: 0
+    percent: 0
     questions: 0
-  T9811035:
+  U9823006:
     letters: 0
+    percent: 0
     questions: 0
-  T9831040:
-    letters: 211
+  U9915004:
+    letters: 225
+    percent: 100
     questions: 0
-  U9623038:
+  U9918043:
     letters: 0
-    questions: 1
-  U9711025:
-    letters: 210
+    percent: 0
     questions: 0
-  U9711052:
-    letters: 164
-    questions: 1
-  U9715014:
-    letters: 193
-    questions: 0
-  U9723056:
-    letters: 0
-    questions: 0
-  U9813024:
-    letters: 239
-    questions: 0
-  U9823011:
-    letters: 65
-    questions: 0
-  U9831049:
-    letters: 0
-    questions: 1
-  U9916027:
-    letters: 0
-    questions: 0
-  U9916029:
+  U9922232:
     letters: 218
-    questions: 1
-  U9922235:
-    letters: 0
-    questions: 1
-  U9931143:
-    letters: 0
-    questions: 1
-  U9942017:
-    letters: 190
+    percent: 79
     questions: 0
-  V9741065:
-    letters: 0
-    questions: 3
+  U9922318:
+    letters: 266
+    percent: 100
+    questions: 0
+  V9731059:
+    letters: 275
+    percent: 100
+    questions: 0
+  V9741009:
+    letters: 195
+    percent: 73
+    questions: 0
+  V9741010:
+    letters: 252
+    percent: 95
+    questions: 0
+  V9741029:
+    letters: 200
+    percent: 73
+    questions: 0
+  V9741030:
+    letters: 275
+    percent: 100
+    questions: 0
+  V9741038:
+    letters: 245
+    percent: 92
+    questions: 0
+  V9741057:
+    letters: 266
+    percent: 99
+    questions: 0
+  V9741059:
+    letters: 235
+    percent: 88
+    questions: 0
+  V9741060:
+    letters: 275
+    percent: 100
+    questions: 0
