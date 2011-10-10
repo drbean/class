@@ -13,6 +13,12 @@ id: 001GL00003
 jigsaw: exam
 league: 日語文共同學制虛擬班二甲
 member:
+  - Chinese: 林崇仁
+    name: Vic
+    password: chong
+    id: U0013147
+    rating: ~
+  
   - Chinese: 謝孟倫
     id: V9741009
     name: Alan
@@ -157,17 +163,17 @@ member:
     name: Nick
     password: ting
     rating: ~
+  - Chinese: 鄭聖玄
+    name: Sam
+    password: sheng
+    id: U9723020
+    rating: ~
 out:
   - Chinese: 翁愷駿
     id: T9833027
     name: Chung
     password: kai
     rating: 72
-  - Chinese: 鄭聖玄
-    name: Sam
-    password: sheng
-    id: U9723020
-    rating: ~
   - Chinese: 許展禎
     name: Jane
     password: zhan
