@@ -2,96 +2,73 @@
 round: Exam 1
 week: 5
 questions:
-  - 4
+  - 5
 pass: 2
 assistant:
-  - Hanna
-  - YuJie
+  - Cathy
+  - Ruby
 absent:
-    - Jeter
-text: /home/drbean/class/business/stress/cards.yaml
+  - Alice
+  - Sam
+text: /home/drbean/class/business/careers/cards.yaml
 activity:
-  adventure:
-    4:
-      - BlackBlack
+  tips:
+    3:
+      - Brown
       - Gray
+    4:
       - Orange
-      - Yellow
+      - Red
     5:
       - Black
-      - Green
-      - Pink
+      - Purple
     6:
       - Blue
-      - Purple
-      - Red
-    7:
-      - Brown
+      - Pink
       - White
-      - WhiteWhite
 group:
   Black:
-    - Sam
-    - JiaXiang
-    - GuanYin
-    - Nate
-  BlackBlack:
-    - MingHan
-    - XiaoXian
-    - Ya-syuan
-    - Victor
+    - Ivy
+    - Ruby
+    - Evangeline
+    - Linda2
   Blue:
-    - Ching
-    - XiaoQi
-    - Ying-Hsuan
-    - XiaoRou
+    - Leo
+    - Soymilk
+    - Sean
+    - Claire
   Brown:
-    - Ray
-    - Chase
-    - Raffaele
-    - Han-Yu
+    - Cathy
+    - Tina
+    - Sally
+    - Fred
   Gray:
-    - Wade
-    - Flora
-    - Zong-Hua
-    - YuXin
-  Green:
-    - Friday
-    - Yu-Ying
-    - Peter
-    - HuiLin
+    - Tony
+    - Peter2
+    - James
+    - Linda1
   Orange:
-    - WenXiao
-    - Yi-ting
-    - XiaoWei
-    - Entian
+    - Cathy
+    - Mila
+    - Wendy
+    - Dora
   Pink:
-    - David
-    - Si-Yu
-    - MeiQing
-    - Tim
+    - Peter1
+    - Alex
+    - Kevin
+    - Jordan
   Purple:
-    - Jane
-    - Hanna
-    - Bernie
-    - YuJie
+    - Gene
+    - Tom
+    - Anny
+    - Sandy
   Red:
-    - ChuJun
-    - Yan
-    - YuXun
-    - ChenHan
+    - Cranium
+    - Shane
+    - Albert
+    - Candy
   White:
-    - Chung
-    - YaYun
-    - Kou-wei
-    - LiLing
-  WhiteWhite:
-    - HanPing
-    - Jie-Yu
-    - YaTing
-    - Shuai
-  Yellow:
-    - PingJie
-    - Hanna
-    - Alexis
-    - YuJie
+    - Kenny
+    - Ruby
+    - Jane
+    - Sophia
