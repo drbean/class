@@ -1,80 +1,87 @@
 ---
 Chinese:
+  Black: 0
   BlackBlack: 0
   Blue: 0
-  BlueBlue: 0
   Brown: 0
-  Gray: 0
+  Green: 0
   Orange: 0
   Pink: 0
   Purple: 0
   Red: 0
-  WhiteWhite: 0
+  White: 0
   Yellow: 0
+  YellowYellow: 0
 letters:
+  Black:
+    U9934023: 2
+    U9934033: 4
+    U9934028: 3
+    U9816024: 5
+    story: tips4
   BlackBlack:
-    U9834001: 3
-    U9834002: 4
-    U9834009: 4
-    U9834004: 4
-    story: adventure7
+    T9833026: 2
+    T9833024: 2
+    T9833008: 3
+    U9934015: 2
+    story: tips5
   Blue:
-    U9834019: 4
-    U9834011: 0
-    U9834020: 4
-    U9834012: 4
-    story: adventure7
-  BlueBlue:
-    U9834005: 2
-    U9834006: 2
-    U9834007: 2
-    U9834033: 2
-    story: adventure6
+    U9934050: 4
+    U9934015: 5
+    U9934044: 4
+    U9934003: 4
+    story: tips4
   Brown:
-    U9834021: 1
-    U9834013: 1
-    U9834046: 1
-    U9834014: 1
-    story: adventure4
-  Gray:
-    U9834036: 4
-    U9834015: 4
-    U9834024: 4
-    U9834016: 4
-    story: adventure5
+    U9934002: 3
+    U9934005: 2
+    U9933147: 4
+    U9934027: 0
+    story: tips4
+  Green:
+    U9934007: 4
+    U9934040: 2
+    U9934019: 2
+    U9934001: 2
+    story: tips3
   Orange:
-    U9834037: 2
-    U9834027: 2
-    U9834038: 2
-    U9834028: 2
-    story: adventure4
+    U9934031: 1
+    U9934022: 1
+    U9934036: 0
+    U9934009: 2
+    story: tips3
   Pink:
-    U9834039: 4
-    U9834029: 0
-    U9834040: 3
-    U9634018: 1
-    story: adventure6
+    U9934034: 5
+    U9934038: 5
+    U9913132: 2
+    U9934032: 0
+    story: tips6
   Purple:
-    U9834041: 4
-    U9834031: 4
-    U9834042: 4
-    U9834032: 4
-    story: adventure5
+    U9934011: 3
+    U9934029: 5
+    U9934021: 0
+    U9934051: 2
+    story: tips6
   Red:
-    U9834025: 2
-    U9834033: 2
-    U9834026: 2
-    U9834034: 1
-    story: adventure4
-  WhiteWhite:
-    U9834047: 4
-    U9834010: 4
-    U9834049: 4
-    U9834050: 4
-    story: adventure5
+    U9934024: 4
+    U9934039: 5
+    U9934037: 0
+    U9934050: 4
+    story: tips3
+  White:
+    U9934017: 5
+    U9934045: 5
+    U9934006: 5
+    U9934043: 5
+    story: tips5
   Yellow:
-    U9834051: 2
-    U9834052: 1
-    U9834057: 2
-    U9833004: 2
-    story: adventure6
+    U9934010: 4
+    U9934013: 3
+    U9934016: 2
+    U9934012: 3
+    story: tips5
+  YellowYellow:
+    U9934020: 0
+    U9934004: 4
+    U9934025: 2
+    U9934030: 4
+    story: tips6
