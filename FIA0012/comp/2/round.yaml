@@ -1,8 +1,7 @@
 ---
 activity:
-  sale:
-    fruit:
-      - 0
+  'candidate':
+    0:
       - 1
       - 2
       - 3
@@ -14,73 +13,87 @@ activity:
       - 9
       - 10
       - 11
-      - 12
       - 13
       - 14
       - 15
       - 16
       - 17
       - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
 group:
-  0:
-    White: U9834036
-    Black: U9834027
   1:
-    White: U9834007
-    Black: U9834024
+    White: U9934009
+    Black: U9934005
   2:
-    White: U9834049
-    Black: U9834051
+    White: U9934038
+    Black: U9934023
   3:
-    White: U9834028
-    Black: U9834034
+    White: U9934024
+    Black: U9934034
   4:
-    White: U9634018
-    Black: U9834038
+    White: U9934040
+    Black: T9833026
   5:
-    White: U9834047
-    Black: U9834039
+    White: U9934019
+    Black: U9934001
   6:
-    White: U9834029
-    Black: U9834031
+    White: U9934012
+    Black: U9934025
   7:
-    White: U9834041
-    Black: U9834025
+    White: U9934051
+    Black: U9934039
   8:
-    White: U9834006
-    Black: U9834050
+    White: U9934043
+    Black: U9934016
   9:
-    White: U9834040
-    Black: U9834010
+    White: U9934044
+    Black: U9934031
   10:
-    White: U9834015
-    Black: U9834021
+    White: U9934013
+    Black: U9934050
   11:
-    White: U9834014
-    Black: U9834020
-  12:
-    White: U9834037
-    Black: U9834012
+    White: U9934002
+    Black: T9833024
   13:
-    White: U9834042
-    Black: U9834046
+    White: U9934037
+    Black: U9934033
   14:
-    White: U9834033
-    Black: U9834032
+    White: U9934028
+    Black: U9934021
   15:
-    White: U9834016
-    Black: U9834004
+    White: U9934020
+    Black: T9833008
   16:
-    White: U9834052
-    Black: U9834009
+    White: U9934045
+    Black: U9934022
   17:
-    White: U9834001
-    Black: U9833004
+    White: U9934030
+    Black: U9934007
   18:
-    White: U9834017
-    Black: U9834057
-late:
-  - ~
+    White: U9934048
+    Black: U9816024
+  19:
+    White: U9934017
+    Black: U9934027
+  20:
+    White: U9913132
+    Black: U9934004
+  21:
+    White: U9934015
+    Black: U9934011
+  22:
+    White: U9934010
+    Black: U9933147
+  23:
+    White: U9934006
+    Black: U9934036
+bye: U9934003
+late: []
+pairing: swiss (changed)
 round: 2
-text: ../../class/business/marketing/cards.yaml
-week: 6
+text: /home/drbean/class/business/careers/candidate/cards.yaml
+week: 4
