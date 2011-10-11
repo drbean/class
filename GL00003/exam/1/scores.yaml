@@ -1,31 +1,45 @@
 ---
 Chinese:
   Black: 0
-  Gray: 0
+  Blue: 0
+  Green: 0
+  Orange: 0
   Pink: 0
-  White: 0
+  Purple: 0
 letters:
   Black:
-    U9931143: 4
-    U9831049: 4
-    U9711052: 4
-    U9711025: 4
-    story: eckert0
-  Gray:
-    U9823011: 4
-    U9715014: 4
-    T9831040: 2
-    U9623038: 4
-    story: eckert31
+    T9833016: 7
+    U9711132: 8
+    U9711120: 8
+    U9922232: 8
+    story: clay3
+  Blue:
+    V9741060: 8
+    V9741010: 8
+    V9741029: 8
+    U9723020: 8
+    story: allen1
+  Green:
+    U9915004: 4
+    U9922318: 6
+    U0013147: 3
+    U9631020: 6
+    story: goetz2
+  Orange:
+    U9713044: 10
+    V9741057: 10
+    V9741010: 10
+    U0021016: 10
+    story: allen1
   Pink:
-    U9711052: 4
-    U9813024: 4
-    V9741065: 4
-    U9922235: 4
-    story: eckert1
-  White:
-    U9916029: 4
-    U9623038: 4
-    U9922235: 4
-    U9723056: 4
-    story: eckert1
+    V9741038: 5
+    U9713020: 9
+    T9833025: 9
+    U9711105: 9
+    story: allen1
+  Purple:
+    V9741059: 9
+    U9718012: 9
+    V9741030: 9
+    V9741009: 5
+    story: goetz2
