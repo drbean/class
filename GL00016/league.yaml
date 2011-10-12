@@ -13,15 +13,16 @@ id: GL00022
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
-  - Chinese: 王柏鈞
-    name: Billy
-    password: bo
-    id: T9821003
-    rating: ~
-  - Chinese: 李泓明
-    name: Ming
-    password: hong
-    id: T9821024
+  - Chinese: 張杏君
+    id: V9731059
+    name: Vivi
+    password: xing
+    rating: 73
+
+  - Chinese: 林潔鞍
+    name: Roy
+    password: jie
+    id: U9922143
     rating: ~
   
   - Chinese: 黃國軒
@@ -35,16 +36,6 @@ member:
     id: U9934051
     rating: ~
   
-  - Chinese: 吳偉宗
-    name: Daniel
-    password: wei
-    id: U9822150
-    rating: ~
-  - Chinese: 葉文慈
-    name: Sylvia
-    password: wen
-    id: U0031026
-    rating: ~
   
   - Chinese: 張思羽
     id: T9833004
@@ -55,16 +46,6 @@ member:
     id: T9833033
     name: Vicky
     password: yi
-    rating: ~
-  - Chinese: 蔡依紜
-    id: U9816015
-    name: Karen
-    password: yi
-    rating: ~
-  - Chinese: 謝捷茹
-    id: U9918024
-    name: Peggy
-    password: jie
     rating: ~
   - Chinese: 吳佳蓉
     id: U9934002
@@ -86,12 +67,43 @@ member:
     name: Annie
     password: si
     rating: ~
+out:
+  - Chinese: 王柏鈞
+    name: Billy
+    password: bo
+    id: T9821003
+    rating: ~
+  - Chinese: 李泓明
+    name: Ming
+    password: hong
+    id: T9821024
+    rating: ~
+  
+  - Chinese: 吳偉宗
+    name: Daniel
+    password: wei
+    id: U9822150
+    rating: ~
+  - Chinese: 葉文慈
+    name: Sylvia
+    password: wen
+    id: U0031026
+    rating: ~
+  - Chinese: 謝捷茹
+    id: U9918024
+    name: Peggy
+    password: jie
+    rating: ~
+  - Chinese: 蔡依紜
+    id: U9816015
+    name: Karen
+    password: yi
+    rating: ~
   - Chinese: 李?鑾
     id: U9942012
     name: Helen
     password: ?
     rating: ~
-out:
   - Chinese: 翁煌承
     name: Eric
     password: huang
@@ -113,7 +125,7 @@ out:
     id: U9922129
     rating: ~
   
-room: A705
+room: 2110
 weights:
   classwork: 70
   exams: 15
