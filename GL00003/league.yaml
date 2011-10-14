@@ -13,6 +13,11 @@ id: 001GL00003
 jigsaw: exam
 league: 日語文共同學制虛擬班二甲
 member:
+  - Chinese: 林子軒
+    name: Hudi
+    password: zi
+    id: U9922203
+    rating: ~
   - Chinese: 林崇仁
     name: Vic
     password: chong
@@ -178,11 +183,6 @@ out:
     name: Jane
     password: zhan
     id: U9814126
-    rating: ~
-  - Chinese: 林子軒
-    name: Hudi
-    password: zi
-    id: U9922203
     rating: ~
   - Chinese: 黃詩喬
     name: Joyce
