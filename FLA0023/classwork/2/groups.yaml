@@ -1,66 +1,68 @@
 ---
 Black:
-  - Anny
-  - Winny
-  - Joan
-  - Rose
-BlackBlack:
   - Ivan
-  - Yorick
   - Anne
-  - Luke
-Blue:
-  - Sherry
-  - Jeffrey
-  - Kitty
-  - Leo
-Brown:
-  - Jerry
+  - Frances
+  - Ming
+BlackBlack:
+  - Kori
   - Shaq
+  - Kitty
+  - Hannah
+Blue:
+  - Jeffrey
+  - Larry
+  - Jessica1
   - Yu-Lun
-  - Yu-Ching
+BlueBlue:
+  - Bass
+  - Yi-Ru
+  - Frank
+  - Alex
+Brown:
+  - Hank
+  - Sue
+  - Louise
+  - Rachel
 Gray:
-  - Michelle
-  - Lisa
-  - Patty
+  - Carina
+  - Yorick
+  - Ricky
   - Debbie
 Green:
-  - Bella
-  - Kori
-  - Sue
-  - Laura
+  - Alan
+  - Lisa
+  - Katty
+  - Kenny
 Orange:
-  - Cathy2
-  - Abby
-  - Yi-Ru
-  - Joy
-Pink:
-  - Joanna
-  - Cathy
-  - Carina
-  - Hannah
-Purple:
-  - Dan
   - Stanley
+  - Joan
+  - Cathy
+  - Jessica2
+Pink:
   - Fifi
-  - Hank
+  - Winny
+  - Joy
+  - Nancy
+Purple:
+  - Carol
+  - Luke
+  - Laura
+  - Dennis
 Red:
-  - Eva
+  - Wei-Yi
+  - Patty
+  - Jacinta
+  - Yu-Ching
+White:
+  - Sana
+  - Julia
+  - Julie
+WhiteWhite:
+  - Ingar
+  - Abby
+  - Leo
+Yellow:
   - Amber
   - Winne
-  - Jessica
-White:
-  - Dennis
-  - Katty
-  - Ming
-  - Rachel
-WhiteWhite:
-  - Tea
-  - Ricky
-  - Julie
-  - Wei-Yi
-Yellow:
-  - Sana
-  - Lace
-  - Bass
-  - Frances
+  - Rose
