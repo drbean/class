@@ -13,6 +13,12 @@ id: GL00022
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
+  - Chinese: 何立維
+    name: Eric
+    password: li
+    id: U9916027
+    rating: ~
+  
   - Chinese: 張杏君
     id: V9731059
     name: Vivi
