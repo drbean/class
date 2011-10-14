@@ -2,106 +2,114 @@
 round: Exam 1
 week: 5
 questions:
-  - 4
-pass: 2
+  - 10
+pass: 6
 assistant:
-  - Luke
-  - Bass
-  - Kori
-  - Joy
-  - Yorick
+  - Fifi
+  - Yu-Ching
+  - Frances
+  - Patty
 absent:
-  - Miranda
-  - Mike
-  - Annie
+  - Dan
   - Lace
-text: /home/drbean/class/conversation/9-11/cards.yaml
+  - Kori
+  - Ryan
+text: /home/drbean/class/conversation/marriage/cards.yaml
 activity:
-  eckert:
-    1:
-      - BlueBlue
-      - Brown
-      - Green
-      - Orange
-      - Pink
-      - Purple
-      - White
-    31:
+  clay:
+    3:
+      - Abby
       - Black
+      - Gray
+      - Purple
+      - WhiteWhite
+  allen:
+    1:
       - BlackBlack
       - Blue
-      - Gray
-      - Red
-      - WhiteWhite
+      - Green
+      - Pink
+      - White
+  goetz:
+    2:
+      - BlueBlue
+      - Brown
+      - Orange
       - Yellow
+      - YellowYellow
 group:
   Black:
-    - Michelle
-    - Winny
-    - Anne
-    - Luke
+    - Fifi
+    - Yi-Ru
+    - Alan
+    - Rose
   BlackBlack:
-    - Bass
-    - Yorick
-    - Kitty
-    - Leo
+    - Kenny
+    - Winny
+    - Fifi
+    - Frances
   Blue:
-    - Ivan
-    - Jeffrey
-    - Yu-Lun
     - Yu-Ching
-  BlueBlue:
-    - Joan
-    - Jerry
-    - Cathy2
     - Luke
-  Brown:
-    - Joanna
+    - Yu-Lun
+    - Alex
+  BlueBlue:
+    - Frances
+    - Joan
     - Shaq
-    - Patty
-    - Debbie
+    - Julie
+  Brown:
+    - Louise
+    - Carina
+    - Kitty
+    - Yu-Ching
   Gray:
+    - Larry
+    - Ming
     - Joy
     - Lisa
-    - Sue
-    - Laura
   Green:
-    - Dan
-    - Kori
-    - Yi-Ru
-    - Joy
-  Orange:
-    - Eva
-    - Abby
-    - Carina
+    - Jessica2
+    - Nancy
+    - Leo
     - Hannah
-  Pink:
-    - Dennis
-    - Cathy
-    - Fifi
-    - Hank
-  Purple:
-    - Rachel
-    - Stanley
-    - Winne
-    - Jessica
-  Red:
-    - Sana
-    - Amber
-    - Ming
-    - Tea
-  White:
-    - Kori
+  Orange:
+    - Julia
     - Katty
-    - Julie
-    - Wei-Yi
-  WhiteWhite:
-    - Yorick
+    - Dennis
+    - Winne
+  Pink:
+    - Patty
+    - Anne
     - Ricky
-    - Bass
-    - Frances
+    - Jessica1
+  Purple:
+    - Patty
+    - Alan
+    - Jacinta
+    - Frank
+  White:
+    - Laura
+    - Jeffrey
+    - Sue
+    - Rachel
+  WhiteWhite:
+    - Amber
+    - Cathy
+    - Ivan
+    - Debbie
   Yellow:
-    - Rose
-    - Bella
-    - Anny
-    - Sherry
+    - Stanley
+    - Yorick
+    - Hank
+    - Carol
+  YellowYellow:
+    - Ingar
+    - Bass
+    - Sana
+    - Wei-Yi
+  Abby:
+    - Ming
+    - Abby
+    - Luke
+    - Frank
