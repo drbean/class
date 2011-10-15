@@ -1,24 +1,24 @@
 ---
 Black:
-  - LiJuan
+  - Debby
   - Chelsea
   - XiangYi
   - Jielun
 BlackBlack:
+  - Zhong-guang
   - Zi-Qian
   - Sophia1
   - Mary
-  - Jill
 Blue:
-  - Joanna
+  - Ben
   - Sophia2
   - Julia
   - Tzu-Ching
 BlueBlue:
-  - Ben
-  - Albert
-  - Zhong-guang
-  - Debby
+  - Joanna
+  - Nancy
+  - Jill
+  - LiJuan
 Brown:
   - Leon
   - Cai-ling
@@ -65,11 +65,11 @@ WhiteWhite:
   - Wan-Ru
   - Chun-Hua
 Yellow:
-  - Yong-Shun
   - Brenda
   - Henry
   - Redd
+  - Albert
 YellowYellow:
-  - Nancy
+  - Yong-Shun
   - Yan-Yun
   - David
