@@ -1,6 +1,6 @@
 ---
 absent: ~
-approach: GroupworkNoFault
+approach: Compcomp
 compcomp: comp
 examMax: 4
 exams: exam
@@ -79,18 +79,13 @@ member:
     rating: ~
   - Chinese: 黎彥廷
     id: V9916050
-    name: 黎彥廷
+    name: Yan-Ting
     password: yan
     rating: ~
   - Chinese: 吳仰婷
     id: V9941001
     name: Yang-ting
     password: yang
-    rating: ~
-  - Chinese: 彭宣儒
-    id: V9941002
-    name: 彭宣儒
-    password: xuan
     rating: ~
   - Chinese: 謝旻諺
     id: V9941003
@@ -142,20 +137,10 @@ member:
     name: Jielun
     password: jie
     rating: ~
-  - Chinese: 徐義傑
-    id: V9941018
-    name: 徐義傑
-    password: yi
-    rating: ~
   - Chinese: 林忠廣
     id: V9941020
     name: Zhong-guang
     password: zhong
-    rating: ~
-  - Chinese: 彭馨慧
-    id: V9941021
-    name: 彭馨慧
-    password: xin
     rating: ~
   - Chinese: 陳俞靜
     id: V9941022
@@ -267,11 +252,6 @@ member:
     name: David
     password: yi
     rating: ~
-  - Chinese: 李欣蕙
-    id: V9941058
-    name: 李欣蕙
-    password: xin
-    rating: ~
   - Chinese: 黃于真
     id: V9941059
     name: Sophia1
@@ -286,11 +266,6 @@ member:
     id: V9941062
     name: Zhi-Wei
     password: zhi
-    rating: ~
-  - Chinese: 黃君瑋
-    id: V9941063
-    name: 黃君瑋
-    password: jun
     rating: ~
   - Chinese: 鄭合真
     id: V9941064
@@ -333,6 +308,31 @@ member:
     password: meng
     rating: ~
 out:
+  - Chinese: 黃君瑋
+    id: V9941063
+    name: 黃君瑋
+    password: jun
+    rating: ~
+  - Chinese: 李欣蕙
+    id: V9941058
+    name: 李欣蕙
+    password: xin
+    rating: ~
+  - Chinese: 彭馨慧
+    id: V9941021
+    name: 彭馨慧
+    password: xin
+    rating: ~
+  - Chinese: 徐義傑
+    id: V9941018
+    name: 徐義傑
+    password: yi
+    rating: ~
+  - Chinese: 彭宣儒
+    id: V9941002
+    name: 彭宣儒
+    password: xuan
+    rating: ~
   - Chinese: 謝佳汝
     id: V9941051
     name: 謝佳汝
