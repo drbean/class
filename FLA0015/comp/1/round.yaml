@@ -21,14 +21,12 @@ activity:
       - 16
       - 17
       - 18
-      - 19
-      - 20
       - 21
       - 22
       - 23
-      - 24
       - 25
-bye: V9941033
+      - 26
+      - 27
 group:
   0:
     White: V9941073
@@ -46,7 +44,7 @@ group:
     White: V9941025
     Black: V9941011
   5:
-    White: V9941064
+    White: V9916050
     Black: V9841025
   6:
     White: V9941043
@@ -59,7 +57,7 @@ group:
     Black: V9941050
   9:
     White: V9941049
-    Black: V9841063
+    Black: V9941071
   10:
     White: V9941014
     Black: V9941040
@@ -70,8 +68,8 @@ group:
     White: V9941023
     Black: V9941015
   13:
-    White: V9941031
-    Black: V9941022
+    White: V9941068
+    Black: V9941031
   14:
     White: V9941047
     Black: V9941005
@@ -87,12 +85,6 @@ group:
   18:
     White: V9941029
     Black: V9941045
-  19:
-    White: V9841042
-    Black: V9941071
-  20:
-    White: V9941068
-    Black: V9941060
   21:
     White: V9941046
     Black: V9941001
@@ -102,15 +94,16 @@ group:
   23:
     White: V9841016
     Black: V9941026
-  24:
-    White: V9941062
-    Black: V9941039
   25:
-    White: V9724004
-    Black: V9941020
-late:
-  - ~
-pairing: swiss
+    White: N9661749
+    Black: V9724004
+  26:
+    White: V9941033
+    Black: V9941076
+  27:
+    White: V9941036
+    Black: V9941044
+pairing: swiss (adjusted)
 round: 1
-text: ~
-week: ~
+text: /home/drbean/class/conversation/marriage/cards.yaml
+week: 4
