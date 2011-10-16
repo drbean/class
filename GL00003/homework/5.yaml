@@ -1,83 +1,127 @@
 ---
 cutpoints:
-  one: 50
-  two: 200
-exercise: conspiracy
+  one: 20
+  two: 85
+exercise: rueda
 grade:
-  9611203: 0
-  M9923001: 0
-  M9923005: 0
-  T9811035: 0
-  T9831040: 2
-  U9623038: 2
-  U9711025: 2
-  U9711052: 2
-  U9715014: 0
-  U9723056: 0
-  U9813024: 0
-  U9823011: 1
-  U9831049: 2
-  U9916027: 0
-  U9916029: 2
-  U9922235: 2
-  U9931143: 2
-  U9942017: 0
-  V9741065: 2
+  T9833016: 2
+  T9833025: 2
+  U0013147: 0
+  U0021016: 2
+  U9631020: 2
+  U9711105: 2
+  U9711120: 2
+  U9711132: 2
+  U9713020: 2
+  U9713044: 2
+  U9718012: 1
+  U9723020: 0
+  U9915004: 2
+  U9922203: 2
+  U9922232: 2
+  U9922318: 2
+  V9741009: 1
+  V9741010: 1
+  V9741029: 2
+  V9741030: 2
+  V9741038: 1
+  V9741057: 2
+  V9741059: 0
+  V9741060: 2
 points:
-  9611203:
+  T9833016:
+    letters: 228
+    percent: 91
+    questions: ~
+  T9833025:
+    letters: 251
+    percent: 100
+    questions: ~
+  U0013147:
     letters: 0
-    questions: 0
-  M9923001:
-    letters: 0
-    questions: 0
-  M9923005:
-    letters: 0
-    questions: 0
-  T9811035:
-    letters: 0
-    questions: 0
-  T9831040:
-    letters: 230
-    questions: 0
-  U9623038:
+    percent: 0
+    questions: ~
+  U0021016:
     letters: 243
-    questions: 0
-  U9711025:
+    percent: 100
+    questions: ~
+  U9631020:
+    letters: 223
+    percent: 100
+    questions: ~
+  U9711105:
+    letters: 211
+    percent: 95
+    questions: ~
+  U9711120:
+    letters: 238
+    percent: 98
+    questions: ~
+  U9711132:
     letters: 243
-    questions: 0
-  U9711052:
+    percent: 100
+    questions: ~
+  U9713020:
     letters: 248
-    questions: 1
-  U9715014:
+    percent: 100
+    questions: ~
+  U9713044:
+    letters: 251
+    percent: 100
+    questions: ~
+  U9718012:
+    letters: 202
+    percent: 80
+    questions: ~
+  U9723020:
     letters: 0
-    questions: 0
-  U9723056:
+    percent: 0
+    questions: ~
+  U9915004:
+    letters: 223
+    percent: 100
+    questions: ~
+  U9922203:
+    letters: 251
+    percent: 100
+    questions: ~
+  U9922232:
+    letters: 243
+    percent: 100
+    questions: ~
+  U9922318:
+    letters: 251
+    percent: 100
+    questions: ~
+  V9741009:
+    letters: 162
+    percent: 65
+    questions: ~
+  V9741010:
+    letters: 182
+    percent: 73
+    questions: ~
+  V9741029:
+    letters: 243
+    percent: 100
+    questions: ~
+  V9741030:
+    letters: 243
+    percent: 100
+    questions: ~
+  V9741038:
+    letters: 201
+    percent: 80
+    questions: ~
+  V9741057:
+    letters: 236
+    percent: 95
+    questions: ~
+  V9741059:
     letters: 0
-    questions: 0
-  U9813024:
-    letters: 0
-    questions: 0
-  U9823011:
-    letters: 96
-    questions: 0
-  U9831049:
-    letters: 0
-    questions: 1
-  U9916027:
-    letters: 0
-    questions: 0
-  U9916029:
-    letters: 0
-    questions: 1
-  U9922235:
-    letters: 248
-    questions: 0
-  U9931143:
-    letters: 230
-    questions: 0
-  U9942017:
-    letters: 0
-    questions: 0
-  V9741065:
-    letters: 176
-    questions: 2
+    percent: 0
+    questions: ~
+  V9741060:
+    letters: 243
+    percent: 100
+    questions: ~
