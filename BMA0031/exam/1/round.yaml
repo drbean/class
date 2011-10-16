@@ -2,86 +2,81 @@
 round: Exam 1
 week: 5
 questions:
-  - 4
+  - 5
 pass: 2
-assistant:
-  - Grace
-absent:
-  - T-Play
-  - Wei-Cei
-  - Elaine
-  - Jerry1
-text: /home/drbean/class/business/stress/cards.yaml
+assistant: ~
+absent: []
+text: /home/drbean/class/business/careers/cards.yaml
 activity:
-  adventure:
-    4:
-      - Orange
+  tips:
+    3:
       - Purple
       - White
-    5:
-      - Brown
+      - YellowYellow
+    4:
+      - Gray
       - Green
-      - Pink
-    6:
+      - Red
+    5:
       - Black
       - Blue
-      - Gray
-    7:
-      - Red
+      - Orange
+    6:
+      - Pink
       - Yellow
 group:
   Black:
-    - Zih-sheng
-    - Yi-Tang
-    - Pei-ci
-    - Jenay
-  White:
-    - Kuan-Li
-    - ChiaoLing
-    - Jenny
-    - Judy
+    - Erin
+    - Mandy
+    - Nina
+    - Lisa
   Blue:
-    - Alice
-    - Tiffany
-    - Michelle
-    - Amy
-  Brown:
-    - Nick
-    - Jheng-Syun
-    - Gwan-Chi
-    - WanHan
-  Gray:
-    - Stanley
-    - Sofie
-    - Jerry2
-    - Patrick
-  Green:
-    - Wei-jhih
+    - Anting
+    - Len
     - Helen
-    - Tina
-    - Chiahao
-  Orange:
-    - Reicho
-    - Zack
-    - Bu-Dien
-    - Aaron
-  Pink:
-    - May
-    - Li
-    - Wan-ling
-    - Grace
-  Purple:
-    - Grace
-    - Wayne
-    - Dian
-    - Sandy
-  Red:
-    - Yi-xun
-    - Wang
-    - Sharon
+    - Rita
+  Gray:
+    - Will
+    - Irene
     - Laura
+    - Cindy
+  Green:
+    - Amy1
+    - Linda
+    - Amy3
+    - Amy2
+  Orange:
+    - Kevin2
+    - Cathy
+    - Amy4
+    - Merlin
+  Pink:
+    - Robert
+    - Zara
+    - Jane
+    - Angeline
+  Purple:
+    - Willie
+    - Jojo
+    - Janet
+    - Kimberly
+  Red:
+    - Kelly
+    - Sandy2
+    - Peilin
+    - Alice1
+  White:
+    - Nora
+    - Jason
+    - Sandy1
+    - Kathy
   Yellow:
-    - Candy
-    - Dennis
-    - Jessie
-    - Betty
+    - Sheryl
+    - Lulu
+    - Karen
+    - Flora
+  YellowYellow:
+    - Jim
+    - Angel
+    - Tina
+    - YiChun
