@@ -1,65 +1,27 @@
 ---
 activity:
-  biodad:
+  rueda:
     0:
       - 0
       - 1
       - 2
       - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
 group:
   0:
-    White: 9616201
-    Black: T9821043
+    White: U9934051
+    Black: U9934003
   1:
-    White: T9813014
-    Black: U9718033
+    White: U9934025
+    Black: T9821018
   2:
-    White: U9843023
-    Black: T9821014
+    White: U9922143
+    Black: U9934021
   3:
-    White: T9813004
-    Black: T9821036
-  4:
-    White: U9718036
-    Black: T9811101
-  5:
-    White: T9813003
-    Black: U9718042
-  6:
-    White: U9718022
-    Black: U9811149
-  7:
-    White: U9718016
-    Black: U9811127
-  8:
-    White: U9811144
-    Black: T9813009
-  9:
-    White: U9621094
-    Black: U9811142
-  10:
-    White: T9811142
-    Black: U9822002
-  11:
-    White: T9811111
-    Black: U9743024
-  12:
-    White: T9831047
-    Black: U9742052
-#forfeit:
-#  - U9718022
-#  - U9811149
-late:
-  - ~
+    White: U9934002
+    Black: V9731059
+bye: U9916027
+late: []
+pairing: swiss
 round: 3
-text: ../../class/conversation/parents/cards.yaml
-week: 7
+text: /home/drbean/class/conversation/poverty/cards.yaml
+week: 6
