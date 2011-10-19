@@ -1,22 +1,30 @@
 ---
 Black:
   absent: 
-  merits: 2
+    - Kumiko
+  merits: 3
 Blue:
   absent: 
-  merits: 3
+  merits: 2
 Brown:
   absent: 
-  merits: 3
+  merits: 2
+Gray:
+  absent: 
+  merits: 2
 Green:
+  absent: 
+  merits: 2
+Orange:
   absent: 
   merits: 2
 Pink:
   absent: 
-  merits: 2
-Purple:
-  absent: 
   merits: 3
+Purple:
+  absent:
+    - Emily2
+  merits: 2
 Red:
   absent: 
   merits: 2
