@@ -18,21 +18,6 @@ member:
     name: Kenny
     password: guo
     rating: ~
-  - Chinese: 黃宇襄
-    name: Jill
-    password: yu
-    id: V9941045
-    rating: ~
-  - Chinese: 莊翌蝶
-    name: Claire
-    password: yi
-    id: V9941040
-    rating: ~
-  - Chinese: 徐碩謙
-    name: Cindy
-    password: shi
-    id: V0000002
-    rating: ~
   - Chinese: 謝永彬
     name: Ben
     password: yong
@@ -46,32 +31,17 @@ member:
     password: qiong
     id: V9841025
     rating: ~
-  - Chinese: 林柏如
-    name: Brenda
-    password: bo
-    id: V9941075
-    rating: ~
   - Chinese: 邱珞媺
     id: V9841068
     name: Louise
     password: luo
     rating: ~
-  - Chinese: 陳昱樺
-    id: V9724004
-    name: Nancy
-    password: yu
-    rating: 65
   - Chinese: 陳彥瑋
     name: Travis
     password: yan
     id: V9841001
     rating: ~
   
-  - Chinese: 李昭毅
-    id: N9661713
-    name: Joey
-    password: zhao
-    rating: 75
   - Chinese: 吳佳樺
     id: N9661752
     name: Michelle
@@ -97,11 +67,6 @@ member:
     name: Cathy
     password: yu
     rating: 78
-  - Chinese: 劉洛綺
-    id: V9741023
-    name: Elly
-    password: luo
-    rating: 83
   - Chinese: 林庭如
     id: V9741024
     name: Emily
@@ -122,16 +87,6 @@ member:
     name: Eva
     password: fu
     rating: 81
-  - Chinese: 蔡淑女
-    id: V9741047
-    name: Ivy
-    password: shu
-    rating: 81
-  - Chinese: 彭若芸
-    id: V9741048
-    name: Aska
-    password: ruo
-    rating: 89
   - Chinese: 張雨涵
     id: V9741055
     name: Abby
@@ -152,16 +107,6 @@ member:
     name: Frances
     password: man
     rating: 84
-  - Chinese: 謝旻諺
-    id: V9941003
-    name: Jibson
-    password: min
-    rating: ~
-  - Chinese: 徐?焜
-    id: V9941005
-    name: Innocent
-    password: ?
-    rating: ~
   - Chinese: 湯明勳
     id: V9941010
     name: Robert
@@ -182,11 +127,6 @@ member:
     name: Henry
     password: wei
     rating: ~
-  - Chinese: 黃于真
-    id: V9941059
-    name: Sophia
-    password: yu
-    rating: ~
   - Chinese: 吳李龍
     id: V9941060
     name: Leon
@@ -196,6 +136,67 @@ member:
     id: V9941073
     name: QianHui
     password: qian
+    rating: ~
+out:
+  - Chinese: 黃于真
+    id: V9941059
+    name: Sophia
+    password: yu
+    rating: ~
+  - Chinese: 徐?焜
+    id: V9941005
+    name: Innocent
+    password: ?
+    rating: ~
+  - Chinese: 謝旻諺
+    id: V9941003
+    name: Jibson
+    password: min
+    rating: ~
+  - Chinese: 彭若芸
+    id: V9741048
+    name: Aska
+    password: ruo
+    rating: 89
+  - Chinese: 蔡淑女
+    id: V9741047
+    name: Ivy
+    password: shu
+    rating: 81
+  - Chinese: 劉洛綺
+    id: V9741023
+    name: Elly
+    password: luo
+    rating: 83
+  - Chinese: 李昭毅
+    id: N9661713
+    name: Joey
+    password: zhao
+    rating: 75
+  - Chinese: 陳昱樺
+    id: V9724004
+    name: Nancy
+    password: yu
+    rating: 65
+  - Chinese: 林柏如
+    name: Brenda
+    password: bo
+    id: V9941075
+    rating: ~
+  - Chinese: 徐碩謙
+    name: Cindy
+    password: shi
+    id: V0000002
+    rating: ~
+  - Chinese: 莊翌蝶
+    name: Claire
+    password: yi
+    id: V9941040
+    rating: ~
+  - Chinese: 黃宇襄
+    name: Jill
+    password: yu
+    id: V9941045
     rating: ~
 room: A706
 weights:
