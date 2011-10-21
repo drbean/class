@@ -13,6 +13,11 @@ id: FLA0023
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+  - Chinese: 張馨方
+    id: V9841071
+    name: XinFang
+    password: xin
+    rating: ~
   
   - Chinese: 陳詩梵 
     name: Jacinta
@@ -310,11 +315,6 @@ out:
     id: V9841070
     name: 劉國薇
     password: guo
-    rating: ~
-  - Chinese: 張馨方
-    id: V9841071
-    name: XinFang
-    password: xin
     rating: ~
 room: A706
 scores:
