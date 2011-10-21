@@ -1,6 +1,6 @@
 ---
 activity:
-  undertaker:
+  rueda:
     0:
       - 0
       - 1
@@ -26,88 +26,84 @@ activity:
       - 21
       - 22
       - 23
-      - 24
+bye: N9561766
 group:
   0:
-    White: V9841036
-    Black: V9841024
-  1:
-    White: V9841040
-    Black: V9841058
-  2:
-    White: V9841005
-    Black: V9741018
-  3:
-    White: U9693041
-    Black: V9841050
-  4:
-    White: V9841026
-    Black: V9841051
-  5:
-    White: V9841062
-    Black: N9661752
-  6:
-    White: V9841038
-    Black: V9741065
-  7:
-    White: V9841027
-    Black: U9693040
-  8:
-    White: V9841064
-    Black: V9841034
-  9:
-    White: V9841059
-    Black: V9841014
-  10:
-    White: V9841020
-    Black: V9841054
-  11:
-    White: V9841008
-    Black: U9693046
-  12:
-    White: V9841007
-    Black: V9841015
-  13:
-    White: V9841009
-    Black: V9841049
-  14:
-    White: V9841029
-    Black: V9841030
-  15:
     White: V9841041
+    Black: V9841038
+  1:
+    White: V9724004
     Black: V9841011
+  2:
+    White: V9841050
+    Black: V9841051
+  3:
+    White: U9843014
+    Black: V9841040
+  4:
+    White: V9841013
+    Black: V9841024
+  5:
+    White: V9741044
+    Black: V9841026
+  6:
+    White: N9661754
+    Black: V9841007
+  7:
+    White: V9841064
+    Black: V9841059
+  8:
+    White: V9841058
+    Black: V9841014
+  9:
+    White: V9841015
+    Black: V9841048
+  10:
+    White: V9841036
+    Black: V9841049
+  11:
+    White: V9841028
+    Black: T9823041
+  12:
+    White: V9841027
+    Black: V9741065
+  13:
+    White: V9841005
+    Black: V9841037
+  14:
+    White: V9841039
+    Black: V9841068
+  15:
+    White: V9841054
+    Black: V9741028
   16:
-    White: V9841037
-    Black: V9841067
+    White: V9841030
+    Black: V9841020
   17:
-    White: V9841033
-    Black: V9841010
+    White: V9841010
+    Black: V9741009
   18:
-    White: V9841053
-    Black: V9841013
+    White: V9841009
+    Black: V9841029
   19:
-    White: V9841022
-    Black: V9841017
+    White: V9841002
+    Black: V9841053
   20:
     White: V9841031
-    Black: V9841048
+    Black: V9841017
   21:
-    White: V9841006
-    Black: V9841039
+    White: V9841062
+    Black: N9561735
   22:
-    White: V9841004
-    Black: V9841063
-#  23:
-#    White: V9841016
-#    Black: V9841047
-#  24:
-#    White: V9741002
-#    Black: V9841046
-bye: V9841016
+    White: V9841033
+    Black: V9841008
+  23:
+     White: V9841071
+     Black: V9741036
 late:
-forfeit:
-    - V9841033
-    - V9841010
+  - V9741036
+  - N9561766
+pairing: swiss adjusted
 round: 5
-text: ../../class/conversation/dying/cards.yaml
-week: 10
+text: /home/drbean/class/conversation/poverty/cards.yaml
+week: 6
