@@ -1,45 +1,43 @@
 ---
 Black:
   absent: 
-  merits: 1
-BlackBlack:
-  absent: 
-  merits: 2
+  merits      : 3
 Blue:
   absent: 
-  merits: 2
-BlueBlue:
-  absent: 
-  merits: 3
+    - Emily
+  merits      : 2
 Brown:
   absent: 
-  merits: 3
+    - Eva
+    - Elly
+  merits      : 3
 Gray:
   absent: 
-  merits: 1
-Green:
-  absent: 
-  merits: 2
+    - Innocent
+  merits      : 2
 Orange:
   absent: 
-  merits: 3
+    - Sophia
+    - Jibson
+    - Ivy
+  merits      : 3
 Pink:
   absent: 
-  merits: 4
+    - Joey
+  merits      : 3
 Purple:
   absent: 
-  merits: 5
+    - Aska
+  merits      : 1
 Red:
   absent: 
-  merits: 1
+    - Brenda
+    - Nancy
+    - Louise
+    - Jill
+  merits      : 0
 White:
-  absent: 
-  merits: 2
-Yellow:
-  absent: 
-  # merits: 7
-  merits: 5
-WhiteWhite:
-  absent: 
-  merits: 2
-
+  absent:
+    - Claire
+    - Cindy
+  merits      : 1
