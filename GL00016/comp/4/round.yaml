@@ -1,61 +1,27 @@
 ---
 activity:
-  emersonj:
+  salazar:
     0:
       - 0
       - 1
       - 2
       - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
 group:
   0:
-    White: U9718033
-    Black: T9821043
+    White: U9916027
+    Black: T9833004
   1:
-    White: T9813014
-    Black: 9616201
+    White: T9833033
+    Black: V9731059
   2:
-    White: U9718036
-    Black: T9821014
+    White: U9934003
+    Black: U9934002
   3:
-    White: T9813004
-    Black: U9843023
-  4:
-    White: U9718042
-    Black: U9811144
-  5:
-    White: T9821036
-    Black: T9813009
-  6:
-    White: T9811101
-    Black: U9811149
-  7:
-    White: T9813003
-    Black: U9811142
-  8:
-    White: U9718016
-    Black: U9822002
-  9:
-    White: U9843004
-    Black: T9821033
-  10:
-    White: U9742052
-    Black: T9811142
-  11:
-    White: T9831047
-    Black: U9621094
-  12:
-    White: T9811111
-    Black: U9811010
-late:
-  - U9811010
+    White: U9934021
+    Black: U9934025
+late: []
+bye: U9822150
+pairing: swiss adjusted
 round: 4
-text: ../../class/conversation/parents/cards.yaml
-week: 8
+text: /home/drbean/class/conversation/poverty/cards.yaml
+week: 7
