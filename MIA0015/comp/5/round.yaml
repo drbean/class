@@ -13,7 +13,6 @@ activity:
       - 8
       - 9
       - 10
-      - 11
       - 12
       - 13
       - 14
@@ -53,9 +52,6 @@ group:
   10:
     White: U9933030
     Black: U9933031
-  11:
-    White: U9933006
-    Black: U9933033
   12:
     White: U9933027
     Black: U9933039
@@ -71,9 +67,9 @@ group:
   16:
     White: U9933112
     Black: U9933043
+bye: U9933006
 late:
-  - ~
 pairing: swiss
 round: 5
-text: ~
-week: ~
+text: /home/drbean/class/business/online/cards.yaml
+week: 7
