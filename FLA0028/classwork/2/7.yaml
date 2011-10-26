@@ -7,10 +7,10 @@ Blue:
   merits: 3
 Brown:
   absent: 
-  merits: ~
+  merits: 2
 Gray:
   absent: 
-  merits: ~
+  merits: 3
 Green:
   absent: 
     - Cathy
@@ -24,10 +24,10 @@ Pink:
   merits: 3
 Purple:
   absent:
-  merits: ~
+  merits: 3
 Red:
   absent: 
-  merits: ~
+  merits: 2
 White:
   absent: 
   merits: 2
