@@ -1,0 +1,33 @@
+---
+Black:
+  absent: 
+  merits: 2
+Blue:
+  absent: 
+  merits: 3
+Brown:
+  absent: 
+  merits: ~
+Gray:
+  absent: 
+  merits: ~
+Green:
+  absent: 
+    - Cathy
+  merits: 3
+Orange:
+  absent: 
+  merits: 2
+Pink:
+  absent: 
+    - Jacinta
+  merits: 3
+Purple:
+  absent:
+  merits: ~
+Red:
+  absent: 
+  merits: ~
+White:
+  absent: 
+  merits: 2
