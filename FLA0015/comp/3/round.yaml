@@ -1,70 +1,96 @@
 ---
-round: 3
-week: 3
-absent:
-text: 
 activity:
-  yes-no:
-    1:
-      -
-         White: N9661760
-         Black: V9841041
-      -
-         White: V9841040
-         Black: V9841051
-      -
-         White: T9813047
-         Black: V9841062
-      -
-         White: V9841031
-         Black: V9741065
-      -
-         White: V9841015
-         Black: V9841050
-      -
-         White: V9841008
-         Black: V9841010
-      -
-         White: V9841002
-         Black: V9841004
-      -
-         White: V9841030
-         Black: V9999113
-      -
-         White: V9841067
-         Black: V9841034
-      -
-         White: V9741002
-         Black: V9841021
-      -
-         White: V9841026
-         Black: V9841036
-      -
-         White: V9841059
-         Black: V9841005
-      -
-         White: V9841049
-         Black: V9841058
-      -
-         White: V9841033
-         Black: V9841064
-      -
-         White: V9841011
-         Black: V9841014
-      -
-         White: V9841013
-         Black: V9841046
-      -
-         White: V9841022
-         Black: V9841006
-      -
-         White: V9841054
-         Black: V9841038
-      -
-         White: V9841020
-         Black: V9841007
-      -
-         White: V9841039
-         Black: V9841053
-bye: V9841047
-      
+  vanbeke:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+bye: V9841063
+group:
+  1:
+    White: V9941022
+    Black: V9941005
+  2:
+    White: V9941060
+    Black: V9841025
+  3:
+    White: V9941014
+    Black: V9941003
+  4:
+    White: V9941036
+    Black: V9841001
+  5:
+    White: V9941013
+    Black: V9941045
+  6:
+    White: V9941067
+    Black: V9941039
+  7:
+    White: V9941010
+    Black: V9724004
+  8:
+    White: V9841042
+    Black: V9741066
+  9:
+    White: 9622299
+    Black: V9941001
+  10:
+    White: V9941071
+    Black: V9741030
+  11:
+    White: V9941027
+    Black: N9661760
+  12:
+    White: V9941043
+    Black: V9941033
+  13:
+    White: V9941025
+    Black: V9941026
+  14:
+    White: V9941046
+    Black: V9941068
+  15:
+    White: V9941015
+    Black: V9941012
+  16:
+    White: V9941049
+    Black: V9941059
+  17:
+    White: V9941011
+    Black: V9941073
+  18:
+    White: V9941050
+    Black: V9941007
+  19:
+    White: V9941047
+    Black: V9941076
+  20:
+    White: V9941037
+    Black: V9941032
+  21:
+    White: V9941057
+    Black: V9941016
+late:
+  - ~
+pairing: swiss
+round: 3
+text: ~
+week: ~
