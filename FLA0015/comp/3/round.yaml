@@ -12,7 +12,6 @@ activity:
       - 8
       - 9
       - 10
-      - 11
       - 12
       - 13
       - 14
@@ -23,7 +22,7 @@ activity:
       - 19
       - 20
       - 21
-bye: V9841063
+bye: N9661754
 group:
   1:
     White: V9941022
@@ -47,7 +46,7 @@ group:
     White: V9941010
     Black: V9724004
   8:
-    White: V9841042
+    White: V9841063
     Black: V9741066
   9:
     White: 9622299
@@ -55,9 +54,6 @@ group:
   10:
     White: V9941071
     Black: V9741030
-  11:
-    White: V9941027
-    Black: N9661760
   12:
     White: V9941043
     Black: V9941033
@@ -88,9 +84,12 @@ group:
   21:
     White: V9941057
     Black: V9941016
+absent:
+    - V9941027
+    - N9661760
 late:
-  - ~
+  - N9661754
 pairing: swiss
 round: 3
-text: ~
-week: ~
+text: /home/drbean/class/conversation/poverty/cards.yaml
+week: 8
