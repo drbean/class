@@ -339,6 +339,13 @@ out:
     password: jia
     rating: ~
 room: A706
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
 weights:
   classwork: 70
   exams: 15
