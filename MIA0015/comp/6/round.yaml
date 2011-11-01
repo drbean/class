@@ -1,6 +1,6 @@
 ---
 activity:
-  olivier:
+  vacations:
     0:
       - 0
       - 1
@@ -20,92 +20,63 @@ activity:
       - 15
       - 16
       - 17
-      - 18
-      - 19
-      - 20
-      - 21
-      - 22
 group:
   0:
-    White: U9833034
-    Black: U9833020
+    White: U9933043
+    Black: U9933033
   1:
-    White: T9833035
-    Black: T9833004
+    White: U9933010
+    Black: U9933038
   2:
-    White: U9833023
-    Black: U9833044
+    White: U9933126
+    Black: U9933112
   3:
-    White: U9833022
-    Black: U9833048
+    White: U9933037
+    Black: U9933108
   4:
-    White: T9833030
-    Black: U9833003
+    White: U9933030
+    Black: U9933027
   5:
-    White: U9833025
-    Black: T9833039
+    White: U9933039
+    Black: U9933044
   6:
-    White: T9833045
-    Black: T9833037
+    White: U9933011
+    Black: U9933045
   7:
-    White: U9833015
-    Black: U9833038
+    White: U9933107
+    Black: U9933024
   8:
-    White: T9833009
-    Black: T9833050
+    White: U9933001
+    Black: U9933006
   9:
-    White: U9833001
-    Black: U9833041
+    White: U9933023
+    Black: U9933109
   10:
-    White: U9833040
-    Black: T9833028
+    White: U9933031
+    Black: U9933017
   11:
-    White: U9833043
-    Black: U9833050
+    White: U9933143
+    Black: U9933020
   12:
-    White: U9831107
-    Black: T9833006
+    White: U9933008
+    Black: U9933005
   13:
-    White: U9833011
-    Black: T9833043
+    White: U9933139
+    Black: U9933003
   14:
-    White: U9833026
-    Black: T9833027
+    White: U9933138
+    Black: U9933116
   15:
-    White: U9833007
-    Black: T9833046
+    White: U9933041
+    Black: U9933026
   16:
-    White: U9833045
-    Black: U9833039
+    White: U9933136
+    Black: U9933025
   17:
-    White: U9833014
-    Black: U9833024
-  18:
-    White: T9833025
-    Black: U9833005
-  19:
-    White: U9833047
-    Black: U9833052
-  20:
-    White: T9833032
-    Black: U9833019
-  21:
-    White: U9833049
-    Black: T9733022
-  22:
-    White: U9733013
-    Black: T9833013
-  23:
-     White: U9833002
-     Black: U9833009
-  24:
-     White: U9833030
-     Black: U9833035
-  
+    White: U9933029
+    Black: U9933022
 late:
-  - U9833009
-  - U9833035
-  - U9833030
+pairing: swiss
 round: 6
-text: ../../class/business/conflict/cards.yaml
-week: 10
+text: /home/drbean/class/business/negotiations/WebVac/cards.yaml
+week: 8
