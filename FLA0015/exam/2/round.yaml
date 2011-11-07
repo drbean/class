@@ -3,105 +3,111 @@ round: Exam 2
 week: 9
 questions:
   - 10
-pass: 6
+pass: 4
 assistant:
-  - Leo
-  - Anne
-  - Joanna
-  - Kori
+  - Nancy
+  - Donna
+  - Travis
+  - Tzu-Ching
 absent:
-  - Wei
-  - Chun-Fu
-text: /home/drbean/class/conversation/BreakstoneDesantisSchifrin/cards.yaml
+  - Mita
+  - Ben
+  - Zhong-guang
+  - Yan-Ting
+  - YaTing1
+  - Mike
+  - Brenda
+  - Albert
+text: /home/drbean/class/conversation/poverty/cards.yaml
 activity:
-  breakstone:
-    1:
-      - Black
-      - Gray
-      - Orange
-      - White
-      - WhiteWhite
-  desantis:
-    1:
+  rueda:
+    0:
       - Blue
+      - BlueBlue
+      - Gray
       - Pink
       - Purple
-      - Red
-      - Yellow
-  schifrin:
-    1:
-      - BlackBlack
-      - BlueBlue
+  salazar:
+    0:
       - Brown
       - Green
+      - Orange
+      - Red
+      - YellowYellow
+  vanbeke:
+    0:
+      - Black
+      - BlackBlack
+      - White
+      - WhiteWhite
 group:
   Black:
-    - Shiau-ching
-    - Joan
-    - Wei-Yi
-    - Rachel
+    - Debby
+    - Chelsea
+    - XiangYi
+    - Jielun
   BlackBlack:
-    - Sana
-    - Eva
-    - Yi-Ru
-    - Winny
+    - Travis
+    - Zi-Qian
+    - Sophia1
+    - Mary
   Blue:
-    - Hannah
-    - Annie
-    - Katty
-    - Lace
+    - Nancy
+    - Sophia2
+    - Julia
+    - Tzu-Ching
   BlueBlue:
-    - Tea
-    - Bass
-    - Leo
-    - Frances
+    - Donna
+    - Nancy
+    - Jill
+    - LiJuan
   Brown:
-    - Dennis
-    - Miranda
-    - Julie
-    - Anne
+    - Leon
+    - Cai-ling
+    - QianHui
+    - Shu-Jun
   Gray:
-    - Yu-Lun
-    - Jeffrey
-    - Fifi
-    - Sue
+    - Nancy
+    - Donna
+    - Hsin-Cih
+    - Pei-Yun
   Green:
-    - Kori
-    - Cathy
-    - Debbie
-    - Abby
+    - Tea
+    - Ivy
+    - Yang-ting
+    - Travis
   Orange:
-    - Christian
-    - Hank
-    - Yu-Ching
-    - Rose
+    - Yi-ni
+    - Yan-Ting
+    - MengShiung
+    - YaTing2
   Pink:
-    - Lisa
-    - Jason
-    - Kitty
-    - Joanna
+    - Innocent
+    - Edison
+    - WenJun
+    - Sharon
   Purple:
-    - Leo
-    - Sophia
-    - Yorick
-    - Winne
+    - Vicki
+    - Zhen-Dai
+    - Claire
+    - Chun-Ying
   Red:
-    - Shaq
-    - Joy
-    - Carina
-    - Luke
+    - Zhi-Wei
+    - Travis
+    - Robert
+    - Adam
   White:
-    - Anne
-    - Stanley
-    - Laura
-    - Patty
+    - Tony
+    - Jibson
+    - Joe
+    - Wan-Ling
   WhiteWhite:
-    - Ivan
-    - Ricky
-    - Ming
-    - Joanna
-  Yellow:
-    - Dan
-    - Amber
-    - Jessica
-    - Kori
+    - Sandy
+    - Redd
+    - Wan-Ru
+    - Chun-Hua
+  YellowYellow:
+    - Henry
+    - Yong-Shun
+    - Yan-Yun
+    - David
