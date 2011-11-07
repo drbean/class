@@ -18,7 +18,58 @@ activity:
       - 13
       - 14
       - 15
-      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+      - 24
+  salazar:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+      - 24
+  vanbeke:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
       - 17
       - 18
       - 19
@@ -44,8 +95,8 @@ group:
     White: V9841025
     Black: V9841063
   5:
-    White: V9941044
-    Black: V9941022
+    White: V9941022
+    Black: V9941025
   6:
     White: V9841001
     Black: V9941023
@@ -76,9 +127,6 @@ group:
   15:
     White: V9941015
     Black: V9941033
-  16:
-    White: V9941001
-    Black: V9941025
   17:
     White: V9941026
     Black: V9941046
@@ -103,9 +151,7 @@ group:
   24:
     White: V9941007
     Black: V9941057
-late:
-  - ~
-pairing: swiss
+pairing: swiss adjusted
 round: 4
-text: ~
-week: ~
+text: /home/drbean/class/conversation/poverty/cards.yaml
+week: 9
