@@ -3,93 +3,81 @@ round: Exam 2
 week: 9
 questions:
   - 5
-pass: 3
-assistant:
-  - Li
-  - Jenay
-  - Sofie
-  - Betty
-absent:
-  - T-Play
-  - Wei-Cei
-  - Nick
-text: /home/drbean/class/business/marketing/cards.yaml
+pass: 2
+assistant: ~
+absent: 
+  - Eric
+text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
 activity:
-  water:
-    1:
-      - Green
-      - White
-      - Yellow
-      - YellowYellow
-    2:
-      - Blue
-      - Brown
-      - Pink
-      - Purple
-    3:
-      - Gray
-      - Red
-    4:
+  vacations:
+    6:
       - Black
+      - Green
+      - Pink
+    7:
+      - Blue
       - Orange
+      - Purple
+    8:
+      - Brown
+      - Red
+      - White
+    9:
+      - Gray
+      - Yellow
 group:
   Black:
-    - Li
-    - Zack
-    - Jheng-Syun
-    - Jenay
+    - Erin
+    - Kathy
+    - Anting
+    - Jane
   Blue:
-    - Wang
-    - Gwan-Chi
-    - Tiffany
-    - Judy
+    - Sandy1
+    - Alice1
+    - Angeline
+    - Cathy
   Brown:
-    - Jenay
-    - Bu-Dien
-    - Yi-Tang
-    - Amy
+    - Cindy
+    - Rita
+    - Kelly
+    - Zara
   Gray:
-    - Stanley
-    - Wayne
-    - Jenny
-    - WanHan
+    - Mandy
+    - Jim
+    - Nina
+    - Sheryl
   Green:
-    - Sofie
-    - Li
-    - Dian
-    - Grace
-  Orange:
-    - Zih-sheng
-    - ChiaoLing
-    - Michelle
-    - Laura
-  Pink:
-    - Wei-jhih
-    - Helen
-    - Jerry1
-    - Chiahao
-  Purple:
-    - Reicho
-    - Sofie
-    - Pei-ci
-    - Aaron
-  Red:
-    - Kuan-Li
-    - Yi-xun
-    - Sharon
-    - Dennis
-  White:
-    - Alice
-    - May
+    - Irene
     - Tina
-    - Sandy
+    - Amy3
+    - Helen
+  Orange:
+    - Len
+    - Angel
+    - Lulu
+    - Amy1
+  Pink:
+    - Janet
+    - Flora
+    - Jojo
+    - Merlin
+  Purple:
+    - Will
+    - Lisa
+    - YiChun
+    - Amy4
+  Red:
+    - Willie
+    - Linda
+    - Karen
+    - Kimberly
+  White:
+    - Nora
+    - Jenny
+    - Peilin
+    - Laura
   Yellow:
-    - Candy
-    - Elaine
-    - Patrick
-    - Wan-ling
-  YellowYellow:
-    - Jessie
-    - Jerry2
-    - Betty
-    - Betty
+    - Robert
+    - Sandy2
+    - Jason
+    - Kevin2
