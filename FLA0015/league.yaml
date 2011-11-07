@@ -17,11 +17,6 @@ member:
     name: Chelsea
     password: ru
     rating: 39
-  - Chinese: 謝永彬
-    name: Ben
-    password: yong
-    id: V9716015
-    rating: ~
   - Chinese: 陳昱樺
     id: V9724004
     name: Nancy
@@ -57,11 +52,6 @@ member:
     name: Travis
     password: yan
     rating: ~
-  - Chinese: 彭明俊
-    id: V9841016
-    name: Mike
-    password: ming
-    rating: ~
   - Chinese: 葉瓊惠
     id: V9841025
     name: Sandy
@@ -76,11 +66,6 @@ member:
     id: V9841063
     name: Tea
     password: hao
-    rating: ~
-  - Chinese: 黎彥廷
-    id: V9916050
-    name: Yan-Ting
-    password: yan
     rating: ~
   - Chinese: 吳仰婷
     id: V9941001
@@ -136,11 +121,6 @@ member:
     id: V9941016
     name: Jielun
     password: jie
-    rating: ~
-  - Chinese: 林忠廣
-    id: V9941020
-    name: Zhong-guang
-    password: zhong
     rating: ~
   - Chinese: 陳俞靜
     id: V9941022
@@ -267,11 +247,6 @@ member:
     name: Zhi-Wei
     password: zhi
     rating: ~
-  - Chinese: 鄭合真
-    id: V9941064
-    name: Albert
-    password: he
-    rating: ~
   - Chinese: 劉好英
     id: V9941067
     name: Ivy
@@ -297,17 +272,43 @@ member:
     name: QianHui
     password: qian
     rating: ~
-  - Chinese: 林柏如
-    id: V9941075
-    name: Brenda
-    password: bo
-    rating: ~
   - Chinese: 謝孟璇
     id: V9941076
     name: MengShiung
     password: meng
     rating: ~
 out:
+  - Chinese: 林忠廣
+    id: V9941020
+    name: Zhong-guang
+    password: zhong
+    rating: ~
+  - Chinese: 林柏如
+    id: V9941075
+    name: Brenda
+    password: bo
+    rating: ~
+  - Chinese: 鄭合真
+    id: V9941064
+    name: Albert
+    password: he
+    rating: ~
+  - Chinese: 黎彥廷
+    id: V9916050
+    name: Yan-Ting
+    password: yan
+    rating: ~
+  - Chinese: 彭明俊
+    id: V9841016
+    name: Mike
+    password: ming
+    rating: ~
+  - Chinese: 謝永彬
+    name: Ben
+    password: yong
+    id: V9716015
+    rating: ~
+
   - Chinese: 黃君瑋
     id: V9941063
     name: 黃君瑋
