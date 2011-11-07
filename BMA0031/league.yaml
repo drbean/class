@@ -13,12 +13,6 @@ id: 001BMA0031
 jigsaw: exam
 league: 日經管大學二甲
 member:
-  - Chinese: 何立維
-    name: Eric
-    password: li
-    id: U9916027
-    rating: ~
-
   - Chinese: 許為智
     id: U9931001
     name: Willie
@@ -240,6 +234,12 @@ member:
     password: zi
     rating: ~
 out:
+  - Chinese: 何立維
+    name: Eric
+    password: li
+    id: U9916027
+    rating: ~
+
   - Chinese: 陳彥如
     id: U9931044
     name: Amy2
