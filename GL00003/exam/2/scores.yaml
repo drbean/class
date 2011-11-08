@@ -1,38 +1,52 @@
 ---
 Chinese:
   Black: 0
+  Blue: 0
   Gray: 0
-  Judy: 0
-  Pink: 0
-  White: 0
+  Green: 0
+  Orange: 0
+  Purple: 0
+  Vic: 0
 letters:
   Black:
-    V9741065: 10
-    U9623038: 10
-    U9922235: 10
-    U9813024: 10
-    story: biodad3
+    V9741029: 10
+    U9922232: 10
+    V9741010: 10
+    V9741057: 10
+    story: vanbeke0
+  Blue:
+    U9915004: 9
+    V9741029: 9
+    V9741038: 9
+    U0021016: 10
+    story: rueda0
   Gray:
-    U9723056: 9
-    U9931143: 10
-    T9831040: 10
-    U9623038: 10
-    story: biodad3
-  Judy:
-    U9823011: 10
-    V9741065: 10
-    V9841007: 6
-    N9661753: 10
-    story: emersonj1
-  Pink:
-    U9922235: 9
-    T9811035: 9
-    U9831049: 9
-    U9711052: 9
-    story: biomom2e
-  White:
-    U9715014: 10
-    U9922235: 10
-    V9741065: 10
-    U9711025: 10
-    story: emersonj1
+    U9711105: 10
+    U9711132: 10
+    V9741059: 10
+    V9741030: 10
+    story: salazar0
+  Green:
+    V9741009: 8
+    U9922318: 8
+    T9833016: 8
+    U9713020: 8
+    story: vanbeke0
+  Orange:
+    T9833025: 9
+    U9711120: 9
+    U9713044: 9
+    U9718012: 9
+    story: rueda0
+  Purple:
+    U9723020: 9
+    V9741060: 9
+    U9922203: 9
+    V9741009: 9
+    story: salazar0
+  Vic:
+    U0013147: 9
+    V9741060: 9
+    V9741030: 9
+    U9711105: 10
+    story: vanbeke0
