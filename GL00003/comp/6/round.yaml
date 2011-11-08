@@ -8,12 +8,37 @@ activity:
       - 3
       - 4
       - 5
-      - 6
-      - 7
       - 8
       - 9
       - 10
       - 11
+      - 12
+  salazar:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+  vanbeke:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
 group:
   0:
     White: U9922203
@@ -33,12 +58,6 @@ group:
   5:
     White: U9713020
     Black: V9741010
-  6:
-    White: U9922318
-    Black: U9718012
-  7:
-    White: V9741029
-    Black: U9631020
   8:
     White: V9741029
     Black: U9922318
@@ -51,9 +70,15 @@ group:
   11:
     White: V9741057
     Black: U0021016
+  12:
+     White: U9723020
+     Black: U0013147
+bye: U9718012
+  
 late:
-  - ~
+  - U0013147
+  - U9723020
 pairing: swiss
 round: 6
-text: ~
-week: ~
+text: /home/drbean/class/conversation/poverty/cards.yaml
+week: 9
