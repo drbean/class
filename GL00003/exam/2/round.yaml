@@ -2,48 +2,64 @@
 round: Exam 2
 week: 9
 questions:
-  - 9
-pass: 6
+  - 10
+pass: 5
 assistant:
-  - SongWei
-  - Simon
+  - Kumiko
+  - Kathy
+  - Donna
+  - Hazel
+  - Alan
 absent:
-text: /home/drbean/class/conversation/parents/cards.yaml
+  - WanLin
+text: /home/drbean/class/conversation/poverty/cards.yaml
 activity:
-  biomom:
-    2e:
-      - Pink
-  biodad:
-    3:
-      - Black
+  rueda:
+    0:
+      - Blue
+      - Orange
+  salazar:
+    0:
       - Gray
-  emersonj:
-    1:
-      - Judy
-      - White
+      - Purple
+  vanbeke:
+    0:
+      - Black
+      - Green
+      - Vic
 group:
   Black:
-    - Frances
-    - Simon
-    - SongWei
-    - KuanChia
+    - Kumiko
+    - Wen-hsin
+    - Andy
+    - Nina
+  Blue:
+    - Jusky
+    - Kumiko
+    - Candy
+    - James
   Gray:
-    - Dai-shian
-    - Amy
-    - DrLee
-    - Simon
-  Pink:
-    - SongWei
-    - YuiSung
-    - Li
-    - YiPei
-  White:
-    - Chung-Po
-    - SongWei
-    - Frances
-    - YiKuan
-  Judy:
-    - Judy
-    - Frances
-    - Laura
-    - Ting'an
+    - Hazel
+    - Kai
+    - Ivy
+    - Donna
+  Green:
+    - Alan
+    - Nick
+    - Vikin
+    - Jerry
+  Orange:
+    - Lin
+    - GuoLun
+    - Chris
+    - Mark
+  Purple:
+    - Sam
+    - Kathy
+    - Hudi
+    - Alan
+  Vic:
+    - Vic
+    - Kathy
+    - Donna
+    - Hazel
