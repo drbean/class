@@ -3,93 +3,70 @@ round: Exam 2
 week: 9
 questions:
   - 5
-pass: 3
+pass: 2
 assistant:
-  - XiaoXian
-absent:
-text: /home/drbean/class/business/marketing/cards.yaml
+  - Anny
+absent: 
+  - Linda2
+text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
 activity:
-  water:
-    1:
+  vacations:
+    6:
       - Black
-      - BlackBlack
-      - Pink
-    2:
-      - Brown
-      - Green
-      - Purple
-      - Yellow
-    3:
-      - Blue
-      - Red
-      - WhiteWhite
-    4:
-      - Gray
-      - Orange
       - White
+    7:
+      - Gray
+      - Purple
+    8:
+      - Blue
+      - Pink
+    9:
+      - Brown
+      - Orange
+      - Red
 group:
   Black:
-    - Jeter
-    - JiaXiang
-    - PingJie
-    - YaTing
-  BlackBlack:
-    - HanPing
-    - XiaoXian
-    - GuanYin
-    - Nate
-  Blue:
     - Sam
-    - XiaoQi
-    - Ya-syuan
-    - Victor
+    - Albert
+    - Shane
+    - Linda1
+  Blue:
+    - Anny
+    - Gene
+    - Evangeline
+    - Tom
   Brown:
-    - MingHan
-    - Chase
-    - Ying-Hsuan
-    - XiaoRou
+    - Sean
+    - Claire
+    - Ruby
+    - Ivy
   Gray:
-    - Ching
-    - Flora
-    - Raffaele
-    - Han-Yu
-  Green:
-    - Ray
-    - Yu-Ying
-    - Zong-Hua
-    - YuXin
+    - Peter1
+    - Fred
+    - Alex
+    - Anny
   Orange:
-    - Wade
-    - Yi-ting
-    - Peter
-    - HuiLin
+    - Alice
+    - Kevin
+    - Mila
+    - Kenny
   Pink:
-    - Friday
-    - Si-Yu
-    - XiaoWei
-    - Entian
+    - Cathy
+    - James
+    - Peter2
+    - Jordan
   Purple:
-    - WenXiao
-    - Hanna
-    - MeiQing
-    - Tim
+    - Leo
+    - Tina
+    - Sally
+    - Soymilk
   Red:
-    - David
-    - Yan
-    - Bernie
-    - YuJie
+    - Candy
+    - Tony
+    - Wendy
+    - Sophia
   White:
     - Jane
-    - YaYun
-    - YuXun
-    - ChenHan
-  WhiteWhite:
-    - ChuJun
-    - Chung
-    - Kou-wei
-    - LiLing
-  Yellow:
-    - Shuai
-    - Jie-Yu
-    - Alexis
-    - XiaoXian
+    - Cranium
+    - Sandy
+    - Dora

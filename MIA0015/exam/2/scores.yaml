@@ -1,94 +1,66 @@
 ---
 Chinese:
   Black: 0
-  BlackBlack: 0
   Blue: 0
   Brown: 0
   Gray: 0
-  Green: 0
   Orange: 0
   Pink: 0
   Purple: 0
   Red: 0
   White: 0
-  WhiteWhite: 0
-  Yellow: 0
 letters:
   Black:
-    U9733013: 0
-    T9833035: 2
-    U9833014: 2
-    T9833046: 1
-    story: water1
-  BlackBlack:
-    T9833013: 5
-    U9833011: 5
-    U9833005: 5
-    U9833041: 5
-    story: water1
+    U9933043: 5
+    U9933027: 5
+    U9933003: 5
+    U9933011: 5
+    story: vacations6
   Blue:
-    U9833045: 4
-    T9833009: 4
-    T9833039: 4
-    U9833020: 4
-    story: water3
+    U9933026: 5
+    U9933006: 4
+    U9933031: 4
+    U9933041: 5
+    story: vacations8
   Brown:
-    U9833009: 5
-    U9833015: 5
-    U9833048: 5
-    T9833050: 5
-    story: water2
+    U9933126: 2
+    U9933107: 2
+    U9933023: 2
+    U9933029: 2
+    story: vacations9
   Gray:
-    T9833032: 4
-    U9833052: 4
-    U9833001: 4
-    U9833043: 4
-    story: water4
-  Green:
-    U9833049: 4
-    U9833025: 4
-    U9833044: 4
-    U9833038: 4
-    story: water2
+    U9933010: 4
+    U9933001: 5
+    U9933020: 5
+    U9933026: 5
+    story: vacations7
   Orange:
-    U9833002: 5
-    T9833045: 5
-    U9833047: 5
-    T9833025: 5
-    story: water4
+    U9933112: 3
+    U9933037: 3
+    U9933025: 3
+    U9933116: 3
+    story: vacations9
   Pink:
-    U9833050: 5
-    T9833004: 5
-    T9833043: 5
-    U9833023: 5
-    story: water1
+    U9933030: 2
+    U9933139: 2
+    U9933017: 1
+    U9933136: 3
+    story: vacations8
   Purple:
-    U9833039: 4
-    U9833030: 4
-    T9833030: 4
-    U9833034: 4
-    story: water2
+    U9933045: 2
+    U9933108: 2
+    U9933022: 3
+    U9933138: 2
+    story: vacations7
   Red:
-    U9833007: 4
-    U9833019: 4
-    U9833040: 4
-    T9833037: 4
-    story: water3
+    U9933038: 1
+    U9933039: 1
+    U9933008: 1
+    U9933143: 1
+    story: vacations9
   White:
-    U9833035: 5
-    U9831107: 5
-    T9833028: 5
-    U9833003: 5
-    story: water4
-  WhiteWhite:
-    U9833024: 4
-    T9833027: 4
-    T9833006: 4
-    U9833031: 4
-    story: water3
-  Yellow:
-    T9733022: 5
-    U9833026: 3
-    U9833022: 5
-    U9833011: 2
-    story: water2
+    U9933109: 4
+    U9933044: 3
+    U9933024: 2
+    U9933005: 4
+    story: vacations6
