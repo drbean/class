@@ -3,82 +3,93 @@ round: Exam 2
 week: 9
 questions:
   - 5
-pass: 3
-assistant:
-  - Dennis
-absent:
-  - Patterson
-text: /home/drbean/class/business/marketing/cards.yaml
+pass: 2
+assistant: 
+  - Jeff
+  - Evan
+text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
 activity:
-  water:
-    1:
-      - Green
-      - White
-    2:
+  vacations:
+    6:
       - Blue
-      - Gray
-      - Orange
-      - WhiteWhite
-    3:
       - BlackBlack
+      - Gray
+      - White
+    7:
+      - Green
       - Pink
-      - Purple
-    4:
+      - Red
+    8:
       - Black
       - Brown
+      - Purple
+    9:
+      - Orange
+      - Yellow
+      - YellowYellow
 group:
-  Black:
+  Yellow:
+    - Jason
+    - Jay2
+    - Lion
     - Jill
-    - Rebecca
-    - Frank
-    - Jerry
   BlackBlack:
-    - Jeren
-    - Jenny
-    - Brian
-    - Abby
-  Blue:
-    - Debbie
-    - Ezra
-    - Alex
-    - Jack
-  Brown:
-    - Dennis
-    - Amy
-    - Emma
-    - Linda2
-  Gray:
-    - Penny
-    - Irene
-    - Danny
-    - Linda1
-  Green:
-    - Keano
-    - Vicky
-    - Ashly
-    - Sherry2
-  Orange:
-    - Peace
+    - Jeff
     - Maggie
-    - Ivy
-    - Nancy
-  Pink:
-    - Ray
-    - Joy
-    - Lisa
-    - Cammy
-  Purple:
-    - Tina
-    - Lious
+    - Carrie
+    - Celia
+  YellowYellow:
+    - Jack1
+    - Harry
+    - Andy
+    - Lynn
+  Brown:
+    - Lilith
+    - Amy2
+    - Ting
+    - Diana
+  Gray:
+    - Bill
+    - Sam2
     - Annie
-    - Cathy
-  White:
+    - Doris
+  Green:
+    - Orton
+    - Joe
+    - Cindy
+    - Abby
+  Orange:
+    - Sherry
+    - Shirley
+    - Johnson
     - Kelly
-    - Sherry1
-    - Trisha
-    - Jean
-  WhiteWhite:
-    - Hardy
-    - Ann
+  Pink:
+    - Evan
+    - Jennifer
+    - Robin
+    - Reese
+  Purple:
+    - Daisy
+    - Justin
+    - Larry
     - Tommy
-    - Hannah
+  Red:
+    - Betty2
+    - Julie
+    - Kate
+    - Bob
+  White:
+    - Betty1
+    - Jerry
+    - Dalai
+    - Paul
+  Black:
+    - Jack2
+    - Emily
+    - Jay1
+    - Jeff
+  Blue:
+    - Sam1
+    - Amy1
+    - Carol
+    - Evan
