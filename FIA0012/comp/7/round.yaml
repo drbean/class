@@ -1,7 +1,7 @@
 ---
 activity:
-  kendall:
-    influences:
+  webnegotiation:
+    0:
       - 0
       - 1
       - 2
@@ -23,73 +23,114 @@ activity:
       - 18
       - 19
       - 20
+      - 21
+      - 22
+      - 23
+      - 24
+  vacations:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+      - 24
 group:
   0:
-    White: U9834029
-    Black: U9834038
+    White: U9934013
+    Black: U9934026
   1:
-    White: U9834006
-    Black: U9834034
+    White: U9934046
+    Black: U9934047
   2:
-    White: U9834007
-    Black: U9834052
+    White: U9934029
+    Black: U9934024
   3:
-    White: U9834051
-    Black: U9834041
+    White: U9934010
+    Black: U9934012
   4:
-    White: U9834050
-    Black: U9834025
+    White: T9833026
+    Black: U9934048
   5:
-    White: U9834024
-    Black: U9834004
+    White: U9934023
+    Black: U9934032
   6:
-    White: U9834020
-    Black: U9834009
+    White: U9934051
+    Black: U9934036
   7:
-    White: U9834010
-    Black: U9834031
+    White: U9934030
+    Black: U9934028
   8:
-    White: U9834033
-    Black: U9834028
+    White: U9934006
+    Black: U9934001
   9:
-    White: U9834027
-    Black: U9834042
+    White: U9934016
+    Black: U9934019
   10:
-    White: U9834039
-    Black: U9834036
+    White: U9934043
+    Black: U9934045
   11:
-    White: U9834057
-    Black: U9834001
+    White: U9816024
+    Black: U9934044
   12:
-    White: U9834021
-    Black: U9834014
+    White: U9934004
+    Black: U9934005
   13:
-    White: U9834012
-    Black: U9834032
+    White: T9833024
+    Black: U9934020
   14:
-    White: U9834016
-    Black: U9834040
+    White: U9934017
+    Black: U9934034
   15:
-    White: U9634018
-    Black: U9834037
+    White: U9934011
+    Black: U9934003
   16:
-    White: U9834002
-    Black: U9834046
+    White: U9934027
+    Black: U9934038
   17:
-    White: U9834019
-    Black: U9834047
+    White: U9913132
+    Black: U9934002
   18:
-    White: U9834017
-    Black: U9834015
+    White: U9934025
+    Black: T9833008
   19:
-    White: U9834049
-    Black: U9834005
+    White: U9934033
+    Black: U9933147
   20:
-    White: U9834011
-    Black: U9833004
-late:
-  - ~
+    White: U9934021
+    Black: U9934015
+  21:
+    White: U9934050
+    Black: U9934039
+  22:
+    White: U9934022
+    Black: U9934040
+  23:
+    White: U9934031
+    Black: U9934009
+  24:
+    White: U9934007
+    Black: U9934037
 pairing: swiss
 round: 7
-text: ../../class/business/planning/cards.yaml
-week: 12
+text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
+week: 9
