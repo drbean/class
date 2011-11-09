@@ -1,57 +1,50 @@
 ---
-BlackBlackA:
-  - Carol
-  - Shally
-BlackBlackB:
-  - Candy
-  - Elvy
 Black:
-  - Emily
-  - Lucas
-  - Cindy
-  - Fenny
+  - Emily1
+  - Melissa
+  - Hank
+  - Vera
 Blue:
-  - Iris
-  - Tiffany
-  - Amberly
-  - Michelle1
-Gray:
-  - Eleven
-  - Mary
-  - Moto
-  - Kiki
-Green:
-  - Irin
-  - Lucy
-  - Ken
-  - Cloud
-Pink:
-  - Liu-ping
-  - Luby
-  - Mico
-  - Nana
-Purple:
-  - Steven
+  - Edison
+  - Peggy
   - Jessica
-  - Sunny
-  - Linda
-Red:
-  - Rita
-  - Sophia
-  - Nelson
-  - Ting
+  - Tina
+Brown:
+  - Jacinta
+  - Frances
+  - Nancy
+  - Rachel
+Gray:
+  - Alan
+  - Joey
+  - Emily2
+  - Abby
 White:
-  - Michelle2
-  - Allen
-  - Ashley
-  - Emma
-Yellow:
-  - Daisy
-  - Sandy
-  - Anne
-  - Vivian
-YellowYellow:
-  - Ivy
-  - Jean
-  - Ford
-  - Jo
+  - Chelsea
+  - Amy
+  - Elly
+  - Sophie
+Orange:
+  - Kumiko
+  - Anita
+  - Andy
+  - Jimmy
+Pink:
+  - Cathy
+  - Vivi
+  - Aska
+  - Molly
+Purple:
+  - Ivy2
+  - Tracy
+  - Ivy1
+  - Maggie
+Red:
+  - Joe
+  - Kathy
+  - Luke
+  - Bruce
+Green:
+  - Eva
+  - Donna
+  - Nina
