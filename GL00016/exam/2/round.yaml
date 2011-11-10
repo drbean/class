@@ -3,52 +3,36 @@ round: Exam 2
 week: 9
 questions:
   - 10
-pass: 6
+pass: 5
 assistant:
-  - Danial
+  - Emily
+  - Daisy
 absent:
-text: /home/drbean/class/conversation/parents/cards.yaml
+  - Eric
+text: /home/drbean/class/conversation/poverty/cards.yaml
 activity:
-  biomom:
-    2e:
-      - Gray
-      - Pink
-      - White
-  biodad:
-    3:
-      - Purple
-  emersonj:
-    1:
+  rueda:
+    0:
       - Black
-      - Green
+  salazar:
+    0:
+      - Pink
+  vanbeke:
+    0:
+      - Gray
 group:
   Black:
-    - Jack
-    - Vicky
-    - Amber
-    - Jason1
+    - Julie
+    - Si-Yu
+    - Annie
+    - Dalai
   Gray:
-    - Julia
-    - Colin
-    - Gina1
-    - Lin
-  Green:
-    - Ruru
-    - Finna
-    - Edwin
-    - Wesley
+    - Daisy
+    - Roy
+    - Kenni
+    - Emily
   Pink:
-    - Danial
-    - Janet
-    - Kate
-    - Butler
-  Purple:
-    - Jeff
-    - Shirley
-    - Howard
-    - Sui
-  White:
-    - Liu
-    - Danial
-    - Jerry
     - Vivi
+    - Vicky
+    - Emily
+    - Daisy
