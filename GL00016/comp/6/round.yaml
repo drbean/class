@@ -1,12 +1,19 @@
 ---
 activity:
-  rueda:
+  salazar:
     0:
       - 1
       - 2
       - 3
       - 4
-bye: T9833004
+      - 0
+  vanbeke:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 0
 group:
   1:
     White: U9934002
@@ -20,9 +27,12 @@ group:
   4:
     White: U9934025
     Black: U9934051
+  0:
+    White: T9833004
+    Black: V9731059
 late:
-  - ~
-pairing: swiss
+  - V9731059
+pairing: swiss adjusted
 round: 6
-text: ~
-week: ~
+text: /home/drbean/class/conversation/poverty/cards.yaml
+week: 9
