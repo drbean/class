@@ -1,55 +1,28 @@
 ---
 activity:
-  undertaker:
+  rueda:
     0:
-      - 0
       - 1
       - 2
       - 3
       - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-# bye: U9811010
+bye: T9833004
 group:
-  0:
-    White: 9616201
-    Black: U9718033
   1:
-    White: T9821014
-    Black: U9718042
+    White: U9934002
+    Black: T9821018
   2:
-    White: U9843023
-    Black: T9821043
+    White: T9833033
+    Black: U9934021
   3:
-    White: U9718036
-    Black: T9813003
+    White: U9922143
+    Black: U9934003
   4:
-    White: T9813009
-    Black: U9718016
-  5:
-    White: U9718022
-    Black: U9822002
-#  6:
-#    White: T9811142
-#    Black: U9621094
-  6:
-    White: U9811144
-    Black: T9821036
-  7:
-    White: U9811142
-    Black: T9821033
-  8:
-    White: U9811149
-    Black: T9811111
-  9:
-    White: U9743024
-    Black: T9831047
-bye: T9811142
+    White: U9934025
+    Black: U9934051
 late:
   - ~
+pairing: swiss
 round: 6
-text: ../../class/conversation/dying/cards.yaml
-week: 10
+text: ~
+week: ~
