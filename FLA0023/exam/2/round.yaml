@@ -3,106 +3,97 @@ round: Exam 2
 week: 9
 questions:
   - 10
-pass: 6
+pass: 5
 assistant:
-  - Luke
-  - Hank
-  - Dennis
-  - Hannah
   - Yorick
 absent:
-  - Joanna
-  - Lace
-text: /home/drbean/class/conversation/parents/cards.yaml
+  - Alex
+  - Amber
+  - Ingar
+text: /home/drbean/class/conversation/poverty/cards.yaml
 activity:
-  biomom:
-    2e:
-      - Black
-      - Gray
-      - Mike
-      - Pink
-      - White
-  biodad:
-    3:
-      - Blue
+  rueda:
+    0:
+      - BlueBlue
       - Brown
-      - Green
+      - Gray
       - Purple
-      - Yellow
-  emersonj:
-    1:
-      - BlackBlack
+      - White
+  salazar:
+    0:
+      - Black
+      - Blue
       - Orange
+      - Pink
+  vanbeke:
+    0:
+      - BlackBlack
+      - Green
       - Red
       - WhiteWhite
 group:
   Black:
-    - Anny
-    - Winny
-    - Joan
-    - Rose
-  BlackBlack:
     - Ivan
-    - Yorick
     - Anne
-    - Luke
-  Blue:
-    - Sherry
-    - Jeffrey
-    - Kitty
-    - Leo
-  Brown:
-    - Jerry
+    - Frances
+    - Ming
+  BlackBlack:
+    - Kori
     - Shaq
+    - Kitty
+    - Hannah
+  Blue:
+    - Jeffrey
+    - Larry
+    - Jessica1
     - Yu-Lun
-    - Yu-Ching
+  BlueBlue:
+    - Bass
+    - Yi-Ru
+    - Frank
+    - Yorick
+  Brown:
+    - Hank
+    - Sue
+    - Louise
+    - Rachel
   Gray:
-    - Michelle
-    - Lisa
-    - Patty
+    - Carina
+    - Yorick
+    - Ricky
     - Debbie
   Green:
-    - Bella
-    - Kori
-    - Sue
-    - Laura
-  Orange:
-    - Cathy2
-    - Abby
-    - Yi-Ru
-    - Joy
-  Pink:
-    - Luke
-    - Cathy
-    - Carina
-    - Hannah
-  Purple:
-    - Dan
-    - Stanley
-    - Fifi
-    - Hank
-  Red:
-    - Eva
-    - Amber
-    - Winne
-    - Jessica
-  White:
-    - Dennis
+    - Alan
+    - Lisa
     - Katty
-    - Ming
-    - Rachel
-  WhiteWhite:
-    - Tea
-    - Ricky
-    - Julie
-    - Wei-Yi
-  Yellow:
-    - Sana
-    - Yorick
-    - Bass
-    - Frances
-  Mike:
-    - Hank
+    - Kenny
+  Orange:
+    - Stanley
+    - Joan
+    - Cathy
+    - Jessica2
+  Pink:
+    - Fifi
+    - Winny
+    - Joy
+    - Nancy
+  Purple:
+    - Carol
+    - Luke
+    - Laura
     - Dennis
-    - Hannah
-    - Mike
+  Red:
+    - Wei-Yi
+    - Patty
+    - Jacinta
+    - Yu-Ching
+  White:
+    - Sana
+    - Julia
+    - Julie
+    - XinFang
+  WhiteWhite:
+    - Abby
+    - Leo
+    - Winne
+    - Rose
