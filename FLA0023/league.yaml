@@ -13,6 +13,21 @@ id: FLA0023
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+  - Chinese: 潘昱安
+    id: U9843014
+    name: Alex
+    password: yu
+    rating: 85
+  - Chinese: 郭芳萱
+    id: V9841033
+    name: Amber
+    password: fang
+    rating: 57
+  - Chinese: 林佩瑄
+    id: N9561735
+    name: Ingar
+    password: pei
+    rating: 60
   - Chinese: 張馨方
     id: V9841071
     name: XinFang
@@ -30,11 +45,6 @@ member:
     id: V9741009
     rating: 71
   
-  - Chinese: 林佩瑄
-    id: N9561735
-    name: Ingar
-    password: pei
-    rating: 60
   - Chinese: 劉發州
     id: N9561766
     name: Frank
@@ -50,11 +60,6 @@ member:
     name: Larry
     password: bing
     rating: ~
-  - Chinese: 潘昱安
-    id: U9843014
-    name: Alex
-    password: yu
-    rating: 85
   - Chinese: 陳昱樺
     id: V9724004
     name: Nancy
@@ -180,11 +185,6 @@ member:
     name: Bass
     password: yu
     rating: 61
-  - Chinese: 郭芳萱
-    id: V9841033
-    name: Amber
-    password: fang
-    rating: 57
   - Chinese: 林心如
     id: V9841034
     name: Rachel
