@@ -1,83 +1,145 @@
 ---
 cutpoints:
-  one: 50
-  two: 200
-exercise: biodad
+  one: 20
+  two: 85
+exercise: vanbeke
 grade:
-  9611203: 0
-  M9923001: 0
-  M9923005: 0
-  T9811035: 2
-  T9831040: 2
-  U9623038: 2
-  U9711025: 2
-  U9711052: 0
-  U9715014: 2
-  U9723056: 2
-  U9813024: 2
-  U9823011: 0
-  U9831049: 2
-  U9916027: 0
-  U9916029: 0
-  U9922235: 0
-  U9931143: 2
-  U9942017: 0
-  V9741065: 2
+  T9833016: 1
+  T9833025: 2
+  U0013147: 0
+  U0021016: 2
+  U9631020: 2
+  U9711105: 2
+  U9711120: 2
+  U9711132: 2
+  U9713020: 2
+  U9713044: 2
+  U9718012: 1
+  U9723020: 1
+  U9915004: 0
+  U9922203: 0
+  U9922232: 0
+  U9922318: 0
+  V9741009: 0
+  V9741010: 1
+  V9741029: 2
+  V9741030: 2
+  V9741038: 2
+  V9741057: 2
+  V9741059: 1
+  V9741060: 2
 points:
-  9611203:
+  T9833016:
+    letters: 353
+    percent: 40
+  T9833025:
+    S: 0
+    Yn: 3
+    letters: 884
+    percent: 100
+  U0013147:
+    S: 0
+    Yn: 0
+    letters: 3
+    percent: 0
+  U0021016:
+    S: 0
+    Yn: 0
+    letters: 884
+    percent: 100
+  U9631020:
+    S: 0
+    Yn: 3
+    letters: 860
+    percent: 97
+  U9711105:
+    S: 0
+    Yn: 3
+    letters: 852
+    percent: 96
+  U9711120:
+    S: 0
+    Yn: 3
+    letters: 840
+    percent: 95
+  U9711132:
+    S: 0
+    Yn: 3
+    letters: 884
+    percent: 100
+  U9713020:
+    S: 1
+    Yn: 0
+    letters: 884
+    percent: 100
+  U9713044:
+    S: 0
+    Yn: 0
+    letters: 884
+    percent: 100
+  U9718012:
+    S: 0
+    Yn: 0
+    letters: 311
+    percent: 35
+  U9723020:
+    S: 0
+    Yn: 0
+    letters: 558
+    percent: 63
+  U9915004:
+    S: 0
+    Yn: 0
+    letters: 135
+    percent: 15
+  U9922203:
+    S: 0
+    Yn: 0
+    letters: 50
+    percent: 6
+  U9922232:
     letters: 0
-    questions: 0
-  M9923001:
+    percent: 0
+  U9922318:
+    S: 0
+    Yn: 0
+    letters: 19
+    percent: 2
+  V9741009:
     letters: 0
-    questions: 0
-  M9923005:
-    letters: 0
-    questions: 0
-  T9811035:
-    letters: 238
-    questions: 0
-  T9831040:
-    letters: 242
-    questions: 0
-  U9623038:
-    letters: 249
-    questions: 0
-  U9711025:
-    letters: 249
-    questions: 0
-  U9711052:
-    letters: 0
-    questions: 0
-  U9715014:
-    letters: 233
-    questions: 0
-  U9723056:
-    letters: 242
-    questions: 0
-  U9813024:
-    letters: 242
-    questions: 0
-  U9823011:
-    letters: 0
-    questions: 0
-  U9831049:
-    letters: 0
-    questions: 1
-  U9916027:
-    letters: 0
-    questions: 0
-  U9916029:
-    letters: 0
-    questions: 0
-  U9922235:
-    letters: 0
-    questions: 0
-  U9931143:
-    letters: 242
-    questions: 0
-  U9942017:
-    letters: 0
-    questions: 0
-  V9741065:
-    letters: 0
-    questions: 3
+    percent: 0
+  V9741010:
+    S: 0
+    Yn: 1
+    letters: 645
+    percent: 73
+  V9741029:
+    S: 0
+    Yn: 0
+    letters: 884
+    percent: 100
+  V9741030:
+    S: 0
+    Yn: 1
+    letters: 884
+    percent: 100
+  V9741038:
+    S: 0
+    Yn: 0
+    letters: 807
+    percent: 91
+  V9741057:
+    S: 0
+    Yn: 0
+    letters: 884
+    percent: 100
+  V9741059:
+    S: 0
+    Yn: 0
+    letters: 297
+    percent: 34
+  V9741060:
+    S: 0
+    Yn: 3
+    letters: 884
+    percent: 100
