@@ -1,215 +1,249 @@
 ---
 cutpoints:
-  one: 50
-  two: 220
-exercise: desantis
+  one: 20
+  two: 85
+exercise: vanbeke
 grade:
-  N9661760: 0
-  V9741002: 0
-  V9741065: 2
-  V9841002: 0
-  V9841004: 0
-  V9841005: 0
-  V9841006: 0
-  V9841007: 1
-  V9841008: 0
-  V9841009: 2
-  V9841010: 2
-  V9841011: 0
-  V9841013: 0
-  V9841014: 2
-  V9841015: 0
-  V9841017: 0
-  V9841020: 0
-  V9841021: 0
-  V9841022: 0
-  V9841024: 0
-  V9841026: 2
-  V9841027: 0
-  V9841028: 0
-  V9841029: 0
-  V9841030: 0
-  V9841031: 0
-  V9841033: 0
-  V9841034: 0
-  V9841035: 0
-  V9841036: 2
-  V9841037: 2
-  V9841038: 2
-  V9841039: 0
-  V9841040: 1
-  V9841041: 2
-  V9841042: 0
-  V9841044: 0
-  V9841046: 2
-  V9841047: 0
-  V9841048: 2
-  V9841049: 0
-  V9841050: 2
-  V9841051: 1
-  V9841053: 2
-  V9841054: 0
-  V9841058: 1
-  V9841059: 2
-  V9841062: 0
-  V9841063: 0
-  V9841064: 0
-  V9841067: 2
-  V9999113: 1
+  9622299: 0
+  N9661749: 0
+  N9661754: 2
+  N9661760: 2
+  V9724004: 2
+  V9741030: 0
+  V9741066: 1
+  V9841001: 2
+  V9841025: 2
+  V9841042: 1
+  V9841063: 2
+  V9941001: 1
+  V9941003: 2
+  V9941005: 0
+  V9941007: 0
+  V9941010: 2
+  V9941011: 2
+  V9941012: 2
+  V9941013: 2
+  V9941014: 2
+  V9941015: 2
+  V9941016: 0
+  V9941022: 2
+  V9941023: 2
+  V9941025: 2
+  V9941026: 2
+  V9941027: 1
+  V9941029: 2
+  V9941031: 0
+  V9941032: 2
+  V9941033: 2
+  V9941036: 2
+  V9941037: 2
+  V9941039: 0
+  V9941040: 0
+  V9941041: 0
+  V9941043: 2
+  V9941044: 0
+  V9941045: 2
+  V9941046: 2
+  V9941047: 2
+  V9941049: 2
+  V9941050: 2
+  V9941057: 2
+  V9941059: 2
+  V9941060: 0
+  V9941062: 2
+  V9941067: 2
+  V9941068: 2
+  V9941069: 1
+  V9941071: 2
+  V9941073: 2
+  V9941076: 2
 points:
+  9622299:
+    letters: 0
+    percent: 0
+  N9661749:
+    S: 0
+    Yn: 0
+    letters: 125
+    percent: 14
+  N9661754:
+    letters: 884
+    percent: 100
   N9661760:
-    letters: ~
-    questions: 0
-  V9741002:
-    letters: ~
-    questions: 0
-  V9741065:
-    letters: 236
-    questions: 0
-  V9841002:
-    letters: ~
-    questions: 0
-  V9841004:
-    letters: ~
-    questions: 0
-  V9841005:
-    letters: ~
-    questions: 0
-  V9841006:
-    letters: ~
-    questions: 0
-  V9841007:
-    letters: 211
-    questions: 0
-  V9841008:
-    letters: ~
-    questions: 0
-  V9841009:
-    letters: 231
-    questions: 0
-  V9841010:
-    letters: 247
-    questions: 0
-  V9841011:
-    letters: ~
-    questions: 0
-  V9841013:
-    letters: ~
-    questions: 0
-  V9841014:
-    letters: 238
-    questions: 0
-  V9841015:
-    letters: ~
-    questions: 0
-  V9841017:
-    letters: ~
-    questions: 0
-  V9841020:
-    letters: ~
-    questions: 0
-  V9841021:
-    letters: ~
-    questions: 0
-  V9841022:
-    letters: ~
-    questions: 0
-  V9841024:
-    letters: ~
-    questions: 0
-  V9841026:
-    letters: 221
-    questions: 0
-  V9841027:
-    letters: ~
-    questions: 0
-  V9841028:
-    letters: ~
-    questions: 0
-  V9841029:
-    letters: 25
-    questions: 0
-  V9841030:
-    letters: ~
-    questions: 0
-  V9841031:
-    letters: ~
-    questions: 0
-  V9841033:
-    letters: ~
-    questions: 0
-  V9841034:
-    letters: ~
-    questions: 0
-  V9841035:
-    letters: ~
-    questions: 0
-  V9841036:
-    letters: 247
-    questions: 0
-  V9841037:
-    letters: 246
-    questions: 0
-  V9841038:
-    letters: 247
-    questions: 0
-  V9841039:
-    letters: ~
-    questions: 0
-  V9841040:
-    letters: 192
-    questions: 0
-  V9841041:
-    letters: 238
-    questions: 0
+    S: 0
+    Yn: 0
+    letters: 882
+    percent: 100
+  V9724004:
+    letters: 884
+    percent: 100
+  V9741030:
+    letters: 0
+    percent: 0
+  V9741066:
+    letters: 184
+    percent: 21
+  V9841001:
+    S: 0
+    Yn: 0
+    letters: 884
+    percent: 100
+  V9841025:
+    S: 0
+    Yn: 0
+    letters: 884
+    percent: 100
   V9841042:
-    letters: ~
-    questions: 0
-  V9841044:
-    letters: ~
-    questions: 0
-  V9841046:
-    letters: 227
-    questions: 0
-  V9841047:
-    letters: ~
-    questions: 0
-  V9841048:
-    letters: 247
-    questions: 0
-  V9841049:
-    letters: ~
-    questions: 0
-  V9841050:
-    letters: 236
-    questions: 0
-  V9841051:
-    letters: 175
-    questions: 0
-  V9841053:
-    letters: 238
-    questions: 0
-  V9841054:
-    letters: ~
-    questions: 0
-  V9841058:
-    letters: 208
-    questions: 0
-  V9841059:
-    letters: 247
-    questions: 0
-  V9841062:
-    letters: ~
-    questions: 0
+    S: 0
+    Yn: 0
+    letters: 257
+    percent: 29
   V9841063:
-    letters: ~
-    questions: 0
-  V9841064:
-    letters: ~
-    questions: 0
-  V9841067:
-    letters: 226
-    questions: 0
-  V9999113:
-    letters: 213
-    questions: 0
+    S: 0
+    Yn: 0
+    letters: 786
+    percent: 89
+  V9941001:
+    letters: 518
+    percent: 59
+  V9941003:
+    S: 0
+    Yn: 0
+    letters: 884
+    percent: 100
+  V9941005:
+    letters: 0
+    percent: 0
+  V9941007:
+    letters: 0
+    percent: 0
+  V9941010:
+    letters: 884
+    percent: 100
+  V9941011:
+    letters: 884
+    percent: 100
+  V9941012:
+    letters: 884
+    percent: 100
+  V9941013:
+    letters: 884
+    percent: 100
+  V9941014:
+    letters: 884
+    percent: 100
+  V9941015:
+    S: 0
+    Yn: 0
+    letters: 884
+    percent: 100
+  V9941016:
+    letters: 0
+    percent: 0
+  V9941022:
+    S: 0
+    Yn: 0
+    letters: 884
+    percent: 100
+  V9941023:
+    letters: 884
+    percent: 100
+  V9941025:
+    letters: 884
+    percent: 100
+  V9941026:
+    S: 0
+    Yn: 0
+    letters: 884
+    percent: 100
+  V9941027:
+    letters: 235
+    percent: 27
+  V9941029:
+    S: 0
+    Yn: 0
+    letters: 884
+    percent: 100
+  V9941031:
+    letters: 85
+    percent: 10
+  V9941032:
+    letters: 884
+    percent: 100
+  V9941033:
+    letters: 884
+    percent: 100
+  V9941036:
+    letters: 884
+    percent: 100
+  V9941037:
+    letters: 884
+    percent: 100
+  V9941039:
+    letters: 0
+    percent: 0
+  V9941040:
+    letters: 0
+    percent: 0
+  V9941041:
+    letters: 0
+    percent: 0
+  V9941043:
+    letters: 884
+    percent: 100
+  V9941044:
+    letters: 0
+    percent: 0
+  V9941045:
+    letters: 884
+    percent: 100
+  V9941046:
+    S: 0
+    Yn: 0
+    letters: 884
+    percent: 100
+  V9941047:
+    letters: 884
+    percent: 100
+  V9941049:
+    S: 0
+    Yn: 0
+    letters: 884
+    percent: 100
+  V9941050:
+    letters: 884
+    percent: 100
+  V9941057:
+    letters: 884
+    percent: 100
+  V9941059:
+    letters: 884
+    percent: 100
+  V9941060:
+    letters: 4
+    percent: 0
+  V9941062:
+    letters: 790
+    percent: 89
+  V9941067:
+    S: 0
+    Yn: 0
+    letters: 884
+    percent: 100
+  V9941068:
+    S: 0
+    Yn: 0
+    letters: 884
+    percent: 100
+  V9941069:
+    letters: 232
+    percent: 26
+  V9941071:
+    letters: 884
+    percent: 100
+  V9941073:
+    letters: 884
+    percent: 100
+  V9941076:
+    letters: 884
+    percent: 100
