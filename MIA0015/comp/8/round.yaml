@@ -1,8 +1,7 @@
 ---
 activity:
-  kendall:
-    influences:
-      - 0
+  ikval:
+    0:
       - 1
       - 2
       - 3
@@ -20,89 +19,60 @@ activity:
       - 15
       - 16
       - 17
-      - 18
-      - 19
-      - 20
-      - 21
-      - 22
-      - 23
-bye: U9833049
+bye: U9933039
 group:
-  0:
-    White: U9833034
-    Black: U9833023
   1:
-    White: U9833020
-    Black: T9833030
+    White: U9933109
+    Black: U9933023
   2:
-    White: U9833022
-    Black: T9833037
+    White: U9933038
+    Black: U9933143
   3:
-    White: U9833015
-    Black: U9833044
+    White: U9933138
+    Black: U9933043
   4:
-    White: U9833025
-    Black: T9833028
+    White: U9933017
+    Black: U9933139
   5:
-    White: T9833035
-    Black: U9833003
+    White: U9933112
+    Black: U9933020
   6:
-    White: U9833001
-    Black: T9833050
+    White: U9933003
+    Black: U9933010
   7:
-    White: U9833026
-    Black: U9833041
+    White: U9933045
+    Black: U9933126
   8:
-    White: T9833009
-    Black: U9833038
+    White: U9933001
+    Black: U9933031
   9:
-    White: U9833011
-    Black: U9833048
+    White: U9933005
+    Black: U9933044
   10:
-    White: U9833007
-    Black: T9833039
+    White: U9933041
+    Black: U9933030
   11:
-    White: T9833045
-    Black: U9833005
+    White: U9933027
+    Black: U9933136
   12:
-    White: T9833004
-    Black: U9833024
+    White: U9933025
+    Black: U9933011
   13:
-    White: T9833046
-    Black: T9833027
+    White: U9933024
+    Black: U9933026
   14:
-    White: T9833006
-    Black: U9833039
+    White: U9933022
+    Black: U9933037
   15:
-    White: U9833043
-    Black: U9833009
+    White: U9933029
+    Black: U9933006
   16:
-    White: U9833040
-    Black: U9833045
+    White: U9933107
+    Black: U9933008
   17:
-    White: T9833025
-    Black: U9831107
-  18:
-    White: U9833014
-    Black: T9833032
-  19:
-    White: U9833050
-    Black: U9833035
-  20:
-    White: T9833043
-    Black: U9833019
-  21:
-    White: U9833031
-    Black: U9833047
-  22:
-    White: U9833030
-    Black: U9833052
-  23:
-    White: U9733013
-    Black: U9833002
-late:
-  - ~
-pairing: swiss
-round: 8
-text: ../../class/business/planning/cards.yaml
-week: 12
+    White: U9933116
+    Black: U9933108
+pairing: swiss (paired in MIA0015-1 round 2, updated in both MIA0015-1 and MIA0015)
+round: 2
+text: /home/drbean/class/business/companies/cards.yaml
+week: 10
