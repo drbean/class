@@ -1,0 +1,21 @@
+---
+Black:
+  absent: 
+  merits      : 5
+Blue:
+  absent: 
+  merits      : 5
+Brown:
+  absent: 
+    - Tony
+  merits      : 6
+Orange:
+  absent: 
+  merits      : 5
+Pink:
+  absent: 
+  merits      : 3
+Purple:
+  absent: 
+    - Ben
+  merits      : 3
