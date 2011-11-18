@@ -1,23 +1,23 @@
 ---
 Black:
   absent: 
-  merits      : 10
+  merits      : 2
 Blue:
   absent: 
-  merits      : 5
+  merits      : 1
 Brown:
   absent: 
     - Tony
     - Robert
     - Frances
-  merits      : 5
+  merits      : 1
 Orange:
   absent: 
-  merits      : 5
+  merits      : 1
 Pink:
   absent: 
-  merits      : 5
+  merits      : 1
 Purple:
   absent: 
     - Ben
-  merits      : 5
+  merits      : 1
