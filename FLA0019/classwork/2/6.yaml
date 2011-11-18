@@ -1,0 +1,22 @@
+---
+Black:
+  absent: 
+    - Michelle
+  merits      : 3
+Blue:
+  absent: 
+  merits      : 3
+Brown:
+  absent: 
+  merits      : 3
+Orange:
+  absent: 
+  merits      : 3
+Pink:
+  absent: 
+    - Kenny
+  merits      : 3
+Purple:
+  absent: 
+    - Ben
+  merits      : 3
