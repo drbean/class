@@ -1,0 +1,20 @@
+---
+Black:
+  absent: 
+  merits      : 3
+Blue:
+  absent: 
+  merits      : 3
+Brown:
+  absent: 
+  merits      : 2
+Orange:
+  absent: 
+  merits      : 2
+Pink:
+  absent: 
+    - Kenny
+  merits      : 2
+Purple:
+  absent: 
+  merits      : 3
