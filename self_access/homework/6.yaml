@@ -1,0 +1,125 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: salazar
+grade:
+  T9833016: 0
+  T9833025: 2
+  U0013147: 0
+  U0021016: 2
+  U9631020: 2
+  U9711105: 2
+  U9711120: 2
+  U9711132: 2
+  U9713020: 2
+  U9713044: 0
+  U9718012: 1
+  U9723020: 0
+  U9915004: 0
+  U9922203: 0
+  U9922232: 0
+  U9922318: 0
+  V9741009: 2
+  V9741010: 1
+  V9741029: 1
+  V9741030: 0
+  V9741038: 1
+  V9741057: 2
+  V9741059: 0
+  V9741060: 2
+points:
+  T9833016:
+    letters: 0
+    percent: 0
+  T9833025:
+    S: 0
+    Yn: 1
+    letters: 468
+    percent: 100
+  U0013147:
+    letters: 0
+    percent: 0
+  U0021016:
+    S: 0
+    Yn: 0
+    letters: 468
+    percent: 100
+  U9631020:
+    S: 0
+    Yn: 3
+    letters: 468
+    percent: 100
+  U9711105:
+    S: 0
+    Yn: 3
+    letters: 453
+    percent: 97
+  U9711120:
+    S: 6
+    Yn: 0
+    letters: 468
+    percent: 100
+  U9711132:
+    S: 0
+    Yn: 3
+    letters: 468
+    percent: 100
+  U9713020:
+    S: 0
+    Yn: 0
+    letters: 468
+    percent: 100
+  U9713044:
+    letters: 0
+    percent: 0
+  U9718012:
+    letters: 356
+    percent: 76
+  U9723020:
+    letters: 0
+    percent: 0
+  U9915004:
+    S: 0
+    Yn: 0
+    letters: 36
+    percent: 8
+  U9922203:
+    letters: 0
+    percent: 0
+  U9922232:
+    letters: 0
+    percent: 0
+  U9922318:
+    letters: 0
+    percent: 0
+  V9741009:
+    letters: 468
+    percent: 100
+  V9741010:
+    letters: 241
+    percent: 51
+  V9741029:
+    letters: 129
+    percent: 28
+  V9741030:
+    S: 0
+    Yn: 1
+    letters: 0
+    percent: 0
+  V9741038:
+    letters: 211
+    percent: 45
+  V9741057:
+    S: 0
+    Yn: 0
+    letters: 468
+    percent: 100
+  V9741059:
+    letters: 0
+    percent: 0
+  V9741060:
+    S: 0
+    Yn: 0
+    letters: 468
+    percent: 100

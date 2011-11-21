@@ -1,0 +1,211 @@
+---
+absent: ~
+active: ~
+approach: Compcomp
+compcomp: comp
+examMax: 4
+exams: exam
+field: 中級英文聽說訓練
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 001GL00003
+jigsaw: exam
+league: 日語文共同學制虛擬班二甲
+member:
+  - Chinese: 林子軒
+    name: Hudi
+    password: zi
+    id: U9922203
+    rating: ~
+  - Chinese: 林崇仁
+    name: Vic
+    password: chong
+    id: U0013147
+    rating: ~
+  
+  - Chinese: 謝孟倫
+    id: V9741009
+    name: Alan
+    password: meng
+    rating: 56
+  - Chinese: 曾文君
+    name: Vikin
+    password: wen
+    id: T9833016
+    rating: ~
+  - Chinese: 林喬俐
+    name: Mark
+    password: qiao
+    id: U9718012
+    rating: ~
+  - Chinese: 辜婉琳
+    name: WanLin
+    password: wan
+    id: U9631020
+    rating: ~
+  - Chinese: 張皓鈞
+    name: Chris
+    password: hao
+    id: U9713044
+    rating: ~
+  - Chinese: 林敬儒
+    name: James
+    password: jing
+    id: U0021016
+    rating: ~
+  
+  
+  
+  - Chinese: 黃可茹
+    id: V9741060
+    name: Kathy
+    password: ke
+    rating: 71
+  - Chinese: 王寧
+    id: V9741059
+    name: Ivy
+    password: ning
+    rating: 73
+  - Chinese: 傅泓瑜
+    id: V9741029
+    name: Kumiko
+    password: hong
+    rating: 70
+  - Chinese: 李欣怡
+    id: V9741030
+    name: Donna
+    password: xin
+    rating: 60
+  - Chinese: 賴宣蓉
+    id: V9741057
+    name: Nina
+    password: xuan
+    rating: 80
+  - Chinese: 魏宏耘
+    id: V9741010
+    name: Andy
+    password: hong
+    rating: 74
+  - Chinese: 謝宇函
+    name: Candy
+    password: yu
+    id: V9741038
+    rating: ~
+  
+  - Chinese: 劉卉琳
+    id: T9833025
+    name: Lin
+    password: hui
+    rating: ~
+  - Chinese: 劉興翰
+    id: U9711105
+    name: Hazel
+    password: xing
+    rating: ~
+  - Chinese: 夏國倫
+    id: U9711120
+    name: GuoLun
+    password: guo
+    rating: ~
+  - Chinese: 劉哲愷
+    id: U9711132
+    name: Kai
+    password: zhe
+    rating: ~
+  - Chinese: 林峻緯
+    id: U9713020
+    name: Jerry
+    password: jun
+    rating: ~
+  - Chinese: 李奇育
+    id: U9915004
+    name: Jusky
+    password: qi
+    rating: ~
+  - Chinese: 黃文欣
+    id: U9922232
+    name: Wen-hsin
+    password: wen
+    rating: ~
+  - Chinese: 顏霆毅
+    id: U9922318
+    name: Nick
+    password: ting
+    rating: ~
+  - Chinese: 鄭聖玄
+    name: Sam
+    password: sheng
+    id: U9723020
+    rating: ~
+out:
+  - Chinese: 邱建榮
+    id: U9918043
+    name: Gene
+    password: jian
+    rating: ~
+  - Chinese: 黃旻
+    id: U9731046
+    name: Vicky
+    password: min
+    rating: ~
+  - Chinese: 張俊傑
+    id: U9711115
+    name: Taylor
+    password: jun
+    rating: ~
+  - Chinese: 葉秉儒
+    name: Daniel
+    password: bing
+    id: U9823006
+    rating: ~
+  - Chinese: 廖玉紅
+    name: Iris
+    password: yu
+    id: U9718048
+    rating: ~
+  - Chinese: 賴建君
+    name: Cathy
+    password: jian
+    id: U9742033
+    rating: ~
+  - Chinese: 張杏君
+    id: V9731059
+    name: Vivi
+    password: xing
+    rating: 73
+  - Chinese: 翁愷駿
+    id: T9833027
+    name: Chung
+    password: kai
+    rating: 72
+  - Chinese: 許展禎
+    name: Jane
+    password: zhan
+    id: U9814126
+    rating: ~
+  - Chinese: 黃詩喬
+    name: Joyce
+    password: shi
+    id: U9814127
+    rating: ~
+  - Chinese: 張嘉元
+    id: U9922110
+    name: 張嘉元
+    password: jia
+    rating: ~
+  - Chinese: 許竣幃
+    id: U9911136
+    name: 許竣幃
+    password: jun
+    rating: ~
+  - Chinese: 陳宗霖
+    id: U9616024
+    name: 陳宗霖
+    password: zong
+    rating: ~
+room: 2110
+weights:
+  classwork: 70
+  exams: 15
+  homework: 15
