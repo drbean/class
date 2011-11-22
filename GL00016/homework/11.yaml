@@ -1,123 +1,49 @@
 ---
 cutpoints:
-  one: 50
-  two: 200
-exercise: oakland
+  one: 20
+  two: 85
+exercise: nguyen
 grade:
-  9616201: 0
-  T9811101: 1
-  T9811111: 2
-  T9811142: 0
-  T9813003: 0
-  T9813004: 2
-  T9813009: 0
-  T9813014: 2
-  T9821014: 2
-  T9821033: 2
-  T9821036: 2
-  T9821043: 2
-  T9831047: 2
-  U9621094: 2
-  U9718016: 1
-  U9718022: 0
-  U9718033: 2
-  U9718036: 2
-  U9718042: 2
-  U9742052: 2
-  U9743024: 2
-  U9811010: 0
-  U9811127: 1
-  U9811142: 2
-  U9811144: 2
-  U9811149: 2
-  U9822002: 0
-  U9843004: 2
-  U9843023: 2
+  T9821018: 1
+  T9833004: 2
+  T9833033: 2
+  U9922143: 0
+  U9934002: 2
+  U9934003: 2
+  U9934021: 2
+  U9934025: 2
+  U9934051: 0
+  V9731059: 2
 points:
-  9616201:
+  T9821018:
+    letters: 485
+    percent: 65
+  T9833004:
+    letters: 743
+    percent: 100
+  T9833033:
+    S: 0
+    Yn: 0
+    letters: 743
+    percent: 100
+  U9922143:
     letters: 0
-    questions: 0
-  T9811101:
-    letters: 179
-    questions: 0
-  T9811111:
+    percent: 0
+  U9934002:
+    letters: 743
+    percent: 100
+  U9934003:
+    letters: 743
+    percent: 100
+  U9934021:
+    letters: 735
+    percent: 99
+  U9934025:
+    letters: 743
+    percent: 100
+  U9934051:
     letters: 0
-    questions: 1
-  T9811142:
-    letters: 0
-    questions: 0
-  T9813003:
-    letters: 0
-    questions: 0
-  T9813004:
-    letters: 0
-    questions: 1
-  T9813009:
-    letters: 0
-    questions: 0
-  T9813014:
-    letters: 0
-    questions: 1
-  T9821014:
-    letters: 0
-    questions: 1
-  T9821033:
-    letters: 254
-    questions: 0
-  T9821036:
-    letters: 0
-    questions: 1
-  T9821043:
-    letters: 29
-    questions: 1
-  T9831047:
-    letters: 0
-    questions: 1
-  U9621094:
-    letters: 227
-    questions: 1
-  U9718016:
-    letters: 135
-    questions: 0
-  U9718022:
-    letters: 0
-    questions: 0
-  U9718033:
-    letters: 251
-    questions: 0
-  U9718036:
-    letters: 251
-    questions: 0
-  U9718042:
-    letters: 0
-    questions: 1
-  U9742052:
-    letters: 251
-    questions: 0
-  U9743024:
-    letters: 240
-    questions: 0
-  U9811010:
-    letters: 0
-    questions: 0
-  U9811127:
-    letters: 176
-    questions: 0
-  U9811142:
-    letters: 0
-    questions: 1
-  U9811144:
-    letters: 254
-    questions: 0
-  U9811149:
-    letters: 0
-    questions: 1
-  U9822002:
-    letters: 0
-    questions: 0
-  U9843004:
-    letters: 0
-    questions: 1
-  U9843023:
-    letters: 251
-    questions: 0
+    percent: 0
+  V9731059:
+    letters: 743
+    percent: 100
