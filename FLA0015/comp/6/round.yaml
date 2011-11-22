@@ -1,59 +1,86 @@
 ---
-round: 6
-week: 6
-absent:
-text: 
 activity:
-  breakstone:
-    1:
-      -
-         White: V9841009
-         Black: V9841027
-      -
-         White: V9841010
-         Black: V9841008
-      -
-         White: V9841028
-         Black: V9841024
-      -
-         White: V9841007
-         Black: V9841015
-      -
-         White: V9841050
-         Black: V9841006
-      -
-         White: V9841002
-         Black: V9841063
-      -
-         White: V9841011
-         Black: V9741065
-      -
-         White: V9841022
-         Black: V9841041
-      -
-         White: V9841058
-         Black: V9841029
-      -
-         White: V9841034
-         Black: V9841046
-      -
-         White: V9841033
-         Black: V9841036
-      -
-         White: V9841059
-         Black: V9999113
-      -
-         White: V9841051
-         Black: V9841064
-      -
-         White: V9841040
-         Black: V9841014
-      -
-         White: V9841026
-         Black: V9841005
-      -
-         White: V9841038
-         Black: V9841013
-      -
-         White: V9841017
-         Black: V9841067
+  nguyen:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+bye: V9941011
+group:
+  1:
+    White: N9661760
+    Black: V9941010
+  2:
+    White: V9941014
+    Black: V9941003
+  3:
+    White: V9841001
+    Black: V9941057
+  4:
+    White: V9941005
+    Black: V9941073
+  5:
+    White: V9941033
+    Black: 9622299
+  6:
+    White: V9941059
+    Black: V9941023
+  7:
+    White: V9941060
+    Black: V9941015
+  8:
+    White: V9941007
+    Black: V9941016
+  9:
+    White: V9941062
+    Black: V9941036
+  10:
+    White: V9941022
+    Black: V9941032
+  11:
+    White: V9941026
+    Black: V9941013
+  12:
+    White: V9941027
+    Black: V9941012
+  13:
+    White: N9661749
+    Black: V9941068
+  14:
+    White: V9941069
+    Black: V9941046
+  15:
+    White: V9941045
+    Black: V9941043
+  16:
+    White: V9724004
+    Black: V9941031
+  17:
+    White: V9941047
+    Black: V9741030
+  18:
+    White: V9741066
+    Black: V9941025
+  19:
+    White: V9941067
+    Black: N9661754
+pairing: "A&C, B&D"
+round: 6
+text: /home/drbean/class/conversation/intercultural/cards.yaml
+week: 11
