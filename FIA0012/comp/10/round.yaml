@@ -1,6 +1,6 @@
 ---
 activity:
-  ingredients:
+  flicker:
     0:
       - 0
       - 1
@@ -23,74 +23,79 @@ activity:
       - 18
       - 19
       - 20
+      - 21
+      - 22
 group:
   0:
-    White: U9834006
-    Black: U9834029
+    White: U9934047
+    Black: U9934024
   1:
-    White: U9834038
-    Black: U9834025
+    White: U9934026
+    Black: U9934029
   2:
-    White: U9834034
-    Black: U9834041
+    White: U9934032
+    Black: U9934013
   3:
-    White: U9834028
-    Black: U9834020
+    White: U9934046
+    Black: U9934004
   4:
-    White: U9834009
-    Black: U9834031
+    White: T9833026
+    Black: U9934043
   5:
-    White: U9834033
-    Black: U9834050
+    White: U9934010
+    Black: U9934028
   6:
-    White: U9834051
-    Black: U9834024
+    White: T9833024
+    Black: U9934012
   7:
-    White: U9834027
-    Black: U9834010
+    White: U9934016
+    Black: U9816024
   8:
-    White: U9834014
-    Black: U9834057
+    White: U9934001
+    Black: U9913132
   9:
-    White: U9834042
-    Black: U9834004
+    White: U9934030
+    Black: U9934051
   10:
-    White: U9834007
-    Black: U9834012
+    White: U9934006
+    Black: U9934031
   11:
-    White: U9834002
-    Black: U9834016
+    White: U9934045
+    Black: U9934038
   12:
-    White: U9834040
-    Black: U9834047
+    White: U9934003
+    Black: U9934027
   13:
-    White: U9834036
-    Black: U9834021
+    White: U9934036
+    Black: U9934005
   14:
-    White: U9834001
-    Black: U9634018
+    White: U9934019
+    Black: U9934021
   15:
-    White: U9834037
-    Black: U9834046
+    White: U9934020
+    Black: U9934022
   16:
-    White: U9834039
-    Black: U9834052
+    White: U9934033
+    Black: U9934050
   17:
-    White: U9834019
-    Black: U9834032
+    White: U9934017
+    Black: U9934011
   18:
-    White: U9834049
-    Black: U9834017
+    White: U9934002
+    Black: U9934015
   19:
-    White: U9834015
-    Black: U9833004
+    White: T9833008
+    Black: U9934007
   20:
-    White: U9834026
-    Black: U9834011
-bye: U9834013
-late:
-  - ~
-pairing: swiss (changed)
+    White: U9934025
+    Black: U9934037
+  21:
+    White: U9934039
+    Black: U9934040
+  22:
+    White: U9934009
+    Black: U9933147
+pairing: swiss
 round: 10
-text: ../../class/business/newbusiness/cards.yaml
-week: 15
+text: /home/drbean/class/business/companies/cards.yaml
+week: 12
