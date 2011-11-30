@@ -6,7 +6,6 @@ activity:
       - 1
       - 2
       - 3
-      - 4
       - 5
       - 6
       - 7
@@ -33,9 +32,6 @@ group:
   3:
     White: U9933011
     Black: U9933108
-  4:
-    White: U9933011
-    Black: U9933006
   5:
     White: U9933010
     Black: U9933006
@@ -75,9 +71,7 @@ group:
   17:
     White: U9933107
     Black: U9933022
-late:
-  - ~
-pairing: swiss
+pairing: swiss adjusted (dupe out)
 round: 10
-text: ~
-week: ~
+text: /home/drbean/class/business/companies/cards.yaml
+week: 12
