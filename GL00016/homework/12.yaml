@@ -1,123 +1,59 @@
 ---
 cutpoints:
-  one: 50
-  two: 220
-exercise: spirits
+  one: 20
+  two: 85
+exercise: mestas
 grade:
-  9616201: 2
-  T9811101: 1
-  T9811111: 1
-  T9811142: 2
-  T9813003: 0
-  T9813004: 2
-  T9813009: 0
-  T9813014: 2
-  T9821014: 1
-  T9821033: 2
-  T9821036: 2
-  T9821043: 2
-  T9831047: 2
-  U9621094: 2
-  U9718016: 1
-  U9718022: 0
-  U9718033: 2
-  U9718036: 2
-  U9718042: 2
-  U9742052: 2
-  U9743024: 1
-  U9811010: 0
-  U9811127: 2
-  U9811142: 1
-  U9811144: 2
-  U9811149: 2
-  U9822002: 0
-  U9843004: 2
-  U9843023: 2
+  T9821018: 1
+  T9833004: 2
+  T9833033: 2
+  U9822150: 2
+  U9922143: 0
+  U9934002: 2
+  U9934003: 2
+  U9934021: 2
+  U9934025: 2
+  U9934051: 0
+  V9731059: 2
 points:
-  9616201:
-    letters: 253
-    questions: 1
-  T9811101:
-    letters: 128
-    questions: 0
-  T9811111:
-    letters: 198
-    questions: 0
-  T9811142:
+  T9821018:
+    letters: 457
+    percent: 54
+  T9833004:
+    S: 0
+    Yn: 0
+    letters: 844
+    percent: 100
+  T9833033:
+    letters: 772
+    percent: 91
+  U9822150:
+    S: 0
+    Yn: 0
+    letters: 844
+    percent: 100
+  U9922143:
     letters: 0
-    questions: 1
-  T9813003:
+    percent: 0
+  U9934002:
+    letters: 844
+    percent: 100
+  U9934003:
+    S: 0
+    Yn: 0
+    letters: 844
+    percent: 100
+  U9934021:
+    letters: 839
+    percent: 99
+  U9934025:
+    letters: 844
+    percent: 100
+  U9934051:
     letters: 0
-    questions: 0
-  T9813004:
-    letters: 0
-    questions: 1
-  T9813009:
-    letters: 0
-    questions: 0
-  T9813014:
-    letters: 0
-    questions: 1
-  T9821014:
-    letters: 198
-    questions: 0
-  T9821033:
-    letters: 0
-    questions: 1
-  T9821036:
-    letters: 253
-    questions: 0
-  T9821043:
-    letters: 0
-    questions: 1
-  T9831047:
-    letters: 0
-    questions: 1
-  U9621094:
-    letters: 189
-    questions: 1
-  U9718016:
-    letters: 123
-    questions: 0
-  U9718022:
-    letters: 0
-    questions: 0
-  U9718033:
-    letters: 237
-    questions: 0
-  U9718036:
-    letters: 0
-    questions: 1
-  U9718042:
-    letters: 264
-    questions: 0
-  U9742052:
-    letters: 0
-    questions: 1
-  U9743024:
-    letters: 198
-    questions: 0
-  U9811010:
-    letters: 0
-    questions: 0
-  U9811127:
-    letters: 0
-    questions: 1
-  U9811142:
-    letters: 111
-    questions: 0
-  U9811144:
-    letters: 264
-    questions: 0
-  U9811149:
-    letters: 237
-    questions: 0
-  U9822002:
-    letters: 0
-    questions: 0
-  U9843004:
-    letters: 253
-    questions: 0
-  U9843023:
-    letters: 237
-    questions: 0
+    percent: 0
+  V9731059:
+    S: 0
+    Yn: 0
+    letters: 844
+    percent: 100
