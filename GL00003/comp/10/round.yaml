@@ -1,51 +1,79 @@
 ---
 activity:
-  undertaker:
-    1:
-      - 4
-      - 3
-      - 1
-  oakland:
+  fernandez:
     0:
-      - 6
-      - 5
-      - 4
-      - 3
-      - 2
       - 0
-  spirits:
-    0:
-      - 6
+      - 1
+      - 2
+      - 3
+      - 4
       - 5
-      - 2
-  wardead:
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+  nguyen:
     0:
+      - 0
+      - 1
       - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+  mestas:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
 group:
   0:
-    White: U9715014
-    Black: U9922235
+    White: U9713020
+    Black: U0013147
   1:
-    White: U9831049
-    Black: U9813024
+    White: U9915004
+    Black: U9631020
   2:
-    White: U9711052
-    Black: V9741065
+    White: U9723020
+    Black: V9741029
   3:
-    White: U9711025
-    Black: U9931143
+    White: V9741030
+    Black: U9713044
   4:
-    White: T9831040
-    Black: U9623038
+    White: U9711132
+    Black: U9718012
   5:
-    White: U9823011
-    Black: U9723056
+    White: T9833016
+    Black: U9711120
   6:
-    White: U9916029
-    Black: T9811035
-late:
-  - ~
+    White: V9741038
+    Black: T9833025
+  7:
+    White: V9741057
+    Black: U9922232
+  8:
+    White: U9922318
+    Black: V9741010
+  9:
+    White: V9741059
+    Black: U9711105
+  10:
+    White: U0021016
+    Black: V9741060
 pairing: swiss
 round: 10
-text: ../../class/conversation/dying/cards.yaml
-week: 14
+text: /home/drbean/class/conversation/intercultural/cards.yaml
+week: 13
