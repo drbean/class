@@ -1,7 +1,7 @@
 ---
 activity:
-  nicholson:
-    stealing:
+  dictation:
+    0:
       - 0
       - 1
       - 2
@@ -21,69 +21,73 @@ activity:
       - 16
       - 17
       - 18
-bye: T9831030
+      - 19
+      - 20
 group:
   0:
-    White: U9831049
-    Black: U9831002
+    White: U9931032
+    Black: U9931042
   1:
-    White: U9831106
-    Black: U9831012
+    White: U9931145
+    Black: U9931138
   2:
-    White: U9831140
-    Black: T9831015
+    White: U9931037
+    Black: U9931014
   3:
-    White: U9831046
-    Black: U9831007
+    White: U9931043
+    Black: U9931101
   4:
-    White: U9831138
-    Black: U9831109
+    White: U9931105
+    Black: U9931130
   5:
-    White: U9831112
-    Black: U9831116
+    White: U9931111
+    Black: U9931129
   6:
-    White: U9831044
-    Black: U9831035
+    White: U9931034
+    Black: U9931007
   7:
-    White: T9831023
-    Black: U9831024
+    White: U9931026
+    Black: U9931004
   8:
-    White: U9831016
-    Black: U9831127
+    White: U9931029
+    Black: U9931149
   9:
-    White: T9831003
-    Black: U9831040
+    White: U9931028
+    Black: U9931025
   10:
-    White: U9831130
-    Black: U9831135
+    White: U9931146
+    Black: U9931041
   11:
-    White: U9742047
-    Black: U9831147
+    White: U9931039
+    Black: U9931001
   12:
-    White: U9831143
-    Black: U9831132
+    White: U9931127
+    Black: U9931015
   13:
-    White: U9831144
-    Black: U9831028
+    White: U9931125
+    Black: U9931003
   14:
-    White: U9831005
-    Black: U9831131
+    White: U9931140
+    Black: U9931134
   15:
-    White: U9831018
-    Black: U9831114
+    White: U9931102
+    Black: U9931017
   16:
-    White: U9831122
-    Black: U9831102
+    White: U9931002
+    Black: U9931109
   17:
-    White: U9734040
-    Black: T9831018
+    White: U9931103
+    Black: U9931143
   18:
-    White: U9831021
-    Black: U9831108
-late:
-  - U9831130
-  - U9831135
-pairing: swiss
+    White: U9931006
+    Black: U9931022
+  19:
+    White: U9931139
+    Black: U9931142
+  20:
+    White: U9931133
+    Black: U9931012
+pairing: swiss (BMA0031-1 round 2)
 round: 8
-text: ../../class/business/managing/cards.yaml
+text: /home/drbean/class/business/companies/cards.yaml
 week: 13
