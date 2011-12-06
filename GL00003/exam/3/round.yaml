@@ -1,45 +1,57 @@
 ---
 round: Exam 3
-week: 14
+week: 13
 questions:
   - 10
-pass: 6
+pass: 5
 assistant:
-  - Li
-  - KuanChia
+  - Chris
+  - Ivy
 absent:
-text: /home/drbean/class/conversation/dying/cards.yaml
+  - Alan
+  - Hudi
+text: /home/drbean/class/conversation/intercultural/cards.yaml
 activity:
-  undertaker:
-    1:
-      - White
-  oakland:
-    0:
-      - Pink
-  spirits:
-    0:
-      - Gray
-  wardead:
+  fernandez:
     0:
       - Black
+      - Orange
+  nguyen:
+    0:
+      - Gray
+      - Green
+  mestas:
+    0:
+      - Blue
+      - Purple
 group:
   Black:
-    - Judy
-    - YiPei
-    - Chung-Po
-    - Li
+    - Vic
+    - Nick
+    - Vikin
+    - James
+  Blue:
+    - Ivy
+    - Wen-hsin
+    - Hazel
+    - Nina
   Gray:
-    - YiKuan
-    - KuanChia
-    - Amy
-    - SongWei
-  Pink:
-    - Simon
-    - DrLee
-    - KuanChia
-    - Frances
-  White:
-    - YuiSung
-    - Dai-shian
-    - Andrew
-    - Li
+    - Chris
+    - Jerry
+    - Kumiko
+    - Lin
+  Green:
+    - Sam
+    - Chris
+    - GuoLun
+    - Kathy
+  Orange:
+    - WanLin
+    - Candy
+    - Kai
+    - Andy
+  Purple:
+    - Jusky
+    - Donna
+    - Mark
+    - Ivy
