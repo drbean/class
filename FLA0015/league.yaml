@@ -12,6 +12,7 @@ id: 001FLA0015
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+
   - Chinese: 劉茹芬
     id: N9661749
     name: Chelsea
@@ -56,16 +57,6 @@ member:
     id: V9841025
     name: Sandy
     password: qiong
-    rating: ~
-  - Chinese: 李家安
-    id: V9841042
-    name: Joanna
-    password: jia
-    rating: ~
-  - Chinese: 湯浩軍
-    id: V9841063
-    name: Tea
-    password: hao
     rating: ~
   - Chinese: 吳仰婷
     id: V9941001
@@ -187,20 +178,10 @@ member:
     name: Claire
     password: yi
     rating: ~
-  - Chinese: 涂孟玉
-    id: V9941041
-    name: Debby
-    password: meng
-    rating: ~
   - Chinese: 賴淑君
     id: V9941043
     name: Shu-Jun
     password: shu
-    rating: ~
-  - Chinese: 林依妮
-    id: V9941044
-    name: Yi-ni
-    password: yi
     rating: ~
   - Chinese: 黃宇襄
     id: V9941045
@@ -278,25 +259,45 @@ member:
     password: meng
     rating: ~
 out:
-  - Chinese: 林忠廣
-    id: V9941020
-    name: Zhong-guang
-    password: zhong
+  - Chinese: 李家安
+    id: V9841042
+    name: Joanna
+    password: jia
+    rating: ~
+  - Chinese: 涂孟玉
+    id: V9941041
+    name: Debby
+    password: meng
+    rating: ~
+  - Chinese: 湯浩軍
+    id: V9841063
+    name: Tea
+    password: hao
+    rating: ~
+  - Chinese: 林依妮
+    id: V9941044
+    name: Yi-ni
+    password: yi
     rating: ~
   - Chinese: 林柏如
     id: V9941075
     name: Brenda
     password: bo
     rating: ~
-  - Chinese: 鄭合真
-    id: V9941064
-    name: Albert
-    password: he
-    rating: ~
   - Chinese: 黎彥廷
     id: V9916050
     name: Yan-Ting
     password: yan
+    rating: ~
+  - Chinese: 林忠廣
+    id: V9941020
+    name: Zhong-guang
+    password: zhong
+    rating: ~
+  - Chinese: 鄭合真
+    id: V9941064
+    name: Albert
+    password: he
     rating: ~
   - Chinese: 彭明俊
     id: V9841016
