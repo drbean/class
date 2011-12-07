@@ -5,6 +5,7 @@ questions:
   - 10
 pass: 4
 assistant:
+  - Nancy
   - Claire
   - Yi-ni
   - Sandy
@@ -26,7 +27,7 @@ activity:
       - BlueBlue
       - Pink
       - WhiteWhite
-
+      - Edison
   nguyen:
     0:
       - Black
@@ -106,3 +107,8 @@ group:
     - David
     - Travis
     - Mary
+  Edison:
+    - Edison
+    - Nancy
+    - Rachel
+    - Frances

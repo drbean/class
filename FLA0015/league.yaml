@@ -12,7 +12,6 @@ id: 001FLA0015
 jigsaw: exam
 league: 夜應外大學二甲
 member:
-
   - Chinese: 劉茹芬
     id: N9661749
     name: Chelsea
@@ -259,21 +258,17 @@ member:
     password: meng
     rating: ~
 out:
-  - Chinese: 李家安
-    id: V9841042
-    name: Joanna
-    password: jia
-    rating: ~
-  - Chinese: 涂孟玉
-    id: V9941041
-    name: Debby
-    password: meng
-    rating: ~
-  - Chinese: 湯浩軍
-    id: V9841063
-    name: Tea
-    password: hao
-    rating: ~
+  - Chinese: 林幸嬿
+    id: V9741040
+    name: Rachel
+    password: xing
+    rating: 87
+  - Chinese: 羅曼
+    id: V9741065
+    name: Frances
+    password: man
+    rating: 84
+
   - Chinese: 林依妮
     id: V9941044
     name: Yi-ni
@@ -288,6 +283,22 @@ out:
     id: V9916050
     name: Yan-Ting
     password: yan
+    rating: ~
+
+  - Chinese: 李家安
+    id: V9841042
+    name: Joanna
+    password: jia
+    rating: ~
+  - Chinese: 涂孟玉
+    id: V9941041
+    name: Debby
+    password: meng
+    rating: ~
+  - Chinese: 湯浩軍
+    id: V9841063
+    name: Tea
+    password: hao
     rating: ~
   - Chinese: 林忠廣
     id: V9941020
