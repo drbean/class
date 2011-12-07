@@ -1,112 +1,108 @@
 ---
-round: Exam 2
-week: 9
+round: Exam 3
+week: 13
 questions:
   - 10
-pass: 6
+pass: 4
 assistant:
-  - Fifi
-  - Rose
-  - Patty
-  - Kori
-  - Wei-Yi
-  - Leo
-  - Sue
-  - Ricky
-  - Yorick
+  - Claire
+  - Yi-ni
+  - Sandy
+  - Tzu-Ching
 absent:
-  - Ivan
-  - Joanna
-  - Amber
-  - Miranda
-  - Shiau-ching
-  - Dan
-  - Jason
-  - Dennis
-text: /home/drbean/class/conversation/WorkFood/cards.yaml
+  - Edison
+  - Robert
+  - Mita
+  - Jielun
+  - Tea
+  - Ben
+  - Zhong-guang
+  - Albert
+text: /home/drbean/class/conversation/intercultural/cards.yaml
 activity:
-  cronig:
-    1:
-      - Black
-      - BlackBlack
-      - Purple
-  lerman:
-    1:
-      - Gray
-      - Pink
-      - White
-      - Yellow
-  tyson:
+  fernandez:
     0:
       - Blue
-      - Brown
-      - Green
-      - Orange
-      - Red
+      - BlueBlue
+      - Pink
       - WhiteWhite
+
+  nguyen:
+    0:
+      - Black
+      - Gray
+      - Red
+
+  mestas:
+    0:
+      - BlackBlack
+      - Brown
+      - Purple
+      - Yellow
+
 group:
   Black:
-    - Fifi
-    - Christian
-    - Winny
-    - Luke
+    - Yi-ni
+    - Jibson
+    - YaTing2
+    - Chun-Ying
   BlackBlack:
-    - Rose
-    - Patty
-    - Joan
-    - Yu-Ching
+    - YaTing1
+    - Robert
+    - Zi-Qian
+    - Chun-Hua
   Blue:
-    - Kitty
-    - Winne
-    - Abby
-    - Lace
+    - Zhi-Wei
+    - Tony
+    - Cai-ling
+    - WenJun
+  BlueBlue:
+    - Sophia2
+    - Tzu-Ching
+    - MengShiung
+    - Jill
   Brown:
-    - Eva
-    - Patty
-    - Carina
-    - Rose
+    - Innocent
+    - Tzu-Ching
+    - QianHui
+    - Sophia1
   Gray:
-    - Annie
-    - Kori
-    - Anne
-    - Fifi
-  Green:
-    - Kori
-    - Yi-Ru
-    - Wei-Yi
-    - Joy
-  Orange:
-    - Ricky
-    - Yu-Lun
-    - Hank
-    - Wei-Yi
+    - Donna
+    - Pei-Yun
+    - Shu-Jun
+    - LiJuan
+#  Green:
+#    - Chelsea
+#    - Yong-Shun
+#    - Yan-Yun
+#    - Zhen-Dai
+#  Orange:
+#    - Leon
+#    - Joe
+#    - Henry
+#    - Sharon
   Pink:
-    - Tea
-    - Bass
-    - Hannah
-    - Rachel
+    - Hsin-Cih
+    - Sandy
+    - Nancy
+    - Adam
   Purple:
-    - Ricky
-    - Katty
-    - Sue
-    - Debbie
+    - Claire
+    - Wan-Ru
+    - Ivy
+    - XiangYi
   Red:
-    - Leo
-    - Yorick
-    - Jessica
-    - Frances
-  White:
-    - Yorick
-    - Sana
-    - Jeffrey
-    - Leo
+    - Julia
+    - Yang-ting
+    - Redd
+    - Wan-Ling
   WhiteWhite:
-    - Sue
-    - Stanley
-    - Shaq
-    - Laura
+    - Brenda
+    - Yan-Ting
+    - Yi-ni
+    - Sandy
   Yellow:
-    - Cathy
-    - Lisa
-    - Ming
-    - Julie
+    - Vicki
+    - David
+    - Travis
+    - Mary
