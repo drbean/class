@@ -5,6 +5,7 @@ Chinese:
   Blue: 0
   BlueBlue: 0
   Brown: 0
+  Edison: 0
   Gray: 0
   Pink: 0
   Purple: 0
@@ -42,6 +43,12 @@ letters:
     V9941073: 5
     V9941059: 5
     story: mestas0
+  Edison:
+    9622299: 9
+    V9724004: 9
+    V9741040: 9
+    V9741065: 9
+    story: fernandez0
   Gray:
     V9741030: 7
     V9941069: 7
