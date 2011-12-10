@@ -23,11 +23,6 @@ member:
     name: Amber
     password: fang
     rating: 57
-  - Chinese: 林佩瑄
-    id: N9561735
-    name: Ingar
-    password: pei
-    rating: 60
   - Chinese: 張馨方
     id: V9841071
     name: XinFang
@@ -286,6 +281,11 @@ member:
     password: guo
     rating: ~
 out:
+  - Chinese: 林佩瑄
+    id: N9561735
+    name: Ingar
+    password: pei
+    rating: 60
   - Chinese: 潘彥安
     id: V9841004
     name: Dan
