@@ -1,64 +1,40 @@
 ---
 round: Exam 3
-week: 14
+week: 13
 questions:
   - 10
-pass: 6
+pass: 5
 assistant:
-  - Shirley
+  - Julie
+  - Roy
+  - Kenni
 absent:
-  - Colin
-  - Wesley
-text: /home/drbean/class/conversation/dying/cards.yaml
+  - Vicky
+  - Si-Yu
+text: /home/drbean/class/conversation/intercultural/cards.yaml
 activity:
-  undertaker:
-    1:
-      - Purple
-      - Yellow
-  oakland:
+  fernandez:
     0:
       - Black
-      - Pink
-  spirits:
+  nguyen:
     0:
-      - White
-  wardead:
+      - Pink
+  mestas:
     0:
       - Gray
-      - Green
 group:
   Black:
-    - Danial
-    - Ruru
-    - Butler
-    - Kate
+    - Roy
+    - Julie
+    - Kenni
+    - Daisy
   Gray:
-    - Gina1
-    - Jeff
-    - Finna
-    - Vicky
-  Green:
-    - Lin
-    - Sui
-    - Scott
-    - Jason1
+    - Julie
+    - Roy
+    - Emily
+    - Kenni
   Pink:
-    - Amber
-    - Jack
-    - Janet
-    - Liu
-  Purple:
     - Vivi
-    - Jerry
-    - Edwin
-    - Shirley
-  White:
-    - John
-    - Terry1
-    - Rita
-    - JinYi
-  Yellow:
-    - Shirley
-    - Howard
-    - Richard
-    - Julia
+    - Dalai
+    - Annie
+    - Daniel
