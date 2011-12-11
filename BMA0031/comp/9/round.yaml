@@ -1,8 +1,7 @@
 ---
 activity:
-  story:
+  ikval:
     0:
-      - 0
       - 1
       - 2
       - 3
@@ -22,81 +21,68 @@ activity:
       - 17
       - 18
       - 19
-      - 20
-      - 21
-# bye: U9831124
+bye: U9931105
 group:
-  0:
-    White: U9831046
-    Black: U9831143
   1:
-    White: U9831114
-    Black: U9831112
+    White: U9931129
+    Black: U9931101
   2:
-    White: T9831015
-    Black: U9831049
+    White: U9931034
+    Black: U9931145
   3:
-    White: U9831012
-    Black: T9831003
+    White: U9931138
+    Black: U9931002
   4:
-    White: U9831035
-    Black: U9831140
+    White: U9931017
+    Black: U9931032
   5:
-    White: U9831024
-    Black: U9831106
+    White: U9931042
+    Black: U9931139
   6:
-    White: U9831127
-    Black: U9831138
+    White: U9931127
+    Black: U9931111
   7:
-    White: U9831040
-    Black: T9831023
+    White: U9931007
+    Black: U9931140
   8:
-    White: U9831131
-    Black: U9742047
+    White: U9931149
+    Black: U9931146
   9:
-    White: U9831147
-    Black: U9734040
+    White: U9931103
+    Black: U9931026
   10:
-    White: U9831002
-    Black: U9831016
+    White: U9931015
+    Black: U9931125
   11:
-    White: U9831109
-    Black: U9831044
+    White: U9931142
+    Black: U9931028
   12:
-    White: U9831028
-    Black: U9831005
+    White: U9931025
+    Black: U9931043
   13:
-    White: U9831135
-    Black: U9831021
+    White: U9931130
+    Black: U9931039
   14:
-    White: U9831102
-    Black: U9831130
+    White: U9931109
+    Black: U9931037
   15:
-    White: T9831018
-    Black: U9831144
+    White: U9931014
+    Black: U9931004
   16:
-    White: U9831108
-    Black: U9831116
+    White: U9931003
+    Black: U9931133
   17:
-    White: U9831007
-    Black: U9831018
+    White: U9931143
+    Black: U9931102
   18:
-    White: U9831043
-    Black: U9831122
+    White: U9931041
+    Black: U9931006
   19:
-    White: U9831039
-    Black: U9831110
-  20:
-    White: U9831124
-    Black: U9831128
-  21:
-    White: U9831132
-    Black: T9831030
+    White: U9931012
+    Black: U9931029
 late:
-  - U9831128
-  - U9831132
-  - T9831030
-pairing: swiss (changed)
-round: 2
-text: ../../class/business/conflict/cards.yaml
-week: 14
+  - ~
+pairing: swiss
+round: 9
+text: ~
+week: ~
