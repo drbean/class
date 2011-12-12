@@ -2,87 +2,89 @@
 round: Exam 3
 week: 13
 questions:
-  - 9
-pass: 3
-assistant:
-absent:
-  - Nick
-  - T-Play
-  - Wei-Cei
-text: /home/drbean/class/business/PlanningManagingConflict/cards.yaml
+  - 4
+pass: 2
+assistant: 
+  - Robert
+  - Nora
+  - Merlin
+  - Linda
+absent: 
+  - Flora
+  - Lulu
+  - Irene
+  - Willie
+text: /home/drbean/class/business/companies/cards.yaml
 activity:
-  story:
-    2:
-      - Black
-      - Purple
-    3:
-      - Orange
-      - Pink
-  kendall:
-    2:
-      - Blue
-      - Red
-    3:
-      - Green
-      - White
-      - Yellow
-  nicholson:
-    0:
+  fourswot:
+    00:
       - Brown
+      - Orange
+    01:
+      - Blue
+      - Purple
+      - White
+    02:
       - Gray
+      - Pink
+      - Red
+    03:
+      - Black
+      - Green
+      - Yellow
 group:
   Black:
-    - Candy
-    - Yi-Tang
     - Jenny
-    - WanHan
+    - Jim
+    - Lisa
+    - Cathy
   Blue:
-    - Wang
-    - Grace
-    - Yi-xun
-    - Li
+    - Erin
+    - Rita
+    - Anting
+    - Sheryl
   Brown:
-    - Elaine
-    - Kuan-Li
-    - Aaron
-    - Amy
+    - Sandy1
+    - Angeline
+    - Kelly
+    - Jane
   Gray:
-    - Jerry1
-    - Zack
-    - May
-    - Alice
+    - Cindy
+    - Alice1
+    - Nina
+    - Kimberly
   Green:
-    - Stanley
-    - Zih-sheng
-    - Sandy
-    - Wan-ling
-  Orange:
-    - Jessie
-    - ChiaoLing
-    - Tina
-    - Betty
-  Pink:
-    - Wayne
-    - Gwan-Chi
-    - Sofie
-    - Dennis
-  Purple:
-    - Reicho
-    - Jenay
-    - Sharon
-    - Laura
-  Red:
-    - Wei-jhih
-    - Patrick
+    - Mandy
+    - Nora
+    - Kathy
     - Helen
-    - Chiahao
+  Orange:
+    - Flora
+    - Laura
+    - Amy1
+    - Zara
+  Pink:
+    - Robert
+    - Linda
+    - Tina
+    - Jojo
+  Purple:
+    - Will
+    - Lulu
+    - YiChun
+    - Merlin
+  Red:
+    - Janet
+    - Angel
+    - Jason
+    - Peilin
   White:
-    - Bu-Dien
-    - Dian
-    - Pei-ci
-    - Judy
+    - Len
+    - Irene
+    - Kevin2
+    - Amy4
   Yellow:
-    - Jerry2
-    - Tiffany
-    - Michelle
-    - Jheng-Syun
+    - Willie
+    - Sandy2
+    - Karen
+    - Amy3
