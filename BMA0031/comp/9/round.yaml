@@ -1,7 +1,8 @@
 ---
 activity:
-  ikval:
+  ikea:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -21,10 +22,78 @@ activity:
       - 17
       - 18
       - 19
-bye: U9931105
+  ikval:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+  dictation:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+  flicker:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
 group:
+  0:
+    White: U9931105
+    Black: U9931134
   1:
-    White: U9931129
+    White: U9931110
     Black: U9931101
   2:
     White: U9931034
@@ -81,8 +150,9 @@ group:
     White: U9931012
     Black: U9931029
 late:
-  - ~
-pairing: swiss
+  - U9931110
+  - U9931134
+pairing: swiss adjusted
 round: 9
-text: ~
-week: ~
+text: /home/drbean/class/business/companies/cards.yaml
+week: 14
