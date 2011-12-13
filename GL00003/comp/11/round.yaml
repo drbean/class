@@ -14,39 +14,39 @@ activity:
       - 9
 group:
   0:
-    White: V9741009
-    Black: U9723020
-  1:
-    White: V9741029
-    Black: U9631020
-  2:
-    White: U9713044
-    Black: U9711120
-  3:
-    White: U9915004
-    Black: V9741030
-  4:
     White: U9922232
-    Black: T9833016
-  5:
-    White: U9711105
     Black: T9833025
+  1:
+    White: U9631020
+    Black: U9711105
+  2:
+    White: U9711120
+    Black: T9833016
+  3:
+    White: U9723020
+    Black: U9713044
+  4:
+    White: U9922318
+    Black: V9741009
+  5:
+    White: V9741030
+    Black: U9718012
   6:
-    White: V9741010
-    Black: V9741057
+    White: U9711132
+    Black: V9741029
   7:
-    White: U0021016
-    Black: U9711132
+    White: V9741010
+    Black: U9915004
   8:
-    White: U9718012
-    Black: U9922318
+    White: U0021016
+    Black: V9741057
   9:
      White: U0013147
      Black: V9741038
 late:
   - U0013147
   - V9741038
-pairing: swiss adjusted
+pairing: swiss (Round 1 in GL00003-1)
 round: 11
 text: /home/drbean/class/conversation/work/cards.yaml
 week: 14
