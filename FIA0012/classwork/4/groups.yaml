@@ -1,56 +1,66 @@
 ---
 Black:
-  - Keano
-  - Sherry1
+  - Jack1
   - Jerry
-  - Linda1
+  - Julie
+  - Bob
 BlackBlack:
-  - Ezra
-  - Maggie
-  - Jeren
-  - Emma
+  - Sam1
+  - Orton
+  - Johnson
+  - Emily
 Blue:
-  - Peace
-  - Dennis
-  - Joy
-  - Frank
+  - Jay2
+  - Evan
+  - Betty1
+  - Reese
 Brown:
-  - Brian
-  - Danny
-  - Linda2
-  - Jean
+  - Jeff
+  - Carol
+  - Carrie
+  - Doris
 Gray:
-  - Trisha
-  - Rebecca
+  - Sherry
+  - Shirley
+  - Kate
   - Abby
-  - Nancy
 Green:
-  - Hannah
-  - Tommy
-  - Ann
-  - Cammy
-Orange:
-  - Lious
-  - Debbie
+  - Jack2
+  - Cindy
+  - Jennifer
   - Jill
-  - Irene
+Orange:
+  - Jay1
+  - Andy
+  - Maggie
+  - Paul
 Pink:
-  - Jenny
-  - Kelly
-  - Ray
-  - Lisa
+  - Justin
+  - Bill
+  - Larry
+  - Robin
 Purple:
-  - Annie
-  - Jack
-  - Ashly
-  - Ivy
+  - Lion
+  - Dalai
+  - Celia
+  - Daisy
 Red:
-  - Cathy
-  - Sherry2
-  - Penny
-  - Hardy
+  - Lilith
+  - Amy2
+  - Annie
+  - Kelly
 White:
-  - Tina
-  - Alex
-  - Vicky
-  - Amy
+  - Betty2
+  - Amy1
+  - Sam2
+  - Diana
+Yellow:
+  - Jason
+  - Joe
+  - ~
+  - Tommy
+YellowYellow:
+  - Harry
+  - Lynn
+  - ~
+  - Ting
