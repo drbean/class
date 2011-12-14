@@ -11,70 +11,84 @@ Chinese:
   Purple: 0
   Red: 0
   White: 0
+  Yellow: 0
+  YellowYellow: 0
 letters:
   Black:
-    U9834025: 10
-    U9834009: 8
-    U9834012: 9
-    U9834049: 8
-    story: nicholson0
+    U9934013: 3
+    U9934006: 4
+    T9833008: 0
+    U9934015: 4
+    story: fourswot00
   BlackBlack:
-    U9834021: 5
-    U9834040: 4
-    U9834028: 6
-    U9834013: 4
-    story: story3
+    U9934047: 4
+    U9934021: 4
+    U9934028: 4
+    U9933147: 4
+    story: fourswot03
   Blue:
-    U9834036: 9
-    U9834019: 8
-    U9834038: 10
-    U9834032: 8
-    story: nicholson0
+    U9934048: 1
+    U9934036: 1
+    U9913132: 2
+    U9934039: 2
+    story: fourswot01
   Brown:
-    U9834036: 5
-    U9834017: 5
-    U9834026: 6
-    U9834051: 9
-    story: kendall3
+    U9934046: 0
+    U9934022: 0
+    U9934051: 0
+    U9934039: 0
+    story: fourswot02
   Gray:
-    U9834001: 10
-    U9834042: 5
-    U9834005: 7
-    U9834037: 6
-    story: kendall2
+    U9816024: 3
+    U9934031: 2
+    U9934044: 2
+    U9934050: 2
+    story: fourswot00
   Green:
-    U9834039: 8
-    U9834041: 4
-    U9834031: 6
-    U9834010: 7
-    story: story2
+    U9934004: 2
+    U9934012: 2
+    U9934037: 2
+    U9934009: 2
+    story: fourswot01
   Orange:
-    U9834033: 8
-    U9834027: 9
-    U9834037: 8
-    U9834006: 8
-    story: nicholson0
+    U9934024: 0
+    U9934027: 0
+    U9934043: 0
+    U9934033: 0
+    story: fourswot02
   Pink:
-    U9834016: 6
-    U9834014: 8
-    U9834047: 7
-    U9834015: 8
-    story: kendall3
+    U9934030: 2
+    U9934016: 2
+    U9934031: 2
+    U9934017: 2
+    story: fourswot03
   Purple:
-    U9834011: 7
-    U9834004: 8
-    U9834050: 5
-    U9834034: 7
-    story: kendall2
+    U9934029: 2
+    U9934019: 2
+    U9934020: 2
+    U9934003: 2
+    story: fourswot00
   Red:
-    U9834002: 2
-    U9634018: 5
-    U9834020: 5
-    U9834029: 4
-    story: story2
+    U9934034: 2
+    U9934002: 2
+    U9934038: 2
+    U9934045: 2
+    story: fourswot01
   White:
-    U9834024: 5
-    U9834057: 4
-    U9834046: 4
-    U9833004: 3
-    story: story3
+    U9934010: 0
+    U9934001: 1
+    U9934005: 1
+    U9934025: 1
+    story: fourswot02
+  Yellow:
+    U9934027: 2
+    U9934032: 2
+    U9934039: 2
+    U9934007: 2
+    story: fourswot03
+  YellowYellow:
+    U9934026: 1
+    U9934023: 1
+    U9934038: 1
+    U9934040: 1
+    story: fourswot00

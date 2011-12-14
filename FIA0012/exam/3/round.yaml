@@ -2,88 +2,100 @@
 round: Exam 3
 week: 13
 questions:
-  - 9
-pass: 3
-assistant:
-  - Jill
-  - Danny
-absent:
-  - Hannah
-  - Jack
-text: /home/drbean/class/business/PlanningManagingConflict/cards.yaml
+  - 4
+pass: 2
+assistant: 
+  - Bob
+  - Carrie
+  - Joe
+  - Diana
+absent: 
+  - Andy
+  - Jay2
+  - Harry
+text: /home/drbean/class/business/companies/cards.yaml
 activity:
-  story:
-    2:
-      - Green
-      - Red
-    3:
-      - BlackBlack
-      - White
-  kendall:
-    2:
+  fourswot:
+    00:
+      - Black
       - Gray
       - Purple
-    3:
-      - Brown
-      - Pink
-  nicholson:
-    0:
-      - Black
+      - YellowYellow
+    01:
       - Blue
+      - Green
+      - Red
+    02:
+      - Brown
       - Orange
+      - White
+    03:
+      - BlackBlack
+      - Pink
+      - Yellow
 group:
   Black:
-    - Hardy
-    - Jean
-    - Sherry1
-    - Tommy
+    - Jack1
+    - Celia
+    - Sam2
+    - Paul
   BlackBlack:
+    - Jack2
+    - Daisy
     - Kelly
-    - Rebecca
-    - Ann
-    - Trisha
+    - Ting
   Blue:
-    - Jill
-    - Jenny
-    - Frank
-    - Jerry
+    - Jason
+    - Jennifer
+    - Cindy
+    - Bob
   Brown:
-    - Jill
-    - Ezra
-    - Brian
-    - Abby
+    - Jeff
+    - Evan
+    - Dalai
+    - Bob
   Gray:
-    - Jeren
-    - Amy
-    - Alex
-    - Danny
+    - Lilith
+    - Carrie
+    - Amy2
+    - Doris
   Green:
-    - Debbie
-    - Irene
-    - Emma
-    - Linda2
-  Orange:
-    - Dennis
-    - Vicky
-    - Danny
-    - Linda1
-  Pink:
-    - Penny
+    - Sherry
+    - Betty1
     - Maggie
-    - Ashly
-    - Sherry2
+    - Abby
+  Orange:
+    - Jay1
+    - Joe
+    - Carol
+    - Johnson
+  Pink:
+    - Shirley
+    - Orton
+    - Carrie
+    - Tommy
   Purple:
-    - Keano
-    - Joy
-    - Ivy
-    - Nancy
+    - Justin
+    - Lion
+    - Larry
+    - Emily
   Red:
-    - Peace
-    - Lious
-    - Lisa
-    - Cammy
+    - Betty2
+    - Julie
+    - Diana
+    - Reese
   White:
-    - Ray
-    - Tina
+    - Bill
+    - Amy1
+    - Kate
     - Annie
-    - Cathy
+  Yellow:
+    - Joe
+    - Jerry
+    - Bob
+    - Robin
+  YellowYellow:
+    - Sam1
+    - Lynn
+    - Diana
+    - Jill
