@@ -1,8 +1,7 @@
 ---
 activity:
-  ingredients:
+  cars:
     0:
-      - 0
       - 1
       - 2
       - 3
@@ -22,70 +21,76 @@ activity:
       - 17
       - 18
       - 19
+      - 20
+      - 21
+bye: U9931013
 group:
-  0:
-    White: U9831116
-    Black: U9831012
   1:
-    White: U9831122
-    Black: U9831024
+    White: U9931129
+    Black: U9931110
   2:
-    White: U9831143
-    Black: U9831127
+    White: U9931001
+    Black: U9931105
   3:
-    White: U9742047
-    Black: U9831007
+    White: U9931022
+    Black: U9931034
   4:
-    White: U9831144
-    Black: U9831131
+    White: U9931138
+    Black: U9931017
   5:
-    White: U9831018
-    Black: U9831028
+    White: U9931101
+    Black: U9931002
   6:
-    White: U9831021
-    Black: U9831035
+    White: U9931140
+    Black: U9931042
   7:
-    White: U9831049
-    Black: U9831112
+    White: U9931125
+    Black: U9931103
   8:
-    White: U9831140
-    Black: U9831109
+    White: U9931139
+    Black: U9931127
   9:
-    White: T9831003
-    Black: U9831147
+    White: U9931032
+    Black: U9931111
   10:
-    White: U9831016
-    Black: T9831015
+    White: U9931134
+    Black: U9931039
   11:
-    White: U9831138
-    Black: U9831102
+    White: U9931146
+    Black: U9931142
   12:
-    White: U9734040
-    Black: U9831040
+    White: U9931149
+    Black: U9931007
   13:
-    White: U9831044
-    Black: U9831002
+    White: U9931026
+    Black: U9931025
   14:
-    White: U9831106
-    Black: U9831108
+    White: U9931043
+    Black: U9931015
   15:
-    White: T9831023
-    Black: U9831114
+    White: U9931028
+    Black: U9931109
   16:
-    White: T9831018
-    Black: U9831046
+    White: U9931004
+    Black: U9931006
   17:
-    White: U9831130
-    Black: U9831039
+    White: U9931133
+    Black: U9931102
   18:
-    White: U9831110
-    Black: U9831043
+    White: U9931003
+    Black: U9931014
   19:
-    White: U9831006
-    Black: U9831124
+    White: U9931037
+    Black: U9931130
+  20:
+    White: U9931143
+    Black: U9931012
+  21:
+    White: U9931029
+    Black: U9931041
 late:
   - ~
 pairing: swiss
-round: 3 (was 10)
-text: ../../class/business/newbusiness/cards.yaml
-week: 15
+round: 10
+text: ~
+week: ~
