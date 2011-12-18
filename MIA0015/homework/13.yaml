@@ -1,211 +1,187 @@
 ---
 cutpoints:
-  one: 50
-  two: 230
-exercise: wilson
+  one: 20
+  two: 85
+exercise: valentino
 grade:
-  T9733022: 0
-  T9833004: 2
-  T9833006: 2
-  T9833009: 2
-  T9833013: 2
-  T9833025: 2
-  T9833027: 2
-  T9833028: 2
-  T9833030: 2
-  T9833032: 2
-  T9833035: 2
-  T9833037: 2
-  T9833039: 2
-  T9833043: 2
-  T9833045: 2
-  T9833046: 2
-  T9833050: 2
-  U9733013: 2
-  U9831107: 2
-  U9833001: 2
-  U9833002: 0
-  U9833003: 2
-  U9833005: 2
-  U9833007: 2
-  U9833009: 0
-  U9833011: 2
-  U9833014: 2
-  U9833015: 2
-  U9833019: 2
-  U9833020: 2
-  U9833022: 2
-  U9833023: 2
-  U9833024: 2
-  U9833025: 2
-  U9833026: 2
-  U9833030: 2
-  U9833031: 2
-  U9833034: 2
-  U9833035: 2
-  U9833038: 2
-  U9833039: 2
-  U9833040: 1
-  U9833041: 2
-  U9833043: 2
-  U9833044: 2
-  U9833045: 2
-  U9833047: 2
-  U9833048: 2
-  U9833049: 2
-  U9833050: 2
-  U9833052: 2
+  U9933001: 0
+  U9933003: 2
+  U9933005: 0
+  U9933006: 0
+  U9933008: 2
+  U9933010: 2
+  U9933011: 0
+  U9933017: 0
+  U9933020: 2
+  U9933022: 2
+  U9933023: 2
+  U9933024: 2
+  U9933025: 2
+  U9933026: 2
+  U9933027: 2
+  U9933029: 2
+  U9933030: 2
+  U9933031: 2
+  U9933033: 2
+  U9933037: 0
+  U9933038: 0
+  U9933039: 1
+  U9933041: 0
+  U9933043: 2
+  U9933044: 2
+  U9933045: 2
+  U9933107: 2
+  U9933108: 2
+  U9933109: 2
+  U9933112: 2
+  U9933116: 2
+  U9933126: 2
+  U9933136: 2
+  U9933138: 2
+  U9933139: 0
+  U9933143: 2
 points:
-  T9733022:
+  U9933001:
     letters: 0
+    percent: 0
     questions: 0
-  T9833004:
+  U9933003:
+    letters: 284
+    percent: 100
+    questions: 0
+  U9933005:
     letters: 0
-    questions: 1
-  T9833006:
-    letters: 247
-    questions: 0
-  T9833009:
-    letters: 269
-    questions: 0
-  T9833013:
+    percent: 0
+    questions: ~
+  U9933006:
     letters: 0
-    questions: 1
-  T9833025:
-    letters: 270
-    questions: 1
-  T9833027:
-    letters: 239
-    questions: 0
-  T9833028:
-    letters: 259
-    questions: 0
-  T9833030:
-    letters: 269
-    questions: 0
-  T9833032:
+    percent: 0
+    questions: ~
+  U9933008:
     letters: 0
+    percent: 0
     questions: 1
-  T9833035:
-    letters: 18
-    questions: 1
-  T9833037:
+  U9933010:
     letters: 0
+    percent: 0
     questions: 1
-  T9833039:
+  U9933011:
     letters: 0
-    questions: 1
-  T9833043:
+    percent: 0
+    questions: ~
+  U9933017:
     letters: 0
-    questions: 1
-  T9833045:
+    percent: 0
+    questions: ~
+  U9933020:
     letters: 0
+    percent: 0
     questions: 1
-  T9833046:
-    letters: 269
+  U9933022:
+    letters: 255
+    percent: 100
     questions: 0
-  T9833050:
-    letters: 12
+  U9933023:
+    letters: 284
+    percent: 100
     questions: 1
-  U9733013:
+  U9933024:
+    letters: 291
+    percent: 100
+    questions: 0
+  U9933025:
+    letters: 291
+    percent: 100
+    questions: 0
+  U9933026:
+    letters: 248
+    percent: 100
+    questions: 0
+  U9933027:
+    letters: 284
+    percent: 100
+    questions: 0
+  U9933029:
+    letters: 291
+    percent: 100
+    questions: 0
+  U9933030:
+    letters: 241
+    percent: 97
+    questions: 0
+  U9933031:
+    letters: 186
+    percent: 65
+    questions: 1
+  U9933033:
     letters: 0
+    percent: 0
     questions: 1
-  U9831107:
-    letters: 269
-    questions: 0
-  U9833001:
-    letters: 247
-    questions: 0
-  U9833002:
+  U9933037:
     letters: 0
-    questions: 0
-  U9833003:
-    letters: 51
-    questions: 1
-  U9833005:
+    percent: 0
+    questions: ~
+  U9933038:
     letters: 0
-    questions: 1
-  U9833007:
-    letters: 239
-    questions: 1
-  U9833009:
+    percent: 0
+    questions: ~
+  U9933039:
+    letters: 197
+    percent: 69
+    questions: 0
+  U9933041:
     letters: 0
+    percent: 0
+    questions: ~
+  U9933043:
+    letters: 248
+    percent: 100
     questions: 0
-  U9833011:
-    letters: 247
+  U9933044:
+    letters: 291
+    percent: 100
     questions: 0
-  U9833014:
-    letters: 247
+  U9933045:
+    letters: 284
+    percent: 100
     questions: 0
-  U9833015:
-    letters: 247
-    questions: 0
-  U9833019:
-    letters: 46
-    questions: 1
-  U9833020:
+  U9933107:
     letters: 0
+    percent: 0
     questions: 1
-  U9833022:
+  U9933108:
+    letters: 229
+    percent: 92
+    questions: 0
+  U9933109:
+    letters: 248
+    percent: 100
+    questions: 1
+  U9933112:
     letters: 0
+    percent: 0
     questions: 1
-  U9833023:
-    letters: 269
-    questions: 1
-  U9833024:
-    letters: 269
+  U9933116:
+    letters: 255
+    percent: 100
     questions: 0
-  U9833025:
-    letters: 247
+  U9933126:
+    letters: 248
+    percent: 100
     questions: 0
-  U9833026:
-    letters: 247
-    questions: 0
-  U9833030:
-    letters: 1
-    questions: 1
-  U9833031:
-    letters: 295
-    questions: 0
-  U9833034:
-    letters: 239
-    questions: 0
-  U9833035:
-    letters: 247
-    questions: 0
-  U9833038:
-    letters: 239
-    questions: 0
-  U9833039:
-    letters: 214
-    questions: 1
-  U9833040:
-    letters: 207
-    questions: 0
-  U9833041:
-    letters: 98
-    questions: 1
-  U9833043:
-    letters: 269
-    questions: 0
-  U9833044:
-    letters: 269
-    questions: 0
-  U9833045:
+  U9933136:
     letters: 0
+    percent: 0
     questions: 1
-  U9833047:
-    letters: 269
+  U9933138:
+    letters: 284
+    percent: 100
     questions: 0
-  U9833048:
-    letters: 239
-    questions: 1
-  U9833049:
-    letters: 295
-    questions: 0
-  U9833050:
-    letters: 247
-    questions: 0
-  U9833052:
+  U9933139:
     letters: 0
-    questions: 1
+    percent: 0
+    questions: ~
+  U9933143:
+    letters: 248
+    percent: 100
+    questions: 0
