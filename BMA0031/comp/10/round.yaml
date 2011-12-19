@@ -5,7 +5,6 @@ activity:
       - 1
       - 2
       - 3
-      - 4
       - 5
       - 6
       - 7
@@ -23,74 +22,73 @@ activity:
       - 19
       - 20
       - 21
-bye: U9931013
+      - 22
 group:
   1:
     White: U9931129
-    Black: U9931110
+    Black: U9931101
   2:
-    White: U9931001
-    Black: U9931105
+    White: U9931034
+    Black: U9931022
   3:
-    White: U9931022
-    Black: U9931034
-  4:
     White: U9931138
-    Black: U9931017
-  5:
-    White: U9931101
     Black: U9931002
+  5:
+    White: U9931042
+    Black: U9931139
   6:
-    White: U9931140
-    Black: U9931042
-  7:
-    White: U9931125
-    Black: U9931103
-  8:
-    White: U9931139
-    Black: U9931127
-  9:
-    White: U9931032
+    White: U9931127
     Black: U9931111
-  10:
-    White: U9931134
-    Black: U9931039
-  11:
-    White: U9931146
-    Black: U9931142
-  12:
+  7:
+    White: U9931007
+    Black: U9931140
+  8:
     White: U9931149
-    Black: U9931007
+    Black: U9931146
+  9:
+    White: U9931103
+    Black: U9931026
+  10:
+    White: U9931015
+    Black: U9931125
+  11:
+    White: U9931142
+    Black: U9931028
+  12:
+    White: U9931025
+    Black: U9931043
   13:
-    White: U9931026
-    Black: U9931025
+    White: U9931130
+    Black: U9931039
   14:
-    White: U9931043
-    Black: U9931015
+    White: U9931109
+    Black: U9931037
   15:
-    White: U9931028
-    Black: U9931109
+    White: U9931014
+    Black: U9931004
   16:
-    White: U9931004
-    Black: U9931006
+    White: U9931003
+    Black: U9931133
   17:
-    White: U9931133
+    White: U9931143
     Black: U9931102
   18:
-    White: U9931003
-    Black: U9931014
+    White: U9931041
+    Black: U9931006
   19:
-    White: U9931037
-    Black: U9931130
+    White: U9931012
+    Black: U9931029
   20:
-    White: U9931143
-    Black: U9931012
+    White: U9931134
+    Black: U9931110
   21:
-    White: U9931029
-    Black: U9931041
-late:
-  - ~
-pairing: swiss
+    White: U9931013
+    Black: U9931001
+  22:
+    White: U9931032
+    Black: U9931017
+bye: U9931105
+pairing: swiss (adjusted see svn log messages)
 round: 10
-text: ~
-week: ~
+text: /home/drbean/class/business/greatideas.yaml
+week: 15
