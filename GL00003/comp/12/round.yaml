@@ -12,38 +12,41 @@ activity:
       - 8
       - 9
       - 10
+bye: U9713020
 group:
   1:
-     White: V9741060
-     Black: U9922232
+    White: V9741060
+    Black: V9741059
   2:
-     White: V9741009
-     Black: U9713044
+    White: V9741009
+    Black: U9723020
   3:
-     White: U9723020
-     Black: U9713020
+    White: T9833016
+    Black: U9922318
   4:
-     White: U9711132
-     Black: V9741010
+    White: U9915004
+    Black: U9711120
   5:
-     White: T9833016
-     Black: U0021016
+    White: V9741029
+    Black: V9741010
   6:
-     White: V9741038
-     Black: V9741057
+    White: U9718012
+    Black: U9711132
   7:
-     White: U9711120
-     Black: U9711105
+    White: U9711105
+    Black: V9741030
   8:
-     White: U9915004
-     Black: U9718012
+    White: V9741057
+    Black: U9922232
   9:
-     White: V9741059        
-     Black: T9833025
+    White: T9833025
+    Black: V9741038
   10:
-     White: V9741030
-     Black: U9922318
+    White: U9713044
+    Black: U0021016
+late:
+  - ~
 pairing: swiss
-round: 12
-text: /home/drbean/class/conversation/work/cards.yaml
-week: 15
+round: 2
+text: ~
+week: ~
