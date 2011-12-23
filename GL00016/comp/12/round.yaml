@@ -1,52 +1,18 @@
 ---
 activity:
-  selassie:
+  abreu:
     0:
-      - 0
       - 1
       - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-# bye: U9743024
 group:
-  0:
-    White: T9821036
-    Black: U9718033
   1:
-    White: U9718016
-    Black: U9718042
+     White: V9731059
+     Black: T9833033
   2:
-    White: U9843023
-    Black: U9718036
-  3:
-    White: T9821043
-    Black: U9742052
-  4:
-    White: T9813004
-    Black: 9616201
-  5:
-    White: T9813014
-    Black: T9813003
-  6:
-    White: U9811144
-    Black: U9621094
-  7:
-    White: T9813009
-    Black: U9811142
-  8:
-    White: U9843004
-    Black: U9718022
-  9:
-     White: U9743024
-     Black: U9811010
-late:
-  - U9811010
-pairing: swiss (with handpairing adjustments)
+     White: U9934051
+     Black: U9822150
+bye: U9934021
+pairing: hand
 round: 12
-text: ../../class/conversation/psych/cards.yaml
-week: 16
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 15
