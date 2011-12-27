@@ -1,6 +1,6 @@
 ---
 activity:
-  tremonte:
+  smallwood:
     0:
       - 0
       - 1
@@ -8,29 +8,45 @@ activity:
       - 3
       - 4
       - 5
-bye: T9811035
+      - 6
+      - 7
+      - 8
+      - 9
 group:
   0:
-    White: U9831049
-    Black: U9916029
+    White: V9741059
+    Black: V9741060
   1:
-    White: U9623038
-    Black: U9715014
+    White: T9833016
+    Black: U9631020
   2:
-    White: U9711025
-    Black: U9931143
+    White: U9915004
+    Black: U9711120
   3:
-    White: U9711052
-    Black: V9741065
+    White: V9741009
+    Black: V9741010
   4:
-    White: U9922235
-    Black: U9823011
-  5:  
-    White: T9831040
-    Black: U9813024
+    White: U9718012
+    Black: U9711132
+  5:
+    White: U9711105
+    Black: U9922318
+  6:
+    White: V9741057
+    Black: U9922232
+  7:
+    White: T9833025
+    Black: V9741030
+  8:
+    White: V9741038
+    Black: U0021016
+  9:
+     White: U9723020
+     Black: V9741029
 late:
-  - T9811035
-pairing: swiss (changed)
-round: 2 (was 13)
-text: ~
-week: ~
+  - U9723020
+  - V9741029
+pairing: swiss adjusted
+round: 13
+text: /home/drbean/class/business/greatideas/cards.yaml
+week: 16
