@@ -3,9 +3,9 @@ activity:
   smallwood:
     0:
       - 0
+      - 1
       - 2
       - 3
-      - 4
       - 5
       - 6
       - 7
@@ -15,7 +15,6 @@ activity:
       - 11
       - 12
       - 13
-      - 14
       - 15
       - 16
       - 17
@@ -23,20 +22,20 @@ activity:
       - 19
       - 20
       - 21
-bye: V9841009
+      - 22
 group:
   0:
     White: V9841031
     Black: V9841069
+  1:
+    White: V9841009
+    Black: V9841054
   2:
     White: V9841039
     Black: V9841022
   3:
     White: V9841058
     Black: V9741044
-  4:
-    White: V9841034
-    Black: V9841002
   5:
     White: V9841068
     Black: V9841010
@@ -64,9 +63,6 @@ group:
   13:
     White: V9841051
     Black: V9841037
-  14:
-    White: V9841051
-    Black: V9841053
   15:
     White: V9841028
     Black: V9841048
@@ -88,9 +84,14 @@ group:
   21:
     White: V9841011
     Black: V9841007
+  22:
+    White: V9841071
+    Black: V9841024
 late:
-  - ~
+  - V9841054
+  - V9841071
+  - V9841024
 pairing: swiss
 round: 14
-text: ~
-week: ~
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 16
