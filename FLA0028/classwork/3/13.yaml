@@ -19,10 +19,10 @@ Orange:
   merits: 3
 Pink:
   absent: 
-  merits: 0
+  merits: 2
 Purple:
   absent:
-  merits: 0
+  merits: 3
 Red:
   absent: 
     - Kathy
