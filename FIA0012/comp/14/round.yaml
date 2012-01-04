@@ -12,19 +12,17 @@ activity:
       - 7
       - 8
       - 9
-      - 10
       - 11
       - 12
       - 13
       - 14
-      - 15
       - 16
       - 17
       - 18
       - 19
 group:
   0:
-    White: U9934034
+    White: U9934016
     Black: U9934048
   1:
     White: U9934044
@@ -53,9 +51,6 @@ group:
   9:
     White: U9934046
     Black: U9934005
-  10:
-    White: U9934036
-    Black: U9934016
   11:
     White: U9934038
     Black: U9934028
@@ -64,13 +59,10 @@ group:
     Black: U9934009
   13:
     White: U9934040
-    Black: U9934012
+    Black: U9934043
   14:
     White: U9816024
     Black: U9934021
-  15:
-    White: U9934043
-    Black: U9934004
   16:
     White: U9934050
     Black: U9934032
@@ -83,9 +75,7 @@ group:
   19:
     White: U9934024
     Black: U9934017
-late:
-  - ~
-pairing: swiss
-round: 3
-text: ~
-week: ~
+pairing: swiss adjusted (bug? Or I included absent players?)
+round: 14
+text: /home/drbean/class/business/greatideas/cards.yaml
+week: 16
