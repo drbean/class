@@ -1,117 +1,107 @@
 ---
-round: 15
-week: 16
-absent:
-bye: U9831144
-text: /home/drbean/class/business/greatideas/cards.yaml
 activity:
   internet:
     0:
-      #0:
-      #  White: U9831024
-      #  Black: U9831044
-      #1:
-      #  White: U9831122
-      #  Black: U9831049
-      #2:
-      #  White: U9742047
-      #  Black: U9831143
-      #3:
-      #  White: U9831035
-      #  Black: U9831002
-      #4:
-      #  White: U9831039
-      #  Black: U9831138
-      #5:
-      #  White: T9831023
-      #  Black: T9831015
-      #6:
-      #  White: T9831018
-      #  Black: U9831012
-      #7:
-      #  White: U9831140
-      #  Black: U9831021
-      #8:
-      #  White: U9831106
-      #  Black: U9831116
-      #9:
-      #  White: U9831114
-      #  Black: U9831043
-      #10:
-      #  White: U9831109
-      #  Black: U9831102
-      #11:
-      #  White: U9831028
-      #  Black: U9831040
-      #12:
-      #  White: U9831110
-      #  Black: U9831016
-      #13:
-      #  White: U9831131
-      #  Black: U9831007
-      #14:
-      #  White: U9831127
-      #  Black: U9831130
-      #15:
-      #  White: U9831006
-      #  Black: U9831124
-      #16:
-      #  White: U9831046
-      #  Black: U9831147
-      #17:
-      #  White: T9831030
-      #  Black: U9831128
-      -
-        White: U9831024
-        Black: U9831044
-      -
-        White: U9831122
-        Black: U9831049
-      -
-        White: U9742047
-        Black: U9831143
-      -
-        White: U9831035
-        Black: U9831002
-      -
-        White: U9831039
-        Black: U9831138
-      -
-        White: T9831023
-        Black: T9831015
-      -
-        White: T9831018
-        Black: U9831012
-      -
-        White: U9831140
-        Black: U9831021
-      -
-        White: U9831106
-        Black: U9831116
-      -
-        White: U9831114
-        Black: U9831043
-      -
-        White: U9831109
-        Black: U9831102
-      -
-        White: U9831028
-        Black: U9831040
-      -
-        White: U9831110
-        Black: U9831016
-      -
-        White: U9831131
-        Black: U9831007
-      -
-        White: U9831127
-        Black: U9831130
-      -
-        White: U9831006
-        Black: U9831124
-      -
-        White: U9831046
-        Black: U9831147
-      -
-        White: T9831030
-        Black: U9831128
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+group:
+  0:
+    White: U9934013
+    Black: T9833024
+  1:
+    White: T9833026
+    Black: U9934029
+  2:
+    White: U9934004
+    Black: U9934024
+  3:
+    White: U9934047
+    Black: U9934044
+  4:
+    White: U9934048
+    Black: U9934046
+  5:
+    White: U9934006
+    Black: U9934034
+  6:
+    White: U9934032
+    Black: U9934011
+  7:
+    White: U9934001
+    Black: U9934012
+  8:
+    White: U9934015
+    Black: U9913132
+  9:
+    White: U9934010
+    Black: U9934051
+  10:
+    White: U9934021
+    Black: U9934036
+  11:
+    White: U9934016
+    Black: U9934003
+  12:
+    White: U9934019
+    Black: U9934028
+  13:
+    White: U9934033
+    Black: U9934027
+  14:
+    White: U9934030
+    Black: U9934038
+  15:
+    White: U9934045
+    Black: U9816024
+  16:
+    White: U9934002
+    Black: U9933147
+  17:
+    White: U9934005
+    Black: U9934022
+  18:
+    White: U9934007
+    Black: U9934020
+  19:
+    White: T9833008
+    Black: U9934037
+  20:
+    White: U9934025
+    Black: U9934040
+  21:
+    White: U9934025
+    Black: U9934040
+  22:
+    White: U9934009
+    Black: U9934050
+  23:
+    White: U9934039
+    Black: U9934017
+late:
+  - ~
+pairing: swiss
+round: 15
+text: ~
+week: ~
