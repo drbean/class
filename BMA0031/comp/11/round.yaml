@@ -1,8 +1,7 @@
 ---
 activity:
-  market:
+  citrus1:
     0:
-      - 0
       - 1
       - 2
       - 3
@@ -23,79 +22,69 @@ activity:
       - 18
       - 19
       - 20
-      - 21
+bye: U9931013
 group:
-  0:
-    White: U9831116
-    Black: U9831021
   1:
-    White: U9831007
-    Black: U9831049
+    White: U9931110
+    Black: U9931129
   2:
-    White: U9831028
-    Black: U9831138
+    White: U9931001
+    Black: U9931105
   3:
-    White: U9831024
-    Black: T9831003
+    White: U9931022
+    Black: U9931017
   4:
-    White: U9831144
-    Black: U9831143
+    White: U9931002
+    Black: U9931034
   5:
-    White: U9831131
-    Black: U9831018
+    White: U9931101
+    Black: U9931134
   6:
-    White: U9831127
-    Black: U9831122
+    White: U9931140
+    Black: U9931138
   7:
-    White: U9831040
-    Black: U9831140
+    White: U9931111
+    Black: U9931103
   8:
-    White: U9831109
-    Black: U9831016
+    White: U9931139
+    Black: U9931149
   9:
-    White: T9831015
-    Black: U9742047
+    White: U9931125
+    Black: U9931109
   10:
-    White: U9831035
-    Black: U9734040
+    White: U9931146
+    Black: U9931127
   11:
-    White: U9831112
-    Black: U9831044
+    White: U9931028
+    Black: U9931007
   12:
-    White: U9831147
-    Black: T9831023
+    White: U9931039
+    Black: U9931015
   13:
-    White: U9831002
-    Black: T9831018
+    White: U9931026
+    Black: U9931025
   14:
-    White: U9831102
-    Black: U9831106
+    White: U9931043
+    Black: U9931142
   15:
-    White: U9831108
-    Black: U9831114
+    White: U9931004
+    Black: U9931130
   16:
-    White: U9831124
-    Black: U9831046
+    White: U9931006
+    Black: U9931003
   17:
-    White: U9831039
-    Black: U9831043
+    White: U9931133
+    Black: U9931014
   18:
-    White: U9831110
-    Black: U9831130
+    White: U9931029
+    Black: U9931143
   19:
-    White: T9831030
-    Black: U9831005
+    White: U9931102
+    Black: U9931012
   20:
-    White: U9831135
-    Black: U9831132
-  21:
-    White: U9831128
-    Black: U9831006
-late:
-  - U9831110
-forfeit: 
-  - U9831127
+    White: U9931037
+    Black: U9931041
 pairing: swiss
-round: 4 (was 11)
-text: ../../class/business/newbusiness/cards.yaml
+round: 11
+text: /home/drbean/class/business/greatideas/cards.yaml
 week: 16
