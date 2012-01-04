@@ -20,9 +20,7 @@ activity:
       - 15
       - 16
       - 17
-      - 18
       - 19
-      - 20
 group:
   0:
     White: U9931145
@@ -78,18 +76,10 @@ group:
   17:
     White: U9931026
     Black: U9931041
-  18:
-    White: U9931014
-    Black: U9931041
   19:
     White: U9931012
     Black: U9931014
-  20:
-    White: U9931003
-    Black: U9931012
-late:
-  - ~
-pairing: swiss
+pairing: swiss adjusted
 round: 12
-text: ~
-week: ~
+text: /home/drbean/class/business/greatideas/cards.yaml
+week: 17
