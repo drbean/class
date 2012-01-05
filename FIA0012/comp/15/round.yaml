@@ -90,18 +90,13 @@ group:
   20:
     White: U9934025
     Black: U9934040
-  21:
-    White: U9934025
-    Black: U9934040
   22:
     White: U9934009
     Black: U9934050
   23:
     White: U9934039
     Black: U9934017
-late:
-  - ~
-pairing: swiss
+pairing: swiss adjusted
 round: 15
-text: ~
-week: ~
+text: /home/drbean/class/business/greatideas/cards.yaml
+week: 17
