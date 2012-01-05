@@ -1,76 +1,32 @@
 ---
 activity:
-  brock:
+  jackson:
     0:
       - 1
-      - 2
-      - 4
-      - 6
-      - 7
-      - 11
-      - 12
-  selassie:
-    0:
-      - 0
-      - 5
-      - 6
-      - 7
-      - 9
-      - 11
-  tremonte:
-    0:
       - 2
       - 3
       - 4
       - 5
-      - 8
-      - 9
-      - 10
-      - 12
+bye: T9833004
 group:
-  0:
-    White: T9813003
-    Black: U9718033
   1:
-    White: U9718016
-    Black: T9821036
+    White: U9934002
+    Black: T9833033
   2:
-    White: U9843023
-    Black: T9811142
+    White: U9934051
+    Black: T9821018
   3:
-    White: T9821043
-    Black: U9718042
+    White: U9934021
+    Black: U9822150
   4:
-    White: U9718036
-    Black: 9616201
+    White: U9922143
+    Black: U9934003
   5:
-    White: T9813014
-    Black: T9813004
-  6:
-    White: U9822002
-    Black: U9742052
-  7:
-    White: T9813009
-    Black: U9811149
-  8:
-    White: U9811127
-    Black: T9821033
-  9:
-    White: T9811111
-    Black: T9831047
-  10:
-    White: T9811101
-    Black: U9621094
-  11:
-    White: U9811142
-    Black: U9811144
-  12:
-    White: U9718022
-    Black: U9811010
-bye: U9843004
+    White: U9922143
+    Black: U9934003
 late:
-  - U9843004
-pairing: swiss (changed)
-round: 14
-text: ../../class/conversation/psych/cards.yaml
-week: 18
+  - ~
+pairing: swiss
+round: 7
+text: ~
+week: ~
