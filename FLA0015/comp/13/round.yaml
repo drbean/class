@@ -91,9 +91,17 @@ group:
   21:
     White: V9941033
     Black: V9941032
+bye: V9941076
 late:
-  - ~
-pairing: swiss
+  - V9941076
+assistant:
+  V9941040: 4
+  V9941050: 4
+  V9941049: 4
+  N9661749: 5
+  V9741030: 5
+  V9941037: 5
+pairing: swiss adjusted
 round: 13
-text: ~
-week: ~
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 18
