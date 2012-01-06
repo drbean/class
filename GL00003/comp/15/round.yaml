@@ -1,31 +1,55 @@
 ---
-round: 15
-week: 15
-absent:
-text: /home/drbean/class/conversation/disasters/cards.yaml
-swiss: failed
 activity:
-  desilvey:
-    1:
-      -
-         White: N9661747
-         Black: U9615010
-      -
-         White: U9818046
-         Black: U9821142
-      -
-         White: U9822004
-         Black: U9633019
-      -
-         White: N9661723
-         Black: U9722022
-      -
-         White: U9822019
-         Black: U9818007
-      -
-         White: T9822149
-         Black: 9622240
-      -
-         White: N9561765
-         Black: U9633052
-      
+  jackson:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+group:
+  0:
+    White: U0013147
+    Black: V9741009
+  1:
+    White: U9713044
+    Black: U9713020
+  2:
+    White: V9741029
+    Black: U9631020
+  3:
+    White: U9915004
+    Black: V9741038
+  4:
+    White: U9718012
+    Black: V9741059
+  5:
+    White: V9741057
+    Black: V9741030
+  6:
+    White: U9922318
+    Black: V9741060
+  7:
+    White: T9833016
+    Black: V9741010
+  8:
+    White: U9922232
+    Black: U9711132
+  9:
+    White: T9833025
+    Black: U9711120
+  10:
+    White: U9711105
+    Black: U0021016
+late:
+  - ~
+pairing: swiss
+round: 15
+text: ~
+week: ~
