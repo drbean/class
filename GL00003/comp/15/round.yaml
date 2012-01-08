@@ -1,8 +1,7 @@
 ---
 activity:
-  jackson:
+  dickson:
     0:
-      - 0
       - 1
       - 2
       - 3
@@ -12,44 +11,73 @@ activity:
       - 7
       - 8
       - 9
-      - 10
+  abreu:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+  smallwood:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+  jackson:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+assistant:
+  U9713020: 5
+  U9711120: 5
+  U9711105: 5
+bye: V9741059
 group:
-  0:
-    White: U0013147
-    Black: V9741009
   1:
     White: U9713044
-    Black: U9713020
+    Black: U0013147
   2:
-    White: V9741029
-    Black: U9631020
-  3:
-    White: U9915004
-    Black: V9741038
-  4:
-    White: U9718012
-    Black: V9741059
-  5:
-    White: V9741057
-    Black: V9741030
-  6:
     White: U9922318
     Black: V9741060
-  7:
-    White: T9833016
+  3:
+    White: U9631020
+    Black: V9741057
+  4:
+    White: V9741029
+    Black: T9833016
+  5:
+    White: U9915004
+    Black: U9922232
+  6:
+    White: V9741038
     Black: V9741010
+  7:
+    White: V9741009
+    Black: V9741030
   8:
-    White: U9922232
-    Black: U9711132
+    White: U9718012
+    Black: U0021016
   9:
     White: T9833025
-    Black: U9711120
-  10:
-    White: U9711105
-    Black: U0021016
-late:
-  - ~
+    Black: U9711132
 pairing: swiss
 round: 15
-text: ~
-week: ~
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 18
