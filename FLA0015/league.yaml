@@ -12,6 +12,17 @@ id: 001FLA0015
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+  - Chinese: 林柏如
+    id: V9941075
+    name: Brenda
+    password: bo
+    rating: ~
+  - Chinese: 林依妮
+    id: V9941044
+    name: Yi-ni
+    password: yi
+    rating: ~
+
   - Chinese: 劉茹芬
     id: N9661749
     name: Chelsea
@@ -269,16 +280,6 @@ out:
     password: man
     rating: 84
 
-  - Chinese: 林依妮
-    id: V9941044
-    name: Yi-ni
-    password: yi
-    rating: ~
-  - Chinese: 林柏如
-    id: V9941075
-    name: Brenda
-    password: bo
-    rating: ~
   - Chinese: 黎彥廷
     id: V9916050
     name: Yan-Ting
