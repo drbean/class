@@ -9,7 +9,6 @@ activity:
       - 4
       - 5
       - 6
-      - 7
       - 8
       - 9
       - 10
@@ -41,9 +40,6 @@ group:
     White: U9933006
     Black: U9933044
   6:
-    White: U9933109
-    Black: U9933041
-  7:
     White: U9933109
     Black: U9933041
   8:
@@ -79,9 +75,7 @@ group:
   18:
     White: U9933008
     Black: U9933026
-late:
-  - ~
-pairing: swiss
-round: 15
-text: ~
-week: ~
+pairing: swiss table 6,7 dupe, removed 7
+round: 15 
+text: /home/drbean/class/business/greatideas/cards.yaml
+week: 17
