@@ -12,9 +12,9 @@
             2: Rally
       set:
         T9833033:
-          1: ~
+          1: T
         T9821018:
-          1: ~
+          1: T
   abreu:
     0:
       free:
@@ -28,9 +28,9 @@
             2: Fault
       set:
         T9833033:
-          1: ~
+          1: T
         T9821018:
-          1: ~
+          1: T
   smallwood:
     0:
       free:
@@ -43,9 +43,9 @@
             1: Fault
       set:
         T9833033:
-          1: ~
+          1: T
         T9821018:
-          1: ~
+          1: T
   jackson:
     0:
       free:
@@ -59,135 +59,13 @@
             2: Fault
       set:
         T9833033:
-          1: ~
+          1: T
+          2:   F
+          3: T
         T9821018:
-          1: ~
-1:
-  dickson:
-    0:
-      free:
-        U9934002:
-          point:
-            1: Fault
-            2: Fault
-        U9934051:
-          point:
-            1: Fault
-            2: Fault
-      set:
-        U9934002:
-          1: ~
-        U9934051:
-          1: ~
-  abreu:
-    0:
-      free:
-        U9934002:
-          point:
-            1: Fault
-            2: Fault
-        U9934051:
-          point:
-            1: Fault
-            2: Fault
-      set:
-        U9934002:
-          1: ~
-        U9934051:
-          1: ~
-  smallwood:
-    0:
-      free:
-        U9934002:
-          point:
-            1: Fault
-        U9934051:
-          point:
-            1: Fault
-      set:
-        U9934002:
-          1: ~
-        U9934051:
-          1: ~
-  jackson:
-    0:
-      free:
-        U9934002:
-          point:
-            1: Fault
-            2: Fault
-        U9934051:
-          point:
-            1: Fault
-            2: Fault
-      set:
-        U9934002:
-          1: ~
-        U9934051:
-          1: ~
-2:
-  dickson:
-    0:
-      free:
-        V9731059:
-          point:
-            1: Rally
-            2: Rally
-        U9934025:
-          point:
-            1: Fault
-            2: Fault
-      set:
-        V9731059:
-          1: ~
-        U9934025:
-          1: ~
-  abreu:
-    0:
-      free:
-        V9731059:
-          point:
-            1: Rally
-            2: Rally
-        U9934025:
-          point:
-            1: Fault
-            2: Fault
-      set:
-        V9731059:
-          1: ~
-        U9934025:
-          1: ~
-  smallwood:
-    0:
-      free:
-        V9731059:
-          point:
-            1: Rally
-            2: Rally
-        U9934025:
-          point:
-            1: Rally
-      set:
-        V9731059:
-          1: ~
-        U9934025:
-          1: ~
-  jackson:
-    0:
-      free:
-        V9731059:
-          point:
-            1: Fault
-        U9934025:
-          point:
-            1: Fault
-            2: Fault
-      set:
-        V9731059:
-          1: ~
-        U9934025:
-          1: ~
+          1: T
+          2: T
+          3: T
 3:
   dickson:
     0:
@@ -199,11 +77,14 @@
         T9833004:
           point:
             1: Fault
+            2: Fault
       set:
         U9822150:
-          1: ~
+          1: T
+          2: T
         T9833004:
-          1: ~
+          1:   F
+          2: T
   abreu:
     0:
       free:
@@ -213,9 +94,8 @@
             2: Fault
         T9833004:
           point:
-            1: Rally
+            1: Fault
             2: Fault
-            3: Rally
       set:
         U9822150:
           1: ~
@@ -227,11 +107,9 @@
         U9822150:
           point:
             1: Fault
-            2: Rally
         T9833004:
           point:
-            1: Rally
-            2: Rally
+            1: Fault
       set:
         U9822150:
           1: ~
@@ -243,14 +121,18 @@
         U9822150:
           point:
             1: Fault
+            2: Fault
         T9833004:
           point:
-            1: Rally
+            1: Fault
+            2: Fault
       set:
         U9822150:
-          1: ~
+          1: T
+          2:   F
         T9833004:
-          1: ~
+          1: T
+          2:   F
 4:
   dickson:
     0:
@@ -258,31 +140,32 @@
         U9934003:
           point:
             1: Rally
+            2: Rally
         U9934021:
           point:
             1: Fault
             2: Fault
       set:
         U9934003:
-          1: ~
+          1:   F
         U9934021:
-          1: ~
+          1:   F
   abreu:
     0:
       free:
         U9934003:
           point:
             1: Rally
-            2: Fault
+            2: Rally
         U9934021:
           point:
-            1: Rally
-            2: Rally
+            1: Fault
+            2: Fault
       set:
         U9934003:
-          1: ~
+          1:   F
         U9934021:
-          1: ~
+          1:   F
   smallwood:
     0:
       free:
@@ -295,22 +178,155 @@
             1: Rally
       set:
         U9934003:
-          1: ~
+          1: T
         U9934021:
-          1: ~
+          1: T
   jackson:
     0:
       free:
         U9934003:
           point:
             1: Fault
-            2: Fault
         U9934021:
           point:
-            1: Rally
+            1: Fault
             2: Fault
       set:
         U9934003:
-          1: ~
+          1: T
+          2: T
         U9934021:
+          1:   F
+          2: T
+2:
+  dickson:
+    0:
+      free:
+        V9731059:
+          point:
+            1: Fault
+            2: Fault
+        U9934025:
+          point:
+            1: Fault
+      set:
+        V9731059:
+          1:   F
+        U9934025:
+          1: T
+  abreu:
+    0:
+      free:
+        V9731059:
+          point:
+            1: Fault
+            2: Fault
+        U9934025:
+          point:
+            1: Rally
+            2: Fault
+            3: Rally
+      set:
+        V9731059:
           1: ~
+        U9934025:
+          1: ~
+  smallwood:
+    0:
+      free:
+        V9731059:
+          point:
+            1: Fault
+            2: Rally
+        U9934025:
+          point:
+            1: Rally
+            2: Rally
+      set:
+        V9731059:
+          1:   F
+          2: T
+          3: T
+          4:   F
+        U9934025:
+          1: T
+          2: T
+          3: T
+          4:   F
+  jackson:
+    0:
+      free:
+        V9731059:
+          point:
+            1: Fault
+        U9934025:
+          point:
+            1: Rally
+      set:
+        V9731059:
+          1: ~
+        U9934025:
+          1: ~
+1:
+  dickson:
+    0:
+      free:
+        U9934002:
+          point:
+            1: Rally
+        U9934051:
+          point:
+            1: Fault
+            2: Fault
+      set:
+        U9934002:
+          1: T
+        U9934051:
+          1: T
+  abreu:
+    0:
+      free:
+        U9934002:
+          point:
+            1: Rally
+            2: Fault
+        U9934051:
+          point:
+            1: Rally
+            2: Rally
+      set:
+        U9934002:
+          1: T
+        U9934051:
+          1: T
+  smallwood:
+    0:
+      free:
+        U9934002:
+          point:
+            1: Rally
+            2: Rally
+        U9934051:
+          point:
+            1: Rally
+      set:
+        U9934002:
+          1: T
+        U9934051:
+          1: T
+  jackson:
+    0:
+      free:
+        U9934002:
+          point:
+            1: Fault
+            2: Fault
+        U9934051:
+          point:
+            1: Fault
+            2: Fault
+      set:
+        U9934002:
+          1:   F
+        U9934051:
+          1:   F
