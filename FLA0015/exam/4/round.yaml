@@ -1,96 +1,106 @@
 ---
-round: Exam 1
-week: 5
+round: Exam 4
+week: 18
 questions:
   - 10
-pass: 6
+pass: 4
 assistant:
-  - Fifi
-  - Jeffrey
-  - Stanley
+  - Jibson
+  - Edison
+  - Nancy
 absent:
-    - Tea
-    - Lace
-text: /home/drbean/class/conversation/disasters/cards.yaml
+  - Jielun
+  - Mita
+text: /home/drbean/class/conversation/work/cards.yaml
 activity:
-  duplantier:
-    1:
-      - Pink
-      - White
-      - Brown
-      - Gray
-  desilvey:
-    1:
-      - Purple
-      - Blue
-  conant:
-    1:
-      - Shaq
-      - Green
-      - Red
-  harllee:
-    1:
+  dickson:
+    0:
+      - Black
       - Orange
-      - Rump
+      - Pink
+
+  abreu:
+    0:
+      - Brown
+      - Purple
+      - WhiteWhite
+
+
+  smallwood:
+    0:
+      - Blue
+      - Gray
+      - White
+
+  jackson:
+    0:
       - BlackBlack
+      - BlueBlue
+      - Red
+
 group:
-  Shaq:
-    - Fifi
-    - Jeffrey
-    - Shaq
-    - Stanley
-  Rump:
-    - Eva
-    - Dan
-    - Dennis
-    - Amber
+  Black:
+    - Jibson
+    - Henry
+    - Travis
+    - Sophia1
   BlackBlack:
-    - Sophia
-    - Luke
-    - Jessica
-    - Rose
+    - Leon
+    - Pei-Yun
+    - Tony
+    - XiangYi
   Blue:
-    - Winne
-    - Yi-Ru
-    - Anne
-    - Joy
+    - Zhi-Wei
+    - Wan-Ru
+    - Shu-Jun
+    - Vicki
+  BlueBlue:
+    - Innocent
+    - Cai-ling
+    - Yan-Yun
+    - Jill
   Brown:
-    - Annie
-    - Winny
-    - Christian
-    - Leo
+    - Sophia2
+    - Yong-Shun
+    - Adam
+    - LiJuan
   Gray:
-    - Sana
-    - Kitty
-    - Bass
-    - Debbie
-  Green:
-    - Ricky
-    - Joan
-    - Hank
-    - Yu-Ching
+    - Hsin-Cih
+    - Julia
+    - Jibson
+    - QianHui
+#  Green:
+#    - Chelsea
+#    - Donna
+#    - WenJun
+#    - Nancy
   Orange:
-    - Lisa
-    - Kori
-    - Carina
-    - Rachel
+    - Claire
+    - MengShiung
+    - Chun-Hua
+    - David
   Pink:
-    - Katty
-    - Patty
-    - Sue
-    - Fifi
+    - Edison
+    - Tzu-Ching
+    - Ivy
+    - Brenda
   Purple:
-    - Cathy
-    - Jeffrey
-    - Julie
-    - Hannah
+    - Joe
+    - Sandy
+    - Chun-Ying
+    - Zi-Qian
   Red:
-    - Stanley
-    - Abby
-    - Frances
-    - Laura
+    - Robert
+    - Yang-ting
+    - Zhen-Dai
+    - YaTing2
   White:
-    - Yorick
-    - Yu-Lun
-    - Wei-Yi
-    - Ming
+    - YaTing1
+    - Redd
+    - Wan-Ling
+    - Nancy
+  WhiteWhite:
+    - Edison
+    - Sharon
+    - Mary
+    - Yi-ni
