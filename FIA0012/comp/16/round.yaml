@@ -145,6 +145,10 @@ group:
   22:
     White: U9816024
     Black: U9934017
+assistant:
+  U9934034: 5
+  U9934001: 5
+  U9934038: 5
 bye: T9833026
 late:
   - T9833026
