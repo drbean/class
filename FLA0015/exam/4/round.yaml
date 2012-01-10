@@ -7,7 +7,6 @@ pass: 4
 assistant:
   - Jibson
   - Edison
-  - Nancy
 absent:
   - Jielun
   - Mita
@@ -30,6 +29,7 @@ activity:
     0:
       - Blue
       - Gray
+      - Green
       - White
 
   jackson:
@@ -69,11 +69,11 @@ group:
     - Julia
     - Jibson
     - QianHui
-#  Green:
-#    - Chelsea
-#    - Donna
-#    - WenJun
-#    - Nancy
+  Green:
+    - Chelsea
+    - Donna
+    - WenJun
+    - Jibson
   Orange:
     - Claire
     - MengShiung
