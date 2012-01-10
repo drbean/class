@@ -32,12 +32,14 @@ activity:
     0:
       - Black
       - Gray
+      - Orange
       - Red
 
   mestas:
     0:
       - BlackBlack
       - Brown
+      - Green
       - Purple
       - Yellow
 
@@ -72,16 +74,16 @@ group:
     - Pei-Yun
     - Shu-Jun
     - LiJuan
-#  Green:
-#    - Chelsea
-#    - Yong-Shun
-#    - Yan-Yun
-#    - Zhen-Dai
-#  Orange:
-#    - Leon
-#    - Joe
-#    - Henry
-#    - Sharon
+  Green:
+    - Chelsea
+    - Yong-Shun
+    - Yan-Yun
+    - Zhen-Dai
+  Orange:
+    - Leon
+    - Joe
+    - Henry
+    - Sharon
   Pink:
     - Hsin-Cih
     - Sandy
