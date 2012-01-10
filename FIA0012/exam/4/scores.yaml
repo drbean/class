@@ -1,80 +1,94 @@
 ---
 Chinese:
-  Black: 0
+  Black: 0.5
   BlackBlack: 0
-  Blue: 0
+  Blue: 0.5
   Brown: 0
-  Gray: 3
-  Green: 2
+  Gray: 0.5
+  Green: 0
   Orange: 0
   Pink: 0
   Purple: 0
   Red: 0
   White: 0
+  Yellow: 0
+  YellowYellow: 0.5
 letters:
   Black:
-    U9834011: 9
-    U9834012: 9
-    U9834032: 9
-    U9834006: 9
-    story: huang00
+    U9934013: 0
+    U9934032: 1
+    U9934002: 1
+    U9934039: 2
+    story: fourconcepts00
   BlackBlack:
-    U9834017: 4
-    U9834014: 8
-    U9834001: 6
-    U9834031: 6
-    story: huang11
+    U9934026: 1
+    U9934016: 1
+    U9934033: 1
+    U9934003: 1
+    story: fourconcepts00
   Blue:
-    U9834002: 7
-    U9834033: 8
-    U9834004: 7
-    U9834038: 7
-    story: huang00
+    T9833024: 3
+    U9934022: 3
+    U9934012: 3
+    U9934045: 3
+    story: fourconcepts22
   Brown:
-    U9834026: 8
-    U9834037: 8
-    U9834010: 8
-    U9834009: 8
-    story: huang00
+    U9934046: 1
+    U9934043: 2
+    U9934031: 1
+    U9934050: 1
+    story: fourconcepts00
   Gray:
-    U9834013: 9
-    U9834040: 9
-    U9834051: 9
-    U9834034: 9
-    story: huang11
+    U9934004: 1
+    U9934030: 1
+    U9934005: 1
+    U9934009: 1
+    story: fourconcepts00
   Green:
-    U9834052: 9
-    U9834049: 9
-    U9834028: 9
-    U9834029: 9
-    story: huang11
+    U9934047: 1
+    U9913132: 1
+    U9934036: 1
+    U9934040: 1
+    story: fourconcepts00
   Orange:
-    U9634018: 9
-    U9834039: 9
-    U9834036: 9
-    U9834041: 9
-    story: huang11
+    U9934024: 0
+    U9934011: 0
+    U9934037: 0
+    U9934015: 0
+    story: fourconcepts55
   Pink:
-    U9834019: 8
-    U9834021: 8
-    U9834024: 8
-    U9834020: 8
-    story: huang00
+    U9934029: 2
+    U9934010: 1
+    U9934020: 2
+    U9934007: 1
+    story: fourconcepts55
   Purple:
-    U9834046: 3
-    U9834007: 1
-    U9834047: 0
-    U9834050: 3
-    story: huang00
+    U9934019: 1
+    U9934051: 2
+    U9934006: 2
+    U9934021: 2
+    story: fourconcepts22
   Red:
-    U9833004: 10
-    U9834015: 9
-    U9834016: 10
-    U9834025: 10
-    story: huang00
+    U9816024: 4
+    U9934044: 4
+    U9934025: 4
+    U9934028: 4
+    story: fourconcepts22
   White:
-    U9834057: 9
-    U9834033: 10
-    U9834027: 10
-    U9834042: 10
-    story: huang11
+    U9934034: 1
+    U9934001: 1
+    T9833008: 1
+    U9934038: 1
+    story: fourconcepts00
+  Yellow:
+    U9934048: 4
+    U9934027: 4
+    U9934024: 4
+    U9934017: 4
+    story: fourconcepts55
+  YellowYellow:
+    T9833026: 1
+    U9934023: 2
+    U9934009: 2
+    U9933147: 4
+    story: fourconcepts55

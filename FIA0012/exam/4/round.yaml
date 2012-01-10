@@ -2,81 +2,94 @@
 round: Exam 4
 week: 18
 questions:
-  - 10
-pass: 6
-assistant:
-  - Dennis
-absent:
-  - Alex
-text: /home/drbean/class/business/newbusiness/cards.yaml
+  - 4
+pass: 1
+assistant: 
+  - Jay1
+  - Abby
+absent: 
+text: /home/drbean/class/business/greatideas/cards.yaml
 activity:
-  huang:
+  fourconcepts:
     00:
       - Black
-      - Blue
-      - Brown
-      - Pink
-      - Purple
-      - Red
-    11:
       - BlackBlack
+      - Brown
       - Gray
       - Green
-      - Orange
       - White
+    22:
+      - Blue
+      - Purple
+      - Red
+    55:
+      - Orange
+      - Pink
+      - Yellow
+      - YellowYellow
 group:
   Black:
-    - Keano
-    - Sherry1
+    - Jack1
     - Jerry
-    - Linda1
+    - Julie
+    - Bob
   BlackBlack:
-    - Ezra
-    - Maggie
-    - Jeren
-    - Emma
+    - Sam1
+    - Orton
+    - Johnson
+    - Emily
   Blue:
-    - Peace
-    - Dennis
-    - Joy
-    - Frank
+    - Jay2
+    - Evan
+    - Betty1
+    - Reese
   Brown:
-    - Brian
-    - Danny
-    - Linda2
-    - Jean
+    - Jeff
+    - Carol
+    - Carrie
+    - Doris
   Gray:
-    - Trisha
-    - Rebecca
+    - Sherry
+    - Shirley
+    - Kate
     - Abby
-    - Nancy
   Green:
-    - Hannah
-    - Tommy
-    - Ann
-    - Cammy
-  Orange:
-    - Lious
-    - Debbie
+    - Jack2
+    - Cindy
+    - Jennifer
     - Jill
-    - Irene
+  Orange:
+    - Jay1
+    - Andy
+    - Maggie
+    - Paul
   Pink:
-    - Jenny
-    - Kelly
-    - Ray
-    - Lisa
+    - Justin
+    - Bill
+    - Larry
+    - Robin
   Purple:
-    - Annie
-    - Jack
-    - Ashly
-    - Ivy
+    - Lion
+    - Dalai
+    - Celia
+    - Daisy
   Red:
-    - Cathy
-    - Sherry2
-    - Penny
-    - Hardy
+    - Lilith
+    - Amy2
+    - Annie
+    - Kelly
   White:
-    - Tina
-    - Dennis
-    - Vicky
-    - Amy
+    - Betty2
+    - Amy1
+    - Sam2
+    - Diana
+  Yellow:
+    - Jason
+    - Joe
+    - Jay1
+    - Tommy
+  YellowYellow:
+    - Harry
+    - Lynn
+    - Abby
+    - Ting
