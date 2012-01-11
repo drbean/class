@@ -67,9 +67,9 @@ activity:
       - 19
       - 20
 assistant:
-  - U9931034
-  - U9931127
-  - U9931109
+  U9931034: 5
+  U9931127: 5
+  U9931109: 5
 bye: U9931110
 group:
   1:
@@ -133,6 +133,6 @@ group:
     White: U9931130
     Black: U9931006
 pairing: swiss
-round: 13
+round: 3
 text: /home/drbean/class/business/greatideas/cards.yaml
 week: 18
