@@ -151,6 +151,9 @@ group:
   24:
     White: V9941007
     Black: V9941057
+assistant:
+  V9941001: 4
+  V9941044: 4
 pairing: swiss adjusted
 round: 4
 text: /home/drbean/class/conversation/poverty/cards.yaml
