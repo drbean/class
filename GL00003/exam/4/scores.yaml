@@ -1,31 +1,45 @@
 ---
 Chinese:
   Black: 0
+  Blue: 0
   Gray: 0
-  Pink: 0
-  White: 0
+  Green: 0
+  Orange: 0
+  Purple: 0
 letters:
   Black:
-    U9813024: 9
-    U9823011: 9
-    T9831040: 9
-    U9922235: 9
-    story: selassie0
+    U9711105: 8
+    U9922318: 9
+    T9833016: 9
+    U0021016: 9
+    story: smallwood0
+  Blue:
+    V9741009: 6
+    U9713044: 6
+    U9922232: 6
+    V9741060: 6
+    story: dickson0
   Gray:
-    U9623038: 8
-    U9711025: 8
-    V9741065: 8
-    U9931143: 8
-    story: brock0
-  Pink:
-    U9916029: 7
-    U9723056: 8
-    U9831049: 8
-    U9813024: 7
-    story: tremonte0
-  White:
-    T9811035: 8
-    U9711052: 8
-    U9711025: 8
-    U9831049: 8
-    story: brock0
+    U0013147: 9
+    V9741030: 9
+    V9741059: 9
+    T9833025: 9
+    story: abreu0
+  Green:
+    U9631020: 8
+    V9741029: 8
+    V9741038: 8
+    V9741057: 8
+    story: smallwood0
+  Orange:
+    T9833016: 10
+    U9713020: 10
+    U9711120: 10
+    U9711105: 10
+    story: jackson0
+  Purple:
+    U9915004: 4
+    U9718012: 4
+    U9711132: 5
+    V9741010: 4
+    story: dickson0

@@ -3,42 +3,57 @@ round: Exam 4
 week: 18
 questions:
   - 10
-pass: 6
+pass: 5
 assistant:
-  - KuanChia
-  - Li
-  - YiKuan
+  - Hazel
+  - Vikin
 absent:
-text: /home/drbean/class/conversation/psych/cards.yaml
+  - Hudi
+  - Sam
+text: /home/drbean/class/conversation/work/cards.yaml
 activity:
-  brock:
+  dickson:
+    0:
+      - Blue
+      - Purple
+  abreu:
     0:
       - Gray
-      - White
-  selassie:
+  smallwood:
     0:
       - Black
-  tremonte:
+      - Green
+  jackson:
     0:
-      - Pink
+      - Orange
 group:
   Black:
-    - KuanChia
-    - Judy
-    - DrLee
-    - SongWei
+    - Hazel
+    - Nick
+    - Vikin
+    - James
+  Blue:
+    - Alan
+    - Chris
+    - Wen-hsin
+    - Kathy
   Gray:
-    - Simon
-    - YiKuan
-    - Frances
-    - Amy
-  Pink:
-    - Andrew
-    - Dai-shian
-    - Li
-    - KuanChia
-  White:
-    - YuiSung
-    - YiPei
-    - YiKuan
-    - Li
+    - Vic
+    - Donna
+    - Ivy
+    - Lin
+  Green:
+    - WanLin
+    - Kumiko
+    - Candy
+    - Nina
+  Orange:
+    - Vikin
+    - Jerry
+    - GuoLun
+    - Hazel
+  Purple:
+    - Jusky
+    - Mark
+    - Kai
+    - Andy
