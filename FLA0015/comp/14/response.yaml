@@ -1,530 +1,269 @@
 ---
 0:
-  V9841044:
-    1: 1
-    2: 1
-    3: 1
-    4: 2
-    5: 1
-    6: 2
-    7: 1
-    8: 1
-    9: 1
-    10: 2
-  V9841048:
-    1: 2
-    2: 2
-    3: 2
-    4: 1
-    5: 2
-    6: 1
-    7: 1
-    8: 2
-    9: 1
-    10: 2
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941075:
+          point:
+            1: Unreturned
+            2: Fault
+            3: Fault
+        V9941029:
+          point:
+            1: Unreturned
+            2: Unreturned
+            3: Fault
 1:
-  V9841030:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: ~
-    6: ~
-    7: ~
-    8: ~
-    9: ~
-    10: ~
-  T9813047:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: ~
-    7: ~
-    8: ~
-    9: ~
-    10: ~
-10:
-  V9841039:
-    1: 1
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: 2
-    7: 2
-    8: 1
-    9: 1
-    10: 1
-  V9841008:
-    1: 2
-    2: 1
-    3: 2
-    4: 2
-    5: 1
-    6: 2
-    7: 1
-    8: 2
-    9: 2
-    10: 2
-11:
-  V9841038:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: 2
-    7: 2
-    8: ~
-    9: ~
-    10: ~
-  V9841007:
-    1: 1
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: 2
-    7: 2
-    8: ~
-    9: ~
-    10: ~
-12:
-  V9841046:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: 2
-    7: 2
-    8: 2
-    9: 2
-    10: 2
-  V9841047:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: 2
-    7: 2
-    8: 2
-    9: 2
-    10: 2
-13:
-  V9841042:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 1
-    6: 2
-    7: 2
-    8: 1
-    9: 1
-    10: 2
-  V9841011:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: 1
-    7: 1
-    8: 1
-    9: 2
-    10: 2
-14:
-  V9841009:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: 2
-    7: 2
-    8: 2
-    9: 2
-    10: 2
-  V9841040:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: 2
-    7: 2
-    8: 2
-    9: 2
-    10: 2
-15:
-  V9841050:
-    1: 2
-    2: 2
-    3: 1
-    4: 2
-    5: 1
-    6: 2
-    7: ~
-    8: ~
-    9: ~
-    10: ~
-  V9841051:
-    1: 2
-    2: 1
-    3: 2
-    4: 1
-    5: 2
-    6: 2
-    7: ~
-    8: ~
-    9: ~
-    10: ~
-16:
-  V9841037:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: 2
-    7: 2
-    8: 2
-    9: 2
-    10: 2
-  V9841006:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: 2
-    7: 1
-    8: 2
-    9: 2
-    10: 1
-17:
-  V9841031:
-    1: 2
-    2: 2
-    3: 1
-    4: 2
-    5: 1
-    6: 1
-    7: 2
-    8: 2
-    9: 2
-    10: 2
-  V9841028:
-    1: 1
-    2: 2
-    3: 2
-    4: 1
-    5: 2
-    6: 2
-    7: 2
-    8: 1
-    9: 2
-    10: 2
-18:
-  V9841029:
-    1: 2
-    2: 1
-    3: 1
-    4: 2
-    5: ~
-    6: ~
-    7: ~
-    8: ~
-    9: ~
-    10: ~
-  V9841067:
-    1: 2
-    2: 2
-    3: 2
-    4: 1
-    5: ~
-    6: ~
-    7: ~
-    8: ~
-    9: ~
-    10: ~
-19:
-  V9841024:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: 2
-    7: ~
-    8: ~
-    9: ~
-    10: ~
-  V9841059:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: ~
-    7: ~
-    8: ~
-    9: ~
-    10: ~
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941031:
+          point:
+            1: Fault
+            2: Unreturned
+        V9941062:
+          point:
+            1: Unreturned
+            2: Unreturned
 2:
-  V9841010:
-    1: 2
-    2: 2
-    3: 2
-    4: 1
-    5: 2
-    6: 1
-    7: 1
-    8: 2
-    9: 2
-    10: 2
-  V9841041:
-    1: 2
-    2: 2
-    3: 2
-    4: 1
-    5: 2
-    6: 1
-    7: 1
-    8: 2
-    9: 2
-    10: 2
-20:
-  V9841054:
-    1: 2
-    2: 2
-    3: 2
-    4: 1
-    5: 2
-    6: 2
-    7: 2
-    8: 2
-    9: 1
-    10: 1
-  V9841022:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: 2
-    7: 2
-    8: 2
-    9: 1
-    10: 1
-21:
-  V9841005:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: 2
-    7: 2
-    8: 2
-    9: 2
-    10: 2
-  V9841036:
-    1: 2
-    2: 2
-    3: 1
-    4: 2
-    5: 2
-    6: 2
-    7: 2
-    8: 2
-    9: 2
-    10: 2
-22:
-  V9841053:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 1
-    6: 2
-    7: ~
-    8: ~
-    9: ~
-    10: ~
-  V9841020:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: 1
-    7: ~
-    8: ~
-    9: ~
-    10: ~
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941040:
+          point:
+            1: Unreturned
+            2: Fault
+            3: Unreturned
+        N9661749:
+          point:
+            1: Unreturned
+            2: Unreturned
+            3: Unreturned
 3:
-  V9841027:
-    1: 2
-    2: 1
-    3: 2
-    4: 2
-    5: 2
-    6: 1
-    7: 1
-    8: 2
-    9: 2
-    10: 2
-  V9841063:
-    1: 2
-    2: 2
-    3: 1
-    4: 2
-    5: 1
-    6: 1
-    7: 2
-    8: 2
-    9: 2
-    10: 1
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941023:
+          point:
+            1: Unreturned
+            2: Fault
+            3: Unreturned
+        9622299:
+          point:
+            1: Unreturned
+            2: Fault
+            3: Unreturned
 4:
-  V9841017:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: 1
-    7: 2
-    8: ~
-    9: ~
-    10: ~
-  V9841049:
-    1: 2
-    2: 2
-    3: 1
-    4: 1
-    5: 2
-    6: 2
-    7: 2
-    8: ~
-    9: ~
-    10: ~
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        N9661760:
+          point:
+            1: Unreturned
+        V9841025:
+          point:
+            1: Unreturned
 5:
-  V9841013:
-    1: 2
-    2: 1
-    3: 2
-    4: 2
-    5: 1
-    6: 2
-    7: 1
-    8: 2
-    9: 1
-    10: 2
-  V9841004:
-    1: 1
-    2: 2
-    3: 1
-    4: 2
-    5: 2
-    6: 2
-    7: 1
-    8: 2
-    9: 1
-    10: 1
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941069:
+          point:
+            1: Fault
+            2: Unreturned
+        V9941036:
+          point:
+            1: Fault
 6:
-  V9841062:
-    1: ~
-    2: 2
-    3: ~
-    4: 2
-    5: ~
-    6: 2
-    7: ~
-    8: ~
-    9: ~
-    10: ~
-  V9841034:
-    1: 2
-    2: ~
-    3: 2
-    4: ~
-    5: 2
-    6: ~
-    7: 2
-    8: ~
-    9: ~
-    10: ~
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941037:
+          point:
+            1: Fault
+        V9941010:
+          point:
+            1: Rally
 7:
-  V9841026:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: ~
-    7: ~
-    8: ~
-    9: ~
-    10: ~
-  V9841002:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: ~
-    7: ~
-    8: ~
-    9: ~
-    10: ~
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941049:
+          point:
+            1: Unreturned
+            2: Unreturned
+            3: Unreturned
+        V9941005:
+          point:
+            1: Unreturned
+            2: Unreturned
 8:
-  V9841033:
-    1: 2
-    2: 1
-    3: 2
-    4: 2
-    5: 2
-    6: 2
-    7: 2
-    8: ~
-    9: ~
-    10: ~
-  V9741065:
-    1: 2
-    2: 2
-    3: 2
-    4: 2
-    5: 2
-    6: 2
-    7: 2
-    8: ~
-    9: ~
-    10: ~
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941071:
+          point:
+            1: Unreturned
+            2: Unreturned
+            3: Unreturned
+        V9941050:
+          point:
+            1: Unreturned
+            2: Unreturned
+            3: Unreturned
 9:
-  V9841015:
-    1: 2
-    2: 1
-    3: 2
-    4: 1
-    5: 2
-    6: 2
-    7: 1
-    8: 2
-    9: 2
-    10: 2
-  V9841014:
-    1: 2
-    2: 2
-    3: 2
-    4: 1
-    5: 2
-    6: 2
-    7: 1
-    8: 2
-    9: 1
-    10: 2
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9741030:
+          point:
+            1: Unreturned
+            2: Unreturned
+            3: Unreturned
+        V9941003:
+          point:
+            1: Fault
+            2: Unreturned
+            3: Unreturned
+10:
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9841001:
+          point:
+            1: Fault
+            2: Rally
+        V9941015:
+          point:
+            1: Rally
+            2: Rally
+11:
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9741066:
+          point:
+            1: Unreturned
+            2: Fault
+        V9941027:
+          point:
+            1: Unreturned
+12:
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941046:
+          point:
+            1: Unreturned
+            2: Unreturned
+        V9941014:
+          point:
+            1: Unreturned
+13:
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941013:
+          point:
+            1: Unreturned
+            2: Unreturned
+        V9941001:
+          point:
+            1: Unreturned
+14:
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941045:
+          point:
+            1: Unreturned
+            2: Fault
+        V9941047:
+          point:
+            1: Fault
+15:
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941057:
+          point:
+            1: Unreturned
+            2: Fault
+            3: Unreturned
+        V9941025:
+          point:
+            1: Fault
+            2: Unreturned
+            3: Unreturned
+16:
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941011:
+          point:
+            1: Unreturned
+            2: Fault
+            3: Unreturned
+        V9941067:
+          point:
+            1: Fault
+            2: Unreturned
+            3: Fault
+17:
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941012:
+          point:
+            1: Unreturned
+            2: Fault
+        V9941022:
+          point:
+            1: Unreturned
+            2: Unreturned
+18:
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941059:
+          point:
+            1: Unreturned
+            2: Fault
+        V9941026:
+          point:
+            1: Unreturned
+            2: Unreturned
+19:
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941068:
+          point:
+            1: Unreturned
+        V9941007:
+          point:
+            1: Fault
+20:
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941032:
+          point:
+            1: Unreturned
+            2: Unreturned
+            3: Fault
+        V9941073:
+          point:
+            1: Fault
+            2: Fault
+21:
+  drbean_dickson_abreu_smallwood_jackson:
+    0:
+      free:
+        V9941060:
+          point:
+            1: Unreturned
+            2: Unreturned
+        V9941033:
+          point:
+            1: Fault
