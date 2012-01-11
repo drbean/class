@@ -5,6 +5,7 @@ questions:
   - 10
 pass: 6
 assistant:
+  - Hannah
   - Fifi
   - Yu-Ching
   - Frances
@@ -30,6 +31,7 @@ activity:
       - Green
       - Pink
       - White
+      - XinFang
   goetz:
     2:
       - BlueBlue
@@ -38,6 +40,11 @@ activity:
       - Yellow
       - YellowYellow
 group:
+  XinFang:
+    - XinFang
+    - Hannah
+    - Fifi
+    - Yu-Ching
   Black:
     - Fifi
     - Yi-Ru

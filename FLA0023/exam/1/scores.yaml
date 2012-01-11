@@ -15,7 +15,14 @@ Chinese:
   WhiteWhite: 0
   Yellow: 0
   YellowYellow: 0
+  XinFang: 0
 letters:
+  XinFang:
+    V9841071: 7
+    V9841024: 6
+    V9841005: 7
+    V9841059: 7
+    story: allen1
   Abby:
     V9841051: 8
     V9841006: 8
