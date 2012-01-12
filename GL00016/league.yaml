@@ -13,11 +13,6 @@ id: 001GL00016
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
-  - Chinese: Charlie
-    name: Charlie
-    password: cha
-    id: T9822043
-    rating: ~
 
   - Chinese: 吳偉宗
     name: Daniel
@@ -80,6 +75,11 @@ member:
     password: si
     rating: ~
 out:
+  - Chinese: Charlie
+    name: Charlie
+    password: cha
+    id: T9822043
+    rating: ~
   - Chinese: 何立維
     name: Eric
     password: li
