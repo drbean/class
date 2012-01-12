@@ -1,63 +1,133 @@
 ---
 cutpoints:
-  one: 50
-  two: 175
-exercise: tremonte
+  one: 20
+  two: 85
+exercise: jackson
 grade:
-  T9811035: 0
-  T9831040: 0
-  U9623038: 2
-  U9711025: 2
-  U9711052: 2
-  U9715014: 0
-  U9723056: 2
-  U9813024: 2
-  U9823011: 2
-  U9831049: 0
-  U9916029: 1
-  U9922235: 2
-  U9931143: 2
-  V9741065: 2
+  T9833016: 2
+  T9833025: 2
+  U0013147: 0
+  U0021016: 2
+  U9631020: 2
+  U9711105: 2
+  U9711120: 2
+  U9711132: 2
+  U9713020: 2
+  U9713044: 2
+  U9718012: 1
+  U9723020: 0
+  U9915004: 0
+  U9922203: 0
+  U9922232: 2
+  U9922318: 0
+  V9741009: 2
+  V9741010: 1
+  V9741029: 2
+  V9741030: 0
+  V9741038: 2
+  V9741057: 2
+  V9741059: 1
+  V9741060: 2
 points:
-  T9811035:
+  T9833016:
+    S: 0
+    Yn: 0
+    letters: 593
+    percent: 90
+  T9833025:
+    S: 0
+    Yn: 0
+    letters: 657
+    percent: 100
+  U0013147:
     letters: 0
-    questions: 0
-  T9831040:
+    percent: 0
+  U0021016:
+    S: 0
+    Yn: 0
+    letters: 657
+    percent: 100
+  U9631020:
+    S: 0
+    Yn: 3
+    letters: 652
+    percent: 99
+  U9711105:
+    S: 0
+    Yn: 1
+    letters: 636
+    percent: 97
+  U9711120:
+    S: 0
+    Yn: 3
     letters: 0
-    questions: 0
-  U9623038:
-    letters: 191
-    questions: 0
-  U9711025:
-    letters: 180
-    questions: 0
-  U9711052:
+    percent: 0
+  U9711132:
+    S: 0
+    Yn: 0
+    letters: 657
+    percent: 100
+  U9713020:
+    S: 0
+    Yn: 0
+    letters: 657
+    percent: 100
+  U9713044:
+    S: 0
+    Yn: 1
+    letters: 657
+    percent: 100
+  U9718012:
+    letters: 152
+    percent: 23
+  U9723020:
     letters: 0
-    questions: 1
-  U9715014:
+    percent: 0
+  U9915004:
     letters: 0
-    questions: 0
-  U9723056:
-    letters: 185
-    questions: 0
-  U9813024:
-    letters: 206
-    questions: 0
-  U9823011:
+    percent: 0
+  U9922203:
     letters: 0
-    questions: 1
-  U9831049:
+    percent: 0
+  U9922232:
+    S: 0
+    Yn: 2
+    letters: 653
+    percent: 99
+  U9922318:
     letters: 0
-    questions: 0
-  U9916029:
-    letters: 113
-    questions: 0
-  U9922235:
-    letters: 180
-    questions: 0
-  U9931143:
+    percent: 0
+  V9741009:
+    letters: 650
+    percent: 99
+  V9741010:
+    letters: 420
+    percent: 64
+  V9741029:
+    S: 0
+    Yn: 0
+    letters: 657
+    percent: 100
+  V9741030:
     letters: 0
-    questions: 1
-  V9741065:
-    letters: 179
-    questions: 1
+    percent: 0
+  V9741038:
+    S: 0
+    Yn: 0
+    letters: 644
+    percent: 98
+  V9741057:
+    S: 0
+    Yn: 1
+    letters: 650
+    percent: 99
+  V9741059:
+    S: 0
+    Yn: 0
+    letters: 258
+    percent: 39
+  V9741060:
+    S: 0
+    Yn: 2
+    letters: 657
+    percent: 100
