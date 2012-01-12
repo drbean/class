@@ -3,68 +3,36 @@ round: Exam 4
 week: 18
 questions:
   - 10
-pass: 6
+pass: 5
 assistant:
-  - JinYi
-  - Butler
-  - DrLee
-  - Amy
-  - YuiSung
+  - Vicky
+  - Annie
 absent:
-text: /home/drbean/class/conversation/psych/cards.yaml
+  - Roy
+text: /home/drbean/class/conversation/work/cards.yaml
 activity:
-  brock:
+  smallwood:
     0:
       - Gray
-      - Purple
-  selassie:
-    0:
-      - Pink
-      - Yellow
-  tremonte:
+  abreu:
     0:
       - Black
-      - Green
-      - Wesley
-      - White
+  jackson:
+    0:
+      - Pink
 group:
   Black:
-    - Colin
-    - Howard
-    - Jack
-    - Kate
-  Gray:
-    - Sui
-    - Amber
-    - John
-    - Shirley
-  Green:
-    - Richard
-    - JinYi
-    - Scott
+    - Dalai
+    - Kenni
+    - Daisy
     - Vicky
-  Pink:
-    - Danial
-    - Janet
-    - Jeff
-    - Julia
-  Purple:
-    - Jerry
-    - Terry1
-    - Lin
-    - Liu
-  White:
-    - Ruru
+  Gray:
     - Vivi
-    - Finna
-    - Butler
-  Yellow:
-    - Edwin
-    - Gina1
-    - JinYi
-    - Butler
-  Wesley:
-    - Wesley
-    - DrLee
-    - Amy
-    - YuiSung
+    - Annie
+    - Julie
+    - Si-Yu
+  Pink:
+    - Daniel
+    - Annie
+    - Emily
+    - Vicky
