@@ -2,97 +2,68 @@
 round: Exam 4
 week: 18
 questions:
-  - 10
-pass: 6
-assistant:
-  - PingJie
-  - XiaoRou
-  - Si-Yu
-absent:
-    - Tim
-    - Ching
-text: /home/drbean/class/business/newbusiness/cards.yaml
+  - 4
+pass: 1
+assistant: 
+absent: 
+text: /home/drbean/class/business/greatideas/cards.yaml
 activity:
-  huang:
+  fourconcepts:
     00:
-      - Black
-      - Gray
-      - Purple
-      - Yellow
-    11:
-      - BlackBlack
-      - Brown
-      - Orange
-      - Pink
-      - Red
-    2:
       - Blue
-      - Green
+      - Gray
+      - Orange
+      - Red
       - White
-      - WhiteWhite
+    22:
+      - Black
+      - Purple
+    55:
+      - Brown
+      - Pink
 group:
   Black:
-    - Shuai
-    - YaYun
-    - Chung
-    - MeiQing
-  BlackBlack:
-    - HanPing
-    - JiaXiang
-    - YuXun
-    - Yu-Ying
+    - Candy
+    - Ruby
+    - Leo
+    - Anny
   Blue:
-    - Wade
-    - Friday
-    - GuanYin
-    - Nate
+    - Linda2
+    - Peter2
+    - Mila
+    - Sally
   Brown:
-    - MingHan
-    - Sam
-    - XiaoXian
-    - YuJie
+    - Tina
+    - Gene
+    - Jordan
+    - Alex
   Gray:
-    - Flora
-    - Raffaele
-    - Si-Yu
-    - XiaoRou
-  Green:
-    - Ray
-    - Bernie
-    - YuXin
-    - XiaoQi
+    - Peter1
+    - Soymilk
+    - Cranium
+    - Dora
   Orange:
-    - Hanna
-    - PingJie
-    - Kou-wei
-    - Victor
+    - James
+    - Sophia
+    - Sandy
+    - Kenny
   Pink:
-    - PingJie
-    - Peter
-    - Chase
-    - Entian
+    - Sam
+    - Fred
+    - Linda1
+    - Shane
   Purple:
-    - YaTing
-    - WenXiao
-    - Ya-syuan
-    - Alexis
+    - Alice
+    - Kevin
+    - Evangeline
+    - Albert
   Red:
-    - Han-Yu
-    - Yan
-    - ChuJun
-    - David
-  White:
+    - Cathy
     - Jane
-    - XiaoWei
-    - Yi-ting
-    - Ying-Hsuan
-  WhiteWhite:
-    - LiLing
-    - ChenHan
-    - Zong-Hua
-    - Jie-Yu
-  Yellow:
-    - Jeter
-    - HuiLin
-    - Si-Yu
-    - XiaoRou
+    - Wendy
+    - Claire
+  White:
+    - Sean
+    - Tony
+    - Tom
+    - Ivy
