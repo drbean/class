@@ -13,6 +13,16 @@ id: FLA0023
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+  - Chinese: 劉國薇
+    id: V9841070
+    name: 劉國薇
+    password: guo
+    rating: ~
+  - Chinese: 胡佳玟
+    id: V9841046
+    name: Lace
+    password: jia
+    rating: 52
   - Chinese: 潘昱安
     id: U9843014
     name: Alex
@@ -310,11 +320,6 @@ out:
     name: Yu-Yao
     password: yu
     id: U9843020
-    rating: ~
-  - Chinese: 劉國薇
-    id: V9841070
-    name: 劉國薇
-    password: guo
     rating: ~
 room: A706
 scores:
