@@ -4,7 +4,6 @@ cutpoints:
   two: 85
 exercise: rueda
 grade:
-  N9561735: 0
   N9561766: 2
   N9661754: 0
   T9823041: 2
@@ -31,11 +30,11 @@ grade:
   V9841022: 0
   V9841024: 2
   V9841026: 2
-  V9841027: 2
+  V9841027: 1
   V9841028: 2
   V9841029: 2
   V9841030: 2
-  V9841031: 2
+  V9841031: 1
   V9841033: 2
   V9841034: 2
   V9841036: 2
@@ -57,11 +56,8 @@ grade:
   V9841067: 0
   V9841068: 2
   V9841069: 2
+  V9841071: 0
 points:
-  N9561735:
-    letters: 0
-    percent: 0
-    questions: ~
   N9561766:
     letters: 207
     percent: 93
@@ -72,19 +68,19 @@ points:
     questions: ~
   T9823041:
     letters: 214
-    percent: 96
+    percent: 85
     questions: ~
   U9843014:
-    letters: 251
-    percent: 100
+    letters: 248
+    percent: 111
     questions: ~
   V9724004:
     letters: 0
     percent: 0
     questions: ~
   V9741009:
-    letters: 210
-    percent: 84
+    letters: 205
+    percent: 83
     questions: ~
   V9741028:
     letters: 223
@@ -92,7 +88,7 @@ points:
     questions: ~
   V9741036:
     letters: 243
-    percent: 100
+    percent: 109
     questions: ~
   V9741044:
     letters: 0
@@ -104,7 +100,7 @@ points:
     questions: ~
   V9841002:
     letters: 140
-    percent: 58
+    percent: 56
     questions: ~
   V9841005:
     letters: 0
@@ -123,16 +119,16 @@ points:
     percent: 100
     questions: ~
   V9841009:
-    letters: 135
-    percent: 61
+    letters: 126
+    percent: 52
     questions: ~
   V9841010:
-    letters: 251
-    percent: 100
+    letters: 246
+    percent: 99
     questions: ~
   V9841011:
-    letters: 251
-    percent: 100
+    letters: 248
+    percent: 111
     questions: ~
   V9841013:
     letters: 0
@@ -140,11 +136,11 @@ points:
     questions: ~
   V9841014:
     letters: 223
-    percent: 100
+    percent: 90
     questions: ~
   V9841015:
     letters: 116
-    percent: 47
+    percent: 46
     questions: ~
   V9841017:
     letters: 0
@@ -152,7 +148,7 @@ points:
     questions: ~
   V9841020:
     letters: 243
-    percent: 100
+    percent: 97
     questions: ~
   V9841022:
     letters: 0
@@ -160,55 +156,55 @@ points:
     questions: ~
   V9841024:
     letters: 223
-    percent: 100
+    percent: 90
     questions: ~
   V9841026:
-    letters: 223
-    percent: 100
+    letters: 214
+    percent: 88
     questions: ~
   V9841027:
     letters: 204
-    percent: 91
+    percent: 81
     questions: ~
   V9841028:
     letters: 223
     percent: 100
     questions: ~
   V9841029:
-    letters: 251
-    percent: 100
+    letters: 248
+    percent: 111
     questions: ~
   V9841030:
-    letters: 251
-    percent: 100
+    letters: 246
+    percent: 99
     questions: ~
   V9841031:
     letters: 198
-    percent: 89
+    percent: 80
     questions: ~
   V9841033:
     letters: 223
-    percent: 100
+    percent: 89
     questions: ~
   V9841034:
     letters: 223
-    percent: 100
+    percent: 90
     questions: ~
   V9841036:
-    letters: 251
-    percent: 100
+    letters: 248
+    percent: 111
     questions: ~
   V9841037:
     letters: 243
-    percent: 100
+    percent: 109
     questions: ~
   V9841038:
-    letters: 251
-    percent: 100
+    letters: 235
+    percent: 97
     questions: ~
   V9841039:
     letters: 116
-    percent: 47
+    percent: 46
     questions: ~
   V9841040:
     letters: 0
@@ -216,11 +212,11 @@ points:
     questions: ~
   V9841041:
     letters: 243
-    percent: 100
+    percent: 109
     questions: ~
   V9841048:
-    letters: 135
-    percent: 54
+    letters: 130
+    percent: 53
     questions: ~
   V9841049:
     letters: 0
@@ -236,7 +232,7 @@ points:
     questions: ~
   V9841053:
     letters: 214
-    percent: 88
+    percent: 86
     questions: ~
   V9841054:
     letters: 200
@@ -244,15 +240,15 @@ points:
     questions: ~
   V9841058:
     letters: 86
-    percent: 35
+    percent: 34
     questions: ~
   V9841059:
-    letters: 251
-    percent: 100
+    letters: 246
+    percent: 99
     questions: ~
   V9841062:
-    letters: 251
-    percent: 100
+    letters: 246
+    percent: 99
     questions: ~
   V9841064:
     letters: 0
@@ -264,9 +260,13 @@ points:
     questions: ~
   V9841068:
     letters: 222
-    percent: 100
+    percent: 88
     questions: ~
   V9841069:
-    letters: 251
-    percent: 100
+    letters: 235
+    percent: 97
+    questions: ~
+  V9841071:
+    letters: 0
+    percent: 0
     questions: ~
