@@ -1,0 +1,101 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 4
+pass: 2
+assistant: 
+  - Bob
+  - Carrie
+  - Joe
+  - Diana
+absent: 
+  - Andy
+  - Jay2
+  - Harry
+text: /home/drbean/class/business/companies/cards.yaml
+activity:
+  fourswot:
+    00:
+      - Black
+      - Gray
+      - Purple
+      - YellowYellow
+    01:
+      - Blue
+      - Green
+      - Red
+    02:
+      - Brown
+      - Orange
+      - White
+    03:
+      - BlackBlack
+      - Pink
+      - Yellow
+group:
+  Black:
+    - Jack1
+    - Celia
+    - Sam2
+    - Paul
+  BlackBlack:
+    - Jack2
+    - Daisy
+    - Kelly
+    - Ting
+  Blue:
+    - Jason
+    - Jennifer
+    - Cindy
+    - Bob
+  Brown:
+    - Jeff
+    - Evan
+    - Dalai
+    - Bob
+  Gray:
+    - Lilith
+    - Carrie
+    - Amy2
+    - Doris
+  Green:
+    - Sherry
+    - Betty1
+    - Maggie
+    - Abby
+  Orange:
+    - Jay1
+    - Joe
+    - Carol
+    - Johnson
+  Pink:
+    - Shirley
+    - Orton
+    - Carrie
+    - Tommy
+  Purple:
+    - Justin
+    - Lion
+    - Larry
+    - Emily
+  Red:
+    - Betty2
+    - Julie
+    - Diana
+    - Reese
+  White:
+    - Bill
+    - Amy1
+    - Kate
+    - Annie
+  Yellow:
+    - Joe
+    - Jerry
+    - Bob
+    - Robin
+  YellowYellow:
+    - Sam1
+    - Lynn
+    - Diana
+    - Jill

@@ -1,0 +1,94 @@
+---
+Chinese:
+  Black: 0.5
+  BlackBlack: 0
+  Blue: 0.5
+  Brown: 0
+  Gray: 0.5
+  Green: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
+  Red: 0
+  White: 0
+  Yellow: 0
+  YellowYellow: 0.5
+letters:
+  Black:
+    U9934013: 0
+    U9934032: 1
+    U9934002: 1
+    U9934039: 2
+    story: fourconcepts00
+  BlackBlack:
+    U9934026: 1
+    U9934016: 1
+    U9934033: 1
+    U9934003: 1
+    story: fourconcepts00
+  Blue:
+    T9833024: 3
+    U9934022: 3
+    U9934012: 3
+    U9934045: 3
+    story: fourconcepts22
+  Brown:
+    U9934046: 1
+    U9934043: 2
+    U9934031: 1
+    U9934050: 1
+    story: fourconcepts00
+  Gray:
+    U9934004: 1
+    U9934030: 1
+    U9934005: 1
+    U9934009: 1
+    story: fourconcepts00
+  Green:
+    U9934047: 1
+    U9913132: 1
+    U9934036: 1
+    U9934040: 1
+    story: fourconcepts00
+  Orange:
+    U9934024: 0
+    U9934011: 0
+    U9934037: 0
+    U9934015: 0
+    story: fourconcepts55
+  Pink:
+    U9934029: 2
+    U9934010: 1
+    U9934020: 2
+    U9934007: 1
+    story: fourconcepts55
+  Purple:
+    U9934019: 1
+    U9934051: 2
+    U9934006: 2
+    U9934021: 2
+    story: fourconcepts22
+  Red:
+    U9816024: 4
+    U9934044: 4
+    U9934025: 4
+    U9934028: 4
+    story: fourconcepts22
+  White:
+    U9934034: 1
+    U9934001: 1
+    T9833008: 1
+    U9934038: 1
+    story: fourconcepts00
+  Yellow:
+    U9934048: 4
+    U9934027: 4
+    U9934024: 4
+    U9934017: 4
+    story: fourconcepts55
+  YellowYellow:
+    T9833026: 1
+    U9934023: 2
+    U9934009: 2
+    U9933147: 4
+    story: fourconcepts55
