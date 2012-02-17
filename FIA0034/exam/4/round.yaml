@@ -1,0 +1,95 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 4
+pass: 1
+assistant: 
+  - Jay1
+  - Abby
+absent: 
+text: /home/drbean/class/business/greatideas/cards.yaml
+activity:
+  fourconcepts:
+    00:
+      - Black
+      - BlackBlack
+      - Brown
+      - Gray
+      - Green
+      - White
+    22:
+      - Blue
+      - Purple
+      - Red
+    55:
+      - Orange
+      - Pink
+      - Yellow
+      - YellowYellow
+group:
+  Black:
+    - Jack1
+    - Jerry
+    - Julie
+    - Bob
+  BlackBlack:
+    - Sam1
+    - Orton
+    - Johnson
+    - Emily
+  Blue:
+    - Jay2
+    - Evan
+    - Betty1
+    - Reese
+  Brown:
+    - Jeff
+    - Carol
+    - Carrie
+    - Doris
+  Gray:
+    - Sherry
+    - Shirley
+    - Kate
+    - Abby
+  Green:
+    - Jack2
+    - Cindy
+    - Jennifer
+    - Jill
+  Orange:
+    - Jay1
+    - Andy
+    - Maggie
+    - Paul
+  Pink:
+    - Justin
+    - Bill
+    - Larry
+    - Robin
+  Purple:
+    - Lion
+    - Dalai
+    - Celia
+    - Daisy
+  Red:
+    - Lilith
+    - Amy2
+    - Annie
+    - Kelly
+  White:
+    - Betty2
+    - Amy1
+    - Sam2
+    - Diana
+  Yellow:
+    - Jason
+    - Joe
+    - Jay1
+    - Tommy
+  YellowYellow:
+    - Harry
+    - Lynn
+    - Abby
+    - Ting

@@ -1,0 +1,94 @@
+---
+activity:
+  candidates:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+group:
+  0:
+     White: T9833026
+     Black: T9833024
+  1:
+     White: T9833008
+     Black: U9934015
+  2:
+     White: U9934028
+     Black: U9816024
+  3:
+     White: U9934033
+     Black: U9934023
+  4:
+     White: U9934029
+     Black: U9934011
+  5:
+     White: U9934031
+     Black: U9934022
+  6:
+     White: U9934009
+     Black: U9934036
+  7:
+     White: U9934043
+     Black: U9934006
+  8:
+     White: U9933147
+     Black: U9934027
+  9:
+     White: U9934001
+     Black: U9934050
+  10:
+     White: U9934024
+     Black: U9934039
+  11:
+     White: U9934025
+     Black: U9934030
+  12:
+     White: U9934020
+     Black: U9934004
+  13:
+     White: U9934021
+     Black: U9934051
+  14:
+     White: U9934017
+     Black: U9934045
+  15:
+     White: U9934037
+     Black: U9934019
+  16:
+     White: U9934007
+     Black: U9934040
+  17:
+     White: U9934044
+     Black: U9934003
+  18:
+     White: U9934038
+     Black: U9934034
+  19:
+     White: U9934032
+     Black: U9913132
+  20:
+     White: U9934005
+     Black: U9934002
+late: []
+pairing: "A&B, C&D"
+round: 3
+text: /home/drbean/class/business/careers/cards.yaml
+week: 5

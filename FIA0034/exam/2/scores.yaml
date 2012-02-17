@@ -1,0 +1,94 @@
+---
+Chinese:
+  Black: 0
+  BlackBlack: 0.5
+  Blue: 0
+  Brown: 0.5
+  Gray: 0
+  Green: 0.5
+  Orange: 1
+  Pink: 0
+  Purple: 0.5
+  Red: 0
+  White: 0
+  Yellow: 1
+  YellowYellow: 0
+letters:
+  Black:
+    U9934047: 4
+    U9934003: 4
+    U9934024: 4
+    U9934046: 4
+    story: vacations8
+  BlackBlack:
+    U9934046: 1
+    U9934037: 1
+    U9934031: 1
+    U9934006: 1
+    story: vacations6
+  Blue:
+    U9934026: 1
+    U9934001: 1
+    U9934043: 1
+    U9934022: 1
+    story: vacations6
+  Brown:
+    U9816024: 4
+    U9934044: 4
+    U9933147: 4
+    U9934038: 4
+    story: vacations8
+  Gray:
+    U9934010: 1
+    T9833008: 1
+    U9934025: 1
+    U9934050: 1
+    story: vacations6
+  Green:
+    U9934016: 1
+    U9934027: 1
+    U9913132: 1
+    U9934009: 1
+    story: vacations7
+  Orange:
+    U9934004: 4
+    U9934030: 4
+    U9934033: 4
+    U9934028: 4
+    story: vacations9
+  Pink:
+    U9934022: 5
+    U9934036: 1
+    U9934007: 3
+    U9934045: 3
+    story: vacations7
+  Purple:
+    U9934021: 3
+    U9934029: 3
+    U9934020: 3
+    U9934017: 0
+    story: vacations8
+  Red:
+    U9934034: 2
+    U9934002: 2
+    U9934005: 3
+    U9934039: 2
+    story: vacations7
+  White:
+    U9934012: 3
+    U9934032: 3
+    U9934051: 3
+    U9934015: 3
+    story: vacations6
+  Yellow:
+    U9934048: 2
+    T9833024: 4
+    U9934019: 4
+    U9934040: 4
+    story: vacations9
+  YellowYellow:
+    U9934013: 4
+    T9833026: 3
+    U9934011: 3
+    U9934023: 3
+    story: vacations9

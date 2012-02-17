@@ -1,0 +1,92 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 5
+pass: 2
+assistant:
+  - Paul
+absent:
+  - Jeff
+  - Jack2
+  - Sam1
+text: /home/drbean/class/business/careers/cards.yaml
+activity:
+  tips:
+    3:
+      - Green
+      - Orange
+      - Red
+    4:
+      - Black
+      - Blue
+      - Brown
+    5:
+      - BlackBlack
+      - White
+      - Yellow
+    6:
+      - Pink
+      - Purple
+      - YellowYellow
+group:
+  Black:
+    - Lynn
+    - Johnson
+    - Kelly
+    - Lilith
+  Blue:
+    - Doris
+    - Paul
+    - Amy2
+    - Emily
+  Brown:
+    - Julie
+    - Kate
+    - Ting
+    - Joe
+  Green:
+    - Robin
+    - Jill
+    - Lion
+    - Amy1
+  Orange:
+    - Carrie
+    - Evan
+    - Jennifer
+    - Abby
+  Pink:
+    - Betty2
+    - Diana
+    - Cindy
+    - Jerry
+  Purple:
+    - Andy
+    - Justin
+    - Daisy
+    - Dalai
+  Red:
+    - Jay1
+    - Bob
+    - Maggie
+    - Doris
+  White:
+    - Tommy
+    - Reese
+    - Celia
+    - Carol
+  Yellow:
+    - Bill
+    - Jack1
+    - Orton
+    - Betty1
+  YellowYellow:
+    - Larry
+    - Sherry
+    - Annie
+    - Shirley
+  BlackBlack:
+    - Harry
+    - Jay2
+    - Sam2
+    - Paul

@@ -1,0 +1,95 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 5
+pass: 2
+assistant: 
+  - Jeff
+  - Evan
+text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
+activity:
+  vacations:
+    6:
+      - Blue
+      - BlackBlack
+      - Gray
+      - White
+    7:
+      - Green
+      - Pink
+      - Red
+    8:
+      - Black
+      - Brown
+      - Purple
+    9:
+      - Orange
+      - Yellow
+      - YellowYellow
+group:
+  Yellow:
+    - Jason
+    - Jay2
+    - Lion
+    - Jill
+  BlackBlack:
+    - Jeff
+    - Maggie
+    - Carrie
+    - Celia
+  YellowYellow:
+    - Jack1
+    - Harry
+    - Andy
+    - Lynn
+  Brown:
+    - Lilith
+    - Amy2
+    - Ting
+    - Diana
+  Gray:
+    - Bill
+    - Sam2
+    - Annie
+    - Doris
+  Green:
+    - Orton
+    - Joe
+    - Cindy
+    - Abby
+  Orange:
+    - Sherry
+    - Shirley
+    - Johnson
+    - Kelly
+  Pink:
+    - Evan
+    - Jennifer
+    - Robin
+    - Reese
+  Purple:
+    - Daisy
+    - Justin
+    - Larry
+    - Tommy
+  Red:
+    - Betty2
+    - Julie
+    - Kate
+    - Bob
+  White:
+    - Betty1
+    - Jerry
+    - Dalai
+    - Paul
+  Black:
+    - Jack2
+    - Emily
+    - Jay1
+    - Jeff
+  Blue:
+    - Sam1
+    - Amy1
+    - Carol
+    - Evan

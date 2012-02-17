@@ -1,0 +1,66 @@
+---
+Black:
+  - Jack1
+  - Celia
+  - Sam2
+  - Paul
+BlackBlack:
+  - Jack2
+  - Daisy
+  - Kelly
+  - Ting
+Blue:
+  - Jason
+  - Jennifer
+  - Cindy
+  - Bob
+Brown:
+  - Jeff
+  - Evan
+  - Dalai
+  - Andy
+Gray:
+  - Lilith
+  - Jay2
+  - Amy2
+  - Doris
+Green:
+  - Sherry
+  - Betty1
+  - Maggie
+  - Abby
+Orange:
+  - Jay1
+  - Joe
+  - Carol
+  - Johnson
+Pink:
+  - Shirley
+  - Orton
+  - Carrie
+  - Tommy
+Purple:
+  - Justin
+  - Lion
+  - Larry
+  - Emily
+Red:
+  - Betty2
+  - Julie
+  - Diana
+  - Reese
+White:
+  - Bill
+  - Amy1
+  - Kate
+  - Annie
+Yellow:
+  - Harry
+  - Jerry
+  - ~
+  - Robin
+YellowYellow:
+  - Sam1
+  - Lynn
+  - ~
+  - Jill
