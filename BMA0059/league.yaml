@@ -30,234 +30,208 @@ member:
     rating: ~
   - Chinese: 許為智
     id: U9931001
-    name: 許為智
-    password: ~
+    name: Willie
+    password: wei
     rating: ~
   - Chinese: 彭盈惠
     id: U9931002
-    name: 彭盈惠
-    password: ~
+    name: Angel
+    password: ying
     rating: ~
   - Chinese: 黃凱琪
     id: U9931003
-    name: 黃凱琪
-    password: ~
+    name: Kathy
+    password: kai
     rating: ~
   - Chinese: 彭沁妤
     id: U9931004
-    name: 彭沁妤
-    password: ~
+    name: Kelly
+    password: qin
     rating: ~
   - Chinese: 謝金芮
     id: U9931005
-    name: 謝金芮
-    password: ~
+    name: Kerry
+    password: jin
     rating: ~
   - Chinese: 張嫚容
     id: U9931006
-    name: 張嫚容
-    password: ~
+    name: Sheryl
+    password: man
     rating: ~
   - Chinese: 蘇翊綺
     id: U9931007
-    name: 蘇翊綺
-    password: ~
+    name: Nina
+    password: yi
     rating: ~
   - Chinese: 黃芳煜
     id: U9931008
-    name: 黃芳煜
-    password: ~
+    name: Fanny
+    password: fang
     rating: ~
   - Chinese: '?崇新'
     id: U9931009
-    name: '?崇新'
-    password: ~
+    name: Kevin
+    password: chong
     rating: ~
   - Chinese: 鄔揚正
     id: U9931010
-    name: 鄔揚正
-    password: ~
+    name: Charles
+    password: yang
     rating: ~
   - Chinese: 廖佑軒
     id: U9931011
-    name: 廖佑軒
-    password: ~
+    name: Sam
+    password: you
     rating: ~
   - Chinese: 何佩珊
     id: U9931012
-    name: 何佩珊
-    password: ~
+    name: Zara
+    password: pei
     rating: ~
   - Chinese: 黃于瑄
     id: U9931013
-    name: 黃于瑄
-    password: ~
+    name: Lulu
+    password: yu
     rating: ~
   - Chinese: 李詩詩
     id: U9931014
-    name: 李詩詩
-    password: ~
+    name: Angeline
+    password: shi
     rating: ~
   - Chinese: 張雅綸
     id: U9931015
-    name: 張雅綸
-    password: ~
+    name: Len
+    password: ya
     rating: ~
   - Chinese: 邱晟桓
     id: U9931016
-    name: 邱晟桓
-    password: ~
+    name: Eric
+    password: sheng~
     rating: ~
   - Chinese: 鄭兆秀
     id: U9931017
-    name: 鄭兆秀
-    password: ~
+    name: Janet
+    password: zhao
     rating: ~
   - Chinese: 張榮美
     id: U9931020
-    name: 張榮美
-    password: ~
+    name: Lisi
+    password: rong
     rating: ~
   - Chinese: 龔彥丞
     id: U9931021
     name: 龔彥丞
-    password: ~
+    password: yan
     rating: ~
   - Chinese: 蔡瑩圜
     id: U9931022
-    name: 蔡瑩圜
-    password: ~
+    name: Irene
+    password: ying
+    rating: ~
+  - Chinese: 鍾孟軒
+    id: U9931023
+    name: 鍾孟軒
+    password: meng
     rating: ~
   - Chinese: 何育萌
     id: U9931024
-    name: 何育萌
-    password: ~
+    name: Damon
+    password: yu
     rating: ~
   - Chinese: 楊婷伊
     id: U9931025
-    name: 楊婷伊
-    password: ~
+    name: Amy1
+    password: ting
     rating: ~
   - Chinese: 陳蓉蓉
     id: U9931026
-    name: 陳蓉蓉
-    password: ~
+    name: Laura
+    password: rong
     rating: ~
   - Chinese: 倪偉傑
     id: U9931027
-    name: 倪偉傑
-    password: ~
+    name: William
+    password: wei
     rating: ~
   - Chinese: 簡妤玲
     id: U9931028
-    name: 簡妤玲
-    password: ~
+    name: Alice1
+    password: yu
     rating: ~
   - Chinese: 朱紫妤
     id: U9931029
-    name: 朱紫妤
-    password: ~
+    name: Karen
+    password: zi
     rating: ~
   - Chinese: 林培武
     id: U9931030
-    name: 林培武
-    password: ~
+    name: Woody
+    password: pei
     rating: ~
   - Chinese: 舒生傑
     id: U9931031
-    name: 舒生傑
-    password: ~
+    name: Andy
+    password: sheng
     rating: ~
   - Chinese: 張純瑀
     id: U9931032
-    name: 張純瑀
-    password: ~
+    name: Rita
+    password: chun
     rating: ~
   - Chinese: 王建智
     id: U9931033
-    name: 王建智
-    password: ~
+    name: Gary
+    password: jian
     rating: ~
   - Chinese: 紀如庭
     id: U9931034
-    name: 紀如庭
-    password: ~
+    name: Cindy
+    password: ru
     rating: ~
   - Chinese: 吳芷錚
     id: U9931035
-    name: 吳芷錚
-    password: ~
+    name: Sophia
+    password: zhi
     rating: ~
   - Chinese: 黃淑容
     id: U9931036
-    name: 黃淑容
-    password: ~
+    name: Alice2
+    password: shu
     rating: ~
   - Chinese: 林佳緯
     id: U9931037
-    name: 林佳緯
-    password: ~
+    name: Jason
+    password: jia
     rating: ~
   - Chinese: 吳育豪
     id: U9931038
-    name: 吳育豪
-    password: ~
+    name: Fred
+    password: yu
     rating: ~
   - Chinese: 蔡宛蓁
     id: U9931039
-    name: 蔡宛蓁
-    password: ~
+    name: Jane
+    password: wan
     rating: ~
   - Chinese: 李宗翰
     id: U9931040
     name: 李宗翰
-    password: ~
+    password: zong
     rating: ~
   - Chinese: 梁薰方
     id: U9931041
-    name: 梁薰方
-    password: ~
+    name: Jojo
+    password: xun
     rating: ~
   - Chinese: 顏于婷
     id: U9931042
-    name: 顏于婷
-    password: ~
+    name: Helen
+    password: yu
     rating: ~
   - Chinese: '?雅雯'
     id: U9931043
-    name: '?雅雯'
-    password: ~
-    rating: ~
-  - Chinese: 莊竣弘
-    id: U9931045
-    name: 莊竣弘
-    password: ~
-    rating: ~
-  - Chinese: 梁丞佑
-    id: U9931046
-    name: 梁丞佑
-    password: ~
-    rating: ~
-  - Chinese: 周茂榮
-    id: U9931048
-    name: 周茂榮
-    password: ~
-    rating: ~
-  - Chinese: 葉哲瑋
-    id: U9931049
-    name: 葉哲瑋
-    password: ~
-    rating: ~
-  - Chinese: ''
-    id: 備註：學號前有*號者代表該生此科為待審核科目。
-    name: ''
-    password: ~
-    rating: ~
-out:
-  - Chinese: 何立維
-    id: U9916027
-    name: Eric
-    password: li
+    name: Kimberly
+    password: ya
     rating: ~
   - Chinese: 陳彥如
     id: U9931044
