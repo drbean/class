@@ -23,12 +23,12 @@ member:
     id: T9833024
     name: Jay
     password: xin
-    rating: ~
+    rating: 60
   - Chinese: 王證傑
     id: T9833026
     name: Harry
     password: zheng
-    rating: ~
+    rating: 48
   - Chinese: 許為智
     id: U9931001
     name: Willie
