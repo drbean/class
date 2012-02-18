@@ -1,7 +1,7 @@
 ---
 active: ''
-approach: Compcomp
 anterior: MIA0015
+approach: Compcomp
 compcomp: comp
 examMax: 5
 exams: exam
@@ -17,182 +17,182 @@ member:
     id: U9933001
     name: Fred
     password: yu
-    rating: ~
+    rating: 71
   - Chinese: 洪能凱
     id: U9933003
     name: Shane
     password: neng
-    rating: ~
+    rating: 82
   - Chinese: 陳曦
     id: U9933005
     name: Dora
     password: xi
-    rating: ~
+    rating: 83
   - Chinese: 林彥均
     id: U9933006
     name: Gene
     password: yan
-    rating: ~
+    rating: 70
   - Chinese: 徐曼萱
     id: U9933008
     name: Wendy
     password: man
-    rating: ~
+    rating: 79
   - Chinese: 謝名鈞
     id: U9933010
     name: Peter1
     password: ming
-    rating: ~
+    rating: 68
   - Chinese: 洪婉寧
     id: U9933011
     name: Linda1
     password: wan
-    rating: ~
+    rating: 79
   - Chinese: 陳威凱
     id: U9933017
     name: Peter2
     password: wei
-    rating: ~
+    rating: 78
   - Chinese: 張韶軒
     id: U9933020
     name: Alex
     password: shao
-    rating: ~
+    rating: 83
   - Chinese: 黃慧雅
     id: U9933022
     name: Sally
     password: hui
-    rating: ~
+    rating: 86
   - Chinese: 洪慧燕
     id: U9933023
     name: Ruby
     password: hui
-    rating: ~
+    rating: 76
   - Chinese: 吳宜嫺
     id: U9933024
     name: Sandy
     password: yi
-    rating: ~
+    rating: 77
   - Chinese: 陳林艷
     id: U9933025
     name: Mila
     password: lin
-    rating: ~
+    rating: 77
   - Chinese: 楊絜雲
     id: U9933026
     name: Anny
     password: jie
-    rating: ~
+    rating: 85
   - Chinese: 林聖家
     id: U9933027
     name: Albert
     password: sheng
-    rating: ~
+    rating: 81
   - Chinese: 黃嬿儒
     id: U9933029
     name: Ivy
     password: yan
-    rating: ~
+    rating: 77
   - Chinese: 劉文琪
     id: U9933030
     name: Cathy
     password: wen
-    rating: ~
+    rating: 72
   - Chinese: 王逸婷
     id: U9933031
     name: Evangeline
     password: yi
-    rating: ~
+    rating: 82
   - Chinese: 胡珮津
     id: U9933033
     name: Linda2
     password: pei
-    rating: ~
+    rating: 58
   - Chinese: 張富傑
     id: U9933037
     name: Kevin
     password: fu
-    rating: ~
+    rating: 70
   - Chinese: 張惠鈞
     id: U9933038
     name: Candy
     password: hui
-    rating: ~
+    rating: 48
   - Chinese: 林楷澤
     id: U9933039
     name: Tony
     password: kai
-    rating: ~
+    rating: 69
   - Chinese: 吳家豪
     id: U9933041
     name: Tom
     password: jia
-    rating: ~
+    rating: 73
   - Chinese: 張俊?
     id: U9933043
     name: Sam
     password: jun
-    rating: ~
+    rating: 68
   - Chinese: 劉彥伶
     id: U9933044
     name: Cranium
     password: yan
-    rating: ~
+    rating: 76
   - Chinese: 劉嘉隆
     id: U9933045
     name: Leo
     password: jia
-    rating: ~
+    rating: 79
   - Chinese: 李韋柔
     id: U9933107
     name: Claire
     password: wei
-    rating: ~
+    rating: 81
   - Chinese: 王映婷
     id: U9933108
     name: Tina
     password: ying
-    rating: ~
+    rating: 64
   - Chinese: 沈映均
     id: U9933109
     name: Jane
     password: ying
-    rating: ~
+    rating: 71
   - Chinese: 林嘉慧
     id: U9933112
     name: Alice
     password: jia
-    rating: ~
+    rating: 72
   - Chinese: 蔡承芳
     id: U9933116
     name: Kenny
     password: cheng
-    rating: ~
+    rating: 80
   - Chinese: 張翔傑
     id: U9933126
     name: Sean
     password: xiang
-    rating: ~
+    rating: 70
   - Chinese: 許祐誠
     id: U9933136
     name: Jordan
     password: you
-    rating: ~
+    rating: 78
   - Chinese: 石又伊
     id: U9933138
     name: Soymilk
     password: you
-    rating: ~
+    rating: 76
   - Chinese: 何政冠
     id: U9933139
     name: James
     password: zheng
-    rating: ~
+    rating: 66
   - Chinese: 蔡淑芬
     id: U9933143
     name: Sophia
     password: shu
-    rating: ~
+    rating: 76
 out:
   - Chinese: 陳冠霖
     id: U9933013
