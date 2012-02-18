@@ -1,6 +1,7 @@
 ---
 active: ''
 approach: Compcomp
+anterior: MIA0015
 compcomp: comp
 examMax: 5
 exams: exam
@@ -8,7 +9,7 @@ field: 商用英文實務(一)
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 001MIA0015
+id: 001MIA0013
 jigsaw: exam
 league: 日資管大學二甲
 member:
