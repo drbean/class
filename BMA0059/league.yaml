@@ -1,9 +1,9 @@
 ---
 absent: ~
 active: ~
+anterior: BMA0031
 approach: Compcomp
 compcomp: comp
-anterior: BMA0031
 examMax: 5
 exams: exam
 field: 商用英文實務(一)
@@ -33,223 +33,223 @@ member:
     id: U9931001
     name: Willie
     password: wei
-    rating: ~
+    rating: 57
   - Chinese: 彭盈惠
     id: U9931002
     name: Angel
     password: ying
-    rating: ~
+    rating: 77
   - Chinese: 黃凱琪
     id: U9931003
     name: Kathy
     password: kai
-    rating: ~
+    rating: 84
   - Chinese: 彭沁妤
     id: U9931004
     name: Kelly
     password: qin
-    rating: ~
+    rating: 76
   - Chinese: 張嫚容
     id: U9931006
     name: Sheryl
     password: man
-    rating: ~
+    rating: 83
   - Chinese: 蘇翊綺
     id: U9931007
     name: Nina
     password: yi
-    rating: ~
+    rating: 82
   - Chinese: 何佩珊
     id: U9931012
     name: Zara
     password: pei
-    rating: ~
+    rating: 78
   - Chinese: 黃于瑄
     id: U9931013
     name: Lulu
     password: yu
-    rating: ~
+    rating: 54
   - Chinese: 李詩詩
     id: U9931014
     name: Angeline
     password: shi
-    rating: ~
+    rating: 78
   - Chinese: 張雅綸
     id: U9931015
     name: Len
     password: ya
-    rating: ~
+    rating: 66
   - Chinese: 鄭兆秀
     id: U9931017
     name: Janet
     password: zhao
-    rating: ~
+    rating: 69
   - Chinese: 蔡瑩圜
     id: U9931022
     name: Irene
     password: ying
-    rating: ~
+    rating: 68
   - Chinese: 楊婷伊
     id: U9931025
     name: Amy1
     password: ting
-    rating: ~
+    rating: 79
   - Chinese: 陳蓉蓉
     id: U9931026
     name: Laura
     password: rong
-    rating: ~
+    rating: 72
   - Chinese: 簡妤玲
     id: U9931028
     name: Alice1
     password: yu
-    rating: ~
+    rating: 71
   - Chinese: 朱紫妤
     id: U9931029
     name: Karen
     password: zi
-    rating: ~
+    rating: 76
   - Chinese: 張純瑀
     id: U9931032
     name: Rita
     password: chun
-    rating: ~
+    rating: 71
   - Chinese: 紀如庭
     id: U9931034
     name: Cindy
     password: ru
-    rating: ~
+    rating: 70
   - Chinese: 林佳緯
     id: U9931037
     name: Jason
     password: jia
-    rating: ~
+    rating: 83
   - Chinese: 蔡宛蓁
     id: U9931039
     name: Jane
     password: wan
-    rating: ~
+    rating: 74
   - Chinese: 梁薰方
     id: U9931041
     name: Jojo
     password: xun
-    rating: ~
+    rating: 77
   - Chinese: 顏于婷
     id: U9931042
     name: Helen
     password: yu
-    rating: ~
+    rating: 64
   - Chinese: '?雅雯'
     id: U9931043
     name: Kimberly
     password: ya
-    rating: ~
+    rating: 81
   - Chinese: 賴詩婷
     id: U9931101
     name: Jenny
     password: shi
-    rating: ~
+    rating: 63
   - Chinese: 楊孟軒
     id: U9931102
     name: Kevin2
     password: meng
-    rating: ~
+    rating: 79
   - Chinese: 范心怡
     id: U9931103
     name: Nora
     password: xin
-    rating: ~
+    rating: 75
   - Chinese: 孫君儀
     id: U9931105
     name: Sandy1
     password: jun
-    rating: ~
+    rating: 64
   - Chinese: 吳佩蓉
     id: U9931109
     name: Cathy
     password: pei
-    rating: ~
+    rating: 79
   - Chinese: 蕭美玲
     id: U9931110
     name: Merlin
     password: mei
-    rating: ~
+    rating: 73
   - Chinese: 李伊純
     id: U9931111
     name: YiChun
     password: yi
-    rating: ~
+    rating: 78
   - Chinese: 葉錦霖
     id: U9931125
     name: Jim
     password: jin
-    rating: ~
+    rating: 73
   - Chinese: 陳佩璘
     id: U9931127
     name: Peilin
     password: pei
-    rating: ~
+    rating: 80
   - Chinese: 江佳蕙
     id: U9931129
     name: Flora
     password: jia
-    rating: ~
+    rating: 58
   - Chinese: 陳欣潔
     id: U9931130
     name: Lisa
     password: xin
-    rating: ~
+    rating: 73
   - Chinese: 林家瑜
     id: U9931133
     name: Amy3
     password: jia
-    rating: ~
+    rating: 65
   - Chinese: 邱雅婷
     id: U9931134
     name: Tina
     password: ya
-    rating: ~
+    rating: 80
   - Chinese: 黃敏華
     id: U9931138
     name: Mandy
     password: min
-    rating: ~
+    rating: 68
   - Chinese: 林雅婷
     id: U9931139
     name: Linda
     password: ya
-    rating: ~
+    rating: 71
   - Chinese: 楊尚偉
     id: U9931140
     name: Will
     password: shang
-    rating: ~
+    rating: 74
   - Chinese: 康瑤琳
     id: U9931142
     name: Sandy2
     password: yao
-    rating: ~
+    rating: 74
   - Chinese: 林芳儀
     id: U9931143
     name: Amy4
     password: fang
-    rating: ~
+    rating: 81
   - Chinese: 徐子茵
     id: U9931145
     name: Erin
     password: zi
-    rating: ~
+    rating: 62
   - Chinese: 許安廷
     id: U9931146
     name: Anting
     password: an
-    rating: ~
+    rating: 71
   - Chinese: 羅子竣
     id: U9931149
     name: Robert
     password: zi
-    rating: ~
-out:
+    rating: 72
+out: ~
 room: A705
 scores:
   bye: 5
