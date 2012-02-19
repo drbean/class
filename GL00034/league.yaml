@@ -16,77 +16,77 @@ member:
   - Chinese: 余吉承
     id: T9711003
     name: 余吉承
-    password: ~
+    password: ji
     rating: ~
   - Chinese: 陳桂蓉
     id: U9716058
     name: 陳桂蓉
-    password: ~
+    password: jia
     rating: ~
   - Chinese: 葉金鳳
     id: U9742015
     name: 葉金鳳
-    password: ~
+    password: jin
     rating: ~
   - Chinese: 李維軒
     id: U9816035
     name: 李維軒
-    password: ~
+    password: wei
     rating: ~
   - Chinese: 林雨珊
     id: U9816044
     name: 林雨珊
-    password: ~
+    password: yu
     rating: ~
   - Chinese: 萬文珊
     id: U9816045
     name: 萬文珊
-    password: ~
+    password: wen
     rating: ~
   - Chinese: 李偉承
     id: U9816051
     name: 李偉承
-    password: ~
+    password: wei
     rating: ~
   - Chinese: 丁德勝
     id: U9816054
     name: 丁德勝
-    password: ~
+    password: de
     rating: ~
   - Chinese: 林祐銘
     id: U9818019
     name: 林祐銘
-    password: ~
+    password: you
     rating: ~
   - Chinese: 蔣秉書
     id: U9818035
     name: 蔣秉書
-    password: ~
+    password: bing
     rating: ~
   - Chinese: 陳詩媛
     id: U9818048
     name: 陳詩媛
-    password: ~
+    password: shi
     rating: ~
   - Chinese: 吳思賢
     id: U9914051
     name: 吳思賢
-    password: ~
+    password: si
     rating: ~
   - Chinese: 王中奕
     id: U9931123
     name: 王中奕
-    password: ~
+    password: zhong
     rating: ~
   - Chinese: 邱雅婷
     id: U9931134
     name: Tina
-    password: ~
+    password: ya
     rating: ~
   - Chinese: 羅子竣
     id: U9931149
     name: Robert
-    password: ~
+    password: zi
     rating: ~
 out:
 room: 2205
