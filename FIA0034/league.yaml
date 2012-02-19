@@ -1,6 +1,7 @@
 ---
 absent: ~
 active: ~
+anterior: FIA0012
 approach: Compcomp
 compcomp: comp
 examMax: 5
@@ -9,7 +10,7 @@ field: 商用英文實務(一)
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 001FIA0012
+id: 001FIA0034
 jigsaw: exam
 league: 日財金大學二甲
 member:
