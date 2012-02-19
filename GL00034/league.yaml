@@ -9,7 +9,7 @@ field: 中級英文聽說訓練
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 001GL00016
+id: 001GL00034
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
@@ -89,7 +89,7 @@ member:
     password: ~
     rating: ~
 out:
-room: 2110
+room: 2205
 weights:
   classwork: 70
   exams: 15
