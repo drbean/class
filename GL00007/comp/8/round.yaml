@@ -1,0 +1,51 @@
+---
+activity:
+  nguyen:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+group:
+  0:
+     White: U9631020
+     Black: V9741009
+  1:
+    White: U0013147
+    Black: U9915004
+  2:
+    White: U9723020
+    Black: U9713044
+  3:
+    White: V9741030
+    Black: U9711132
+  4:
+    White: U9711120
+    Black: U9711105
+  5:
+    White: U9922232
+    Black: V9741038
+  6:
+    White: T9833016
+    Black: V9741060
+  7:
+    White: U9922318
+    Black: V9741057
+  8:
+    White: U0021016
+    Black: T9833025
+  9:
+    White: V9741010
+    Black: V9741059
+late:
+  - V9741009
+pairing: swiss adjusted
+round: 8
+text: /home/drbean/class/conversation/intercultural/cards.yaml
+week: 11

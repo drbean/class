@@ -1,0 +1,135 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: nguyen
+grade:
+  T9833016: 2
+  T9833025: 2
+  U0013147: 0
+  U0021016: 1
+  U9631020: 2
+  U9711105: 2
+  U9711120: 2
+  U9711132: 2
+  U9713020: 0
+  U9713044: 2
+  U9718012: 1
+  U9723020: 0
+  U9915004: 2
+  U9922203: 0
+  U9922232: 2
+  U9922318: 0
+  V9741009: 0
+  V9741010: 2
+  V9741029: 2
+  V9741030: 2
+  V9741038: 2
+  V9741057: 2
+  V9741059: 1
+  V9741060: 2
+points:
+  T9833016:
+    S: 0
+    Yn: 3
+    letters: 743
+    percent: 100
+  T9833025:
+    S: 0
+    Yn: 0
+    letters: 743
+    percent: 100
+  U0013147:
+    letters: 0
+    percent: 0
+  U0021016:
+    letters: 224
+    percent: 30
+  U9631020:
+    S: 0
+    Yn: 3
+    letters: 743
+    percent: 100
+  U9711105:
+    S: 6
+    Yn: 0
+    letters: 708
+    percent: 95
+  U9711120:
+    S: 0
+    Yn: 3
+    letters: 743
+    percent: 100
+  U9711132:
+    S: 0
+    Yn: 3
+    letters: 743
+    percent: 100
+  U9713020:
+    letters: 0
+    percent: 0
+  U9713044:
+    S: 0
+    Yn: 0
+    letters: 743
+    percent: 100
+  U9718012:
+    S: 0
+    Yn: 0
+    letters: 156
+    percent: 21
+  U9723020:
+    letters: 0
+    percent: 0
+  U9915004:
+    letters: 741
+    percent: 100
+  U9922203:
+    letters: 0
+    percent: 0
+  U9922232:
+    S: 0
+    Yn: 0
+    letters: 743
+    percent: 100
+  U9922318:
+    letters: 0
+    percent: 0
+  V9741009:
+    letters: 0
+    percent: 0
+  V9741010:
+    S: 0
+    Yn: 0
+    letters: 743
+    percent: 100
+  V9741029:
+    S: 0
+    Yn: 0
+    letters: 743
+    percent: 100
+  V9741030:
+    S: 0
+    Yn: 1
+    letters: 743
+    percent: 100
+  V9741038:
+    S: 0
+    Yn: 0
+    letters: 684
+    percent: 92
+  V9741057:
+    S: 0
+    Yn: 0
+    letters: 743
+    percent: 100
+  V9741059:
+    S: 0
+    Yn: 0
+    letters: 182
+    percent: 24
+  V9741060:
+    S: 0
+    Yn: 1
+    letters: 743
+    percent: 100

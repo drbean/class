@@ -1,0 +1,52 @@
+---
+activity:
+  smallwood:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+group:
+  0:
+    White: V9741059
+    Black: V9741060
+  1:
+    White: T9833016
+    Black: U9631020
+  2:
+    White: U9915004
+    Black: U9711120
+  3:
+    White: V9741009
+    Black: V9741010
+  4:
+    White: U9718012
+    Black: U9711132
+  5:
+    White: U9711105
+    Black: U9922318
+  6:
+    White: V9741057
+    Black: U9922232
+  7:
+    White: T9833025
+    Black: V9741030
+  8:
+    White: V9741038
+    Black: U0021016
+  9:
+     White: U9723020
+     Black: V9741029
+late:
+  - U9723020
+  - V9741029
+pairing: swiss adjusted
+round: 13
+text: /home/drbean/class/business/greatideas/cards.yaml
+week: 16

@@ -1,0 +1,45 @@
+---
+activity:
+  jackson:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+group:
+  0:
+    White: U9713020
+    Black: U0013147
+  1:
+    White: V9741060
+    Black: V9741038
+  2:
+    White: V9741030
+    Black: T9833016
+  3:
+    White: V9741010
+    Black: U9718012
+  4:
+    White: U9922232
+    Black: U9711105
+  5:
+    White: U9711120
+    Black: V9741009
+  6:
+    White: U9711132
+    Black: U9915004
+  7:
+    White: U0021016
+    Black: T9833025
+late:
+  - U9713020 # he left
+  - V9741029
+bye: V9741029
+pairing: swiss adjusted
+round: 14 (was 3)
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 17
