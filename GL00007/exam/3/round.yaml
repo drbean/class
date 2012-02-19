@@ -1,0 +1,57 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 10
+pass: 5
+assistant:
+  - Chris
+  - Ivy
+absent:
+  - Alan
+  - Hudi
+text: /home/drbean/class/conversation/intercultural/cards.yaml
+activity:
+  fernandez:
+    0:
+      - Black
+      - Orange
+  nguyen:
+    0:
+      - Gray
+      - Green
+  mestas:
+    0:
+      - Blue
+      - Purple
+group:
+  Black:
+    - Vic
+    - Nick
+    - Vikin
+    - James
+  Blue:
+    - Ivy
+    - Wen-hsin
+    - Hazel
+    - Nina
+  Gray:
+    - Chris
+    - Jerry
+    - Kumiko
+    - Lin
+  Green:
+    - Sam
+    - Chris
+    - GuoLun
+    - Kathy
+  Orange:
+    - WanLin
+    - Candy
+    - Kai
+    - Andy
+  Purple:
+    - Jusky
+    - Donna
+    - Mark
+    - Ivy

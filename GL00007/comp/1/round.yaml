@@ -1,0 +1,58 @@
+---
+activity:
+  allen:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+group:
+  0:
+    White: U9711105
+    Black: V9741009
+  1:
+    White: U9814127
+    Black: U0021016
+  2:
+    White: V9741060
+    Black: U9631020
+  3:
+    White: U9713044
+    Black: V9741057
+  4:
+    White: U9711132
+    Black: V9741010
+  5:
+    White: V9741038
+    Black: V9741059
+  6:
+     White: T9833025
+     Black: V9741030
+  7:
+     White: T9833016
+     Black: U9718048
+  8:
+     White: U9711120
+     Black: V9741029
+  9:
+     White: U9922232
+     Black: T9833027
+  10:
+     White: U9713020
+     Black: U9718012
+  11:
+     White: U9742033
+     Black: U9922318
+late:
+  - ~
+round: 1
+text: ../../class/conversation/marriage/cards.yaml
+week: 3

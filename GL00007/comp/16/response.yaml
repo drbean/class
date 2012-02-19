@@ -1,0 +1,71 @@
+---
+0:
+  dickson:
+    0:
+      free:
+        U9723020:
+          point:
+            1: Unreturned
+            2: Unreturned
+        U9915004:
+          point:
+            1: Fault
+            2: Fault
+1:
+  dickson:
+    0:
+      free:
+        U0013147:
+          point:
+            1: Unreturned
+            2: Unreturned
+        V9741059:
+          point:
+            1: Unreturned
+            2: Fault
+2:
+  dickson:
+    0:
+      free:
+        V9741057:
+          point:
+            1: Fault
+            2: Fault
+        U9711120:
+          point:
+            1: Fault
+            2: Unreturned
+3:
+  dickson:
+    0:
+      free:
+        T9833016:
+          point:
+            1: Fault
+        U9922318:
+          point:
+            1: Fault
+7:
+  dickson:
+    0:
+      free:
+        T9833025:
+          point:
+            1: Rally
+            2: Rally
+        V9741009:
+          point:
+            1: Rally
+            2: Unreturned
+8:
+  dickson:
+    0:
+      free:
+        U9711132:
+          point:
+            1: Rally
+            2: Rally
+        V9741038:
+          point:
+            1: Fault
+            2: Rally

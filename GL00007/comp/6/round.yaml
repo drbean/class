@@ -1,0 +1,84 @@
+---
+activity:
+  rueda:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+  salazar:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+  vanbeke:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+group:
+  0:
+    White: U9922203
+    Black: U9915004
+  1:
+    White: V9741009
+    Black: U9713044
+  2:
+    White: U9711105
+    Black: V9741038
+  3:
+    White: U9711132
+    Black: U9711120
+  4:
+    White: U9922232
+    Black: V9741030
+  5:
+    White: U9713020
+    Black: V9741010
+  8:
+    White: V9741029
+    Black: U9922318
+  9:
+    White: T9833016
+    Black: T9833025
+  10:
+    White: V9741059
+    Black: V9741060
+  11:
+    White: V9741057
+    Black: U0021016
+  12:
+     White: U9723020
+     Black: U0013147
+bye: U9718012
+  
+late:
+  - U0013147
+  - U9723020
+pairing: swiss
+round: 6
+text: /home/drbean/class/conversation/poverty/cards.yaml
+week: 9

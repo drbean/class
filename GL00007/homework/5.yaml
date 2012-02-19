@@ -1,0 +1,127 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: rueda
+grade:
+  T9833016: 2
+  T9833025: 2
+  U0013147: 0
+  U0021016: 2
+  U9631020: 2
+  U9711105: 2
+  U9711120: 2
+  U9711132: 2
+  U9713020: 2
+  U9713044: 2
+  U9718012: 1
+  U9723020: 0
+  U9915004: 2
+  U9922203: 2
+  U9922232: 2
+  U9922318: 2
+  V9741009: 1
+  V9741010: 1
+  V9741029: 2
+  V9741030: 2
+  V9741038: 1
+  V9741057: 2
+  V9741059: 0
+  V9741060: 2
+points:
+  T9833016:
+    letters: 228
+    percent: 91
+    questions: ~
+  T9833025:
+    letters: 251
+    percent: 100
+    questions: ~
+  U0013147:
+    letters: 0
+    percent: 0
+    questions: ~
+  U0021016:
+    letters: 243
+    percent: 100
+    questions: ~
+  U9631020:
+    letters: 223
+    percent: 100
+    questions: ~
+  U9711105:
+    letters: 211
+    percent: 95
+    questions: ~
+  U9711120:
+    letters: 238
+    percent: 98
+    questions: ~
+  U9711132:
+    letters: 243
+    percent: 100
+    questions: ~
+  U9713020:
+    letters: 248
+    percent: 100
+    questions: ~
+  U9713044:
+    letters: 251
+    percent: 100
+    questions: ~
+  U9718012:
+    letters: 202
+    percent: 80
+    questions: ~
+  U9723020:
+    letters: 0
+    percent: 0
+    questions: ~
+  U9915004:
+    letters: 223
+    percent: 100
+    questions: ~
+  U9922203:
+    letters: 251
+    percent: 100
+    questions: ~
+  U9922232:
+    letters: 243
+    percent: 100
+    questions: ~
+  U9922318:
+    letters: 251
+    percent: 100
+    questions: ~
+  V9741009:
+    letters: 162
+    percent: 65
+    questions: ~
+  V9741010:
+    letters: 182
+    percent: 73
+    questions: ~
+  V9741029:
+    letters: 243
+    percent: 100
+    questions: ~
+  V9741030:
+    letters: 243
+    percent: 100
+    questions: ~
+  V9741038:
+    letters: 201
+    percent: 80
+    questions: ~
+  V9741057:
+    letters: 236
+    percent: 95
+    questions: ~
+  V9741059:
+    letters: 0
+    percent: 0
+    questions: ~
+  V9741060:
+    letters: 243
+    percent: 100
+    questions: ~

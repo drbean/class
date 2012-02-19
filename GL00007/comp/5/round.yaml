@@ -1,0 +1,47 @@
+---
+activity:
+  vanbeke:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+group:
+  1:
+    White: U0013147
+    Black: U9711105
+  2:
+    White: U9711120
+    Black: U9713020
+  3:
+    White: U9631020
+    Black: U9723020
+  4:
+    White: V9741060
+    Black: U9711132
+  5:
+    White: V9741010
+    Black: V9741029
+  6:
+    White: U9922318
+    Black: U0021016
+  7:
+    White: V9741059
+    Black: T9833016
+  8:
+    White: T9833025
+    Black: V9741057
+  0:
+     White: U9915004
+     Black: V9741009
+late:
+  - V9741009
+pairing: swiss adjusted
+round: 5
+text: /home/drbean/class/conversation/poverty/cards.yaml
+week: 8
