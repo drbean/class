@@ -20,19 +20,19 @@ member:
     rating: 80
   - Chinese: 胡語倫
     id: N9661712
-    name: ~
-    password: ~
-    rating: ~
+    name: Allen
+    password: yu
+    rating: 64
   - Chinese: 吳佳樺
     id: N9661752
-    name: ~
-    password: ~
-    rating: ~
+    name: Michelle
+    password: jia
+    rating: 88
   - Chinese: 杜珮瑜
     id: V0041028
-    name: ~
-    password: ~
-    rating: ~
+    name: 杜珮瑜
+    password: pei
+    rating: 0
   - Chinese: 陳昱樺
     id: V9724004
     name: Nancy
@@ -65,9 +65,9 @@ member:
     rating: 75
   - Chinese: 林芸竹
     id: V9741028
-    name: ~
-    password: ~
-    rating: ~
+    name: Carol
+    password: yun
+    rating: 76
   - Chinese: 傅泓瑜
     id: V9741029
     name: Kumiko
@@ -134,7 +134,7 @@ member:
     password: zhi
     rating: 72
 out: ~
-room: A706
+room: A705
 weights:
   classwork: 40
   exams: 20
