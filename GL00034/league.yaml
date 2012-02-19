@@ -82,12 +82,12 @@ member:
     id: U9931134
     name: Tina
     password: ya
-    rating: ~
+    rating: 80
   - Chinese: 羅子竣
     id: U9931149
     name: Robert
     password: zi
-    rating: ~
+    rating: 72
 out:
 room: 2205
 weights:
