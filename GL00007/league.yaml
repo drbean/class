@@ -9,99 +9,99 @@ field: 中級英文聽說訓練
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 001GL00003
+id: 001GL00007
 jigsaw: exam
 league: 日語文共同學制虛擬班二甲
 member:
   - Chinese: 徐稑
     id: T9711006
     name: 徐稑
-    password: ~
+    password: lu
     rating: ~
   - Chinese: 黃丞沂
     id: T9716021
     name: 黃丞沂
-    password: ~
+    password: cheng
     rating: ~
   - Chinese: 蘇敏弘
     id: T9722042
     name: 蘇敏弘
-    password: ~
+    password: min
     rating: ~
   - Chinese: 陳昱中
     id: U9711044
     name: 陳昱中
-    password: ~
+    password: yu
     rating: ~
   - Chinese: 黃靖雯
     id: U9716007
     name: 黃靖雯
-    password: ~
+    password: jing
     rating: ~
   - Chinese: 彭政偉
     id: U9722006
     name: 彭政偉
-    password: ~
+    password: zheng
     rating: ~
   - Chinese: 陳妏函
     id: U9722011
     name: 陳妏函
-    password: ~
+    password: wen
     rating: ~
   - Chinese: 卓一弘
     id: U9723004
     name: 卓一弘
-    password: ~
+    password: yi
     rating: ~
   - Chinese: 吳雨樵
     id: U9731008
     name: 吳雨樵
-    password: ~
+    password: yu
     rating: ~
   - Chinese: 許伊涵
     id: U9742016
     name: 許伊涵
-    password: ~
+    password: yi
     rating: ~
   - Chinese: 張珈瑄
     id: U9742031
     name: 張珈瑄
-    password: ~
+    password: jia
     rating: ~
   - Chinese: 陳榆佳
     id: U9742038
     name: 陳榆佳
-    password: ~
+    password: yu
     rating: ~
   - Chinese: 吳佳漢
     id: U9742040
     name: 吳佳漢
-    password: ~
+    password: jia
     rating: ~
   - Chinese: 花佳君
     id: U9814113
     name: 花佳君
-    password: ~
+    password: jia
     rating: ~
   - Chinese: 塗映涵
     id: U9822143
     name: 塗映涵
-    password: ~
+    password: ying
     rating: ~
   - Chinese: 劉昌政
     id: U9822148
     name: 劉昌政
-    password: ~
+    password: chang
     rating: ~
   - Chinese: 王瑋茜
     id: U9943034
     name: 王瑋茜
-    password: ~
+    password: wei
     rating: ~
   - Chinese: 陳玫均
     id: U9943035
     name: 陳玫均
-    password: ~
+    password: mei
     rating: ~
 out:
 room: 2110
