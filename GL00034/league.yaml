@@ -13,130 +13,82 @@ id: 001GL00016
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
-
-  - Chinese: 吳偉宗
-    name: Daniel
-    password: wei
-    id: U9822150
+  - Chinese: 余吉承
+    id: T9711003
+    name: 余吉承
+    password: ~
     rating: ~
-
-  - Chinese: 張杏君
-    id: V9731059
-    name: Vivi
-    password: xing
-    rating: 73
-
-  - Chinese: 林潔鞍
-    name: Roy
-    password: jie
-    id: U9922143
+  - Chinese: 陳桂蓉
+    id: U9716058
+    name: 陳桂蓉
+    password: ~
     rating: ~
-  
-  - Chinese: 黃國軒
-    name: Kenni
-    password: guo
-    id: T9821018
+  - Chinese: 葉金鳳
+    id: U9742015
+    name: 葉金鳳
+    password: ~
     rating: ~
-  - Chinese: 尤欣洋
-    name: Dalai
-    password: xin
-    id: U9934051
+  - Chinese: 李維軒
+    id: U9816035
+    name: 李維軒
+    password: ~
     rating: ~
-  
-  
-  - Chinese: 張思羽
-    id: T9833004
-    name: Si-Yu
-    password: si
+  - Chinese: 林雨珊
+    id: U9816044
+    name: 林雨珊
+    password: ~
     rating: ~
-  - Chinese: 葉宜庭
-    id: T9833033
-    name: Vicky
-    password: yi
+  - Chinese: 萬文珊
+    id: U9816045
+    name: 萬文珊
+    password: ~
     rating: ~
-  - Chinese: 吳佳蓉
-    id: U9934002
-    name: Julie
-    password: jia
+  - Chinese: 李偉承
+    id: U9816051
+    name: 李偉承
+    password: ~
     rating: ~
-  - Chinese: 劉冠伶
-    id: U9934003
-    name: Emily
-    password: guan
+  - Chinese: 丁德勝
+    id: U9816054
+    name: 丁德勝
+    password: ~
     rating: ~
-  - Chinese: 葉偉君
-    id: U9934021
-    name: Daisy
-    password: wei
+  - Chinese: 林祐銘
+    id: U9818019
+    name: 林祐銘
+    password: ~
     rating: ~
-  - Chinese: 韓偲羽
-    id: U9934025
-    name: Annie
-    password: si
+  - Chinese: 蔣秉書
+    id: U9818035
+    name: 蔣秉書
+    password: ~
+    rating: ~
+  - Chinese: 陳詩媛
+    id: U9818048
+    name: 陳詩媛
+    password: ~
+    rating: ~
+  - Chinese: 吳思賢
+    id: U9914051
+    name: 吳思賢
+    password: ~
+    rating: ~
+  - Chinese: 王中奕
+    id: U9931123
+    name: 王中奕
+    password: ~
+    rating: ~
+  - Chinese: 邱雅婷
+    id: U9931134
+    name: Tina
+    password: ~
+    rating: ~
+  - Chinese: 羅子竣
+    id: U9931149
+    name: Robert
+    password: ~
     rating: ~
 out:
-  - Chinese: Charlie
-    name: Charlie
-    password: cha
-    id: T9822043
-    rating: ~
-  - Chinese: 何立維
-    name: Eric
-    password: li
-    id: U9916027
-    rating: ~
-  - Chinese: 王柏鈞
-    name: Billy
-    password: bo
-    id: T9821003
-    rating: ~
-  - Chinese: 李泓明
-    name: Ming
-    password: hong
-    id: T9821024
-    rating: ~
-  
-  - Chinese: 葉文慈
-    name: Sylvia
-    password: wen
-    id: U0031026
-    rating: ~
-  - Chinese: 謝捷茹
-    id: U9918024
-    name: Peggy
-    password: jie
-    rating: ~
-  - Chinese: 蔡依紜
-    id: U9816015
-    name: Karen
-    password: yi
-    rating: ~
-  - Chinese: 李?鑾
-    id: U9942012
-    name: Helen
-    password: ?
-    rating: ~
-  - Chinese: 翁煌承
-    name: Eric
-    password: huang
-    id: U9918036
-    rating: ~
-  - Chinese: 杜晃琳
-    id: T9711047
-    name: 杜晃琳
-    password: huang
-    rating: ~
-  - Chinese: 林美君
-    id: U9918057
-    name: Minnie
-    password: mei
-    rating: ~
-  - Chinese: 丁偉傑
-    name: Bill
-    password: wei
-    id: U9922129
-    rating: ~
-  
 room: 2110
 weights:
   classwork: 70
