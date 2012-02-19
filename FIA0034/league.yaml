@@ -13,28 +13,6 @@ id: 001FIA0012
 jigsaw: exam
 league: 日財金大學二甲
 member:
-  - Chinese: 鄭惠蓮
-    name: Lilith
-    password: hui
-    id: U9816024
-    rating: ~
-  
-  - Chinese: 王證傑
-    name: Harry
-    password: zheng
-    id: T9833026
-    rating: ~
-  
-  - Chinese: 黃程浩
-    id: T9833008
-    name: Sam2
-    password: cheng
-    rating: ~
-  - Chinese: 陳信丞
-    id: T9833024
-    name: Jay2
-    password: xin
-    rating: ~
   - Chinese: 李姿儀
     id: U9913132
     name: Cindy
@@ -265,6 +243,12 @@ member:
     name: Dalai
     password: xin
     rating: ~
+  - Chinese: 陳韋廷
+    name: 陳韋廷
+    password: wei
+    id: U9934052
+    rating: ~
+  
 out: ~
 room: A705
 scores:
