@@ -1,5 +1,6 @@
 ---
 absent: ~
+anterior: FLA0015
 approach: Compcomp
 compcomp: comp
 examMax: 4
@@ -8,7 +9,7 @@ field: 英語會話(一)
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 001FLA0015
+id: 001FLA0010
 jigsaw: exam
 league: 夜應外大學二甲
 member:
