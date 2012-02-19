@@ -16,279 +16,279 @@ member:
   - Chinese: 陳彥叡
     id: 9622299
     name: Edison
-    password: ~
-    rating: 59
+    password: yan
+    rating: 60
   - Chinese: 劉茹芬
     id: N9661749
     name: Chelsea
-    password: ~
+    password: ru
     rating: 64
   - Chinese: 羅尹妮
     id: V9741022
-    name: ~
-    password: ~
-    rating: ~
+    name: 羅尹妮
+    password: yi
+    rating: 0
   - Chinese: 賴宣蓉
     id: V9741057
-    name: ~
-    password: ~
-    rating: ~
+    name: Nina
+    password: xuan
+    rating: 89
   - Chinese: 王寧
     id: V9741059
-    name: ~
-    password: ~
-    rating: ~
+    name: Ivy
+    password: ning
+    rating: 67
   - Chinese: 林志豪
     id: V9741066
     name: Joe
-    password: ~
+    password: zhi
     rating: 72
   - Chinese: 陳彥瑋
     id: V9841001
     name: Travis
-    password: ~
+    password: yan
     rating: 76
   - Chinese: 葉瓊惠
     id: V9841025
     name: Sandy
-    password: ~
+    password: qiong
     rating: 71
   - Chinese: 李家安
     id: V9841042
     name: Joanna
-    password: ~
+    password: jia
     rating: 6
   - Chinese: 湯浩軍
     id: V9841063
     name: Tea
-    password: ~
+    password: hao
     rating: 22
   - Chinese: 邱珞媺
     id: V9841068
-    name: ~
-    password: ~
-    rating: ~
+    name: 邱珞媺
+    password: lu
+    rating: 0
   - Chinese: 黎彥廷
     id: V9916050
     name: Yan-Ting
-    password: ~
+    password: yan
     rating: 21
   - Chinese: 吳仰婷
     id: V9941001
     name: Yang-ting
-    password: ~
+    password: yang
     rating: 75
   - Chinese: 謝旻諺
     id: V9941003
     name: Jibson
-    password: ~
+    password: min
     rating: 72
   - Chinese: 徐?焜
     id: V9941005
     name: Innocent
-    password: ~
+    password: '?'
     rating: 59
   - Chinese: 朱文章
     id: V9941007
     name: Redd
-    password: ~
+    password: wen
     rating: 73
   - Chinese: 湯明勳
     id: V9941010
     name: Robert
-    password: ~
+    password: ming
     rating: 73
   - Chinese: 鍾興科
     id: V9941011
     name: Adam
-    password: ~
+    password: xing
     rating: 79
   - Chinese: '?翔義'
     id: V9941012
     name: XiangYi
-    password: ~
+    password: xiang
     rating: 80
   - Chinese: 洪詠舜
     id: V9941013
     name: Yong-Shun
-    password: ~
+    password: yong
     rating: 71
   - Chinese: 謝東霖
     id: V9941014
     name: Tony
-    password: ~
+    password: dong
     rating: 75
   - Chinese: 涂為智
     id: V9941015
     name: Henry
-    password: ~
+    password: wei
     rating: 76
   - Chinese: 何杰倫
     id: V9941016
     name: Jielun
-    password: ~
+    password: jie
     rating: 38
   - Chinese: 陳俞靜
     id: V9941022
     name: Vicki
-    password: ~
+    password: yu
     rating: 83
   - Chinese: 彭姿菁
     id: V9941023
     name: Tzu-Ching
-    password: ~
+    password: zi
     rating: 71
   - Chinese: 陳乙瑄
     id: V9941025
     name: Sharon
-    password: ~
+    password: yi
     rating: 81
   - Chinese: 張真黛
     id: V9941026
     name: Zhen-Dai
-    password: ~
+    password: zhen
     rating: 81
   - Chinese: 楊琬茹
     id: V9941027
     name: Wan-Ru
-    password: ~
+    password: wan
     rating: 74
   - Chinese: 張雅婷
     id: V9941029
     name: YaTing1
-    password: ~
+    password: ya
     rating: 59
   - Chinese: 洪欣慈
     id: V9941031
     name: Hsin-Cih
-    password: ~
+    password: xin
     rating: 59
   - Chinese: 曾馨誼
     id: V9941032
     name: Mary
-    password: ~
+    password: xin
     rating: 88
   - Chinese: 曾姿蒨
     id: V9941033
     name: Zi-Qian
-    password: ~
+    password: zi
     rating: 82
   - Chinese: 陳采玲
     id: V9941036
     name: Cai-ling
-    password: ~
+    password: cai
     rating: 67
   - Chinese: 劉紋君
     id: V9941037
     name: WenJun
-    password: ~
+    password: wen
     rating: 75
   - Chinese: 羅苡心
     id: V9941039
     name: Mita
-    password: ~
+    password: yi
     rating: 8
   - Chinese: 莊翌蝶
     id: V9941040
     name: Claire
-    password: ~
+    password: yi
     rating: 60
   - Chinese: 賴淑君
     id: V9941043
     name: Shu-Jun
-    password: ~
+    password: shu
     rating: 63
   - Chinese: 黃宇襄
     id: V9941045
     name: Jill
-    password: ~
+    password: yu
     rating: 84
   - Chinese: 蕭莉娟
     id: V9941046
     name: LiJuan
-    password: ~
+    password: li
     rating: 81
   - Chinese: 徐婉綾
     id: V9941047
     name: Wan-Ling
-    password: ~
+    password: wan
     rating: 78
   - Chinese: 詹春英
     id: V9941049
     name: Chun-Ying
-    password: ~
+    password: chun
     rating: 80
   - Chinese: 詹春華
     id: V9941050
     name: Chun-Hua
-    password: ~
+    password: chun
     rating: 81
   - Chinese: 謝佳汝
     id: V9941051
     name: 謝佳汝
-    password: ~
+    password: jia
     rating: 0
   - Chinese: 張鉯芸
     id: V9941057
     name: David
-    password: ~
+    password: yi
     rating: 77
   - Chinese: 黃于真
     id: V9941059
     name: Sophia1
-    password: ~
+    password: yu
     rating: 79
   - Chinese: 吳李龍
     id: V9941060
     name: Leon
-    password: ~
+    password: li
     rating: 65
   - Chinese: 范治偉
     id: V9941062
     name: Zhi-Wei
-    password: ~
+    password: zhi
     rating: 59
   - Chinese: 鄭合真
     id: V9941064
-    name: ~
-    password: ~
-    rating: ~
+    name: 鄭合真
+    password: he
+    rating: 0
   - Chinese: 劉好英
     id: V9941067
     name: Ivy
-    password: ~
+    password: hao
     rating: 77
   - Chinese: 徐艷昀
     id: V9941068
     name: Yan-Yun
-    password: ~
+    password: yan
     rating: 82
   - Chinese: 蔡佩芸
     id: V9941069
     name: Pei-Yun
-    password: ~
+    password: pei
     rating: 65
   - Chinese: 陳雅婷
     id: V9941071
     name: YaTing2
-    password: ~
+    password: ya
     rating: 78
   - Chinese: 楊千慧
     id: V9941073
     name: QianHui
-    password: ~
+    password: qian
     rating: 84
   - Chinese: 林柏如
     id: V9941075
     name: Brenda
-    password: ~
+    password: bo
     rating: 32
   - Chinese: 謝孟璇
     id: V9941076
     name: MengShiung
-    password: ~
+    password: meng
     rating: 51
-out: ~
+out:
 room: A706
 scores:
   bye: 5
