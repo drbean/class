@@ -13,6 +13,17 @@ id: 001FLA0010
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+  - Chinese: 陳昱樺
+    id: V9724004
+    name: Nancy
+    password: yu
+    rating: 72
+  - Chinese: 黃綠蘋
+    id: N9661754
+    name: Julia
+    password: lu
+    rating: 65
+
   - Chinese: 陳彥叡
     id: 9622299
     name: Edison
