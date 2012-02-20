@@ -84,11 +84,6 @@ member:
     name: Janet
     password: zhao
     rating: 69
-  - Chinese: 蔡瑩圜
-    id: U9931022
-    name: Irene
-    password: ying
-    rating: 68
   - Chinese: 楊婷伊
     id: U9931025
     name: Amy1
@@ -249,7 +244,12 @@ member:
     name: Robert
     password: zi
     rating: 72
-out: ~
+out:
+  - Chinese: 蔡瑩圜
+    id: U9931022
+    name: Irene
+    password: ying
+    rating: 68
 room: A705
 scores:
   bye: 5
