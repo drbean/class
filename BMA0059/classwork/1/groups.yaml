@@ -1,60 +1,64 @@
 ---
 Black:
-  - Harry
-  - Jim
-  - Merlin
-  - Jason
-Blue:
-  - 楊耀鈞
-  - Robert
-  - Sandy2
-  - Sheryl
-Brown:
-  - Willie
-  - Laura
-  - Will
-  - Nina
-Gray:
-  - Flora
-  - Rita
-  - Jane
-  - Amy4
-Green:
-  - Jay
-  - Anting
-  - Nora
-  - Kimberly
-Orange:
-  - Erin
-  - Alice1
-  - Kelly
-  - Peilin
-Pink:
-  - Jenny
-  - Linda
-  - Karen
-  - Tina
-Purple:
-  - Helen
-  - Cindy
-  - Jojo
-  - Cathy
-Red:
-  - Sandy1
-  - Janet
-  - Angel
-  - Kevin2
-White:
-  - Amy3
-  - Irene
-  - YiChun
-  - Amy1
-Yellow:
-  - Len
-  - Mandy
-  - Zara
-  - Angeline
-YellowYellow:
   - Lulu
   - Lisa
+  - Jason
+BlackBlack:
+  - 楊耀鈞
+  - Lisa
+  - Sheryl
+Blue:
+  - Willie
+  - Merlin
+  - Nina
+BlueBlue:
+  - Flora
+  - Jim
+  - Amy4
+Brown:
+  - Jay
+  - Sandy2
+  - Kimberly
+BrownBrown:
+  - Erin
+  - Robert
+  - Peilin
+Gray:
+  - Jenny
+  - Will
+  - Tina
+GrayGray:
+  - Helen
+  - Laura
+  - Cathy
+Green:
+  - Sandy1
+  - Jane
+  - Kevin2
+GreenGreen:
+  - Amy3
+  - Rita
+  - Amy1
+Orange:
+  - Len
+  - Nora
+  - Angeline
+Pink:
+  - Mandy
+  - Anting
+  - Zara
+Purple:
+  - Irene
+  - Kelly
+  - YiChun
+Red:
+  - Janet
+  - Alice1
+  - Angel
+White:
+  - Cindy
+  - Karen
+  - Jojo
+Yellow:
+  - Harry
   - Kathy
