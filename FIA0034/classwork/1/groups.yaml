@@ -2,64 +2,64 @@
 Black:
   - 陳韋廷
   - Orton
-  - Ting
+  - Tommy
 BlackBlack:
-  - Sherry
-  - Orton
-  - Bob
-Blue:
-  - Jason
-  - Dalai
-  - Doris
-BlueBlue:
-  - Jack1
+  - Sam1
   - Bill
-  - Annie
-Brown:
-  - Jeff
-  - Joe
-  - Reese
-BrownBrown:
-  - Amy1
+  - Ting
+Blue:
+  - Ezra
+  - Dalai
+  - Bob
+BlueBlue:
+  - Sherry
   - Jerry
-  - Larry
-Gray:
-  - Jack2
-  - Johnson
-  - Abby
-GrayGray:
-  - Lion
+  - Doris
+Brown:
+  - Jason
+  - Joe
+  - Annie
+BrownBrown:
+  - Jack1
   - Daisy
-  - Kelly
+  - Reese
+Gray:
+  - Jeff
+  - Johnson
+  - Larry
+GrayGray:
+  - Amy1
+  - Cindy
+  - Abby
 Green:
-  - Andy
+  - Jack2
   - Jennifer
+  - Kelly
+GreenGreen:
+  - Lion
+  - Celia
   - Jill
 Orange:
-  - Betty2
-  - Cindy
+  - Andy
+  - Shirley
   - Diana
 Pink:
-  - Carol
-  - Shirley
+  - Betty2
+  - Amy2
   - Robin
 Purple:
-  - Julie
-  - Celia
+  - Carol
+  - Evan
   - Emily
 Red:
-  - Justin
-  - Evan
+  - Julie
+  - Jay1
   - Maggie
 White:
-  - Lynn
-  - Amy2
+  - Justin
+  - Kate
   - Betty1
 Yellow:
+  - Lynn
   - Carrie
-  - Kate
   - Paul
-GreenGreen:
-  - ~
-  - Sam1
-  - Tommy
