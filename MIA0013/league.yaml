@@ -9,10 +9,16 @@ field: 商用英文實務(一)
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 001MIA0013
+id: 002MIA0013
 jigsaw: exam
 league: 日資管大學二甲
 member:
+  - Chinese: 鄭惠蓮
+    name: Lilith
+    password: hui
+    id: U9816024
+    rating: 70
+
   - Chinese: 林昱叡
     id: U9933001
     name: Fred
@@ -204,7 +210,7 @@ out:
     name: 劉宇晟
     password: yu
     rating: ~
-room: 2110
+room: A706
 scores:
   bye: 5
   draw: 4
