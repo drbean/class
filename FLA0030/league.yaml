@@ -1,6 +1,6 @@
 ---
 absent: ~
-active: ~
+antecedent: FLA0028
 approach: Compcomp
 compcomp: comp
 examMax: 4
@@ -9,152 +9,60 @@ field: 西洋通俗文化
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: FLA0030
+id: 002FLA0030
 jigsaw: exam
 league: 夜應外大學四甲
 member:
-  -
-    id: N9661754
-    Chinese: 黃綠蘋
-    name: Lu-Ping
-    password: lu
+  - Chinese: 張嘉宸
+    id: U9616041
+    name: 張嘉宸
+    password: ~
     rating: ~
-  - Chinese: 陳昱樺
-    id: V9724004
-    name: Nancy
-    password: yu
-    rating: 68
-  - Chinese: 林庭如
-    id: V9741024
-    name: Emily1
-    password: ting
-    rating: 86
-  - Chinese: 湯馥鎂
-    id: V9741042
-    name: Eva
-    password: fu
-    rating: 76
-  - Chinese: 彭莉喬
-    id: V9741053
-    name: Molly
-    password: li
-    rating: 83
-  - Chinese: 楊婕妤
-    id: V9741043
-    name: Jessica
-    password: jie
-    rating: 78
-  - Chinese: 王寧
-    id: V9741059
-    name: Ivy
-    password: ning
-    rating: 73
-  - Chinese: 林志豪
-    id: V9741066
-    name: Joe
-    password: zhi
-    rating: 76
-  - Chinese: 鄭淑鈴
-    id: N9661738
-    name: Linda
-    password: shu
-    rating: 65
-  - Chinese: 傅泓瑜
-    id: V9741029
-    name: Kumiko
-    password: hong
-    rating: 70
-  - Chinese: 林芷嫻
-    id: V9741028
-    name: Carol
-    password: zhi
-    rating: 58
-  - Chinese: 李欣怡
-    id: V9741030
-    name: Donna
-    password: xin
-    rating: 60
-  - Chinese: 陳彥叡
-    id: 9622299
-    name: Edison
-    password: yan
-    rating: 63
-  - Chinese: 徐兆瑜
-    id: N9361758
-    name: Stella
-    password: zhao
-    rating: 71
-  - Chinese: 黃文和
-    id: N9561732
-    name: Hank
-    password: wen
-    rating: 72
-  - Chinese: 魏宏耘
-    id: V9741010
-    name: Andy
-    password: hong
-    rating: 74
-  - Chinese: 林沛均
-    id: V9741016
-    name: Anita
-    password: pei
-    rating: 72
-  - Chinese: 劉洛綺
-    id: V9741023
-    name: Elly
-    password: luo
-    rating: 78
-  - Chinese: 蔣枚芳
-    id: V9741032
-    name: Maggie
-    password: mei
-    rating: 82
-  - Chinese: 周虹霓
-    id: V9741034
-    name: Emily2
-    password: hong
-    rating: 79
-  - Chinese: 謝宇函
-    id: V9741038
-    name: Candy
-    password: yu
-    rating: 81
-  - Chinese: 王夙惠
-    id: V9741049
-    name: Sophie
-    password: su
-    rating: 86
-  - Chinese: 張雨涵
-    id: V9741055
-    name: Abby
-    password: yu
-    rating: 77
-  - Chinese: 賴宣蓉
-    id: V9741057
-    name: Nina
-    password: xuan
-    rating: 80
-  - Chinese: 吳哲維
-    id: V9741061
-    name: Bruce
-    password: zhe
-    rating: 65
-  - Chinese: 白芳瑜
-    id: V9741064
-    name: Amy
-    password: fang
-    rating: 76
+  - Chinese: 謝孟倫
+    id: V9741009
+    name: 謝孟倫
+    password: ~
+    rating: ~
+  - Chinese: 邱郁晴
+    id: V9741018
+    name: 邱郁晴
+    password: ~
+    rating: ~
+  - Chinese: 陳詩梵
+    id: V9741036
+    name: 陳詩梵
+    password: ~
+    rating: ~
+  - Chinese: 鄭佩琪
+    id: V9741037
+    name: 鄭佩琪
+    password: ~
+    rating: ~
+  - Chinese: 曾文伶
+    id: V9741041
+    name: 曾文伶
+    password: ~
+    rating: ~
+  - Chinese: 蔡淑女
+    id: V9741047
+    name: 蔡淑女
+    password: ~
+    rating: ~
+  - Chinese: 陳彥瑋
+    id: V9841001
+    name: 陳彥瑋
+    password: ~
+    rating: ~
 out: ~
 room: A705
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
 weights:
   classwork: 70
   exams: 15
   homework: 15
-scores:
-  win    : 5
-  loss   : 3
-  draw   : 4
-  bye    : 5
-  forfeit: 0
-  late   : 1
-
