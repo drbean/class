@@ -13,26 +13,6 @@ id: FLA0023
 jigsaw: exam
 league: 夜應外大學二甲
 member:
-  - Chinese: '科目名稱:'
-    id: '﻿開課課號:'
-    name: '科目名稱:'
-    password: ~
-    rating: ~
-  - Chinese: 英文會話(四)
-    id: 002FLA0018
-    name: 英文會話(四)
-    password: ~
-    rating: ~
-  - Chinese: ~
-    id: ~
-    name: ~
-    password: ~
-    rating: ~
-  - Chinese: 姓名
-    id: 學號
-    name: 姓名
-    password: ~
-    rating: ~
   - Chinese: 楊蘭慧
     id: N9661756
     name: 楊蘭慧
@@ -273,42 +253,7 @@ member:
     name: 張馨方
     password: ~
     rating: ~
-  - Chinese: ''
-    id: 備註：學號前有*號者代表該生此科為待審核科目。
-    name: ''
-    password: ~
-    rating: ~
 out:
-  - Chinese: 林佩瑄
-    id: N9561735
-    name: Ingar
-    password: pei
-    rating: 60
-  - Chinese: 潘彥安
-    id: V9841004
-    name: Dan
-    password: yan
-    rating: 58
-  - Chinese: 胡佳玟
-    id: V9841046
-    name: Lace
-    password: jia
-    rating: 52
-  - Chinese: 黃文青
-    id: V9741002
-    name: Miranda
-    password: wen
-    rating: 52
-  - Chinese: 黃國恩
-    id: V9741004
-    name: Ryan
-    password: guo
-    rating: 54
-  - Chinese: 張宇瑤
-    id: U9843020
-    name: Yu-Yao
-    password: yu
-    rating: ~
 room: A706
 scores:
   bye: 5
