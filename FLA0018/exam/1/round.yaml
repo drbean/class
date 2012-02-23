@@ -1,0 +1,122 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 10
+pass: 6
+assistant:
+  - Hannah
+  - Fifi
+  - Yu-Ching
+  - Frances
+  - Patty
+absent:
+  - Dan
+  - Lace
+  - Kori
+  - Ryan
+text: /home/drbean/class/conversation/marriage/cards.yaml
+activity:
+  clay:
+    3:
+      - Abby
+      - Black
+      - Gray
+      - Purple
+      - WhiteWhite
+  allen:
+    1:
+      - BlackBlack
+      - Blue
+      - Green
+      - Pink
+      - White
+      - XinFang
+  goetz:
+    2:
+      - BlueBlue
+      - Brown
+      - Orange
+      - Yellow
+      - YellowYellow
+group:
+  XinFang:
+    - XinFang
+    - Hannah
+    - Fifi
+    - Yu-Ching
+  Black:
+    - Fifi
+    - Yi-Ru
+    - Alan
+    - Rose
+  BlackBlack:
+    - Kenny
+    - Winny
+    - Fifi
+    - Frances
+  Blue:
+    - Yu-Ching
+    - Luke
+    - Yu-Lun
+    - Alex
+  BlueBlue:
+    - Frances
+    - Joan
+    - Shaq
+    - Julie
+  Brown:
+    - Louise
+    - Carina
+    - Kitty
+    - Yu-Ching
+  Gray:
+    - Larry
+    - Ming
+    - Joy
+    - Lisa
+  Green:
+    - Jessica2
+    - Nancy
+    - Leo
+    - Hannah
+  Orange:
+    - Julia
+    - Katty
+    - Dennis
+    - Winne
+  Pink:
+    - Patty
+    - Anne
+    - Ricky
+    - Jessica1
+  Purple:
+    - Patty
+    - Alan
+    - Jacinta
+    - Frank
+  White:
+    - Laura
+    - Jeffrey
+    - Sue
+    - Rachel
+  WhiteWhite:
+    - Amber
+    - Cathy
+    - Ivan
+    - Debbie
+  Yellow:
+    - Stanley
+    - Yorick
+    - Hank
+    - Carol
+  YellowYellow:
+    - Ingar
+    - Bass
+    - Sana
+    - Wei-Yi
+  Abby:
+    - Ming
+    - Abby
+    - Luke
+    - Frank
