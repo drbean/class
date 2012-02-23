@@ -13,282 +13,270 @@ id: FLA0023
 jigsaw: exam
 league: 夜應外大學二甲
 member:
-  - Chinese: 劉國薇
-    id: V9841070
-    name: 劉國薇
-    password: guo
+  - Chinese: '科目名稱:'
+    id: '﻿開課課號:'
+    name: '科目名稱:'
+    password: ~
+    rating: ~
+  - Chinese: 英文會話(四)
+    id: 002FLA0018
+    name: 英文會話(四)
+    password: ~
+    rating: ~
+  - Chinese: ~
+    id: ~
+    name: ~
+    password: ~
+    rating: ~
+  - Chinese: 姓名
+    id: 學號
+    name: 姓名
+    password: ~
+    rating: ~
+  - Chinese: 楊蘭慧
+    id: N9661756
+    name: 楊蘭慧
+    password: ~
+    rating: ~
+  - Chinese: 李秉霖
+    id: T9823041
+    name: 李秉霖
+    password: ~
+    rating: ~
+  - Chinese: 黃文青
+    id: V9741002
+    name: 黃文青
+    password: ~
+    rating: ~
+  - Chinese: 張馨卿
+    id: V9741044
+    name: 張馨卿
+    password: ~
+    rating: ~
+  - Chinese: 夏芳婕
+    id: V9841002
+    name: 夏芳婕
+    password: ~
+    rating: ~
+  - Chinese: 傅雅暉
+    id: V9841005
+    name: 傅雅暉
+    password: ~
+    rating: ~
+  - Chinese: 陳美惠
+    id: V9841006
+    name: 陳美惠
+    password: ~
+    rating: ~
+  - Chinese: 賴薇如
+    id: V9841007
+    name: 賴薇如
+    password: ~
+    rating: ~
+  - Chinese: 廖家宜
+    id: V9841008
+    name: 廖家宜
+    password: ~
+    rating: ~
+  - Chinese: 戴偉庭
+    id: V9841009
+    name: 戴偉庭
+    password: ~
+    rating: ~
+  - Chinese: 彭浩瑀
+    id: V9841010
+    name: 彭浩瑀
+    password: ~
+    rating: ~
+  - Chinese: 劉建平
+    id: V9841011
+    name: 劉建平
+    password: ~
+    rating: ~
+  - Chinese: 江培寬
+    id: V9841013
+    name: 江培寬
+    password: ~
+    rating: ~
+  - Chinese: 賴名紘
+    id: V9841015
+    name: 賴名紘
+    password: ~
+    rating: ~
+  - Chinese: 李澤爵
+    id: V9841017
+    name: 李澤爵
+    password: ~
+    rating: ~
+  - Chinese: 黃柏銘
+    id: V9841020
+    name: 黃柏銘
+    password: ~
+    rating: ~
+  - Chinese: 吳千羽
+    id: V9841022
+    name: 吳千羽
+    password: ~
+    rating: ~
+  - Chinese: 黃鳳玄
+    id: V9841024
+    name: 黃鳳玄
+    password: ~
+    rating: ~
+  - Chinese: 戴郁倫
+    id: V9841026
+    name: 戴郁倫
+    password: ~
+    rating: ~
+  - Chinese: 陳憶茹
+    id: V9841027
+    name: 陳憶茹
+    password: ~
+    rating: ~
+  - Chinese: 彭怡靜
+    id: V9841028
+    name: 彭怡靜
+    password: ~
+    rating: ~
+  - Chinese: 朱莉鳳
+    id: V9841029
+    name: 朱莉鳳
+    password: ~
+    rating: ~
+  - Chinese: 戴維儀
+    id: V9841030
+    name: 戴維儀
+    password: ~
+    rating: ~
+  - Chinese: 黃裕惠
+    id: V9841031
+    name: 黃裕惠
+    password: ~
+    rating: ~
+  - Chinese: 郭芳萱
+    id: V9841033
+    name: 郭芳萱
+    password: ~
+    rating: ~
+  - Chinese: 林心如
+    id: V9841034
+    name: 林心如
+    password: ~
+    rating: ~
+  - Chinese: 林筠臻
+    id: V9841036
+    name: 林筠臻
+    password: ~
+    rating: ~
+  - Chinese: 邱湘凌
+    id: V9841037
+    name: 邱湘凌
+    password: ~
+    rating: ~
+  - Chinese: 邱靜妤
+    id: V9841038
+    name: 邱靜妤
+    password: ~
+    rating: ~
+  - Chinese: 劉?玲
+    id: V9841039
+    name: 劉?玲
+    password: ~
+    rating: ~
+  - Chinese: 張筱青
+    id: V9841040
+    name: 張筱青
+    password: ~
+    rating: ~
+  - Chinese: 鄧如金
+    id: V9841041
+    name: 鄧如金
+    password: ~
     rating: ~
   - Chinese: 胡佳玟
     id: V9841046
-    name: Lace
-    password: jia
-    rating: 52
-  - Chinese: 潘昱安
-    id: U9843014
-    name: Alex
-    password: yu
-    rating: 85
-  - Chinese: 郭芳萱
-    id: V9841033
-    name: Amber
-    password: fang
-    rating: 57
-  - Chinese: 張馨方
-    id: V9841071
-    name: XinFang
-    password: xin
+    name: 胡佳玟
+    password: ~
     rating: ~
-  
-  - Chinese: 陳詩梵 
-    name: Jacinta
-    password: shi
-    id: V9741036
-    rating: 73
-  - Chinese: 謝孟倫
-    name: Alan
-    password: meng
-    id: V9741009
-    rating: 71
-  
-  - Chinese: 劉發州
-    id: N9561766
-    name: Frank
-    password: fa
-    rating: 78
-  - Chinese: 黃綠蘋
-    id: N9661754
-    name: Julia
-    password: lu
-    rating: 52
-  - Chinese: 李秉霖
-    id: T9823041
-    name: Larry
-    password: bing
-    rating: ~
-  - Chinese: 陳昱樺
-    id: V9724004
-    name: Nancy
-    password: yu
-    rating: 65
-  - Chinese: 林芸竹
-    id: V9741028
-    name: Carol
-    password: yun
-    rating: 76
-  - Chinese: 張馨卿
-    id: V9741044
-    name: Jessica2
-    password: xin
-    rating: 42
-  - Chinese: 羅曼
-    id: V9741065
-    name: Frances
-    password: man
-    rating: 85
-  - Chinese: 夏芳婕
-    id: V9841002
-    name: Kori
-    password: fang
-    rating: 55
-  - Chinese: 傅雅暉
-    id: V9841005
-    name: Fifi
-    password: ya
-    rating: 71
-  - Chinese: 陳美惠
-    id: V9841006
-    name: Abby
-    password: mei
-    rating: 64
-  - Chinese: 賴薇如
-    id: V9841007
-    name: Laura
-    password: wei
-    rating: 77
-  - Chinese: 廖家宜
-    id: V9841008
-    name: Sana
-    password: jia
-    rating: 76
-  - Chinese: 戴偉庭
-    id: V9841009
-    name: Winny
-    password: wei
-    rating: 69
-  - Chinese: 彭浩瑀
-    id: V9841010
-    name: Yorick
-    password: hao
-    rating: 62
-  - Chinese: 劉建平
-    id: V9841011
-    name: Leo
-    password: jian
-    rating: 72
-  - Chinese: 江培寬
-    id: V9841013
-    name: Dennis
-    password: pei
-    rating: 73
-  - Chinese: 陳易駿
-    id: V9841014
-    name: Luke
-    password: yi
-    rating: 69
-  - Chinese: 賴名紘
-    id: V9841015
-    name: Shaq
-    password: ming
-    rating: 71
-  - Chinese: 李澤爵
-    id: V9841017
-    name: Jeffrey
-    password: ze
-    rating: 63
-  - Chinese: 黃柏銘
-    id: V9841020
-    name: Stanley
-    password: bo
-    rating: 74
-  - Chinese: 吳千羽
-    id: V9841022
-    name: Hank
-    password: qian
-    rating: 75
-  - Chinese: 黃鳳玄
-    id: V9841024
-    name: Hannah
-    password: feng
-    rating: 80
-  - Chinese: 戴郁倫
-    id: V9841026
-    name: Yu-Lun
-    password: yu
-    rating: 71
-  - Chinese: 陳憶茹
-    id: V9841027
-    name: Yi-Ru
-    password: yi
-    rating: 69
-  - Chinese: 彭怡靜
-    id: V9841028
-    name: Katty
-    password: yi
-    rating: 64
-  - Chinese: 朱莉鳳
-    id: V9841029
-    name: Lisa
-    password: li
-    rating: 80
-  - Chinese: 戴維儀
-    id: V9841030
-    name: Wei-Yi
-    password: wei
-    rating: 75
-  - Chinese: 黃裕惠
-    id: V9841031
-    name: Bass
-    password: yu
-    rating: 61
-  - Chinese: 林心如
-    id: V9841034
-    name: Rachel
-    password: xin
-    rating: 76
-  - Chinese: 林筠臻
-    id: V9841036
-    name: Jessica1
-    password: yun
-    rating: 78
-  - Chinese: 邱湘凌
-    id: V9841037
-    name: Anne
-    password: xiang
-    rating: 64
-  - Chinese: 邱靜妤
-    id: V9841038
-    name: Julie
-    password: jing
-    rating: 84
-  - Chinese: 劉媁玲
-    id: V9841039
-    name: Patty
-    password: wei
-    rating: 64
-  - Chinese: 張筱青
-    id: V9841040
-    name: Joy
-    password: xiao
-    rating: 72
-  - Chinese: 鄧如金
-    id: V9841041
-    name: Rose
-    password: ru
-    rating: 87
   - Chinese: 徐亦嫺
     id: V9841048
-    name: Cathy
-    password: yi
-    rating: 63
+    name: 徐亦嫺
+    password: ~
+    rating: ~
   - Chinese: 駱佳帷
     id: V9841049
-    name: Joan
-    password: jia
-    rating: 66
+    name: 駱佳帷
+    password: ~
+    rating: ~
   - Chinese: 鄭宇筑
     id: V9841050
-    name: Debbie
-    password: yu
-    rating: 76
+    name: 鄭宇筑
+    password: ~
+    rating: ~
   - Chinese: 李奕蓂
     id: V9841051
-    name: Ming
-    password: yi
-    rating: 65
+    name: 李奕蓂
+    password: ~
+    rating: ~
   - Chinese: 張馥琦
     id: V9841053
-    name: Carina
-    password: yu
-    rating: 66
+    name: 張馥琦
+    password: ~
+    rating: ~
   - Chinese: 何青青
     id: V9841054
-    name: Winne
-    password: qing
-    rating: 79
+    name: 何青青
+    password: ~
+    rating: ~
   - Chinese: 吳芸帆
     id: V9841058
-    name: Kitty
-    password: yun
-    rating: 72
+    name: 吳芸帆
+    password: ~
+    rating: ~
   - Chinese: 張玉青
     id: V9841059
-    name: Yu-Ching
-    password: yu
-    rating: 81
+    name: 張玉青
+    password: ~
+    rating: ~
   - Chinese: 黃啟信
     id: V9841062
-    name: Ivan
-    password: qi
-    rating: 75
+    name: 黃啟信
+    password: ~
+    rating: ~
   - Chinese: 李齊
     id: V9841064
-    name: Ricky
-    password: qi
-    rating: 73
+    name: 李齊
+    password: ~
+    rating: ~
   - Chinese: 蘇文彥
     id: V9841067
-    name: Sue
-    password: wen
-    rating: 74
+    name: 蘇文彥
+    password: ~
+    rating: ~
   - Chinese: 邱珞媺
     id: V9841068
-    name: Louise
-    password: luo
+    name: 邱珞媺
+    password: ~
     rating: ~
   - Chinese: 王國權
     id: V9841069
-    name: Kenny
-    password: guo
+    name: 王國權
+    password: ~
+    rating: ~
+  - Chinese: 劉國薇
+    id: V9841070
+    name: 劉國薇
+    password: ~
+    rating: ~
+  - Chinese: 張馨方
+    id: V9841071
+    name: 張馨方
+    password: ~
+    rating: ~
+  - Chinese: ''
+    id: 備註：學號前有*號者代表該生此科為待審核科目。
+    name: ''
+    password: ~
     rating: ~
 out:
   - Chinese: 林佩瑄
@@ -317,9 +305,9 @@ out:
     password: guo
     rating: 54
   - Chinese: 張宇瑤
+    id: U9843020
     name: Yu-Yao
     password: yu
-    id: U9843020
     rating: ~
 room: A706
 scores:
