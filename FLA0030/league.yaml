@@ -15,42 +15,42 @@ league: 夜應外大學四甲
 member:
   - Chinese: 張嘉宸
     id: U9616041
-    name: 張嘉宸
-    password: ~
-    rating: ~
+    name: Vera
+    password: jia
+    rating: 85
   - Chinese: 謝孟倫
     id: V9741009
-    name: 謝孟倫
-    password: ~
-    rating: ~
+    name: Alan
+    password: meng
+    rating: 66
   - Chinese: 邱郁晴
     id: V9741018
-    name: 邱郁晴
-    password: ~
-    rating: ~
+    name: Cathy
+    password: yu
+    rating: 67
   - Chinese: 陳詩梵
     id: V9741036
-    name: 陳詩梵
-    password: ~
-    rating: ~
+    name: Jacinta
+    password: shi
+    rating: 70
   - Chinese: 鄭佩琪
     id: V9741037
-    name: 鄭佩琪
-    password: ~
-    rating: ~
+    name: Peggy
+    password: pei
+    rating: 83
   - Chinese: 曾文伶
     id: V9741041
-    name: 曾文伶
-    password: ~
-    rating: ~
+    name: Tina
+    password: wen
+    rating: 92
   - Chinese: 蔡淑女
     id: V9741047
-    name: 蔡淑女
-    password: ~
-    rating: ~
+    name: Ivy1
+    password: shu
+    rating: 87
   - Chinese: 陳彥瑋
     id: V9841001
-    name: 陳彥瑋
+    name: ~
     password: ~
     rating: ~
 out: ~
