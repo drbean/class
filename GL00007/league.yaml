@@ -15,9 +15,55 @@ league: 日語文共同學制虛擬班二甲
 member:
   - Chinese: 徐稑
     id: T9711006
-    name: 徐稑
+    name: Kevin
     password: lu
     rating: ~
+  - Chinese: 許伊涵
+    id: U9742016
+    name: Joanna
+    password: yi
+    rating: ~
+  - Chinese: 吳佳漢
+    id: U9742040
+    name: Dannie
+    password: jia
+    rating: ~
+  - Chinese: 塗映涵
+    id: U9822143
+    name: Hana
+    password: ying
+    rating: ~
+  - Chinese: 劉昌政
+    id: U9822148
+    name: Larry
+    password: chang
+    rating: ~
+  - Chinese: 王瑋茜
+    id: U9943034
+    name: Connie
+    password: wei
+    rating: ~
+  - Chinese: 陳玫均
+    id: U9943035
+    name: Shila
+    password: mei
+    rating: ~
+  - Chinese: 黃靖雯
+    id: U9716007
+    name: DingDing
+    password: jing
+    rating: ~
+  - Chinese: 吳雨樵
+    id: U9731008
+    name: Joyce
+    password: yu
+    rating: ~
+  - Chinese: 陳昱中
+    id: U9711044
+    name: Frank
+    password: yu
+    rating: ~
+out:
   - Chinese: 黃丞沂
     id: T9716021
     name: 黃丞沂
@@ -27,16 +73,6 @@ member:
     id: T9722042
     name: 蘇敏弘
     password: min
-    rating: ~
-  - Chinese: 陳昱中
-    id: U9711044
-    name: 陳昱中
-    password: yu
-    rating: ~
-  - Chinese: 黃靖雯
-    id: U9716007
-    name: 黃靖雯
-    password: jing
     rating: ~
   - Chinese: 彭政偉
     id: U9722006
@@ -53,16 +89,6 @@ member:
     name: 卓一弘
     password: yi
     rating: ~
-  - Chinese: 吳雨樵
-    id: U9731008
-    name: 吳雨樵
-    password: yu
-    rating: ~
-  - Chinese: 許伊涵
-    id: U9742016
-    name: 許伊涵
-    password: yi
-    rating: ~
   - Chinese: 張珈瑄
     id: U9742031
     name: 張珈瑄
@@ -73,37 +99,11 @@ member:
     name: 陳榆佳
     password: yu
     rating: ~
-  - Chinese: 吳佳漢
-    id: U9742040
-    name: 吳佳漢
-    password: jia
-    rating: ~
   - Chinese: 花佳君
     id: U9814113
     name: 花佳君
     password: jia
     rating: ~
-  - Chinese: 塗映涵
-    id: U9822143
-    name: 塗映涵
-    password: ying
-    rating: ~
-  - Chinese: 劉昌政
-    id: U9822148
-    name: 劉昌政
-    password: chang
-    rating: ~
-  - Chinese: 王瑋茜
-    id: U9943034
-    name: 王瑋茜
-    password: wei
-    rating: ~
-  - Chinese: 陳玫均
-    id: U9943035
-    name: 陳玫均
-    password: mei
-    rating: ~
-out:
 room: 2110
 scores:
   bye: 5
