@@ -53,11 +53,6 @@ member:
     name: Rose
     password: ru
     rating: 88
-  - Chinese: 胡佳玟
-    id: V9841046
-    name: Lace
-    password: jia
-    rating: 0
   - Chinese: 徐亦嫺
     id: V9841048
     name: Cathy
@@ -98,16 +93,6 @@ member:
     name: Yu-Ching
     password: yu
     rating: 83
-  - Chinese: 黃啟信
-    id: V9841062
-    name: Ivan
-    password: qi
-    rating: 35
-  - Chinese: 李齊
-    id: V9841064
-    name: Ricky
-    password: qi
-    rating: 67
   - Chinese: 蘇文彥
     id: V9841067
     name: Sue
@@ -118,25 +103,40 @@ member:
     name: Louise
     password: luo
     rating: 74
-  - Chinese: 王國權
-    id: V9841069
-    name: Kenny
-    password: guo
-    rating: 67
-  - Chinese: 劉國薇
-    id: V9841070
-    name: 劉國薇
-    password: guo
-    rating: 0
   - Chinese: 張馨方
     id: V9841071
     name: XinFang
     password: xin
     rating: 28
 out:
+  - Chinese: 王國權
+    id: V9841069
+    name: Kenny
+    password: guo
+    rating: 67
+  - Chinese: 黃啟信
+    id: V9841062
+    name: Ivan
+    password: qi
+    rating: 35
+  - Chinese: 李齊
+    id: V9841064
+    name: Ricky
+    password: qi
+    rating: 67
+  - Chinese: 劉國薇
+    id: V9841070
+    name: 劉國薇
+    password: guo
+    rating: 0
+  - Chinese: 胡佳玟
+    id: V9841046
+    name: Lace
+    password: jia
+    rating: 0
   - Chinese: 楊蘭慧
     id: N9661756
-    name: ~
+    name: 楊蘭慧
     password: ~
     rating: ~
   - Chinese: 李秉霖
