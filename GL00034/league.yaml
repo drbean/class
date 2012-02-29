@@ -13,6 +13,12 @@ id: 002GL00034
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
+  - Chinese: 白芳瑜
+    id: V9741064
+    name: Amy
+    password: fang
+    rating: 79
+
   - Chinese: 蔡東伯
     name: Nerd
     password: tong
