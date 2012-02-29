@@ -55,3 +55,7 @@ GrayGray:
 GreenGreen:
   absent: 
   merits: 2
+
+John:
+  absent: John
+  merits: 0
