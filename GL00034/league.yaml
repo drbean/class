@@ -13,6 +13,12 @@ id: 002GL00034
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
+  - Chinese: 羅子竣
+    id: U9931149
+    name: Robert
+    password: zi
+    rating: 72
+
   - Chinese: 白芳瑜
     id: V9741064
     name: Amy
@@ -167,11 +173,6 @@ out:
     name: 王中奕
     password: zhong
     rating: ~
-  - Chinese: 羅子竣
-    id: U9931149
-    name: Robert
-    password: zi
-    rating: 72
 room: A705
 weights:
   classwork: 70
