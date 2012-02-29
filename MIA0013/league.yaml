@@ -13,6 +13,11 @@ id: 002MIA0013
 jigsaw: exam
 league: 日資管大學二甲
 member:
+  - Chinese: 陳冠吏
+    id: U9831132
+    name: Kuan-Li
+    password: guan
+    rating: 62
   - Chinese: 鄭惠蓮
     name: Lilith
     password: hui
