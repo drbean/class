@@ -13,6 +13,12 @@ id: 001GL00007
 jigsaw: exam
 league: 日語文共同學制虛擬班二甲
 member:
+  - Chinese: 顏伸儒
+    name: Luis
+    password: shen
+    id: T9822123
+    rating: ~
+  
   - Chinese: 徐稑
     id: T9711006
     name: Kevin
