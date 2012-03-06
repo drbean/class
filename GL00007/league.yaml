@@ -38,8 +38,13 @@ member:
     password: wei
     id: U9714017
     rating: ~
-  
        
+  - Chinese: 顏伸儒
+    name: Luis
+    password: shen
+    id: T9822123
+    rating: ~
+  
   - Chinese: 徐稑
     id: T9711006
     name: Kevin
