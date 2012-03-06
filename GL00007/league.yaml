@@ -38,13 +38,44 @@ member:
     password: wei
     id: U9714017
     rating: ~
-       
-  - Chinese: 顏伸儒
-    name: Luis
-    password: shen
-    id: T9822123
-    rating: ~
   
+       
+  - Chinese: 塗映涵
+    id: U9822143
+    name: Hana
+    password: ying
+    rating: ~
+  - Chinese: 劉昌政
+    id: U9822148
+    name: Larry
+    password: chang
+    rating: ~
+  - Chinese: 黃靖雯
+    id: U9716007
+    name: DingDing
+    password: jing
+    rating: ~
+  - Chinese: 陳昱中
+    id: U9711044
+    name: Frank
+    password: yu
+    rating: ~
+out:
+  - Chinese: 吳雨樵
+    id: U9731008
+    name: Joyce
+    password: yu
+    rating: ~
+  - Chinese: 王瑋茜
+    id: U9943034
+    name: Connie
+    password: wei
+    rating: ~
+  - Chinese: 陳玫均
+    id: U9943035
+    name: Shila
+    password: mei
+    rating: ~
   - Chinese: 徐稑
     id: T9711006
     name: Kevin
@@ -60,42 +91,7 @@ member:
     name: Dannie
     password: jia
     rating: ~
-  - Chinese: 塗映涵
-    id: U9822143
-    name: Hana
-    password: ying
-    rating: ~
-  - Chinese: 劉昌政
-    id: U9822148
-    name: Larry
-    password: chang
-    rating: ~
-  - Chinese: 王瑋茜
-    id: U9943034
-    name: Connie
-    password: wei
-    rating: ~
-  - Chinese: 陳玫均
-    id: U9943035
-    name: Shila
-    password: mei
-    rating: ~
-  - Chinese: 黃靖雯
-    id: U9716007
-    name: DingDing
-    password: jing
-    rating: ~
-  - Chinese: 吳雨樵
-    id: U9731008
-    name: Joyce
-    password: yu
-    rating: ~
-  - Chinese: 陳昱中
-    id: U9711044
-    name: Frank
-    password: yu
-    rating: ~
-out:
+
   - Chinese: 黃丞沂
     id: T9716021
     name: 黃丞沂
