@@ -1,132 +1,47 @@
 ---
 cutpoints:
-  one: 50
-  two: 150
-exercise: clay
+  one: 20
+  two: 85
+exercise: connell
 grade:
-  T9833027: 0
-  U9814126: 0
-  U9814127: 0
-
-  T9833016: 0
-  T9833025: 2
-  U0021016: 2
-  U9631020: 2
-  U9711105: 2
-  U9711115: 2
-  U9711120: 2
-  U9711132: 2
-  U9713020: 0
-  U9713044: 2
-  U9718012: 0
-  U9718048: 0
-  U9731046: 0
-  U9742033: 0
-  U9823006: 0
-  U9915004: 2
-  U9918043: 0
-  U9922232: 2
-  U9922318: 0
-  V9731059: 2
-  V9741009: 0
-  V9741010: 1
-  V9741029: 2
-  V9741030: 2
-  V9741038: 2
-  V9741057: 2
-  V9741059: 0
-  V9741060: 2
+  T9711006: 0
+  U9711044: 0
+  U9716007: 2
+  U9731008: 0
+  U9742016: 0
+  U9742040: 0
+  U9822143: 0
+  U9822148: 0
+  U9943034: 0
+  U9943035: 0
 points:
-  T9833027:
-    letters: ~
-    questions: ~
-  U9814126:
-    letters: ~
-    questions: ~
-  U9814127:
-    letters: ~
-    questions: ~
-  T9833016:
+  T9711006:
     letters: 0
-    questions: 0
-  T9833025:
-    letters: 100
-    questions: 1
-  U0021016:
-    letters: 188
-    questions: 0
-  U9631020:
-    letters: 178
-    questions: 1
-  U9711105:
-    letters: 171
-    questions: 0
-  U9711115:
-    letters: 229
-    questions: 1
-  U9711120:
-    letters: 188
-    questions: 0
-  U9711132:
-    letters: 188
-    questions: 1
-  U9713020:
+    percent: 0
+  U9711044:
     letters: 0
-    questions: 0
-  U9713044:
-    letters: 235
-    questions: 0
-  U9718012:
+    percent: 0
+  U9716007:
+    letters: 103
+    percent: 100
+  U9731008:
     letters: 0
-    questions: 0
-  U9718048:
+    percent: 0
+  U9742016:
     letters: 0
-    questions: 0
-  U9731046:
+    percent: 0
+  U9742040:
     letters: 0
-    questions: 0
-  U9742033:
+    percent: 0
+  U9822143:
     letters: 0
-    questions: 0
-  U9823006:
+    percent: 0
+  U9822148:
     letters: 0
-    questions: 0
-  U9915004:
-    letters: 178
-    questions: 0
-  U9918043:
+    percent: 0
+  U9943034:
     letters: 0
-    questions: 0
-  U9922232:
-    letters: 2
-    questions: 1
-  U9922318:
+    percent: 0
+  U9943035:
     letters: 0
-    questions: 0
-  V9731059:
-    letters: 188
-    questions: 0
-  V9741009:
-    letters: 0
-    questions: 0
-  V9741010:
-    letters: 116
-    questions: 0
-  V9741029:
-    letters: 188
-    questions: 0
-  V9741030:
-    letters: 7
-    questions: 1
-  V9741038:
-    letters: 39
-    questions: 1
-  V9741057:
-    letters: 192
-    questions: 0
-  V9741059:
-    letters: 0
-    questions: 0
-  V9741060:
-    letters: 0
-    questions: 1
+    percent: 0
