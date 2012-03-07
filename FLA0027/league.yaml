@@ -6,13 +6,18 @@ approach: GroupworkNoFault
 classMax: 3
 examMax: 5
 exams: exam
-field: 英語演說
+field: 英語媒體
 groupwork: classwork
 hw: homework
 hwMax: 3
 id: 002FLA0027
 league: 夜應外大學四甲
 member:
+  - Chinese: 張嘉宸
+    id: U9616041
+    name: Vera
+    password: jia
+    rating: 81
   - Chinese: 黃文和
     id: N9561732
     name: Hank
@@ -133,7 +138,12 @@ member:
     name: Joe
     password: zhi
     rating: 72
-out: ~
+out:
+  - Chinese: 杜珮瑜
+    id: V0041028
+    name: 杜珮瑜
+    password: pei
+    rating: 0
 room: A705
 weights:
   classwork: 40
