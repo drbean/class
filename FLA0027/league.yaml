@@ -53,11 +53,6 @@ member:
     name: Anita
     password: pei
     rating: 77
-  - Chinese: 邱郁晴
-    id: V9741018
-    name: Cathy
-    password: yu
-    rating: 67
   - Chinese: 劉洛綺
     id: V9741023
     name: Elly
@@ -139,6 +134,11 @@ member:
     password: zhi
     rating: 72
 out:
+  - Chinese: 邱郁晴
+    id: V9741018
+    name: Cathy
+    password: yu
+    rating: 67
   - Chinese: 杜珮瑜
     id: V0041028
     name: 杜珮瑜
