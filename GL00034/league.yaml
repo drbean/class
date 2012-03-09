@@ -173,7 +173,7 @@ out:
     name: 王中奕
     password: zhong
     rating: ~
-room: A705
+room: 2110
 weights:
   classwork: 70
   exams: 15
