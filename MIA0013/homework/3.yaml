@@ -1,187 +1,540 @@
 ---
 cutpoints:
-  one: 20
-  two: 85
-exercise: interview
+  loser: 1
+  quitter: 0
+  winner: 2
+exercise: adventure
 grade:
+  U9816024: 2
+  U9831132: 0
   U9933001: 2
-  U9933003: 2
+  U9933003: 1
   U9933005: 2
-  U9933006: 2
+  U9933006: 1
   U9933008: 2
-  U9933010: 2
+  U9933010: 0
   U9933011: 2
   U9933017: 2
   U9933020: 2
   U9933022: 2
-  U9933023: 2
+  U9933023: 0
   U9933024: 2
-  U9933025: 2
+  U9933025: 0
   U9933026: 2
   U9933027: 2
   U9933029: 2
-  U9933030: 0
+  U9933030: 2
   U9933031: 2
-  U9933033: 0
-  U9933037: 2
+  U9933033: 2
+  U9933037: 0
   U9933038: 2
-  U9933039: 2
+  U9933039: 0
   U9933041: 2
-  U9933043: 2
+  U9933043: 0
   U9933044: 2
-  U9933045: 2
-  U9933107: 2
+  U9933045: 0
+  U9933107: 0
   U9933108: 0
-  U9933109: 2
-  U9933112: 2
-  U9933116: 2
-  U9933126: 2
-  U9933136: 2
-  U9933138: 2
+  U9933109: 1
+  U9933112: 1
+  U9933116: 1
+  U9933126: 0
+  U9933136: 1
+  U9933138: 0
   U9933139: 0
-  U9933143: 2
+  U9933143: 0
 points:
+  U9816024:
+    Wh:
+      answers: 2
+      questions: 2
+      attempts: 6
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 4
+    S:
+      answers: 1
+      questions: 1
+      attempts: 2
+  U9831132:
+    Wh:
+      answers: 0
+      questions: 1
+      attempts: 2
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 1
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933001:
-    letters: 166
-    percent: 100
-    questions: 1
+    Wh:
+      answers: 2
+      questions: 3
+      attempts: 18
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933003:
-    letters: 232
-    percent: 100
-    questions: 1
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 1
+      questions: 6
+      attempts: 10
   U9933005:
-    letters: 228
-    percent: 100
-    questions: 1
+    Wh:
+      answers: 2
+      questions: 2
+      attempts: 5
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933006:
-    letters: 163
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 7
+    Yn:
+      answers: 1
+      questions: 8
+      attempts: 15
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933008:
-    letters: 232
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 2
+      questions: 6
+      attempts: 12
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933010:
-    letters: 163
-    percent: 100
-    questions: 0
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
   U9933011:
-    letters: 96
-    percent: 42
-    questions: 1
+    Wh:
+      answers: 2
+      questions: 7
+      attempts: 23
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933017:
-    letters: 232
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 2
+      questions: 8
+      attempts: 16
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933020:
-    letters: 166
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 2
+      questions: 2
+      attempts: 3
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933022:
-    letters: 232
-    percent: 100
-    questions: 1
+    Wh:
+      answers: 0
+      questions: 3
+      attempts: 8
+    Yn:
+      answers: 3
+      questions: 6
+      attempts: 9
+    S:
+      answers: 1
+      questions: 1
+      attempts: 3
   U9933023:
-    letters: 232
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 3
+    S:
+      answers: 2
+      questions: 2
+      attempts: 4
   U9933024:
-    letters: 228
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 2
+      questions: 8
+      attempts: 21
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933025:
-    letters: 228
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 0
+      questions: 2
+      attempts: 2
+    Yn:
+      answers: 0
+      questions: 2
+      attempts: 3
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933026:
-    letters: 232
-    percent: 100
-    questions: 1
+    Wh:
+      answers: 2
+      questions: 9
+      attempts: 20
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933027:
-    letters: 166
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 2
+      questions: 7
+      attempts: 13
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933029:
-    letters: 166
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 2
+      questions: 3
+      attempts: 4
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933030:
-    letters: 0
-    percent: 0
-    questions: ~
+    Wh:
+      answers: 2
+      questions: 2
+      attempts: 3
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933031:
-    letters: 228
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 6
+      questions: 9
+      attempts: 21
   U9933033:
-    letters: 0
-    percent: 0
-    questions: ~
+    Wh:
+      answers: 0
+      questions: 1
+      attempts: 3
+    Yn:
+      answers: 3
+      questions: 3
+      attempts: 3
+    S:
+      answers: 0
+      questions: 0
+      attempts: 6
   U9933037:
-    letters: 228
-    percent: 100
-    questions: 0
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
   U9933038:
-    letters: 166
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 0
+      questions: 8
+      attempts: 14
+    Yn:
+      answers: 0
+      questions: 1
+      attempts: 6
+    S:
+      answers: 6
+      questions: 6
+      attempts: 9
   U9933039:
-    letters: 163
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 1
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933041:
-    letters: 232
-    percent: 100
-    questions: 1
+    Wh:
+      answers: 1
+      questions: 2
+      attempts: 7
+    Yn:
+      answers: 3
+      questions: 3
+      attempts: 4
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933043:
-    letters: 163
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 0
+      questions: 2
+      attempts: 9
+    Yn:
+      answers: 0
+      questions: 2
+      attempts: 4
+    S:
+      answers: 0
+      questions: 1
+      attempts: 1
   U9933044:
-    letters: 163
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 0
+      questions: 2
+      attempts: 12
+    Yn:
+      answers: 3
+      questions: 7
+      attempts: 8
+    S:
+      answers: 2
+      questions: 4
+      attempts: 4
   U9933045:
-    letters: 232
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 1
+      questions: 3
+      attempts: 8
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 7
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933107:
-    letters: 157
-    percent: 96
-    questions: 0
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
   U9933108:
-    letters: 0
-    percent: 0
-    questions: ~
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
   U9933109:
-    letters: 163
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 3
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 10
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933112:
-    letters: 228
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 1
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 12
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933116:
-    letters: 166
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 1
+      questions: 8
+      attempts: 13
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933126:
-    letters: 166
-    percent: 100
-    questions: 0
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
   U9933136:
-    letters: 232
-    percent: 100
-    questions: 0
+    Wh:
+      answers: 0
+      questions: 9
+      attempts: 24
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
   U9933138:
-    letters: 228
-    percent: 100
-    questions: 0
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
   U9933139:
-    letters: 0
-    percent: 0
-    questions: ~
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
   U9933143:
-    letters: 199
-    percent: 86
-    questions: 1
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 2
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
