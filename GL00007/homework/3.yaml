@@ -1,147 +1,148 @@
 ---
 cutpoints:
-  one: 20
-  two: 85
-exercise: allen
+  loser: 1
+  quitter: 0
+  winner: 2
+exercise: connell
 grade:
-  T9833016: 1
-  T9833025: 2
-  U0021016: 2
-  U9631020: 2
-  U9711105: 2
-  U9711115: 2
-  U9711120: 2
-  U9711132: 2
-  U9713020: 2
-  U9713044: 2
-  U9718012: 2
-  U9718048: 0
-  U9731046: 0
-  U9742033: 0
-  U9823006: 0
-  U9915004: 2
-  U9918043: 0
-  U9922232: 1
-  U9922318: 2
-  V9731059: 2
-  V9741009: 0
-  V9741010: 1
-  V9741029: 0
-  V9741030: 0
-  V9741038: 1
-  V9741057: 1
-  V9741059: 1
-  V9741060: 2
+  T9716021: 0
+  T9731009: 0
+  T9822123: 0
+  U9711044: 0
+  U9714017: 0
+  U9716007: 1
+  U9722006: 2
+  U9742031: 0
+  U9822143: 2
+  U9822148: 2
 points:
-  T9833016:
-    letters: 114
-    percent: 52
-    questions: ~
-  T9833025:
-    letters: 221
-    percent: 100
-    questions: ~
-  U0021016:
-    letters: 221
-    percent: 100
-    questions: ~
-  U9631020:
-    letters: 217
-    percent: 100
-    questions: ~
-  U9711105:
-    letters: 217
-    percent: 100
-    questions: ~
-  U9711115:
-    letters: 221
-    percent: 100
-    questions: ~
-  U9711120:
-    letters: 221
-    percent: 100
-    questions: ~
-  U9711132:
-    letters: 221
-    percent: 100
-    questions: ~
-  U9713020:
-    letters: 217
-    percent: 100
-    questions: ~
-  U9713044:
-    letters: 221
-    percent: 100
-    questions: ~
-  U9718012:
-    letters: 215
-    percent: 97
-    questions: ~
-  U9718048:
-    letters: 0
-    percent: 0
-    questions: ~
-  U9731046:
-    letters: 0
-    percent: 0
-    questions: ~
-  U9742033:
-    letters: 0
-    percent: 0
-    questions: ~
-  U9823006:
-    letters: 0
-    percent: 0
-    questions: ~
-  U9915004:
-    letters: 217
-    percent: 100
-    questions: ~
-  U9918043:
-    letters: 0
-    percent: 0
-    questions: ~
-  U9922232:
-    letters: 126
-    percent: 57
-    questions: ~
-  U9922318:
-    letters: 221
-    percent: 100
-    questions: ~
-  V9731059:
-    letters: 221
-    percent: 100
-    questions: ~
-  V9741009:
-    letters: 0
-    percent: 0
-    questions: ~
-  V9741010:
-    letters: 165
-    percent: 75
-    questions: ~
-  V9741029:
-    letters: 20
-    percent: 9
-    questions: ~
-  V9741030:
-    letters: 21
-    percent: 10
-    questions: ~
-  V9741038:
-    letters: 83
-    percent: 38
-    questions: ~
-  V9741057:
-    letters: 171
-    percent: 79
-    questions: ~
-  V9741059:
-    letters: 135
-    percent: 62
-    questions: ~
-  V9741060:
-    letters: 221
-    percent: 100
-    questions: ~
+  T9716021:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 7
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  T9731009:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 9
+  T9822123:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9711044:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9714017:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9716007:
+    Wh:
+      answers: 1
+      questions: 8
+      attempts: 25
+    Yn:
+      answers: 2
+      questions: 5
+      attempts: 15
+    S:
+      answers: 0
+      questions: 5
+      attempts: 6
+  U9722006:
+    Wh:
+      answers: 2
+      questions: 3
+      attempts: 4
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9742031:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 4
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 2
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9822143:
+    Wh:
+      answers: 2
+      questions: 5
+      attempts: 17
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9822148:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 6
+      questions: 7
+      attempts: 7
