@@ -1,0 +1,19 @@
+---
+Black:
+  absent:
+    - Rose
+  merits: 3
+Blue:
+  absent:
+    - Nana
+    - Fiora
+  merits: 0
+Green:
+  absent:
+    - Carey
+    - Luis
+  merits: 3
+Orange:
+  absent:
+    - May
+  merits: 3
