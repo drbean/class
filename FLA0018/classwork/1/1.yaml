@@ -1,4 +1,8 @@
 ---
+Black:
+  absent:
+    - Ricky
+  merits: 0
 Blue:
   absent: 
   merits: 2
@@ -7,6 +11,8 @@ Brown:
   merits: 3
 Gray:
   absent: 
+    - Kenny
+    - Lace
     - Patty
   merits: 0
 Orange:
