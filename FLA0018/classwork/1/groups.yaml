@@ -1,4 +1,6 @@
 ---
+Black:
+  - Ricky
 Blue:
   - Rachel
   - XinFang
@@ -7,6 +9,10 @@ Brown:
   - Rose
   - Ming
   - Debbie
+Gray:
+  - Kenny
+  - Lace
+  - Patty
 Orange:
   - Amber
   - Winne
@@ -23,5 +29,3 @@ Red:
   - Joy
   - Sue
   - Cathy
-Gray:
-  - Patty
