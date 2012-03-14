@@ -1,28 +1,29 @@
 ---
-Green:
+Red:
   absent: 
   merits: 2
+Green:
+  absent: 
+  merits: 3
+
 Orange:
   absent: 
   merits: 3
-
 Pink:
   absent: 
+    - Michelle
   merits: 2
+
 Purple:
   absent:
   merits: 3
+BlackBlack:
+  absent: 
+  merits: 2
 
-Red:
+Yellow:
   absent: 
   merits: 2
 White:
   absent: 
   merits: 3
-
-Yellow:
-  absent: 
-  merits: 3
-BlackBlack:
-  absent: 
-  merits: 2
