@@ -13,6 +13,16 @@ id: 002GL00034
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
+  - Chinese: 陳高君
+    name: Charlie
+    password: gao
+    id: T9822043
+    rating: ~
+  - Chinese: 張棋富
+    name: Simon
+    password: qi
+    id: U9931148
+    rating: ~
   - Chinese: 柳皓凱
     name: Jimmy
     password: hao
@@ -124,16 +134,6 @@ out:
     name: Maricel
     password: ying
     id: U9816001
-    rating: ~
-  - Chinese: 陳高君
-    name: Charlie
-    password: gao
-    id: T9822043
-    rating: ~
-  - Chinese: 張棋富
-    name: Simon
-    password: qi
-    id: U9931148
     rating: ~
   - Chinese: 陳星合
     name: Shing-her
