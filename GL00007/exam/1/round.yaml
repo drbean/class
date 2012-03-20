@@ -5,51 +5,27 @@ questions:
   - 10
 pass: 6
 assistant:
-  - Andy
 absent:
-
-text: /home/drbean/class/conversation/marriage/cards.yaml
+ - Rose
+text: /home/drbean/class/conversation/disability/cards.yaml
 activity:
-  clay:
-    3:
-      - Black
-  allen:
-    1:
-      - Blue
-      - Orange
-      - Pink
-  goetz:
+  connell:
     2:
       - Green
-      - Purple
+    4:
+      - Blue
+    5:
+      - Black
 group:
   Black:
-    - Vikin
-    - Kai
-    - GuoLun
-    - Wen-hsin
+    - Hana
+    - Larry
+    - Frank
   Blue:
-    - Kathy
-    - Andy
-    - Kumiko
-    - Sam
+    - Nana
+    - Fiora
+    - May
   Green:
-    - Jusky
-    - Nick
-    - Vic
-    - WanLin
-  Pink:
-    - Candy
-    - Jerry
-    - Hui-Lin
-    - Hazel
-  Purple:
-    - Ivy
-    - Mark
-    - Donna
-    - Alan
-  Orange:
-    - Chris
-    - Nina
-    - Andy
-    - James
+    - DingDing
+    - Carey
+    - Luis
