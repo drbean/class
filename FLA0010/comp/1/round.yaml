@@ -1,6 +1,6 @@
 ---
 activity:
-  'goetz':
+  connell:
     0:
       - 0
       - 1
@@ -12,98 +12,60 @@ activity:
       - 7
       - 8
       - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
-      - 21
-      - 22
-      - 23
-      - 25
-      - 26
-      - 27
 group:
   0:
-    White: V9941073
-    Black: V9741030
+    White: V9941047
+    Black: V9941075
   1:
-    White: 9622299
-    Black: V9941069
+    White: V9941062
+    Black: V9941059
   2:
-    White: V9941010
-    Black: V9741066
+    White: V9941049
+    Black: V9941029
   3:
-    White: N9661754
-    Black: V9941007
+    White: V9941031
+    Black: V9941026
   4:
     White: V9941025
-    Black: V9941011
-  5:
-    White: V9916050
-    Black: V9841025
-  6:
-    White: V9941043
-    Black: V9716015
-  7:
-    White: V9941075
-    Black: V9941059
-  8:
-    White: N9661760
-    Black: V9941050
-  9:
-    White: V9941049
-    Black: V9941071
-  10:
-    White: V9941014
     Black: V9941040
-  11:
-    White: V9941057
-    Black: V9841001
-  12:
-    White: V9941023
-    Black: V9941015
-  13:
+  5:
+    White: V9941050
+    Black: V9941043
+  6:
     White: V9941068
-    Black: V9941031
-  14:
-    White: V9941047
-    Black: V9941005
-  15:
-    White: V9941067
-    Black: V9941027
-  16:
+    Black: V9941069
+  7:
+    White: V9941060
+    Black: V9941073
+  8:
+    White: V9941045
+    Black: V9941067
+  9:
     White: V9941037
-    Black: V9941003
-  17:
-    White: V9941016
-    Black: V9941012
-  18:
-    White: V9941029
-    Black: V9941045
-  21:
-    White: V9941046
-    Black: V9941001
-  22:
-    White: V9941013
     Black: V9941032
-  23:
-    White: V9841016
-    Black: V9941026
-  25:
-    White: N9661749
-    Black: V9724004
-  26:
-    White: V9941033
-    Black: V9941076
-  27:
-    White: V9941036
-    Black: V9941044
-pairing: swiss (adjusted)
+  10:
+    White: V9941027
+    Black: V9941057
+  11:
+    White: V9941051
+    Black: V9941046
+assistant:
+  V9941026: 5
+  V9941031: 5
+  V9941036: 5
+
+  V9941076: 5
+  V9941068: 5
+  V9941033: 5
+  
+late:
+  - V9941051
+  - V9941046
+
+  - V9941027
+  - V9941057
+
+pairing: swiss
 round: 1
-text: /home/drbean/class/conversation/marriage/cards.yaml
+text: /home/drbean/class/conversation/disability/cards.yaml
 week: 4
