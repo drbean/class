@@ -1,0 +1,47 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: foreman
+grade:
+  T9716021: 1
+  T9731009: 0
+  T9822123: 2
+  U9711044: 2
+  U9714017: 0
+  U9716007: 2
+  U9722006: 2
+  U9742031: 2
+  U9822143: 2
+  U9822148: 2
+points:
+  T9716021:
+    letters: 27
+    percent: 32
+  T9731009:
+    letters: 0
+    percent: 0
+  T9822123:
+    letters: 102
+    percent: 94
+  U9711044:
+    letters: 127
+    percent: 100
+  U9714017:
+    letters: 0
+    percent: 0
+  U9716007:
+    letters: 105
+    percent: 100
+  U9722006:
+    letters: 109
+    percent: 100
+  U9742031:
+    letters: 105
+    percent: 100
+  U9822143:
+    letters: 101
+    percent: 100
+  U9822148:
+    letters: 109
+    percent: 100
