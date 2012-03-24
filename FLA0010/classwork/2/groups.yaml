@@ -1,12 +1,12 @@
 ---
 Black:
-  - Yan-Yun
-  - Ivy
-  - Jill
+  - David
+  - WenJun
+  - Amber
 Blue:
-  - Wan-Ling
-  - Brenda
-  - Zhi-Wei
+  - ~
+  - Joy
+  - Chun-Ying
 Brown:
   - Cai-ling
   - Sophia1
@@ -32,10 +32,10 @@ Purple:
   - LiJuan
   - YaTing2
 Red:
-  - David
-  - WenJun
-  - Mita
+  - Yan-Yun
+  - Ivy
+  - Jill
 White:
-  - Joy
-  - Chun-Ying
-  - Albert
+  - Wan-Ling
+  - Brenda
+  - Zhi-Wei
