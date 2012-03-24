@@ -13,6 +13,12 @@ id: 001FLA0010
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+  - Chinese: 郭芳萱
+    id: V9841033
+    name: Amber
+    password: fang
+    rating: 36
+
   - Chinese: 陳乙瑄
     id: V9941025
     name: Sharon
@@ -58,11 +64,6 @@ member:
     name: WenJun
     password: wen
     rating: 75
-  - Chinese: 羅苡心
-    id: V9941039
-    name: Mita
-    password: yi
-    rating: 8
   - Chinese: 莊翌蝶
     id: V9941040
     name: Claire
@@ -123,11 +124,6 @@ member:
     name: Zhi-Wei
     password: zhi
     rating: 59
-  - Chinese: 鄭合真
-    id: V9941064
-    name: 鄭合真
-    password: he
-    rating: 0
   - Chinese: 劉好英
     id: V9941067
     name: Ivy
@@ -164,6 +160,17 @@ member:
     password: meng
     rating: 51
 out:
+  - Chinese: 羅苡心
+    id: V9941039
+    name: Mita
+    password: yi
+    rating: 8
+  - Chinese: 鄭合真
+    id: V9941064
+    name: Albert
+    password: he
+    rating: 0
+
   - Chinese: 陳昱樺
     id: V9724004
     name: Nancy
