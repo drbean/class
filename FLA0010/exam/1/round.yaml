@@ -5,107 +5,64 @@ questions:
   - 10
 pass: 5
 assistant:
-  - QianHui
-  - Edison
-  - Travis
-  - Tzu-Ching
 absent:
   - Albert
-  - Ben
-text: /home/drbean/class/conversation/marriage/cards.yaml
+  - Mita
+text: /home/drbean/class/conversation/disability/cards.yaml
 activity:
-  allen:
-    1:
-      - Black
-      - BlueBlue
-      - Brown
-      - Green
-      - Pink
-      - White
-      - Yellow
-  goetz:
+  connell:
     2:
-      - BlackBlack
       - Blue
-      - Gray
       - Orange
+    3:
+      - Black
+      - Brown
+      - Gray
+      - Green
+    4:
+      - White
+    5:
+      - Pink
       - Purple
       - Red
-      - WhiteWhite
-      - YellowYellow
 group:
   Black:
-    - Jill
-    - Cai-ling
-    - Leon
-    - Joe
-  BlackBlack:
-    - Ivy
-    - Joanna
-    - Tony
-    - Julia
-  Blue:
-    - Redd
-    - Hsin-Cih
-    - Vicki
-    - Chun-Ying
-  BlueBlue:
-    - Sharon
-    - Pei-Yun
-    - Tzu-Ching
-    - YaTing1
-  Brown:
-    - Travis
-    - Zhen-Dai
-    - Mita
-    - Yan-Ting
-  Gray:
-    - WenJun
-    - Innocent
-    - Yang-ting
-    - Zhi-Wei
-  Green:
-    - Zi-Qian
-    - Yong-Shun
-    - MengShiung
-    - Yang-ting
-  Orange:
-    - YaTing2
-    - Tzu-Ching
-    - Mary
-    - Jielun
-  Pink:
-    - Tea
-    - Brenda
-    - Mike
-    - Jibson
-  Purple:
-    - Claire
-    - Yi-ni
-    - XiangYi
-    - Sophia1
-  Red:
-    - Sandy
-    - Wan-Ling
-    - Travis
-    - LiJuan
-  White:
-    - Chun-Hua
-    - Yan-Yun
-    - QianHui
-    - Adam
-  WhiteWhite:
-    - QianHui
-    - Robert
-    - Shu-Jun
-    - Edison
-  Yellow:
-    - Wan-Ru
-    - Henry
-    - Edison
-    - Sophia2
-  YellowYellow:
+    - Joy
     - David
-    - Donna
-    - Nancy
-    - Chelsea
+    - Mary
+  Blue:
+    - Jill
+    - WenJun
+    - QianHui
+  Brown:
+    - QianHui
+    - Ivy
+    - Jill
+  Gray:
+    - Brenda
+    - Wan-Ru
+    - Yan-Yun
+  Green:
+    - MengShiung
+    - YaTing2
+    - Zi-Qian
+  Orange:
+    - Hsin-Cih
+    - Cai-ling
+    - Zhen-Dai
+  Pink:
+    - Zhi-Wei
+    - Wan-Ling
+    - LiJuan
+  Purple:
+    - YaTing1
+    - Pei-Yun
+    - Chun-Hua
+  Red:
+    - Claire
+    - Sophia1
+    - Sharon
+  White:
+    - Shu-Jun
+    - Leon
+    - Chun-Ying
