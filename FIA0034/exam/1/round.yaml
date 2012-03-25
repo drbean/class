@@ -5,88 +5,98 @@ questions:
   - 5
 pass: 2
 assistant:
-  - Paul
+  - Orton
+  - Bill
 absent:
-  - Jeff
-  - Jack2
-  - Sam1
-text: /home/drbean/class/business/careers/cards.yaml
+text: /home/drbean/class/business/stress/cards.yaml
 activity:
-  tips:
-    3:
-      - Green
-      - Orange
-      - Red
-    4:
-      - Black
+  adventure:
+    8:
       - Blue
       - Brown
-    5:
-      - BlackBlack
-      - White
-      - Yellow
-    6:
+      - GrayGray
       - Pink
+      - Red
+    9:
+      - Black
+      - BlackBlack
+      - Gray
+      - Green
+      - White
+    10:
+      - BlueBlue
+      - BrownBrown
+      - GreenGreen
+      - John
+      - Orange
       - Purple
-      - YellowYellow
+      - Yellow
 group:
   Black:
-    - Lynn
-    - Johnson
-    - Kelly
-    - Lilith
-  Blue:
-    - Doris
-    - Paul
-    - Amy2
-    - Emily
-  Brown:
-    - Julie
-    - Kate
+    - Eileen
+    - Orton
+    - Tommy
+  BlackBlack:
+    - Sam1
+    - Bill
     - Ting
+  Blue:
+    - Ezra
+    - Dalai
+    - Bob
+  BlueBlue:
+    - Sherry
+    - Jerry
+    - Doris
+  Brown:
+    - Jason
     - Joe
-  Green:
-    - Robin
-    - Jill
-    - Lion
+    - Annie
+  BrownBrown:
+    - Jack1
+    - Daisy
+    - Reese
+  Gray:
+    - Jeff
+    - Johnson
+    - Larry
+  GrayGray:
     - Amy1
-  Orange:
-    - Carrie
-    - Evan
-    - Jennifer
+    - Cindy
     - Abby
+  Green:
+    - Jack2
+    - Jennifer
+    - Kelly
+  GreenGreen:
+    - Lion
+    - Celia
+    - Jill
+  Orange:
+    - Andy
+    - Shirley
+    - Diana
   Pink:
     - Betty2
-    - Diana
-    - Cindy
-    - Jerry
+    - Amy2
+    - Robin
   Purple:
-    - Andy
-    - Justin
-    - Daisy
-    - Dalai
-  Red:
-    - Jay1
-    - Bob
-    - Maggie
-    - Doris
-  White:
-    - Tommy
-    - Reese
-    - Celia
     - Carol
-  Yellow:
-    - Bill
-    - Jack1
-    - Orton
+    - Evan
+    - Emily
+  Red:
+    - Julie
+    - Jay1
+    - Maggie
+  White:
+    - Justin
+    - Kate
     - Betty1
-  YellowYellow:
-    - Larry
-    - Sherry
-    - Annie
-    - Shirley
-  BlackBlack:
-    - Harry
-    - Jay2
-    - Sam2
+  Yellow:
+    - Lynn
+    - Carrie
     - Paul
+  John:
+    - John
+    - Orton
+    - Bill
