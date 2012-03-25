@@ -5,70 +5,79 @@ questions:
   - 5
 pass: 2
 assistant:
-  - Cathy
+  - Anny
   - Ruby
 absent:
-  - Alice
-  - Sam
-text: /home/drbean/class/business/careers/cards.yaml
+  - Kuan-li
+text: /home/drbean/class/business/stress/cards.yaml
 activity:
-  tips:
-    3:
+  adventure:
+    8:
+      - BlackBlack
       - Brown
-      - Gray
-    4:
       - Orange
       - Red
-    5:
+    9:
       - Black
-      - Purple
-    6:
-      - Blue
+      - Gray
       - Pink
       - White
+    10:
+      - Blue
+      - BlueBlue
+      - Green
+      - Purple
+      - Yellow
 group:
   Black:
-    - Ivy
-    - Ruby
-    - Evangeline
-    - Linda2
-  Blue:
-    - Leo
-    - Soymilk
-    - Sean
-    - Claire
-  Brown:
+    - Candy
     - Cathy
-    - Tina
-    - Sally
-    - Fred
-  Gray:
-    - Tony
-    - Peter2
-    - James
-    - Linda1
-  Orange:
-    - Cathy
-    - Mila
-    - Wendy
     - Dora
-  Pink:
-    - Peter1
+  White:
+    - Linda2
+    - Ruby
     - Alex
-    - Kevin
-    - Jordan
-  Purple:
-    - Gene
-    - Tom
-    - Anny
-    - Sandy
-  Red:
+  Blue:
+    - Sam
+    - Sophia
+    - Evangeline
+  Yellow:
+    - Peter1
     - Cranium
     - Shane
+  Brown:
+    - Tony
+    - Ivy
     - Albert
-    - Candy
-  White:
+  Gray:
+    - Gene
+    - Soymilk
+    - Claire
+  Green:
+    - Lilith
+    - Mila
     - Kenny
-    - Ruby
+  Orange:
+    - Kevin
+    - Tom
+    - Linda1
+  Pink:
+    - Sean
+    - Sandy
+    - Wendy
+  Purple:
     - Jane
-    - Sophia
+    - Alice
+    - Leo
+  Red:
+    - Fred
+    - Peter2
+    - Jordan
+  BlackBlack:
+    - James
+    - Anny
+    - Ruby
+  BlueBlue:
+    - Tina
+    - Sally
+    - Anny
