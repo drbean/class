@@ -2,8 +2,9 @@
 absent: ~
 active: ~
 anterior: BMA0031
-approach: Compcomp
+approach: GroupworkNoFault
 compcomp: comp
+classMax: 3
 examMax: 5
 exams: exam
 field: 商用英文實務(一)
@@ -14,11 +15,6 @@ id: 001BMA0059
 jigsaw: exam
 league: 日經管大學二甲
 member:
-  - Chinese: 楊耀鈞
-    id: T9833014
-    name: Yao
-    password: yao
-    rating: 56
   - Chinese: 陳毓凱
     id: T9833024
     name: Jay
@@ -245,6 +241,11 @@ member:
     password: zi
     rating: 72
 out:
+  - Chinese: 楊耀鈞
+    id: T9833014
+    name: Yao
+    password: yao
+    rating: 56
   - Chinese: 蔡瑩圜
     id: U9931022
     name: Irene
@@ -261,6 +262,6 @@ scores:
 series:
   - first
 weights:
-  classwork: 60
+  classwork: 40
   exams: 20
-  homework: 20
+  homework: 40
