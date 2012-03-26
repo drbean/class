@@ -43,9 +43,9 @@ letters:
     U9931043: 1
     story: adventure10
   BrownBrown:
-    U9931145: 2
+    U9931145: 3
     U9931149: 2
-    U9931127: 2
+    U9931127: 3
     story: adventure8
   Gray:
     U9931101: 5
@@ -60,7 +60,7 @@ letters:
   Green:
     U9931105: 1
     U9931039: 1
-    U9931102: 1
+    U9931102: 0
     story: adventure8
   GreenGreen:
     U9931026: 2
@@ -74,8 +74,8 @@ letters:
     story: adventure9
   Pink:
     U9931138: 1
-    U9931146: 2
-    U9931012: 2
+    U9931146: 1
+    U9931012: 1
     story: adventure8
   Purple:
     U9931140: 2
