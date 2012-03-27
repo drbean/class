@@ -57,5 +57,6 @@ GreenGreen:
   merits: 2
 
 John:
-  absent: John
+  absent:
+    - John
   merits: 0
