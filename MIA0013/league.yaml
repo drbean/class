@@ -1,8 +1,9 @@
 ---
 active: ''
 anterior: MIA0015
-approach: Compcomp
+approach: GroupworkNoFault
 compcomp: comp
+classMax: 3
 examMax: 5
 exams: exam
 field: 商用英文實務(一)
@@ -13,11 +14,6 @@ id: 002MIA0013
 jigsaw: exam
 league: 日資管大學二甲
 member:
-  - Chinese: 陳冠吏
-    id: U9831132
-    name: Kuan-Li
-    password: guan
-    rating: 62
   - Chinese: 鄭惠蓮
     name: Lilith
     password: hui
@@ -205,6 +201,11 @@ member:
     password: shu
     rating: 76
 out:
+  - Chinese: 陳冠吏
+    id: U9831132
+    name: Kuan-Li
+    password: guan
+    rating: 62
   - Chinese: 陳冠霖
     id: U9933013
     name: Tina
@@ -225,6 +226,6 @@ scores:
   win: 5
 transfer: ~
 weights:
-  classwork: 60
+  classwork: 40
   exams: 20
-  homework: 20
+  homework: 40
