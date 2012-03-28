@@ -33,11 +33,6 @@ member:
     name: Michelle
     password: jia
     rating: 88
-  - Chinese: 杜珮瑜
-    id: V0041028
-    name: 杜珮瑜
-    password: pei
-    rating: 0
   - Chinese: 陳昱樺
     id: V9724004
     name: Nancy
