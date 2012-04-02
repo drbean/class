@@ -2,18 +2,16 @@
 cutpoints:
   one: 20
   two: 85
-exercise: online
+exercise: uniqlo-3
 grade:
-  T9833008: 2
-  T9833024: 0
-  T9833026: 0
-  U9816024: 2
+  U9734051: 2
+  U9834017: 2
   U9913132: 2
   U9933147: 2
   U9934001: 2
-  U9934002: 0
+  U9934002: 2
   U9934003: 2
-  U9934004: 0
+  U9934004: 2
   U9934005: 2
   U9934006: 2
   U9934007: 2
@@ -21,15 +19,15 @@ grade:
   U9934010: 2
   U9934011: 2
   U9934012: 2
-  U9934013: 2
+  U9934013: 1
   U9934015: 2
   U9934016: 2
   U9934017: 2
-  U9934019: 2
+  U9934019: 1
   U9934020: 2
   U9934021: 2
   U9934022: 2
-  U9934023: 2
+  U9934023: 0
   U9934024: 2
   U9934025: 2
   U9934026: 2
@@ -54,204 +52,152 @@ grade:
   U9934048: 2
   U9934050: 2
   U9934051: 2
+  U9934052: 2
 points:
-  T9833008:
-    letters: 336
+  U9734051:
+    letters: 270
+    percent: 100
+  U9834017:
+    letters: 256
     percent: 99
-    questions: 0
-  T9833024:
-    letters: 0
-    percent: 0
-    questions: ~
-  T9833026:
-    letters: 0
-    percent: 0
-    questions: ~
-  U9816024:
-    letters: 0
-    percent: 0
-    questions: 1
   U9913132:
-    letters: 306
+    letters: 282
     percent: 100
-    questions: 0
   U9933147:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 291
+    percent: 100
   U9934001:
-    letters: 356
+    letters: 305
     percent: 100
-    questions: 0
   U9934002:
-    letters: 0
-    percent: 0
-    questions: ~
+    letters: 265
+    percent: 96
   U9934003:
-    letters: 319
+    letters: 257
     percent: 100
-    questions: 0
   U9934004:
-    letters: 0
-    percent: 0
-    questions: ~
+    letters: 263
+    percent: 100
   U9934005:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 296
+    percent: 100
   U9934006:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 260
+    percent: 100
   U9934007:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 225
+    percent: 100
   U9934009:
-    letters: 356
-    percent: 100
-    questions: 0
+    letters: 241
+    percent: 96
   U9934010:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 258
+    percent: 90
   U9934011:
-    letters: 0
-    percent: 0
-    questions: 1
-  U9934012:
-    letters: 306
-    percent: 100
-    questions: 1
-  U9934013:
-    letters: 316
+    letters: 247
     percent: 99
-    questions: 0
+  U9934012:
+    letters: 277
+    percent: 94
+  U9934013:
+    letters: 204
+    percent: 74
   U9934015:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 269
+    percent: 100
   U9934016:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 276
+    percent: 100
   U9934017:
-    letters: 306
+    letters: 278
     percent: 100
-    questions: 0
   U9934019:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 236
+    percent: 82
   U9934020:
-    letters: 0
-    percent: 0
-    questions: 1
-  U9934021:
-    letters: 306
+    letters: 267
     percent: 100
-    questions: 0
+  U9934021:
+    letters: 280
+    percent: 100
   U9934022:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 275
+    percent: 100
   U9934023:
     letters: 0
     percent: 0
-    questions: 1
   U9934024:
-    letters: 319
-    percent: 100
-    questions: 0
+    letters: 233
+    percent: 90
   U9934025:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 292
+    percent: 100
   U9934026:
-    letters: 338
+    letters: 272
     percent: 100
-    questions: 0
   U9934027:
-    letters: 356
+    letters: 217
     percent: 100
-    questions: 0
   U9934028:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 280
+    percent: 100
   U9934029:
-    letters: 338
+    letters: 269
     percent: 100
-    questions: 0
   U9934030:
-    letters: 319
+    letters: 264
     percent: 100
-    questions: 0
   U9934031:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 273
+    percent: 100
   U9934032:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 277
+    percent: 98
   U9934033:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 279
+    percent: 100
   U9934034:
-    letters: 319
+    letters: 267
     percent: 100
-    questions: 0
   U9934036:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 298
+    percent: 100
   U9934037:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 256
+    percent: 100
   U9934038:
-    letters: 356
+    letters: 262
     percent: 100
-    questions: 0
   U9934039:
-    letters: 338
+    letters: 271
     percent: 100
-    questions: 0
   U9934040:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 283
+    percent: 100
   U9934043:
-    letters: 319
+    letters: 285
     percent: 100
-    questions: 0
   U9934044:
-    letters: 356
+    letters: 320
     percent: 100
-    questions: 0
   U9934045:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 254
+    percent: 96
   U9934046:
-    letters: 319
-    percent: 100
-    questions: 0
+    letters: 243
+    percent: 98
   U9934047:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 302
+    percent: 100
   U9934048:
-    letters: 306
-    percent: 100
-    questions: ~
+    letters: 231
+    percent: 88
   U9934050:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 248
+    percent: 96
   U9934051:
-    letters: 356
+    letters: 244
     percent: 100
-    questions: 0
+  U9934052:
+    letters: 270
+    percent: 89
