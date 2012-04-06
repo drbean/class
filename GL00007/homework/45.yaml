@@ -4,7 +4,7 @@ cutpoints:
   two: 85
 exercise: foreman
 grade:
-  T9716021: 1
+  T9716021: 2
   T9731009: 0
   T9822123: 2
   U9711044: 2
@@ -16,14 +16,14 @@ grade:
   U9822148: 2
 points:
   T9716021:
-    letters: 27
-    percent: 32
+    letters: 85
+    percent: 100
   T9731009:
     letters: 0
     percent: 0
   T9822123:
-    letters: 102
-    percent: 94
+    letters: 108
+    percent: 100
   U9711044:
     letters: 127
     percent: 100
