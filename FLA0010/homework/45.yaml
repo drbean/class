@@ -4,6 +4,7 @@ cutpoints:
   two: 85
 exercise: foreman
 grade:
+  V9841033: 0
   V9941025: 2
   V9941026: 2
   V9941027: 0
@@ -33,6 +34,9 @@ grade:
   V9941075: 2
   V9941076: 2
 points:
+  V9841033:
+    letters: 0
+    percent: 0
   V9941025:
     letters: 116
     percent: 100
