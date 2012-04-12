@@ -3,120 +3,59 @@ round: Exam 1
 week: 5
 questions:
   - 10
-pass: 6
+pass: 5
 assistant:
-  - Hannah
-  - Fifi
   - Yu-Ching
-  - Frances
-  - Patty
+  - Debbie
+  - Louise
 absent:
-  - Dan
   - Lace
-  - Kori
-  - Ryan
-text: /home/drbean/class/conversation/marriage/cards.yaml
+  - Ming
+  - Anne
+  - Ricky
+text: /home/drbean/class/conversation/disability/cards.yaml
 activity:
-  clay:
-    3:
-      - Abby
-      - Black
-      - Gray
-      - Purple
-      - WhiteWhite
-  allen:
-    1:
-      - BlackBlack
-      - Blue
-      - Green
-      - Pink
-      - White
-      - XinFang
-  goetz:
+  connell:
     2:
-      - BlueBlue
-      - Brown
+      - Gray
       - Orange
-      - Yellow
-      - YellowYellow
+      - Red
+    3:
+      - Blue
+    4:
+      - Brown
+      - Purple
+    5:
+      - Pink
+      - Black
 group:
-  XinFang:
-    - XinFang
-    - Hannah
-    - Fifi
-    - Yu-Ching
   Black:
-    - Fifi
-    - Yi-Ru
-    - Alan
-    - Rose
-  BlackBlack:
-    - Kenny
-    - Winny
-    - Fifi
-    - Frances
+    - ~
   Blue:
+    - Rachel
+    - XinFang
     - Yu-Ching
-    - Luke
-    - Yu-Lun
-    - Alex
-  BlueBlue:
-    - Frances
-    - Joan
-    - Shaq
-    - Julie
   Brown:
-    - Louise
-    - Carina
-    - Kitty
+    - Rose
     - Yu-Ching
+    - Debbie
   Gray:
-    - Larry
-    - Ming
-    - Joy
-    - Lisa
-  Green:
-    - Jessica2
-    - Nancy
-    - Leo
-    - Hannah
-  Orange:
-    - Julia
-    - Katty
-    - Dennis
-    - Winne
-  Pink:
+    - Kenny
+    - Debbie
     - Patty
-    - Anne
-    - Ricky
+  Orange:
+    - Amber
+    - Winne
+    - Julie
+  Pink:
+    - Louise
+    - Joan
     - Jessica1
   Purple:
-    - Patty
-    - Alan
-    - Jacinta
-    - Frank
-  White:
-    - Laura
-    - Jeffrey
+    - Kitty
+    - Louise
+    - Carina
+  Red:
+    - Joy
     - Sue
-    - Rachel
-  WhiteWhite:
-    - Amber
     - Cathy
-    - Ivan
-    - Debbie
-  Yellow:
-    - Stanley
-    - Yorick
-    - Hank
-    - Carol
-  YellowYellow:
-    - Ingar
-    - Bass
-    - Sana
-    - Wei-Yi
-  Abby:
-    - Ming
-    - Abby
-    - Luke
-    - Frank
