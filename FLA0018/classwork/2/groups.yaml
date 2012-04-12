@@ -1,20 +1,19 @@
 ---
 Black:
+  - Lace
+  - Rose
+  - Jessica1
+Blue:
+  - XinFang
+  - Winne
+  - Julie
+Brown:
   - Amber
   - Ming
   - Debbie
-Blue:
-  - Joan
-  - Rachel
-  - Anne
-Brown:
-  - Kitty
-  - Winne
-  - Julie
 Gray:
   - Joy
   - Kenny
-  - Jessica1
 Orange:
   - Sue
   - Louise
@@ -24,8 +23,9 @@ Pink:
   - Ricky
   - Cathy
 Purple:
-  - XinFang
-  - Yu-Ching
+  - Joan
+  - Rachel
+  - Anne
 Red:
-  - Lace
-  - Rose
+  - Kitty
+  - Yu-Ching
