@@ -11,7 +11,6 @@ activity:
       - 7
       - 8
       - 9
-bye: V9841071
 group:
   1:
     White: V9841054
@@ -36,7 +35,7 @@ group:
     Black: V9841069
   8:
     White: V9841059
-    Black: V9841051
+    Black: V9841071
   9:
     White: V9841034
     Black: V9841041
