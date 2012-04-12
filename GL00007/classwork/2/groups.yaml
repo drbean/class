@@ -1,17 +1,13 @@
 ---
 Black:
-  - Hana
-  - Larry
-  - Rose
-Blue:
-  - ~
-  - Nana
-  - Fiora
-Green:
-  - DingDing
-  - Carey
-  - Luis
-Orange:
-  - ~
   - Frank
+  - Fiora
+  - Hana
+Green:
+  - Nana
   - May
+  - Carey
+Red:
+  - Luis
+  - Larry
+  - DingDing
