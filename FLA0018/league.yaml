@@ -13,6 +13,22 @@ id: 002FLA0018
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+  - Chinese: 王國權
+    id: V9841069
+    name: Kenny
+    password: guo
+    rating: 67
+  - Chinese: 李齊
+    id: V9841064
+    name: Ricky
+    password: qi
+    rating: 67
+  - Chinese: 胡佳玟
+    id: V9841046
+    name: Lace
+    password: jia
+    rating: 0
+
   - Chinese: 郭芳萱
     id: V9841033
     name: Amber
@@ -109,30 +125,15 @@ member:
     password: xin
     rating: 28
 out:
-  - Chinese: 王國權
-    id: V9841069
-    name: Kenny
-    password: guo
-    rating: 67
   - Chinese: 黃啟信
     id: V9841062
     name: Ivan
     password: qi
     rating: 35
-  - Chinese: 李齊
-    id: V9841064
-    name: Ricky
-    password: qi
-    rating: 67
   - Chinese: 劉國薇
     id: V9841070
     name: 劉國薇
     password: guo
-    rating: 0
-  - Chinese: 胡佳玟
-    id: V9841046
-    name: Lace
-    password: jia
     rating: 0
   - Chinese: 楊蘭慧
     id: N9661756
