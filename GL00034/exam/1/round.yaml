@@ -5,34 +5,40 @@ questions:
   - 10
 pass: 6
 assistant:
-  - Dalai
-  - Emily
+  - Kimberly
+  - Tina
 absent:
-
-text: /home/drbean/class/conversation/marriage/cards.yaml
+ - PeiShan
+text: /home/drbean/class/conversation/disability/cards.yaml
 activity:
-  clay:
+  connell:
+    2:
+      - Blue
     3:
       - Black
-  allen:
-    1:
-      - Gray
-  goetz:
-    2:
+    4:
+      - Green
       - Orange
+    5:
+      - Jimmy
 group:
   Black:
-    - Vivi
-    - Roy
-    - Dalai
-    - Emily
-  Gray:
-    - Daisy
-    - Annie
-    - Julie
-    - Emily
+    - Mike1
+    - R-kai
+    - Charlie
+  Blue:
+    - Max
+    - Ian
+    - Simon
+  Green:
+    - Mike2
+    - Kimberly
+    - Jason
   Orange:
-    - Vicky
-    - Si-Yu
-    - Kenni
-    - Dalai
+    - Sheena
+    - Tina
+    - Amy
+  Jimmy:
+    - Jimmy
+    - Kimberly
+    - Tina

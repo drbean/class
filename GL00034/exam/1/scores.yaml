@@ -1,24 +1,33 @@
 ---
 Chinese:
   Black: 0
-  Gray: 0
+  Blue: 0
+  Green: 0
+  Jimmy: 0
   Orange: 0
 letters:
   Black:
-    V9731059: 8
-    U9922143: 8
-    U9934051: 8
-    U9934003: 8
-    story: clay3
-  Gray:
-    U9934021: 6
-    U9934025: 3
-    U9934002: 4
-    U9934003: 5
-    story: allen1
+    U9817051: 9
+    U9821130: 9
+    T9822043: 7
+    story: connell3
+  Blue:
+    U9818039: 7
+    U9931123: 2
+    U9931148: 7
+    story: connell2
+  Green:
+    U9914051: 7
+    U9931043: 6
+    U9818019: 7
+    story: connell4
+  Jimmy:
+    U9711114: 7
+    U9931043: 10
+    U9931134: 10
+    story: connell5
   Orange:
-    T9833033: 10
-    T9833004: 10
-    T9821018: 10
-    U9934051: 8
-    story: goetz2
+    U9818048: 10
+    U9931134: 10
+    V9741064: 10
+    story: connell4
