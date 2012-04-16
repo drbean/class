@@ -1,83 +1,47 @@
 ---
 cutpoints:
-  one: 50
-  two: 150
-exercise: emersonj
+  one: 20
+  two: 85
+exercise: davist
 grade:
-  9611203: 0
-  M9923001: 0
-  M9923005: 0
-  T9811035: 2
-  T9831040: 2
-  U9623038: 2
-  U9711025: 2
-  U9711052: 2
-  U9715014: 2
-  U9723056: 2
-  U9813024: 2
-  U9823011: 1
-  U9831049: 2
-  U9916027: 0
-  U9916029: 2
-  U9922235: 2
-  U9931143: 2
-  U9942017: 0
-  V9741065: 2
+  T9716021: 0
+  T9731009: 0
+  T9822123: 2
+  U9711044: 0
+  U9714017: 0
+  U9716007: 2
+  U9722006: 2
+  U9742031: 0
+  U9822143: 2
+  U9822148: 2
 points:
-  9611203:
+  T9716021:
     letters: 0
-    questions: 0
-  M9923001:
+    percent: 0
+  T9731009:
     letters: 0
-    questions: 0
-  M9923005:
-    letters: 0
-    questions: 0
-  T9811035:
+    percent: 0
+  T9822123:
     letters: 150
-    questions: 1
-  T9831040:
-    letters: 179
-    questions: 0
-  U9623038:
-    letters: 200
-    questions: 0
-  U9711025:
-    letters: 200
-    questions: 0
-  U9711052:
-    letters: 206
-    questions: 0
-  U9715014:
+    percent: 100
+  U9711044:
     letters: 0
-    questions: 1
-  U9723056:
+    percent: 0
+  U9714017:
     letters: 0
-    questions: 1
-  U9813024:
-    letters: 206
-    questions: 0
-  U9823011:
-    letters: 117
-    questions: 0
-  U9831049:
+    percent: 0
+  U9716007:
+    letters: 144
+    percent: 100
+  U9722006:
+    letters: 121
+    percent: 100
+  U9742031:
     letters: 0
-    questions: 1
-  U9916027:
-    letters: 0
-    questions: 0
-  U9916029:
-    letters: 0
-    questions: 1
-  U9922235:
-    letters: 0
-    questions: 1
-  U9931143:
-    letters: 179
-    questions: 0
-  U9942017:
-    letters: 0
-    questions: 0
-  V9741065:
-    letters: 0
-    questions: 3
+    percent: 0
+  U9822143:
+    letters: 132
+    percent: 100
+  U9822148:
+    letters: 133
+    percent: 100
