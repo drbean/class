@@ -1,139 +1,67 @@
 ---
 cutpoints:
-  one: 50
-  two: 150
-exercise: emersonj
+  one: 20
+  two: 85
+exercise: davist
 grade:
-  9616201: 2
-  T9811101: 2
-  T9811111: 2
-  T9811142: 2
-  T9813003: 0
-  T9813004: 2
-  T9813009: 0
-  T9813010: 0
-  T9813014: 2
-  T9821014: 2
-  T9821033: 2
-  T9821036: 2
-  T9821043: 2
-  T9831047: 2
-  U9621094: 2
-  U9692038: 0
-  U9692049: 0
-  U9718016: 2
-  U9718022: 0
-  U9718033: 2
-  U9718036: 2
-  U9718042: 2
-  U9742052: 2
-  U9743024: 2
-  U9811010: 0
-  U9811127: 2
-  U9811142: 2
-  U9811144: 2
-  U9811149: 2
-  U9822002: 0
-  U9843004: 2
-  U9843023: 2
-  U9999006: 0
+  T9821041: 0
+  T9822043: 0
+  U9711114: 0
+  U9817051: 2
+  U9818019: 2
+  U9818039: 0
+  U9818048: 2
+  U9821130: 2
+  U9914051: 0
+  U9918041: 0
+  U9931043: 2
+  U9931123: 0
+  U9931134: 2
+  U9931148: 0
+  V9741064: 1
 points:
-  9616201:
-    letters: 200
-    questions: 1
-  T9811101:
+  T9821041:
     letters: 0
-    questions: 1
-  T9811111:
-    letters: 179
-    questions: 0
-  T9811142:
-    letters: 200
-    questions: 0
-  T9813003:
+    percent: 0
+  T9822043:
     letters: 0
-    questions: 0
-  T9813004:
-    letters: 200
-    questions: 0
-  T9813009:
+    percent: 0
+  U9711114:
     letters: 0
-    questions: 0
-  T9813010:
+    percent: 0
+  U9817051:
+    letters: 136
+    percent: 100
+  U9818019:
+    letters: 128
+    percent: 100
+  U9818039:
     letters: 0
-    questions: 0
-  T9813014:
-    letters: 184
-    questions: 1
-  T9821014:
-    letters: 184
-    questions: 0
-  T9821033:
-    letters: 179
-    questions: 0
-  T9821036:
-    letters: 206
-    questions: 0
-  T9821043:
-    letters: 200
-    questions: 0
-  T9831047:
+    percent: 0
+  U9818048:
+    letters: 143
+    percent: 100
+  U9821130:
+    letters: 139
+    percent: 100
+  U9914051:
     letters: 0
-    questions: 1
-  U9621094:
-    letters: 201
-    questions: 1
-  U9692038:
+    percent: 0
+  U9918041:
     letters: 0
-    questions: 0
-  U9692049:
+    percent: 0
+  U9931043:
+    letters: 124
+    percent: 97
+  U9931123:
     letters: 0
-    questions: 0
-  U9718016:
+    percent: 0
+  U9931134:
+    letters: 151
+    percent: 100
+  U9931148:
     letters: 0
-    questions: 1
-  U9718022:
-    letters: 0
-    questions: 0
-  U9718033:
-    letters: 184
-    questions: 0
-  U9718036:
-    letters: 179
-    questions: 1
-  U9718042:
-    letters: 0
-    questions: 1
-  U9742052:
-    letters: 184
-    questions: 0
-  U9743024:
-    letters: 184
-    questions: 0
-  U9811010:
-    letters: 0
-    questions: 0
-  U9811127:
-    letters: 184
-    questions: 0
-  U9811142:
-    letters: 0
-    questions: 1
-  U9811144:
-    letters: 0
-    questions: 1
-  U9811149:
-    letters: 184
-    questions: 0
-  U9822002:
-    letters: 0
-    questions: 0
-  U9843004:
-    letters: 179
-    questions: 0
-  U9843023:
-    letters: 0
-    questions: 1
-  U9999006:
-    letters: 0
-    questions: 0
+    percent: 0
+  V9741064:
+    letters: 103
+    percent: 82
