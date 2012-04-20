@@ -3,7 +3,8 @@ absent: ~
 active: ~
 approach: Compcomp
 compcomp: comp
-examMax: 4
+examMax: 5
+classMax: 3
 exams: exam
 field: 中級英文聽說訓練
 groupwork: classwork
