@@ -1,9 +1,8 @@
 ---
-absent: ~
-active: ~
 approach: Compcomp
 compcomp: comp
-examMax: 4
+examMax: 5
+classMax: 3
 exams: exam
 field: 中級英文聽說訓練
 groupwork: classwork
@@ -38,11 +37,6 @@ member:
     name: Max
     password: pin
     id: U9818039
-    rating: ~
-  - Chinese: 施建宗
-    name: Aison
-    password: jian
-    id: T9821041
     rating: ~
   
   
@@ -95,6 +89,11 @@ member:
     id: U9931123
     rating: ~
 out:
+  - Chinese: 施建宗
+    name: Aison
+    password: jian
+    id: T9821041
+    rating: ~
   - Chinese: 蔣秉書
     id: U9818035
     name: Kenny
