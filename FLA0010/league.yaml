@@ -3,7 +3,8 @@ absent: ~
 anterior: FLA0015
 approach: Compcomp
 compcomp: comp
-examMax: 4
+examMax: 5
+classMax: 3
 exams: exam
 field: 英語會話(一)
 groupwork: classwork
