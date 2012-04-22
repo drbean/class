@@ -1,72 +1,148 @@
 ---
 cutpoints:
-  one: 50
-  two: 300
-exercise: breaksantschif
+  loser: 1
+  quitter: 0
+  winner: 2
+exercise: davist
 grade:
-  U9615010: 0
-  9622212: 2
-  9622240: 2
-  N9561765: 2
-  N9561766: 0
-  N9661723: 2
-  N9661747: 0
-  T9822129: 0
-  T9822149: 0
-  U9633019: 0
-  U9633052: 2
-  U9722022: 2
-  U9818007: 0
-  U9818046: 0
-  U9821142: 2
-  U9822004: 2
-  U9822019: 2
+  T9716021: 0
+  T9731009: 0
+  T9822123: 2
+  U9711044: 0
+  U9714017: 0
+  U9716007: 2
+  U9722006: 2
+  U9742031: 0
+  U9822143: 2
+  U9822148: 2
 points:
-  9622212:
-    letters: 334
-    questions: 0
-  9622240:
-    letters: 320
-    questions: 0
-  N9561765:
-    letters: 334
-    questions: 0
-  N9561766:
-    letters: ~
-    questions: 0
-  N9661723:
-    letters: 325
-    questions: 0
-  N9661747:
-    letters: ~
-    questions: 0
-  T9822129:
-    letters: ~
-    questions: 0
-  T9822149:
-    letters: ~
-    questions: 0
-  U9633019:
-    letters: ~
-    questions: 0
-  U9633052:
-    letters: 325
-    questions: 0
-  U9722022:
-    letters: 334
-    questions: 0
-  U9818007:
-    letters: ~
-    questions: 0
-  U9818046:
-    letters: ~
-    questions: 0
-  U9821142:
-    letters: 337
-    questions: 0
-  U9822004:
-    letters: 337
-    questions: 0
-  U9822019:
-    letters: 337
-    questions: 0
+  T9716021:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  T9731009:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  T9822123:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 7
+    S:
+      answers: 6
+      questions: 8
+      attempts: 11
+  U9711044:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9714017:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9716007:
+    Wh:
+      answers: 2
+      questions: 2
+      attempts: 7
+    Yn:
+      answers: 2
+      questions: 3
+      attempts: 12
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9722006:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 2
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 6
+      questions: 9
+      attempts: 10
+  U9742031:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9822143:
+    Wh:
+      answers: 2
+      questions: 3
+      attempts: 8
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9822148:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 3
+      attempts: 5
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
