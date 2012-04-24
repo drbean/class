@@ -5,68 +5,76 @@ questions:
   - 5
 pass: 2
 assistant:
-  - Anny
-absent: 
-  - Linda2
-text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
+absent:
+  - Tony
+text: /home/drbean/class/business/marketing/cards.yaml
 activity:
-  vacations:
-    6:
-      - Black
-      - White
-    7:
+  water:
+    11:
+      - BlackBlack
+      - Green
+      - GrayGray
+    22:
+      - Yellow
+      - Orange
       - Gray
-      - Purple
-    8:
+    33:
+      - White
+      - Brown
+    44:
+      - Red
       - Blue
       - Pink
-    9:
-      - Brown
-      - Orange
-      - Red
+    55:
+      - Purple
+      - Black
+      - BrownBrown
 group:
   Black:
-    - Sam
-    - Albert
-    - Shane
-    - Linda1
-  Blue:
-    - Anny
-    - Gene
-    - Evangeline
-    - Tom
-  Brown:
-    - Sean
-    - Claire
-    - Ruby
-    - Ivy
-  Gray:
-    - Peter1
-    - Fred
-    - Alex
-    - Anny
-  Orange:
-    - Alice
-    - Kevin
     - Mila
     - Kenny
-  Pink:
     - Cathy
-    - James
-    - Peter2
+  Blue:
     - Jordan
-  Purple:
-    - Leo
-    - Tina
-    - Sally
-    - Soymilk
-  Red:
-    - Candy
-    - Tony
-    - Wendy
-    - Sophia
-  White:
     - Jane
-    - Cranium
-    - Sandy
+    - Linda1
+  BlackBlack:
+    - James
     - Dora
+    - Anny
+  Brown:
+    - Peter1
+    - Sean
+    - Tom
+  Gray:
+    - Sam
+    - Alice
+    - Sandy
+  Green:
+    - Evangeline
+    - Soymilk
+    - Wendy
+  Orange:
+    - Sophia
+    - Lilith
+    - Linda2
+  Pink:
+    - Tina
+    - Peter2
+    - Cranium
+  Purple:
+    - Claire
+    - Leo
+    - Sally
+  Red:
+    - Gene
+    - Ruby
+    - Alex
+  White:
+    - Candy
+    - Shane
+    - Albert
+  Yellow:
+    - Fred
+    - Kevin
+    - Ivy
