@@ -12,6 +12,7 @@ activity:
   water:
     11:
       - BlackBlack
+      - Pink
       - Green
       - GrayGray
     22:
@@ -24,7 +25,6 @@ activity:
     44:
       - Red
       - Blue
-      - Pink
     55:
       - Purple
       - Black
