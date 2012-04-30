@@ -5,6 +5,7 @@ questions:
   - 10
 pass: 5
 assistant:
+    - QianHui
 absent:
   - Albert
   - Mita
