@@ -1,0 +1,39 @@
+---
+Black:
+  absent: 
+  merits: ~
+Blue:
+  absent: 
+  merits: ~
+
+Brown:
+  absent: 
+  merits: 3
+Gray:
+  absent: 
+  merits: 2
+
+Green:
+  absent: 
+  merits: 2
+White:
+  absent: 
+  merits: 3
+
+Red:
+  absent: 
+  merits: 2
+Purple:
+  absent:
+  merits: 3
+
+Pink:
+  absent: 
+  merits: ~
+Orange:
+  absent: 
+  merits: ~
+
+Amber:
+  absent:
+  merits: 3
