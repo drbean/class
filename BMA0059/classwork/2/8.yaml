@@ -1,0 +1,63 @@
+---
+
+Green:
+  absent:  
+  merits:  3
+Black:
+  absent: 
+  merits:  2
+
+Blue:
+  absent:  
+  merits:  2
+Brown:
+  absent:  
+  merits:  3
+
+Gray:
+  absent:  
+    - Amy4
+  merits:  3
+Purple:
+  absent:
+  merits:  2
+
+Orange:
+  absent:  
+  merits:  2
+Pink:
+  absent:  
+  merits:  3
+
+# groups on left got wrong partners
+# apparently they thought same as week7
+# This left GrayGray without partners
+# GrayGray came to talk to me
+# No-one else did
+
+Red:
+  absent:  
+  merits:  2
+White:
+  absent:  
+  merits:  2
+Yellow:
+  absent:  
+  merits:  2
+BlueBlue:
+  absent:  
+  merits:  2
+BrownBrown:
+  absent:  
+  merits:  2
+
+# saw me
+GrayGray:
+  absent:  
+  merits:  3
+
+# assistants
+BlackBlack:
+  absent:  
+    - Merlin
+  merits:  3
