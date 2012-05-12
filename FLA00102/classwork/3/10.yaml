@@ -1,0 +1,35 @@
+---
+# right
+Black:
+  absent:
+  merits: 3
+Blue:
+  absent:
+   - Joe
+  merits: 3
+Brown:
+  absent:
+  merits: 3
+Gray:
+  absent:
+  merits: 3
+Green:
+  absent:
+  merits: 3
+
+# left
+Orange:
+  absent:
+   - Jielun
+  merits: 2
+Pink:
+  absent:
+  merits: 2
+Purple:
+  absent:
+    - Edison
+  merits: 2
+Red:
+  absent:
+    - Chelsea
+  merits: 2
