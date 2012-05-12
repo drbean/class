@@ -1,0 +1,37 @@
+---
+Black:
+  absent: 
+  merits: 3
+Blue:
+  absent: 
+    - Joe
+  merits: 2
+
+Brown:
+  absent: 
+  merits: 3
+Gray:
+  absent: 
+  merits: 2
+
+Orange:
+  absent: 
+    - Jielun
+  merits: 2
+Pink:
+  absent: 
+  merits: 3
+
+Purple:
+  absent:
+  merits: 3
+Red:
+  absent: 
+    - Chelsea
+  merits: 2
+
+# assistants
+Green:
+  absent: 
+    - Tzu-Ching
+  merits: 3
