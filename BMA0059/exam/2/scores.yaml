@@ -1,9 +1,13 @@
 ---
 Chinese:
   Black: 0
+  BlackBlack: 0
   Blue: 0
+  BlueBlue: 0
   Brown: 0
+  BrownBrown: 0
   Gray: 0
+  GrayGray: 0
   Green: 0
   Orange: 0
   Pink: 0
@@ -13,68 +17,77 @@ Chinese:
   Yellow: 0
 letters:
   Black:
-    U9931145: 3
-    U9931003: 3
-    U9931146: 3
-    U9931039: 3
-    story: vacations6
+    T9833026: 3
+    U9931012: 3
+    U9931125: 3
+    story: water55
+  BlackBlack:
+    U9931034: 5
+    U9931109: 5
+    U9931110: 5
+    story: water33
   Blue:
-    U9931105: 2
-    U9931028: 2
-    U9931014: 2
-    U9931109: 2
-    story: vacations7
+    U9931013: 3
+    U9931127: 3
+    U9931140: 3
+    story: water44
+  BlueBlue:
+    T9833024: 3
+    U9931025: 2
+    U9931003: 3
+    story: water33
   Brown:
-    U9931034: 1
     U9931032: 3
-    U9931004: 1
-    U9931012: 1
-    story: vacations8
-  Gray:
-    U9931138: 4
-    U9931125: 4
-    U9931007: 3
-    U9931006: 4
-    story: vacations9
-  Green:
-    U9931022: 5
-    U9931134: 5
-    U9931133: 5
-    U9931042: 5
-    story: vacations6
-  Orange:
-    U9931015: 4
-    U9931002: 4
-    U9931013: 4
-    U9931025: 4
-    story: vacations7
-  Pink:
-    U9931017: 2
-    U9931129: 2
-    U9931041: 2
-    U9931110: 2
-    story: vacations6
-  Purple:
-    U9931140: 5
+    U9931103: 2
+    U9931002: 2
+    story: water11
+  BrownBrown:
+    U9931138: 3
+    U9931015: 3
     U9931130: 3
-    U9931111: 4
-    U9931143: 4
-    story: vacations7
-  Red:
-    U9931001: 4
-    U9931139: 4
-    U9931029: 2
-    U9931043: 2
-    story: vacations8
-  White:
-    U9931103: 3
-    U9931101: 3
-    U9931127: 2
+    story: water55
+  Gray:
+    U9931042: 4
+    U9931043: 3
+    U9931143: 1
+    story: water55
+  GrayGray:
+    U9931146: 2
+    U9931041: 2
+    U9931004: 1
+    story: water11
+  Green:
+    U9931133: 3
+    U9931001: 2
+    U9931014: 2
+    story: water22
+  Orange:
+    U9931129: 3
+    U9931111: 2
+    U9931007: 3
+    story: water11
+  Pink:
+    U9931028: 5
+    U9931017: 5
+    U9931101: 5
+    story: water44
+  Purple:
+    U9931006: 2
     U9931026: 3
-    story: vacations8
+    U9931134: 3
+    story: water22
+  Red:
+    U9931139: 5
+    U9931029: 5
+    U9931039: 5
+    story: water44
+  White:
+    U9931149: 3
+    U9931145: 3
+    U9931037: 3
+    story: water33
   Yellow:
-    U9931149: 1
-    U9931142: 1
-    U9931037: 1
-    U9931102: 1
-    story: vacations9
+    U9931105: 4
+    U9931102: 4
+    U9931142: 4
+    story: water33
