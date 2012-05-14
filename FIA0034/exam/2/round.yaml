@@ -4,92 +4,102 @@ week: 9
 questions:
   - 5
 pass: 2
-assistant: 
-  - Jeff
-  - Evan
-text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
+assistant:
+  - Joe
+  - Lynn
+absent:
+text: /home/drbean/class/business/marketing/cards.yaml
 activity:
-  vacations:
-    6:
-      - Blue
+  water:
+    11:
       - BlackBlack
-      - Gray
-      - White
-    7:
+      - BlueBlue
+
+      - Blue
       - Green
-      - Pink
-      - Red
-    8:
-      - Black
-      - Brown
       - Purple
-    9:
+      - GrayGray
+    22:
+      - Brown
+      - White
+      - GreenGreen
+    33:
+      - Black
+      - Gray
+      - OrangeOrange
+    44:
       - Orange
       - Yellow
-      - YellowYellow
+      - BrownBrown
+    55:
+      - Pink
+      - Red
 group:
-  Yellow:
-    - Jason
-    - Jay2
-    - Lion
-    - Jill
-  BlackBlack:
-    - Jeff
-    - Maggie
-    - Carrie
-    - Celia
-  YellowYellow:
-    - Jack1
-    - Harry
-    - Andy
-    - Lynn
-  Brown:
-    - Lilith
-    - Amy2
-    - Ting
+  Black:
+    - Justin
     - Diana
-  Gray:
-    - Bill
-    - Sam2
-    - Annie
-    - Doris
-  Green:
-    - Orton
-    - Joe
-    - Cindy
-    - Abby
-  Orange:
-    - Sherry
-    - Shirley
-    - Johnson
     - Kelly
-  Pink:
+  BlackBlack:
+    - Annie
+    - Abby
+    - Carol
+  Blue:
+    - Jason
+    - Cindy
     - Evan
+  BlueBlue:
+    - Shirley
+    - Celia
+    - Jeff
+  Brown:
+    - Eileen
     - Jennifer
-    - Robin
+    - Maggie
+  BrownBrown:
+    - Amy2
+    - Lynn
+    - Daisy
+  Gray:
+    - Lion
+    - Betty1
+    - Jill
+  GrayGray:
+    - Ezra
+    - Amy1
+    - Bob
+  Green:
+    - Dalai
+    - Ting
+    - Kate
+  GreenGreen:
+    - John
+    - Julie
+    - Lynn
+  Orange:
+    - Jerry
+    - Betty2
+    - Andy
+  OrangeOrange:
+    - Sam1
+    - Jay1
+    - Joe
+  Pink:
+    - Jack2
+    - Johnson
     - Reese
   Purple:
-    - Daisy
-    - Justin
-    - Larry
+    - Jack1
     - Tommy
+    - Bill
   Red:
-    - Betty2
-    - Julie
-    - Kate
-    - Bob
+    - Carrie
+    - Robin
+    - Joe
   White:
-    - Betty1
-    - Jerry
-    - Dalai
-    - Paul
-  Black:
-    - Jack2
+    - Larry
+    - Orton
+    - Doris
+  Yellow:
+    - Sherry
     - Emily
-    - Jay1
-    - Jeff
-  Blue:
-    - Sam1
-    - Amy1
-    - Carol
-    - Evan
+    - Paul
