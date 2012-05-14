@@ -29,6 +29,12 @@ activity:
       - Purple
       - Black
       - BrownBrown
+assistants:
+  BlueBlue:
+    U9933039: 5
+    U9933026: 5
+  Green:
+    U9933008: 5
 group:
   Black:
     - Mila
