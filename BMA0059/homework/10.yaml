@@ -2,32 +2,33 @@
 cutpoints:
   one: 20
   two: 85
-exercise: jelkeby
+exercise: palmer
 grade:
-  U9931001: 0
+  T9833024: 2
+  T9833026: 0
+  U9931001: 1
   U9931002: 2
   U9931003: 2
   U9931004: 2
-  U9931006: 2
+  U9931006: 1
   U9931007: 2
-  U9931012: 1
-  U9931013: 0
+  U9931012: 2
+  U9931013: 1
   U9931014: 2
   U9931015: 0
   U9931017: 2
-  U9931022: 1
   U9931025: 2
-  U9931026: 0
-  U9931028: 0
-  U9931029: 0
-  U9931032: 2
-  U9931034: 2
+  U9931026: 1
+  U9931028: 2
+  U9931029: 2
+  U9931032: 0
+  U9931034: 1
   U9931037: 2
-  U9931039: 0
+  U9931039: 2
   U9931041: 0
-  U9931042: 0
-  U9931043: 1
-  U9931101: 2
+  U9931042: 1
+  U9931043: 2
+  U9931101: 1
   U9931102: 2
   U9931103: 2
   U9931105: 2
@@ -36,192 +37,151 @@ grade:
   U9931111: 2
   U9931125: 2
   U9931127: 2
-  U9931129: 0
+  U9931129: 1
   U9931130: 2
   U9931133: 0
   U9931134: 2
   U9931138: 2
-  U9931139: 2
+  U9931139: 0
   U9931140: 2
   U9931142: 2
-  U9931143: 2
-  U9931145: 1
-  U9931146: 0
+  U9931143: 1
+  U9931145: 2
+  U9931146: 1
   U9931149: 2
 points:
+  T9833024:
+    letters: 375
+    percent: 100
+  T9833026:
+    letters: 0
+    percent: 0
   U9931001:
-    letters: 0
-    percent: 0
-    questions: ~
+    letters: 185
+    percent: 43
   U9931002:
-    letters: 119
-    percent: 66
-    questions: 1
+    letters: 398
+    percent: 100
   U9931003:
-    letters: 209
+    letters: 404
     percent: 100
-    questions: 0
   U9931004:
-    letters: 209
+    letters: 392
     percent: 100
-    questions: 0
   U9931006:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 197
+    percent: 48
   U9931007:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 456
+    percent: 100
   U9931012:
-    letters: 129
-    percent: 61
-    questions: 0
+    letters: 411
+    percent: 100
   U9931013:
-    letters: 0
-    percent: 0
-    questions: ~
+    letters: 294
+    percent: 73
   U9931014:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 397
+    percent: 100
   U9931015:
     letters: 0
     percent: 0
-    questions: ~
   U9931017:
-    letters: 154
-    percent: 86
-    questions: 0
-  U9931022:
-    letters: 148
-    percent: 77
-    questions: ~
-  U9931025:
-    letters: 180
+    letters: 411
     percent: 100
-    questions: 0
+  U9931025:
+    letters: 413
+    percent: 100
   U9931026:
-    letters: 0
-    percent: 0
-    questions: ~
+    letters: 279
+    percent: 60
   U9931028:
-    letters: 0
-    percent: 0
-    questions: ~
+    letters: 394
+    percent: 100
   U9931029:
-    letters: 0
-    percent: 0
-    questions: ~
+    letters: 402
+    percent: 100
   U9931032:
     letters: 0
     percent: 0
-    questions: 1
   U9931034:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 180
+    percent: 43
   U9931037:
-    letters: 191
+    letters: 415
     percent: 100
-    questions: 0
   U9931039:
-    letters: 0
-    percent: 0
-    questions: ~
+    letters: 415
+    percent: 100
   U9931041:
     letters: 0
     percent: 0
-    questions: ~
   U9931042:
-    letters: 0
-    percent: 0
-    questions: ~
+    letters: 342
+    percent: 84
   U9931043:
-    letters: 100
-    percent: 48
-    questions: ~
+    letters: 418
+    percent: 91
   U9931101:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 171
+    percent: 45
   U9931102:
-    letters: 191
+    letters: 405
     percent: 100
-    questions: 0
   U9931103:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 399
+    percent: 100
   U9931105:
-    letters: 188
-    percent: 89
-    questions: 0
+    letters: 420
+    percent: 100
   U9931109:
-    letters: 209
+    letters: 382
     percent: 100
-    questions: 0
   U9931110:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 404
+    percent: 100
   U9931111:
-    letters: 180
-    percent: 100
-    questions: 0
+    letters: 413
+    percent: 99
   U9931125:
-    letters: 209
-    percent: 100
-    questions: ~
+    letters: 402
+    percent: 97
   U9931127:
-    letters: 0
-    percent: 0
-    questions: 1
-  U9931129:
-    letters: 0
-    percent: 0
-    questions: ~
-  U9931130:
-    letters: 212
+    letters: 357
     percent: 100
-    questions: 0
+  U9931129:
+    letters: 272
+    percent: 68
+  U9931130:
+    letters: 430
+    percent: 100
   U9931133:
     letters: 0
     percent: 0
-    questions: ~
   U9931134:
-    letters: 191
+    letters: 383
     percent: 100
-    questions: 0
   U9931138:
-    letters: 165
-    percent: 92
-    questions: 0
+    letters: 367
+    percent: 100
   U9931139:
-    letters: 209
-    percent: 100
-    questions: 0
+    letters: 0
+    percent: 0
   U9931140:
-    letters: 0
-    percent: 0
-    questions: 1
-  U9931142:
-    letters: 212
+    letters: 412
     percent: 100
-    questions: 1
+  U9931142:
+    letters: 464
+    percent: 100
   U9931143:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 318
+    percent: 79
   U9931145:
-    letters: 161
-    percent: 84
-    questions: 0
+    letters: 351
+    percent: 97
   U9931146:
-    letters: 0
-    percent: 0
-    questions: 0
+    letters: 204
+    percent: 49
   U9931149:
-    letters: 0
-    percent: 0
-    questions: 1
+    letters: 383
+    percent: 100
