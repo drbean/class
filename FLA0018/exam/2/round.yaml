@@ -3,97 +3,57 @@ round: Exam 2
 week: 9
 questions:
   - 10
-pass: 5
+pass: 6
 assistant:
-  - Yorick
+    - Louise
+    - Amber
+    - Jessica1
 absent:
-  - Alex
-  - Amber
-  - Ingar
-text: /home/drbean/class/conversation/poverty/cards.yaml
+    - Lace
+text: /home/drbean/class/conversation/disability/cards.yaml
 activity:
-  rueda:
-    0:
-      - BlueBlue
+  foreman:
+    1:
       - Brown
-      - Gray
+      - Orange
       - Purple
-      - White
-  salazar:
-    0:
+      - Red
+  davist:
+    2:
       - Black
       - Blue
-      - Orange
+      - Gray
       - Pink
-  vanbeke:
-    0:
-      - BlackBlack
-      - Green
-      - Red
-      - WhiteWhite
 group:
   Black:
-    - Ivan
-    - Anne
-    - Frances
-    - Ming
-  BlackBlack:
-    - Kori
-    - Shaq
-    - Kitty
-    - Hannah
-  Blue:
-    - Jeffrey
-    - Larry
+    - Louise
+    - Rose
     - Jessica1
-    - Yu-Lun
-  BlueBlue:
-    - Bass
-    - Yi-Ru
-    - Frank
-    - Yorick
+  Blue:
+    - XinFang
+    - Winne
+    - Julie
   Brown:
-    - Hank
+    - Amber
+    - Ming
+    - Debbie
+  Gray:
+    - Joy
+    - Kenny
+    - Amber
+  Orange:
     - Sue
     - Louise
-    - Rachel
-  Gray:
     - Carina
-    - Yorick
-    - Ricky
-    - Debbie
-  Green:
-    - Alan
-    - Lisa
-    - Katty
-    - Kenny
-  Orange:
-    - Stanley
-    - Joan
-    - Cathy
-    - Jessica2
   Pink:
-    - Fifi
-    - Winny
-    - Joy
-    - Nancy
-  Purple:
-    - Carol
-    - Luke
-    - Laura
-    - Dennis
-  Red:
-    - Wei-Yi
     - Patty
-    - Jacinta
+    - Ricky
+    - Cathy
+  Purple:
+    - Joan
+    - Rachel
+    - Anne
+  Red:
+    - Kitty
     - Yu-Ching
-  White:
-    - Sana
-    - Julia
-    - Julie
-    - XinFang
-  WhiteWhite:
-    - Abby
-    - Leo
-    - Winne
-    - Rose
+    - Jessica1
