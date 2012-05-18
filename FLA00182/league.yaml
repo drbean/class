@@ -14,6 +14,12 @@ id: 002FLA0018
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+  - Chinese: 黃文青
+    id: V9741002
+    name: Miranda
+    password: wen
+    rating: ~
+
   - Chinese: 李秉霖
     id: T9823041
     name: Larry
@@ -125,11 +131,6 @@ member:
     password: yu
     rating: 57
 out:
-  - Chinese: 黃文青
-    id: V9741002
-    name: ~
-    password: ~
-    rating: ~
 
   - Chinese: 王國權
     id: V9841069
