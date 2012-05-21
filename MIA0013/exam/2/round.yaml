@@ -5,12 +5,14 @@ questions:
   - 5
 pass: 2
 assistant:
+  - Anny
+  - Wendy
 absent:
-  - Tony
 text: /home/drbean/class/business/marketing/cards.yaml
 activity:
   water:
     11:
+      - BlueBlue
       - BlackBlack
       - Pink
       - Green
@@ -36,6 +38,10 @@ assistants:
   Green:
     U9933008: 5
 group:
+  BlueBlue:
+    - Wendy
+    - Tony
+    - Anny
   Black:
     - Mila
     - Kenny
