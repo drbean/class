@@ -3,6 +3,7 @@ Chinese:
   Black: 0
   BlackBlack: 0
   Blue: 0
+  BlueBlue: 0
   Brown: 0
   Gray: 0
   Green: 0
@@ -28,6 +29,11 @@ letters:
     U9933109: 4
     U9933011: 3
     story: water44
+  BlueBlue:
+    U9933008: 2
+    U9933039: 2
+    U9933026: 2
+    story: water11
   Brown:
     U9933010: 4
     U9933126: 4
