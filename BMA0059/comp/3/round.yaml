@@ -11,7 +11,6 @@ activity:
       - 7
       - 8
       - 9
-      - 10
       - 11
       - 12
       - 13
@@ -32,7 +31,6 @@ activity:
       - 7
       - 8
       - 9
-      - 10
       - 11
       - 12
       - 13
@@ -72,9 +70,6 @@ group:
   9:
     White: U9931034
     Black: U9931133
-  10:
-    White: U9931013
-    Black: U9931133
   11:
     White: U9931111
     Black: U9931041
@@ -105,6 +100,15 @@ group:
   20:
     White: U9931002
     Black: U9931037
+assistant:
+  BlackBlack:
+    U9931145: 5
+    U9931028: 5
+    U9931130: 5
+  BlueBlue:
+    U9931139: 5
+    U9931127: 5
+    U9931134: 5
 pairing: swiss
 round: 3
 text: /home/drbean/class/business/planning/cards.yaml
