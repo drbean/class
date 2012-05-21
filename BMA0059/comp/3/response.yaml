@@ -225,8 +225,6 @@ free:
           point:
             1: Returned
             2: Returned
-            3: Returned
-            4: Returned
   14:
     kendall:
       influences:
@@ -237,6 +235,7 @@ free:
         U9931017:
           point:
             1: Returned
+            2: Returned
       coventgreen:
         U9931015:
           point:
@@ -244,7 +243,6 @@ free:
         U9931017:
           point:
             1: Returned
-            2: Returned
   15:
     kendall:
       influences:
