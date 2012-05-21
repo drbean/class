@@ -1,7 +1,7 @@
 ---
 activity:
-  vacations:
-    0:
+  kendall:
+    influences:
       - 1
       - 2
       - 3
@@ -22,74 +22,90 @@ activity:
       - 18
       - 19
       - 20
-      - 21
+    coventgreen:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+bye: T9833024
 group:
   1:
-    White: U9931029
-    Black: U9931043
+    White: U9931025
+    Black: U9931110
   2:
-    White: U9931001
-    Black: U9931139
+    White: U9931003
+    Black: U9931129
   3:
-    White: U9931004
-    Black: U9931012
+    White: U9931006
+    Black: U9931109
   4:
-    White: U9931127
-    Black: U9931026
+    White: U9931125
+    Black: U9931143
   5:
-    White: U9931017
-    Black: U9931103
+    White: U9931032
+    Black: U9931105
   6:
-    White: U9931022
-    Black: U9931134
+    White: U9931042
+    Black: T9833026
   7:
-    White: U9931105
-    Black: U9931028
+    White: U9931029
+    Black: U9931001
   8:
-    White: U9931037
-    Black: U9931102
+    White: U9931013
+    Black: U9931043
   9:
-    White: U9931002
-    Black: U9931015
+    White: U9931034
+    Black: U9931133
   10:
-    White: U9931142
-    Black: U9931149
+    White: U9931013
+    Black: U9931133
   11:
     White: U9931111
-    Black: U9931143
+    Black: U9931041
   12:
-    White: U9931014
-    Black: U9931109
-  13:
-    White: U9931041
-    Black: U9931110
-  14:
-    White: U9931025
-    Black: U9931013
-  15:
-    White: U9931140
-    Black: U9931130
-  16:
     White: U9931146
-    Black: U9931039
+    Black: U9931007
+  13:
+    White: U9931101
+    Black: U9931138
+  14:
+    White: U9931015
+    Black: U9931017
+  15:
+    White: U9931026
+    Black: U9931140
+  16:
+    White: U9931102
+    Black: U9931014
   17:
-    White: U9931007
-    Black: U9931006
+    White: U9931149
+    Black: U9931004
   18:
-    White: U9931034
-    Black: U9931032
+    White: U9931103
+    Black: U9931039
   19:
-    White: U9931138
-    Black: U9931125
+    White: U9931142
+    Black: U9931012
   20:
-    White: U9931145
-    Black: U9931003
-  21:
-    White: U9931133
-    Black: U9931042
-bye: U9931101
-late: []
-pairing: A&B, C&D
+    White: U9931002
+    Black: U9931037
+pairing: swiss
 round: 3
-text: /home/drbean/class/business/negotiations/vacations/cards.yaml
-week: 8
+text: /home/drbean/class/business/planning/cards.yaml
+week: 13
