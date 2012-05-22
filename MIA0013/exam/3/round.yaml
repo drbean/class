@@ -2,69 +2,81 @@
 round: Exam 3
 week: 13
 questions:
-  - 4
-pass: 2
+  - 10
+pass: 5
 assistant: 
+  - Albert
+  - Shane
 absent: 
-text: /home/drbean/class/business/companies/cards.yaml
+text: /home/drbean/class/business/planning/cards.yaml
 activity:
-  fourswot:
-    00:
+  kendall:
+    11:
+      - Blue
+      - Green
+      - Orange
+      - Red
+    22:
       - Black
+      - BlackBlack
       - Gray
       - Pink
-    01:
-      - Blue
-      - Purple
-    02:
-      - Brown
-      - Red
-    03:
-      - Orange
       - White
+    33:
+      - BlueBlue
+      - Brown
+      - Purple
+      - Yellow
 group:
   Black:
+    - Tony
+    - Sophia
     - Linda2
-    - Soymilk
-    - Peter2
-    - Anny
+  BlackBlack:
+    - Shane
+    - Albert
+    - Gene
   Blue:
-    - Candy
-    - Linda1
-    - Fred
-    - Tom
-  Brown:
-    - Sam
-    - Sandy
-    - Leo
-    - Kenny
-  Gray:
     - James
     - Jane
-    - Gene
-    - Sally
+    - Alex
+  BlueBlue:
+    - Fred
+    - Albert
+    - Shane
+  Brown:
+    - Jordan
+    - Lilith
+    - Linda1
+  Gray:
+    - Soymilk
+    - Sean
+    - Tom
+  Green:
+    - Mila
+    - Peter2
+    - Leo
   Orange:
+    - Evangeline
+    - Candy
+    - Sandy
+  Pink:
+    - Kevin
+    - Cathy
+    - Anny
+  Purple:
+    - Claire
+    - Kenny
+    - Wendy
+  Red:
+    - Peter1
+    - Sam
+    - Ivy
+  White:
+    - Alice
+    - Dora
+    - Sally
+  Yellow:
     - Tina
     - Ruby
-    - Claire
-    - Mila
-  Pink:
-    - Alice
-    - Sophia
-    - Albert
-    - Ivy
-  Purple:
-    - Sean
-    - Kevin
-    - Alex
-    - Shane
-  Red:
-    - Cathy
     - Cranium
-    - Wendy
-    - Evangeline
-  White:
-    - Peter1
-    - Tony
-    - Jordan
-    - Dora
