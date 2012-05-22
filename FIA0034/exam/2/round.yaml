@@ -12,7 +12,6 @@ text: /home/drbean/class/business/marketing/cards.yaml
 activity:
   water:
     11:
-      - BlackBlack
       - BlueBlue
 
       - Blue
@@ -24,6 +23,8 @@ activity:
       - White
       - GreenGreen
     33:
+      - BlackBlack
+
       - Black
       - Gray
       - OrangeOrange

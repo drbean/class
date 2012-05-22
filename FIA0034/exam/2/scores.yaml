@@ -24,19 +24,19 @@ letters:
     U9934028: 1
     story: water33
   BlackBlack:
-    U9934025: 0
-    U9934009: 0
-    U9934043: 0
-    story: water11
+    U9934025: 2
+    U9934009: 2
+    U9934043: 3
+    story: water33
   Blue:
     U9934048: 3
     U9913132: 1
     U9934022: 1
     story: water11
   BlueBlue:
-    U9934030: 0
-    U9934006: 0
-    U9934046: 0
+    U9934030: 4
+    U9934006: 4
+    U9934046: 4
     story: water11
   Brown:
     U9934052: 2
