@@ -1,46 +1,51 @@
 ---
 Black:
-  - Candy
-  - Ruby
-  - Leo
-  - Anny
-Blue:
+  - Peter1
+  - Wendy
   - Linda2
-  - Peter2
+BlackBlack:
   - Mila
+  - Albert
+Blue:
+  - Claire
+  - Alice
+  - Tom
+BlueBlue:
+  - James
   - Sally
 Brown:
-  - Tina
-  - Gene
-  - Jordan
-  - Alex
-Gray:
-  - Peter1
-  - Soymilk
-  - Cranium
-  - Dora
-Orange:
-  - James
-  - Sophia
-  - Sandy
-  - Kenny
-Pink:
-  - Sam
-  - Fred
-  - Linda1
-  - Shane
-Purple:
-  - Alice
-  - Kevin
-  - Evangeline
-  - Albert
-Red:
-  - Cathy
-  - Jane
-  - Wendy
-  - Claire
-White:
-  - Sean
   - Tony
-  - Tom
+  - Evangeline
+  - Cranium
+Gray:
+  - Gene
   - Ivy
+  - Tina
+Green:
+  - Jordan
+  - Shane
+  - Sandy
+Orange:
+  - Sean
+  - Jane
+  - Alex
+Pink:
+  - Soymilk
+  - Sam
+  - Leo
+Purple:
+  - Ruby
+  - Kenny
+  - Candy
+Red:
+  - Lilith
+  - Cathy
+  - Linda1
+White:
+  - Kevin
+  - Dora
+  - Anny
+Yellow:
+  - Peter2
+  - Fred
+  - Sophia
