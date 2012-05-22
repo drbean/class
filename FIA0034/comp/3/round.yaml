@@ -1,8 +1,7 @@
 ---
 activity:
-  candidates:
-    0:
-      - 0
+  kendall:
+    influences:
       - 1
       - 2
       - 3
@@ -23,72 +22,97 @@ activity:
       - 18
       - 19
       - 20
+      - 21
+    coventgreen:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+bye: U9934006
 group:
-  0:
-     White: T9833026
-     Black: T9833024
   1:
-     White: T9833008
-     Black: U9934015
+    White: U9934046
+    Black: U9934004
   2:
-     White: U9934028
-     Black: U9816024
+    White: U9934016
+    Black: U9934030
   3:
-     White: U9934033
-     Black: U9934023
+    White: U9934009
+    Black: U9934050
   4:
-     White: U9934029
-     Black: U9934011
+    White: U9934025
+    Black: U9934031
   5:
-     White: U9934031
-     Black: U9934022
+    White: U9934019
+    Black: U9934043
   6:
-     White: U9934009
-     Black: U9934036
+    White: U9934032
+    Black: U9934040
   7:
-     White: U9934043
-     Black: U9934006
+    White: U9934029
+    Black: U9934051
   8:
-     White: U9933147
-     Black: U9934027
+    White: U9934038
+    Black: U9934047
   9:
-     White: U9934001
-     Black: U9934050
+    White: U9934013
+    Black: U9834017
   10:
-     White: U9934024
-     Black: U9934039
+    White: U9934036
+    Black: U9934033
   11:
-     White: U9934025
-     Black: U9934030
+    White: U9934017
+    Black: U9934048
   12:
-     White: U9934020
-     Black: U9934004
+    White: U9913132
+    Black: U9934020
   13:
-     White: U9934021
-     Black: U9934051
+    White: U9934012
+    Black: U9934003
   14:
-     White: U9934017
-     Black: U9934045
+    White: U9933147
+    Black: U9934039
   15:
-     White: U9934037
-     Black: U9934019
+    White: U9934045
+    Black: U9934023
   16:
-     White: U9934007
-     Black: U9934040
+    White: U9934015
+    Black: U9934052
   17:
-     White: U9934044
-     Black: U9934003
+    White: U9934005
+    Black: U9934037
   18:
-     White: U9934038
-     Black: U9934034
+    White: U9934034
+    Black: U9934002
   19:
-     White: U9934032
-     Black: U9913132
+    White: U9934026
+    Black: U9934022
   20:
-     White: U9934005
-     Black: U9934002
-late: []
-pairing: "A&B, C&D"
+    White: U9934001
+    Black: U9934024
+  21:
+    White: U9934028
+    Black: U9934011
+late:
+  - U9934027
+pairing: swiss
 round: 3
-text: /home/drbean/class/business/careers/cards.yaml
-week: 5
+text: /home/drbean/class/business/planning/cards.yaml
+week: 13
