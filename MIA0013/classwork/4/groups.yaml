@@ -3,16 +3,16 @@ Black:
   - Peter1
   - Wendy
   - Linda2
-BlackBlack:
+BlueBlue:
+  - Sophia
   - Mila
-  - Albert
 Blue:
   - Claire
   - Alice
   - Tom
-BlueBlue:
-  - James
-  - Sally
+BlackBlack:
+  - Ruby
+  - Candy
 Brown:
   - Tony
   - Evangeline
@@ -34,9 +34,9 @@ Pink:
   - Sam
   - Leo
 Purple:
-  - Ruby
+  - James
   - Kenny
-  - Candy
+  - Sally
 Red:
   - Lilith
   - Cathy
@@ -48,4 +48,4 @@ White:
 Yellow:
   - Peter2
   - Fred
-  - Sophia
+  - Albert

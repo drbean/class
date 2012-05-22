@@ -92,6 +92,11 @@ assistant:
   BlueBlue:
     U9933001: 5
     U9933027: 5
+dispensation:
+  Green:
+    U9933025: 4
+  Purple:
+    U9933116: 4
 pairing: swiss
 round: 3
 text: /home/drbean/class/business/planning/cards.yaml
