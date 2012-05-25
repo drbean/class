@@ -1,123 +1,190 @@
 ---
 cutpoints:
-  one: 50
-  two: 150
-exercise: wardead
+  loser: 1
+  quitter: 0
+  winner: 2
+exercise: abreu
 grade:
-  9616201: 2
-  T9811101: 1
-  T9811111: 2
-  T9811142: 2
-  T9813003: 0
-  T9813004: 2
-  T9813009: 0
-  T9813014: 2
-  T9821014: 2
-  T9821033: 2
-  T9821036: 2
-  T9821043: 2
-  T9831047: 2
-  U9621094: 2
-  U9718016: 2
-  U9718022: 0
-  U9718033: 2
-  U9718036: 2
-  U9718042: 2
-  U9742052: 2
-  U9743024: 2
-  U9811010: 0
-  U9811127: 2
-  U9811142: 2
-  U9811144: 2
-  U9811149: 2
-  U9822002: 0
-  U9843004: 2
-  U9843023: 2
+  T9822043: 0
+  U9711114: 0
+  U9817051: 2
+  U9818019: 2
+  U9818039: 1
+  U9818048: 1
+  U9821130: 2
+  U9914051: 0
+  U9931043: 2
+  U9931123: 0
+  U9931134: 2
+  U9931148: 0
+  V9741064: 0
 points:
-  9616201:
-    letters: 206
-    questions: 0
-  T9811101:
-    letters: 113
-    questions: 0
-  T9811111:
-    letters: 188
-    questions: 0
-  T9811142:
-    letters: 0
-    questions: 1
-  T9813003:
-    letters: 0
-    questions: 0
-  T9813004:
-    letters: 0
-    questions: 1
-  T9813009:
-    letters: 0
-    questions: 0
-  T9813014:
-    letters: 206
-    questions: 0
-  T9821014:
-    letters: 185
-    questions: 0
-  T9821033:
-    letters: 286
-    questions: 0
-  T9821036:
-    letters: 0
-    questions: 1
-  T9821043:
-    letters: 0
-    questions: 1
-  T9831047:
-    letters: 0
-    questions: 1
-  U9621094:
-    letters: 179
-    questions: 1
-  U9718016:
-    letters: 0
-    questions: 1
-  U9718022:
-    letters: 0
-    questions: 0
-  U9718033:
-    letters: 0
-    questions: 1
-  U9718036:
-    letters: 0
-    questions: 1
-  U9718042:
-    letters: 0
-    questions: 1
-  U9742052:
-    letters: 0
-    questions: 1
-  U9743024:
-    letters: 188
-    questions: 0
-  U9811010:
-    letters: 0
-    questions: 0
-  U9811127:
-    letters: 192
-    questions: 0
-  U9811142:
-    letters: 0
-    questions: 1
-  U9811144:
-    letters: 0
-    questions: 1
-  U9811149:
-    letters: 0
-    questions: 1
-  U9822002:
-    letters: 0
-    questions: 0
-  U9843004:
-    letters: 0
-    questions: 1
-  U9843023:
-    letters: 201
-    questions: 0
+  T9822043:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 1
+      questions: 1
+      attempts: 1
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9711114:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9817051:
+    Wh:
+      answers: 1
+      questions: 9
+      attempts: 20
+    Yn:
+      answers: 3
+      questions: 4
+      attempts: 5
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9818019:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 6
+      questions: 10
+      attempts: 15
+  U9818039:
+    Wh:
+      answers: 0
+      questions: 5
+      attempts: 10
+    Yn:
+      answers: 1
+      questions: 1
+      attempts: 5
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9818048:
+    Wh:
+      answers: 0
+      questions: 9
+      attempts: 17
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9821130:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 6
+      questions: 6
+      attempts: 7
+  U9914051:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9931043:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 3
+      attempts: 15
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9931123:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9931134:
+    Wh:
+      answers: 2
+      questions: 2
+      attempts: 5
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9931148:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V9741064:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 1
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 8
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
