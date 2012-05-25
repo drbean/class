@@ -1,0 +1,64 @@
+---
+# kendall
+
+Green:
+  absent:  
+  merits:  2
+Black:
+  absent: 
+  merits:  3
+
+Blue:
+  absent:  
+  merits:  2
+Brown:
+  absent:  
+  merits:  2
+
+Gray:
+  absent:  
+  merits:  2
+Purple:
+  absent:
+  merits:  2
+
+Orange:
+  absent:  
+  merits:  2
+Pink:
+  absent:  
+  merits:  2
+
+Red:
+  absent:  
+  merits:  2
+BlueBlue:
+  absent:  
+  merits:  2
+
+White:
+  absent:  
+  merits:  2
+Yellow:
+  absent:  
+  merits:  2
+
+OrangeOrange:
+  absent:  
+    - Jill
+  merits:  3
+BlackBlack:
+  absent:  
+  merits:  2
+
+BrownBrown:
+  absent:  
+  merits:  2
+GrayGray:
+  absent:  
+  merits:  3
+
+# assistants
+GreenGreen:
+  absent:  
+  merits:  3
