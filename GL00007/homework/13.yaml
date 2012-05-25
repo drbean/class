@@ -1,67 +1,78 @@
 ---
 cutpoints:
-  one: 50
-  two: 150
-exercise: wardead
+  loser: 1
+  quitter: 0
+  winner: 2
+exercise: abreu
 grade:
-  T9811035: 0
-  T9831040: 2
-  U9623038: 2
-  U9711025: 2
-  U9711052: 0
-  U9715014: 2
-  U9723056: 2
-  U9813024: 0
-  U9823011: 2
-  U9831049: 2
-  U9916029: 1
-  U9922235: 2
-  U9931143: 2
-  U9942017: 2
-  V9741065: 2
+  T9822123: 2
+  U9716007: 0
+  U9722006: 2
+  U9822143: 2
+  U9822148: 2
 points:
-  T9811035:
-    letters: 0
-    questions: 0
-  T9831040:
-    letters: 0
-    questions: 1
-  U9623038:
-    letters: 201
-    questions: 0
-  U9711025:
-    letters: 0
-    questions: 1
-  U9711052:
-    letters: 0
-    questions: 0
-  U9715014:
-    letters: 45
-    questions: 1
-  U9723056:
-    letters: 206
-    questions: 0
-  U9813024:
-    letters: 0
-    questions: 0
-  U9823011:
-    letters: 0
-    questions: 1
-  U9831049:
-    letters: 197
-    questions: 0
-  U9916029:
-    letters: 81
-    questions: 0
-  U9922235:
-    letters: 206
-    questions: 0
-  U9931143:
-    letters: 188
-    questions: 0
-  U9942017:
-    letters: 182
-    questions: 1
-  V9741065:
-    letters: 206
-    questions: 1
+  T9822123:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 6
+      questions: 7
+      attempts: 8
+  U9716007:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9722006:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 6
+      questions: 7
+      attempts: 8
+  U9822143:
+    Wh:
+      answers: 0
+      questions: 2
+      attempts: 2
+    Yn:
+      answers: 3
+      questions: 3
+      attempts: 3
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9822148:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 4
+      attempts: 4
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
