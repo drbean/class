@@ -9,392 +9,6 @@ grade:
   N9661749: 0
   N9661754: 0
   V9724004: 0
-  V9741022: 0
-  V9741057: 0
-  V9741059: 0
-  V9741066: 0
-  V9841001: 0
-  V9841025: 0
-  V9841042: 0
-  V9841063: 0
-  V9841068: 2
-  V9916050: 0
-  V9941001: 0
-  V9941003: 0
-  V9941005: 0
-  V9941007: 0
-  V9941010: 0
-  V9941011: 0
-  V9941012: 0
-  V9941013: 0
-  V9941014: 0
-  V9941015: 0
-  V9941016: 0
-  V9941022: 0
-  V9941023: 0
-points:
-  9622299:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  N9661749:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  N9661754:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9724004:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9741022:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9741057:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9741059:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9741066:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9841001:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9841025:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9841042:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9841063:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9841068:
-    Wh:
-      answers: 0
-      questions: 1
-      attempts: 3
-    Yn:
-      answers: 3
-      questions: 3
-      attempts: 4
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V9916050:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941001:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941003:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941005:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941007:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941010:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941011:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941012:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941013:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941014:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941015:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941016:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941022:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941023:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
----
-cutpoints:
-  loser: 1
-  quitter: 0
-  winner: 2
-exercise: foreman
-grade:
-  9622299: 0
-  N9661749: 0
-  N9661754: 0
-  V9724004: 0
   V9741022: 2
   V9741057: 0
   V9741059: 0
@@ -403,7 +17,7 @@ grade:
   V9841025: 2
   V9841042: 2
   V9841063: 0
-  V9841068: 0
+  V9841068: 2
   V9916050: 1
   V9941001: 0
   V9941003: 0
@@ -420,353 +34,353 @@ grade:
   V9941023: 2
 points:
   9622299:
-    Wh:
-      answers: 0
-      questions: 1
-      attempts: 12
-    Yn:
-      answers: 1
-      questions: 1
-      attempts: 1
     S:
       answers: 0
-      questions: 0
       attempts: 0
+      questions: 0
+    Wh:
+      answers: 0
+      attempts: 12
+      questions: 1
+    Yn:
+      answers: 1
+      attempts: 1
+      questions: 1
   N9661749:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
     S:
       answers: ~
-      questions: ~
       attempts: ~
+      questions: ~
+    Wh:
+      answers: ~
+      attempts: ~
+      questions: ~
+    Yn:
+      answers: ~
+      attempts: ~
+      questions: ~
   N9661754:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
     S:
       answers: ~
-      questions: ~
       attempts: ~
+      questions: ~
+    Wh:
+      answers: ~
+      attempts: ~
+      questions: ~
+    Yn:
+      answers: ~
+      attempts: ~
+      questions: ~
   V9724004:
-    Wh:
-      answers: 0
-      questions: 1
-      attempts: 3
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
     S:
       answers: 0
-      questions: 0
       attempts: 0
+      questions: 0
+    Wh:
+      answers: 0
+      attempts: 3
+      questions: 1
+    Yn:
+      answers: 0
+      attempts: 0
+      questions: 0
   V9741022:
+    S:
+      answers: 0
+      attempts: 0
+      questions: 0
     Wh:
       answers: 0
-      questions: 2
       attempts: 16
+      questions: 2
     Yn:
       answers: 3
-      questions: 4
       attempts: 4
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
+      questions: 4
   V9741057:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 2
-    Yn:
-      answers: 0
-      questions: 1
-      attempts: 5
     S:
       answers: 0
-      questions: 0
       attempts: 0
+      questions: 0
+    Wh:
+      answers: 0
+      attempts: 2
+      questions: 0
+    Yn:
+      answers: 0
+      attempts: 5
+      questions: 1
   V9741059:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
     S:
       answers: ~
-      questions: ~
       attempts: ~
+      questions: ~
+    Wh:
+      answers: ~
+      attempts: ~
+      questions: ~
+    Yn:
+      answers: ~
+      attempts: ~
+      questions: ~
   V9741066:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
     S:
       answers: ~
-      questions: ~
       attempts: ~
+      questions: ~
+    Wh:
+      answers: ~
+      attempts: ~
+      questions: ~
+    Yn:
+      answers: ~
+      attempts: ~
+      questions: ~
   V9841001:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
     S:
       answers: ~
-      questions: ~
       attempts: ~
+      questions: ~
+    Wh:
+      answers: ~
+      attempts: ~
+      questions: ~
+    Yn:
+      answers: ~
+      attempts: ~
+      questions: ~
   V9841025:
-    Wh:
-      answers: 1
-      questions: 4
-      attempts: 12
-    Yn:
-      answers: 3
-      questions: 5
-      attempts: 12
     S:
       answers: 0
-      questions: 0
       attempts: 0
+      questions: 0
+    Wh:
+      answers: 1
+      attempts: 12
+      questions: 4
+    Yn:
+      answers: 3
+      attempts: 12
+      questions: 5
   V9841042:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 9
-    Yn:
-      answers: 3
-      questions: 4
-      attempts: 5
     S:
       answers: 2
-      questions: 3
       attempts: 8
+      questions: 3
+    Wh:
+      answers: 0
+      attempts: 9
+      questions: 0
+    Yn:
+      answers: 3
+      attempts: 5
+      questions: 4
   V9841063:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
     S:
       answers: 0
-      questions: 0
       attempts: 0
+      questions: 0
+    Wh:
+      answers: 0
+      attempts: 0
+      questions: 0
+    Yn:
+      answers: 0
+      attempts: 0
+      questions: 0
   V9841068:
-    Wh:
+    S:
       answers: 0
-      questions: 0
       attempts: 0
-    Yn:
-      answers: 0
       questions: 0
-      attempts: 0
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V9916050:
-    Wh:
-      answers: 1
-      questions: 2
-      attempts: 5
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 1
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V9941001:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941003:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941005:
     Wh:
       answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V9941007:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941010:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941011:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 2
-    Yn:
-      answers: 1
-      questions: 1
-      attempts: 7
-    S:
-      answers: 1
-      questions: 1
-      attempts: 11
-  V9941012:
-    Wh:
-      answers: 1
-      questions: 4
-      attempts: 18
-    Yn:
-      answers: 2
-      questions: 8
-      attempts: 25
-    S:
-      answers: 2
-      questions: 7
-      attempts: 21
-  V9941013:
-    Wh:
-      answers: 1
-      questions: 5
-      attempts: 13
-    Yn:
-      answers: 0
-      questions: 2
       attempts: 3
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V9941014:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V9941015:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 7
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V9941016:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V9941022:
-    Wh:
-      answers: 0
-      questions: 2
-      attempts: 8
+      questions: 1
     Yn:
       answers: 3
+      attempts: 4
       questions: 3
-      attempts: 9
+  V9916050:
     S:
       answers: 0
-      questions: 0
       attempts: 0
-  V9941023:
+      questions: 0
     Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
+      answers: 1
+      attempts: 5
+      questions: 2
     Yn:
       answers: 0
+      attempts: 1
       questions: 0
+  V9941001:
+    S:
+      answers: ~
+      attempts: ~
+      questions: ~
+    Wh:
+      answers: ~
+      attempts: ~
+      questions: ~
+    Yn:
+      answers: ~
+      attempts: ~
+      questions: ~
+  V9941003:
+    S:
+      answers: ~
+      attempts: ~
+      questions: ~
+    Wh:
+      answers: ~
+      attempts: ~
+      questions: ~
+    Yn:
+      answers: ~
+      attempts: ~
+      questions: ~
+  V9941005:
+    S:
+      answers: 0
       attempts: 0
+      questions: 0
+    Wh:
+      answers: 0
+      attempts: 0
+      questions: 0
+    Yn:
+      answers: 0
+      attempts: 0
+      questions: 0
+  V9941007:
+    S:
+      answers: ~
+      attempts: ~
+      questions: ~
+    Wh:
+      answers: ~
+      attempts: ~
+      questions: ~
+    Yn:
+      answers: ~
+      attempts: ~
+      questions: ~
+  V9941010:
+    S:
+      answers: ~
+      attempts: ~
+      questions: ~
+    Wh:
+      answers: ~
+      attempts: ~
+      questions: ~
+    Yn:
+      answers: ~
+      attempts: ~
+      questions: ~
+  V9941011:
+    S:
+      answers: 1
+      attempts: 11
+      questions: 1
+    Wh:
+      answers: 0
+      attempts: 2
+      questions: 0
+    Yn:
+      answers: 1
+      attempts: 7
+      questions: 1
+  V9941012:
+    S:
+      answers: 2
+      attempts: 21
+      questions: 7
+    Wh:
+      answers: 1
+      attempts: 18
+      questions: 4
+    Yn:
+      answers: 2
+      attempts: 25
+      questions: 8
+  V9941013:
+    S:
+      answers: 0
+      attempts: 0
+      questions: 0
+    Wh:
+      answers: 1
+      attempts: 13
+      questions: 5
+    Yn:
+      answers: 0
+      attempts: 3
+      questions: 2
+  V9941014:
+    S:
+      answers: 0
+      attempts: 0
+      questions: 0
+    Wh:
+      answers: 0
+      attempts: 0
+      questions: 0
+    Yn:
+      answers: 0
+      attempts: 0
+      questions: 0
+  V9941015:
+    S:
+      answers: 0
+      attempts: 0
+      questions: 0
+    Wh:
+      answers: 0
+      attempts: 0
+      questions: 0
+    Yn:
+      answers: 0
+      attempts: 7
+      questions: 0
+  V9941016:
+    S:
+      answers: ~
+      attempts: ~
+      questions: ~
+    Wh:
+      answers: ~
+      attempts: ~
+      questions: ~
+    Yn:
+      answers: ~
+      attempts: ~
+      questions: ~
+  V9941022:
+    S:
+      answers: 0
+      attempts: 0
+      questions: 0
+    Wh:
+      answers: 0
+      attempts: 8
+      questions: 2
+    Yn:
+      answers: 3
+      attempts: 9
+      questions: 3
+  V9941023:
     S:
       answers: 6
-      questions: 6
       attempts: 6
+      questions: 6
+    Wh:
+      answers: 0
+      attempts: 0
+      questions: 0
+    Yn:
+      answers: 0
+      attempts: 0
+      questions: 0
