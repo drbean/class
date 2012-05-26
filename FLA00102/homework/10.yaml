@@ -3,13 +3,13 @@ cutpoints:
   one: 20
   two: 85
 exercise: foreman
-twograde:
+grade:
   9622299: 2
   N9661749: 0
   N9661754: 0
-  V9724004: 0
-  V9741022: 0
-  V9741057: 0
+  V9724004: 1
+  V9741022: 2
+  V9741057: 2
   V9741059: 1
   V9741066: 0
   V9841001: 2
@@ -17,21 +17,21 @@ twograde:
   V9841042: 2
   V9841063: 0
   V9841068: 0
-  V9916050: 0
+  V9916050: 2
   V9941001: 0
-  V9941003: 0
+  V9941003: 2
   V9941005: 0
   V9941007: 0
-  V9941010: 0
-  V9941011: 0
-  V9941012: 0
+  V9941010: 2
+  V9941011: 2
+  V9941012: 2
   V9941013: 0
-  V9941014: 0
+  V9941014: 2
   V9941015: 0
   V9941016: 0
-  V9941022: 0
-  V9941023: 0
-twopoints:
+  V9941022: 2
+  V9941023: 2
+points:
   9622299:
     letters: 125
     percent: 100
@@ -42,14 +42,14 @@ twopoints:
     letters: 0
     percent: 0
   V9724004:
-    letters: 0
-    percent: 0
+    letters: 39
+    percent: 36
   V9741022:
-    letters: 0
-    percent: 0
+    letters: 114
+    percent: 100
   V9741057:
-    letters: 0
-    percent: 0
+    letters: 103
+    percent: 100
   V9741059:
     letters: 68
     percent: 59
@@ -72,121 +72,6 @@ twopoints:
     letters: 0
     percent: 0
   V9916050:
-    letters: 0
-    percent: 0
-  V9941001:
-    letters: 0
-    percent: 0
-  V9941003:
-    letters: 0
-    percent: 0
-  V9941005:
-    letters: 19
-    percent: 17
-  V9941007:
-    letters: 0
-    percent: 0
-  V9941010:
-    letters: 0
-    percent: 0
-  V9941011:
-    letters: 0
-    percent: 0
-  V9941012:
-    letters: 0
-    percent: 0
-  V9941013:
-    letters: 0
-    percent: 0
-  V9941014:
-    letters: 0
-    percent: 0
-  V9941015:
-    letters: 0
-    percent: 0
-  V9941016:
-    letters: 0
-    percent: 0
-  V9941022:
-    letters: 0
-    percent: 0
-  V9941023:
-    letters: 0
-    percent: 0
----
-cutpoints:
-  one: 20
-  two: 85
-exercise: foreman
-zerograde:
-  9622299: 0
-  N9661749: 0
-  N9661754: 0
-  V9724004: 1
-  V9741022: 2
-  V9741057: 2
-  V9741059: 0
-  V9741066: 0
-  V9841001: 0
-  V9841025: 0
-  V9841042: 0
-  V9841063: 0
-  V9841068: 0
-  V9916050: 2
-  V9941001: 0
-  V9941003: 2
-  V9941005: 0
-  V9941007: 0
-  V9941010: 2
-  V9941011: 2
-  V9941012: 2
-  V9941013: 0
-  V9941014: 2
-  V9941015: 0
-  V9941016: 0
-  V9941022: 2
-  V9941023: 2
-zeropoints:
-  9622299:
-    letters: 0
-    percent: 0
-  N9661749:
-    letters: 0
-    percent: 0
-  N9661754:
-    letters: 0
-    percent: 0
-  V9724004:
-    letters: 39
-    percent: 36
-  V9741022:
-    letters: 114
-    percent: 100
-  V9741057:
-    letters: 103
-    percent: 100
-  V9741059:
-    letters: 0
-    percent: 0
-  V9741066:
-    letters: 0
-    percent: 0
-  V9841001:
-    letters: 0
-    percent: 0
-  V9841025:
-    letters: 0
-    percent: 0
-  V9841042:
-    letters: 0
-    percent: 0
-  V9841063:
-    letters: 0
-    percent: 0
-  V9841068:
-    letters: 0
-    percent: 0
-  V9916050:
     letters: 118
     percent: 100
   V9941001:
@@ -196,8 +81,8 @@ zeropoints:
     letters: 123
     percent: 94
   V9941005:
-    letters: 0
-    percent: 0
+    letters: 19
+    percent: 17
   V9941007:
     letters: 0
     percent: 0
