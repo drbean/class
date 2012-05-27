@@ -3,63 +3,33 @@ round: Exam 2
 week: 9
 questions:
   - 10
-pass: 5
+pass: 6
 assistant:
-  - Kumiko
-  - Kathy
-  - Donna
-  - Hazel
-  - Alan
+  - DingDing
+  - Carey
+  - Larry
 absent:
-  - WanLin
-text: /home/drbean/class/conversation/poverty/cards.yaml
+  - Fiora
+  - Frank
+text: /home/drbean/class/conversation/disability/cards.yaml
 activity:
-  rueda:
-    0:
-      - Blue
-      - Orange
-  salazar:
-    0:
-      - Gray
-      - Purple
-  vanbeke:
-    0:
-      - Black
-      - Green
-      - Vic
+  foreman:
+    1:
+      - LuisLarry
+      - CareyHana
+  davist:
+    2:
+      - HanaLuis
 group:
-  Black:
-    - Kumiko
-    - Wen-hsin
-    - Andy
-    - Nina
-  Blue:
-    - Jusky
-    - Kumiko
-    - Candy
-    - James
-  Gray:
-    - Hazel
-    - Kai
-    - Ivy
-    - Donna
-  Green:
-    - Alan
-    - Nick
-    - Vikin
-    - Jerry
-  Orange:
-    - Lin
-    - GuoLun
-    - Chris
-    - Mark
-  Purple:
-    - Sam
-    - Kathy
-    - Hudi
-    - Alan
-  Vic:
-    - Vic
-    - Kathy
-    - Donna
-    - Hazel
+  LuisLarry:
+    - Hana
+    - Carey
+    - DingDing
+  HanaLuis:
+    - Carey
+    - DingDing
+    - Larry
+  CareyHana:
+    - DingDing
+    - Larry
+    - Luis

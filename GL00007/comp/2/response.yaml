@@ -1,127 +1,109 @@
 ---
-0:
-  goetz:
-    0:
-      free:
-        V9741057:
-          q:
-            1: ~
-          a:
-            1: ~
-        T9833016:
-          q:
-            1: ~
-          a:
-            1: ~
-2:
-  goetz:
-    0:
-      free:
-        V9741010:
-          q:
-            1: 2
-          a:
-            1: 2
-        V9741038:
-          q:
-            1: 2
-          a:
-            1: 2
-5:
-  goetz:
-    0:
-      free:
-        V9741059:
-          q:
-            1: 2
-          a:
-            1: 2
-        T9833025:
-          q:
-            1: 2
-          a:
-            1: 2
-6:
-  goetz:
-    0:
-      free:
-        U0021016:
-          q:
-            1: 2
-          a:
-            1: 2
-        U9713020:
-          q:
-            1: 2
-          a:
-            1: 2
-7:
-  goetz:
-    0:
-      free:
-        U9915004:
-          q:
-            1: 2
-          a:
-            1: 2
-        U9718012:
-          q:
-            1: 2
-          a:
-            1: 2
-8:
-  goetz:
-    0:
-      free:
-        V9741029:
-          q:
-            1: 2
-          a:
-            1: 2
-        V9741030:
-          q:
-            1: 2
-          a:
-            1: 2
-9:
-  goetz:
-    0:
-      free:
-        U9922318:
-          q:
-            1: ~
-          a:
-            1: ~
-        U9922232:
-          q:
-            1: ~
-          a:
-            1: ~
-10:
-  goetz:
-    0:
-      free:
-        V9741060:
-          q:
-            1: ~
-          a:
-            1: ~
-        U9713044:
-          q:
-            1: ~
-          a:
-            1: ~
-11:
-  goetz:
-    0:
-      free:
-        U9723020:
-          q:
-            1: ~
-          a:
-            1: ~
-        U9922203:
-          q:
-            1: ~
-          a:
-            1: ~
+free:
+  1:
+    foreman:
+      0:
+        U9716007:
+          point:
+            1: Returned
+            2: Returned
+        T9822123:
+          point:
+            1: Returned
+            2: Fault
+    davist:
+      0:
+        U9716007:
+          point:
+            1: Fault
+        T9822123:
+          point:
+            1: Returned
+  2:
+    foreman:
+      0:
+        U9722006:
+          point:
+            1: Returned
+        U9822148:
+          point:
+            1: Fault
+            2: Returned
+    davist:
+      0:
+        U9722006:
+          point:
+            1: Unreturned
+            2: Unreturned
+        U9822148:
+          point:
+            1: Unreturned
+set:
+  1:
+    foreman:
+      0:
+        U9716007:
+          1: T
+          2:   F
+          3: T
+          4: T
+          5: T
+          6: Nil
+          7: T
+          8: Nil
+        T9822123:
+          1: T
+          2:   F
+          3: T
+          4: T
+          5: T
+          6: Nil
+          7: T
+          8: Nil
+    davist:
+      0:
+        U9716007:
+          1: Nil
+        T9822123:
+          1: Nil
+  2:
+    foreman:
+      0:
+        U9722006:
+          1: T
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6:   F
+          7: T
+          8:   F
+        U9822148:
+          1: T
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6:   F
+          7: T
+          8:   F
+    davist:
+      0:
+        U9722006:
+          1:   F
+          2: T
+          3:   F
+          4:   F
+          5: T
+          6: T
+          7: T
+          8: T
+        U9822148:
+          1:   F
+          2: T
+          3:   F
+          4:   F
+          5: T
+          6: T
+          7: T
+          8: T
