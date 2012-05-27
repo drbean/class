@@ -98,6 +98,7 @@ dispensation:
   Purple:
     U9933116: 4
 pairing: swiss
+payprotocol: meritPay
 round: 3
 text: /home/drbean/class/business/planning/cards.yaml
 week: 13
