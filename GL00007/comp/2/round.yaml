@@ -1,45 +1,22 @@
 ---
 activity:
-  goetz:
+  foreman:
     0:
-      - 0
+      - 1
       - 2
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
+  davist:
+    0:
+      - 1
+      - 2
+bye: U9822143
 group:
-  0:
-    White: V9741057
-    Black: T9833016
+  1:
+    White: U9716007
+    Black: T9822123
   2:
-    White: V9741010
-    Black: V9741038
-  5:
-    White: V9741059
-    Black: T9833025
-  6:
-    White: U0021016
-    Black: U9713020
-  7:
-    White: U9915004
-    Black: U9718012
-  8:
-    White: V9741029
-    Black: V9741030
-  9:
-    White: U9922318
-    Black: U9922232
-  10:
-    White: V9741060
-    Black: U9713044
-  11:
-    White: U9723020
-    Black: U9922203
-pairing: swiss (adjusted)
+    White: U9722006
+    Black: U9822148
+pairing: swiss
 round: 2
-text: /home/drbean/class/conversation/marriage/cards.yaml
-week: 4
+text: /home/drbean/class/conversation/disability/cards.yaml
+week: ~

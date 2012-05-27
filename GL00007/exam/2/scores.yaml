@@ -1,52 +1,21 @@
 ---
 Chinese:
-  Black: 0
-  Blue: 0
-  Gray: 0
-  Green: 0
-  Orange: 0
-  Purple: 0
-  Vic: 0
+  CareyHana: 0
+  HanaLuis: 0
+  LuisLarry: 0
 letters:
-  Black:
-    V9741029: 10
-    U9922232: 10
-    V9741010: 10
-    V9741057: 10
-    story: vanbeke0
-  Blue:
-    U9915004: 9
-    V9741029: 9
-    V9741038: 9
-    U0021016: 10
-    story: rueda0
-  Gray:
-    U9711105: 10
-    U9711132: 10
-    V9741059: 10
-    V9741030: 10
-    story: salazar0
-  Green:
-    V9741009: 8
-    U9922318: 8
-    T9833016: 8
-    U9713020: 8
-    story: vanbeke0
-  Orange:
-    T9833025: 9
-    U9711120: 9
-    U9713044: 9
-    U9718012: 9
-    story: rueda0
-  Purple:
-    U9723020: 9
-    V9741060: 9
-    U9922203: 9
-    V9741009: 9
-    story: salazar0
-  Vic:
-    U0013147: 9
-    V9741060: 9
-    V9741030: 9
-    U9711105: 10
-    story: vanbeke0
+  CareyHana:
+    U9716007: 8
+    U9822148: 7
+    T9822123: 6
+    story: foreman1
+  HanaLuis:
+    U9722006: 10
+    U9716007: 10
+    U9822148: 8
+    story: davist2
+  LuisLarry:
+    U9822143: 10
+    U9722006: 10
+    U9716007: 9
+    story: foreman1
