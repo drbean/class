@@ -1,66 +1,67 @@
 ---
 Black:
-  - Jack1
-  - Jerry
-  - Julie
-  - Bob
-BlackBlack:
-  - Sam1
-  - Orton
-  - Johnson
-  - Emily
-Blue:
-  - Jay2
-  - Evan
-  - Betty1
-  - Reese
-Brown:
-  - Jeff
-  - Carol
-  - Carrie
-  - Doris
-Gray:
-  - Sherry
-  - Shirley
-  - Kate
-  - Abby
-Green:
-  - Jack2
-  - Cindy
-  - Jennifer
-  - Jill
-Orange:
-  - Jay1
-  - Andy
-  - Maggie
-  - Paul
-Pink:
-  - Justin
-  - Bill
-  - Larry
+  - John
   - Robin
-Purple:
-  - Lion
-  - Dalai
+  - Carol
+BlackBlack:
+  - Jennifer
+  - Bob
+  - Bill
+Blue:
+  - Jack1
+  - Julie
   - Celia
-  - Daisy
-Red:
-  - Lilith
-  - Amy2
-  - Annie
-  - Kelly
-White:
-  - Betty2
-  - Amy1
-  - Sam2
-  - Diana
-Yellow:
-  - Jason
-  - Joe
-  - ~
+BlueBlue:
+  - Shirley
   - Tommy
-YellowYellow:
-  - Harry
+  - Carrie
+Brown:
+  - Dalai
+  - Emily
+  - Reese
+BrownBrown:
+  - Amy1
+  - Daisy
   - Lynn
-  - ~
+Gray:
+  - Jack2
+  - Kate
+  - Annie
+GrayGray:
+  - Joe
+  - Johnson
+  - Orton
+Green:
+  - Jason
+  - Amy2
+  - Andy
+GreenGreen:
+  - Ezra
+  - Doris
+Orange:
+  - Sam1
+  - Betty1
+  - Maggie
+OrangeOrange:
+  - Diana
+  - Jill
+Pink:
+  - Eileen
+  - Lion
+  - Sherry
+Purple:
+  - Justin
+  - Jeff
+  - Jerry
+Red:
+  - Larry
+  - Abby
+  - Paul
+White:
   - Ting
+  - Jay1
+  - Kelly
+Yellow:
+  - Cindy
+  - Betty2
+  - Evan
