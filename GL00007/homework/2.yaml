@@ -4,6 +4,10 @@ cutpoints:
   two: 85
 exercise: connell
 grade:
+   # late enroller
+  U9722006: 0
+
+  T9822123: transfer
   T9711006: 0
   U9711044: 0
   U9716007: 2
