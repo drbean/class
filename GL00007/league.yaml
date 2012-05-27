@@ -20,30 +20,10 @@ member:
     id: T9822123
     rating: ~
   
-  - Chinese: 許靜婷
-    name: Rose
-    password: jing
-    id: T9731009
-    rating: ~
-  - Chinese: 黃丞沂
-    name: Fiora
-    password: cheng
-    id: T9716021
-    rating: ~
-  - Chinese: 張珈瑄
-    name: Nana
-    password: jia
-    id: U9742031
-    rating: ~
   - Chinese: 彭政偉
     name: Carey
     password: zheng
     id: U9722006
-    rating: ~
-  - Chinese: 鄒瑋明
-    name: May
-    password: wei
-    id: U9714017
     rating: ~
   
        
@@ -62,12 +42,32 @@ member:
     name: DingDing
     password: jing
     rating: ~
+out:
+  - Chinese: 鄒瑋明
+    name: May
+    password: wei
+    id: U9714017
+    rating: ~
   - Chinese: 陳昱中
     id: U9711044
     name: Frank
     password: yu
     rating: ~
-out:
+  - Chinese: 許靜婷
+    name: Rose
+    password: jing
+    id: T9731009
+    rating: ~
+  - Chinese: 黃丞沂
+    name: Fiora
+    password: cheng
+    id: T9716021
+    rating: ~
+  - Chinese: 張珈瑄
+    name: Nana
+    password: jia
+    id: U9742031
+    rating: ~
   - Chinese: 吳雨樵
     id: U9731008
     name: Joyce
@@ -148,6 +148,6 @@ scores:
   loss: 3
   win: 5
 weights:
-  classwork: 70
-  exams: 15
-  homework: 15
+  classwork: 40
+  exams: 20
+  homework: 40
