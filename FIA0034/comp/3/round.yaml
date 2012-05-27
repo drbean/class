@@ -16,13 +16,13 @@ activity:
       - 12
       - 13
       - 14
-      - 15
       - 16
       - 17
       - 18
       - 19
       - 20
       - 21
+      - 22
     coventgreen:
       - 1
       - 2
@@ -38,14 +38,14 @@ activity:
       - 12
       - 13
       - 14
-      - 15
       - 16
       - 17
       - 18
       - 19
       - 20
       - 21
-bye: U9934006
+      - 22
+bye: U9934023
 group:
   1:
     White: U9934046
@@ -89,9 +89,6 @@ group:
   14:
     White: U9933147
     Black: U9934039
-  15:
-    White: U9934045
-    Black: U9934023
   16:
     White: U9934015
     Black: U9934052
@@ -110,9 +107,22 @@ group:
   21:
     White: U9934028
     Black: U9934011
+  22:
+    White: U9934006
+    Black: U9934027
 late:
   - U9934027
-pairing: swiss
+assistant:
+  BlackBlack:
+    U9734051: 5
+    U9934021: 5
+    U9934045: 5
+  BlueBlue:
+    U9934007: 4
+    U9934044: 4
+    U9934010: 4
+pairing: swiss (adjusted)
+payprotocol: meritPay
 round: 3
 text: /home/drbean/class/business/planning/cards.yaml
 week: 13
