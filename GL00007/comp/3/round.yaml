@@ -1,56 +1,23 @@
 ---
 activity:
-  ClayAllenGoetz:
+  dickson:
     0:
-      - 0
       - 1
       - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
+  abreu:
+    0:
+      - 1
+      - 2
+bye: T9822123
 group:
-  0:
-    White: V9741038
-    Black: V9741057
   1:
-    White: T9833016
-    Black: U0021016
+    White: U9822148
+    Black: U9716007
   2:
-    White: V9741030
-    Black: V9741010
-  3:
-    White: T9833025
-    Black: U9922318
-  4:
-    White: U9718012
-    Black: V9741029
-  5:
-    White: U9922232
-    Black: V9741059
-  6:
-    White: U9713020
-    Black: V9741060
-  7:
-    White: U9631020
-    Black: U9713044
-  8:
-    White: V9741009
-    Black: U9711120
-  9:
-    White: U9711132
-    Black: U9915004
-  10:
-    White: U9711105
-    Black: U9723020
-bye: U0013147
-late:
-  - U0013147
+    White: U9722006
+    Black: U9822143
 pairing: swiss
+payprotocol: meritPay
 round: 3
-text: /home/drbean/class/conversation/marriage/cards.yaml
-week: 5
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 14
