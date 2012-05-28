@@ -1,26 +1,40 @@
 ---
 activity:
-  goetz:
-    0:
-      - 0
+  connell:
+    1:
       - 1
       - 2
       - 3
+      - 4
+      - 5
+      - 6
+    3:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
 group:
-  0:
-    White: U9934025
-    Black: U9934002
   1:
-    White: U9934021
-    Black: U9934051
+    White: U9818019
+    Black: V9741064
   2:
-    White: T9821018
-    Black: U9934003
+     White: U9817051
+     Black: U9818039
   3:
-    White: T9821003
-    Black: T9821024
-late:
-  - ~
+     White: U9914051
+     Black: U9818048
+  4:
+     White: U9821130
+     Black: U9931123
+  5:
+     White: U9931043
+     Black: U9931134
+  6:
+     White: U9711114
+     Black: U9931148
+bye: T9822043
 round: 1
-text: ../../class/conversation/marriage/cards.yaml
+text: ../../class/conversation/disability/cards.yaml
 week: 4
