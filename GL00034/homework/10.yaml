@@ -2,58 +2,58 @@
 cutpoints:
   one: 20
   two: 85
-exercise: fernandez
+exercise: dickson
 grade:
-  T9821018: 0
-  T9833004: 2
-  T9833033: 2
-  U9922143: 2
-  U9934002: 2
-  U9934003: 2
-  U9934021: 2
-  U9934025: 2
-  U9934051: 2
-  V9731059: 2
+  T9822043: 0
+  U9711114: 0
+  U9817051: 2
+  U9818019: 2
+  U9818039: 0
+  U9818048: 2
+  U9821130: 2
+  U9914051: 0
+  U9931043: 2
+  U9931123: 0
+  U9931134: 2
+  U9931148: 2
+  V9741064: 2
 points:
-  T9821018:
+  T9822043:
     letters: 0
     percent: 0
-  T9833004:
-    S: 0
-    Yn: 0
-    letters: 494
+  U9711114:
+    letters: 0
+    percent: 0
+  U9817051:
+    letters: 94
     percent: 100
-  T9833033:
-    S: 0
-    Yn: 0
-    letters: 494
+  U9818019:
+    letters: 110
     percent: 100
-  U9922143:
-    letters: 479
-    percent: 97
-  U9934002:
-    letters: 494
+  U9818039:
+    letters: 0
+    percent: 0
+  U9818048:
+    letters: 93
     percent: 100
-  U9934003:
-    S: 0
-    Yn: 1
-    letters: 494
+  U9821130:
+    letters: 102
     percent: 100
-  U9934021:
-    S: 0
-    Yn: 0
-    letters: 491
-    percent: 99
-  U9934025:
-    letters: 494
+  U9914051:
+    letters: 0
+    percent: 0
+  U9931043:
+    letters: 99
+    percent: 92
+  U9931123:
+    letters: 0
+    percent: 0
+  U9931134:
+    letters: 110
     percent: 100
-  U9934051:
-    S: 0
-    Yn: 0
-    letters: 484
-    percent: 98
-  V9731059:
-    S: 0
-    Yn: 0
-    letters: 494
+  U9931148:
+    letters: 100
+    percent: 92
+  V9741064:
+    letters: 101
     percent: 100
