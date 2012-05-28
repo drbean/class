@@ -27,11 +27,6 @@ member:
     password: hao
     id: U9711114
     rating: ~
-  - Chinese: 李佩珊
-    name: PeiShan
-    password: pei
-    id: U9918041
-    rating: ~
   
   - Chinese: 阮品軒
     name: Max
@@ -89,6 +84,11 @@ member:
     id: U9931123
     rating: ~
 out:
+  - Chinese: 李佩珊
+    name: PeiShan
+    password: pei
+    id: U9918041
+    rating: ~
   - Chinese: 施建宗
     name: Aison
     password: jian
@@ -191,6 +191,6 @@ out:
     rating: ~
 room: 2110
 weights:
-  classwork: 70
-  exams: 15
-  homework: 15
+  classwork: 40
+  exams: 20
+  homework: 40
