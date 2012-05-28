@@ -1,45 +1,15 @@
 ---
 Chinese:
   Black: 0
-  Blue: 0
-  Gray: 0
-  Green: 0
-  Orange: 0
-  Purple: 0
+  Red: 0
 letters:
   Black:
-    U0013147: 8
-    U9922318: 8
-    T9833016: 8
-    U0021016: 8
-    story: fernandez0
-  Blue:
-    V9741059: 6
-    U9922232: 8
-    U9711105: 9
-    V9741057: 8
-    story: mestas0
-  Gray:
-    U9713044: 9
-    U9713020: 9
-    V9741029: 9
-    T9833025: 9
-    story: nguyen0
-  Green:
-    U9723020: 9
-    U9713044: 9
-    U9711120: 9
-    V9741060: 9
-    story: nguyen0
-  Orange:
-    U9631020: 8
-    V9741038: 8
-    U9711132: 8
-    V9741010: 8
-    story: fernandez0
-  Purple:
-    U9915004: 6
-    V9741030: 6
-    U9718012: 6
-    V9741059: 6
-    story: mestas0
+    U9822148: 9
+    U9716007: 9
+    T9822123: 9
+    story: abreu1
+  Red:
+    U9822143: 9
+    U9722006: 9
+    U9716007: 9
+    story: dickson1
