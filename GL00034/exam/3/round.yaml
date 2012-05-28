@@ -1,40 +1,46 @@
 ---
 round: Exam 3
-week: 13
+week: 14
 questions:
   - 10
 pass: 5
 assistant:
-  - Julie
-  - Roy
-  - Kenni
+  - Charlie
+  - Sheena
+  - Kimberly
+  - Simon
 absent:
-  - Vicky
-  - Si-Yu
-text: /home/drbean/class/conversation/intercultural/cards.yaml
+  - Ian
+  - Mike2
+text: /home/drbean/class/conversation/work/cards.yaml
 activity:
-  fernandez:
-    0:
+  dickson:
+    1:
       - Black
-  nguyen:
-    0:
-      - Pink
-  mestas:
-    0:
-      - Gray
+      - Blue
+      - Green
+  abreu:
+    1:
+      - Orange
+      - Red
 group:
   Black:
-    - Roy
-    - Julie
-    - Kenni
-    - Daisy
-  Gray:
-    - Julie
-    - Roy
-    - Emily
-    - Kenni
-  Pink:
-    - Vivi
-    - Dalai
-    - Annie
-    - Daniel
+    - Sheena
+    - Charlie
+    - Simon
+  Blue:
+    - Jason
+    - R-kai
+    - Charlie
+  Green:
+    - Amy
+    - Sheena
+    - Simon
+  Orange:
+    - Max
+    - Jimmy
+    - Kimberly
+  Red:
+    - Tina
+    - Kimberly
+    - Mike1
