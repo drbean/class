@@ -3,36 +3,35 @@ round: Exam 2
 week: 9
 questions:
   - 10
-pass: 5
+pass: 6
 assistant:
-  - Emily
-  - Daisy
 absent:
-  - Eric
-text: /home/drbean/class/conversation/poverty/cards.yaml
+  - Ian
+text: /home/drbean/class/conversation/disability/cards.yaml
 activity:
-  rueda:
-    0:
-      - Black
-  salazar:
-    0:
-      - Pink
-  vanbeke:
-    0:
-      - Gray
+  foreman:
+    1:
+      - Red
+      - White
+  davist:
+    2:
+      - Blue
+      - Green
 group:
-  Black:
-    - Julie
-    - Si-Yu
-    - Annie
-    - Dalai
-  Gray:
-    - Daisy
-    - Roy
-    - Kenni
-    - Emily
-  Pink:
-    - Vivi
-    - Vicky
-    - Emily
-    - Daisy
+  Green:
+    - Kimberly
+    - Mike2
+    - Amy
+  Blue:
+    - Sheena
+    - Tina
+    - Mike1
+  
+  Red:
+    - Simon
+    - Charlie
+    - Max
+  White:
+    - Jimmy
+    - R-kai
+    - Jason

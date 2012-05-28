@@ -1,24 +1,27 @@
 ---
 Chinese:
-  Black: 0
-  Gray: 0
-  Pink: 0
+  Blue: 0
+  Green: 0
+  Red: 0
+  White: 0
 letters:
-  Black:
-    U9934002: 9
-    T9833004: 9
-    U9934025: 9
-    U9934051: 9
-    story: rueda0
-  Gray:
-    U9934021: 10
-    U9922143: 10
-    T9821018: 10
-    U9934003: 10
-    story: vanbeke0
-  Pink:
-    V9731059: 8
-    T9833033: 8
-    U9934003: 8
-    U9934021: 8
-    story: salazar0
+  Blue:
+    U9818048: 8
+    U9931134: 9
+    U9817051: 8
+    story: davist2
+  Green:
+    U9931043: 9
+    U9914051: 3
+    V9741064: 8
+    story: davist2
+  Red:
+    U9931148: 7
+    T9822043: 9
+    U9818039: 9
+    story: foreman1
+  White:
+    U9711114: 8
+    U9821130: 9
+    U9818019: 7
+    story: foreman1

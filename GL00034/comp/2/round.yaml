@@ -6,6 +6,12 @@ activity:
       - 1
       - 2
       - 3
+  davist:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
 group:
   0:
     White: U9818039
@@ -20,8 +26,14 @@ group:
     White: V9741064
     Black: U9931043
 late:
-  - ~
-pairing: swiss
+  - U9711114
+bye: U9711114
+assistant:
+  Blue:
+    U9818048: 5
+    U9931134: 5
+    U9817051: 5
+pairing: swiss adjusted
 round: 2
-text: ~
-week: ~
+text: /home/drbean/class/conversation/disability/cards.yaml
+week: 9
