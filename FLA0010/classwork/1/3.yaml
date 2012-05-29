@@ -1,10 +1,10 @@
 ---
 Black:
   absent: 
-  merits: ~
+  merits: 2.5
 Blue:
   absent: 
-  merits: ~
+  merits: 2.5
 
 Brown:
   absent: 
@@ -29,10 +29,10 @@ Purple:
 
 Pink:
   absent: 
-  merits: ~
+  merits: 2.5
 Orange:
   absent: 
-  merits: ~
+  merits: 2.5
 
 Amber:
   absent:
