@@ -3,7 +3,6 @@ activity:
   foreman:
     0:
       - 0
-      - 1
       - 2
       - 3
       - 4
@@ -15,7 +14,6 @@ activity:
   davist:
     0:
       - 0
-      - 1
       - 2
       - 3
       - 4
@@ -28,9 +26,6 @@ group:
   0:
     White: V9841010
     Black: V9841002
-  1:
-    White: V9841006
-    Black: V9841015
   2:
     White: V9841024
     Black: V9841031
@@ -38,8 +33,8 @@ group:
     White: V9841022
     Black: V9841029
   4:
-    White: V9841020
-    Black: V9841009
+    White: V9841009
+    Black: T9823041
   5:
     White: V9741044
     Black: V9841013
@@ -48,7 +43,7 @@ group:
     Black: V9841017
   7:
     White: V9841026
-    Black: V9841028
+    Black: V9841015
   8:
     White: V9841027
     Black: V9841011
@@ -56,8 +51,9 @@ group:
     White: V9841007
     Black: V9841005
 late:
-  - ~
+  - T9823041
 pairing: swiss
+payprotocol: meritPay
 assistant:
   Gray:
     V9841020: 5
