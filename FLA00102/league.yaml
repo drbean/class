@@ -30,11 +30,6 @@ member:
     name: Edison
     password: yan
     rating: 60
-  - Chinese: 劉茹芬
-    id: N9661749
-    name: Chelsea
-    password: ru
-    rating: 64
   - Chinese: 羅尹妮
     id: V9741022
     name: Nini
@@ -50,11 +45,6 @@ member:
     name: Ivy
     password: ning
     rating: 67
-  - Chinese: 林志豪
-    id: V9741066
-    name: Joe
-    password: zhi
-    rating: 72
   - Chinese: 陳彥瑋
     id: V9841001
     name: Travis
@@ -122,7 +112,7 @@ member:
     rating: 80
   - Chinese: 洪詠舜
     id: V9941013
-    name: Yong-Shun
+    name: Edward
     password: yong
     rating: 71
   - Chinese: 謝東霖
@@ -135,11 +125,6 @@ member:
     name: Henry
     password: wei
     rating: 76
-  - Chinese: 何杰倫
-    id: V9941016
-    name: Jielun
-    password: jie
-    rating: 38
   - Chinese: 陳俞靜
     id: V9941022
     name: Vicki
@@ -151,6 +136,22 @@ member:
     password: zi
     rating: 71
 out:
+  - Chinese: 林志豪
+    id: V9741066
+    name: Joe
+    password: zhi
+    rating: 72
+  - Chinese: 劉茹芬
+    id: N9661749
+    name: Chelsea
+    password: ru
+    rating: 64
+  - Chinese: 何杰倫
+    id: V9941016
+    name: Jielun
+    password: jie
+    rating: 38
+
   - Chinese: 郭芳萱
     id: V9841033
     name: Amber
