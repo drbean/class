@@ -8,13 +8,25 @@ activity:
       - 3
       - 4
       - 5
-      - 6
       - 7
       - 8
       - 9
+      - 10
+  davist:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 7
+      - 8
+      - 9
+      - 10
 group:
   0:
-    White: V9741022
+    White: V9841001
     Black: V9841025
   1:
     White: V9724004
@@ -31,9 +43,6 @@ group:
   5:
     White: V9941005
     Black: V9941001
-  6:
-    White: V9941015
-    Black: N9661749
   7:
     White: V9941012
     Black: N9661754
@@ -41,16 +50,18 @@ group:
     White: V9741059
     Black: V9941022
   9:
-    White: V9741057
-    Black: V9941013
-late:
-  - Travis and others
+    White: N9661749
+    Black: V9741057
+  10:
+    White: V9741022
+    Black: V9941011
 assistant:
   Black:
     V9941013: 5
   Orange:
     V9941015: 5
-pairing: swiss
+pairing: swiss (adjusted)
+payprotocol: meritPay
 round: 1
 text: /home/drbean/class/conversation/disability/cards.yaml
 week: 14
