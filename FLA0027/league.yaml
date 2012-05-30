@@ -13,11 +13,6 @@ hwMax: 3
 id: 002FLA0027
 league: 夜應外大學四甲
 member:
-  - Chinese: 張嘉宸
-    id: U9616041
-    name: Vera
-    password: jia
-    rating: 81
   - Chinese: 黃文和
     id: N9561732
     name: Hank
@@ -129,6 +124,11 @@ member:
     password: zhi
     rating: 72
 out:
+  - Chinese: 張嘉宸
+    id: U9616041
+    name: Vera
+    password: jia
+    rating: 81
   - Chinese: 邱郁晴
     id: V9741018
     name: Cathy
