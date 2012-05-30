@@ -1,49 +1,95 @@
 ---
-exercise: ad lib report of debate in week 11
-criteria:
-  - hesitancy, as sign not being read, necessary
-  - difficult to decide whether pauses indicate extemperanity
-  - not necessarily a smooth integration of both views
-  - slides not 12 words or more
-  - zero-length soundfile on wretch.cc
-  - not good title, description on wretch.cc
+cutpoints:
+  one: 20
+  two: 85
+exercise: quizkid
 grade:
-  9622299 : 2
-  N9561732: 3
-  N9661713: 3
-  N9661749: 0
-  U9616041: 3
-  V0099121_0921: 3
-  V9724004: 2
-  V9731059: 2
-  V9741009: 0
-  V9741010: 2
-  V9741014: 2
+  N9561732: 2
+  N9661712: 2
+  N9661752: 2
+  V9724004: 1
+  V9741010: 1
   V9741016: 2
-  V9741018: 3
   V9741023: 2
-  V9741024: 3
-  V9741025: 3
-  V9741029: 2
-  V9741030: 3
-  V9741032: 2
-  V9741034: 3
-  V9741036: 3
-  V9741037: 3
-  V9741040: 3
+  V9741025: 1
+  V9741028: 2
+  V9741029: 1
+  V9741030: 1
+  V9741032: 1
+  V9741034: 2
+  V9741036: 1
   V9741041: 2
-  V9741042: 3
   V9741043: 2
-  V9741047: 3
-  V9741048: 2
-  V9741049: 2
+  V9741047: 2
   V9741053: 2
-  V9741055: 2
-  V9741057: 2
-  V9741059: 0
-  V9741060: 3
-  V9741061: 2
-  V9741064: 2
-  V9741065: 0
-  V9741066: 3
-  V9841014: 3
+  V9741057: 1
+  V9741059: 1
+  V9741060: 2
+  V9741066: 1
+points:
+  N9561732:
+    letters: 237
+    percent: 100
+  N9661712:
+    letters: 222
+    percent: 100
+  N9661752:
+    letters: 264
+    percent: 100
+  V9724004:
+    letters: 65
+    percent: 27
+  V9741010:
+    letters: 121
+    percent: 47
+  V9741016:
+    letters: 247
+    percent: 100
+  V9741023:
+    letters: 218
+    percent: 100
+  V9741025:
+    letters: 128
+    percent: 64
+  V9741028:
+    letters: 227
+    percent: 94
+  V9741029:
+    letters: 182
+    percent: 72
+  V9741030:
+    letters: 100
+    percent: 36
+  V9741032:
+    letters: 155
+    percent: 61
+  V9741034:
+    letters: 253
+    percent: 100
+  V9741036:
+    letters: 74
+    percent: 31
+  V9741041:
+    letters: 264
+    percent: 100
+  V9741043:
+    letters: 282
+    percent: 92
+  V9741047:
+    letters: 203
+    percent: 99
+  V9741053:
+    letters: 246
+    percent: 100
+  V9741057:
+    letters: 165
+    percent: 64
+  V9741059:
+    letters: 90
+    percent: 36
+  V9741060:
+    letters: 259
+    percent: 100
+  V9741066:
+    letters: 160
+    percent: 71
