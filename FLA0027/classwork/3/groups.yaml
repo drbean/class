@@ -1,50 +1,31 @@
 ---
 Black:
-  - Emily1
-  - Melissa
   - Hank
-  - Vera
+  - Joe
+  - Molly
 Blue:
-  - Edison
-  - Peggy
+  - Tracy
+  - Kathy
   - Jessica
-  - Tina
-Brown:
-  - Jacinta
-  - Frances
+Green:
   - Nancy
-  - Rachel
-Gray:
-  - Alan
-  - Joey
-  - Emily2
-  - Abby
-White:
-  - Chelsea
-  - Amy
-  - Elly
-  - Sophie
+  - Maggie
+  - Tina
 Orange:
   - Kumiko
-  - Anita
-  - Andy
-  - Jimmy
-Pink:
-  - Cathy
-  - Vivi
-  - Aska
-  - Molly
-Purple:
-  - Ivy2
-  - Tracy
-  - Ivy1
-  - Maggie
-Red:
-  - Joe
-  - Kathy
-  - Luke
-  - Bruce
-Green:
-  - Eva
-  - Donna
   - Nina
+  - Ivy1
+Red:
+  - Donna
+  - Jacinta
+  - Elly
+White:
+  - Andy
+  - Anita
+  - Carol
+BlueBlue:
+  - Michelle
+  - Emily2
+BrownBrown:
+  - Ivy2
+  - Allen
