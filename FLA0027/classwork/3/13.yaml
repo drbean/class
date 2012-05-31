@@ -1,32 +1,30 @@
 ---
 Black:
   absent: 
-  merits: 2
+  merits: 3
 Blue:
   absent: 
-  merits: 2
-Brown:
-  absent: 
+    - Kathy
   merits: 3
-Gray:
-  absent: 
-  merits: 3
+
 Green:
   absent: 
-  merits: 2
+  merits: 3
 Orange:
-  absent: 
-  merits: 3
-Pink:
-  absent: 
-  merits: 2
-Purple:
   absent:
+    - Kumiko
   merits: 3
+
 Red:
   absent: 
-    - Kathy
-  merits: 2
+  merits: 3
 White:
+  absent: 
+  merits: 3
+
+BlueBlue:
+  absent: 
+  merits: 3
+BrownBrown:
   absent: 
   merits: 3
