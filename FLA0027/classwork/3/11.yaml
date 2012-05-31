@@ -5,31 +5,24 @@ Black:
 Blue:
   absent: 
   merits: 3
-Brown:
-  absent: 
-    - Jacinta
-  merits: 3
-Gray:
-  absent: 
-  merits: 2
+
 Green:
   absent: 
   merits: 3
 Orange:
-  absent: 
-  merits: 2
-Pink:
-  absent: 
-  merits: 3
-Purple:
   absent:
-  merits: 3
+  merits: 2
+
 Red:
   absent: 
-    - Kathy
-  merits: 2
+  merits: 3
 White:
   absent: 
-    - Elly
-    - Chelsea
+  merits: 2
+
+BlueBlue:
+  absent: 
+  merits: 3
+BrownBrown:
+  absent: 
   merits: 2
