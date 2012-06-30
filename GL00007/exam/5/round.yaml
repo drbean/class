@@ -3,43 +3,29 @@ round: Exam 4
 week: 18
 questions:
   - 10
-pass: 6
+pass: 5
 assistant:
-  - Eva
+  - DingDing
 absent:
-  - Jerry
-text: /home/drbean/class/conversation/disasters/cards.yaml
+texts:
+  - /home/drbean/class/conversation/work
+unclozedwords:
+  - Spano
+  - pasta
+unclozeables:
+  - Spano
+  - pasta
 activity:
-  duplantier:
+  smallwood:
     1:
-      - Pink
-  desilvey:
+      - Red
+  jackson:
     1:
-      - Green
-  conant:
-    1:
-      - Gray
-  harllee:
-    1:
-      - Purple
+      - Black
 group:
-  Gray:
-    - Eva
-    - Mark
-    - Ken
-    - Ivory
-  Green:
-    - Lily
-    - Frank
-    - Kiki
-    - Jessica
-  Pink:
-    - Emma
-    - Kerwin
-    - Ryan
-    - Eva
-  Purple:
-    - Kenny
-    - Emily
-    - Sarah
-    - Kate
+  Black:
+    A: Larry
+    B: DingDing
+  Red:
+    A: Luis
+    B: Carey
