@@ -1,0 +1,36 @@
+---
+Black:
+  absent:
+    - Tea
+  merits: 2.5
+
+Blue:
+  absent: 
+    - Nini
+  merits: 2.5
+
+Brown:
+  absent: 
+    - Tzu-Ching
+  merits: 2.5
+
+Gray:
+  absent: 
+    - Louise
+  merits: 3
+
+Orange:
+  absent: 
+    - Yan-Ting
+  merits: 2.5
+
+Pink:
+  absent: 
+  merits: 3
+Purple:
+  absent:
+  merits: 2.5
+Red:
+  absent: 
+    - Robert
+  merits: 2
