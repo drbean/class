@@ -2,94 +2,102 @@
 round: Exam 4
 week: 18
 questions:
-  - 4
-pass: 1
+  - 10
+pass: 5
 assistant: 
-  - Jay1
-  - Abby
+  - Reese
+  - Sherry
 absent: 
-text: /home/drbean/class/business/greatideas/cards.yaml
+text: /home/drbean/class/business/newbusiness/cards.yaml
 activity:
-  fourconcepts:
-    00:
-      - Black
+  huang:
+    000:
       - BlackBlack
-      - Brown
-      - Gray
+      - BlueBlue
+      - GrayGray
       - Green
-      - White
-    22:
-      - Blue
-      - Purple
-      - Red
-    55:
+    111:
+      - Gray
       - Orange
-      - Pink
+      - Red
       - Yellow
-      - YellowYellow
+    222:
+      - Blue
+      - Pink
+      - Purple
+      - White
+    333:
+      - Black
+      - Brown
+      - BrownBrown
+      - GreenGreen
+      - OrangeOrange
 group:
   Black:
-    - Jack1
-    - Jerry
-    - Julie
-    - Bob
-  BlackBlack:
-    - Sam1
-    - Orton
-    - Johnson
-    - Emily
-  Blue:
-    - Jay2
-    - Evan
-    - Betty1
-    - Reese
-  Brown:
-    - Jeff
-    - Carol
-    - Carrie
-    - Doris
-  Gray:
-    - Sherry
-    - Shirley
-    - Kate
-    - Abby
-  Green:
-    - Jack2
-    - Cindy
-    - Jennifer
-    - Jill
-  Orange:
-    - Jay1
-    - Andy
-    - Maggie
-    - Paul
-  Pink:
-    - Justin
-    - Bill
-    - Larry
+    - John
     - Robin
-  Purple:
-    - Lion
-    - Dalai
+    - Carol
+  BlackBlack:
+    - Jennifer
+    - Bob
+    - Bill
+  Blue:
+    - Jack1
+    - Julie
     - Celia
-    - Daisy
-  Red:
-    - Lilith
-    - Amy2
-    - Annie
-    - Kelly
-  White:
-    - Betty2
-    - Amy1
-    - Sam2
-    - Diana
-  Yellow:
-    - Jason
-    - Joe
-    - Jay1
+  BlueBlue:
+    - Shirley
     - Tommy
-  YellowYellow:
-    - Harry
+    - Carrie
+  Brown:
+    - Dalai
+    - Emily
+    - Reese
+  BrownBrown:
+    - Amy1
+    - Daisy
     - Lynn
+  Gray:
+    - Jack2
+    - Kate
+    - Annie
+  GrayGray:
+    - Joe
+    - Johnson
+    - Orton
+  Green:
+    - Jason
+    - Amy2
+    - Andy
+  GreenGreen:
+    - Ezra
+    - Doris
+    - Reese
+  Orange:
+    - Sam1
+    - Betty1
+    - Maggie
+  OrangeOrange:
+    - Diana
+    - Jill
+    - Sherry
+  Pink:
+    - Eileen
+    - Lion
+    - Sherry
+  Purple:
+    - Justin
+    - Jeff
+    - Jerry
+  Red:
+    - Larry
     - Abby
+    - Paul
+  White:
     - Ting
+    - Jay1
+    - Kelly
+  Yellow:
+    - Cindy
+    - Betty2
+    - Evan
