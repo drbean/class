@@ -1,6 +1,6 @@
 ---
 activity:
-  connell:
+  foreman:
     0:
       - 0
       - 1
@@ -8,61 +8,60 @@ activity:
       - 3
       - 4
       - 5
-      - 6
       - 7
       - 8
       - 9
+      - 10
+  davist:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 7
+      - 8
+      - 9
+      - 10
 group:
   0:
-    White: V9941047
-    Black: V9941075
+    White: V9841001
+    Black: V9841025
   1:
-    White: V9941062
-    Black: V9941059
+    White: V9724004
+    Black: V9841068
   2:
-    White: V9941049
-    Black: V9941029
+    White: V9941003
+    Black: V9841042
+  3:
+    White: V9916050
+    Black: V9941010
   4:
-    White: V9941025
-    Black: V9941040
+    White: V9941007
+    Black: V9841063
   5:
-    White: V9941050
-    Black: V9941043
-  6:
-    White: V9941068
-    Black: V9941069
+    White: V9941005
+    Black: V9941001
   7:
-    White: V9941060
-    Black: V9941073
+    White: V9941012
+    Black: N9661754
   8:
-    White: V9941045
-    Black: V9941067
+    White: V9741059
+    Black: V9941022
   9:
-    White: V9941037
-    Black: V9941032
+    White: N9661749
+    Black: V9741057
   10:
-    White: V9941027
-    Black: V9941057
-  11:
-    White: V9941051
-    Black: V9941046
+    White: V9741022
+    Black: V9941011
 assistant:
-  V9941026: 5
-  V9941031: 5
-  V9941036: 5
-
-  V9941076: 5
-  V9941068: 5
-  V9941033: 5
-  
-late:
-  - V9941051
-  - V9941046
-
-  - V9941027
-  - V9941057
-
-pairing: swiss
+  Black:
+    V9941013: 5
+  Orange:
+    V9941015: 5
+pairing: swiss (adjusted)
+payprotocol: meritPay
 round: 1
 text: /home/drbean/class/conversation/disability/cards.yaml
-week: 4
+week: 14
