@@ -2,52 +2,50 @@
 cutpoints:
   one: 20
   two: 85
-exercise: smallwood
+exercise: jackson
 grade:
-  T9821018: 0
-  T9833004: 2
-  T9833033: 1
-  U9822150: 0
-  U9922143: 0
-  U9934002: 0
-  U9934003: 2
-  U9934021: 0
-  U9934025: 0
-  U9934051: 2
-  V9731059: 2
+  T9822043: 2
+  U9711114: 0
+  U9817051: 2
+  U9818019: 0
+  U9818039: 0
+  U9818048: 0
+  U9821130: 2
+  U9931043: 2
+  U9931134: 2
+  U9931148: 2
+  V9741064: 2
 points:
-  T9821018:
+  T9822043:
+    letters: 124
+    percent: 97
+  U9711114:
     letters: 0
     percent: 0
-  T9833004:
-    S: 0
-    Yn: 0
-    letters: 868
+  U9817051:
+    letters: 107
     percent: 100
-  T9833033:
-    letters: 576
-    percent: 66
-  U9822150:
+  U9818019:
     letters: 0
     percent: 0
-  U9922143:
+  U9818039:
     letters: 0
     percent: 0
-  U9934002:
+  U9818048:
     letters: 0
     percent: 0
-  U9934003:
-    letters: 868
+  U9821130:
+    letters: 103
     percent: 100
-  U9934021:
-    letters: 0
-    percent: 0
-  U9934025:
-    letters: 0
-    percent: 0
-  U9934051:
-    letters: 866
+  U9931043:
+    letters: 107
     percent: 100
-  V9731059:
-    letters: 868
+  U9931134:
+    letters: 114
     percent: 100
+  U9931148:
+    letters: 109
+    percent: 100
+  V9741064:
+    letters: 114
+    percent: 96
