@@ -2,120 +2,26 @@
 cutpoints:
   one: 20
   two: 85
-exercise: smallwood
+exercise: jackson
 grade:
-  T9833016: 1
-  T9833025: 2
-  U0013147: 0
-  U0021016: 2
-  U9631020: 2
-  U9711105: 2
-  U9711120: 2
-  U9711132: 2
-  U9713020: 2
-  U9713044: 0
-  U9718012: 0
-  U9723020: 0
-  U9915004: 2
-  U9922203: 0
-  U9922232: 0
-  U9922318: 0
-  V9741009: 2
-  V9741010: 1
-  V9741029: 0
-  V9741030: 0
-  V9741038: 0
-  V9741057: 2
-  V9741059: 0
-  V9741060: 2
+  T9822123: 2
+  U9716007: 2
+  U9722006: 2
+  U9822143: 2
+  U9822148: 2
 points:
-  T9833016:
-    letters: 193
-    percent: 22
-  T9833025:
-    letters: 868
+  T9822123:
+    letters: 115
     percent: 100
-  U0013147:
-    letters: 0
-    percent: 0
-  U0021016:
-    S: 0
-    Yn: 0
-    letters: 868
+  U9716007:
+    letters: 113
     percent: 100
-  U9631020:
-    S: 0
-    Yn: 3
-    letters: 868
+  U9722006:
+    letters: 118
     percent: 100
-  U9711105:
-    S: 0
-    Yn: 3
-    letters: 843
-    percent: 97
-  U9711120:
-    S: 0
-    Yn: 3
-    letters: 868
+  U9822143:
+    letters: 114
     percent: 100
-  U9711132:
-    S: 0
-    Yn: 0
-    letters: 868
-    percent: 100
-  U9713020:
-    S: 1
-    Yn: 1
-    letters: 866
-    percent: 100
-  U9713044:
-    letters: 0
-    percent: 0
-  U9718012:
-    letters: 0
-    percent: 0
-  U9723020:
-    letters: 0
-    percent: 0
-  U9915004:
-    letters: 868
-    percent: 100
-  U9922203:
-    letters: 0
-    percent: 0
-  U9922232:
-    letters: 0
-    percent: 0
-  U9922318:
-    letters: 0
-    percent: 0
-  V9741009:
-    S: 0
-    Yn: 0
-    letters: 868
-    percent: 100
-  V9741010:
-    letters: 606
-    percent: 70
-  V9741029:
-    letters: 0
-    percent: 0
-  V9741030:
-    letters: 0
-    percent: 0
-  V9741038:
-    letters: 0
-    percent: 0
-  V9741057:
-    S: 0
-    Yn: 0
-    letters: 868
-    percent: 100
-  V9741059:
-    letters: 0
-    percent: 0
-  V9741060:
-    S: 0
-    Yn: 0
-    letters: 868
+  U9822148:
+    letters: 117
     percent: 100
