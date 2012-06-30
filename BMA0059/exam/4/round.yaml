@@ -2,81 +2,90 @@
 round: Exam 4
 week: 18
 questions:
-  - 4
-pass: 1
+  - 10
+pass: 5
 assistant: 
 absent: 
-text: /home/drbean/class/business/greatideas/cards.yaml
+text: /home/drbean/class/business/newbusiness/cards.yaml
 activity:
-  fourconcepts:
-    00:
-      - Black
+  huang:
+    000:
+      - BrownBrown
       - Gray
+      - GrayGray
+      - Orange
+    111:
+      - Black
+      - BlackBlack
+      - Purple
+      - Red
+    222:
+      - Blue
+      - Brown
       - Pink
       - White
-      - Yellow
-    22:
-      - Blue
+    333:
+      - BlueBlue
       - Green
-      - Purple
-    55:
-      - Brown
-      - Orange
-      - Red
-
+      - Yellow
 group:
   Black:
-    - Willie
-    - Sandy2
-    - Linda
+    - Harry
     - Amy4
-  Blue:
-    - Lulu
-    - Rita
-    - Alice1
-    - Sheryl
-  Brown:
-    - Sandy1
+    - Will
+  BlackBlack:
+    - Cindy
+    - Jenny
     - Jim
-    - Angel
+  Blue:
+    - Rita
+    - Kelly
+    - Peilin
+  BlueBlue:
+    - Linda
+    - Mandy
+    - Jane
+  Brown:
+    - Lulu
+    - Kevin2
+    - Merlin
+  BrownBrown:
+    - Alice1
+    - Robert
     - Nina
   Gray:
-    - Flora
-    - Anting
-    - Lisa
     - Jojo
-  Green:
-    - Jenny
-    - Robert
-    - Kelly
-    - Kimberly
-  Orange:
-    - Mandy
-    - Nora
-    - Jane
-    - Kathy
-  Pink:
-    - Irene
-    - Laura
-    - Angeline
-    - Jason
-  Purple:
-    - Erin
-    - Amy3
-    - Amy1
-    - Kevin2
-  Red:
     - Janet
-    - Len
-    - Karen
+    - Erin
+  GrayGray:
+    - Nora
+    - Amy1
     - Zara
-  White:
-    - Cindy
-    - Helen
-    - Peilin
-    - Cathy
-  Yellow:
-    - Merlin
-    - Will
+  Green:
+    - Flora
+    - Kimberly
+    - Lisa
+  Orange:
+    - Willie
+    - Kathy
+    - Angel
+  Pink:
+    - Anting
+    - Jay
+    - Sandy2
+  Purple:
+    - Amy3
     - YiChun
     - Tina
+  Red:
+    - Len
+    - Sandy1
+    - Jason
+  White:
+    - Helen
+    - Karen
+    - Cathy
+  Yellow:
+    - Laura
+    - Sheryl
+    - Angeline
