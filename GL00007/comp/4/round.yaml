@@ -1,54 +1,27 @@
 ---
 activity:
-  salazar:
+  old:
     0:
-      - 0
       - 1
       - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
+  smallwood:
+    0:
+      - 1
+      - 2
+  jackson:
+    0:
+      - 1
+      - 2
+bye: T9822123
 group:
-  0:
-    White: U9718012
-    Black: T9833025
   1:
-    White: V9741057
-    Black: V9741059
+    White: U9716007
+    Black: U9822148
   2:
-    White: V9741030
-    Black: T9833016
-  3:
-    White: U0021016
-    Black: V9741038
-  4:
-    White: U9713044
-    Black: U9922318
-  5:
-    White: V9741010
-    Black: U9922232
-  6:
-    White: V9741029
-    Black: V9741060
-  7:
-    White: U9723020
-    Black: U9711132
-  8:
-    White: U9711120
-    Black: U9631020
-  9:
-    White: U9915004
-    Black: U9711105
-  10:
-    White: U9922203
-    Black: U0013147
-late:
+    White: U9822143
+    Black: U9722006
 pairing: swiss
-round: 4
-text: /home/drbean/class/conversation/poverty/cards.yaml
-week: 7
+payprotocol: meritPay
+round: 1
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 18
