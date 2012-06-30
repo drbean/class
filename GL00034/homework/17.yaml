@@ -1,55 +1,162 @@
 ---
 cutpoints:
-  one: 20
-  two: 85
+  loser: 1
+  quitter: 0
+  winner: 2
 exercise: jackson
 grade:
-  T9821018: 2
-  T9833004: 2
-  T9833033: 1
-  U9822150: 0
-  U9922143: 2
-  U9934002: 2
-  U9934003: 2
-  U9934021: 0
-  U9934025: 2
-  U9934051: 2
-  V9731059: 2
+  T9822043: 2
+  U9711114: 0
+  U9817051: 2
+  U9818019: 2
+  U9818039: 0
+  U9818048: 2
+  U9821130: 2
+  U9931043: 2
+  U9931134: 2
+  U9931148: 0
+  V9741064: 0
 points:
-  T9821018:
-    letters: 657
-    percent: 100
-  T9833004:
-    S: 0
-    Yn: 0
-    letters: 657
-    percent: 100
-  T9833033:
-    letters: 466
-    percent: 71
-  U9822150:
-    letters: 0
-    percent: 0
-  U9922143:
-    letters: 657
-    percent: 100
-  U9934002:
-    letters: 657
-    percent: 100
-  U9934003:
-    S: 0
-    Yn: 0
-    letters: 657
-    percent: 100
-  U9934021:
-    letters: 0
-    percent: 0
-  U9934025:
-    letters: 657
-    percent: 100
-  U9934051:
-    letters: 657
-    percent: 100
-  V9731059:
-    letters: 657
-    percent: 100
+  T9822043:
+    Wh:
+      answers: 2
+      questions: 2
+      attempts: 6
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9711114:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9817051:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 3
+      attempts: 4
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9818019:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 4
+      attempts: 5
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9818039:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9818048:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 3
+      attempts: 4
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9821130:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 6
+      questions: 6
+      attempts: 8
+  U9931043:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 3
+      attempts: 6
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9931134:
+    Wh:
+      answers: 0
+      questions: 2
+      attempts: 2
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 6
+      questions: 6
+      attempts: 7
+  U9931148:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V9741064:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 7
