@@ -1,0 +1,17 @@
+---
+Black:
+  absent:
+    - Max
+  merits: 3
+
+Green:
+  absent:
+  merits: 3
+
+Red:
+  absent:
+  merits: 3
+White:
+  absent:
+    - Jimmy
+  merits: 3
