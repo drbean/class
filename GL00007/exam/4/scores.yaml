@@ -1,45 +1,15 @@
 ---
 Chinese:
   Black: 0
-  Blue: 0
-  Gray: 0
-  Green: 0
-  Orange: 0
-  Purple: 0
+  Red: 0
 letters:
   Black:
-    U9711105: 8
-    U9922318: 9
-    T9833016: 9
-    U0021016: 9
-    story: smallwood0
-  Blue:
-    V9741009: 6
-    U9713044: 6
-    U9922232: 6
-    V9741060: 6
-    story: dickson0
-  Gray:
-    U0013147: 9
-    V9741030: 9
-    V9741059: 9
-    T9833025: 9
-    story: abreu0
-  Green:
-    U9631020: 8
-    V9741029: 8
-    V9741038: 8
-    V9741057: 8
-    story: smallwood0
-  Orange:
-    T9833016: 10
-    U9713020: 10
-    U9711120: 10
-    U9711105: 10
-    story: jackson0
-  Purple:
-    U9915004: 4
-    U9718012: 4
-    U9711132: 5
-    V9741010: 4
-    story: dickson0
+    U9822148: 10
+    U9716007: 10
+    U9822143: 10
+    story: jackson1
+  Red:
+    T9822123: 10
+    U9722006: 10
+    U9716007: 10
+    story: smallwood1
