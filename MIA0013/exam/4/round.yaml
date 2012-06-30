@@ -2,68 +2,82 @@
 round: Exam 4
 week: 18
 questions:
-  - 4
-pass: 1
+  - 10
+pass: 5
 assistant: 
+  - Wendy
+  - Anny
 absent: 
-text: /home/drbean/class/business/greatideas/cards.yaml
+text: /home/drbean/class/business/planning/cards.yaml
 activity:
-  fourconcepts:
-    00:
-      - Blue
-      - Gray
-      - Orange
-      - Red
-      - White
-    22:
-      - Black
-      - Purple
-    55:
+  huang:
+    000:
+      - BlueBlue
       - Brown
+      - Orange
+      - White
+    111:
+      - Gray
       - Pink
+      - Yellow
+    222:
+      - Black
+      - Green
+      - Purple
+    333:
+      - BlackBlack
+      - Blue
+      - Red
 group:
   Black:
-    - Candy
-    - Ruby
-    - Leo
-    - Anny
-  Blue:
-    - Linda2
-    - Peter2
-    - Mila
-    - Sally
-  Brown:
-    - Tina
-    - Gene
-    - Jordan
-    - Alex
-  Gray:
     - Peter1
-    - Soymilk
-    - Cranium
-    - Dora
-  Orange:
-    - James
-    - Sophia
-    - Sandy
-    - Kenny
-  Pink:
-    - Sam
-    - Fred
-    - Linda1
-    - Shane
-  Purple:
-    - Alice
-    - Kevin
-    - Evangeline
-    - Albert
-  Red:
-    - Cathy
-    - Jane
     - Wendy
+    - Linda2
+  BlueBlue:
+    - Sophia
+    - Mila
+    - Wendy
+  Blue:
     - Claire
-  White:
-    - Sean
-    - Tony
+    - Alice
     - Tom
+  BlackBlack:
+    - Ruby
+    - Candy
+    - Anny
+  Brown:
+    - Tony
+    - Evangeline
+    - Cranium
+  Gray:
+    - Gene
     - Ivy
+    - Tina
+  Green:
+    - Jordan
+    - Shane
+    - Sandy
+  Orange:
+    - Sean
+    - Jane
+    - Alex
+  Pink:
+    - Soymilk
+    - Sam
+    - Leo
+  Purple:
+    - James
+    - Kenny
+    - Sally
+  Red:
+    - Lilith
+    - Cathy
+    - Linda1
+  White:
+    - Kevin
+    - Dora
+    - Anny
+  Yellow:
+    - Peter2
+    - Fred
+    - Albert
