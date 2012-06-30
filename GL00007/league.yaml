@@ -1,7 +1,7 @@
 ---
 absent: ~
 active: ~
-approach: Compcomp
+approach: GroupworkNoFault
 compcomp: comp
 examMax: 5
 classMax: 3
@@ -147,6 +147,8 @@ scores:
   late: 1
   loss: 3
   win: 5
+transfer:
+  T9822123: GL00034
 weights:
   classwork: 40
   exams: 20
