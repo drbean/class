@@ -5,55 +5,22 @@ questions:
   - 10
 pass: 5
 assistant:
-  - Hazel
-  - Vikin
+  - DingDing
 absent:
-  - Hudi
-  - Sam
 text: /home/drbean/class/conversation/work/cards.yaml
 activity:
-  dickson:
-    0:
-      - Blue
-      - Purple
-  abreu:
-    0:
-      - Gray
   smallwood:
-    0:
-      - Black
-      - Green
+    1:
+      - Red
   jackson:
-    0:
-      - Orange
+    1:
+      - Black
 group:
   Black:
-    - Hazel
-    - Nick
-    - Vikin
-    - James
-  Blue:
-    - Alan
-    - Chris
-    - Wen-hsin
-    - Kathy
-  Gray:
-    - Vic
-    - Donna
-    - Ivy
-    - Lin
-  Green:
-    - WanLin
-    - Kumiko
-    - Candy
-    - Nina
-  Orange:
-    - Vikin
-    - Jerry
-    - GuoLun
-    - Hazel
-  Purple:
-    - Jusky
-    - Mark
-    - Kai
-    - Andy
+    - Larry
+    - DingDing
+    - Hana
+  Red:
+    - Luis
+    - Carey
+    - DingDing
