@@ -5,105 +5,48 @@ questions:
   - 10
 pass: 5
 assistant:
-  - Patty
-  - Hannah
-  - Fifi
-  - Yu-Ching
-  - Rose
 absent:
   - Sana
-  - Ivan
-  - Alex
-text: /home/drbean/class/conversation/work/cards.yaml
+  - Miranda
+text: /home/drbean/class/conversation/disability/cards.yaml
 activity:
-  dickson:
-    0:
+  connell:
+    55:
       - Black
-      - BlackBlack
-      - Orange
-      - Purple
-      - XinFang
-  abreu:
-    0:
       - Blue
-      - Brown
-      - White
-      - WhiteWhite
-  smallwood:
-    0:
-      - BlueBlue
       - Gray
-      - Green
+  warm:
+    1:
+      - Brown
+      - Orange
       - Pink
-      - Red
+      - Purple
 group:
-  XinFang:
-    - XinFang
-    - Hannah
-    - Fifi
-    - Yu-Ching
   Black:
-    - Amber
-    - Frank
-    - Kenny
-    - Yu-Ching
-  BlackBlack:
-    - Bass
-    - Sue
-    - Ming
-    - Laura
-  Blue:
-    - Joan
-    - Julia
-    - Carina
-    - Lisa
-  BlueBlue:
-    - Alex
-    - Ricky
-    - Luke
-    - Julie
-  Brown:
-    - Kori
-    - Yu-Lun
-    - Yi-Ru
-    - Katty
-  Gray:
-    - Hank
-    - Jessica2
-    - Wei-Yi
-    - Louise
-  Green:
-    - Amber
-    - Frances
-    - Larry
-    - Anne
-  Orange:
     - Abby
-    - Fifi
-    - Hannah
+    - Kori
+    - Katty
+  Blue:
+    - Yorick
+    - Jessica2
+    - Stanley
+  Brown:
+    - Leo
+    - Yi-Ru
     - Dennis
+  Gray:
+    - Larry
+    - Bass
+    - Fifi
+  Orange:
+    - Shaq
+    - Hannah
+    - Hank
   Pink:
     - Winny
-    - Patty
-    - Nancy
-    - Rachel
-  Purple:
-    - Joy
-    - Kitty
-    - Jessica1
-    - Debbie
-  Red:
-    - Sana
     - Jeffrey
-    - Jacinta
-    - Cathy
-  White:
-    - Stanley
-    - Alan
-    - Winne
-    - Carol
-  WhiteWhite:
-    - Yorick
-    - Leo
-    - Shaq
-    - Rose
+    - Yu-Lun
+  Purple:
+    - Wei-Yi
+    - Laura
+    - Lisa
