@@ -1,0 +1,148 @@
+---
+cutpoints:
+  loser: 1
+  quitter: 0
+  winner: 2
+exercise: foreman
+grade:
+  T9716021: 0
+  T9731009: 0
+  T9822123: 0
+  U9711044: 0
+  U9714017: 0
+  U9716007: 2
+  U9722006: 2
+  U9742031: 0
+  U9822143: 2
+  U9822148: 2
+points:
+  T9716021:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 8
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 4
+    S:
+      answers: 0
+      questions: 3
+      attempts: 4
+  T9731009:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  T9822123:
+    Wh:
+      answers: 1
+      questions: 1
+      attempts: 11
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 5
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9711044:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9714017:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9716007:
+    Wh:
+      answers: 2
+      questions: 2
+      attempts: 5
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9722006:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 3
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 6
+      questions: 10
+      attempts: 11
+  U9742031:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9822143:
+    Wh:
+      answers: 2
+      questions: 2
+      attempts: 11
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U9822148:
+    Wh:
+      answers: 2
+      questions: 3
+      attempts: 10
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: 0
+      questions: 1
+      attempts: 1
