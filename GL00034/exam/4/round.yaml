@@ -5,34 +5,30 @@ questions:
   - 10
 pass: 5
 assistant:
-  - Vicky
-  - Annie
 absent:
-  - Roy
+  - Max
+  - Ian
+  - Mike2
+  - Jimmy
 text: /home/drbean/class/conversation/work/cards.yaml
 activity:
   smallwood:
-    0:
-      - Gray
-  abreu:
-    0:
-      - Black
+    1:
+      - Green
   jackson:
-    0:
-      - Pink
+    1:
+      - Black
+      - Red
 group:
   Black:
-    - Dalai
-    - Kenni
-    - Daisy
-    - Vicky
-  Gray:
-    - Vivi
-    - Annie
-    - Julie
-    - Si-Yu
-  Pink:
-    - Daniel
-    - Annie
-    - Emily
-    - Vicky
+    - Sheena
+    - Mike1
+    - Tina
+  Green:
+    - R-kai
+    - Amy
+    - Simon
+  Red:
+    - Charlie
+    - Jason
+    - Kimberly
