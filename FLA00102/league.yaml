@@ -14,6 +14,12 @@ id: 001FLA0010
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+  - Chinese: 郭芳萱
+    id: V9841033
+    name: Amber
+    password: fang
+    rating: 36
+
   - Chinese: 劉茹芬
     id: N9661749
     name: Chelsea
@@ -151,12 +157,6 @@ out:
     name: Jielun
     password: jie
     rating: 38
-
-  - Chinese: 郭芳萱
-    id: V9841033
-    name: Amber
-    password: fang
-    rating: 36
 
   - Chinese: 陳乙瑄
     id: V9941025
