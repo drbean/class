@@ -14,6 +14,11 @@ id: 001FLA0010
 jigsaw: exam
 league: 夜應外大學二甲
 member:
+  - Chinese: 劉茹芬
+    id: N9661749
+    name: Chelsea
+    password: ru
+    rating: 64
   - Chinese: 陳昱樺
     id: V9724004
     name: Nancy
@@ -141,11 +146,6 @@ out:
     name: Joe
     password: zhi
     rating: 72
-  - Chinese: 劉茹芬
-    id: N9661749
-    name: Chelsea
-    password: ru
-    rating: 64
   - Chinese: 何杰倫
     id: V9941016
     name: Jielun
