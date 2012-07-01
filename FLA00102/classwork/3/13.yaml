@@ -1,0 +1,36 @@
+---
+Orange:
+  absent: 
+  merits: 3
+Black:
+  absent:
+  merits: 2
+
+Blue:
+  absent: 
+    - Vicki
+    - Nini
+    - Joe
+  merits: 0
+
+Brown:
+  absent: 
+  merits: 3
+Green:
+  absent:
+    - Travis
+  merits: 2
+
+Gray:
+  absent: 
+  merits: 3
+Red:
+  absent: 
+  merits: 2
+
+Pink:
+  absent: 
+  merits: 2
+Purple:
+  absent:
+  merits: 3
