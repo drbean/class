@@ -12,6 +12,26 @@ id: 002GL00034
 jigsaw: exam
 league: 日語文共同學制虛擬班二乙
 member:
+  - Chinese: 王中奕
+    name: Ian
+    password: zhong
+    id: U9931123
+    rating: ~
+  - Chinese: 吳思賢
+    id: U9914051
+    name: Mike2
+    password: si
+    rating: ~
+  - Chinese: 葉金鳳
+    id: U9742015
+    name: 葉金鳳
+    password: jin
+    rating: ~
+  - Chinese: 施建宗
+    name: Aison
+    password: jian
+    id: T9821041
+    rating: ~
   - Chinese: 陳高君
     name: Charlie
     password: gao
@@ -74,25 +94,10 @@ member:
     password: ya
     rating: 80
 out:
-  - Chinese: 吳思賢
-    id: U9914051
-    name: Mike2
-    password: si
-    rating: ~
-  - Chinese: 王中奕
-    name: Ian
-    password: zhong
-    id: U9931123
-    rating: ~
   - Chinese: 李佩珊
     name: PeiShan
     password: pei
     id: U9918041
-    rating: ~
-  - Chinese: 施建宗
-    name: Aison
-    password: jian
-    id: T9821041
     rating: ~
   - Chinese: 蔣秉書
     id: U9818035
@@ -168,11 +173,6 @@ out:
     id: U9716058
     name: 陳桂蓉
     password: jia
-    rating: ~
-  - Chinese: 葉金鳳
-    id: U9742015
-    name: 葉金鳳
-    password: jin
     rating: ~
   - Chinese: 李偉承
     id: U9816051
