@@ -1,0 +1,158 @@
+---
+activity:
+  cars:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+  citrus:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+  internet:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+group:
+  0:
+    White: U9934015
+    Black: T9833024
+  1:
+    White: U9934048
+    Black: U9934006
+  2:
+    White: U9934027
+    Black: U9934026
+  3:
+    White: U9934036
+    Black: U9934044
+  4:
+    White: U9934019
+    Black: U9934012
+  5:
+    White: U9913132
+    Black: U9934031
+  6:
+    White: U9934023
+    Black: U9934004
+  7:
+    White: U9934003
+    Black: U9934002
+  8:
+    White: U9934013
+    Black: U9934047
+  9:
+    White: U9934037
+    Black: U9934011
+  10:
+    White: U9934051
+    Black: U9934025
+  11:
+    White: U9934020
+    Black: U9934033
+  12:
+    White: U9934029
+    Black: U9934007
+  13:
+    White: U9934021
+    Black: U9934046
+  14:
+    White: U9934005
+    Black: U9934010
+  15:
+    White: U9934028
+    Black: T9833008
+  16:
+    White: U9934040
+    Black: U9934016
+  17:
+    White: U9934022
+    Black: U9934009
+  18:
+    White: U9933147
+    Black: U9934032
+  19:
+    White: U9934043
+    Black: U9934030
+  20:
+    White: U9934039
+    Black: U9934045
+  21:
+    White: U9934050
+    Black: U9934024
+  22:
+    White: U9816024
+    Black: U9934017
+assistant:
+  U9934034: 5
+  U9934001: 5
+  U9934038: 5
+bye: T9833026
+late:
+  - T9833026
+pairing: swiss
+round: 16
+text: /home/drbean/class/business/greatideas/cards.yaml
+week: 18

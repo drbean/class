@@ -1,0 +1,103 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 5
+assistant: 
+  - Reese
+  - Sherry
+absent: 
+text: /home/drbean/class/business/newbusiness/cards.yaml
+activity:
+  huang:
+    000:
+      - BlackBlack
+      - BlueBlue
+      - GrayGray
+      - Green
+    111:
+      - Gray
+      - Orange
+      - Red
+      - Yellow
+    222:
+      - Blue
+      - Pink
+      - Purple
+      - White
+    333:
+      - Black
+      - Brown
+      - BrownBrown
+      - GreenGreen
+      - OrangeOrange
+group:
+  Black:
+    - John
+    - Robin
+    - Carol
+  BlackBlack:
+    - Jennifer
+    - Bob
+    - Bill
+  Blue:
+    - Jack1
+    - Julie
+    - Celia
+  BlueBlue:
+    - Shirley
+    - Tommy
+    - Carrie
+  Brown:
+    - Dalai
+    - Emily
+    - Reese
+  BrownBrown:
+    - Amy1
+    - Daisy
+    - Lynn
+  Gray:
+    - Jack2
+    - Kate
+    - Annie
+  GrayGray:
+    - Joe
+    - Johnson
+    - Orton
+  Green:
+    - Jason
+    - Amy2
+    - Andy
+  GreenGreen:
+    - Ezra
+    - Doris
+    - Reese
+  Orange:
+    - Sam1
+    - Betty1
+    - Maggie
+  OrangeOrange:
+    - Diana
+    - Jill
+    - Sherry
+  Pink:
+    - Eileen
+    - Lion
+    - Sherry
+  Purple:
+    - Justin
+    - Jeff
+    - Jerry
+  Red:
+    - Larry
+    - Abby
+    - Paul
+  White:
+    - Ting
+    - Jay1
+    - Kelly
+  Yellow:
+    - Cindy
+    - Betty2
+    - Evan
