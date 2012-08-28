@@ -1,266 +1,264 @@
 ---
 absent: ~
 active: ~
-anterior: FIA0012
+anterior: 002FIA0034
 approach: GroupworkNoFault
-compcomp: comp
 classMax: 3
+compcomp: comp
 examMax: 5
 exams: exam
 field: 商用英文實務(一)
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 002FIA0034
+id: 002FIA0033
 jigsaw: exam
 league: 日財金大學二甲
 member:
-  - Chinese: 邱宇懷
-    name: John
-    password: yu
-    id: U9734051
+  - Chinese: 施凱清
+    id: U0031032
+    name: 施凱清
+    password: ~
     rating: ~
-  
-  - Chinese: 陳受恩
-    id: U9834017
-    name: Ezra
-    password: shou
-    rating: 58
-
-  - Chinese: 李姿儀
-    id: U9913132
-    name: Cindy
-    password: zi
-    rating: 72
-  - Chinese: 張婷婷
-    id: U9933147
-    name: Ting
-    password: ting
-    rating: 82
-  - Chinese: 何宜軒
-    id: U9934001
-    name: Amy1
-    password: yi
-    rating: 65
-  - Chinese: 吳佳蓉
-    id: U9934002
-    name: Julie
-    password: jia
-    rating: 71
-  - Chinese: 劉冠伶
-    id: U9934003
-    name: Emily
-    password: guan
-    rating: 76
+  - Chinese: 呂冠儀
+    id: U0031046
+    name: 呂冠儀
+    password: ~
+    rating: ~
+  - Chinese: 林嘉浚
+    id: U0034001
+    name: 林嘉浚
+    password: ~
+    rating: ~
+  - Chinese: 曾韋穎
+    id: U0034002
+    name: 曾韋穎
+    password: ~
+    rating: ~
+  - Chinese: 鄭怡文
+    id: U0034003
+    name: 鄭怡文
+    password: ~
+    rating: ~
+  - Chinese: 黎政輝
+    id: U0034004
+    name: 黎政輝
+    password: ~
+    rating: ~
+  - Chinese: '?雅瑄'
+    id: U0034005
+    name: '?雅瑄'
+    password: ~
+    rating: ~
+  - Chinese: 徐俊銘
+    id: U0034006
+    name: 徐俊銘
+    password: ~
+    rating: ~
+  - Chinese: 郭紓翎
+    id: U0034007
+    name: 郭紓翎
+    password: ~
+    rating: ~
+  - Chinese: 吳宜蓁
+    id: U0034008
+    name: 吳宜蓁
+    password: ~
+    rating: ~
+  - Chinese: 李明瑋
+    id: U0034009
+    name: 李明瑋
+    password: ~
+    rating: ~
+  - Chinese: 詹雅萍
+    id: U0034010
+    name: 詹雅萍
+    password: ~
+    rating: ~
+  - Chinese: 鐘曉琪
+    id: U0034011
+    name: 鐘曉琪
+    password: ~
+    rating: ~
+  - Chinese: 曾婉琳
+    id: U0034012
+    name: 曾婉琳
+    password: ~
+    rating: ~
+  - Chinese: 洪汶鈴
+    id: U0034013
+    name: 洪汶鈴
+    password: ~
+    rating: ~
+  - Chinese: 劉怡儂
+    id: U0034014
+    name: 劉怡儂
+    password: ~
+    rating: ~
+  - Chinese: 杜泳慶
+    id: U0034015
+    name: 杜泳慶
+    password: ~
+    rating: ~
+  - Chinese: 李奕潤
+    id: U0034016
+    name: 李奕潤
+    password: ~
+    rating: ~
+  - Chinese: 劉侑銘
+    id: U0034017
+    name: 劉侑銘
+    password: ~
+    rating: ~
+  - Chinese: 吳品慧
+    id: U0034023
+    name: 吳品慧
+    password: ~
+    rating: ~
+  - Chinese: 吳紹琪
+    id: U0034024
+    name: 吳紹琪
+    password: ~
+    rating: ~
+  - Chinese: '?暄祺'
+    id: U0034025
+    name: '?暄祺'
+    password: ~
+    rating: ~
+  - Chinese: 謝東穎
+    id: U0034026
+    name: 謝東穎
+    password: ~
+    rating: ~
+  - Chinese: 程沛誠
+    id: U0034027
+    name: 程沛誠
+    password: ~
+    rating: ~
+  - Chinese: 施昱廷
+    id: U0034028
+    name: 施昱廷
+    password: ~
+    rating: ~
+  - Chinese: 黃元儒
+    id: U0034029
+    name: 黃元儒
+    password: ~
+    rating: ~
+  - Chinese: 邱于惠
+    id: U0034030
+    name: 邱于惠
+    password: ~
+    rating: ~
+  - Chinese: 范智凱
+    id: U0034031
+    name: 范智凱
+    password: ~
+    rating: ~
+  - Chinese: 蔣若瑜
+    id: U0034032
+    name: 蔣若瑜
+    password: ~
+    rating: ~
+  - Chinese: 吳育茜
+    id: U0034033
+    name: 吳育茜
+    password: ~
+    rating: ~
+  - Chinese: 林慈虹
+    id: U0034034
+    name: 林慈虹
+    password: ~
+    rating: ~
+  - Chinese: 邱瓊誼
+    id: U0034035
+    name: 邱瓊誼
+    password: ~
+    rating: ~
+  - Chinese: 李昱蒨
+    id: U0034036
+    name: 李昱蒨
+    password: ~
+    rating: ~
+  - Chinese: 李姿蓓
+    id: U0034037
+    name: 李姿蓓
+    password: ~
+    rating: ~
+  - Chinese: 陳思樺
+    id: U0034038
+    name: 陳思樺
+    password: ~
+    rating: ~
+  - Chinese: 潘奕衡
+    id: U0034040
+    name: 潘奕衡
+    password: ~
+    rating: ~
+  - Chinese: 張瑞鴻
+    id: U0034042
+    name: 張瑞鴻
+    password: ~
+    rating: ~
+  - Chinese: 王溦孜
+    id: U0034043
+    name: 王溦孜
+    password: ~
+    rating: ~
+  - Chinese: 李政億
+    id: U0034044
+    name: 李政億
+    password: ~
+    rating: ~
+  - Chinese: 戴瑛成
+    id: U0034045
+    name: 戴瑛成
+    password: ~
+    rating: ~
+  - Chinese: 蔡雨靜
+    id: U0034046
+    name: 蔡雨靜
+    password: ~
+    rating: ~
+  - Chinese: 謝旻吟
+    id: U0034049
+    name: 謝旻吟
+    password: ~
+    rating: ~
+  - Chinese: 陳怡安
+    id: U0034050
+    name: 陳怡安
+    password: ~
+    rating: ~
+  - Chinese: 黃品?
+    id: U0034051
+    name: 黃品?
+    password: ~
+    rating: ~
+  - Chinese: 柯承佑
+    id: U0034055
+    name: 柯承佑
+    password: ~
+    rating: ~
+  - Chinese: 林金隆
+    id: U0034056
+    name: 林金隆
+    password: ~
+    rating: ~
+  - Chinese: 洪暉堯
+    id: U9834018
+    name: 洪暉堯
+    password: ~
+    rating: ~
+  - Chinese: 胡珮津
+    id: U9933033
+    name: 胡珮津
+    password: ~
+    rating: ~
   - Chinese: 陳欣愉
     id: U9934004
-    name: Sherry
-    password: xin
-    rating: 59
-  - Chinese: 張耿瑄
-    id: U9934005
-    name: Kate
-    password: geng
-    rating: 75
-  - Chinese: 黃馨儀
-    id: U9934006
-    name: Celia
-    password: xin
-    rating: 72
-  - Chinese: 黃柏蒼
-    id: U9934007
-    name: Robin
-    password: bo
-    rating: 78
-  - Chinese: 邱竹菁
-    id: U9934009
-    name: Abby
-    password: zhu
-    rating: 79
-  - Chinese: 黃揚智
-    id: U9934010
-    name: Bill
-    password: yang
-    rating: 73
-  - Chinese: 吳承遠
-    id: U9934011
-    name: Andy
-    password: cheng
-    rating: 69
-  - Chinese: 蔡宜霖
-    id: U9934012
-    name: Betty1
-    password: yi
-    rating: 75
-  - Chinese: 林君諺
-    id: U9934013
-    name: Jack1
-    password: jun
-    rating: 63
-  - Chinese: 謝英蔚
-    id: U9934015
-    name: Paul
-    password: ying
-    rating: 75
-  - Chinese: 鄭文良
-    id: U9934016
-    name: Orton
-    password: wen
-    rating: 73
-  - Chinese: 周上智
-    id: U9934017
-    name: Tommy
-    password: shang
-    rating: 84
-  - Chinese: 李嘉于
-    id: U9934019
-    name: Lion
-    password: jia
-    rating: 66
-  - Chinese: 賴偉智
-    id: U9934020
-    name: Larry
-    password: wei
-    rating: 80
-  - Chinese: 葉偉君
-    id: U9934021
-    name: Daisy
-    password: wei
-    rating: 72
-  - Chinese: 劉羿妏
-    id: U9934022
-    name: Evan
-    password: yi
-    rating: 75
-  - Chinese: 蘇梨茵
-    id: U9934023
-    name: Lynn
-    password: li
-    rating: 72
-  - Chinese: 賴振加
-    id: U9934024
-    name: Jay1
-    password: zhen
-    rating: 72
-  - Chinese: 韓偲羽
-    id: U9934025
-    name: Annie
-    password: si
-    rating: 80
-  - Chinese: 周孝峰
-    id: U9934026
-    name: Sam1
-    password: xiao
-    rating: 56
-  - Chinese: 李孟羲
-    id: U9934027
-    name: Joe
-    password: meng
-    rating: 73
-  - Chinese: 莊韻儒
-    id: U9934028
-    name: Kelly
-    password: yun
-    rating: 79
-  - Chinese: 呂宗翰
-    id: U9934029
-    name: Justin
-    password: zong
-    rating: 71
-  - Chinese: 謝佳茹
-    id: U9934030
-    name: Shirley
-    password: jia
-    rating: 74
-  - Chinese: 陳嘉莉
-    id: U9934031
-    name: Carrie
-    password: jia
-    rating: 72
-  - Chinese: 楊毅
-    id: U9934032
-    name: Jerry
-    password: yi
-    rating: 72
-  - Chinese: 陳民憲
-    id: U9934033
-    name: Johnson
-    password: min
-    rating: 74
-  - Chinese: 吳敏意
-    id: U9934034
-    name: Betty2
-    password: min
-    rating: 70
-  - Chinese: 余佳穎
-    id: U9934036
-    name: Jennifer
-    password: jia
-    rating: 74
-  - Chinese: 陳美蓁
-    id: U9934037
-    name: Maggie
-    password: mei
-    rating: 76
-  - Chinese: 楊玉如
-    id: U9934038
-    name: Diana
-    password: yu
-    rating: 79
-  - Chinese: 廖柏彥
-    id: U9934039
-    name: Bob
-    password: bo
-    rating: 81
-  - Chinese: 楊詠?
-    id: U9934040
-    name: Jill
-    password: yong
-    rating: 79
-  - Chinese: 薛詠尹
-    id: U9934043
-    name: Carol
-    password: yong
-    rating: 70
-  - Chinese: 吳儀萱
-    id: U9934044
-    name: Amy2
-    password: yi
-    rating: 72
-  - Chinese: 陳珮瑜
-    id: U9934045
-    name: Reese
-    password: pei
-    rating: 80
-  - Chinese: 呂政遠
-    id: U9934046
-    name: Jeff
-    password: zheng
-    rating: 63
-  - Chinese: 李祐承
-    id: U9934047
-    name: Jack2
-    password: you
-    rating: 66
-  - Chinese: 梁佑銘
-    id: U9934048
-    name: Jason
-    password: you
-    rating: 62
-  - Chinese: 賴冠臻
-    id: U9934050
-    name: Doris
-    password: guan
-    rating: 80
-  - Chinese: 尤欣洋
-    id: U9934051
-    name: Dalai
-    password: xin
-    rating: 73
-  - Chinese: 陳韋廷
-    id: U9934052
-    name: Eileen
-    password: wei
+    name: 陳欣愉
+    password: ~
     rating: ~
 out: ~
 room: A705
