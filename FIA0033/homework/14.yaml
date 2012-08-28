@@ -1,0 +1,203 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: huang_vision
+grade:
+  U9734051: 2
+  U9834017: 0
+  U9913132: 2
+  U9933147: 2
+  U9934001: 1
+  U9934002: 0
+  U9934003: 2
+  U9934004: 2
+  U9934005: 2
+  U9934006: 2
+  U9934007: 2
+  U9934009: 2
+  U9934010: 2
+  U9934011: 2
+  U9934012: 2
+  U9934013: 1
+  U9934015: 2
+  U9934016: 2
+  U9934017: 2
+  U9934019: 2
+  U9934020: 2
+  U9934021: 2
+  U9934022: 2
+  U9934023: 2
+  U9934024: 2
+  U9934025: 2
+  U9934026: 2
+  U9934027: 2
+  U9934028: 0
+  U9934029: 0
+  U9934030: 2
+  U9934031: 2
+  U9934032: 2
+  U9934033: 2
+  U9934034: 2
+  U9934036: 2
+  U9934037: 2
+  U9934038: 2
+  U9934039: 2
+  U9934040: 2
+  U9934043: 2
+  U9934044: 2
+  U9934045: 2
+  U9934046: 2
+  U9934047: 2
+  U9934048: 2
+  U9934050: 2
+  U9934051: 2
+  U9934052: 2
+points:
+  U9734051:
+    letters: 368
+    percent: 100
+  U9834017:
+    letters: 0
+    percent: 0
+  U9913132:
+    letters: 417
+    percent: 100
+  U9933147:
+    letters: 434
+    percent: 100
+  U9934001:
+    letters: 172
+    percent: 45
+  U9934002:
+    letters: 75
+    percent: 18
+  U9934003:
+    letters: 403
+    percent: 100
+  U9934004:
+    letters: 387
+    percent: 100
+  U9934005:
+    letters: 444
+    percent: 100
+  U9934006:
+    letters: 413
+    percent: 100
+  U9934007:
+    letters: 418
+    percent: 100
+  U9934009:
+    letters: 437
+    percent: 100
+  U9934010:
+    letters: 378
+    percent: 100
+  U9934011:
+    letters: 400
+    percent: 97
+  U9934012:
+    letters: 375
+    percent: 100
+  U9934013:
+    letters: 104
+    percent: 27
+  U9934015:
+    letters: 414
+    percent: 100
+  U9934016:
+    letters: 401
+    percent: 100
+  U9934017:
+    letters: 381
+    percent: 100
+  U9934019:
+    letters: 368
+    percent: 85
+  U9934020:
+    letters: 385
+    percent: 100
+  U9934021:
+    letters: 385
+    percent: 100
+  U9934022:
+    letters: 445
+    percent: 98
+  U9934023:
+    letters: 419
+    percent: 100
+  U9934024:
+    letters: 373
+    percent: 90
+  U9934025:
+    letters: 443
+    percent: 100
+  U9934026:
+    letters: 447
+    percent: 99
+  U9934027:
+    letters: 445
+    percent: 100
+  U9934028:
+    letters: 0
+    percent: 0
+  U9934029:
+    letters: 0
+    percent: 0
+  U9934030:
+    letters: 400
+    percent: 100
+  U9934031:
+    letters: 369
+    percent: 100
+  U9934032:
+    letters: 386
+    percent: 91
+  U9934033:
+    letters: 396
+    percent: 100
+  U9934034:
+    letters: 452
+    percent: 100
+  U9934036:
+    letters: 431
+    percent: 100
+  U9934037:
+    letters: 383
+    percent: 100
+  U9934038:
+    letters: 432
+    percent: 100
+  U9934039:
+    letters: 439
+    percent: 100
+  U9934040:
+    letters: 457
+    percent: 100
+  U9934043:
+    letters: 426
+    percent: 100
+  U9934044:
+    letters: 426
+    percent: 100
+  U9934045:
+    letters: 444
+    percent: 100
+  U9934046:
+    letters: 398
+    percent: 99
+  U9934047:
+    letters: 400
+    percent: 97
+  U9934048:
+    letters: 440
+    percent: 100
+  U9934050:
+    letters: 405
+    percent: 100
+  U9934051:
+    letters: 395
+    percent: 100
+  U9934052:
+    letters: 361
+    percent: 100

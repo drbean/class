@@ -1,0 +1,66 @@
+---
+# Good and Bad groups
+
+Black:
+  absent: 
+  merits: 3
+Blue:
+  absent: 
+  merits: 2
+
+Brown:
+  absent: 
+  merits: 3
+Gray:
+  absent: 
+  merits: 2
+
+Green:
+  absent: 
+  merits: 2
+Orange:
+  absent: 
+  merits: 3
+
+Pink:
+  absent: 
+  merits: 2
+Purple:
+  absent:
+    - Paul
+  merits: 2
+
+Red:
+  absent: 
+    - Lynn
+  merits: 2
+White:
+  absent: 
+  merits: 2
+
+Yellow:
+  absent: 
+  merits: 3
+BlackBlack:
+  absent: 
+  merits: 2
+
+BlueBlue:
+  absent: 
+    - Amy2
+  merits: 2
+BrownBrown:
+  absent: 
+  merits: 2
+
+GrayGray:
+  absent: 
+    - Jason
+  merits: 2
+GreenGreen:
+  absent: 
+  merits: 2
+
+# assistants
+OrangeOrange:
+  merits: 3

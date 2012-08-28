@@ -1,0 +1,93 @@
+---
+activity:
+  cars:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 20
+      - 21
+      - 23
+group:
+  0:
+    White: U9934024
+    Black: U9934013
+  1:
+    White: U9934043
+    Black: U9934047
+  2:
+    White: U9934046
+    Black: T9833026
+  3:
+    White: U9934029
+    Black: U9934032
+  4:
+    White: U9934026
+    Black: U9934050
+  5:
+    White: U9934034
+    Black: U9934023
+  6:
+    White: U9913132
+    Black: U9934010
+  8:
+    White: U9934051
+    Black: U9934019
+  9:
+    White: U9934012
+    Black: U9934006
+  10:
+    White: U9934028
+    Black: U9934001
+  11:
+    White: U9934020
+    Black: U9934016
+  12:
+    White: U9816024
+    Black: U9934030
+  13:
+    White: U9934038
+    Black: U9934005
+  14:
+    White: U9934027
+    Black: U9934015
+  15:
+    White: U9934003
+    Black: U9934045
+  16:
+    White: U9934031
+    Black: U9934033
+  17:
+    White: U9934036
+    Black: U9934025
+  18:
+    White: U9934022
+    Black: U9934007
+  20:
+    White: U9934037
+    Black: U9934002
+  21:
+    White: U9934040
+    Black: U9934039
+  23:
+    White: U9934017
+    Black: U9934009
+pairing: swiss ( repeat of round 12, not being shown at web, with password problem)
+round: 13
+text: /home/drbean/class/business/greatideas/cards.yaml
+week: 15

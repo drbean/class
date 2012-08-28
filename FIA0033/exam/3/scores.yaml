@@ -1,0 +1,105 @@
+---
+Chinese:
+  Black: 0
+  BlackBlack: 0
+  Blue: 0
+  BlueBlue: 0
+  Brown: 0
+  BrownBrown: 0
+  Gray: 0
+  GrayGray: 0
+  Green: 0
+  GreenGreen: 0
+  Orange: 0
+  OrangeOrange: 0
+  Pink: 0
+  Purple: 0
+  Red: 0
+  White: 0
+  Yellow: 0
+letters:
+  Black:
+    U9934029: 7
+    U9913132: 7
+    U9934043: 7
+    story: kendall11
+  BlackBlack:
+    U9734051: 4
+    U9934021: 3
+    U9934045: 4
+    story: kendall33
+  Blue:
+    U9934047: 5
+    U9934032: 6
+    U9934028: 3
+    story: kendall11
+  BlueBlue:
+    U9934007: 5
+    U9934044: 6
+    U9934010: 4
+    story: kendall22
+  Brown:
+    U9934016: 4
+    U9933147: 5
+    U9934024: 6
+    story: kendall11
+  BrownBrown:
+    U9934020: 9
+    U9934046: 4
+    U9934009: 4
+    story: kendall11
+  Gray:
+    U9934031: 5
+    U9934017: 4
+    U9934005: 5
+    story: kendall11
+  GrayGray:
+    U9934052: 10
+    U9934048: 10
+    U9934006: 10
+    story: kendall33
+  Green:
+    U9934034: 5
+    U9934033: 3
+    U9934022: 4
+    story: kendall22
+  GreenGreen:
+    U9934013: 8
+    U9934011: 7
+    U9934027: 8
+    story: kendall22
+  Orange:
+    U9934038: 7
+    U9934001: 7
+    U9934002: 7
+    story: kendall33
+  OrangeOrange:
+    U9934030: 6
+    U9934040: 6
+    U9934001: 7
+    story: kendall11
+  Pink:
+    U9934026: 9
+    U9934003: 10
+    U9934025: 9
+    story: kendall33
+  Purple:
+    U9934019: 3
+    U9934012: 5
+    U9934015: 5
+    story: kendall22
+  Red:
+    U9934051: 7
+    U9934023: 5
+    U9934027: 6
+    story: kendall22
+  White:
+    U9834017: 6
+    U9934039: 6
+    U9934037: 7
+    story: kendall33
+  Yellow:
+    U9934004: 6
+    U9934036: 6
+    U9934050: 6
+    story: kendall22

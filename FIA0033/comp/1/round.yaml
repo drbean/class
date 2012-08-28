@@ -1,0 +1,152 @@
+---
+activity:
+  stress:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+  adventure:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+group:
+  0:
+    White: U9734051
+    Black: U9934010
+  1:
+    White: U9934030
+    Black: U9934052
+  2:
+    White: U9934026
+    Black: U9934033
+  3:
+    White: U9934036
+    Black: U9834017
+  4:
+    White: U9934048
+    Black: U9934015
+  5:
+    White: U9934005
+    Black: U9934046
+  6:
+    White: U9934013
+    Black: U9934022
+  7:
+    White: U9934012
+    Black: U9934001
+  8:
+    White: U9934047
+    Black: U9934037
+  9:
+    White: U9934003
+    Black: U9934011
+  10:
+    White: U9934043
+    Black: U9934007
+  11:
+    White: U9934028
+    Black: U9934029
+  12:
+    White: U9934038
+    Black: U9934002
+  13:
+    White: U9934023
+    Black: U9934009
+  14:
+    White: U9934045
+    Black: U9934024
+  15:
+    White: U9934021
+    Black: U9934020
+  16:
+    White: U9913132
+    Black: U9934025
+  17:
+    White: U9934039
+    Black: U9934044
+  18:
+    White: U9934051
+    Black: U9933147
+  19:
+    White: U9934017
+    Black: U9934027
+  20:
+     White: U9934016
+     Black: U9934031
+assistant:
+  BlueBlue:
+    U9934004: 4
+    U9934032: 4
+    U9934050: 4
+  GreenGreen:
+    U9934019: 5
+    U9934006: 5
+    U9934040: 5
+bye: U9934034  
+late:
+  - U9934034
+  - U9934031
+  - U9934016
+pairing: swiss adjusted
+round: 1
+text: /home/drbean/class/business/stress/cards.yaml
+week: 5

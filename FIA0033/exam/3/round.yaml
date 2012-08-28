@@ -1,0 +1,102 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 10
+pass: 5
+assistant: 
+  - Amy1
+  - Joe
+absent: 
+text: /home/drbean/class/business/planning/cards.yaml
+activity:
+  kendall:
+    11:
+      - Black
+      - Blue
+      - Brown
+      - BrownBrown
+      - Gray
+      - OrangeOrange
+    22:
+      - BlueBlue
+      - Green
+      - GreenGreen
+      - Purple
+      - Red
+      - Yellow
+    33:
+      - BlackBlack
+      - GrayGray
+      - Orange
+      - Pink
+      - White
+group:
+  Black:
+    - Justin
+    - Cindy
+    - Carol
+  BlackBlack:
+    - John
+    - Daisy
+    - Reese
+  Blue:
+    - Jack2
+    - Jerry
+    - Kelly
+  BlueBlue:
+    - Robin
+    - Amy2
+    - Bill
+  Brown:
+    - Orton
+    - Ting
+    - Jay1
+  BrownBrown:
+    - Larry
+    - Jeff
+    - Abby
+  Gray:
+    - Carrie
+    - Tommy
+    - Kate
+  GrayGray:
+    - Eileen
+    - Jason
+    - Celia
+  Green:
+    - Betty2
+    - Johnson
+    - Evan
+  GreenGreen:
+    - Jack1
+    - Andy
+    - Joe
+  Orange:
+    - Diana
+    - Amy1
+    - Julie
+  OrangeOrange:
+    - Shirley
+    - Jill
+    - Amy1
+  Pink:
+    - Sam1
+    - Emily
+    - Annie
+  Purple:
+    - Lion
+    - Betty1
+    - Paul
+  Red:
+    - Dalai
+    - Lynn
+    - Joe
+  White:
+    - Ezra
+    - Bob
+    - Maggie
+  Yellow:
+    - Sherry
+    - Jennifer
+    - Doris

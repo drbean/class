@@ -1,0 +1,81 @@
+---
+activity:
+  citrus1:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 11
+      - 12
+      - 13
+      - 14
+      - 16
+      - 17
+      - 18
+      - 19
+group:
+  0:
+    White: U9934016
+    Black: U9934048
+  1:
+    White: U9934044
+    Black: U9934019
+  2:
+    White: U9934047
+    Black: U9934023
+  3:
+    White: U9913132
+    Black: U9934020
+  4:
+    White: U9934033
+    Black: U9934025
+  5:
+    White: U9934051
+    Black: U9934011
+  6:
+    White: U9934037
+    Black: U9934007
+  7:
+    White: U9933147
+    Black: U9934013
+  8:
+    White: T9833008
+    Black: U9934010
+  9:
+    White: U9934046
+    Black: U9934005
+  11:
+    White: U9934038
+    Black: U9934028
+  12:
+    White: U9934029
+    Black: U9934009
+  13:
+    White: U9934040
+    Black: U9934043
+  14:
+    White: U9816024
+    Black: U9934021
+  16:
+    White: U9934050
+    Black: U9934032
+  17:
+    White: U9934022
+    Black: U9934045
+  18:
+    White: U9934039
+    Black: U9934030
+  19:
+    White: U9934024
+    Black: U9934017
+pairing: swiss adjusted (bug? Or I included absent players?)
+round: 14
+text: /home/drbean/class/business/greatideas/cards.yaml
+week: 16
