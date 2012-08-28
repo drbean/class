@@ -1,7 +1,7 @@
 ---
 absent: ~
 active: ~
-anterior: BMA0059
+anterior: 002BMA0059
 approach: GroupworkNoFault
 classMax: 3
 compcomp: comp
@@ -11,7 +11,7 @@ field: 商用英文實務(一)
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 001BMA0058
+id: 011BMA0058
 jigsaw: exam
 league: 日經管大學二甲
 member:
