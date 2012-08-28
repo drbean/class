@@ -1,0 +1,54 @@
+---
+Black:
+  absent: 
+  merits:  3
+Blue:
+  absent:  
+  merits:  2
+
+Brown:
+  absent:  
+  merits:  2
+Gray:
+  absent:  
+  merits:  3
+
+Green:
+  absent:  
+  merits:  2
+Orange:
+  absent:  
+  merits:  2
+
+Pink:
+  absent:  
+  merits:  2
+Purple:
+  absent:
+  merits:  2
+
+Red:
+  absent:  
+  merits:  2
+White:
+  absent:  
+  merits:  2
+
+Yellow:
+  absent:  
+  merits:  3
+BlackBlack:
+  absent:  
+  merits:  2
+
+BlueBlue:
+  absent:  
+  merits:  3
+BrownBrown:
+  absent:  
+  merits:  2
+
+# assistant
+GrayGray:
+  absent:  
+  merits:  3

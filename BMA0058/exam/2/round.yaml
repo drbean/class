@@ -1,0 +1,92 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 5
+pass: 2
+assistant:
+absent:
+text: /home/drbean/class/business/marketing/cards.yaml
+activity:
+  water:
+    11:
+      - GrayGray
+      - Brown
+      - Orange
+    22:
+      - Purple
+      - Green
+    33:
+      - BlackBlack
+      - Yellow
+      - BlueBlue
+      - White
+    44:
+      - Pink
+      - Red
+      - Blue
+    55:
+      - Gray
+      - BrownBrown
+      - Black
+group:
+  Black:
+    - Harry
+    - Zara
+    - Jim
+  BlackBlack:
+    - Cindy
+    - Cathy
+    - Merlin
+  Blue:
+    - Lulu
+    - Peilin
+    - Will
+  BlueBlue:
+    - Jay
+    - Amy1
+    - Kathy
+  Brown:
+    - Rita
+    - Nora
+    - Angel
+  BrownBrown:
+    - Mandy
+    - Len
+    - Lisa
+  Gray:
+    - Helen
+    - Kimberly
+    - Amy4
+  GrayGray:
+    - Anting
+    - Jojo
+    - Kelly
+  Green:
+    - Amy3
+    - Willie
+    - Angeline
+  Orange:
+    - Flora
+    - YiChun
+    - Nina
+  Pink:
+    - Alice1
+    - Janet
+    - Jenny
+  Purple:
+    - Sheryl
+    - Laura
+    - Tina
+  Red:
+    - Linda
+    - Karen
+    - Jane
+  White:
+    - Robert
+    - Erin
+    - Jason
+  Yellow:
+    - Sandy1
+    - Kevin2
+    - Sandy2
