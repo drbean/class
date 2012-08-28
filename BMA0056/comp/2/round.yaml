@@ -1,0 +1,155 @@
+---
+activity:
+  sale:
+    banana2:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+    rice:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+    oil:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+    milk:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+group:
+  0:
+    White: T9833026
+    Black: U9931142
+  1:
+    White: U9931039
+    Black: U9931013
+  2:
+    White: U9931001
+    Black: U9931103
+  3:
+    White: U9931004
+    Black: U9931143
+  4:
+    White: U9931145
+    Black: U9931029
+  5:
+    White: U9931041
+    Black: U9931101
+  6:
+    White: U9931105
+    Black: U9931002
+  7:
+    White: U9931012
+    Black: U9931042
+  8:
+    White: U9931133
+    Black: U9931111
+  9:
+    White: U9931014
+    Black: U9931015
+  10:
+    White: U9931138
+    Black: U9931102
+  11:
+    White: U9931017
+    Black: U9931130
+  12:
+    White: U9931129
+    Black: U9931125
+  13:
+    White: U9931134
+    Black: U9931146
+  14:
+    White: U9931028
+    Black: U9931127
+  15:
+    White: U9931043
+    Black: U9931149
+  16:
+    White: U9931007
+    Black: U9931026
+  17:
+    White: U9931037
+    Black: U9931139
+  18:
+    White: U9931140
+    Black: U9931006
+bye: U9931032
+assistant:
+  BlueBlue:
+    T9833024: 4
+    U9931025: 4
+    U9931003: 4
+  BlackBlack:
+    U9931034: 5
+    U9931109: 5
+    U9931110: 5
+pairing: apache not granted permission on swiss002, so round 1 shown.
+round: 2
+text: /home/drbean/class/business/marketing/cards.yaml
+week: 9

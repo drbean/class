@@ -1,0 +1,90 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 10
+pass: 5
+assistant: 
+absent: 
+text: /home/drbean/class/business/planning/cards.yaml
+activity:
+  kendall:
+    11:
+      - Blue
+      - Brown
+      - Orange
+      - Red
+      - Yellow
+    22:
+      - BlackBlack
+      - BrownBrown
+      - GrayGray
+      - Purple
+      - White
+    33:
+      - Black
+      - BlueBlue
+      - Gray
+      - Green
+      - Pink
+group:
+  Black:
+    - Harry
+    - Karen
+    - Jim
+  BlackBlack:
+    - Linda
+    - Peilin
+    - Tina
+  Blue:
+    - Lulu
+    - Amy4
+    - Angeline
+  BlueBlue:
+    - Erin
+    - Alice1
+    - Lisa
+  Brown:
+    - Rita
+    - Kevin2
+    - Will
+  BrownBrown:
+    - Jay
+    - Cathy
+    - Zara
+  Gray:
+    - Helen
+    - YiChun
+    - Angel
+  GrayGray:
+    - Anting
+    - Nora
+    - Jason
+  Green:
+    - Flora
+    - Laura
+    - Jenny
+  Orange:
+    - Cindy
+    - Len
+    - Jane
+  Pink:
+    - Amy3
+    - Amy1
+    - Nina
+  Purple:
+    - Jojo
+    - Janet
+    - Sandy2
+  Red:
+    - Robert
+    - Mandy
+    - Kimberly
+  White:
+    - Willie
+    - Kathy
+    - Kelly
+  Yellow:
+    - Sheryl
+    - Sandy1
+    - Merlin

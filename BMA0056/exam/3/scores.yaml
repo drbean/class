@@ -1,0 +1,93 @@
+---
+Chinese:
+  Black: 0
+  BlackBlack: 0
+  Blue: 0
+  BlueBlue: 0
+  Brown: 0
+  BrownBrown: 0
+  Gray: 0
+  GrayGray: 1
+  Green: 0
+  Orange: 0
+  Pink: 0
+  Purple: 1
+  Red: 0
+  White: 0
+  Yellow: 0
+letters:
+  Black:
+    T9833026: 3
+    U9931029: 3
+    U9931125: 3
+    story: kendall33
+  BlackBlack:
+    U9931139: 9
+    U9931127: 9
+    U9931134: 9
+    story: kendall22
+  Blue:
+    U9931013: 6
+    U9931143: 7
+    U9931014: 5
+    story: kendall11
+  BlueBlue:
+    U9931145: 7
+    U9931028: 7
+    U9931130: 7
+    story: kendall33
+  Brown:
+    U9931032: 9
+    U9931102: 9
+    U9931140: 9
+    story: kendall11
+  BrownBrown:
+    T9833024: 5
+    U9931109: 5
+    U9931012: 5
+    story: kendall22
+  Gray:
+    U9931042: 4
+    U9931111: 4
+    U9931002: 4
+    story: kendall33
+  GrayGray:
+    U9931146: 3
+    U9931103: 4
+    U9931037: 4
+    story: kendall22
+  Green:
+    U9931129: 5
+    U9931026: 5
+    U9931101: 5
+    story: kendall33
+  Orange:
+    U9931034: 5
+    U9931015: 6
+    U9931039: 4
+    story: kendall11
+  Pink:
+    U9931133: 7
+    U9931025: 6
+    U9931007: 7
+    story: kendall33
+  Purple:
+    U9931041: 10
+    U9931017: 8
+    U9931142: 10
+    story: kendall22
+  Red:
+    U9931149: 8
+    U9931138: 9
+    U9931043: 10
+    story: kendall11
+  White:
+    U9931001: 3
+    U9931003: 3
+    U9931004: 3
+    story: kendall22
+  Yellow:
+    U9931006: 3
+    U9931105: 5
+    U9931110: 2
+    story: kendall11

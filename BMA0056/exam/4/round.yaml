@@ -1,0 +1,91 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 5
+assistant: 
+absent: 
+text: /home/drbean/class/business/newbusiness/cards.yaml
+activity:
+  huang:
+    000:
+      - BrownBrown
+      - Gray
+      - GrayGray
+      - Orange
+    111:
+      - Black
+      - BlackBlack
+      - Purple
+      - Red
+    222:
+      - Blue
+      - Brown
+      - Pink
+      - White
+    333:
+      - BlueBlue
+      - Green
+      - Yellow
+group:
+  Black:
+    - Harry
+    - Amy4
+    - Will
+  BlackBlack:
+    - Cindy
+    - Jenny
+    - Jim
+  Blue:
+    - Rita
+    - Kelly
+    - Peilin
+  BlueBlue:
+    - Linda
+    - Mandy
+    - Jane
+  Brown:
+    - Lulu
+    - Kevin2
+    - Merlin
+  BrownBrown:
+    - Alice1
+    - Robert
+    - Nina
+  Gray:
+    - Jojo
+    - Janet
+    - Erin
+  GrayGray:
+    - Nora
+    - Amy1
+    - Zara
+  Green:
+    - Flora
+    - Kimberly
+    - Lisa
+  Orange:
+    - Willie
+    - Kathy
+    - Angel
+  Pink:
+    - Anting
+    - Jay
+    - Sandy2
+  Purple:
+    - Amy3
+    - YiChun
+    - Tina
+  Red:
+    - Len
+    - Sandy1
+    - Jason
+  White:
+    - Helen
+    - Karen
+    - Cathy
+  Yellow:
+    - Laura
+    - Sheryl
+    - Angeline
