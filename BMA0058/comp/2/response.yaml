@@ -1,0 +1,584 @@
+---
+free:
+  0:
+    sale:
+      banana2:
+        T9833026:
+          point:
+            1: Returned
+        U9931142:
+          point:
+            1: Returned
+      rice:
+        T9833026:
+          point:
+            1: Returned
+        U9931142:
+          point:
+            1: Returned
+      oil:
+        T9833026:
+          point:
+            1: Nil
+        U9931142:
+          point:
+            1: Nil
+      milk:
+        T9833026:
+          point:
+            1: Returned
+        U9931142:
+          point:
+            1: Returned
+  1:
+    sale:
+      banana2:
+        U9931039:
+          point:
+            1: Returned
+        U9931013:
+          point:
+            1: Returned
+      rice:
+        U9931039:
+          point:
+            1: Returned
+        U9931013:
+          point:
+            1: Fault
+      oil:
+        U9931039:
+          point:
+            1: Nil
+        U9931013:
+          point:
+            1: Nil
+      milk:
+        U9931039:
+          point:
+            1: Returned
+        U9931013:
+          point:
+            1: Returned
+  2:
+    sale:
+      banana2:
+        U9931001:
+          point:
+            1: Returned
+        U9931103:
+          point:
+            1: Fault
+      rice:
+        U9931001:
+          point:
+            1: Returned
+        U9931103:
+          point:
+            1: Fault
+      oil:
+        U9931001:
+          point:
+            1: Nil
+        U9931103:
+          point:
+            1: Nil
+      milk:
+        U9931001:
+          point:
+            1: Returned
+        U9931103:
+          point:
+            1: Returned
+  3:
+    sale:
+      banana2:
+        U9931004:
+          point:
+            1: Returned
+        U9931143:
+          point:
+            1: Returned
+      rice:
+        U9931004:
+          point:
+            1: Returned
+        U9931143:
+          point:
+            1: Returned
+      oil:
+        U9931004:
+          point:
+            1: Nil
+        U9931143:
+          point:
+            1: Nil
+      milk:
+        U9931004:
+          point:
+            1: Nil
+        U9931143:
+          point:
+            1: Nil
+  4:
+    sale:
+      banana2:
+        U9931145:
+          point:
+            1: Nil
+        U9931029:
+          point:
+            1: Nil
+      rice:
+        U9931145:
+          point:
+            1: Nil
+        U9931029:
+          point:
+            1: Nil
+      oil:
+        U9931145:
+          point:
+            1: Fault
+            2: Returned
+        U9931029:
+          point:
+            1: Fault
+            2: Fault
+      milk:
+        U9931145:
+          point:
+            1: Nil
+        U9931029:
+          point:
+            1: Nil
+  5:
+    sale:
+      banana2:
+        U9931041:
+          point:
+            1: Nil
+        U9931101:
+          point:
+            1: Nil
+      rice:
+        U9931041:
+          point:
+            1: Returned
+        U9931101:
+          point:
+            1: Returned
+      oil:
+        U9931041:
+          point:
+            1: Returned
+        U9931101:
+          point:
+            1: Fault
+      milk:
+        U9931041:
+          point:
+            1: Nil
+        U9931101:
+          point:
+            1: Nil
+  6:
+    sale:
+      banana2:
+        U9931105:
+          point:
+            1: Fault
+        U9931002:
+          point:
+            1: Returned
+      rice:
+        U9931105:
+          point:
+            1: Nil
+        U9931002:
+          point:
+            1: Nil
+      oil:
+        U9931105:
+          point:
+            1: Returned
+        U9931002:
+          point:
+            1: Fault
+      milk:
+        U9931105:
+          point:
+            1: Nil
+        U9931002:
+          point:
+            1: Nil
+  7:
+    sale:
+      banana2:
+        U9931012:
+          point:
+            1: Fault
+            2: Fault
+        U9931042:
+          point:
+            1: Fault
+            2: Returned
+      rice:
+        U9931012:
+          point:
+            1: Nil
+        U9931042:
+          point:
+            1: Nil
+      oil:
+        U9931012:
+          point:
+            1: Nil
+        U9931042:
+          point:
+            1: Nil
+      milk:
+        U9931012:
+          point:
+            1: Nil
+        U9931042:
+          point:
+            1: Nil
+  8:
+    sale:
+      banana2:
+        U9931133:
+          point:
+            1: Returned
+            2: Returned
+        U9931111:
+          point:
+            1: Fault
+            2: Returned
+      rice:
+        U9931133:
+          point:
+            1: Returned
+        U9931111:
+          point:
+            1: Returned
+      oil:
+        U9931133:
+          point:
+            1: Returned
+        U9931111:
+          point:
+            1: Returned
+      milk:
+        U9931133:
+          point:
+            1: Nil
+        U9931111:
+          point:
+            1: Nil
+  9:
+    sale:
+      banana2:
+        U9931014:
+          point:
+            1: Nil
+        U9931015:
+          point:
+            1: Nil
+      rice:
+        U9931014:
+          point:
+            1: Returned
+            2: Returned
+        U9931015:
+          point:
+            1: Returned
+            2: Returned
+      oil:
+        U9931014:
+          point:
+            1: Nil
+        U9931015:
+          point:
+            1: Nil
+      milk:
+        U9931014:
+          point:
+            1: Nil
+        U9931015:
+          point:
+            1: Nil
+  10:
+    sale:
+      banana2:
+        U9931138:
+          point:
+            1: Nil
+        U9931102:
+          point:
+            1: Nil
+      rice:
+        U9931138:
+          point:
+            1: Returned
+        U9931102:
+          point:
+            1: Returned
+      oil:
+        U9931138:
+          point:
+            1: Returned
+        U9931102:
+          point:
+            1: Returned
+      milk:
+        U9931138:
+          point:
+            1: Returned
+        U9931102:
+          point:
+            1: Returned
+  11:
+    sale:
+      banana2:
+        U9931017:
+          point:
+            1: Fault
+        U9931130:
+          point:
+            1: Returned
+      rice:
+        U9931017:
+          point:
+            1: Nil
+        U9931130:
+          point:
+            1: Nil
+      oil:
+        U9931017:
+          point:
+            1: Nil
+        U9931130:
+          point:
+            1: Nil
+      milk:
+        U9931017:
+          point:
+            1: Returned
+        U9931130:
+          point:
+            1: Returned
+  12:
+    sale:
+      banana2:
+        U9931129:
+          point:
+            1: Returned
+            2: Returned
+        U9931125:
+          point:
+            1: Returned
+            2: Returned
+      rice:
+        U9931129:
+          point:
+            1: Nil
+        U9931125:
+          point:
+            1: Nil
+      oil:
+        U9931129:
+          point:
+            1: Nil
+        U9931125:
+          point:
+            1: Nil
+      milk:
+        U9931129:
+          point:
+            1: Nil
+        U9931125:
+          point:
+            1: Nil
+  13:
+    sale:
+      banana2:
+        U9931134:
+          point:
+            1: Nil
+        U9931146:
+          point:
+            1: Nil
+      rice:
+        U9931134:
+          point:
+            1: Fault
+        U9931146:
+          point:
+            1: Returned
+      oil:
+        U9931134:
+          point:
+            1: Nil
+        U9931146:
+          point:
+            1: Nil
+      milk:
+        U9931134:
+          point:
+            1: Returned
+        U9931146:
+          point:
+            1: Returned
+  14:
+    sale:
+      banana2:
+        U9931028:
+          point:
+            1: Returned
+        U9931127:
+          point:
+            1: Fault
+      rice:
+        U9931028:
+          point:
+            1: Returned
+        U9931127:
+          point:
+            1: Returned
+      oil:
+        U9931028:
+          point:
+            1: Nil
+        U9931127:
+          point:
+            1: Nil
+      milk:
+        U9931028:
+          point:
+            1: Nil
+        U9931127:
+          point:
+            1: Nil
+  15:
+    sale:
+      banana2:
+        U9931043:
+          point:
+            1: Nil
+        U9931149:
+          point:
+            1: Nil
+      rice:
+        U9931043:
+          point:
+            1: Returned
+            2: Returned
+        U9931149:
+          point:
+            1: Returned
+            2: Fault
+      oil:
+        U9931043:
+          point:
+            1: Nil
+        U9931149:
+          point:
+            1: Nil
+      milk:
+        U9931043:
+          point:
+            1: Nil
+        U9931149:
+          point:
+            1: Nil
+  16:
+    sale:
+      banana2:
+        U9931007:
+          point:
+            1: Nil
+        U9931026:
+          point:
+            1: Nil
+      rice:
+        U9931007:
+          point:
+            1: Returned
+        U9931026:
+          point:
+            1: Fault
+      oil:
+        U9931007:
+          point:
+            1: Returned
+        U9931026:
+          point:
+            1: Returned
+      milk:
+        U9931007:
+          point:
+            1: Nil
+        U9931026:
+          point:
+            1: Nil
+  17:
+    sale:
+      banana2:
+        U9931037:
+          point:
+            1: Nil
+        U9931139:
+          point:
+            1: Nil
+      rice:
+        U9931037:
+          point:
+            1: Nil
+        U9931139:
+          point:
+            1: Nil
+      oil:
+        U9931037:
+          point:
+            1: Fault
+        U9931139:
+          point:
+            1: Returned
+      milk:
+        U9931037:
+          point:
+            1: Returned
+        U9931139:
+          point:
+            1: Returned
+  18:
+    sale:
+      banana2:
+        U9931140:
+          point:
+            1: Returned
+        U9931006:
+          point:
+            1: Returned
+      rice:
+        U9931140:
+          point:
+            1: Returned
+        U9931006:
+          point:
+            1: Returned
+      oil:
+        U9931140:
+          point:
+            1: Nil
+        U9931006:
+          point:
+            1: Nil
+      milk:
+        U9931140:
+          point:
+            1: Returned
+        U9931006:
+          point:
+            1: Returned

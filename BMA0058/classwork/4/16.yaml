@@ -1,0 +1,66 @@
+---
+# all Good
+# Good
+Green:
+  absent:  
+    - Harry
+  merits:  3
+Black:
+  absent: 
+  merits:  2
+
+# Good
+Blue:
+  absent:  
+  merits:  3
+Brown:
+  absent:  
+  merits:  2
+
+# Good
+Gray:
+  absent:  
+  merits:  3
+Purple:
+  absent:
+  merits:  2
+
+# Good
+Orange:
+  absent:  
+    - Willie
+  merits:  3
+Pink:
+  absent:  
+  merits:  2
+
+# Good
+BlueBlue:
+  absent:  
+    - Mandy
+  merits:  2
+Red:
+  absent:  
+  merits:  3
+
+# Good
+White:
+  absent:  
+    - Helen
+  merits:  2
+Yellow:
+  absent:  
+  merits:  3
+
+# assistants
+BlackBlack:
+  absent:  
+  merits:  3
+
+# Good
+GrayGray:
+  absent:  
+  merits:  2
+BrownBrown:
+  absent:  
+  merits:  3

@@ -1,0 +1,93 @@
+---
+Chinese:
+  Black: 0
+  BlackBlack: 0
+  Blue: 0
+  BlueBlue: 0
+  Brown: 0
+  BrownBrown: 0
+  Gray: 0
+  GrayGray: 0
+  Green: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
+  Red: 0
+  White: 0
+  Yellow: 0
+letters:
+  Black:
+    T9833026: 3
+    U9931012: 3
+    U9931125: 3
+    story: water55
+  BlackBlack:
+    U9931034: 5
+    U9931109: 5
+    U9931110: 5
+    story: water33
+  Blue:
+    U9931013: 3
+    U9931127: 3
+    U9931140: 3
+    story: water44
+  BlueBlue:
+    T9833024: 3
+    U9931025: 2
+    U9931003: 3
+    story: water33
+  Brown:
+    U9931032: 3
+    U9931103: 2
+    U9931002: 2
+    story: water11
+  BrownBrown:
+    U9931138: 3
+    U9931015: 3
+    U9931130: 3
+    story: water55
+  Gray:
+    U9931042: 4
+    U9931043: 3
+    U9931143: 1
+    story: water55
+  GrayGray:
+    U9931146: 2
+    U9931041: 2
+    U9931004: 1
+    story: water11
+  Green:
+    U9931133: 3
+    U9931001: 2
+    U9931014: 2
+    story: water22
+  Orange:
+    U9931129: 3
+    U9931111: 2
+    U9931007: 3
+    story: water11
+  Pink:
+    U9931028: 5
+    U9931017: 5
+    U9931101: 5
+    story: water44
+  Purple:
+    U9931006: 2
+    U9931026: 3
+    U9931134: 3
+    story: water22
+  Red:
+    U9931139: 5
+    U9931029: 5
+    U9931039: 5
+    story: water44
+  White:
+    U9931149: 3
+    U9931145: 3
+    U9931037: 3
+    story: water33
+  Yellow:
+    U9931105: 4
+    U9931102: 4
+    U9931142: 4
+    story: water33
