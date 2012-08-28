@@ -1,7 +1,7 @@
 ---
 absent: ~
 active: ~
-anterior: BMA0059
+anterior: 002BMA0056
 approach: GroupworkNoFault
 classMax: 3
 compcomp: comp
@@ -11,247 +11,247 @@ field: 商用英文實務(一)
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 001BMA0058
+id: 011BMA0056
 jigsaw: exam
 league: 日經管大學二甲
 member:
-  - Chinese: 方書翌
-    id: U0031101
-    name: 方書翌
+  - Chinese: 黃粲媛
+    id: U0031001
+    name: 黃粲媛
     password: ~
     rating: ~
-  - Chinese: 鍾思穎
-    id: U0031102
-    name: 鍾思穎
+  - Chinese: 陳嘉晉
+    id: U0031002
+    name: 陳嘉晉
     password: ~
     rating: ~
-  - Chinese: 余大永
-    id: U0031103
-    name: 余大永
+  - Chinese: 吳紹琳
+    id: U0031003
+    name: 吳紹琳
     password: ~
     rating: ~
-  - Chinese: 張瑜閔
-    id: U0031104
-    name: 張瑜閔
+  - Chinese: 丁奕翔
+    id: U0031004
+    name: 丁奕翔
     password: ~
     rating: ~
-  - Chinese: 陳冠蓁
-    id: U0031105
-    name: 陳冠蓁
+  - Chinese: 黃惠君
+    id: U0031005
+    name: 黃惠君
     password: ~
     rating: ~
-  - Chinese: 古詩情
-    id: U0031106
-    name: 古詩情
+  - Chinese: 黃珮玲
+    id: U0031006
+    name: 黃珮玲
     password: ~
     rating: ~
-  - Chinese: 吳思霈
-    id: U0031107
-    name: 吳思霈
+  - Chinese: 林思穎
+    id: U0031007
+    name: 林思穎
     password: ~
     rating: ~
-  - Chinese: 魏子竣
-    id: U0031108
-    name: 魏子竣
+  - Chinese: 黃怡貞
+    id: U0031008
+    name: 黃怡貞
     password: ~
     rating: ~
-  - Chinese: 陸美吟
-    id: U0031109
-    name: 陸美吟
+  - Chinese: 黃怡茜
+    id: U0031009
+    name: 黃怡茜
     password: ~
     rating: ~
-  - Chinese: 陳雅琳
-    id: U0031110
-    name: 陳雅琳
+  - Chinese: 周瑋倫
+    id: U0031010
+    name: 周瑋倫
     password: ~
     rating: ~
-  - Chinese: 蘇容萱
-    id: U0031111
-    name: 蘇容萱
+  - Chinese: 王均緯
+    id: U0031011
+    name: 王均緯
     password: ~
     rating: ~
-  - Chinese: 余怡蓓
-    id: U0031112
-    name: 余怡蓓
+  - Chinese: 吳亭歡
+    id: U0031012
+    name: 吳亭歡
     password: ~
     rating: ~
-  - Chinese: 陳家杰
-    id: U0031113
-    name: 陳家杰
+  - Chinese: 翁翊鈞
+    id: U0031013
+    name: 翁翊鈞
     password: ~
     rating: ~
-  - Chinese: 林君屏
-    id: U0031114
-    name: 林君屏
+  - Chinese: 蕭詩涵
+    id: U0031014
+    name: 蕭詩涵
     password: ~
     rating: ~
-  - Chinese: 廖建智
-    id: U0031115
-    name: 廖建智
+  - Chinese: 陳憶萱
+    id: U0031016
+    name: 陳憶萱
     password: ~
     rating: ~
-  - Chinese: 翁琳賀
-    id: U0031116
-    name: 翁琳賀
+  - Chinese: 黃子庭
+    id: U0031017
+    name: 黃子庭
     password: ~
     rating: ~
-  - Chinese: 劉晉嘉
-    id: U0031117
-    name: 劉晉嘉
+  - Chinese: 曹伶綺
+    id: U0031018
+    name: 曹伶綺
     password: ~
     rating: ~
-  - Chinese: 林佩玉
-    id: U0031118
-    name: 林佩玉
+  - Chinese: 廖子逸
+    id: U0031020
+    name: 廖子逸
     password: ~
     rating: ~
-  - Chinese: 陳盈慈
-    id: U0031119
-    name: 陳盈慈
+  - Chinese: 陳怡婷
+    id: U0031021
+    name: 陳怡婷
     password: ~
     rating: ~
-  - Chinese: 郭思妤
-    id: U0031120
-    name: 郭思妤
+  - Chinese: 陳俐安
+    id: U0031022
+    name: 陳俐安
     password: ~
     rating: ~
-  - Chinese: 陳雅琳
-    id: U0031122
-    name: 陳雅琳
+  - Chinese: 徐浩倫
+    id: U0031024
+    name: 徐浩倫
     password: ~
     rating: ~
-  - Chinese: 詹子瑩
-    id: U0031123
-    name: 詹子瑩
+  - Chinese: 林宜慧
+    id: U0031025
+    name: 林宜慧
     password: ~
     rating: ~
-  - Chinese: 游子毅
-    id: U0031124
-    name: 游子毅
+  - Chinese: 葉文慈
+    id: U0031026
+    name: 葉文慈
     password: ~
     rating: ~
-  - Chinese: 李研慧
-    id: U0031125
-    name: 李研慧
+  - Chinese: 鍾孝澤
+    id: U0031027
+    name: 鍾孝澤
     password: ~
     rating: ~
-  - Chinese: 翁莞婷
-    id: U0031126
-    name: 翁莞婷
+  - Chinese: 林洵鋌
+    id: U0031028
+    name: 林洵鋌
     password: ~
     rating: ~
-  - Chinese: 卓逸民
-    id: U0031127
-    name: 卓逸民
+  - Chinese: 李蕙如
+    id: U0031029
+    name: 李蕙如
     password: ~
     rating: ~
-  - Chinese: 吳婷鈺
-    id: U0031128
-    name: 吳婷鈺
+  - Chinese: 趙晉潁
+    id: U0031031
+    name: 趙晉潁
     password: ~
     rating: ~
-  - Chinese: 林哲甫
-    id: U0031129
-    name: 林哲甫
+  - Chinese: 柯佩吟
+    id: U0031033
+    name: 柯佩吟
     password: ~
     rating: ~
-  - Chinese: 黃子晏
-    id: U0031130
-    name: 黃子晏
+  - Chinese: 何雅雯
+    id: U0031034
+    name: 何雅雯
     password: ~
     rating: ~
-  - Chinese: 廖惠玲
-    id: U0031131
-    name: 廖惠玲
+  - Chinese: 魏佑?
+    id: U0031035
+    name: 魏佑?
     password: ~
     rating: ~
-  - Chinese: 黃映蓉
-    id: U0031132
-    name: 黃映蓉
+  - Chinese: 陳君婷
+    id: U0031036
+    name: 陳君婷
     password: ~
     rating: ~
-  - Chinese: 陳奕蓁
-    id: U0031133
-    name: 陳奕蓁
+  - Chinese: 林佩儀
+    id: U0031037
+    name: 林佩儀
     password: ~
     rating: ~
-  - Chinese: 郭盈君
-    id: U0031135
-    name: 郭盈君
+  - Chinese: 陳文仁
+    id: U0031038
+    name: 陳文仁
     password: ~
     rating: ~
-  - Chinese: 羅弘斌
-    id: U0031136
-    name: 羅弘斌
+  - Chinese: 黃文怡
+    id: U0031039
+    name: 黃文怡
     password: ~
     rating: ~
-  - Chinese: 潘冬梅
-    id: U0031138
-    name: 潘冬梅
+  - Chinese: 林冠佑
+    id: U0031040
+    name: 林冠佑
     password: ~
     rating: ~
-  - Chinese: 李宜倫
-    id: U0031139
-    name: 李宜倫
+  - Chinese: 黃奕捷
+    id: U0031041
+    name: 黃奕捷
     password: ~
     rating: ~
-  - Chinese: 羅隆斌
-    id: U0031140
-    name: 羅隆斌
+  - Chinese: 姚順心
+    id: U0031042
+    name: 姚順心
     password: ~
     rating: ~
-  - Chinese: 黃貞蓉
-    id: U0031141
-    name: 黃貞蓉
+  - Chinese: 謝宜璿
+    id: U0031043
+    name: 謝宜璿
     password: ~
     rating: ~
-  - Chinese: 江峻豪
-    id: U0031142
-    name: 江峻豪
+  - Chinese: 黃舒靖
+    id: U0031044
+    name: 黃舒靖
     password: ~
     rating: ~
-  - Chinese: 鄔厚罡
-    id: U0031143
-    name: 鄔厚罡
+  - Chinese: 許慧妮
+    id: U0031045
+    name: 許慧妮
     password: ~
     rating: ~
-  - Chinese: 梁祐慈
-    id: U0031144
-    name: 梁祐慈
+  - Chinese: 許齡方
+    id: U0031047
+    name: 許齡方
     password: ~
     rating: ~
-  - Chinese: 陳昱志
-    id: U0031145
-    name: 陳昱志
+  - Chinese: 柯智銘
+    id: U0031048
+    name: 柯智銘
     password: ~
     rating: ~
-  - Chinese: 洪雅靖
-    id: U0031146
-    name: 洪雅靖
+  - Chinese: 楊崴宇
+    id: U9831006
+    name: 楊崴宇
     password: ~
     rating: ~
-  - Chinese: 蘇映璇
-    id: U0031147
-    name: 蘇映璇
+  - Chinese: 葉日維
+    id: U9831038
+    name: 葉日維
     password: ~
     rating: ~
-  - Chinese: 馮敏儀
-    id: U0031205
-    name: 馮敏儀
+  - Chinese: 顏摩
+    id: U9831144
+    name: 顏摩
     password: ~
     rating: ~
-  - Chinese: 許為智
-    id: U9931001
-    name: 許為智
+  - Chinese: 鐵木倫
+    id: U9831152
+    name: 鐵木倫
     password: ~
     rating: ~
-  - Chinese: 吳姿澐
-    id: U9931248
-    name: 吳姿澐
+  - Chinese: 江佳蕙
+    id: U9931129
+    name: 江佳蕙
     password: ~
     rating: ~
-out:
-room: A705
+out: ~
+room: A706
 scores:
   bye: 5
   draw: 4
