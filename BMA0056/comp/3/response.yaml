@@ -1,0 +1,1118 @@
+---
+free:
+  1:
+    kendall:
+      influences:
+        U9931025:
+          point:
+            1: Returned
+        U9931110:
+          point:
+            1: Returned
+            2: Returned
+      coventgreen:
+        U9931025:
+          point:
+            1: Fault
+            2: Returned
+        U9931110:
+          point:
+            1: Returned
+  2:
+    kendall:
+      influences:
+        U9931003:
+          point:
+            1: Returned
+            2: Returned
+        U9931129:
+          point:
+            1: Returned
+            2: Returned
+      coventgreen:
+        U9931003:
+          point:
+            1: Returned
+            2: Returned
+        U9931129:
+          point:
+            1: Returned
+  3:
+    kendall:
+      influences:
+        U9931006:
+          point:
+            1: Returned
+            2: Returned
+        U9931109:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+      coventgreen:
+        U9931006:
+          point:
+            1: Returned
+            2: Returned
+        U9931109:
+          point:
+            1: Returned
+  4:
+    kendall:
+      influences:
+        U9931125:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        U9931143:
+          point:
+            1: Fault
+            2: Returned
+            3: Returned
+      coventgreen:
+        U9931125:
+          point:
+            1: Returned
+        U9931143:
+          point:
+            1: Returned
+  5:
+    kendall:
+      influences:
+        U9931032:
+          point:
+            1: Returned
+            2: Returned
+        U9931105:
+          point:
+            1: Fault
+            2: Returned
+      coventgreen:
+        U9931032:
+          point:
+            1: Returned
+            2: Returned
+        U9931105:
+          point:
+            1: Returned
+  6:
+    kendall:
+      influences:
+        U9931042:
+          point:
+            1: Returned
+            2: Returned
+        T9833026:
+          point:
+            1: Returned
+      coventgreen:
+        U9931042:
+          point:
+            1: Fault
+        T9833026:
+          point:
+            1: Returned
+  7:
+    kendall:
+      influences:
+        U9931029:
+          point:
+            1: Returned
+        U9931001:
+          point:
+            1: Returned
+      coventgreen:
+        U9931029:
+          point:
+            1: Returned
+        U9931001:
+          point:
+            1: Returned
+  8:
+    kendall:
+      influences:
+        U9931013:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        U9931043:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+      coventgreen:
+        U9931013:
+          point:
+            1: Returned
+        U9931043:
+          point:
+            1: Returned
+  9:
+    kendall:
+      influences:
+        U9931034:
+          point:
+            1: Returned
+            2: Returned
+        U9931133:
+          point:
+            1: Returned
+            2: Returned
+      coventgreen:
+        U9931034:
+          point:
+            1: Returned
+        U9931133:
+          point:
+            1: Returned
+  11:
+    kendall:
+      influences:
+        U9931111:
+          point:
+            1: Returned
+            2: Returned
+        U9931041:
+          point:
+            1: Returned
+            2: Returned
+      coventgreen:
+        U9931111:
+          point:
+            1: Returned
+            2: Returned
+        U9931041:
+          point:
+            1: Returned
+            2: Returned
+  12:
+    kendall:
+      influences:
+        U9931146:
+          point:
+            1: Returned
+            2: Returned
+        U9931007:
+          point:
+            1: Returned
+      coventgreen:
+        U9931146:
+          point:
+            1: Returned
+        U9931007:
+          point:
+            1: Returned
+            2: Returned
+  13:
+    kendall:
+      influences:
+        U9931101:
+          point:
+            1: Returned
+            2: Returned
+        U9931138:
+          point:
+            1: Returned
+            2: Returned
+      coventgreen:
+        U9931101:
+          point:
+            1: Returned
+            2: Returned
+        U9931138:
+          point:
+            1: Returned
+            2: Returned
+  14:
+    kendall:
+      influences:
+        U9931015:
+          point:
+            1: Returned
+            2: Returned
+        U9931017:
+          point:
+            1: Returned
+            2: Returned
+      coventgreen:
+        U9931015:
+          point:
+            1: Returned
+        U9931017:
+          point:
+            1: Returned
+  15:
+    kendall:
+      influences:
+        U9931026:
+          point:
+            1: Returned
+            2: Returned
+        U9931140:
+          point:
+            1: Returned
+            2: Unreturned
+      coventgreen:
+        U9931026:
+          point:
+            1: Returned
+            2: Returned
+        U9931140:
+          point:
+            1: Returned
+            2: Returned
+  16:
+    kendall:
+      influences:
+        U9931102:
+          point:
+            1: Returned
+            2: Returned
+        U9931014:
+          point:
+            1: Returned
+            2: Returned
+      coventgreen:
+        U9931102:
+          point:
+            1: Returned
+            2: Returned
+        U9931014:
+          point:
+            1: Unreturned
+            2: Returned
+  17:
+    kendall:
+      influences:
+        U9931149:
+          point:
+            1: Returned
+            2: Returned
+        U9931004:
+          point:
+            1: Returned
+            2: Returned
+      coventgreen:
+        U9931149:
+          point:
+            1: Returned
+            2: Returned
+        U9931004:
+          point:
+            1: Returned
+            2: Returned
+  18:
+    kendall:
+      influences:
+        U9931103:
+          point:
+            1: Returned
+        U9931039:
+          point:
+            1: Returned
+      coventgreen:
+        U9931103:
+          point:
+            1: Returned
+        U9931039:
+          point:
+            1: Returned
+  19:
+    kendall:
+      influences:
+        U9931142:
+          point:
+            1: Returned
+            2: Returned
+        U9931012:
+          point:
+            1: Returned
+            2: Returned
+      coventgreen:
+        U9931142:
+          point:
+            1: Returned
+        U9931012:
+          point:
+            1: Returned
+  20:
+    kendall:
+      influences:
+        U9931002:
+          point:
+            1: Returned
+            2: Returned
+        U9931037:
+          point:
+            1: Returned
+            2: Fault
+      coventgreen:
+        U9931002:
+          point:
+            1: Returned
+        U9931037:
+          point:
+            1: Returned
+set:
+  1:
+    kendall:
+      influences:
+        U9931025:
+          1:   F
+          2:   F
+          3:   F
+          4:   F
+          5: T
+          6: T
+          7:   F
+          8:   F
+        U9931110:
+          1:   F
+          2:   F
+          3:   F
+          4:   F
+          5: T
+          6: T
+          7:   F
+          8:   F
+      coventgreen:
+        U9931025:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+        U9931110:
+          1: T
+          2:   F
+          3: T
+          4: T
+          5:   F
+          6:   F
+          7:   F
+          8: T
+  2:
+    kendall:
+      influences:
+        U9931003:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6: T
+          7:   F
+          8: T
+        U9931129:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6: T
+          7:   F
+          8: T
+      coventgreen:
+        U9931003:
+          1: T
+          2:   F
+          3: T
+          4: T
+          5:   F
+          6:   F
+          7:   F
+          8: T
+        U9931129:
+          1: T
+          2:   F
+          3: T
+          4: T
+          5:   F
+          6:   F
+          7:   F
+          8: T
+  3:
+    kendall:
+      influences:
+        U9931006:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5:   F
+          6: T
+          7: T
+          8:   F
+        U9931109:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5:   F
+          6: T
+          7: T
+          8:   F
+      coventgreen:
+        U9931006:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+        U9931109:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+  4:
+    kendall:
+      influences:
+        U9931125:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5:   F
+          6:   F
+          7: T
+          8:   F
+        U9931143:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6: T
+          7: T
+          8: T
+      coventgreen:
+        U9931125:
+          1: T
+          2:   F
+          3: T
+          4: T
+          5:   F
+          6:   F
+          7:   F
+          8: T
+        U9931143:
+          1: T
+          2:   F
+          3: T
+          4: T
+          5:   F
+          6:   F
+          7:   F
+          8: T
+  5:
+    kendall:
+      influences:
+        U9931032:
+          1:   F
+          2:   F
+          3: T
+          4:   F
+          5:   F
+          6: T
+          7:   F
+          8: T
+        U9931105:
+          1:   F
+          2:   F
+          3: T
+          4:   F
+          5:   F
+          6: T
+          7:   F
+          8: T
+      coventgreen:
+        U9931032:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+        U9931105:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+  6:
+    kendall:
+      influences:
+        U9931042:
+          1: T
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6: T
+          7: T
+          8: T
+        T9833026:
+          1: T
+          2:   F
+          3:   F
+          4: T
+          5:   F
+          6: T
+          7: T
+          8:   F
+      coventgreen:
+        U9931042:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+        T9833026:
+          1: T
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6:   F
+          7:   F
+          8: T
+  7:
+    kendall:
+      influences:
+        U9931029:
+          1:   F
+          2:   F
+          3: T
+          4:   F
+          5:   F
+          6: T
+          7:   F
+          8: T
+        U9931001:
+          1: T
+          2:   F
+          3: T
+          4: T
+          5:   F
+          6: T
+          7: T
+          8: T
+      coventgreen:
+        U9931029:
+          1:   F
+          2:   F
+          3: T
+          4:   F
+          5:   F
+          6:   F
+          7:   F
+          8: T
+        U9931001:
+          1:   F
+          2: T
+          3: T
+          4:   F
+          5:   F
+          6:   F
+          7:   F
+          8: T
+  8:
+    kendall:
+      influences:
+        U9931013:
+          1: T
+          2:   F
+          3:   F
+          4:   F
+          5:   F
+          6:   F
+          7:   F
+          8:   F
+        U9931043:
+          1: T
+          2:   F
+          3:   F
+          4: T
+          5:   F
+          6: T
+          7:   F
+          8:   F
+      coventgreen:
+        U9931013:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+        U9931043:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+  9:
+    kendall:
+      influences:
+        U9931034:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6: T
+          7:   F
+          8: T
+        U9931133:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6: T
+          7:   F
+          8: T
+      coventgreen:
+        U9931034:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+        U9931133:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+  11:
+    kendall:
+      influences:
+        U9931111:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6:   F
+          7:   F
+          8:   F
+        U9931041:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6:   F
+          7:   F
+          8:   F
+      coventgreen:
+        U9931111:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+        U9931041:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+  12:
+    kendall:
+      influences:
+        U9931146:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6: T
+          7:   F
+          8: T
+        U9931007:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6: T
+          7:   F
+          8: T
+      coventgreen:
+        U9931146:
+          1: T
+          2:   F
+          3: T
+          4: T
+          5:   F
+          6:   F
+          7:   F
+          8: T
+        U9931007:
+          1: T
+          2:   F
+          3: T
+          4: T
+          5:   F
+          6:   F
+          7:   F
+          8: T
+  13:
+    kendall:
+      influences:
+        U9931101:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5:   F
+          6:   F
+          7:   F
+          8: T
+        U9931138:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5:   F
+          6:   F
+          7:   F
+          8: T
+      coventgreen:
+        U9931101:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+        U9931138:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+  14:
+    kendall:
+      influences:
+        U9931015:
+          1: T
+          2:   F
+          3: T
+          4: T
+          5:   F
+          6: T
+          7: T
+          8: T
+        U9931017:
+          1: T
+          2:   F
+          3: T
+          4: T
+          5:   F
+          6: T
+          7: T
+          8: T
+      coventgreen:
+        U9931015:
+          1:   F
+          2: T
+          3: T
+          4: T
+          5: T
+          6:   F
+          7:   F
+          8: T
+        U9931017:
+          1:   F
+          2: T
+          3: T
+          4: T
+          5: T
+          6:   F
+          7:   F
+          8: T
+  15:
+    kendall:
+      influences:
+        U9931026:
+          1:   F
+          2:   F
+          3: T
+          4: T
+          5: T
+          6: T
+          7:   F
+          8: T
+        U9931140:
+          1:   F
+          2:   F
+          3: T
+          4: T
+          5:   F
+          6: T
+          7:   F
+          8: T
+      coventgreen:
+        U9931026:
+          1:   F
+          2: T
+          3: T
+          4: T
+          5: T
+          6:   F
+          7:   F
+          8: T
+        U9931140:
+          1:   F
+          2: T
+          3: T
+          4: T
+          5: T
+          6:   F
+          7:   F
+          8: T
+  16:
+    kendall:
+      influences:
+        U9931102:
+          1:   F
+          2:   F
+          3: T
+          4: T
+          5:   F
+          6: T
+          7:   F
+          8: T
+        U9931014:
+          1:   F
+          2:   F
+          3: T
+          4: T
+          5:   F
+          6: T
+          7:   F
+          8: T
+      coventgreen:
+        U9931102:
+          1:   F
+          2:   F
+          3: T
+          4:   F
+          5:   F
+          6:   F
+          7:   F
+          8: T
+        U9931014:
+          1:   F
+          2:   F
+          3: T
+          4:   F
+          5:   F
+          6:   F
+          7:   F
+          8: T
+  17:
+    kendall:
+      influences:
+        U9931149:
+          1: T
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6:   F
+          7:   F
+          8: T
+        U9931004:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5:   F
+          6:   F
+          7:   F
+          8: T
+      coventgreen:
+        U9931149:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+        U9931004:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+  18:
+    kendall:
+      influences:
+        U9931103:
+          1:   F
+          2:   F
+          3: T
+          4:   F
+          5:   F
+          6: T
+          7:   F
+          8: T
+        U9931039:
+          1:   F
+          2:   F
+          3: T
+          4:   F
+          5:   F
+          6: T
+          7:   F
+          8: T
+      coventgreen:
+        U9931103:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+        U9931039:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+  19:
+    kendall:
+      influences:
+        U9931142:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6: T
+          7:   F
+          8:   F
+        U9931012:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6: T
+          7:   F
+          8:   F
+      coventgreen:
+        U9931142:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5:   F
+          6:   F
+          7:   F
+          8: T
+        U9931012:
+          1:   F
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+  20:
+    kendall:
+      influences:
+        U9931002:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6: T
+          7:   F
+          8: T
+        U9931037:
+          1:   F
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6: T
+          7:   F
+          8: T
+      coventgreen:
+        U9931002:
+          1: T
+          2:   F
+          3: T
+          4:   F
+          5: T
+          6:   F
+          7:   F
+          8: T
+        U9931037:
+          1: T
+          2:   F
+          3:   F
+          4: T
+          5: T
+          6:   F
+          7:   F
+          8: T

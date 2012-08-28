@@ -1,0 +1,138 @@
+---
+activity:
+  stress:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+  adventure:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+group:
+  0:
+    White: T9833026
+    Black: U9931142
+  1:
+    White: U9931039
+    Black: U9931013
+  2:
+    White: U9931001
+    Black: U9931103
+  3:
+    White: U9931004
+    Black: T9833024
+  4:
+    White: U9931145
+    Black: U9931029
+  5:
+    White: U9931041
+    Black: U9931101
+  6:
+    White: U9931105
+    Black: U9931002
+  7:
+    White: U9931012
+    Black: U9931042
+  8:
+    White: U9931133
+    Black: U9931111
+  9:
+    White: U9931014
+    Black: U9931015
+  10:
+    White: U9931138
+    Black: U9931102
+  11:
+    White: U9931109
+    Black: U9931017
+  12:
+    White: U9931034
+    Black: U9931025
+  13:
+    White: U9931134
+    Black: U9931146
+  14:
+    White: U9931028
+    Black: U9931127
+  15:
+    White: U9931043
+    Black: U9931149
+  16:
+    White: U9931007
+    Black: U9931026
+  17:
+    White: U9931037
+    Black: U9931110
+  18:
+    White: U9931140
+    Black: U9931003
+absent:
+  - U9931032
+  - U9931129
+assistant:
+  BlueBlue:
+    U9931129: 0
+    U9931125: 5
+    U9931143: 5
+  BlackBlack:
+    U9931139: 5
+    U9931130: 5
+    U9931006: 5
+pairing: swiss
+round: 1
+text: /home/drbean/class/business/stress/cards.yaml
+week: 5
