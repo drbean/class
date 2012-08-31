@@ -1,6 +1,6 @@
 ---
 active: ''
-anterior: MIA0013
+anterior: 002MIA0013
 approach: GroupworkNoFault
 classMax: 3
 compcomp: comp
@@ -17,202 +17,202 @@ member:
   - Chinese: 王志暄
     id: T9833038
     name: 王志暄
-    password: ~
+    password: zhi
     rating: ~
   - Chinese: 郭永貴
     id: U0014139
     name: 郭永貴
-    password: ~
+    password: yong
     rating: ~
   - Chinese: 吳冠瑩
     id: U0033001
     name: 吳冠瑩
-    password: ~
+    password: guan
     rating: ~
   - Chinese: 賴長佑
     id: U0033002
     name: 賴長佑
-    password: ~
+    password: zhang
     rating: ~
   - Chinese: 陳仕政
     id: U0033003
     name: 陳仕政
-    password: ~
+    password: shi
     rating: ~
   - Chinese: 吳奕興
     id: U0033004
     name: 吳奕興
-    password: ~
+    password: yi
     rating: ~
   - Chinese: 葉鈴雅
     id: U0033005
     name: 葉鈴雅
-    password: ~
+    password: ling
     rating: ~
   - Chinese: 許佑任
     id: U0033006
     name: 許佑任
-    password: ~
+    password: you
     rating: ~
   - Chinese: 何浚沂
     id: U0033008
     name: 何浚沂
-    password: ~
+    password: jun
     rating: ~
   - Chinese: 許?菁
     id: U0033009
     name: 許?菁
-    password: ~
+    password: ?
     rating: ~
   - Chinese: 楊鈞翔
     id: U0033010
     name: 楊鈞翔
-    password: ~
+    password: jun
     rating: ~
   - Chinese: 蔡松諺
     id: U0033012
     name: 蔡松諺
-    password: ~
+    password: song
     rating: ~
   - Chinese: 吳京霖
     id: U0033013
     name: 吳京霖
-    password: ~
+    password: jing
     rating: ~
   - Chinese: 吳佩?
     id: U0033014
     name: 吳佩?
-    password: ~
+    password: pei
     rating: ~
   - Chinese: 李培廷
     id: U0033015
     name: 李培廷
-    password: ~
+    password: pei
     rating: ~
   - Chinese: 朱盈
     id: U0033016
     name: 朱盈
-    password: ~
+    password: ying
     rating: ~
   - Chinese: 賴詩薇
     id: U0033018
     name: 賴詩薇
-    password: ~
+    password: shi
     rating: ~
   - Chinese: 張雅婷
     id: U0033019
     name: 張雅婷
-    password: ~
+    password: ya
     rating: ~
   - Chinese: 蔡佳岑
     id: U0033020
     name: 蔡佳岑
-    password: ~
+    password: ya
     rating: ~
   - Chinese: 謝治安
     id: U0033022
     name: 謝治安
-    password: ~
+    password: zhi
     rating: ~
   - Chinese: 李瑋
     id: U0033023
     name: 李瑋
-    password: ~
+    password: wei
     rating: ~
   - Chinese: 張家縉
     id: U0033024
     name: 張家縉
-    password: ~
+    password: jia
     rating: ~
   - Chinese: 陳怡瑄
     id: U0033027
     name: 陳怡瑄
-    password: ~
+    password: yi
     rating: ~
   - Chinese: 李文凱
     id: U0033029
     name: 李文凱
-    password: ~
+    password: wen
     rating: ~
   - Chinese: 陳?藍
     id: U0033030
     name: 陳?藍
-    password: ~
+    password: ?
     rating: ~
   - Chinese: 邱羿庭
     id: U0033031
     name: 邱羿庭
-    password: ~
+    password: yi
     rating: ~
   - Chinese: 蔡嘉蓉
     id: U0033032
     name: 蔡嘉蓉
-    password: ~
+    password: jia
     rating: ~
   - Chinese: 周子琪
     id: U0033033
     name: 周子琪
-    password: ~
+    password: zi
     rating: ~
   - Chinese: 李冠賢
     id: U0033034
     name: 李冠賢
-    password: ~
+    password: guan
     rating: ~
   - Chinese: 粘雅鈞
     id: U0033035
     name: 粘雅鈞
-    password: ~
+    password: ya
     rating: ~
   - Chinese: 林怡華
     id: U0033036
     name: 林怡華
-    password: ~
+    password: yi
     rating: ~
   - Chinese: 陳宏邑
     id: U0033037
     name: 陳宏邑
-    password: ~
+    password: hong
     rating: ~
   - Chinese: 林虹均
     id: U0033039
     name: 林虹均
-    password: ~
+    password: hong
     rating: ~
   - Chinese: 吳柔誼
     id: U0033040
     name: 吳柔誼
-    password: ~
+    password: rou
     rating: ~
   - Chinese: 施勗彥
     id: U0033133
     name: 施勗彥
-    password: ~
+    password: xu
     rating: ~
   - Chinese: 劉羿汝
     id: U0033135
     name: 劉羿汝
-    password: ~
+    password: yi
     rating: ~
   - Chinese: 羅伊庭
     id: U0033136
     name: 羅伊庭
-    password: ~
+    password: yi
     rating: ~
   - Chinese: 張珮珊
     id: U0033137
     name: 張珮珊
-    password: ~
+    password: pei
     rating: ~
   - Chinese: 楊佳穎
     id: U0033139
     name: 楊佳穎
-    password: ~
+    password: jia
     rating: ~
   - Chinese: 陳祈文
     id: U9933035
     name: 陳祈文
-    password: ~
+    password: qi
     rating: ~
 out: ~
 room: A706
