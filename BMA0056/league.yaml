@@ -15,6 +15,11 @@ id: 011BMA0056
 jigsaw: exam
 league: 日經管大學二甲
 member:
+  - Chinese: 彭大維
+    name: 彭大維
+    password: da
+    id: U9931152
+    rating: ~
   - Chinese: 黃粲媛
     id: U0031001
     name: 黃粲媛
