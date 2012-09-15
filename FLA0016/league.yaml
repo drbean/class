@@ -6,143 +6,143 @@ classMax: 3
 compcomp: comp
 examMax: 5
 exams: exam
-field: 英語會話(一)
+field: 英語會話(三)
 groupwork: classwork
 hw: homework
 hwMax: 2
 id: 011FLA0016
 jigsaw: exam
-league: 夜應外大學二甲
+league: 夜應外大學三甲
 member:
   - Chinese: 羅尹妮
     id: V9741022
     name: Nini
-    password: ~
+    password: yi
     rating: ~
   - Chinese: 夏芳婕
     id: V9841002
     name: Kori
-    password: ~
+    password: Fang
     rating: ~
   - Chinese: 廖家宜
     id: V9841008
     name: Sana
-    password: ~
+    password: jia
     rating: ~
   - Chinese: 黃裕惠
     id: V9841031
     name: Bass
-    password: ~
+    password: yu
     rating: ~
   - Chinese: 李家安
     id: V9841042
     name: Joanna
-    password: ~
+    password: jia
     rating: ~
   - Chinese: 駱佳帷
     id: V9841049
     name: Joan
-    password: ~
+    password: jia
     rating: ~
   - Chinese: 黎彥廷
     id: V9916050
     name: Yan-ting
-    password: ~
+    password: yan
     rating: ~
   - Chinese: 謝旻諺
     id: V9941003
     name: Jibson
-    password: ~
+    password: min
     rating: ~
   - Chinese: 朱文章
     id: V9941007
     name: Redd
-    password: ~
+    password: wen
     rating: ~
   - Chinese: 鍾興科
     id: V9941011
     name: Adam
-    password: ~
+    password: xing
     rating: ~
   - Chinese: 洪詠舜
     id: V9941013
     name: Edward
-    password: ~
+    password: yong
     rating: ~
   - Chinese: 涂為智
     id: V9941015
     name: Henry
-    password: ~
+    password: wei
     rating: ~
   - Chinese: 彭姿菁
     id: V9941023
     name: Rita
-    password: ~
+    password: zi
     rating: ~
   - Chinese: 張真黛
     id: V9941026
     name: Zhen-Dai
-    password: ~
+    password: zhen
     rating: ~
   - Chinese: 張雅婷
     id: V9941029
     name: Ya-Ting1
-    password: ~
+    password: ya
     rating: ~
   - Chinese: 曾馨誼
     id: V9941032
     name: Mary
-    password: ~
+    password: xin
     rating: ~
   - Chinese: 陳采玲
     id: V9941036
     name: Louanna
-    password: ~
+    password: cai
     rating: ~
   - Chinese: 莊翌蝶
     id: V9941040
     name: Claire
-    password: ~
+    password: yi
     rating: ~
   - Chinese: 黃宇襄
     id: V9941045
     name: Jill
-    password: ~
+    password: yu
     rating: ~
   - Chinese: 徐婉綾
     id: V9941047
     name: Wan-Ling
-    password: ~
+    password: wan
     rating: ~
   - Chinese: 詹春華
     id: V9941050
     name: Judy
-    password: ~
+    password: chun
     rating: ~
   - Chinese: 黃于真
     id: V9941059
     name: Sophia
-    password: ~
+    password: yu
     rating: ~
   - Chinese: 范治偉
     id: V9941062
     name: Zhi-Wei
-    password: ~
+    password: zhi
     rating: ~
   - Chinese: 徐艷昀
     id: V9941068
     name: Yan-Yun
-    password: ~
+    password: yan
     rating: ~
   - Chinese: 陳雅婷
     id: V9941071
     name: Ya-ting2
-    password: ~
+    password: ya
     rating: ~
   - Chinese: 林柏如
     id: V9941075
     name: Brenda
-    password: ~
+    password: bo
     rating: ~
 out:
 room: A705
