@@ -8,55 +8,56 @@ Blue:
 
 Brown:
   absent: 
-  merits: 2
+  merits: 3
 Gray:
   absent: 
-  merits: 3
+  merits: 2
 
 Green:
-  absent: 
-  merits: 2
-Orange:
-  absent: 
-  merits: 3
-
-Pink:
-  absent: 
-    - Santie
-  merits: 2
-Purple:
-  absent:
-  merits: 3
-
-Red:
-  absent: 
-  merits: 3
-White:
-  absent: 
-  merits: 2
-
-Yellow:
   absent: 
   merits: 3
 BlackBlack:
   absent: 
   merits: 2
 
+Orange:
+  absent:
+  merits: 3
+Pink:
+  absent: 
+    - Santie
+  merits: 2
+
+Purple:
+  absent: 
+  merits: 3
+Red:
+  absent: 
+  merits: 2
+
+White:
+  absent: 
+  merits: 3
+Yellow:
+  absent: 
+  merits: 2
+
 BlueBlue:
   absent: 
   merits: 2
+OrangeOrange:
+  absent: 
+  merits: 3
+
+# email from Andy
 BrownBrown:
   absent: 
   merits: 3
-
-GrayGray:
-  absent: 
-  merits: 3
-GreenGreen:
+PurplePurple:
   absent: 
   merits: 2
 
-John:
+# assistants
+PinkPink:
   absent:
-    - John
-  merits: 0
+  merits: 3
