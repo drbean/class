@@ -1,0 +1,46 @@
+---
+round: Exam 3
+week: 14
+questions:
+  - 10
+pass: 5
+assistant:
+  - Charlie
+  - Sheena
+  - Kimberly
+  - Simon
+absent:
+  - Ian
+  - Mike2
+text: /home/drbean/class/conversation/work/cards.yaml
+activity:
+  dickson:
+    1:
+      - Black
+      - Blue
+      - Green
+  abreu:
+    1:
+      - Orange
+      - Red
+group:
+  Black:
+    - Sheena
+    - Charlie
+    - Simon
+  Blue:
+    - Jason
+    - R-kai
+    - Charlie
+  Green:
+    - Amy
+    - Sheena
+    - Simon
+  Orange:
+    - Max
+    - Jimmy
+    - Kimberly
+  Red:
+    - Tina
+    - Kimberly
+    - Mike1

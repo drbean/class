@@ -1,0 +1,44 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 10
+pass: 6
+assistant:
+  - Kimberly
+  - Tina
+absent:
+ - PeiShan
+text: /home/drbean/class/conversation/disability/cards.yaml
+activity:
+  connell:
+    2:
+      - Blue
+    3:
+      - Black
+    4:
+      - Green
+      - Orange
+    5:
+      - Jimmy
+group:
+  Black:
+    - Mike1
+    - R-kai
+    - Charlie
+  Blue:
+    - Max
+    - Ian
+    - Simon
+  Green:
+    - Mike2
+    - Kimberly
+    - Jason
+  Orange:
+    - Sheena
+    - Tina
+    - Amy
+  Jimmy:
+    - Jimmy
+    - Kimberly
+    - Tina

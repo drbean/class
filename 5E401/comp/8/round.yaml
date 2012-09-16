@@ -1,0 +1,22 @@
+---
+activity:
+  nguyen:
+    0:
+      - 1
+      - 2
+      - 3
+bye: U9922143
+group:
+  1:
+    White: U9934021
+    Black: T9821018
+  2:
+    White: U9934003
+    Black: U9934025
+  3:
+    White: V9731059
+    Black: U9934002
+pairing: swiss
+round: 8 (round 1 on GL00016-1)
+text: /home/drbean/class/conversation/intercultural/cards.yaml
+week: 11

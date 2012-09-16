@@ -1,0 +1,20 @@
+---
+Black:
+  absent:
+  merits: 3
+Blue:
+  absent:
+  merits: 3
+
+Green:
+  absent:
+  merits: 3
+Orange:
+  absent:
+    - Jimmy
+  merits: 3
+
+Red:
+  absent:
+    - Ian
+  merits: 3
