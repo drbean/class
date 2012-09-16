@@ -1,0 +1,39 @@
+---
+activity:
+  foreman:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+  davist:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+group:
+  0:
+    White: U9818039
+    Black: U9818019
+  1:
+    White: U9931148
+    Black: U9914051
+  2:
+    White: T9822043
+    Black: U9821130
+  3:
+    White: V9741064
+    Black: U9931043
+late:
+  - U9711114
+bye: U9711114
+assistant:
+  Blue:
+    U9818048: 5
+    U9931134: 5
+    U9817051: 5
+pairing: swiss adjusted
+round: 2
+text: /home/drbean/class/conversation/disability/cards.yaml
+week: 9

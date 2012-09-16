@@ -1,0 +1,196 @@
+---
+approach: Compcomp
+compcomp: comp
+examMax: 5
+classMax: 3
+exams: exam
+field: 中級英文聽說訓練
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 002GL00034
+jigsaw: exam
+league: 日語文共同學制虛擬班二乙
+member:
+  - Chinese: 王中奕
+    name: Ian
+    password: zhong
+    id: U9931123
+    rating: ~
+  - Chinese: 吳思賢
+    id: U9914051
+    name: Mike2
+    password: si
+    rating: ~
+  - Chinese: 葉金鳳
+    id: U9742015
+    name: 葉金鳳
+    password: jin
+    rating: ~
+  - Chinese: 施建宗
+    name: Aison
+    password: jian
+    id: T9821041
+    rating: ~
+  - Chinese: 陳高君
+    name: Charlie
+    password: gao
+    id: T9822043
+    rating: ~
+  - Chinese: 張棋富
+    name: Simon
+    password: qi
+    id: U9931148
+    rating: ~
+  - Chinese: 柳皓凱
+    name: Jimmy
+    password: hao
+    id: U9711114
+    rating: ~
+  
+  - Chinese: 阮品軒
+    name: Max
+    password: pin
+    id: U9818039
+    rating: ~
+  
+  
+  - Chinese: 白芳瑜
+    id: V9741064
+    name: Amy
+    password: fang
+    rating: 79
+
+  - Chinese: ?雅雯
+    name: Kimberly
+    password: ya
+    id: U9931043
+    rating: 81
+  - Chinese: 楊博凱
+    name: R-kai
+    password: bo
+    id: U9821130
+    rating: ~
+  - Chinese: 洪侑安
+    name: Mike1
+    password: you
+    id: U9817051
+    rating: ~
+  
+  
+  - Chinese: 林祐銘
+    id: U9818019
+    name: Jason
+    password: you
+    rating: ~
+  - Chinese: 陳詩媛
+    id: U9818048
+    name: Sheena
+    password: shi
+    rating: ~
+  - Chinese: 邱雅婷
+    id: U9931134
+    name: Tina
+    password: ya
+    rating: 80
+out:
+  - Chinese: 李佩珊
+    name: PeiShan
+    password: pei
+    id: U9918041
+    rating: ~
+  - Chinese: 蔣秉書
+    id: U9818035
+    name: Kenny
+    password: bing
+    rating: ~
+  - Chinese: 李維軒
+    id: U9816035
+    name: Gan
+    password: wei
+    rating: ~
+  - Chinese: 林雨珊
+    id: U9816044
+    name: Sam1
+    password: yu
+    rating: ~
+  - Chinese: 萬文珊
+    id: U9816045
+    name: Crimson
+    password: wen
+    rating: ~
+  - Chinese: 鐘冠逯
+    name: Hank
+    password: guan
+    id: U9821134
+    rating: ~
+  - Chinese: 江昶毅
+    name: Sam2
+    password: chang
+    id: U9821129
+    rating: ~
+  - Chinese: 王戎暘
+    name: Edward
+    password: rong
+    id: U9821147
+    rating: ~
+  - Chinese: 陳映吟
+    name: Maricel
+    password: ying
+    id: U9816001
+    rating: ~
+  - Chinese: 陳星合
+    name: Shing-her
+    password: xing
+    id: U9821131
+    rating: ~
+  - Chinese: 蔡東伯
+    name: Nerd
+    password: tong
+    id: U9918033
+    rating: ~
+  - Chinese: 黃建銘
+    name: Mark
+    password: jian
+    id: U9918044
+    rating: ~
+  - Chinese: 羅子竣
+    id: U9931149
+    name: Robert
+    password: zi
+    rating: 72
+  - Chinese: 余宏杰
+    name: Kevin
+    password: hong
+    id: U9822146
+    rating: ~
+  - Chinese: 余吉承
+    id: T9711003
+    name: 余吉承
+    password: ji
+    rating: ~
+  - Chinese: 陳桂蓉
+    id: U9716058
+    name: 陳桂蓉
+    password: jia
+    rating: ~
+  - Chinese: 李偉承
+    id: U9816051
+    name: 李偉承
+    password: wei
+    rating: ~
+  - Chinese: 丁德勝
+    id: U9816054
+    name: 丁德勝
+    password: de
+    rating: ~
+  - Chinese: 王中奕
+    id: U9931123
+    name: 王中奕
+    password: zhong
+    rating: ~
+room: 2110
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40

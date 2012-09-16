@@ -1,0 +1,37 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+absent:
+  - Ian
+text: /home/drbean/class/conversation/disability/cards.yaml
+activity:
+  foreman:
+    1:
+      - Red
+      - White
+  davist:
+    2:
+      - Blue
+      - Green
+group:
+  Green:
+    - Kimberly
+    - Mike2
+    - Amy
+  Blue:
+    - Sheena
+    - Tina
+    - Mike1
+  
+  Red:
+    - Simon
+    - Charlie
+    - Max
+  White:
+    - Jimmy
+    - R-kai
+    - Jason

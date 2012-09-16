@@ -1,0 +1,239 @@
+---
+free:
+  1:
+    old:
+      0:
+        U9818048:
+          point:
+            1: Nil
+        U9817051:
+          point:
+            1: Nil
+    smallwood:
+      0:
+        U9818048:
+          point:
+            1: Fault
+            2: Returned
+        U9817051:
+          point:
+            1: Unreturned
+            2: Returned
+    jackson:
+      0:
+        U9818048:
+          point:
+            1: Unreturned
+            2: Unreturned
+        U9817051:
+          point:
+            1: Returned
+  2:
+    old:
+      0:
+        V9741064:
+          point:
+            1: Nil
+        U9821130:
+          point:
+            1: Nil
+    smallwood:
+      0:
+        V9741064:
+          point:
+            1: Nil
+        U9821130:
+          point:
+            1: Fault
+    jackson:
+      0:
+        V9741064:
+          point:
+            1: Returned
+            2: Returned
+        U9821130:
+          point:
+            1: Fault
+  3:
+    old:
+      0:
+        T9822043:
+          point:
+            1: Nil
+        U9931148:
+          point:
+            1: Nil
+    smallwood:
+      0:
+        T9822043:
+          point:
+            1: Fault
+            2: Returned
+        U9931148:
+          point:
+            1: Returned
+            2: Returned
+    jackson:
+      0:
+        T9822043:
+          point:
+            1: Returned
+            2: Returned
+        U9931148:
+          point:
+            1: Returned
+            2: Unreturned
+  4:
+    old:
+      0:
+        U9818019:
+          point:
+            1: Nil
+        U9931043:
+          point:
+            1: Nil
+    smallwood:
+      0:
+        U9818019:
+          point:
+            1: Fault
+            2: Returned
+            3: Returned
+        U9931043:
+          point:
+            1: Returned
+            2: Returned
+    jackson:
+      0:
+        U9818019:
+          point:
+            1: Fault
+        U9931043:
+          point:
+            1: Returned
+            2: Returned
+set:
+  1:
+    old:
+      0:
+        U9818048:
+          1: Nil
+        U9817051:
+          1: Nil
+    smallwood:
+      0:
+        U9818048:
+          1: T
+          2:   F
+          3: T
+          4:   F
+        U9817051:
+          1: T
+          2:   F
+          3: T
+          4:   F
+    jackson:
+      0:
+        U9818048:
+          1: T
+          2:   F
+          3:   F
+          4:   F
+        U9817051:
+          1: T
+          2:   F
+          3:   F
+          4: T
+  2:
+    old:
+      0:
+        V9741064:
+          1: Nil
+        U9821130:
+          1: Nil
+    smallwood:
+      0:
+        V9741064:
+          1: T
+          2: T
+          3: T
+          4: T
+        U9821130:
+          1: T
+          2: T
+          3: T
+          4: T
+    jackson:
+      0:
+        V9741064:
+          1:   F
+          2:   F
+          3: T
+          4: T
+        U9821130:
+          1: T
+          2:   F
+          3: T
+          4: T
+  3:
+    old:
+      0:
+        T9822043:
+          1: Nil
+        U9931148:
+          1: Nil
+    smallwood:
+      0:
+        T9822043:
+          1: T
+          2: T
+          3:   F
+          4: T
+        U9931148:
+          1: T
+          2: T
+          3:   F
+          4:   F
+    jackson:
+      0:
+        T9822043:
+          1: T
+          2: T
+          3: T
+          4: T
+        U9931148:
+          1: T
+          2:   F
+          3:   F
+          4: T
+  4:
+    old:
+      0:
+        U9818019:
+          1: Nil
+        U9931043:
+          1: Nil
+    smallwood:
+      0:
+        U9818019:
+          1: T
+          2: T
+          3: T
+          4:   F
+        U9931043:
+          1: T
+          2: T
+          3:   F
+          4:   F
+    jackson:
+      0:
+        U9818019:
+          1:   F
+          2:   F
+          3: T
+          4: T
+        U9931043:
+          1: T
+          2:   F
+          3:   F
+          4: T

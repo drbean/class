@@ -1,0 +1,51 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: jackson
+grade:
+  T9822043: 2
+  U9711114: 0
+  U9817051: 2
+  U9818019: 0
+  U9818039: 0
+  U9818048: 0
+  U9821130: 2
+  U9931043: 2
+  U9931134: 2
+  U9931148: 2
+  V9741064: 2
+points:
+  T9822043:
+    letters: 124
+    percent: 97
+  U9711114:
+    letters: 0
+    percent: 0
+  U9817051:
+    letters: 107
+    percent: 100
+  U9818019:
+    letters: 0
+    percent: 0
+  U9818039:
+    letters: 0
+    percent: 0
+  U9818048:
+    letters: 0
+    percent: 0
+  U9821130:
+    letters: 103
+    percent: 100
+  U9931043:
+    letters: 107
+    percent: 100
+  U9931134:
+    letters: 114
+    percent: 100
+  U9931148:
+    letters: 109
+    percent: 100
+  V9741064:
+    letters: 114
+    percent: 96

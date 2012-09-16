@@ -1,0 +1,28 @@
+---
+activity:
+  intercultural:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+bye: U9934025
+late:
+  - U9934025
+group:
+  0:
+    White: U9822150
+    Black: U9934051
+  1:
+    White: U9934003
+    Black: V9731059
+  2:
+    White: T9821018
+    Black: U9922143
+  3:
+    White: U9934021
+    Black: U9934002
+pairing: swiss adjusted
+round: 10
+text: /home/drbean/class/conversation/intercultural/cards.yaml
+week: 13

@@ -1,0 +1,21 @@
+---
+Chinese:
+  Black: 0
+  Green: 0
+  Red: 0
+letters:
+  Black:
+    U9818048: 10
+    U9817051: 10
+    U9931134: 10
+    story: jackson1
+  Green:
+    U9821130: 9
+    V9741064: 9
+    U9931148: 10
+    story: smallwood1
+  Red:
+    T9822043: 10
+    U9818019: 10
+    U9931043: 10
+    story: jackson1
