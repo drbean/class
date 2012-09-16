@@ -4,7 +4,6 @@ Black:
   merits: 3
 Blue:
   absent: 
-    - Dalai
   merits: 2
 
 Brown:
@@ -23,6 +22,7 @@ Orange:
 
 Pink:
   absent: 
+    - Santie
   merits: 2
 Purple:
   absent:
