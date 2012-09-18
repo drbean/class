@@ -15,78 +15,78 @@ league: 應用外語科-五專日間部-5年-01班
 member:
   - Chinese: 陳慈憶
     id: 97550001
-    name: 陳慈憶
-    password: ~
+    name: Eva
+    password: ci
     rating: ~
   - Chinese: 吳家綺
     id: 97550002
-    name: 吳家綺
-    password: ~
+    name: Doris
+    password: jia
     rating: ~
   - Chinese: 林志哲
     id: 97550003
-    name: 林志哲
-    password: ~
+    name: Miru
+    password: zhi
     rating: ~
   - Chinese: 孫葶芬
     id: 97550004
-    name: 孫葶芬
-    password: ~
+    name: Cindy
+    password: ting
     rating: ~
   - Chinese: 卓揚智
     id: 97550033
-    name: 卓揚智
-    password: ~
+    name: Jay
+    password: yang
     rating: ~
   - Chinese: 朱念庭
     id: 97550008
-    name: 朱念庭
-    password: ~
+    name: Mandy
+    password: nian
     rating: ~
   - Chinese: 江可茵
     id: 97550009
-    name: 江可茵
-    password: ~
+    name: Jennifer
+    password: ke
     rating: ~
   - Chinese: 邱馨儀
     id: 97550011
-    name: 邱馨儀
-    password: ~
+    name: Anita
+    password: xin
     rating: ~
   - Chinese: 黃君媛
     id: 97550017
-    name: 黃君媛
-    password: ~
+    name: Jill
+    password: jun
     rating: ~
   - Chinese: 謝惠婷
     id: 97550018
-    name: 謝惠婷
-    password: ~
+    name: Mil
+    password: hui
     rating: ~
   - Chinese: 劉佩榕
     id: 97550021
-    name: 劉佩榕
-    password: ~
+    name: Stella
+    password: pei
     rating: ~
   - Chinese: 賴語萱
     id: 97550023
-    name: 賴語萱
-    password: ~
+    name: Yvonne
+    password: yu
     rating: ~
   - Chinese: 張笠
     id: 97550027
-    name: 張笠
-    password: ~
+    name: Cheer
+    password: li
     rating: ~
   - Chinese: 江佳玲
     id: 97550028
-    name: 江佳玲
-    password: ~
+    name: Lin
+    password: jia
     rating: ~
   - Chinese: 陳怡菁
     id: 97550031
-    name: 陳怡菁
-    password: ~
+    name: Sally
+    password: yi
     rating: ~
 out: ~
 room: jente
