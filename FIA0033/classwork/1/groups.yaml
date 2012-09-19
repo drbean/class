@@ -35,7 +35,7 @@ Orange:
   - Amber
   - Chris
   - Alice
-GreenGreen:
+OrangeOrange:
   - Tina
   - Linda1
   - Emma
@@ -43,16 +43,18 @@ Pink:
   - Ann
   - Annie
   - Santie
-OrangeOrange:
+PinkPink:
   - Nana
   - Jike
+  - Jack
 Purple:
   - Jimmy
   - George
   - Jessy
-YellowYellow:
+PurplePurple:
   - David
   - Cathy1
+  - Derrick
 Red:
   - Tosha
   - Sen
