@@ -15,6 +15,17 @@ id: 011FIA0033
 jigsaw: exam
 league: 日財金大學二甲
 member:
+  - Chinese: 鄭英杰
+    name: Jack
+    password: ying
+    id: U9816059
+    rating: ~
+  - Chinese: 蘇家緯
+    name: Derrick
+    password: jia
+    id: U9816062
+    rating: ~
+  
   - Chinese: 施凱清
     id: U0031032
     name: Leo2
@@ -256,8 +267,8 @@ member:
     password: pei
     rating: ~
   - Chinese: 陳欣愉
-    id: Sherry
-    name: 陳欣愉
+    id: U9934004
+    name: Sherry
     password: xin
     rating: ~
 out: ~
