@@ -16,8 +16,8 @@ league: 日資管大學二甲
 member:
   - Chinese: 吳昌哲
     name: Owen
-    password: U0033042
-    id: chang
+    password: chang
+    id: U0033042
     rating: ~
   
   - Chinese: 王志暄
