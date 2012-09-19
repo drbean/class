@@ -45,19 +45,21 @@ Yellow:
 BlueBlue:
   absent: 
   merits: 2
-OrangeOrange:
+GreenGreen:
   absent: 
   merits: 3
 
 # email from Andy
-BrownBrown:
-  absent: 
-  merits: 3
 PurplePurple:
   absent: 
+  merits: 3
+PinkPink:
+  absent: 
+    - Derrick
   merits: 2
 
 # assistants
-PinkPink:
+YellowYellow:
   absent:
+    - Jack
   merits: 3
