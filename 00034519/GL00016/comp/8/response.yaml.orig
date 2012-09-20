@@ -1,0 +1,761 @@
+---
+0:
+  N9561766:
+    a:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 1
+            4: 2
+            5: 1
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+    q:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: 2
+            5: 2
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+  U9821142:
+    a:
+      free:
+        free:
+          free:
+            1: 1
+            2: 2
+            3: 1
+            4: 2
+            5: 1
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+    q:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: 2
+            5: 2
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+1:
+  U9633052:
+    a:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: 2
+            5: 2
+            6: 2
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+    q:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: 2
+            5: 2
+            6: 2
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+  U9822004:
+    a:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: 2
+            5: 2
+            6: 2
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+    q:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: 2
+            5: 2
+            6: 2
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+2:
+  9622240:
+    a:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+    q:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+  N9661723:
+    a:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+    q:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+3:
+  U9633019:
+    a:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: ~
+            4: 2
+            5: ~
+            6: 2
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+    q:
+      free:
+        free:
+          free:
+            1: 2
+            2: ~
+            3: 2
+            4: ~
+            5: 2
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+  U9822019:
+    a:
+      free:
+        free:
+          free:
+            1: 2
+            2: ~
+            3: 2
+            4: ~
+            5: 2
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+    q:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: ~
+            4: 2
+            5: ~
+            6: 2
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+4:
+  T9822149:
+    a:
+      free:
+        free:
+          free:
+            1: 2
+            2: ~
+            3: ~
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+    q:
+      free:
+        free:
+          free:
+            1: 2
+            2: ~
+            3: ~
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+  U9818007:
+    a:
+      free:
+        free:
+          free:
+            1: 2
+            2: ~
+            3: ~
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+    q:
+      free:
+        free:
+          free:
+            1: 2
+            2: ~
+            3: ~
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+5:
+  9622212:
+    a:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+    q:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+  N9561765:
+    a:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+    q:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+6:
+  N9661747:
+    a:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+    q:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+  U9818046:
+    a:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+    q:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+7:
+  T9822129:
+    a:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+    q:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+  U9722022:
+    a:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 1
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
+    q:
+      free:
+        free:
+          free:
+            1: 2
+            2: 2
+            3: 2
+            4: ~
+            5: ~
+            6: ~
+          set:
+            2: ~
+            5: ~
+        set:
+          free:
+            1: ~
+          set:
+            1: ~
+      set:
+        set:
+          1: ~
+        free:
+          1: ~
