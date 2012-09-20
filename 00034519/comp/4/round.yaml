@@ -1,0 +1,39 @@
+---
+activity:
+  old:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+  smallwood:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+  jackson:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+bye: U9931134
+group:
+  1:
+    White: U9818048
+    Black: U9817051
+  2:
+    White: V9741064
+    Black: U9821130
+  3:
+    White: T9822043
+    Black: U9931148
+  4:
+    White: U9818019
+    Black: U9931043
+pairing: swiss
+payprotocol: meritPay
+round: 4
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 18

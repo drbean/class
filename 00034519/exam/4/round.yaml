@@ -1,0 +1,34 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 5
+assistant:
+absent:
+  - Max
+  - Ian
+  - Mike2
+  - Jimmy
+text: /home/drbean/class/conversation/work/cards.yaml
+activity:
+  smallwood:
+    1:
+      - Green
+  jackson:
+    1:
+      - Black
+      - Red
+group:
+  Black:
+    - Sheena
+    - Mike1
+    - Tina
+  Green:
+    - R-kai
+    - Amy
+    - Simon
+  Red:
+    - Charlie
+    - Jason
+    - Kimberly

@@ -1,0 +1,18 @@
+---
+Black:
+  absent:
+    - Sheena
+  merits: 3
+
+Green:
+  absent:
+  merits: 3
+
+Red:
+  absent:
+    - Jason
+  merits: 3
+White:
+  absent:
+    - Jimmy
+  merits: 3

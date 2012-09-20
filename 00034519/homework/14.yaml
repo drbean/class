@@ -1,0 +1,51 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: smallwood
+grade:
+  T9822043: 0
+  U9711114: 0
+  U9817051: 2
+  U9818019: 2
+  U9818039: 2
+  U9818048: 2
+  U9821130: 2
+  U9931043: 2
+  U9931134: 2
+  U9931148: 1
+  V9741064: 2
+points:
+  T9822043:
+    letters: 0
+    percent: 0
+  U9711114:
+    letters: 0
+    percent: 0
+  U9817051:
+    letters: 143
+    percent: 100
+  U9818019:
+    letters: 147
+    percent: 93
+  U9818039:
+    letters: 177
+    percent: 98
+  U9818048:
+    letters: 144
+    percent: 96
+  U9821130:
+    letters: 157
+    percent: 100
+  U9931043:
+    letters: 171
+    percent: 97
+  U9931134:
+    letters: 173
+    percent: 100
+  U9931148:
+    letters: 106
+    percent: 63
+  V9741064:
+    letters: 161
+    percent: 100

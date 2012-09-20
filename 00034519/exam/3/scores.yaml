@@ -1,0 +1,33 @@
+---
+Chinese:
+  Black: 0
+  Blue: 0
+  Green: 0
+  Orange: 0
+  Red: 0
+letters:
+  Black:
+    U9818048: 8
+    T9822043: 9
+    U9931148: 9
+    story: dickson1
+  Blue:
+    U9818019: 6
+    U9821130: 10
+    T9822043: 10
+    story: dickson1
+  Green:
+    V9741064: 9
+    U9818048: 9
+    U9931148: 9
+    story: dickson1
+  Orange:
+    U9818039: 10
+    U9711114: 9
+    U9931043: 9
+    story: abreu1
+  Red:
+    U9931134: 8
+    U9931043: 8
+    U9817051: 8
+    story: abreu1

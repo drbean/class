@@ -1,0 +1,43 @@
+---
+activity:
+  dickson:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+  abreu:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+bye: U9818048
+group:
+  1:
+    White: U9818019
+    Black: U9817051
+  2:
+    White: U9931148
+    Black: U9818039
+  3:
+    White: U9821130
+    Black: U9711114
+  4:
+    White: U9931043
+    Black: T9822043
+  5:
+    White: U9931134
+    Black: V9741064
+late:
+  - U9931134
+  - V9741064
+pairing: swiss adjusted
+assistant:
+  Black:
+    U9818048: 5
+round: 3
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 14
