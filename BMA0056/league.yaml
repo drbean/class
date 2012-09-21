@@ -15,6 +15,12 @@ id: 011BMA0056
 jigsaw: exam
 league: 日經管大學二甲
 member:
+  - Chinese: 湯竣傑
+    name: Victor
+    password: jun
+    id: U0031049
+    rating: ~
+  
   - Chinese: 彭大維
     name: 彭大維
     password: da
@@ -83,7 +89,7 @@ member:
   - Chinese: 翁翊鈞
     id: U0031013
     name: 翁翊鈞
-    password: xiang
+    password: yi
     rating: ~
   - Chinese: 蕭詩涵
     id: U0031014
