@@ -2,106 +2,66 @@
 cutpoints:
   one: 20
   two: 85
-exercise: connell
+exercise: 1st_impressions
 grade:
-  T9822043: 0
-  T9822123: 0
-  U9711114: 0
-  U9816001: 0
-  U9816035: 0
-  U9816044: 0
-  U9816045: 2
-  U9817051: 2
-  U9818019: 2
-  U9818035: 0
-  U9818048: 2
-  U9821129: 0
-  U9821130: 0
-  U9821131: 0
-  U9821134: 0
-  U9821147: 0
-  U9914051: 0
-  U9918033: 0
-  U9918044: 0
-  U9931043: 2
-  U9931123: 0
-  U9931134: 2
-  U9931148: 0
-  U9931149: 0
-  V9741064: 1
+  97550001: 2
+  97550002: 2
+  97550003: 2
+  97550004: 2
+  97550008: 2
+  97550009: 2
+  97550011: 2
+  97550017: 2
+  97550018: 2
+  97550021: 2
+  97550023: 2
+  97550027: 2
+  97550028: 2
+  97550031: 2
+  97550033: 0
 points:
-  T9822043:
-    letters: 0
-    percent: 0
-  T9822123:
-    letters: 0
-    percent: 0
-  U9711114:
-    letters: 0
-    percent: 0
-  U9816001:
-    letters: 0
-    percent: 0
-  U9816035:
-    letters: 0
-    percent: 0
-  U9816044:
-    letters: 0
-    percent: 0
-  U9816045:
-    letters: 126
+  97550001:
+    letters: 196
     percent: 100
-  U9817051:
-    letters: 104
+  97550002:
+    letters: 189
     percent: 100
-  U9818019:
-    letters: 97
-    percent: 96
-  U9818035:
-    letters: 0
-    percent: 0
-  U9818048:
-    letters: 103
-    percent: 99
-  U9821129:
-    letters: 0
-    percent: 0
-  U9821130:
-    letters: 0
-    percent: 0
-  U9821131:
-    letters: 0
-    percent: 0
-  U9821134:
-    letters: 0
-    percent: 0
-  U9821147:
-    letters: 0
-    percent: 0
-  U9914051:
-    letters: 0
-    percent: 0
-  U9918033:
-    letters: 0
-    percent: 0
-  U9918044:
-    letters: 0
-    percent: 0
-  U9931043:
-    letters: 100
-    percent: 89
-  U9931123:
-    letters: 0
-    percent: 0
-  U9931134:
-    letters: 128
+  97550003:
+    letters: 176
     percent: 100
-  U9931148:
+  97550004:
+    letters: 193
+    percent: 100
+  97550008:
+    letters: 205
+    percent: 100
+  97550009:
+    letters: 183
+    percent: 100
+  97550011:
+    letters: 180
+    percent: 100
+  97550017:
+    letters: 187
+    percent: 100
+  97550018:
+    letters: 180
+    percent: 100
+  97550021:
+    letters: 193
+    percent: 100
+  97550023:
+    letters: 180
+    percent: 100
+  97550027:
+    letters: 191
+    percent: 100
+  97550028:
+    letters: 190
+    percent: 100
+  97550031:
+    letters: 198
+    percent: 100
+  97550033:
     letters: 0
     percent: 0
-  U9931149:
-    letters: 0
-    percent: 0
-  V9741064:
-    letters: 51
-    percent: 67
