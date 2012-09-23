@@ -4,6 +4,10 @@ cutpoints:
   two: 85
 exercise: interview
 grade:
+
+# no contact
+  U9934026: 0
+
   U0031032: 0
   U0031046: 2
   U0034001: 1
