@@ -1,7 +1,12 @@
 ---
+Daniel:
+      absent: 
+        - Daniel
+      merits: 0
+
 Black:
       absent: 
-        - 陳怡婷
+        - Tony
       merits: 2
 Blue:
       absent: 
@@ -14,7 +19,7 @@ Gray:
       merits: 3
 Green:
       absent: 
-        -  鐵木倫
+        -  Jenny
       merits: 3
 BlackBlack:
       absent: 
