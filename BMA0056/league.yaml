@@ -15,6 +15,18 @@ id: 011BMA0056
 jigsaw: exam
 league: 日經管大學二甲
 member:
+  - Chinese: 陳哲彬
+    name: Tony
+    password: zhe
+    id: U0022016
+    rating: ~
+  - Chinese: 陳沛瑋
+    name: Daniel
+    password: pei
+    id: 9633253
+    rating: ~
+  
+  
   - Chinese: 湯竣傑
     name: Victor
     password: jun
@@ -248,7 +260,7 @@ member:
     rating: ~
   - Chinese: 鐵木倫
     id: U9831152
-    name: 鐵木倫
+    name: Jenny
     password: mu
     rating: ~
   - Chinese: 江佳蕙
