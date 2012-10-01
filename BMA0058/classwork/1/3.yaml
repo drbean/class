@@ -1,10 +1,9 @@
 ---
-Green:
+GreenGreen:
   absent: 
   merits: 3
 Black:
   absent: 
-    - Yao
   merits: 2
 
 Blue:
@@ -17,44 +16,41 @@ Brown:
 Gray:
   absent: 
   merits: 2
-Purple:
+Green:
   absent:
   merits: 3
+
+BlackBlack:
+  absent: 
+  merits: 2
+BlueBlue:
+  absent:
+  merits: 3
+
+YellowYellow:
+  absent: 
+  merits: 3
+Orange:
+  absent: 
+  merits: 2
 
 Pink:
   absent: 
   merits: 2
-Orange:
+Purple:
   absent: 
   merits: 3
 
-BlueBlue:
-  absent: 
-  merits: 3
 Red:
   absent: 
-    - Alice1
-  merits: 2
-
+  merits: 3
 White:
   absent: 
-  merits: 3
+  merits: 2
+
 Yellow:
   absent: 
-  merits: 2
-
-BlackBlack:
-  absent: 
-    - Sheryl
   merits: 3
-GreenGreen:
-  absent: 
-    - Lulu
-  merits: 2
-
-GrayGray:
-  absent: 
-  merits: 3
-BrownBrown:
+Ciyun:
   absent: 
   merits: 2
