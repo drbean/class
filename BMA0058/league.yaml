@@ -15,6 +15,12 @@ id: 011BMA0058
 jigsaw: exam
 league: 日經管大學二甲
 member:
+  - Chinese: 吳姿澐
+    name: Ciyun
+    password: ci
+    id: U9931248
+    rating: ~
+  
   - Chinese: 曾佳柔
     name: Joyce
     password: jia

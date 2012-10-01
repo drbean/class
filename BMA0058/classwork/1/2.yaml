@@ -47,3 +47,8 @@ Yellow:
 YellowYellow:
       absent: 
       merits: 3
+
+Ciyun:
+      absent:
+        - Ciyun
+      merits: 0
