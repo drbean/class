@@ -21,12 +21,6 @@ member:
     password: wei
     rating: ~
 
-  - Chinese: 吳姿澐
-    name: Ciyun
-    password: ci
-    id: U9931248
-    rating: ~
-  
   - Chinese: 曾佳柔
     name: Joyce
     password: jia
@@ -254,15 +248,16 @@ member:
     password: min
     rating: ~
 out:
+  - Chinese: 吳姿澐
+    name: Ciyun
+    password: ci
+    id: U9931248
+    rating: ~
+  
   - Chinese: 李研慧
     id: U0031125
     name: 李研慧
     password: yan
-    rating: ~
-  - Chinese: 吳姿澐
-    id: U9931248
-    name: 吳姿澐
-    password: zi
     rating: ~
 room: A706
 scores:
