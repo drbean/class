@@ -1,1049 +1,558 @@
 ---
-0:
-  free:
-    T9833026:
-      a:
-        1: 1
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-    U9931142:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-  set:
-    stress:
+free:
+  0:
+    fast-track:
       0:
-        T9833026:
-          1:   F
-          2: T
-          3: T
-          4:   F
-        U9931142:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    adventure:
+        U0031002:
+          point:
+            1: Returned
+            2: Returned
+        U0031013:
+          point:
+            1: Nil
+    tips:
       0:
-        T9833026:
-          1: T
-          2:   F
-          3: T
-          4:   F
-        U9931142:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-      1:
-        T9833026:
-          1:   F
-          2: T
-          3: T
-          4:   F
-        U9931142:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-1:
-  free:
-    U9931039:
-      a:
-        1: 2
-        2: 2
-      q:
-        1: 1
-        2: 1
-    U9931013:
-      a:
-        1: 1
-        2: 2
-      q:
-        1: 1
-        2: 1
-  set:
-    stress:
+        U0031002:
+          point:
+            1: Nil
+        U0031013:
+          point:
+            1: Returned
+            2: Fault
+    beliefs:
       0:
-        U9931039:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931013:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    adventure:
+        U0031002:
+          point:
+            1: Fault
+        U0031013:
+          point:
+            1: Nil
+  1:
+    fast-track:
       0:
-        U9931039:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-        U9931013:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-      1:
-        U9931039:
-          1: T
-          2: T
-          3:   F
-          4:   F
-        U9931013:
-          1: T
-          2: T
-          3:   F
-          4:   F
-2:
-  free:
-    U9931001:
-      a:
-        1: 2
-        2: 2
-        3: 1
-      q:
-        1: 1
-        2: 1
-        3: 1
-    U9931103:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-  set:
-    stress:
+        U0031041:
+          point:
+            1: Unreturned
+            2: Returned
+        U0031004:
+          point:
+            1: Nil
+    tips:
       0:
-        U9931001:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931103:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    adventure:
+        U0031041:
+          point:
+            1: Nil
+        U0031004:
+          point:
+            1: Nil
+    beliefs:
       0:
-        U9931001:
-          1:   F
-          2:   F
-          3:   F
-          4:   F
-        U9931103:
-          1: T
-          2: T
-          3:   F
-          4:   F
-      1:
-        U9931001:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931103:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-3:
-  free:
-    U9931004:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-    T9833024:
-      a:
-        1: 2
-        2: 2
-        3: 1
-      q:
-        1: 1
-        2: 1
-        3: 1
-  set:
-    stress:
+        U0031041:
+          point:
+            1: Returned
+        U0031004:
+          point:
+            1: Returned
+            2: Returned
+  2:
+    fast-track:
       0:
-        U9931004:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        T9833024:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    adventure:
+        U0031020:
+          point:
+            1: Returned
+        U0031005:
+          point:
+            1: Nil
+    tips:
       0:
-        U9931004:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-        T9833024:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-      1:
-        U9931004:
-          1:   F
-          2:   F
-          3:   F
-          4: T
-        T9833024:
-          1:   F
-          2:   F
-          3:   F
-          4: T
-4:
-  free:
-    U9931145:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-    U9931029:
-      a:
-        1: 2
-        2: 2
-        3: 1
-      q:
-        1: 1
-        2: 1
-        3: 1
-  set:
-    stress:
+        U0031020:
+          point:
+            1: Returned
+        U0031005:
+          point:
+            1: Nil
+    beliefs:
       0:
-        U9931145:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931029:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    adventure:
+        U0031020:
+          point:
+            1: Nil
+        U0031005:
+          point:
+            1: Returned
+  3:
+    fast-track:
       0:
-        U9931145:
-          1:   F
-          2: T
-          3: T
-          4: T
-        U9931029:
-          1:   F
-          2: T
-          3: T
-          4: T
-      1:
-        U9931145:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931029:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-5:
-  free:
-    U9931041:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-    U9931101:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-  set:
-    stress:
+        U0031049:
+          point:
+            1: Returned
+        U0031038:
+          point:
+            1: Returned
+            2: Returned
+    tips:
       0:
-        U9931041:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931101:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    adventure:
+        U0031049:
+          point:
+            1: Fault
+        U0031038:
+          point:
+            1: Fault
+    beliefs:
       0:
-        U9931041:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-        U9931101:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-      1:
-        U9931041:
-          1:   F
-          2:   F
-          3:   F
-          4: T
-        U9931101:
-          1:   F
-          2:   F
-          3:   F
-          4: T
-6:
-  free:
-    U9931105:
-      a:
-        1: 1
-        2: 1
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-    U9931002:
-      a:
-        1: 2
-        2: 1
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-  set:
-    stress:
+        U0031049:
+          point:
+            1: Unreturned
+        U0031038:
+          point:
+            1: Nil
+  4:
+    fast-track:
       0:
-        U9931105:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931002:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    adventure:
+        U0031048:
+          point:
+            1: Unreturned
+        U0031028:
+          point:
+            1: Returned
+    tips:
       0:
-        U9931105:
-          1: T
-          2: T
-          3:   F
-          4:   F
-        U9931002:
-          1: T
-          2: T
-          3:   F
-          4:   F
-      1:
-        U9931105:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931002:
-          1:   F
-          2: T
-          3:   F
-          4: T
-7:
-  free:
-    U9931012:
-      a:
-        1: 1
-        2: 1
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-    U9931042:
-      a:
-        1: 1
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-  set:
-    stress:
+        U0031048:
+          point:
+            1: Returned
+        U0031028:
+          point:
+            1: Nil
+    beliefs:
       0:
-        U9931012:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931042:
-          1: Other
-          2: F
-          3: F
-          4: T
-    adventure:
+        U0031048:
+          point:
+            1: Returned
+        U0031028:
+          point:
+            1: Unreturned
+  5:
+    fast-track:
       0:
-        U9931012:
-          1: T
-          2: T
-          3:   F
-          4:   F
-        U9931042:
-          1: T
-          2:   F
-          3:   F
-          4: T
-      1:
-        U9931012:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931042:
-          1: T
-          2: T
-          3:   F
-          4: T
-8:
-  free:
-    U9931133:
-      a:
-        1: 1
-        2: 2
-      q:
-        1: 1
-        2: 1
-    U9931111:
-      a:
-        1: 1
-        2: 2
-      q:
-        1: 1
-        2: 1
-  set:
-    stress:
+        U0022016:
+          point:
+            1: Nil
+        U0031012:
+          point:
+            1: Nil
+    tips:
       0:
-        U9931133:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931111:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    adventure:
+        U0022016:
+          point:
+            1: Returned
+            2: Returned
+        U0031012:
+          point:
+            1: Returned
+            2: Returned
+    beliefs:
       0:
-        U9931133:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-        U9931111:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-      1:
-        U9931133:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931111:
-          1:   F
-          2: T
-          3:   F
-          4: T
-9:
-  free:
-    U9931014:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-    U9931015:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-  set:
-    stress:
+        U0022016:
+          point:
+            1: Nil
+        U0031012:
+          point:
+            1: Nil
+  6:
+    fast-track:
       0:
-        U9931014:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931015:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    adventure:
+        U0031039:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        U0031034:
+          point:
+            1: Returned
+            2: Returned
+    tips:
       0:
-        U9931014:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-        U9931015:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-      1:
-        U9931014:
-          1:   F
-          2:   F
-          3:   F
-          4: T
-        U9931015:
-          1:   F
-          2:   F
-          3:   F
-          4: T
-10:
-  free:
-    U9931138:
-      a:
-        1: 1
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-    U9931102:
-      a:
-        1: 2
-        2: 1
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-  set:
-    stress:
+        U0031039:
+          point:
+            1: Nil
+        U0031034:
+          point:
+            1: Nil
+    beliefs:
       0:
-        U9931138:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931102:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    adventure:
+        U0031039:
+          point:
+            1: Nil
+        U0031034:
+          point:
+            1: Nil
+  7:
+    fast-track:
       0:
-        U9931138:
-          1: T
-          2: T
-          3:   F
-          4:   F
-        U9931102:
-          1: T
-          2: T
-          3:   F
-          4:   F
-      1:
-        U9931138:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-        U9931102:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-11:
-  free:
-    U9931109:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-    U9931017:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-  set:
-    stress:
+        U0031036:
+          point:
+            1: Returned
+            2: Returned
+        U0031029:
+          point:
+            1: Old
+            2: Returned
+    tips:
       0:
-        U9931109:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931017:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    adventure:
+        U0031036:
+          point:
+            1: Nil
+        U0031029:
+          point:
+            1: Returned
+    beliefs:
       0:
-        U9931109:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-        U9931017:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-      1:
-        U9931109:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-        U9931017:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-12:
-  free:
-    U9931034:
-      a:
-        1: 2
-        2: 2
-      q:
-        1: 1
-        2: 1
-    U9931025:
-      a:
-        1: 2
-        2: 1
-      q:
-        1: 1
-        2: 1
-  set:
-    stress:
+        U0031036:
+          point:
+            1: Returned
+        U0031029:
+          point:
+            1: Nil
+  8:
+    fast-track:
       0:
-        U9931034:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931025:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    adventure:
+        U0031044:
+          point:
+            1: Returned
+            2: Returned
+        U0031025:
+          point:
+            1: Returned
+    tips:
       0:
-        U9931034:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-        U9931025:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-      1:
-        U9931034:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-        U9931025:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-13:
-  free:
-    U9931134:
-      a:
-        1: 2
-        2: 2
-      q:
-        1: 1
-        2: 1
-    U9931146:
-      a:
-        1: 2
-        2: 2
-      q:
-        1: 1
-        2: 1
-  set:
-    stress:
+        U0031044:
+          point:
+            1: Returned
+            2: Returned
+        U0031025:
+          point:
+            1: Returned
+            2: Returned
+    beliefs:
       0:
-        U9931134:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931146:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    adventure:
+        U0031044:
+          point:
+            1: Nil
+        U0031025:
+          point:
+            1: Nil
+  9:
+    fast-track:
       0:
-        U9931134:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-        U9931146:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-      1:
-        U9931134:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931146:
-          1:   F
-          2: T
-          3:   F
-          4: T
-14:
-  free:
-    U9931028:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-    U9931127:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-  set:
-    stress:
+        U0031042:
+          point:
+            1: Returned
+        U0031014:
+          point:
+            1: Returned
+    tips:
       0:
-        U9931028:
-          1:   F
-          2:   F
-          3:   F
-          4: T
-        U9931127:
-          1:   F
-          2:   F
-          3:   F
-          4: T
-    adventure:
+        U0031042:
+          point:
+            1: Returned
+        U0031014:
+          point:
+            1: Returned
+            2: Old
+    beliefs:
       0:
-        U9931028:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-        U9931127:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-      1:
-        U9931028:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-        U9931127:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-15:
-  free:
-    U9931043:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-    U9931149:
-      a:
-        1: 2
-        2: 2
-        3: 1
-      q:
-        1: 1
-        2: 1
-        3: 1
-  set:
-    stress:
+        U0031042:
+          point:
+            1: Returned
+        U0031014:
+          point:
+            1: Returned
+  10:
+    fast-track:
       0:
-        U9931043:
-          1: T
-          2: T
-          3:   F
-          4:   F
-        U9931149:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    adventure:
+        U0031016:
+          point:
+            1: Returned
+        U9931152:
+          point:
+            1: Nil
+    tips:
       0:
-        U9931043:
-          1: T
-          2: T
-          3:   F
-          4:   F
-        U9931149:
-          1: T
-          2: T
-          3: T
-          4:   F
-      1:
-        U9931043:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-        U9931149:
-          1:   F
-          2: T
-          3:   F
-          4: T
-16:
-  free:
-    U9931007:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-    U9931026:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-  set:
-    stress:
+        U0031016:
+          point:
+            1: Returned
+        U9931152:
+          point:
+            1: Fault
+    beliefs:
       0:
-        U9931007:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931026:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    adventure:
+        U0031016:
+          point:
+            1: Old
+            2: Returned
+        U9931152:
+          point:
+            1: Returned
+  11:
+    fast-track:
       0:
-        U9931007:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-        U9931026:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-      1:
-        U9931007:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931026:
-          1:   F
-          2: T
-          3:   F
-          4: T
-17:
-  free:
-    U9931037:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-    U9931110:
-      a:
-        1: 1
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-  set:
-    stress:
+        U0031027:
+          point:
+            1: Returned
+        U0031037:
+          point:
+            1: Returned
+    tips:
       0:
-        U9931037:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931110:
-          1:   F
-          2:   F
-          3:   F
-          4: T
-    adventure:
+        U0031027:
+          point:
+            1: Returned
+            2: Returned
+        U0031037:
+          point:
+            1: Returned
+    beliefs:
       0:
-        U9931037:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-        U9931110:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-      1:
-        U9931037:
-          1: T
-          2: T
-          3:   F
-          4: T
-        U9931110:
-          1:   F
-          2: T
-          3:   F
-          4: T
-18:
-  free:
-    U9931140:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-    U9931003:
-      a:
-        1: 2
-        2: 2
-        3: 2
-      q:
-        1: 1
-        2: 1
-        3: 1
-  set:
-    stress:
+        U0031027:
+          point:
+            1: Nil
+        U0031037:
+          point:
+            1: Nil
+  12:
+    fast-track:
       0:
-        U9931140:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931003:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    adventure:
+        U0031033:
+          point:
+            1: Returned
+            2: Returned
+        U0031031:
+          point:
+            1: Unreturned
+    tips:
       0:
-        U9931140:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-        U9931003:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-      1:
-        U9931140:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9931003:
-          1:   F
-          2: T
-          3:   F
-          4: T
+        U0031033:
+          point:
+            1: Returned
+        U0031031:
+          point:
+            1: Returned
+    beliefs:
+      0:
+        U0031033:
+          point:
+            1: Nil
+        U0031031:
+          point:
+            1: Returned
+  13:
+    fast-track:
+      0:
+        U0031018:
+          point:
+            1: Returned
+            2: Returned
+        U0031006:
+          point:
+            1: Returned
+    tips:
+      0:
+        U0031018:
+          point:
+            1: Nil
+        U0031006:
+          point:
+            1: Returned
+    beliefs:
+      0:
+        U0031018:
+          point:
+            1: Nil
+        U0031006:
+          point:
+            1: Nil
+  14:
+    fast-track:
+      0:
+        U0031001:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        U0031047:
+          point:
+            1: Returned
+    tips:
+      0:
+        U0031001:
+          point:
+            1: Nil
+        U0031047:
+          point:
+            1: Returned
+    beliefs:
+      0:
+        U0031001:
+          point:
+            1: Nil
+        U0031047:
+          point:
+            1: Returned
+  15:
+    fast-track:
+      0:
+        U0031007:
+          point:
+            1: Returned
+        U0031035:
+          point:
+            1: Nil
+    tips:
+      0:
+        U0031007:
+          point:
+            1: Returned
+            2: Returned
+        U0031035:
+          point:
+            1: Returned
+            2: Returned
+    beliefs:
+      0:
+        U0031007:
+          point:
+            1: Nil
+        U0031035:
+          point:
+            1: Nil
+  16:
+    fast-track:
+      0:
+        U0031008:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        U0031017:
+          point:
+            1: Returned
+    tips:
+      0:
+        U0031008:
+          point:
+            1: Nil
+        U0031017:
+          point:
+            1: Returned
+            2: Returned
+    beliefs:
+      0:
+        U0031008:
+          point:
+            1: Returned
+        U0031017:
+          point:
+            1: Nil
+  17:
+    fast-track:
+      0:
+        U0031022:
+          point:
+            1: Nil
+        U0031009:
+          point:
+            1: Returned
+            2: Returned
+    tips:
+      0:
+        U0031022:
+          point:
+            1: Returned
+            2: Returned
+        U0031009:
+          point:
+            1: Old
+    beliefs:
+      0:
+        U0031022:
+          point:
+            1: Nil
+        U0031009:
+          point:
+            1: Nil
+  18:
+    fast-track:
+      0:
+        U0031043:
+          point:
+            1: Returned
+        U0031010:
+          point:
+            1: Returned
+    tips:
+      0:
+        U0031043:
+          point:
+            1: Returned
+        U0031010:
+          point:
+            1: Nil
+    beliefs:
+      0:
+        U0031043:
+          point:
+            1: Nil
+        U0031010:
+          point:
+            1: Returned
+  19:
+    fast-track:
+      0:
+        U0031045:
+          point:
+            1: Returned
+            2: Returned
+        U0031024:
+          point:
+            1: Returned
+            2: Returned
+    tips:
+      0:
+        U0031045:
+          point:
+            1: Nil
+        U0031024:
+          point:
+            1: Returned
+    beliefs:
+      0:
+        U0031045:
+          point:
+            1: Nil
+        U0031024:
+          point:
+            1: Nil
+  20:
+    fast-track:
+      0:
+        U0031003:
+          point:
+            1: Nil
+        U0031011:
+          point:
+            1: Nil
+    tips:
+      0:
+        U0031003:
+          point:
+            1: Nil
+        U0031011:
+          point:
+            1: Returned
+    beliefs:
+      0:
+        U0031003:
+          point:
+            1: Returned
+        U0031011:
+          point:
+            1: Nil
