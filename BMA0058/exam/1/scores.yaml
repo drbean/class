@@ -5,9 +5,8 @@ Chinese:
   Blue: 0
   BlueBlue: 0
   Brown: 0
-  BrownBrown: 0
+  Ciyun: 0
   Gray: 0
-  GrayGray: 0
   Green: 0
   GreenGreen: 0
   Orange: 0
@@ -16,84 +15,85 @@ Chinese:
   Red: 0
   White: 0
   Yellow: 0
+  YellowYellow: 0
 letters:
   Black:
-    U9931001: 1
-    T9833026: 0
-    U9931037: 3
-    story: adventure10
+    U0031138: 0
+    U0031126: 0
+    U0031117: 0
+    story: tips11
   BlackBlack:
-    U9931139: 2
-    U9931130: 2
-    U9931006: 2
-    story: adventure10
+    U0031141: 1
+    U0031119: 0
+    U0031130: 1
+    story: tips12
   Blue:
-    U9931001: 3
-    U9931110: 4
-    U9931007: 4
-    story: adventure9
+    U0031133: 0
+    U0031127: 1
+    U0031205: 0
+    story: tips9
   BlueBlue:
-    U9931149: 4
-    U9931125: 4
-    U9931143: 4
-    story: adventure10
+    U0031110: 0
+    U0031104: 0
+    U0031122: 0
+    story: tips9
   Brown:
-    T9833024: 1
-    U9931142: 1
-    U9931043: 1
-    story: adventure10
-  BrownBrown:
-    U9931145: 3
-    U9931149: 2
-    U9931127: 3
-    story: adventure8
+    U0031111: 0
+    U0031103: 0
+    U0031116: 2
+    story: tips11
+  Ciyun:
+    U0031124: 0
+    U9931001: 0
+    U0031109: 0
+    story: tips12
   Gray:
-    U9931101: 5
-    U9931140: 5
-    U9931134: 5
-    story: adventure9
-  GrayGray:
-    U9931042: 2
-    U9931026: 2
-    U9931109: 2
-    story: adventure10
+    U0031140: 0
+    U0031135: 0
+    U0031115: 1
+    story: tips8
   Green:
-    U9931105: 1
-    U9931039: 1
-    U9931102: 0
-    story: adventure8
+    U0031128: 0
+    U0031123: 0
+    U0031102: 0
+    story: tips11
   GreenGreen:
-    U9931026: 2
-    U9931013: 1
-    U9931003: 3
-    story: adventure8
+    U0031124: 0
+    U0031101: 0
+    U0031109: 0
+    story: tips12
   Orange:
-    U9931015: 4
-    U9931103: 4
-    U9931014: 5
-    story: adventure9
+    U0031131: 0
+    U0031120: 0
+    U0031147: 0
+    story: tips10
   Pink:
-    U9931138: 1
-    U9931146: 1
-    U9931012: 1
-    story: adventure8
+    U0031106: 0
+    U0031143: 0
+    U0031129: 0
+    story: tips8
   Purple:
-    U9931140: 2
-    U9931004: 2
-    U9931111: 2
-    story: adventure10
+    U0031145: 0
+    U0031108: 0
+    U0031142: 0
+    story: tips10
   Red:
-    U9931017: 4
-    U9931028: 3
-    U9931002: 3
-    story: adventure9
+    U0031105: 0
+    U0031118: 1
+    U0031113: 0
+    story: tips12
   White:
-    U9931034: 1
-    U9931029: 4
-    U9931041: 2
-    story: adventure10
+    U0031114: 0
+    U0031146: 0
+    U0031136: 0
+    story: tips9
   Yellow:
-    U9931133: 2
-    U9931111: 3
-    U9931025: 2
-    story: adventure9
+    U0031150: 0
+    U0031132: 0
+    U0031107: 0
+    story: tips8
+  YellowYellow:
+    U0031112: 0
+    U0031144: 0
+    U0031139: 0
+    story: tips9

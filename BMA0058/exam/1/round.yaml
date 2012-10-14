@@ -2,102 +2,100 @@
 round: Exam 1
 week: 5
 questions:
-  - 5
-pass: 2
+  - 2
+pass: 0
 assistant:
-  - Willie
-  - Will
-  - YiChun
-  - Robert
-  - Laura
+  - Alen
+  - Fang
 absent:
-  - Flora
-  - Rita
-  - Yao
-text: /home/drbean/class/business/stress/cards.yaml
+  - Ciyun
+text: /home/drbean/class/business/careers/cards.yaml
 activity:
-  adventure:
+  tips:
     8:
-      - Green
+      - Gray
       - Pink
-      - BrownBrown
-      - GreenGreen
+      - Yellow
     9:
       - Blue
-      - Gray
-      - Orange
-      - Red
-      - Yellow
+      - BlueBlue
+      - White
+      - YellowYellow
     10:
+      - Orange
+      - Purple
+    11:
       - Black
       - Brown
-      - Purple
-      - White
+      - Green
+    12:
       - BlackBlack
-      - BlueBlue
-      - GrayGray
+      - Ciyun
+      - GreenGreen
+      - Red
 group:
+  Ciyun:
+    - Alen
+    - Willie
+    - Casper
+  
   Black:
-    - Willie
-    - Harry
-    - Jason
+    - A-Mei
+    - Lydia
+    - Susan
   BlackBlack:
-    - Linda
-    - Lisa
-    - Sheryl
+    - Alison
+    - Chelsea
+    - Wayne
   Blue:
-    - Willie
-    - Merlin
-    - Nina
-  BlueBlue:
-    - Robert
-    - Jim
-    - Amy4
-  Brown:
-    - Jay
-    - Sandy2
-    - Kimberly
-  BrownBrown:
-    - Erin
-    - Robert
-    - Peilin
-  Gray:
-    - Jenny
-    - Will
-    - Tina
-  GrayGray:
-    - Helen
-    - Laura
-    - Cathy
-  Green:
-    - Sandy1
-    - Jane
-    - Kevin2
-  Yellow:
-    - Amy3
-    - YiChun
-    - Amy1
-  Orange:
-    - Len
-    - Nora
-    - Angeline
-  Pink:
+    - Yi-Zhen
+    - Bebe
     - Mandy
-    - Anting
-    - Zara
-  Purple:
-    - Will
-    - Kelly
-    - YiChun
-  Red:
-    - Janet
-    - Alice1
-    - Angel
-  White:
-    - Cindy
-    - Karen
-    - Jojo
+  BlueBlue:
+    - Polly
+    - Angela
+    - Ya-Lin
+  Brown:
+    - SuSu
+    - Yuda
+    - Lin-ho
+  Gray:
+    - Wade
+    - Annie
+    - Christina
+  Green:
+    - Grace
+    - Maggie
+    - Jim
   GreenGreen:
-    - Laura
-    - Lulu
-    - Kathy
+    - Alen
+    - Fang
+    - Casper
+  Orange:
+    - Aling
+    - Skylla
+    - Apple
+  Pink:
+    - Cathy
+    - Max
+    - Jeffrey
+  Purple:
+    - Sam
+    - Caxton
+    - Jungle
+  Red:
+    - Venus
+    - Penny
+    - Jason
+  White:
+    - Joanna
+    - Jenny
+    - Eric
+  Yellow:
+    - Joyce
+    - Cindy
+    - Tiffany
+  YellowYellow:
+    - Bella
+    - Jill
+    - Winnie
