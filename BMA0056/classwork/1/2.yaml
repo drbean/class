@@ -2,6 +2,7 @@
 Daniel:
       absent: 
         - Daniel
+        -  Jenny
       merits: 0
 
 Black:
@@ -19,7 +20,7 @@ Gray:
       merits: 3
 Green:
       absent: 
-        -  Jenny
+        -  WeiYu
       merits: 3
 BlackBlack:
       absent: 
