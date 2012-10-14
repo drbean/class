@@ -70,9 +70,10 @@ activity:
       - 20
       - 21
 assistant: 
-  - U0031141
-  - U0031130
-  - U0031119
+  BlackBlack:
+    U0031141: 5
+    U0031130: 5
+    U0031119: 5
 bye: U0031127
 divisions:
   - free
