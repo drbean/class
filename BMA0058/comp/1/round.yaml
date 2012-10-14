@@ -1,7 +1,8 @@
 ---
 activity:
-  tips:
+  fast-track:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -17,14 +18,69 @@ activity:
       - 13
       - 14
       - 15
-      - 16
       - 17
       - 18
       - 19
-assistant: ~
-bye: U0031103
+      - 20
+      - 21
+  tips:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+  beliefs:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+assistant: 
+  - U0031141
+  - U0031130
+  - U0031119
+bye: U0031127
+divisions:
+  - free
 dispensation: ~
 group:
+  0:
+    White: U0031103
+    Black: U9931001
   1:
     White: U0031133
     Black: U0031129
@@ -36,7 +92,7 @@ group:
     Black: U0031128
   4:
     White: U0031101
-    Black: U0031130
+    Black: U0031143
   5:
     White: U0031140
     Black: U0031136
@@ -70,9 +126,6 @@ group:
   15:
     White: U0031123
     Black: U0031104
-  16:
-    White: U0031141
-    Black: U0031126
   17:
     White: U0031114
     Black: U0031131
@@ -82,10 +135,24 @@ group:
   19:
     White: U0031146
     Black: U0031138
+  20:
+    White: U0031116
+    Black: U0031150
+  21:
+    White: U0031142
+    Black: U0031117
+  
+
 late:
-  - ~
+  - U0031127
+  - U0031143
+  - U0031116
+  - U0031150
+  - U0031142
+  - U0031117
+
 pairing: swiss
 payprotocol: meritPay
 round: 1
 text: ~
-week: ~
+week: 5
