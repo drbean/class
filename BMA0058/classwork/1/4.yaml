@@ -1,60 +1,60 @@
 ---
 Black:
-  absent: 
-    - Yao
-  merits:  2
+      absent: 
+      merits: 3
 Blue:
-  absent:  
-  merits:  3
+      absent: 
+      merits: 2
 
 Brown:
-  absent:  
-  merits:  2
+      absent: 
+      merits: 2
 Gray:
-  absent:  
-  merits:  3
+      absent: 
+        - Wade
+      merits: 3
 
 Green:
-  absent:  
-  merits:  2
-Orange:
-  absent:  
-  merits:  3
-
-Pink:
-  absent:  
-  merits:  2
-Purple:
-  absent:
-  merits:  3
-
-Red:
-  absent:  
-  merits:  3
-White:
-  absent:  
-  merits:  2
-
-Yellow:
-  absent:  
-    - Rita
-  merits:  3
+      absent: 
+      merits: 2
 BlackBlack:
-  absent:  
-  merits:  2
+      absent: 
+      merits: 3
 
 BlueBlue:
-  absent:  
-    - Flora
-  merits:  3
-BrownBrown:
-  absent:  
-  merits:  2
-
-GrayGray:
-  absent:  
-    - Helen
-  merits:  2
+      absent: 
+      merits: 3
 GreenGreen:
-  absent:  
-  merits:  3
+      absent: 
+      merits: 2
+
+Orange:
+      absent: 
+      merits: 3
+Pink:
+      absent: 
+      merits: 2
+
+Purple:
+      absent:
+      merits: 2
+Red:
+      absent: 
+      merits: 3
+
+White:
+      absent: 
+      merits: 2
+YellowYellow:
+      absent: 
+      merits: 3
+
+# assistants
+Yellow:
+      absent: 
+      merits: 3
+
+Ciyun:
+      absent:
+        - Ciyun
+      merits: 3
