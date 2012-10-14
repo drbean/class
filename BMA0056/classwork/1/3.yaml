@@ -1,60 +1,63 @@
 ---
+Daniel:
+      absent: 
+        - Daniel
+      merits: 2
+
 Green:
-  absent: 
-  merits: 3
+      absent: 
+        - WeiYu
+      merits: 2
 Black:
-  absent: 
-    - Yao
-  merits: 2
+      absent: 
+      merits: 3
 
 Blue:
-  absent: 
-  merits: 2
+      absent: 
+      merits: 2
 Brown:
-  absent: 
-  merits: 3
+      absent: 
+      merits: 3
 
 Gray:
-  absent: 
-  merits: 2
-Purple:
-  absent:
-  merits: 3
-
-Pink:
-  absent: 
-  merits: 2
-Orange:
-  absent: 
-  merits: 3
-
-BlueBlue:
-  absent: 
-  merits: 3
-Red:
-  absent: 
-    - Alice1
-  merits: 2
-
-White:
-  absent: 
-  merits: 3
-Yellow:
-  absent: 
-  merits: 2
+      absent: 
+      merits: 2
+BrownBrown:
+      absent: 
+        - Max
+      merits: 3
 
 BlackBlack:
-  absent: 
-    - Sheryl
-  merits: 3
-GreenGreen:
-  absent: 
-    - Lulu
-  merits: 2
+      absent: 
+      merits: 3
+BlueBlue:
+      absent: 
+      merits: 2
 
-GrayGray:
-  absent: 
-  merits: 3
-BrownBrown:
-  absent: 
-  merits: 2
+White:
+      absent: 
+      merits: 2
+Orange:
+      absent: 
+      merits: 3
+
+Pink:
+      absent: 
+      merits: 2
+Purple:
+      absent:
+      merits: 3
+
+Red:
+      absent: 
+      merits: 2
+PinkPink:
+      absent: 
+      merits: 3
+
+Yellow:
+      absent: 
+      merits: 3
+OrangeOrange:
+      absent: 
+      merits: 2
