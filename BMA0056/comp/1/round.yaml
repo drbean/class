@@ -2,6 +2,7 @@
 activity:
   fast-track:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -20,8 +21,11 @@ activity:
       - 16
       - 17
       - 18
+      - 19
+      - 20
   tips:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -40,8 +44,11 @@ activity:
       - 16
       - 17
       - 18
+      - 19
+      - 20
   beliefs:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -60,12 +67,18 @@ activity:
       - 16
       - 17
       - 18
+      - 19
+      - 20
 assistant: ~
-bye: U0031002
+bye: U0031040
 divisions:
   - free
 dispensation: ~
 group:
+  0:
+    White: U0031002
+    Black: U0031013
+  
   1:
     White: U0031041
     Black: U0031004
@@ -120,10 +133,23 @@ group:
   18:
     White: U0031043
     Black: U0031010
+
+  19:
+    White: U0031045
+    Black: U0031024
+  20:
+    White: U0031003
+    Black: U0031011
+  
 late:
-  - ~
-pairing: swiss
+  - U0031013
+  - U0031045
+  - U0031024
+  - U0031003
+  - U0031011
+  - U0031040
+pairing: swiss adjusted
 payprotocol: meritPay
 round: 1
-text: ~
-week: ~
+text: /home/drbean/class/business/careers/cards.yaml
+week: 5
