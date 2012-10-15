@@ -15,6 +15,12 @@ id: 011BMA0056
 jigsaw: exam
 league: 日經管大學二甲
 member:
+  - Chinese: 楊崴宇
+    id: U9831006
+    name: WeiYu
+    password: wei
+    rating: ~
+  
   - Chinese: 陳哲彬
     name: Tony
     password: zhe
@@ -65,7 +71,7 @@ member:
     rating: ~
   - Chinese: 黃珮玲
     id: U0031006
-    name: Polly
+    name: Polly1
     password: pei
     rating: ~
   - Chinese: 林思穎
@@ -127,11 +133,6 @@ member:
     id: U0031020
     name: Ian
     password: zi
-    rating: ~
-  - Chinese: 陳怡婷
-    id: U0031021
-    name: 陳怡婷
-    password: yi
     rating: ~
   - Chinese: 陳俐安
     id: U0031022
@@ -220,7 +221,7 @@ member:
     rating: ~
   - Chinese: 姚順心
     id: U0031042
-    name: Dolly
+    name: Polly2
     password: shun
     rating: ~
   - Chinese: 謝宜璿
@@ -269,10 +270,10 @@ member:
     password: jia
     rating: ~
 out:
-  - Chinese: 楊崴宇
-    id: U9831006
-    name: 楊崴宇
-    password: wei
+  - Chinese: 陳怡婷
+    id: U0031021
+    name: 陳怡婷
+    password: yi
     rating: ~
 room: A705
 scores:
