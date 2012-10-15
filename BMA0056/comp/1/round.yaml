@@ -69,7 +69,13 @@ activity:
       - 18
       - 19
       - 20
-assistant: ~
+assistant:
+  Green:
+    U9831006: 5
+  BrownBrown:
+    U9931129: 5
+  PinkPink:
+    U9831144: 5
 bye: U0031040
 divisions:
   - free
