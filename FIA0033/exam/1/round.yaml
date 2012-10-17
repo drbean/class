@@ -2,101 +2,112 @@
 round: Exam 1
 week: 5
 questions:
-  - 5
-pass: 2
+  - 2
+pass: 0
 assistant:
-  - Orton
-  - Bill
+  - Louis
+  - James
+  - Abby
+  - E.J.
 absent:
-text: /home/drbean/class/business/stress/cards.yaml
+  - Derrick
+  - Ann
+text: /home/drbean/class/business/careers/cards.yaml
 activity:
-  adventure:
+  tips:
     8:
-      - Blue
-      - Brown
-      - GrayGray
-      - Pink
-      - Red
-    9:
       - Black
       - BlackBlack
-      - Gray
+      - Orange
+    9:
       - Green
+      - PinkPink
       - White
     10:
-      - BlueBlue
-      - BrownBrown
+      - Gray
+      - Red
+      - PurplePurple
+    11:
+      - Blue
       - GreenGreen
-      - John
-      - Orange
+      - Pink
+    12:
+      - Sam
+      - BlueBlue
+      - Brown
       - Purple
       - Yellow
+      - YellowYellow
 group:
-  Black:
-    - Eileen
-    - Orton
-    - Tommy
-  BlackBlack:
-    - Sam1
-    - Bill
-    - Ting
-  Blue:
-    - Ezra
-    - Dalai
-    - Bob
-  BlueBlue:
-    - Sherry
-    - Jerry
-    - Doris
-  Brown:
-    - Jason
-    - Joe
-    - Annie
-  BrownBrown:
-    - Jack1
-    - Daisy
-    - Reese
-  Gray:
-    - Jeff
-    - Johnson
-    - Larry
-  GrayGray:
-    - Amy1
-    - Cindy
+  Sam:
+    - Sam
+    - James
     - Abby
-  Green:
-    - Jack2
-    - Jennifer
-    - Kelly
-  GreenGreen:
-    - Lion
-    - Celia
-    - Jill
-  Orange:
+  Black:
+    - Lisa
+    - Rifle
+    - Louis
+  BlackBlack:
+    - Sunny
+    - Cabe
+    - Danny
+  Blue:
+    - Ting
+    - Ben
+    - Jeffrey
+  BlueBlue:
+    - Wei
+    - Hugh
+    - Frank
+  Brown:
+    - Leo1
+    - Yvonne
+    - Eric
+  PurplePurple:
+    - Minmin
     - Andy
-    - Shirley
-    - Diana
-  Pink:
-    - Betty2
-    - Amy2
-    - Robin
-  Purple:
-    - Carol
-    - Evan
-    - Emily
-  Red:
-    - Julie
-    - Jay1
-    - Maggie
-  White:
-    - Justin
-    - Kate
-    - Betty1
-  Yellow:
+    - Ken
+  Gray:
+    - E.J.
     - Lynn
-    - Carrie
+    - Woodstock
+  Green:
+    - Bob
     - Paul
-  John:
-    - John
-    - Orton
-    - Bill
+    - Liz
+  Orange:
+    - Amber
+    - Chris
+    - Alice
+  GreenGreen:
+    - Tina
+    - Linda1
+    - Emma
+  Pink:
+    - E.J.
+    - Annie
+    - Santie
+  YellowYellow:
+    - Nana
+    - Jike
+    - Jack
+  Purple:
+    - Jimmy
+    - George
+    - Jessy
+  PinkPink:
+    - David
+    - Cathy1
+    - Derrick
+  Red:
+    - Tosha
+    - Sen
+    - Cathy2
+  White:
+    - Teddy
+    - Leo2
+    - Abby
+  Yellow:
+    - James
+    - Sherry
+    - Linda2
