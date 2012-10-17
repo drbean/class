@@ -1,7 +1,9 @@
 ---
 activity:
-  stress:
-    0:
+  tips:
+    fast-track:
+    tips:
+    beliefs:
       - 1
       - 2
       - 3
@@ -19,101 +21,70 @@ activity:
       - 15
       - 16
       - 17
-  adventure:
-    0:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-    1:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-bye: U9933038
+assistant:
+  BlackBlack:
+    U0033016: 5
+    U0033135: 5
+    U0033042: 5
+bye: U0033014
+dispensation: ~
+divisions: ~
 group:
   1:
-    White: U9933033
-    Black: U9933044
+    White: U0033035
+    Black: U0033031
   2:
-    White: U9933024
-    Black: U9933139
+    White: U0033034
+    Black: U0033024
   3:
-    White: U9933043
-    Black: U9933025
+    White: U9933035
+    Black: U0033030
   4:
-    White: U9933029
-    Black: U9933010
+    White: U0033137
+    Black: U0033020
   5:
-    White: U9933039
-    Black: U9933017
+    White: T9833038
+    Black: U0033008
   6:
-    White: U9933136
-    Black: U9933126
+    White: U0033136
+    Black: U0033032
   7:
-    White: U9816024
-    Black: U9933008
+    White: U0033006
+    Black: U0033033
   8:
-    White: U9933011
-    Black: U9933037
+    White: U0033003
+    Black: U0033023
   9:
-    White: U9933006
-    Black: U9933045
+    White: U0033019
+    Black: U0033036
   10:
-    White: U9933116
-    Black: U9933109
+    White: U0033004
+    Black: U0033005
   11:
-    White: U9933001
-    Black: U9933107
+    White: U0033002
+    Black: U0033009
   12:
-    White: U9933027
-    Black: U9933030
+    White: U0033039
+    Black: U0033029
   13:
-    White: U9933112
-    Black: U9933003
+    White: U0033037
+    Black: U0033012
   14:
-    White: U9933031
-    Black: U9933041
+    White: U0033139
+    Black: U0033022
   15:
-    White: U9933138
-    Black: U9933005
+    White: U0033018
+    Black: U0014139
   16:
-    White: U9933020
-    Black: U9933143
+    White: U0033010
+    Black: U0033040
   17:
-    White: U9933023
-    Black: U9933026
-assistant:
-  BlueBlue:
-    U9933108: 5
-    U9933022: 5
+    White: U0033001
+    Black: U0033013
+late:
+  - ~
 pairing: swiss
+payprotocol: meritPay
 round: 1
-text: /home/drbean/class/business/stress/cards.yaml
-week: 5
+text: ~
+week: ~
