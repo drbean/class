@@ -1,4 +1,8 @@
 ---
+Sam:
+  absent:
+    - Sam
+  merits: 0
 Black:
   absent: 
   merits: 3
