@@ -4,6 +4,9 @@ cutpoints:
   two: 85
 exercise: interview
 grade:
+  # latecomer
+  T9833026: 0
+
   T9833038: 0
   U0014139: 2
   U0033001: 2
