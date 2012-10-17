@@ -20,27 +20,27 @@ letters:
   Black:
     U0031138: 0
     U0031126: 0
-    U0031117: 0
+    U0031102: 0
     story: tips11
   BlackBlack:
-    U0031141: 1
-    U0031119: 0
-    U0031130: 1
+    U0031141: 0
+    U0031119: 1
+    U0031130: 0
     story: tips12
   Blue:
-    U0031133: 0
-    U0031127: 1
-    U0031205: 0
+    U0031133: 2
+    U0031127: 0
+    U0031205: 1
     story: tips9
   BlueBlue:
     U0031110: 0
     U0031104: 0
-    U0031122: 0
+    U0031122: 1
     story: tips9
   Brown:
     U0031111: 0
     U0031103: 0
-    U0031116: 2
+    U0031116: 0
     story: tips11
   Ciyun:
     U0031124: 0
@@ -49,17 +49,17 @@ letters:
     story: tips12
   Gray:
     U0031140: 0
-    U0031135: 0
-    U0031115: 1
+    U0031135: 1
+    U0031115: 0
     story: tips8
   Green:
     U0031128: 0
     U0031123: 0
-    U0031102: 0
+    U0031117: 0
     story: tips11
   GreenGreen:
     U0031124: 0
-    U0031101: 0
+    U0031101: 1
     U0031109: 0
     story: tips12
   Orange:
@@ -73,13 +73,13 @@ letters:
     U0031129: 0
     story: tips8
   Purple:
-    U0031145: 0
+    U0031145: 1
     U0031108: 0
     U0031142: 0
     story: tips10
   Red:
     U0031105: 0
-    U0031118: 1
+    U0031118: 0
     U0031113: 0
     story: tips12
   White:
@@ -93,7 +93,7 @@ letters:
     U0031107: 0
     story: tips8
   YellowYellow:
-    U0031112: 0
-    U0031144: 0
-    U0031139: 0
+    U0031112: 1
+    U0031144: 2
+    U0031139: 2
     story: tips9
