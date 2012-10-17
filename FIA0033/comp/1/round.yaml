@@ -1,8 +1,7 @@
 ---
 activity:
-  stress:
+  tips:
     0:
-      - 0
       - 1
       - 2
       - 3
@@ -23,130 +22,96 @@ activity:
       - 18
       - 19
       - 20
-  adventure:
-    0:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
-      - 19
-      - 20
-    1:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
-      - 19
-      - 20
-group:
-  0:
-    White: U9734051
-    Black: U9934010
-  1:
-    White: U9934030
-    Black: U9934052
-  2:
-    White: U9934026
-    Black: U9934033
-  3:
-    White: U9934036
-    Black: U9834017
-  4:
-    White: U9934048
-    Black: U9934015
-  5:
-    White: U9934005
-    Black: U9934046
-  6:
-    White: U9934013
-    Black: U9934022
-  7:
-    White: U9934012
-    Black: U9934001
-  8:
-    White: U9934047
-    Black: U9934037
-  9:
-    White: U9934003
-    Black: U9934011
-  10:
-    White: U9934043
-    Black: U9934007
-  11:
-    White: U9934028
-    Black: U9934029
-  12:
-    White: U9934038
-    Black: U9934002
-  13:
-    White: U9934023
-    Black: U9934009
-  14:
-    White: U9934045
-    Black: U9934024
-  15:
-    White: U9934021
-    Black: U9934020
-  16:
-    White: U9913132
-    Black: U9934025
-  17:
-    White: U9934039
-    Black: U9934044
-  18:
-    White: U9934051
-    Black: U9933147
-  19:
-    White: U9934017
-    Black: U9934027
-  20:
-     White: U9934016
-     Black: U9934031
+      - 21
+      - 22
+      - 23
+      - 24
 assistant:
-  BlueBlue:
-    U9934004: 4
-    U9934032: 4
-    U9934050: 4
-  GreenGreen:
-    U9934019: 5
-    U9934006: 5
-    U9934040: 5
-bye: U9934034  
+  Sam:
+    U9934026: 5
+  Yellow:
+    U9933033: 5
+    U9934004: 5
+bye: U0034007
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: U0034032
+    Black: U0034027
+  2:
+    White: U0034025
+    Black: U0034009
+  3:
+    White: U0034046
+    Black: U9816059
+  4:
+    White: U9834018
+    Black: U0034028
+  5:
+    White: U0034003
+    Black: U0034051
+  6:
+    White: U0034016
+    Black: U0034035
+  7:
+    White: U0034038
+    Black: U0034017
+  8:
+    White: U0034014
+    Black: U0034001
+  9:
+    White: U0034023
+    Black: U0034008
+  10:
+    White: U9816062
+    Black: U0034045
+  11:
+    White: U0034026
+    Black: U0034002
+  12:
+    White: U0034015
+    Black: U0034036
+  13:
+    White: U0034049
+    Black: U0031046
+  14:
+    White: U0034033
+    Black: U0034034
+  15:
+    White: U0034040
+    Black: U0034010
+  16:
+    White: U0034011
+    Black: U0034037
+  17:
+    White: U0034005
+    Black: U0034056
+  18:
+    White: U0034055
+    Black: U0034012
+  19:
+    White: U0031032
+    Black: U0034013
+  20:
+    White: U0034050
+    Black: U0034004
+  21:
+    White: U0034031
+    Black: U0034042
+  22:
+    White: U0034029
+    Black: U0034006
+  23:
+    White: U0034043
+    Black: U0034030
+  24:
+    White: U0034024
+    Black: U0034044
 late:
-  - U9934034
-  - U9934031
-  - U9934016
-pairing: swiss adjusted
+  - ~
+pairing: swiss
+payprotocol: meritPay
 round: 1
-text: /home/drbean/class/business/stress/cards.yaml
-week: 5
+text: ~
+week: ~
