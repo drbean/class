@@ -14,6 +14,12 @@ id: 011MIA0014
 jigsaw: exam
 league: 日資管大學二甲
 member:
+  - Chinese: 王證傑
+    name: Harry
+    password: zheng
+    id: T9833026
+    rating: ~
+  
   - Chinese: 吳昌哲
     name: Owen
     password: chang
@@ -162,7 +168,7 @@ member:
     rating: ~
   - Chinese: 粘雅鈞
     id: U0033035
-    name: Jimmy
+    name: Jessie
     password: ya
     rating: ~
   - Chinese: 林怡華
@@ -212,7 +218,7 @@ member:
     rating: ~
   - Chinese: 陳祈文
     id: U9933035
-    name: Jessie
+    name: Jimmy
     password: qi
     rating: ~
 out:
