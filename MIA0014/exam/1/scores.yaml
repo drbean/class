@@ -16,9 +16,9 @@ Chinese:
   Yellow: 0
 letters:
   Black:
-    U0033032: 1
-    U0033020: 1
-    U0033036: 0
+    U0033032: 0
+    U0033020: 0
+    U0033036: 1
     story: tips12
   BlackBlack:
     U0033016: 0
@@ -27,12 +27,12 @@ letters:
     story: tips11
   Blue:
     U0014139: 0
-    U0033022: 0
+    U0033022: 1
     U0033019: 0
     story: tips11
   Brown:
-    U0033033: 0
-    U0033014: 0
+    U0033033: 2
+    U0033014: 2
     U0033002: 0
     story: tips9
   Gray:
@@ -46,8 +46,8 @@ letters:
     U0033023: 0
     story: tips8
   GreenGreen:
-    U0033012: 0
-    U0033009: 0
+    U0033012: 2
+    U0033009: 1
     U0033003: 0
     story: tips10
   Orange:
@@ -61,7 +61,7 @@ letters:
     U0033033: 0
     story: tips8
   Pink:
-    U0033136: 0
+    U0033136: 1
     U0033018: 1
     U0033031: 0
     story: tips12
@@ -78,10 +78,10 @@ letters:
   White:
     U0033037: 0
     U9933035: 0
-    U0033010: 0
+    U0033010: 2
     story: tips10
   Yellow:
     U0033030: 0
     T9833038: 0
-    U0033040: 0
+    U0033040: 1
     story: tips9
