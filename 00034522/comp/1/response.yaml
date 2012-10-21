@@ -1,275 +1,233 @@
 ---
-1:
-  free:
-    U9818019:
-      q:
-        1: 1
-      a:
-        1: 1
-    V9741064:
-      q:
-        1: 2
-      a:
-        1: 1
-  set:
-    connell:
-      1:
-        U9818019:
-          1:   F
-          2:   F
-          3:   F
-          4: T
-          5: T
-          6:   F
-          7: T
-        V9741064:
-          1:   F
-          2: T
-          3:   F
-          4: T
-          5: T
-          6:   F
-          7: T
-      3:
-        U9818019:
-          1: T
-          2: T
-          3: T
-          4:   F
-          5: T
-          6: T
-        V9741064:
-          1: T
-          2: T
-          3: T
-          4: Other
-          5: T
-          6: T
-2:
-  free:
-    U9817051:
-      q:
-        1: 2
-      a:
-        1: 1
-    U9818039:
-      q:
-        1: 1
-      a:
-        1: 1
-  set:
-    connell:
-      1:
-        U9817051:
-          1:   F
-          2: T
-          3:   F
-          4: T
-          5:   F
-          6:   F
-          7: T
-        U9818039:
-          1:   F
-          2: T
-          3:   F
-          4: T
-          5:   F
-          6:   F
-          7: T
-      3:
-        U9817051:
-          1: T
-          2:   F
-          3: T
-          4: T
-          5: T
-          6: T
-        U9818039:
-          1: T
-          2:   F
-          3: T
-          4: T
-          5: T
-          6: T
-3:
-  free:
-    U9914051:
-      q:
-        1: 2
-      a:
-        1: 1
-    U9818048:
-      q:
-        1: 2
-      a:
-        1: 1
-  set:
-    connell:
-      1:
-        U9914051:
-          1:   F
-          2: T
-          3:   F
-          4: T
-          5: T
-          6:   F
-          7: T
-        U9818048:
-          1:   F
-          2: T
-          3:   F
-          4: T
-          5: T
-          6:   F
-          7: T
-      3:
-        U9914051:
-          1: T
-          2: T
-          3: T
-          4:   F
-          5: T
-          6: T
-        U9818048:
-          1: T
-          2: T
-          3: T
-          4:   F
-          5: T
-          6: T
-4:
-  free:
-    U9821130:
-      q:
-        1: 1
-      a:
-        1: 1
-    U9931123:
-      q:
-        1: 1
-      a:
-        1: 1
-  set:
-    connell:
-      1:
-        U9821130:
-          1: T
-          2:   F
-          3:   F
-          4: T
-          5: T
-          6:   F
-          7: T
-        U9931123:
-          1:   F
-          2: T
-          3:   F
-          4: T
-          5: T
-          6: T
-          7: T
-      3:
-        U9821130:
-          1: T
-          2: T
-          3: T
-          4: T
-          5: T
-          6: T
-        U9931123:
-          1:   F
-          2: T
-          3: T
-          4:   F
-          5: T
-          6: T
-5:
-  free:
-    U9931043:
-      q:
-        1: 2
-      a:
-        1: 1
-    U9931134:
-      q:
-        1: 1
-      a:
-        1: 1
-  set:
-    connell:
-      1:
-        U9931043:
-          1:   F
-          2: T
-          3:   F
-          4: T
-          5: T
-          6:   F
-          7: T
-        U9931134:
-          1:   F
-          2: T
-          3: T
-          4: T
-          5: T
-          6:   F
-          7:   F
-      3:
-        U9931043:
-          1: T
-          2:   F
-          3: T
-          4: T
-          5: T
-          6:   F
-        U9931134:
-          1: T
-          2: T
-          3: T
-          4: T
-          5: T
-          6:   F
-6:
-  free:
-    U9711114:
-      q:
-        1: 1
-      a:
-        1: 1
-    U9931148:
-      q:
-        1: 2
-      a:
-        1: 1
-  set:
-    connell:
-      1:
-        U9711114:
-          1:   F
-          2: T
-          3: T
-          4: T
-          5: T
-          6: T
-        U9931148:
-          1: T
-          2: T
-          3: T
-          4: T
-          5: T
-          6: T
-      3:
-        U9711114:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-        U9931148:
-          1: T
-          2: T
-          3: T
-          4: T
-          5: T
-          6: T
+free:
+  1:
+    1st_impressions:
+      0:
+        97550009:
+          point:
+            1: Returned
+        97550021:
+          point:
+            1: Returned
+    traffic:
+      0:
+        97550009:
+          point:
+            1: Fault
+        97550021:
+          point:
+            1: Fault
+    language:
+      0:
+        97550009:
+          point:
+            1: Returned
+        97550021:
+          point:
+            1: Returned
+    marriage:
+      0:
+        97550009:
+          point:
+            1: Fault
+        97550021:
+          point:
+            1: Returned
+  2:
+    1st_impressions:
+      0:
+        97550031:
+          point:
+            1: Returned
+        97550033:
+          point:
+            1: Returned
+    traffic:
+      0:
+        97550031:
+          point:
+            1: Returned
+        97550033:
+          point:
+            1: Returned
+    language:
+      0:
+        97550031:
+          point:
+            1: Returned
+        97550033:
+          point:
+            1: Returned
+    marriage:
+      0:
+        97550031:
+          point:
+            1: Returned
+        97550033:
+          point:
+            1: Nil
+  3:
+    1st_impressions:
+      0:
+        97550001:
+          point:
+            1: Returned
+        97550003:
+          point:
+            1: Returned
+    traffic:
+      0:
+        97550001:
+          point:
+            1: Returned
+        97550003:
+          point:
+            1: Returned
+    language:
+      0:
+        97550001:
+          point:
+            1: Fault
+        97550003:
+          point:
+            1: Returned
+    marriage:
+      0:
+        97550001:
+          point:
+            1: Fault
+        97550003:
+          point:
+            1: Returned
+  4:
+    1st_impressions:
+      0:
+        97550018:
+          point:
+            1: Returned
+        97550002:
+          point:
+            1: Fault
+    traffic:
+      0:
+        97550018:
+          point:
+            1: Returned
+        97550002:
+          point:
+            1: Returned
+    language:
+      0:
+        97550018:
+          point:
+            1: Returned
+        97550002:
+          point:
+            1: Returned
+    marriage:
+      0:
+        97550018:
+          point:
+            1: Unreturned
+        97550002:
+          point:
+            1: Returned
+  5:
+    1st_impressions:
+      0:
+        97550004:
+          point:
+            1: Returned
+        97550008:
+          point:
+            1: Fault
+    traffic:
+      0:
+        97550004:
+          point:
+            1: Returned
+        97550008:
+          point:
+            1: Nil
+    language:
+      0:
+        97550004:
+          point:
+            1: Nil
+        97550008:
+          point:
+            1: Nil
+    marriage:
+      0:
+        97550004:
+          point:
+            1: Nil
+        97550008:
+          point:
+            1: Nil
+  6:
+    1st_impressions:
+      0:
+        97550028:
+          point:
+            1: Fault
+        97550027:
+          point:
+            1: Returned
+    traffic:
+      0:
+        97550028:
+          point:
+            1: Returned
+        97550027:
+          point:
+            1: Returned
+    language:
+      0:
+        97550028:
+          point:
+            1: Returned
+        97550027:
+          point:
+            1: Returned
+    marriage:
+      0:
+        97550028:
+          point:
+            1: Returned
+        97550027:
+          point:
+            1: Returned
+  7:
+    1st_impressions:
+      0:
+        97550011:
+          point:
+            1: Returned
+        97550017:
+          point:
+            1: Fault
+    traffic:
+      0:
+        97550011:
+          point:
+            1: Returned
+        97550017:
+          point:
+            1: Returned
+    language:
+      0:
+        97550011:
+          point:
+            1: Fault
+        97550017:
+          point:
+            1: Returned
+    marriage:
+      0:
+        97550011:
+          point:
+            1: Returned
+        97550017:
+          point:
+            1: Unreturned

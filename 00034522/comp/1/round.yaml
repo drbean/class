@@ -1,40 +1,72 @@
 ---
 activity:
-  connell:
-    1:
+  1st_impressions:
+    0:
       - 1
       - 2
       - 3
       - 4
       - 5
       - 6
-    3:
+      - 7
+  traffic:
+    0:
       - 1
       - 2
       - 3
       - 4
       - 5
       - 6
+      - 7
+  language:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  marriage:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+assistant:
+bye: 97550023
+dispensation: ~
+divisions:
+  - free
 group:
   1:
-    White: U9818019
-    Black: V9741064
+    White: 97550009
+    Black: 97550021
   2:
-     White: U9817051
-     Black: U9818039
+    White: 97550031
+    Black: 97550033
   3:
-     White: U9914051
-     Black: U9818048
+    White: 97550001
+    Black: 97550003
   4:
-     White: U9821130
-     Black: U9931123
+    White: 97550018
+    Black: 97550002
   5:
-     White: U9931043
-     Black: U9931134
+    White: 97550004
+    Black: 97550008
   6:
-     White: U9711114
-     Black: U9931148
-bye: T9822043
+    White: 97550028
+    Black: 97550027
+  7:
+    White: 97550011
+    Black: 97550017
+late:
+  - ~
+pairing: swiss
+payprotocol: meritPay
 round: 1
-text: ../../class/conversation/disability/cards.yaml
-week: 4
+text: /home/drbean/class/curriculum/speaking/impact/dic.yaml
+week: 5
