@@ -2,32 +2,32 @@
 Chinese:
   Black: 0
   Blue: 0
-  Green: 0
-  Jimmy: 0
   Orange: 0
+  Pink: 0
+  Purple: 0
 letters:
   Black:
-    U9817051: 9
-    U9821130: 9
-    T9822043: 7
-    story: connell3
+    97550017: 5
+    97550018: 5
+    97550001: 5
+    story: traffic1
   Blue:
-    U9818039: 7
-    U9931123: 2
-    U9931148: 7
-    story: connell2
-  Green:
-    U9914051: 7
-    U9931043: 6
-    U9818019: 7
-    story: connell4
-  Jimmy:
-    U9711114: 7
-    U9931043: 10
-    U9931134: 10
-    story: connell5
+    97550004: 3
+    97550023: 6
+    97550003: 5
+    story: 1st_impressions0
   Orange:
-    U9818048: 10
-    U9931134: 10
-    V9741064: 10
-    story: connell4
+    97550031: 8
+    97550033: 8
+    97550011: 8
+    story: marriage0
+  Pink:
+    97550021: 8
+    97550009: 7
+    97550002: 8
+    story: language0
+  Purple:
+    97550027: 6
+    97550008: 6
+    97550028: 7
+    story: traffic1
