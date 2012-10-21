@@ -1,40 +1,61 @@
 ---
 activity:
-  connell:
-    1:
+  true-love:
+    1-5:
       - 1
       - 2
       - 3
       - 4
       - 5
       - 6
-    3:
+      - 7
+    6-10:
       - 1
       - 2
       - 3
       - 4
       - 5
       - 6
+      - 7
+    11-15:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+assistant: ~
+bye: 97550004
+dispensation: ~
+divisions:
+  - free
 group:
   1:
-    White: U9818019
-    Black: V9741064
+    White: 97550002
+    Black: 97550011
   2:
-     White: U9817051
-     Black: U9818039
+    White: 97550003
+    Black: 97550031
   3:
-     White: U9914051
-     Black: U9818048
+    White: 97550027
+    Black: 97550001
   4:
-     White: U9821130
-     Black: U9931123
+    White: 97550021
+    Black: 97550028
   5:
-     White: U9931043
-     Black: U9931134
+    White: 97550033
+    Black: 97550009
   6:
-     White: U9711114
-     Black: U9931148
-bye: T9822043
+    White: 97550017
+    Black: 97550023
+  7:
+    White: 97550008
+    Black: 97550018
+late:
+  - ~
+pairing: swiss
+payprotocol: meritPay
 round: 1
-text: ../../class/conversation/disability/cards.yaml
-week: 4
+text: /home/drbean/class/intercultural/customs/cards.yaml
+week: 5
