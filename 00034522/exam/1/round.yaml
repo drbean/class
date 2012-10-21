@@ -3,42 +3,42 @@ round: Exam 1
 week: 5
 questions:
   - 10
-pass: 6
+pass: 5
 assistant:
-  - Kimberly
-  - Tina
 absent:
- - PeiShan
-text: /home/drbean/class/conversation/disability/cards.yaml
+text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
 activity:
-  connell:
-    2:
+  1st_impressions:
+    0:
       - Blue
-    3:
+  traffic:
+    1:
       - Black
-    4:
-      - Green
+      - Purple
+  language:
+    0:
+      - Pink
+  marriage:
+    0:
       - Orange
-    5:
-      - Jimmy
 group:
   Black:
-    - Mike1
-    - R-kai
-    - Charlie
+    - Jill
+    - Mil
+    - Eva
   Blue:
-    - Max
-    - Ian
-    - Simon
-  Green:
-    - Mike2
-    - Kimberly
-    - Jason
+    - Cindy
+    - Yvonne
+    - Miru
   Orange:
-    - Sheena
-    - Tina
-    - Amy
-  Jimmy:
-    - Jimmy
-    - Kimberly
-    - Tina
+    - Sally
+    - Jay
+    - Anita
+  Pink:
+    - Stella
+    - Jennifer
+    - Doris
+  Purple:
+    - Cheer
+    - Mandy
+    - Lin
