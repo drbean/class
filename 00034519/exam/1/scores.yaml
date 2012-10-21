@@ -2,32 +2,32 @@
 Chinese:
   Black: 0
   Blue: 0
-  Green: 0
-  Jimmy: 0
   Orange: 0
+  Pink: 0
+  Purple: 0
 letters:
   Black:
-    U9817051: 9
-    U9821130: 9
-    T9822043: 7
-    story: connell3
+    97550017: 7
+    97550018: 7
+    97550001: 7
+    story: back_to_school1
   Blue:
-    U9818039: 7
-    U9931123: 2
-    U9931148: 7
-    story: connell2
-  Green:
-    U9914051: 7
-    U9931043: 6
-    U9818019: 7
-    story: connell4
-  Jimmy:
-    U9711114: 7
-    U9931043: 10
-    U9931134: 10
-    story: connell5
+    97550004: 4
+    97550023: 4
+    97550003: 4
+    story: xo1
   Orange:
-    U9818048: 10
-    U9931134: 10
-    V9741064: 10
-    story: connell4
+    97550031: 7
+    97550033: 6
+    97550011: 7
+    story: back_to_school1
+  Pink:
+    97550021: 8
+    97550009: 8
+    97550002: 8
+    story: crossing0
+  Purple:
+    97550027: 6
+    97550008: 6
+    97550028: 5
+    story: bingo0
