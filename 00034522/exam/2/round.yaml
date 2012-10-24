@@ -1,37 +1,44 @@
 ---
-round: Exam 2
-week: 9
+round: Exam 1
+week: 5
 questions:
   - 10
-pass: 6
+pass: 5
 assistant:
 absent:
-  - Ian
-text: /home/drbean/class/conversation/disability/cards.yaml
+text: /home/drbean/class/intercultural/customs/cards.yaml
 activity:
-  foreman:
+  xo:
     1:
-      - Red
-      - White
-  davist:
-    2:
       - Blue
-      - Green
+  back_to_school:
+    1:
+      - Black
+      - Orange
+  bingo:
+    0:
+      - Purple
+  crossing:
+    0:
+      - Pink
 group:
-  Green:
-    - Kimberly
-    - Mike2
-    - Amy
+  Black:
+    - Jill
+    - Mil
+    - Eva
   Blue:
-    - Sheena
-    - Tina
-    - Mike1
-  
-  Red:
-    - Simon
-    - Charlie
-    - Max
-  White:
-    - Jimmy
-    - R-kai
-    - Jason
+    - Cindy
+    - Yvonne
+    - Miru
+  Orange:
+    - Sally
+    - Jay
+    - Anita
+  Pink:
+    - Stella
+    - Jennifer
+    - Doris
+  Purple:
+    - Cheer
+    - Mandy
+    - Lin
