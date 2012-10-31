@@ -1,6 +1,6 @@
 ---
 activity:
-  tips:
+  1st_impressions:
     0:
       - 0
       - 1
@@ -10,11 +10,49 @@ activity:
       - 5
       - 6
       - 7
+      - 8
+      - 9
+  traffic:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+  language:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+  marriage:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
 assistant:
   BlueBlue:
-    Joanna: 5
+    V9841042: 5
   Pink:
-    Yan-Yun: 5
+    V9941068: 5
 dispensation: ~
 divisions:
   - free
@@ -43,6 +81,13 @@ group:
   7:
     White: V9941023
     Black: V9941011
+  8:
+    White: V9841049
+    Black: V9841002
+  9:
+    White: V9741022
+    Black: V9841031
+  
 late:
   - V9841049
   - V9841002
@@ -51,5 +96,5 @@ late:
 pairing: swiss
 payprotocol: meritPay
 round: 1
-text: ~
-week: ~
+text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
+week: 5
