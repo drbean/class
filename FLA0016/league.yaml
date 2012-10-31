@@ -49,11 +49,6 @@ member:
     name: Yan-ting
     password: yan
     rating: ~
-  - Chinese: 謝旻諺
-    id: V9941003
-    name: Jibson
-    password: min
-    rating: ~
   - Chinese: 朱文章
     id: V9941007
     name: Redd
@@ -145,6 +140,11 @@ member:
     password: bo
     rating: ~
 out:
+  - Chinese: 謝旻諺
+    id: V9941003
+    name: Jibson
+    password: min
+    rating: ~
 room: A705
 scores:
   bye: 5
