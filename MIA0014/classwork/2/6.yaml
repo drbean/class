@@ -1,42 +1,49 @@
 ---
 Black:
   absent: 
-    - Mila
-  merits: 2.5
+  merits: 3
 Blue:
-  absent:
-  merits: 2.5
+  absent: 
+  merits: 2
+
 Brown:
-  absent:
-  merits: 2.5
+  absent: 
+  merits: 2
 Gray:
-  absent:
-  merits: 2.5
+  absent: 
+  merits: 3
+
 Green:
-  absent:
-  merits: 2.5
-BlueBlue:
-  absent:
-  merits: 2.5
+  absent: 
+  merits: 3
+BlackBlack:
+  absent: 
+  merits: 2
+
+GreenGreen:
+  absent: 
+  merits: 3
+OrangeOrange:
+  absent: 
+  merits: 2
 
 Orange:
-  absent:
-  merits: 2.5
+  absent: 
+  merits: 3
 Pink:
-  absent:
-  merits: 2.5
+  absent: 
+  merits: 2
+
 Purple:
   absent:
-  merits: 2.5
+  merits: 3
 Red:
-  absent:
-  merits: 2.5
+  absent: 
+  merits: 2
+
 White:
-  absent:
-  merits: 2.5
+  absent: 
+  merits: 2
 Yellow:
-  absent:
-  merits: 2.5
-BlackBlack:
-  absent:
-  merits: 2.5
+  absent: 
+  merits: 3
