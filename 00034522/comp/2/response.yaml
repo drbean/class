@@ -1,246 +1,171 @@
 ---
 free:
-  0:
-    foreman:
-      0:
-        U9818039:
-          point:
-            1: Fault
-            2: Returned
-        U9818019:
-          point:
-            1: Fault
-            2: Returned
-    davist:
-      0:
-        U9818039:
-          point:
-            1: Returned
-        U9818019:
-          point:
-            1: Returned
   1:
-    foreman:
+    rumor:
       0:
-        U9931148:
-          point:
-            1: Fault
-            2: Fault
-            3: Returned
-        U9914051:
-          point:
-            1: Nil
-    davist:
-      0:
-        U9931148:
-          point:
-            1: Nil
-        U9914051:
+        97550011:
           point:
             1: Returned
             2: Returned
-            3: Returned
-  2:
-    foreman:
-      0:
-        T9822043:
-          point:
-            1: Nil
-        U9821130:
-          point:
-            1: Returned
-            2: Returned
-    davist:
-      0:
-        T9822043:
-          point:
-            1: Fault
-            2: Fault
-            3: Returned
-        U9821130:
-          point:
-            1: Returned
-  3:
-    foreman:
-      0:
-        V9741064:
-          point:
-            1: Returned
-            2: Fault
-        U9931043:
+            3: Old
+            4: Fault
+        97550033:
           point:
             1: Returned
             2: Unreturned
-    davist:
+            3: Returned
+    control:
       0:
-        V9741064:
+        97550011:
+          point:
+            1: Fault
+        97550033:
           point:
             1: Returned
-        U9931043:
-          point:
-            1: Returned
-set:
-  0:
-    foreman:
-      0:
-        U9818039:
-          1: T
-          2: T
-          3:   F
-          4: T
-          5: T
-          6:   F
-          7: T
-          8: T
-        U9818019:
-          1: T
-          2: T
-          3:   F
-          4: T
-          5: T
-          6:   F
-          7: T
-          8: T
-    davist:
-      0:
-        U9818039:
-          1:   F
-          2: T
-          3: T
-          4:   F
-          5:   F
-          6: T
-          7:   F
-          8: T
-        U9818019:
-          1:   F
-          2: T
-          3: T
-          4: T
-          5:   F
-          6: T
-          7:   F
-          8: T
-  1:
-    foreman:
-      0:
-        U9931148:
-          1: T
-          2:   F
-          3:   F
-          4: T
-          5: T
-          6:   F
-          7: T
-          8: T
-        U9914051:
-          1: T
-          2:   F
-          3:   F
-          4: T
-          5: T
-          6:   F
-          7: T
-          8:   F
-    davist:
-      0:
-        U9931148:
-          1:   F
-          2: T
-          3: T
-          4: T
-          5: T
-          6: T
-          7: T
-          8: T
-        U9914051:
-          1: T
-          2: T
-          3: T
-          4: T
-          5: T
-          6:   F
-          7: T
-          8: T
   2:
-    foreman:
+    rumor:
       0:
-        T9822043:
-          1: T
-          2:   F
-          3:   F
-          4: T
-          5: T
-          6: T
-          7: T
-          8: T
-        U9821130:
-          1: T
-          2:   F
-          3:   F
-          4: T
-          5:   F
-          6: T
-          7: T
-          8: T
-    davist:
+        97550031:
+          point:
+            1: Returned
+            2: Returned
+            3: Fault
+        97550021:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+    control:
       0:
-        T9822043:
-          1: T
-          2: T
-          3: T
-          4:   F
-          5: T
-          6: T
-          7: T
-          8: T
-        U9821130:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6: T
-          7: T
-          8: T
+        97550031:
+          point:
+            1: Returned
+            2: Returned
+        97550021:
+          point:
+            1: Returned
+            2: Fault
   3:
-    foreman:
+    rumor:
       0:
-        V9741064:
-          1: T
-          2:   F
-          3:   F
-          4: T
-          5: T
-          6: T
-          7: T
-          8: T
-        U9931043:
-          1: T
-          2:   F
-          3: T
-          4: T
-          5: T
-          6:   F
-          7: T
-          8:   F
-    davist:
+        97550001:
+          point:
+            1: Unreturned
+            2: Fault
+            3: Fault
+        97550008:
+          point:
+            1: Returned
+            2: Returned
+    control:
       0:
-        V9741064:
-          1:   F
-          2: T
-          3: T
-          4: T
-          5: T
-          6: T
-          7: T
-          8: T
-        U9931043:
-          1: T
-          2: T
-          3: T
-          4: T
-          5: T
-          6:   F
-          7:   F
-          8: T
+        97550001:
+          point:
+            1: Returned
+            2: Returned
+        97550008:
+          point:
+            1: Returned
+            2: Old
+            3: Returned
+  4:
+    rumor:
+      0:
+        97550028:
+          point:
+            1: Returned
+            2: Returned
+        97550004:
+          point:
+            1: Old
+            2: Old
+            3: Old
+            4: Returned
+            5: Returned
+    control:
+      0:
+        97550028:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        97550004:
+          point:
+            1: Returned
+            2: Returned
+  5:
+    rumor:
+      0:
+        97550009:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+            4: Fault
+            5: Returned
+        97550027:
+          point:
+            1: Old
+            2: Returned
+            3: Returned
+            4: Old
+            5: Returned
+    control:
+      0:
+        97550009:
+          point:
+            1: Fault
+            2: Returned
+        97550027:
+          point:
+            1: Returned
+            2: Returned
+  6:
+    rumor:
+      0:
+        97550023:
+          point:
+            1: Returned
+            2: Old
+        97550003:
+          point:
+            1: Returned
+            2: Returned
+    control:
+      0:
+        97550023:
+          point:
+            1: Returned
+            2: Unreturned
+            3: Fault
+            4: Old
+
+        97550003:
+          point:
+            1: Fault
+            2: Returned
+            3: Returned
+  7:
+    rumor:
+      0:
+        97550018:
+          point:
+            1: Fault
+            2: Returned
+            3: Returned
+        97550017:
+          point:
+            1: Unreturned
+            2: Returned
+            3: Returned
+    control:
+      0:
+        97550018:
+          point:
+            1: Old
+            2: Fault
+            3: Returned
+        97550017:
+          point:
+            1: Fault
+            2: Returned
