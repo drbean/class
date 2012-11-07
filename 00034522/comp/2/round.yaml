@@ -1,39 +1,61 @@
 ---
 activity:
-  foreman:
-    0:
-      - 0
+  true-love:
+    1-5:
       - 1
       - 2
       - 3
-  davist:
-    0:
-      - 0
+      - 4
+      - 5
+      - 6
+      - 7
+    6-10:
       - 1
       - 2
       - 3
+      - 4
+      - 5
+      - 6
+      - 7
+    11-15:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+assistant: ~
+bye: 97550004
+dispensation: ~
+divisions:
+  - free
 group:
-  0:
-    White: U9818039
-    Black: U9818019
   1:
-    White: U9931148
-    Black: U9914051
+    White: 97550002
+    Black: 97550011
   2:
-    White: T9822043
-    Black: U9821130
+    White: 97550003
+    Black: 97550031
   3:
-    White: V9741064
-    Black: U9931043
+    White: 97550027
+    Black: 97550001
+  4:
+    White: 97550021
+    Black: 97550028
+  5:
+    White: 97550033
+    Black: 97550009
+  6:
+    White: 97550017
+    Black: 97550023
+  7:
+    White: 97550008
+    Black: 97550018
 late:
-  - U9711114
-bye: U9711114
-assistant:
-  Blue:
-    U9818048: 5
-    U9931134: 5
-    U9817051: 5
-pairing: swiss adjusted
+  - ~
+pairing: swiss
+payprotocol: meritPay
 round: 2
-text: /home/drbean/class/conversation/disability/cards.yaml
-week: 9
+text: /home/drbean/class/intercultural/customs/cards.yaml
+week: 5
