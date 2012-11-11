@@ -1,10 +1,12 @@
 ---
 Orange:
   absent: 
-  merits: 3
+  merits: 2
 Black:
   absent: 
-  merits: 2
+  tardy :
+    - Jack
+  merits: 3
 
 Blue:
   absent: 
@@ -15,33 +17,35 @@ Brown:
 
 Gray:
   absent: 
-  merits: 2
+  merits: 3
 Green:
   absent: 
-  merits: 3
+  merits: 2
 
 BlackBlack:
   absent: 
   merits: 2
-BlueBlue:
+GreenGreen:
   absent: 
   merits: 3
 
-White:
-  absent: 
-  merits: 3
-Yellow:
+Pink:
   absent: 
   merits: 2
-
 Purple:
   absent:
-  merits: 3
+  merits: 2
+
 Red:
   absent: 
   merits: 2
+White:
+  absent: 
+  merits: 2
 
-# assistants
-Pink:
+Yellow:
+  absent: 
+  merits: 2
+OrangeOrange:
   absent: 
   merits: 3
