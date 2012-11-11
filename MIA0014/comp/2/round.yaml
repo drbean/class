@@ -1,8 +1,7 @@
 ---
 activity:
-  sale:
-    banana2:
-      - 0
+  argos:
+    0:
       - 1
       - 2
       - 3
@@ -19,119 +18,79 @@ activity:
       - 14
       - 15
       - 16
-    rice:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-    oil:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-    milk:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+assistant: ~
+bye: T9833026
+dispensation: ~
+divisions: ~
 group:
-  0:
-    White: U9933022
-    Black: U9933108
   1:
-    White: U9933136
-    Black: U9933006
+    White: U0033015
+    Black: U0033016
   2:
-    White: U9933037
-    Black: U9933138
+    White: U0033042
+    Black: U0033135
   3:
-    White: U9933109
-    Black: U9933001
+    White: U0033013
+    Black: T9833038
   4:
-    White: U9933010
-    Black: U9933112
+    White: U0014139
+    Black: U0033004
   5:
-    White: U9933030
-    Black: U9933043
+    White: U0033032
+    Black: U9933035
   6:
-    White: U9933044
-    Black: U9933031
+    White: U0033022
+    Black: U0033034
   7:
-    White: U9933143
-    Black: U9816024
+    White: U0033012
+    Black: U0033035
   8:
-    White: U9933139
-    Black: U9933020
+    White: U0033014
+    Black: U0033003
   9:
-    White: U9933023
-    Black: U9933024
+    White: U0033002
+    Black: U0033010
   10:
-    White: U9933025
-    Black: U9933029
+    White: U0033040
+    Black: U0033137
   11:
-    White: U9933017
-    Black: U9933027
+    White: U0033029
+    Black: U0033006
   12:
-    White: U9933003
-    Black: U9933038
+    White: U0033020
+    Black: U0033039
   13:
-    White: U9933107
-    Black: U9933033
+    White: U0033033
+    Black: U0033019
   14:
-    White: U9933041
-    Black: U9933116
+    White: U0033036
+    Black: U0033001
   15:
-    White: U9933126
-    Black: U9933011
+    White: U0033030
+    Black: U0033037
   16:
-    White: U9933005
-    Black: U9933045
+    White: U0033008
+    Black: U0033139
+  17:
+    White: U0033009
+    Black: U0033136
+  18:
+    White: U0033031
+    Black: U0033133
+  19:
+    White: U0033005
+    Black: U0033024
+  20:
+    White: U0033023
+    Black: U0033018
+late:
+  - ~
 pairing: swiss
-assistant:
-  BlueBlue:
-    U9933039: 5
-    U9933026: 5
-  Green:
-    U9933008: 5
+payprotocol: meritPay
 round: 2
-text: /home/drbean/class/business/marketing/cards.yaml
-week: 9
+text: ~
+week: ~
