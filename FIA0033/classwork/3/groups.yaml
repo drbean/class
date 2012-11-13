@@ -1,67 +1,68 @@
 ---
 Black:
-  - Justin
-  - Cindy
-  - Carol
+  - Woodstock
+  - Cathy1
+  - Liz
 BlackBlack:
-  - John
-  - Daisy
-  - Reese
+  - Yvonne
+  - Cathy1
+  - Jike
 Blue:
-  - Jack2
-  - Jerry
-  - Kelly
-BlueBlue:
-  - Robin
-  - Amy2
-  - Bill
-Brown:
-  - Orton
-  - Ting
-  - Jay1
-BrownBrown:
-  - Larry
-  - Jeff
+  - George
   - Abby
+  - Teddy
+BlueBlue:
+  - Ann
+  - Chris
+  - Nana
+Brown:
+  - Sam
+  - Linda1
 Gray:
-  - Carrie
-  - Tommy
-  - Kate
-GrayGray:
-  - Eileen
-  - Jason
-  - Celia
+  - James
+  - Ben
+  - Eric
 Green:
-  - Betty2
-  - Johnson
-  - Evan
-GreenGreen:
-  - Jack1
-  - Andy
-Orange:
-  - Diana
-  - Amy1
-  - Julie
-OrangeOrange:
-  - Shirley
-  - Jill
-Pink:
-  - Sam1
-  - Emily
-  - Annie
-Purple:
-  - Lion
-  - Betty1
-  - Paul
-Red:
-  - Dalai
-  - Lynn
-  - Joe
-White:
-  - Ezra
-  - Bob
-  - Maggie
-Yellow:
   - Sherry
-  - Jennifer
-  - Doris
+  - Cathy2
+  - Paul
+GreenGreen:
+  - Tina
+  - Jeffrey
+  - Emma
+Orange:
+  - Sen
+  - Danny
+  - Ting
+OrangeOrange:
+  - Leo2
+  - Cabe
+  - Alice
+Pink:
+  - Ken
+  - Lisa
+  - Amber
+Purple:
+  - Leo1
+  - Tosha
+  - Wei
+PurplePurple:
+  - David
+  - E.J.
+  - Frank
+Red:
+  - Minmin
+  - Louis
+  - Jessy
+White:
+  - Sunny
+  - Bob
+  - Linda2
+Yellow:
+  - Hugh
+  - Santie
+  - Andy
+YellowYellow:
+  - Jimmy
+  - Lynn
+  - Rifle
