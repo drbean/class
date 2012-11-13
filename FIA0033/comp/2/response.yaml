@@ -1,1553 +1,544 @@
 ---
 free:
+  0:
+    argos:
+      0:
+        U9934004:
+          point:
+            1: Returned
+        U9934026:
+          point:
+            1: Fault
+    website:
+      0:
+        U9934004:
+          point:
+            1: Nil
+        U9934026:
+          point:
+            1: Nil
+    vacations:
+      0:
+        U9934004:
+          point:
+            1: Old
+        U9934026:
+          point:
+            1: Old
   1:
-    sale:
-      banana2:
-        U9934004:
+    argos:
+      0:
+        U9933033:
           point:
             1: Nil
-        U9934032:
+        U0031032:
           point:
             1: Nil
-      rice:
-        U9934004:
+    website:
+      0:
+        U9933033:
           point:
-            1: Fault
-        U9934032:
-          point:
-            1: Nil
-      oil:
-        U9934004:
-          point:
-            1: Nil
-        U9934032:
-          point:
-            1: Nil
-      milk:
-        U9934004:
-          point:
-            1: Nil
-        U9934032:
-          point:
-            1: Nil
-  2:
-    sale:
-      banana2:
-        U9934031:
-          point:
-            1: Fault
-        U9934050:
-          point:
-            1: Returned
-      rice:
-        U9934031:
-          point:
-            1: Returned
-        U9934050:
-          point:
-            1: Returned
-      oil:
-        U9934031:
-          point:
-            1: Nil
-        U9934050:
-          point:
-            1: Nil
-      milk:
-        U9934031:
-          point:
-            1: Returned
-        U9934050:
-          point:
-            1: Returned
-  3:
-    sale:
-      banana2:
-        U9934040:
-          point:
-            1: Fault
-        U9934016:
-          point:
-            1: Returned
-      rice:
-        U9934040:
-          point:
-            1: Returned
-        U9934016:
-          point:
-            1: Returned
-      oil:
-        U9934040:
-          point:
-            1: Unreturned
-        U9934016:
-          point:
-            1: Fault
-      milk:
-        U9934040:
-          point:
-            1: Nil
-        U9934016:
-          point:
-            1: Nil
-  4:
-    sale:
-      banana2:
-        U9934048:
-          point:
-            1: Fault
-        U9934038:
-          point:
-            1: Returned
-      rice:
-        U9934048:
-          point:
-            1: Returned
-        U9934038:
-          point:
-            1: Nil
-      oil:
-        U9934048:
-          point:
-            1: Nil
-        U9934038:
-          point:
-            1: Nil
-      milk:
-        U9934048:
-          point:
-            1: Nil
-        U9934038:
-          point:
-            1: Nil
-  5:
-    sale:
-      banana2:
-        U9934029:
-          point:
-            1: Returned
-        U9913132:
-          point:
-            1: Returned
-      rice:
-        U9934029:
-          point:
-            1: Returned
-        U9913132:
-          point:
-            1: Returned
-      oil:
-        U9934029:
-          point:
-            1: Returned
-        U9913132:
-          point:
-            1: Nil
-      milk:
-        U9934029:
-          point:
-            1: Nil
-        U9913132:
-          point:
-            1: Nil
-  6:
-    sale:
-      banana2:
-        U9734051:
-          point:
-            1: Returned
-        U9934012:
-          point:
-            1: Unreturned
-      rice:
-        U9734051:
-          point:
-            1: Returned
-        U9934012:
-          point:
-            1: Returned
-      oil:
-        U9734051:
-          point:
-            1: Nil
-        U9934012:
-          point:
-            1: Nil
-      milk:
-        U9734051:
-          point:
-            1: Returned
-        U9934012:
-          point:
-            1: Returned
-  7:
-    sale:
-      banana2:
-        U9934007:
-          point:
-            1: Returned
-        U9934013:
-          point:
-            1: Fault
-      rice:
-        U9934007:
-          point:
-            1: Returned
-        U9934013:
-          point:
-            1: Returned
-      oil:
-        U9934007:
-          point:
-            1: Returned
-        U9934013:
-          point:
-            1: Returned
-      milk:
-        U9934007:
-          point:
-            1: Nil
-        U9934013:
-          point:
-            1: Nil
-  8:
-    sale:
-      banana2:
-        U9934051:
-          point:
-            1: Nil
-        U9934003:
-          point:
-            1: Nil
-      rice:
-        U9934051:
-          point:
-            1: Returned
-        U9934003:
-          point:
-            1: Returned
-      oil:
-        U9934051:
-          point:
-            1: Fault
-        U9934003:
-          point:
-            1: Fault
-      milk:
-        U9934051:
-          point:
-            1: Returned
-        U9934003:
-          point:
-            1: Returned
-  9:
-    sale:
-      banana2:
-        U9934047:
-          point:
-            1: Returned
-        U9934045:
-          point:
-            1: Returned
-      rice:
-        U9934047:
-          point:
-            1: Returned
-        U9934045:
-          point:
-            1: Returned
-      oil:
-        U9934047:
-          point:
-            1: Nil
-        U9934045:
-          point:
-            1: Nil
-      milk:
-        U9934047:
-          point:
-            1: Nil
-        U9934045:
-          point:
-            1: Nil
-  10:
-    sale:
-      banana2:
-        U9934020:
-          point:
-            1: Returned
-        U9934036:
-          point:
-            1: Returned
-      rice:
-        U9934020:
-          point:
-            1: Nil
-        U9934036:
-          point:
-            1: Nil
-      oil:
-        U9934020:
-          point:
-            1: Nil
-        U9934036:
-          point:
-            1: Nil
-      milk:
-        U9934020:
-          point:
-            1: Nil
-        U9934036:
-          point:
-            1: Nil
-  11:
-    sale:
-      banana2:
-        U9834017:
-          point:
-            1: Returned
-        U9934026:
-          point:
-            1: Returned
-      rice:
-        U9834017:
-          point:
-            1: Returned
-        U9934026:
-          point:
-            1: Fault
-      oil:
-        U9834017:
-          point:
-            1: Returned
-        U9934026:
-          point:
-            1: Returned
-      milk:
-        U9834017:
-          point:
-            1: Returned
-        U9934026:
-          point:
-            1: Returned
-  12:
-    sale:
-      banana2:
-        U9934044:
-          point:
-            1: Returned
-        U9934017:
-          point:
-            1: Returned
-      rice:
-        U9934044:
-          point:
-            1: Returned
-        U9934017:
-          point:
-            1: Returned
-      oil:
-        U9934044:
-          point:
-            1: Returned
-        U9934017:
-          point:
-            1: Returned
-      milk:
-        U9934044:
-          point:
-            1: Returned
-        U9934017:
-          point:
-            1: Returned
-  13:
-    sale:
-      banana2:
-        U9934033:
-          point:
-            1: Returned
-        U9934021:
-          point:
-            1: Fault
-      rice:
-        U9934033:
-          point:
-            1: Nil
-        U9934021:
-          point:
-            1: Nil
-      oil:
-        U9934033:
-          point:
-            1: Returned
-        U9934021:
-          point:
-            1: Returned
-      milk:
-        U9934033:
-          point:
-            1: Returned
-        U9934021:
-          point:
-            1: Returned
-  14:
-    sale:
-      banana2:
-        U9934027:
-          point:
-            1: Returned
-        U9934023:
-          point:
-            1: Returned
-      rice:
-        U9934027:
-          point:
-            1: Returned
-        U9934023:
-          point:
-            1: Returned
-      oil:
-        U9934027:
-          point:
-            1: Returned
-        U9934023:
-          point:
-            1: Returned
-      milk:
-        U9934027:
-          point:
-            1: Returned
-        U9934023:
-          point:
-            1: Returned
-  15:
-    sale:
-      banana2:
-        U9934052:
-          point:
-            1: Returned
-        U9934039:
-          point:
             1: Returned
-      rice:
-        U9934052:
-          point:
-            1: Nil
-        U9934039:
-          point:
-            1: Nil
-      oil:
-        U9934052:
-          point:
-            1: Nil
-        U9934039:
-          point:
-            1: Nil
-      milk:
-        U9934052:
-          point:
-            1: Returned
-        U9934039:
-          point:
-            1: Returned
-  16:
-    sale:
-      banana2:
-        U9934011:
-          point:
-            1: Returned
-        U9933147:
-          point:
-            1: Returned
-      rice:
-        U9934011:
-          point:
-            1: Nil
-        U9933147:
-          point:
-            1: Nil
-      oil:
-        U9934011:
-          point:
-            1: Returned
-        U9933147:
-          point:
-            1: Returned
-      milk:
-        U9934011:
-          point:
-            1: Nil
-        U9933147:
-          point:
-            1: Nil
-  17:
-    sale:
-      banana2:
-        U9934037:
-          point:
-            1: Returned
-        U9934034:
-          point:
-            1: Returned
-      rice:
-        U9934037:
-          point:
-            1: Nil
-        U9934034:
-          point:
-            1: Nil
-      oil:
-        U9934037:
+        U0031032:
           point:
             1: Returned
             2: Returned
-        U9934034:
+    vacations:
+      0:
+        U9933033:
+          point:
+            1: Returned
+        U0031032:
+          point:
+            1: Nil
+  2:
+    argos:
+      0:
+        U0034001:
+          point:
+            1: Returned
+        U9834018:
+          point:
+            1: Returned
+    website:
+      0:
+        U0034001:
+          point:
+            1: Nil
+        U9834018:
+          point:
+            1: Nil
+    vacations:
+      0:
+        U0034001:
+          point:
+            1: Returned
+        U9834018:
+          point:
+            1: Returned
+  3:
+    argos:
+      0:
+        U0034049:
+          point:
+            1: Fault
+        U0034029:
+          point:
+            1: Returned
+    website:
+      0:
+        U0034049:
+          point:
+            1: Returned
+        U0034029:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034049:
+          point:
+            1: Returned
+        U0034029:
+          point:
+            1: Nil
+  4:
+    argos:
+      0:
+        U0034038:
+          point:
+            1: Nil
+        U0034046:
+          point:
+            1: Nil
+    website:
+      0:
+        U0034038:
+          point:
+            1: Fault
+        U0034046:
+          point:
+            1: Fault
+    vacations:
+      0:
+        U0034038:
+          point:
+            1: Old
+        U0034046:
+          point:
+            1: Nil
+  5:
+    argos:
+      0:
+        U0034051:
+          point:
+            1: Returned
+            2: Fault
+        U0034043:
+          point:
+            1: Returned
+    website:
+      0:
+        U0034051:
+          point:
+            1: Fault
+        U0034043:
+          point:
+            1: Nil
+    vacations:
+      0:
+        U0034051:
+          point:
+            1: Nil
+        U0034043:
+          point:
+            1: Returned
+  6:
+    argos:
+      0:
+        U0034002:
+          point:
+            1: Nil
+        U0034033:
+          point:
+            1: Nil
+    website:
+      0:
+        U0034002:
           point:
             1: Returned
             2: Returned
-      milk:
-        U9934037:
+        U0034033:
           point:
             1: Returned
-        U9934034:
-          point:
-            1: Returned
-  18:
-    sale:
-      banana2:
-        U9934022:
-          point:
-            1: Returned
-        U9934001:
-          point:
-            1: Returned
-      rice:
-        U9934022:
-          point:
-            1: Returned
-        U9934001:
-          point:
-            1: Returned
-      oil:
-        U9934022:
+            2: Old
+            3: Returned
+    vacations:
+      0:
+        U0034002:
           point:
             1: Nil
-        U9934001:
+        U0034033:
           point:
             1: Nil
-      milk:
-        U9934022:
-          point:
-            1: Nil
-        U9934001:
-          point:
-            1: Nil
-  19:
-    sale:
-      banana2:
-        U9934010:
-          point:
-            1: Returned
-        U9934028:
-          point:
-            1: Returned
-      rice:
-        U9934010:
-          point:
-            1: Returned
-        U9934028:
-          point:
-            1: Nil
-      oil:
-        U9934010:
-          point:
-            1: Nil
-        U9934028:
-          point:
-            1: Nil
-      milk:
-        U9934010:
-          point:
-            1: Returned
-        U9934028:
-          point:
-            1: Returned
-  20:
-    sale:
-      banana2:
-        U9934002:
-          point:
-            1: Nil
-        U9934015:
-          point:
-            1: Nil
-      rice:
-        U9934002:
-          point:
-            1: Returned
-        U9934015:
-          point:
-            1: Returned
-      oil:
-        U9934002:
-          point:
-            1: Returned
-        U9934015:
-          point:
-            1: Returned
-      milk:
-        U9934002:
-          point:
-            1: Nil
-        U9934015:
-          point:
-            1: Nil
-  21:
-    sale:
-      banana2:
-        U9934024:
-          point:
-            1: Returned
-        U9934005:
-          point:
-            1: Returned
-      rice:
-        U9934024:
-          point:
-            1: Nil
-        U9934005:
-          point:
-            1: Nil
-      oil:
-        U9934024:
-          point:
-            1: Returned
-        U9934005:
-          point:
-            1: Returned
-      milk:
-        U9934024:
-          point:
-            1: Returned
-        U9934005:
+  7:
+    argos:
+      0:
+        U0034010:
           point:
             1: Fault
-set:
-  1:
-    sale:
-      banana2:
-        U9934004:
-          1: ~
-        U9934032:
-          1: ~
-      rice:
-        U9934004:
-          1: ~
-        U9934032:
-          1: ~
-      oil:
-        U9934004:
-          1: ~
-        U9934032:
-          1: ~
-      milk:
-        U9934004:
-          1: ~
-        U9934032:
-          1: ~
-  2:
-    sale:
-      banana2:
-        U9934031:
-          1: T
-          2:   F
-          3:   F
-          4: T
-        U9934050:
-          1: T
-          2:   F
-          3:   F
-          4: T
-      rice:
-        U9934031:
-          1: T
-          2: T
-          3:   F
-          4:   F
-        U9934050:
-          1: T
-          2: T
-          3:   F
-          4:   F
-      oil:
-        U9934031:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-        U9934050:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-      milk:
-        U9934031:
-          1: T
-          2:   F
-          3: T
-          4:   F
-        U9934050:
-          1: T
-          2:   F
-          3: T
-          4:   F
-  3:
-    sale:
-      banana2:
-        U9934040:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9934016:
-          1: T
-          2:   F
-          3: T
-          4: T
-      rice:
-        U9934040:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934016:
-          1: T
-          2: T
-          3: T
-          4: T
-      oil:
-        U9934040:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934016:
-          1: T
-          2: T
-          3: T
-          4: T
-      milk:
-        U9934040:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934016:
-          1: T
-          2: T
-          3: T
-          4: T
-  4:
-    sale:
-      banana2:
-        U9934048:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9934038:
-          1:   F
-          2: T
-          3: T
-          4:   F
-      rice:
-        U9934048:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934038:
-          1: T
-          2: T
-          3:   F
-          4: T
-      oil:
-        U9934048:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934038:
-          1: T
-          2: T
-          3: T
-          4: T
-      milk:
-        U9934048:
-          1:   F
-          2: T
-          3: T
-          4: T
-        U9934038:
-          1: T
-          2: T
-          3: T
-          4: T
-  5:
-    sale:
-      banana2:
-        U9934029:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9913132:
-          1: T
-          2:   F
-          3: T
-          4: T
-      rice:
-        U9934029:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-        U9913132:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-      oil:
-        U9934029:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9913132:
-          1:   F
-          2: T
-          3:   F
-          4: T
-      milk:
-        U9934029:
-          1: T
-          2: T
-          3: T
-          4:   F
-        U9913132:
-          1: T
-          2: T
-          3: T
-          4:   F
-  6:
-    sale:
-      banana2:
-        U9734051:
-          1: T
-          2:   F
-          3: T
-          4:   F
-        U9934012:
-          1: T
-          2:   F
-          3: T
-          4:   F
-      rice:
-        U9734051:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-        U9934012:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-      oil:
-        U9734051:
-          1:   F
-          2: T
-          3: T
-          4: T
-        U9934012:
-          1:   F
-          2: T
-          3: T
-          4: T
-      milk:
-        U9734051:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934012:
-          1: T
-          2: T
-          3: T
-          4: T
-  7:
-    sale:
-      banana2:
-        U9934007:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9934013:
-          1: T
-          2:   F
-          3: T
-          4: T
-      rice:
-        U9934007:
-          1:   F
-          2: T
-          3: T
-          4: T
-        U9934013:
-          1:   F
-          2: T
-          3: T
-          4: T
-      oil:
-        U9934007:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934013:
-          1: T
-          2: T
-          3: T
-          4: T
-      milk:
-        U9934007:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934013:
-          1: T
-          2: T
-          3: T
-          4: T
+        U0034024:
+          point:
+            1: Nil
+    website:
+      0:
+        U0034010:
+          point:
+            1: Nil
+        U0034024:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034010:
+          point:
+            1: Nil
+        U0034024:
+          point:
+            1: Returned
   8:
-    sale:
-      banana2:
-        U9934051:
-          1: T
-          2:   F
-          3: T
-          4:   F
-        U9934003:
-          1: T
-          2:   F
-          3: T
-          4: T
-      rice:
-        U9934051:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934003:
-          1: T
-          2: T
-          3:   F
-          4: T
-      oil:
-        U9934051:
-          1: T
-          2:   F
-          3: T
-          4:   F
-        U9934003:
-          1: T
-          2: T
-          3: T
-          4: T
-      milk:
-        U9934051:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9934003:
-          1: T
-          2:   F
-          3: T
-          4: T
+    argos:
+      0:
+        U0034009:
+          point:
+            1: Returned
+            2: Returned
+        U0034023:
+          point:
+            1: Returned
+            2: Returned
+    website:
+      0:
+        U0034009:
+          point:
+            1: Returned
+        U0034023:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034009:
+          point:
+            1: Nil
+        U0034023:
+          point:
+            1: Nil
   9:
-    sale:
-      banana2:
-        U9934047:
-          1: T
-          2:   F
-          3: T
-          4:   F
-        U9934045:
-          1: T
-          2:   F
-          3: T
-          4: T
-      rice:
-        U9934047:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934045:
-          1: T
-          2: T
-          3: T
-          4:   F
-      oil:
-        U9934047:
-          1: T
-          2:   F
-          3: T
-          4:   F
-        U9934045:
-          1: T
-          2: T
-          3: T
-          4: T
-      milk:
-        U9934047:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9934045:
-          1: T
-          2:   F
-          3: T
-          4: T
+    argos:
+      0:
+        U0034027:
+          point:
+            1: Returned
+        U0034040:
+          point:
+            1: Nil
+    website:
+      0:
+        U0034027:
+          point:
+            1: Nil
+        U0034040:
+          point:
+            1: Fault
+    vacations:
+      0:
+        U0034027:
+          point:
+            1: Returned
+        U0034040:
+          point:
+            1: Nil
   10:
-    sale:
-      banana2:
-        U9934020:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9934036:
-          1: T
-          2:   F
-          3: T
-          4: T
-      rice:
-        U9934020:
-          1:   F
-          2:   F
-          3: T
-          4: T
-        U9934036:
-          1:   F
-          2:   F
-          3: T
-          4: T
-      oil:
-        U9934020:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934036:
-          1: T
-          2: T
-          3: T
-          4: T
-      milk:
-        U9934020:
-          1:   F
-          2: T
-          3: T
-          4: T
-        U9934036:
-          1:   F
-          2: T
-          3: T
-          4: T
+    argos:
+      0:
+        U0034004:
+          point:
+            1: Returned
+        U0034016:
+          point:
+            1: Returned
+    website:
+      0:
+        U0034004:
+          point:
+            1: Returned
+            2: Old
+        U0034016:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034004:
+          point:
+            1: Nil
+        U0034016:
+          point:
+            1: Nil
   11:
-    sale:
-      banana2:
-        U9834017:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9934026:
-          1: T
-          2:   F
-          3: T
-          4: T
-      rice:
-        U9834017:
-          1:   F
-          2: T
-          3: T
-          4: T
-        U9934026:
-          1: T
-          2: T
-          3: T
-          4: T
-      oil:
-        U9834017:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934026:
-          1:   F
-          2: T
-          3: T
-          4: T
-      milk:
-        U9834017:
-          1: T
-          2: T
-          3:   F
-          4: T
-        U9934026:
-          1: T
-          2: T
-          3:   F
-          4: T
+    argos:
+      0:
+        U0034034:
+          point:
+            1: Nil
+        U0034015:
+          point:
+            1: Nil
+    website:
+      0:
+        U0034034:
+          point:
+            1: Returned
+            2: Old
+        U0034015:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034034:
+          point:
+            1: Returned
+        U0034015:
+          point:
+            1: Returned
   12:
-    sale:
-      banana2:
-        U9934044:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9934017:
-          1: T
-          2:   F
-          3: T
-          4:   F
-      rice:
-        U9934044:
-          1:   F
-          2: T
-          3: T
-          4:   F
-        U9934017:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-      oil:
-        U9934044:
-          1:   F
-          2: T
-          3: T
-          4: T
-        U9934017:
-          1:   F
-          2: T
-          3: T
-          4: T
-      milk:
-        U9934044:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934017:
-          1: T
-          2: T
-          3: T
-          4: T
+    argos:
+      0:
+        U0034008:
+          point:
+            1: Returned
+        U0034026:
+          point:
+            1: Returned
+    website:
+      0:
+        U0034008:
+          point:
+            1: Returned
+        U0034026:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034008:
+          point:
+            1: Unreturned
+        U0034026:
+          point:
+            1: Returned
   13:
-    sale:
-      banana2:
-        U9934033:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9934021:
-          1: T
-          2:   F
-          3: T
-          4: T
-      rice:
-        U9934033:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-        U9934021:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-      oil:
-        U9934033:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9934021:
-          1:   F
-          2: T
-          3:   F
-          4: T
-      milk:
-        U9934033:
-          1: T
-          2: T
-          3: T
-          4:   F
-        U9934021:
-          1: T
-          2: T
-          3: T
-          4:   F
+    argos:
+      0:
+        U0034036:
+          point:
+            1: Old
+            2: Returned
+        U0034011:
+          point:
+            1: Fault
+    website:
+      0:
+        U0034036:
+          point:
+            1: Fault
+        U0034011:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034036:
+          point:
+            1: Nil
+        U0034011:
+          point:
+            1: Nil
   14:
-    sale:
-      banana2:
-        U9934027:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9934023:
-          1: T
-          2:   F
-          3: T
-          4: T
-      rice:
-        U9934027:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934023:
-          1: T
-          2: T
-          3: T
-          4: T
-      oil:
-        U9934027:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934023:
-          1: T
-          2: T
-          3: T
-          4: T
-      milk:
-        U9934027:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934023:
-          1: T
-          2: T
-          3: T
-          4: T
+    argos:
+      0:
+        U0034037:
+          point:
+            1: Nil
+        U0034055:
+          point:
+            1: Nil
+    website:
+      0:
+        U0034037:
+          point:
+            1: Returned
+            2: Returned
+            3: Old
+        U0034055:
+          point:
+            1: Returned
+            2: Old
+            3: Returned
+    vacations:
+      0:
+        U0034037:
+          point:
+            1: Nil
+        U0034055:
+          point:
+            1: Nil
   15:
-    sale:
-      banana2:
-        U9934052:
-          1: T
-          2:   F
-          3:   F
-          4: T
-        U9934039:
-          1: T
-          2:   F
-          3:   F
-          4: T
-      rice:
-        U9934052:
-          1:   F
-          2: T
-          3: T
-          4: T
-        U9934039:
-          1:   F
-          2: T
-          3: T
-          4: T
-      oil:
-        U9934052:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9934039:
-          1:   F
-          2: T
-          3:   F
-          4: T
-      milk:
-        U9934052:
-          1: T
-          2: T
-          3: T
-          4:   F
-        U9934039:
-          1: T
-          2: T
-          3: T
-          4:   F
+    argos:
+      0:
+        U0034017:
+          point:
+            1: Returned
+            2: Returned
+        U0034032:
+          point:
+            1: Returned
+    website:
+      0:
+        U0034017:
+          point:
+            1: Nil
+        U0034032:
+          point:
+            1: Nil
+    vacations:
+      0:
+        U0034017:
+          point:
+            1: Returned
+        U0034032:
+          point:
+            1: Returned
   16:
-    sale:
-      banana2:
-        U9934011:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9933147:
-          1: T
-          2:   F
-          3: T
-          4: T
-      rice:
-        U9934011:
-          1:   F
-          2:   F
-          3: T
-          4: T
-        U9933147:
-          1:   F
-          2:   F
-          3: T
-          4: T
-      oil:
-        U9934011:
-          1:   F
-          2: T
-          3: T
-          4: T
-        U9933147:
-          1:   F
-          2: T
-          3: T
-          4: T
-      milk:
-        U9934011:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9933147:
-          1:   F
-          2:   F
-          3: T
-          4: T
+    argos:
+      0:
+        U0034056:
+          point:
+            1: Nil
+        U0034031:
+          point:
+            1: Nil
+    website:
+      0:
+        U0034056:
+          point:
+            1: Unreturned
+        U0034031:
+          point:
+            1: Nil
+    vacations:
+      0:
+        U0034056:
+          point:
+            1: Returned
+        U0034031:
+          point:
+            1: Returned
   17:
-    sale:
-      banana2:
-        U9934037:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9934034:
-          1: T
-          2:   F
-          3: T
-          4: T
-      rice:
-        U9934037:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-        U9934034:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-      oil:
-        U9934037:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9934034:
-          1:   F
-          2: T
-          3:   F
-          4: T
-      milk:
-        U9934037:
-          1: T
-          2: T
-          3: T
-          4:   F
-        U9934034:
-          1: T
-          2: T
-          3: T
-          4:   F
+    argos:
+      0:
+        U0034044:
+          point:
+            1: Returned
+        U0034013:
+          point:
+            1: Old
+            2: Returned
+    website:
+      0:
+        U0034044:
+          point:
+            1: Returned
+        U0034013:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034044:
+          point:
+            1: Returned
+        U0034013:
+          point:
+            1: Returned
   18:
-    sale:
-      banana2:
-        U9934022:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9934001:
-          1: T
-          2:   F
-          3: T
-          4: T
-      rice:
-        U9934022:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-        U9934001:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-      oil:
-        U9934022:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9934001:
-          1:   F
-          2: T
-          3:   F
-          4: T
-      milk:
-        U9934022:
-          1: T
-          2: T
-          3: T
-          4:   F
-        U9934001:
-          1: T
-          2: T
-          3: T
-          4:   F
+    argos:
+      0:
+        U0034030:
+          point:
+            1: Nil
+        U0034006:
+          point:
+            1: Nil
+    website:
+      0:
+        U0034030:
+          point:
+            1: Returned
+            2: Returned
+        U0034006:
+          point:
+            1: Old
+    vacations:
+      0:
+        U0034030:
+          point:
+            1: Returned
+        U0034006:
+          point:
+            1: Returned
   19:
-    sale:
-      banana2:
-        U9934010:
-          1: ~
-        U9934028:
-          1: ~
-      rice:
-        U9934010:
-          1: ~
-        U9934028:
-          1: ~
-      oil:
-        U9934010:
-          1: ~
-        U9934028:
-          1: ~
-      milk:
-        U9934010:
-          1: ~
-        U9934028:
-          1: ~
+    argos:
+      0:
+        U0034028:
+          point:
+            1: Returned
+        U0031046:
+          point:
+            1: Old
+    website:
+      0:
+        U0034028:
+          point:
+            1: Returned
+        U0031046:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034028:
+          point:
+            1: Nil
+        U0031046:
+          point:
+            1: Old
   20:
-    sale:
-      banana2:
-        U9934002:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9934015:
-          1: T
-          2:   F
-          3: T
-          4: T
-      rice:
-        U9934002:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-        U9934015:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-      oil:
-        U9934002:
-          1:   F
-          2: T
-          3:   F
-          4: T
-        U9934015:
-          1:   F
-          2: T
-          3:   F
-          4: T
-      milk:
-        U9934002:
-          1: T
-          2: T
-          3: T
-          4:   F
-        U9934015:
-          1: T
-          2: T
-          3: T
-          4:   F
-  21:
-    sale:
-      banana2:
-        U9934024:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9934005:
-          1: T
-          2:   F
-          3: T
-          4: T
-      rice:
-        U9934024:
-          1:   F
-          2:   F
-          3: T
-          4: T
-        U9934005:
-          1:   F
-          2:   F
-          3: T
-          4: T
-      oil:
-        U9934024:
-          1: T
-          2: T
-          3: T
-          4: T
-        U9934005:
-          1: T
-          2: T
-          3: T
-          4: T
-      milk:
-        U9934024:
-          1:   F
-          2: T
-          3: T
-          4: T
-        U9934005:
-          1:   F
-          2: T
-          3: T
-          4: T
+    argos:
+      0:
+        U0034045:
+          point:
+            1: Returned
+        U0034003:
+          point:
+            1: Old
+    website:
+      0:
+        U0034045:
+          point:
+            1: Returned
+        U0034003:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034045:
+          point:
+            1: Nil
+        U0034003:
+          point:
+            1: O
