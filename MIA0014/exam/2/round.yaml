@@ -2,91 +2,93 @@
 round: Exam 2
 week: 9
 questions:
-  - 5
-pass: 2
+  - 6
+pass: 3
 assistant:
-  - Anny
-  - Wendy
+  - Tina
+  - Kyle
 absent:
-text: /home/drbean/class/business/marketing/cards.yaml
+  - Harry
+text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
 activity:
-  water:
-    11:
-      - BlueBlue
-      - BlackBlack
-      - Pink
-      - Green
-      - GrayGray
+  vacations:
     22:
-      - Yellow
-      - Orange
-      - Gray
+      - OrangeOrange
+      - Black
     33:
+      - Yellow
+      - Blue
+    44:
       - White
       - Brown
-    44:
-      - Red
-      - Blue
     55:
+      - Red
+      - Gray
+    66:
       - Purple
-      - Black
-      - BrownBrown
-assistants:
-  BlueBlue:
-    U9933039: 5
-    U9933026: 5
-  Green:
-    U9933008: 5
+      - Orange
+      - Green
+    77:
+      - Pink
+      - BlackBlack
+      - BlueBlue
+      - YellowYellow
+      - GreenGreen
 group:
-  BlueBlue:
-    - Wendy
-    - Tony
-    - Anny
   Black:
-    - Mila
-    - Kenny
-    - Cathy
-  Blue:
-    - Jordan
-    - Jane
-    - Linda1
+# Jack was there, but Yun did the jigsaw. Ignoring it. They didn't want him? Or he didn't want to do it?
+    - Jack
+    - Gary
+    - Amy
   BlackBlack:
-    - James
-    - Dora
-    - Anny
-  Brown:
-    - Peter1
-    - Sean
-    - Tom
-  Gray:
-    - Sam
-    - Alice
-    - Sandy
-  Green:
-    - Evangeline
-    - Soymilk
-    - Wendy
-  Orange:
-    - Sophia
-    - Lilith
-    - Linda2
-  Pink:
+    - Kyle
+    - Eric
+    - Eva
+  Blue:
+    - Jimmy
+    - Peter
     - Tina
-    - Peter2
-    - Cranium
-  Purple:
-    - Claire
-    - Leo
-    - Sally
-  Red:
-    - Gene
-    - Ruby
-    - Alex
-  White:
-    - Candy
-    - Shane
-    - Albert
-  Yellow:
-    - Fred
-    - Kevin
+  Brown:
+    - White
+    - Pig
+    - Christine
+  Gray:
+    - Banana
+    - Bess
+    - Shanny
+  Green:
+    - Stacy
+    - Yun
     - Ivy
+  GreenGreen:
+    - Roy
+    - Alice
+    - Kevin
+  Orange:
+    - Tony
+    - Alisa
+    - Ling
+  OrangeOrange:
+    - Joyce
+    - Jenny
+    - Tina
+  Pink:
+    - John
+    - Jim
+    - Sean
+  Purple:
+    - Sweet
+    - Owen
+    - Kyle
+  Red:
+    - Jessie
+    - Lynette
+    - Gill
+  White:
+    - Joe
+    - Kammy
+    - Michelle
+  Yellow:
+    - Josh
+    - An
+    - Andy
