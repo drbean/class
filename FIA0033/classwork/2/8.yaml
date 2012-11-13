@@ -1,63 +1,68 @@
 ---
-# no week 7
-
-Green:
-  absent:  
-  merits:  2
+GreenGreen:
+  absent:
+  merits: 2
 Black:
   absent: 
-  merits:  3
+  merits: 2
 
 Blue:
-  absent:  
-  merits:  3
+  absent: 
+   - Derrick
+  merits: 3
 Brown:
-  absent:  
-  merits:  2
+  absent: 
+   - Jack
+  merits: 2
 
 Gray:
-  absent:  
-  merits:  3
-Purple:
-  absent:
-  merits:  2
+  absent: 
+  merits: 2
+Green:
+  absent: 
+  merits: 2
 
-Orange:
-  absent:  
-  merits:  2
+BlackBlack:
+  absent: 
+  merits: 3
+BlueBlue:
+  absent: 
+  merits: 2
+
 Pink:
-  absent:  
-  merits:  3
+  absent: 
+  merits: 2
+Purple:
+  absent: 
+  merits: 3
 
 Red:
-  absent:  
-  merits:  2
-BlueBlue:
-  absent:  
-  merits:  3
-
+  absent: 
+  merits: 2
 White:
-  absent:  
-  merits:  2
+  absent: 
+  merits: 2
+
 Yellow:
-  absent:  
-  merits:  3
+  absent: 
+  merits: 2
+OrangeOrange:
+  absent: 
+  merits: 2
 
-GreenGreen:
-  absent:  
-  merits:  2
-BlackBlack:
-  absent:  
-  merits:  3
+PinkPink:
+  absent: 
+    - Ann
+  merits: 2
 
-BrownBrown:
-  absent:  
-  merits:  3
-GrayGray:
-  absent:  
-  merits:  2
+Orange:
+  absent: 
+  merits: 3
+YellowYellow:
+  absent:
+  merits: 2
 
 # assistants
-OrangeOrange:
-  absent:  
-  merits:  3
+PurplePurple:
+  absent: 
+  merits: 3
