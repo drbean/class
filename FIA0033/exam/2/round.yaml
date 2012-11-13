@@ -2,105 +2,111 @@
 round: Exam 2
 week: 9
 questions:
-  - 5
-pass: 2
+  - 6
+pass: 3
 assistant:
-  - Joe
-  - Lynn
 absent:
-text: /home/drbean/class/business/marketing/cards.yaml
+  - Derrick
+  - Jack
+text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
 activity:
-  water:
-    11:
-      - BlueBlue
-
-      - Blue
-      - Green
-      - Purple
-      - GrayGray
+  vacations:
     22:
-      - Brown
-      - White
       - GreenGreen
+      - OrangeOrange
+      - White
     33:
       - BlackBlack
-
-      - Black
+      - Brown
       - Gray
-      - OrangeOrange
-    44:
-      - Orange
-      - Yellow
-      - BrownBrown
-    55:
-      - Pink
       - Red
+    44:
+      - Blue
+      - Purple
+    55:
+      - Black
+      - Pink
+      - PinkPink
+    66:
+      - BlueBlue
+      - Yellow
+      - YellowYellow
+    77:
+      - Green
+      - Orange
+      - PurplePurple
 group:
   Black:
-    - Justin
-    - Diana
-    - Kelly
-  BlackBlack:
-    - Annie
-    - Abby
-    - Carol
-  Blue:
-    - Jason
-    - Cindy
-    - Evan
-  BlueBlue:
-    - Shirley
-    - Celia
-    - Jeff
-  Brown:
-    - Eileen
-    - Jennifer
-    - Maggie
-  BrownBrown:
-    - Amy2
-    - Lynn
-    - Daisy
-  Gray:
-    - Lion
-    - Betty1
-    - Jill
-  GrayGray:
-    - Ezra
-    - Amy1
-    - Bob
-  Green:
-    - Dalai
+    - Sam
+    - George
     - Ting
-    - Kate
-  GreenGreen:
-    - John
-    - Julie
-    - Lynn
-  Orange:
-    - Jerry
-    - Betty2
+  BlackBlack:
+    - James
     - Andy
-  OrangeOrange:
-    - Sam1
-    - Jay1
-    - Joe
-  Pink:
-    - Jack2
-    - Johnson
-    - Reese
-  Purple:
-    - Jack1
-    - Tommy
-    - Bill
-  Red:
-    - Carrie
-    - Robin
-    - Joe
-  White:
-    - Larry
-    - Orton
-    - Doris
-  Yellow:
-    - Sherry
-    - Emily
+    - Linda1
+  Blue:
+# Andy took absent players place, but didn't answer questions
+    - Jike
+    - Liz
+    - Jike
+  BlueBlue:
+    - Leo2
+    - Cathy2
+    - Alice
+  Brown:
+    - Bob
+    - Bob
     - Paul
+  Gray:
+    - Tina
+    - Wei
+    - Chris
+  Green:
+    - Sen
+    - Louis
+    - Jeffrey
+  GreenGreen:
+    - Santie
+    - Hugh
+    - Ben
+  Orange:
+    - Lisa
+    - Emma
+    - Teddy
+  Pink:
+    - David
+    - Frank
+    - E.J.
+  YellowYellow:
+    - Sunny
+    - Cabe
+    - Nana
+  Purple:
+    - Rifle
+    - Amber
+    - Eric
+  PurplePurple:
+    - Danny
+    - Woodstock
+    - Ken
+  Red:
+    - Leo1
+    - Jimmy
+    - Abby
+  White:
+    - Minmin
+    - Jessy
+    - Linda2
+  Yellow:
+    - Tosha
+    - Sherry
+    - Lynn
+# only 2 cards filled in
+  PinkPink:
+    - Ann
+    - Cathy1
+    - Cathy1
+  OrangeOrange:
+    - Yvonne
+    - Annie
+    - Annie
