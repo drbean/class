@@ -21,17 +21,6 @@ member:
     id: U9934026
     rating: ~
   
-  - Chinese: 鄭英杰
-    name: Jack
-    password: ying
-    id: U9816059
-    rating: ~
-  - Chinese: 蘇家緯
-    name: Derrick
-    password: jia
-    id: U9816062
-    rating: ~
-  
   - Chinese: 施凱清
     id: U0031032
     name: Leo2
@@ -277,7 +266,18 @@ member:
     name: Sherry
     password: xin
     rating: ~
-out: ~
+out:
+  - Chinese: 鄭英杰
+    name: Jack
+    password: ying
+    id: U9816059
+    rating: ~
+  - Chinese: 蘇家緯
+    name: Derrick
+    password: jia
+    id: U9816062
+    rating: ~
+  
 room: A706
 scores:
   bye: 5
