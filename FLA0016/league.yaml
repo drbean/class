@@ -51,7 +51,7 @@ member:
     rating: ~
   - Chinese: 湯明勳
     id: V9941010
-    name:Robert
+    name: Robert
     password: ming
     rating: ~
   - Chinese: '?翔義'
@@ -62,7 +62,7 @@ member:
   - Chinese: 謝東霖
     id: V9941014
     name: Tony
-    password:dong~
+    password: dong
     rating: ~
   - Chinese: 陳俞靜
     id: V9941022
