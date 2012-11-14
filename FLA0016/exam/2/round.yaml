@@ -1,108 +1,58 @@
 ---
 round: Exam 2
-week: 9
+week: 8
 questions:
   - 10
-pass: 6
+pass: 5
 assistant:
-  - Luke
-  - Hank
-  - Dennis
-  - Hannah
-  - Yorick
 absent:
-  - Joanna
-  - Lace
-text: /home/drbean/class/conversation/parents/cards.yaml
+text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
 activity:
-  biomom:
-    2e:
-      - Black
-      - Gray
-      - Mike
-      - Pink
-      - White
-  biodad:
-    3:
-      - Blue
-      - Brown
-      - Green
-      - Purple
-      - Yellow
-  emersonj:
-    1:
+  rumor:
+    0:
       - BlackBlack
-      - Orange
-      - Red
-      - WhiteWhite
+      - Green
+      - One
+      - Two
+  control:
+    0:
+      - Black
+      - Pink
+  cohabitation:
+    0:
+      - Three
+      - White
 group:
   Black:
-    - Anny
-    - Winny
-    - Joan
-    - Rose
+    - Yan-ting
+    - Adam
+    - Sophia
   BlackBlack:
-    - Ivan
-    - Yorick
-    - Anne
-    - Luke
-  Blue:
-    - Sherry
-    - Jeffrey
-    - Kitty
-    - Leo
-  Brown:
-    - Jerry
-    - Shaq
-    - Yu-Lun
-    - Yu-Ching
-  Gray:
-    - Michelle
-    - Lisa
-    - Patty
-    - Debbie
+    - Claire
+    - Henry
+    - Jill
   Green:
-    - Bella
     - Kori
-    - Sue
-    - Laura
-  Orange:
-    - Cathy2
-    - Abby
-    - Yi-Ru
-    - Joy
+    - Rita
+    - Yan-Yun
   Pink:
-    - Luke
-    - Cathy
-    - Carina
-    - Hannah
-  Purple:
-    - Dan
-    - Stanley
-    - Fifi
-    - Hank
-  Red:
-    - Eva
-    - Amber
-    - Winne
-    - Jessica
+    - Nini
+    - Zhen-Dai
+    - Edward
   White:
-    - Dennis
-    - Katty
-    - Ming
-    - Rachel
-  WhiteWhite:
-    - Tea
-    - Ricky
-    - Julie
-    - Wei-Yi
-  Yellow:
-    - Sana
-    - Yorick
+    - Ya-ting2
+    - Brenda
+    - Wan-Ling
+  One:
+# Mary has cohabitation card
+    - Mary
+    - Joanna
+    - Zhi-Wei
+  Two:
+    - Redd
+    - Judy
+    - Ya-Ting1
+  Three:
     - Bass
-    - Frances
-  Mike:
-    - Hank
-    - Dennis
-    - Hannah
-    - Mike
+    - Joan
+    - Louanna
