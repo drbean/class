@@ -46,7 +46,7 @@ group:
     Black: 97550001
 late:
 pairing: swiss
-payprotocol: meritPay
-round: 4
+payprotocol: meritPay 6
+round: 2
 text: /home/drbean/class/intercultural/customs/cards.yaml
 week: 8

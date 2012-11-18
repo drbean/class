@@ -1,27 +1,33 @@
 ---
 Chinese:
+  Black: 0
   Blue: 0
-  Green: 0
-  Red: 0
-  White: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
 letters:
+  Black:
+    97550033: 8
+    97550021: 7
+    97550008: 7
+    story: bedtime0
   Blue:
-    U9818048: 8
-    U9931134: 9
-    U9817051: 8
-    story: davist2
-  Green:
-    U9931043: 9
-    U9914051: 3
-    V9741064: 8
-    story: davist2
-  Red:
-    U9931148: 7
-    T9822043: 9
-    U9818039: 9
-    story: foreman1
-  White:
-    U9711114: 8
-    U9821130: 9
-    U9818019: 7
-    story: foreman1
+    97550001: 7
+    97550003: 7
+    97550002: 7
+    story: bedtime0
+  Orange:
+    97550027: 7
+    97550009: 8
+    97550004: 8
+    story: taunting0
+  Pink:
+    97550031: 7
+    97550018: 8
+    97550023: 8
+    story: taunting0
+  Purple:
+    97550028: 5
+    97550017: 6
+    97550011: 5
+    story: taunting0
