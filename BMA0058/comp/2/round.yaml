@@ -1,7 +1,7 @@
 ---
 activity:
-  sale:
-    banana2:
+  argos:
+    0:
       - 0
       - 1
       - 2
@@ -21,7 +21,8 @@ activity:
       - 16
       - 17
       - 18
-    rice:
+  website:
+    0:
       - 0
       - 1
       - 2
@@ -41,7 +42,8 @@ activity:
       - 16
       - 17
       - 18
-    oil:
+  vacations:
+    0:
       - 0
       - 1
       - 2
@@ -61,95 +63,79 @@ activity:
       - 16
       - 17
       - 18
-    milk:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
+assistant:
+  BlackBlack:
+    U0031131: 3
+    U0031128: 5
+    U0031119: 5
+  Orange:
+    U0031133: 5
+    U0031129: 5
+    U0031103: 5
+dispensation:
+divisions:
+  - free
 group:
   0:
-    White: T9833026
-    Black: U9931142
+    White: U0031130
+    Black: U9931248
   1:
-    White: U9931039
-    Black: U9931013
+    White: U0031127
+    Black: U0031126
   2:
-    White: U9931001
-    Black: U9931103
+    White: U0031143
+    Black: U0031141
   3:
-    White: U9931004
-    Black: U9931143
+    White: U0031150
+    Black: U0031142
   4:
-    White: U9931145
-    Black: U9931029
+    White: U0031117
+    Black: U0031116
   5:
-    White: U9931041
-    Black: U9931101
+    White: U0031111
+    Black: U0031101
   6:
-    White: U9931105
-    Black: U9931002
+    White: U0031120
+    Black: U0031109
   7:
-    White: U9931012
-    Black: U9931042
+    White: U0031112
+    Black: U0031114
   8:
-    White: U9931133
-    Black: U9931111
+    White: U0031146
+    Black: U0031135
   9:
-    White: U9931014
-    Black: U9931015
+    White: U0031144
+    Black: U0031139
   10:
-    White: U9931138
-    Black: U9931102
+    White: U0031136
+    Black: U0031105
   11:
-    White: U9931017
-    Black: U9931130
+    White: U0031132
+    Black: U0031102
   12:
-    White: U9931129
-    Black: U9931125
+    White: U9931001
+    Black: U0031115
   13:
-    White: U9931134
-    Black: U9931146
+    White: U0031147
+    Black: U0031123
   14:
-    White: U9931028
-    Black: U9931127
+    White: U0031104
+    Black: U0031118
   15:
-    White: U9931043
-    Black: U9931149
+    White: U0031107
+    Black: U0031124
   16:
-    White: U9931007
-    Black: U9931026
+    White: U0031205
+    Black: U0031122
   17:
-    White: U9931037
-    Black: U9931139
+    White: U0031106
+    Black: U0031145
   18:
-    White: U9931140
-    Black: U9931006
-bye: U9931032
-assistant:
-  BlueBlue:
-    T9833024: 4
-    U9931025: 4
-    U9931003: 4
-  BlackBlack:
-    U9931034: 5
-    U9931109: 5
-    U9931110: 5
-pairing: apache not granted permission on swiss002, so round 1 shown.
+    White: U0031138
+    Black: U0031110
+late:
+pairing: swiss
+payprotocol: meritPay
 round: 2
-text: /home/drbean/class/business/marketing/cards.yaml
+text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
 week: 9

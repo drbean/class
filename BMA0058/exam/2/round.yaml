@@ -2,91 +2,102 @@
 round: Exam 2
 week: 9
 questions:
-  - 5
-pass: 2
+  - 6
+pass: 3
 assistant:
+  - Yuda
+  - Eric
+  - Bella
 absent:
-text: /home/drbean/class/business/marketing/cards.yaml
+  - Caxton
+  - Jason
+text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
 activity:
-  water:
-    11:
-      - GrayGray
-      - Brown
-      - Orange
+  vacations:
     22:
-      - Purple
-      - Green
-    33:
-      - BlackBlack
-      - Yellow
-      - BlueBlue
       - White
-    44:
-      - Pink
-      - Red
-      - Blue
-    55:
       - Gray
-      - BrownBrown
+    33:
+      - Brown
+      - Green
+      - Yellow
+    44:
       - Black
+      - BlackBlack
+      - Red
+    55:
+      - BlueBlue
+      - Pink
+    66:
+      - Blue
+      - Orange
+      - Purple
+    77:
+      - GreenGreen
+      - OrangeOrange
+      - YellowYellow
 group:
   Black:
-    - Harry
-    - Zara
-    - Jim
+    - Joyce
+    - Skylla
+    - Penny
   BlackBlack:
-    - Cindy
-    - Cathy
-    - Merlin
-  Blue:
-    - Lulu
-    - Peilin
-    - Will
+    - Aling
+    - Grace
+    - Chelsea
   BlueBlue:
-    - Jay
-    - Amy1
-    - Kathy
+    - Wayne
+    - Ciyun
+    - Lydia
+  Blue:
+    - Eric
+    - Jim
+    - Venus
   Brown:
-    - Rita
-    - Nora
-    - Angel
-  BrownBrown:
-    - Mandy
-    - Len
-    - Lisa
+    - Wade
+    - Christina
+    - Jill
   Gray:
-    - Helen
-    - Kimberly
-    - Amy4
-  GrayGray:
-    - Anting
-    - Jojo
-    - Kelly
+    - Polly
+    - Sam
+    - Bella
   Green:
-    - Amy3
-    - Willie
-    - Angeline
+    - Annie
+    - Apple
+    - Bella
+  GreenGreen:
+    - Bebe
+    - Susan
+    - Ya-Lin
   Orange:
-    - Flora
-    - YiChun
-    - Nina
+    - Yi-Zhen
+    - Jeffrey
+    - Yuda
   Pink:
-    - Alice1
-    - Janet
-    - Jenny
+    - Max
+    - Lin-ho
+    - SuSu
   Purple:
-    - Sheryl
-    - Laura
-    - Tina
+    - Jungle
+    - Eric
+    - Tiffany
   Red:
-    - Linda
-    - Karen
-    - Jane
+    - Mandy
+    - Fang
+    - Cindy
   White:
-    - Robert
-    - Erin
-    - Jason
+    - Joanna
+    - Maggie
+    - Angela
   Yellow:
-    - Sandy1
-    - Kevin2
-    - Sandy2
+    - Jenny
+    - Casper
+    - Alen
+  OrangeOrange:
+    - Willie
+    - Winnie
+    - Yuda
+  YellowYellow:
+    - A-Mei
+    - Cathy
+    - Alison
