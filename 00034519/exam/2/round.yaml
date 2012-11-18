@@ -1,37 +1,40 @@
 ---
 round: Exam 2
-week: 9
+week: 8
 questions:
   - 10
-pass: 6
+pass: 5
 assistant:
 absent:
-  - Ian
-text: /home/drbean/class/conversation/disability/cards.yaml
+text: /home/drbean/class/intercultural/customs/cards.yaml
 activity:
-  foreman:
-    1:
-      - Red
-      - White
-  davist:
-    2:
+  taunting:
+    0:
+      - Orange
+      - Pink
+      - Purple
+  bedtime:
+    0:
+      - Black
       - Blue
-      - Green
 group:
-  Green:
-    - Kimberly
-    - Mike2
-    - Amy
+  Black:
+    - Jay
+    - Stella
+    - Mandy
   Blue:
-    - Sheena
-    - Tina
-    - Mike1
-  
-  Red:
-    - Simon
-    - Charlie
-    - Max
-  White:
-    - Jimmy
-    - R-kai
-    - Jason
+    - Eva
+    - Miru
+    - Doris
+  Orange:
+    - Cheer
+    - Jennifer
+    - Cindy
+  Pink:
+    - Sally
+    - Mil
+    - Yvonne
+  Purple:
+    - Lin
+    - Jill
+    - Anita
