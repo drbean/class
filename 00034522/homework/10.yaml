@@ -2,58 +2,66 @@
 cutpoints:
   one: 20
   two: 85
-exercise: dickson
+exercise: cohabitation
 grade:
-  T9822043: 0
-  U9711114: 0
-  U9817051: 2
-  U9818019: 2
-  U9818039: 0
-  U9818048: 2
-  U9821130: 2
-  U9914051: 0
-  U9931043: 2
-  U9931123: 0
-  U9931134: 2
-  U9931148: 2
-  V9741064: 2
+  97550001: 2
+  97550002: 2
+  97550003: 2
+  97550004: 2
+  97550008: 0
+  97550009: 2
+  97550011: 2
+  97550017: 2
+  97550018: 2
+  97550021: 2
+  97550023: 2
+  97550027: 0
+  97550028: 2
+  97550031: 2
+  97550033: 2
 points:
-  T9822043:
+  97550001:
+    letters: 198
+    percent: 93
+  97550002:
+    letters: 208
+    percent: 100
+  97550003:
+    letters: 182
+    percent: 100
+  97550004:
+    letters: 206
+    percent: 100
+  97550008:
     letters: 0
     percent: 0
-  U9711114:
+  97550009:
+    letters: 201
+    percent: 100
+  97550011:
+    letters: 210
+    percent: 100
+  97550017:
+    letters: 243
+    percent: 100
+  97550018:
+    letters: 231
+    percent: 100
+  97550021:
+    letters: 208
+    percent: 100
+  97550023:
+    letters: 235
+    percent: 100
+  97550027:
     letters: 0
     percent: 0
-  U9817051:
-    letters: 94
+  97550028:
+    letters: 208
+    percent: 86
+  97550031:
+    letters: 200
     percent: 100
-  U9818019:
-    letters: 110
-    percent: 100
-  U9818039:
-    letters: 0
-    percent: 0
-  U9818048:
-    letters: 93
-    percent: 100
-  U9821130:
-    letters: 102
-    percent: 100
-  U9914051:
-    letters: 0
-    percent: 0
-  U9931043:
-    letters: 99
-    percent: 92
-  U9931123:
-    letters: 0
-    percent: 0
-  U9931134:
-    letters: 110
-    percent: 100
-  U9931148:
-    letters: 100
-    percent: 92
-  V9741064:
-    letters: 101
+  97550033:
+    letters: 209
     percent: 100
