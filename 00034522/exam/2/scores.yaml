@@ -7,27 +7,27 @@ Chinese:
   Purple: 0
 letters:
   Black:
-    97550017: 7
-    97550018: 7
-    97550001: 7
-    story: back_to_school1
+    97550033: 9
+    97550021: 10
+    97550008: 9
+    story: rumor0
   Blue:
-    97550004: 4
-    97550023: 4
-    97550003: 4
-    story: xo1
-  Orange:
-    97550031: 7
-    97550033: 6
-    97550011: 7
-    story: back_to_school1
-  Pink:
-    97550021: 8
-    97550009: 8
+    97550001: 8
+    97550003: 8
     97550002: 8
-    story: crossing0
+    story: rumor0
+  Orange:
+    97550027: 9
+    97550009: 9
+    97550004: 9
+    story: rumor0
+  Pink:
+    97550031: 6
+    97550018: 6
+    97550023: 6
+    story: control0
   Purple:
-    97550027: 6
-    97550008: 6
     97550028: 5
-    story: bingo0
+    97550017: 5
+    97550011: 6
+    story: control0
