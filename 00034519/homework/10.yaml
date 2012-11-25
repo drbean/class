@@ -1,59 +1,52 @@
 ---
 cutpoints:
-  one: 20
-  two: 85
-exercise: dickson
+  one: ~
+  two: ~
+exercise: 26-30
 grade:
-  T9822043: 0
-  U9711114: 0
-  U9817051: 2
-  U9818019: 2
-  U9818039: 0
-  U9818048: 2
-  U9821130: 2
-  U9914051: 0
-  U9931043: 2
-  U9931123: 0
-  U9931134: 2
-  U9931148: 2
-  V9741064: 2
+  97550001: 1
+  97550002: 2
+  97550003: 2
+  97550004: 2
+  97550008: 2
+  97550009: 0
+  97550011: 2
+  97550017: 2
+  97550018: 2
+  97550021: 2
+  97550023: 2
+  97550027: 2
+  97550028: 1
+  97550031: 2
+  97550033: 0
 points:
-  T9822043:
+  Anita:
+    letters: 2
+  Cheer:
+    letters: 2
+  Cindy:
+    letters: 2
+  Doris:
+    letters: 2
+  Eva:
+    letters: 1
+  Jay:
     letters: 0
-    percent: 0
-  U9711114:
+  Jennifer:
     letters: 0
-    percent: 0
-  U9817051:
-    letters: 94
-    percent: 100
-  U9818019:
-    letters: 110
-    percent: 100
-  U9818039:
-    letters: 0
-    percent: 0
-  U9818048:
-    letters: 93
-    percent: 100
-  U9821130:
-    letters: 102
-    percent: 100
-  U9914051:
-    letters: 0
-    percent: 0
-  U9931043:
-    letters: 99
-    percent: 92
-  U9931123:
-    letters: 0
-    percent: 0
-  U9931134:
-    letters: 110
-    percent: 100
-  U9931148:
-    letters: 100
-    percent: 92
-  V9741064:
-    letters: 101
-    percent: 100
+  Jill:
+    letters: 2
+  Lin:
+    letters: 1
+  Mandy:
+    letters: 2
+  Mil:
+    letters: 2
+  Miru:
+    letters: 2
+  Sally:
+    letters: 2
+  Stella:
+    letters: 2
+  Yvonne:
+    letters: 2
