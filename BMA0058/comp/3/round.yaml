@@ -1,6 +1,6 @@
 ---
 activity:
-  companies:
+  ikea:
     0:
       - 0
       - 1
@@ -21,9 +21,84 @@ activity:
       - 16
       - 17
       - 18
-assistant: ~
-dispensation: ~
-divisions: ~
+      - 19
+  valentino:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+  flicker:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+  zara:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+assistant:
+  Orange:
+    U9931248: 5
+    U0031124: 5
+    U0031147: 5
+  BlackBlack:
+    U0031108: 5
+    U0031144: 5
+dispensation:
+divisions:
+  - free
 group:
   0:
     White: U0031126
@@ -82,10 +157,14 @@ group:
   18:
     White: U0031122
     Black: U0031110
+  19:
+    White: U9931001
+    Black: U0031143
 late:
-  - ~
+  - U9931001
+  - U0031143
 pairing: swiss
 payprotocol: meritPay
 round: 3
-text: ~
-week: ~
+text: /home/drbean/class/business/companies/cards.yaml
+week: 13

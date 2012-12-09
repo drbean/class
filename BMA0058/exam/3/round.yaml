@@ -2,89 +2,102 @@
 round: Exam 3
 week: 13
 questions:
-  - 10
-pass: 5
-assistant: 
-absent: 
-text: /home/drbean/class/business/planning/cards.yaml
+  - 4
+pass: 2
+assistant:
+  - Tiffany
+  - A-Mei
+  - Polly
+absent:
+  - Eric
+  - Lin-ho
+text: /home/drbean/class/business/companies/cards.yaml
 activity:
-  kendall:
-    11:
-      - Blue
-      - Brown
-      - Orange
-      - Red
-      - Yellow
-    22:
+  fourswot:
+    00:
       - BlackBlack
-      - BrownBrown
-      - GrayGray
-      - Purple
-      - White
-    33:
-      - Black
-      - BlueBlue
+      - Brown
       - Gray
-      - Green
       - Pink
+    01:
+      - Black
+      - Purple
+    03:
+      - BlueBlue
+      - Red
+    04:
+      - Blue
+      - White
+    08:
+      - GreenGreen
+      - Yellow
+    09:
+      - Green
+      - Orange
+      - OrangeOrange
+      - YellowYellow
 group:
   Black:
-    - Harry
-    - Karen
-    - Jim
-  BlackBlack:
-    - Linda
-    - Peilin
-    - Tina
-  Blue:
-    - Lulu
-    - Amy4
-    - Angeline
-  BlueBlue:
-    - Erin
-    - Alice1
-    - Lisa
-  Brown:
-    - Rita
-    - Kevin2
-    - Will
-  BrownBrown:
-    - Jay
-    - Cathy
-    - Zara
-  Gray:
-    - Helen
-    - YiChun
-    - Angel
-  GrayGray:
-    - Anting
-    - Nora
-    - Jason
-  Green:
-    - Flora
-    - Laura
-    - Jenny
-  Orange:
-    - Cindy
-    - Len
-    - Jane
-  Pink:
-    - Amy3
-    - Amy1
-    - Nina
-  Purple:
-    - Jojo
-    - Janet
-    - Sandy2
-  Red:
-    - Robert
-    - Mandy
-    - Kimberly
-  White:
     - Willie
-    - Kathy
-    - Kelly
+    - Skylla
+    - Grace
+  BlackBlack:
+    - Caxton
+    - Max
+    - Jill
+  Blue:
+    - Wade
+    - Christina
+    - Yuda
+  BlueBlue:
+    - A-Mei
+    - Polly
+    - Tiffany
+  Brown:
+    - Joyce
+    - Penny
+    - Winnie
+  Gray:
+    - Bebe
+    - Yi-Zhen
+    - Maggie
+  Green:
+    - Jason
+    - Jungle
+    - Bella
+  GreenGreen:
+    - Lydia
+    - Cindy
+    - Wayne
+  Orange:
+    - Ciyun
+    - Alen
+    - Apple
+  OrangeOrange:
+    - Venus
+    - Chelsea
+    - Polly
+  Pink:
+    - Jenny
+    - Annie
+    - Sam
+  Purple:
+    - Tiffany
+    - Alison
+    - SuSu
+  Red:
+    - Susan
+    - Ya-Lin
+    - Angela
+  White:
+    - Jim
+    - Fang
+    - Cathy
   Yellow:
-    - Sheryl
-    - Sandy1
-    - Merlin
+    - Casper
+    - Joanna
+    - A-Mei
+  YellowYellow:
+    - Mandy
+    - Aling
+    - Jeffrey

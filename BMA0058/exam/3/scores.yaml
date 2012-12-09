@@ -5,89 +5,95 @@ Chinese:
   Blue: 0
   BlueBlue: 0
   Brown: 0
-  BrownBrown: 0
   Gray: 0
-  GrayGray: 1
   Green: 0
+  GreenGreen: 0
   Orange: 0
+  OrangeOrange: 0
   Pink: 0
-  Purple: 1
+  Purple: 0
   Red: 0
   White: 0
   Yellow: 0
+  YellowYellow: 0
 letters:
   Black:
-    T9833026: 3
-    U9931029: 3
-    U9931125: 3
-    story: kendall33
+    U9931001: 4
+    U0031120: 1
+    U0031128: 1
+    story: fourswot01
   BlackBlack:
-    U9931139: 9
-    U9931127: 9
-    U9931134: 9
-    story: kendall22
+    U0031108: 4
+    U0031143: 2
+    U0031144: 1
+    story: fourswot00
   Blue:
-    U9931013: 6
-    U9931143: 7
-    U9931014: 5
-    story: kendall11
+    U0031140: 1
+    U0031115: 3
+    U0031103: 3
+    story: fourswot04
   BlueBlue:
-    U9931145: 7
-    U9931028: 7
-    U9931130: 7
-    story: kendall33
+    U0031138: 4
+    U0031110: 2
+    U0031107: 0
+    story: fourswot03
   Brown:
-    U9931032: 9
-    U9931102: 9
-    U9931140: 9
-    story: kendall11
-  BrownBrown:
-    T9833024: 5
-    U9931109: 5
-    U9931012: 5
-    story: kendall22
+    U0031150: 2
+    U0031118: 4
+    U0031139: 2
+    story: fourswot00
   Gray:
-    U9931042: 4
-    U9931111: 4
-    U9931002: 4
-    story: kendall33
-  GrayGray:
-    U9931146: 3
-    U9931103: 4
-    U9931037: 4
-    story: kendall22
+    U0031127: 2
+    U0031133: 2
+    U0031123: 2
+    story: fourswot00
   Green:
-    U9931129: 5
-    U9931026: 5
-    U9931101: 5
-    story: kendall33
+    U0031113: 1
+    U0031142: 1
+    U0031112: 2
+    story: fourswot09
+  GreenGreen:
+    U0031126: 4
+    U0031132: 4
+    U0031130: 0
+    story: fourswot08
   Orange:
-    U9931034: 5
-    U9931015: 6
-    U9931039: 4
-    story: kendall11
+    U9931248: 1
+    U0031124: 2
+    U0031147: 2
+    story: fourswot09
+  OrangeOrange:
+    U0031105: 0
+    U0031119: 2
+    U0031110: 4
+    story: fourswot09
   Pink:
-    U9931133: 7
-    U9931025: 6
-    U9931007: 7
-    story: kendall33
+    U0031146: 0
+    U0031135: 2
+    U0031145: 2
+    story: fourswot00
   Purple:
-    U9931041: 10
-    U9931017: 8
-    U9931142: 10
-    story: kendall22
+    U0031107: 3
+    U0031141: 2
+    U0031111: 1
+    story: fourswot01
   Red:
-    U9931149: 8
-    U9931138: 9
-    U9931043: 10
-    story: kendall11
+    U0031102: 4
+    U0031122: 4
+    U0031104: 4
+    story: fourswot03
   White:
-    U9931001: 3
-    U9931003: 3
-    U9931004: 3
-    story: kendall22
+    U0031117: 2
+    U0031101: 2
+    U0031106: 1
+    story: fourswot04
   Yellow:
-    U9931006: 3
-    U9931105: 5
-    U9931110: 2
-    story: kendall11
+    U0031109: 3
+    U0031114: 0
+    U0031138: 4
+    story: fourswot08
+  YellowYellow:
+    U0031205: 0
+    U0031131: 2
+    U0031129: 2
+    story: fourswot09
