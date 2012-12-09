@@ -1,7 +1,8 @@
 ---
 activity:
-  kendall:
-    influences:
+  companies:
+    0:
+      - 0
       - 1
       - 2
       - 3
@@ -11,6 +12,7 @@ activity:
       - 7
       - 8
       - 9
+      - 10
       - 11
       - 12
       - 13
@@ -19,98 +21,71 @@ activity:
       - 16
       - 17
       - 18
-      - 19
-      - 20
-    coventgreen:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
-      - 19
-      - 20
-bye: T9833024
+assistant: ~
+dispensation: ~
+divisions: ~
 group:
+  0:
+    White: U0031126
+    Black: U0031113
   1:
-    White: U9931025
-    Black: U9931110
+    White: U0031129
+    Black: U0031130
   2:
-    White: U9931003
-    Black: U9931129
+    White: U0031128
+    Black: U0031140
   3:
-    White: U9931006
-    Black: U9931109
+    White: U0031119
+    Black: U0031133
   4:
-    White: U9931125
-    Black: U9931143
+    White: U0031142
+    Black: U0031103
   5:
-    White: U9931032
-    Black: U9931105
+    White: U0031141
+    Black: U0031150
   6:
-    White: U9931042
-    Black: T9833026
+    White: U0031131
+    Black: U0031117
   7:
-    White: U9931029
-    Black: U9931001
+    White: U0031109
+    Black: U0031112
   8:
-    White: U9931013
-    Black: U9931043
+    White: U0031101
+    Black: U0031127
   9:
-    White: U9931034
-    Black: U9931133
+    White: U0031102
+    Black: U0031104
+  10:
+    White: U0031135
+    Black: U0031111
   11:
-    White: U9931111
-    Black: U9931041
+    White: U0031123
+    Black: U0031146
   12:
-    White: U9931146
-    Black: U9931007
+    White: U0031114
+    Black: U0031138
   13:
-    White: U9931101
-    Black: U9931138
+    White: U0031105
+    Black: U0031106
   14:
-    White: U9931015
-    Black: U9931017
+    White: U0031139
+    Black: U0031205
   15:
-    White: U9931026
-    Black: U9931140
+    White: U0031115
+    Black: U0031120
   16:
-    White: U9931102
-    Black: U9931014
+    White: U0031118
+    Black: U0031132
   17:
-    White: U9931149
-    Black: U9931004
+    White: U0031145
+    Black: U0031107
   18:
-    White: U9931103
-    Black: U9931039
-  19:
-    White: U9931142
-    Black: U9931012
-  20:
-    White: U9931002
-    Black: U9931037
-assistant:
-  BlackBlack:
-    U9931145: 5
-    U9931028: 5
-    U9931130: 5
-  BlueBlue:
-    U9931139: 5
-    U9931127: 5
-    U9931134: 5
+    White: U0031122
+    Black: U0031110
+late:
+  - ~
 pairing: swiss
 payprotocol: meritPay
 round: 3
-text: /home/drbean/class/business/planning/cards.yaml
-week: 13
+text: ~
+week: ~
