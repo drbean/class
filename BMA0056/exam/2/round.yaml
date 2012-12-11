@@ -2,91 +2,97 @@
 round: Exam 2
 week: 9
 questions:
-  - 5
-pass: 2
+  - 6
+pass: 3
 assistant:
 absent:
-text: /home/drbean/class/business/marketing/cards.yaml
+text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
 activity:
-  water:
-    11:
-      - GrayGray
-      - Brown
-      - Orange
+  vacations:
     22:
-      - Purple
-      - Green
-    33:
-      - BlackBlack
+      - OrangeOrange
+      - Red
       - Yellow
-      - BlueBlue
+    33:
+      - BrownBrown
+      - Orange
       - White
     44:
-      - Pink
-      - Red
       - Blue
-    55:
       - Gray
-      - BrownBrown
+      - Pink
+    55:
+      - Brown
+      - Green
+      - PinkPink
+    66:
+      - BlackBlack
+      - BlueBlue
+    77:
       - Black
+      - Purple
 group:
   Black:
-    - Harry
-    - Zara
-    - Jim
+    - WeiYu
+    - Banana
+    - Sophie
   BlackBlack:
-    - Cindy
-    - Cathy
-    - Merlin
-  Blue:
-    - Lulu
-    - Peilin
-    - Will
-  BlueBlue:
-    - Jay
-    - Amy1
-    - Kathy
-  Brown:
-    - Rita
-    - Nora
-    - Angel
-  BrownBrown:
-    - Mandy
-    - Len
-    - Lisa
-  Gray:
-    - Helen
-    - Kimberly
-    - Amy4
-  GrayGray:
-    - Anting
-    - Jojo
-    - Kelly
-  Green:
-    - Amy3
-    - Willie
-    - Angeline
-  Orange:
-    - Flora
-    - YiChun
-    - Nina
-  Pink:
-    - Alice1
-    - Janet
     - Jenny
-  Purple:
-    - Sheryl
-    - Laura
-    - Tina
-  Red:
-    - Linda
-    - Karen
-    - Jane
-  White:
-    - Robert
-    - Erin
+    - Alien
+    - Emily
+  Blue:
+    - Henry
+    - Soccer
+    - David2
+  BlueBlue:
+    - Shion-Yu
+    - Zoe
+    - Sandy
+  Brown:
+    - Sylvia
     - Jason
+    - Alice
+  BrownBrown:
+    - Tony
+    - John
+    - Polly1
+  Gray:
+    - Flora2
+    - Aslyn
+    - Natalie
+  Green:
+    - Whitney
+    - Trista
+    - Gina
+  Orange:
+    - Rene
+    - Anastasia
+    - Shirley
+  OrangeOrange:
+    - Hui
+    - Jessie
+    - Polly2
+  Pink:
+    - Jimmy
+    - Jophiel
+    - Judy
+  PinkPink:
+    - Helen
+    - Victor
+    - Flora1
+  Purple:
+    - Winnie
+    - Stanley
+    - Alan
+  Red:
+    - Sherry
+    - Tiffany
+    - ShuJing
+  White:
+    - Celina
+    - Ian
+    - Amy
   Yellow:
-    - Sandy1
-    - Kevin2
-    - Sandy2
+    - David1
+    - YiJie
+    - Lily
