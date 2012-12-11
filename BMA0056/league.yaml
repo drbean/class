@@ -26,11 +26,6 @@ member:
     password: zhe
     id: U0022016
     rating: ~
-  - Chinese: 陳沛瑋
-    name: Daniel
-    password: pei
-    id: 9633253
-    rating: ~
   
   
   - Chinese: 湯竣傑
@@ -249,11 +244,6 @@ member:
     name: Henry
     password: zhi
     rating: ~
-  - Chinese: 葉日維
-    id: U9831038
-    name: Max
-    password: ri
-    rating: ~
   - Chinese: 顏摩
     id: U9831144
     name: Stanley
@@ -270,6 +260,16 @@ member:
     password: jia
     rating: ~
 out:
+  - Chinese: 葉日維
+    id: U9831038
+    name: Max
+    password: ri
+    rating: ~
+  - Chinese: 陳沛瑋
+    name: Daniel
+    password: pei
+    id: 9633253
+    rating: ~
   - Chinese: 陳怡婷
     id: U0031021
     name: 陳怡婷
