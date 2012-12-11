@@ -1,1218 +1,754 @@
 ---
 free:
+  0:
+    ikea:
+      0:
+        U0034042:
+          point:
+            1: Nil
+        U0034050:
+          point:
+            1: Nil
+    valentino:
+      0:
+        U0034042:
+          point:
+            1: Nil
+        U0034050:
+          point:
+            1: Nil
+    flicker:
+      0:
+        U0034042:
+          point:
+            1: Returned
+            2: Returned
+        U0034050:
+          point:
+            1: Returned
+    zara:
+      0:
+        U0034042:
+          point:
+            1: Returned
+            2: Returned
+        U0034050:
+          point:
+            1: Returned
   1:
-    kendall:
-      influences:
-        U9934046:
+    ikea:
+      0:
+        U9934026:
           point:
             1: Returned
-            2: Returned
-        U9934004:
+        U0034005:
           point:
-            1: Returned
-            2: Unreturned
-      coventgreen:
-        U9934046:
+            1: Nil
+    valentino:
+      0:
+        U9934026:
           point:
-            1: Returned
-        U9934004:
+            1: Nil
+        U0034005:
           point:
-            1: Returned
-  2:
-    kendall:
-      influences:
-        U9934016:
+            1: Nil
+    flicker:
+      0:
+        U9934026:
           point:
-            1: Returned
-            2: Returned
-        U9934030:
+            1: Nil
+        U0034005:
           point:
-            1: Returned
-            2: Returned
-      coventgreen:
-        U9934016:
-          point:
-            1: Returned
-        U9934030:
-          point:
-            1: Returned
-  3:
-    kendall:
-      influences:
-        U9934009:
-          point:
-            1: Returned
-            2: Returned
-        U9934050:
-          point:
-            1: Returned
-            2: Unreturned
-      coventgreen:
-        U9934009:
+            1: Nil
+    zara:
+      0:
+        U9934026:
           point:
             1: Fault
-        U9934050:
+        U0034005:
+          point:
+            1: Fault
+            2: Returned
+  2:
+    ikea:
+      0:
+        U0034035:
+          point:
+            1: Nil
+        U0034025:
+          point:
+            1: Returned
+    valentino:
+      0:
+        U0034035:
+          point:
+            1: Nil
+        U0034025:
+          point:
+            1: Nil
+    flicker:
+      0:
+        U0034035:
+          point:
+            1: Returned
+        U0034025:
+          point:
+            1: Returned
+    zara:
+      0:
+        U0034035:
+          point:
+            1: Returned
+        U0034025:
+          point:
+            1: Nil
+  3:
+    ikea:
+      0:
+        U0034024:
+          point:
+            1: Returned
+        U9933033:
+          point:
+            1: Nil
+    valentino:
+      0:
+        U0034024:
+          point:
+            1: Nil
+        U9933033:
+          point:
+            1: Nil
+    flicker:
+      0:
+        U0034024:
+          point:
+            1: Returned
+        U9933033:
+          point:
+            1: Returned
+    zara:
+      0:
+        U0034024:
+          point:
+            1: Nil
+        U9933033:
           point:
             1: Returned
   4:
-    kendall:
-      influences:
-        U9934025:
+    ikea:
+      0:
+        U0034012:
           point:
             1: Returned
-            2: Returned
-            3: Unreturned
-        U9934031:
+        U9934004:
           point:
             1: Returned
-            2: Returned
-            3: Unreturned
-      coventgreen:
-        U9934025:
+    valentino:
+      0:
+        U0034012:
+          point:
+            1: Unreturned
+        U9934004:
+          point:
+            1: Nil
+    flicker:
+      0:
+        U0034012:
+          point:
+            1: Nil
+        U9934004:
           point:
             1: Returned
-        U9934031:
+    zara:
+      0:
+        U0034012:
+          point:
+            1: Returned
+        U9934004:
           point:
             1: Returned
   5:
-    kendall:
-      influences:
-        U9934019:
+    ikea:
+      0:
+        U0034014:
           point:
-            1: Fault
-            2: Fault
-        U9934043:
+            1: Nil
+        U0034049:
+          point:
+            1: Nil
+    valentino:
+      0:
+        U0034014:
+          point:
+            1: Nil
+        U0034049:
+          point:
+            1: Nil
+    flicker:
+      0:
+        U0034014:
+          point:
+            1: Nil
+        U0034049:
+          point:
+            1: Returned
+    zara:
+      0:
+        U0034014:
           point:
             1: Returned
             2: Returned
-      coventgreen:
-        U9934019:
-          point:
-            1: Returned
-            2: Returned
-        U9934043:
+        U0034049:
           point:
             1: Returned
             2: Returned
   6:
-    kendall:
-      influences:
-        U9934032:
-          point:
-            1: Returned
-            2: Returned
-        U9934040:
-          point:
-            1: Returned
-      coventgreen:
-        U9934032:
+    ikea:
+      0:
+        U0034046:
           point:
             1: Nil
-        U9934040:
+        U0034051:
+          point:
+            1: Nil
+    valentino:
+      0:
+        U0034046:
           point:
             1: Returned
+        U0034051:
+          point:
+            1: Nil
+    flicker:
+      0:
+        U0034046:
+          point:
+            1: Nil
+        U0034051:
+          point:
+            1: Old
+    zara:
+      0:
+        U0034046:
+          point:
+            1: Nil
+        U0034051:
+          point:
+            1: Nil
   7:
-    kendall:
-      influences:
-        U9934029:
+    ikea:
+      0:
+        U9834018:
+          point:
+            1: Nil
+        U0034027:
+          point:
+            1: Nil
+    valentino:
+      0:
+        U9834018:
+          point:
+            1: Nil
+        U0034027:
+          point:
+            1: Nil
+    flicker:
+      0:
+        U9834018:
+          point:
+            1: Old
+            2: Returned
+        U0034027:
+          point:
+            1: Returned
+    zara:
+      0:
+        U9834018:
+          point:
+            1: Returned
+        U0034027:
+          point:
+            1: Fault
+  8:
+    ikea:
+      0:
+        U0034026:
+          point:
+            1: Nil
+        U0034038:
+          point:
+            1: Nil
+    valentino:
+      0:
+        U0034026:
+          point:
+            1: Nil
+        U0034038:
+          point:
+            1: Nil
+    flicker:
+      0:
+        U0034026:
           point:
             1: Returned
             2: Returned
-        U9934051:
+        U0034038:
+          point:
+            1: Returned
+            2: Returned
+    zara:
+      0:
+        U0034026:
+          point:
+            1: Old
+            2: Returned
+        U0034038:
+          point:
+            1: Returned
+  9:
+    ikea:
+      0:
+        U0034032:
+          point:
+            1: Nil
+        U0034055:
+          point:
+            1: Nil
+    valentino:
+      0:
+        U0034032:
+          point:
+            1: Nil
+        U0034055:
+          point:
+            1: Returned
+    flicker:
+      0:
+        U0034032:
           point:
             1: Returned
             2: Returned
             3: Returned
-      coventgreen:
-        U9934029:
+        U0034055:
+          point:
+            1: Nil
+    zara:
+      0:
+        U0034032:
+          point:
+            1: Nil
+        U0034055:
           point:
             1: Returned
             2: Returned
-        U9934051:
-          point:
-            1: Returned
-  8:
-    kendall:
-      influences:
-        U9934038:
-          point:
-            1: Returned
-            2: Returned
-        U9934047:
-          point:
-            1: Returned
-      coventgreen:
-        U9934038:
-          point:
-            1: Returned
-        U9934047:
-          point:
-            1: Returned
-  9:
-    kendall:
-      influences:
-        U9934013:
-          point:
-            1: Returned
-            2: Returned
-        U9834017:
-          point:
-            1: Fault
-            2: Returned
-      coventgreen:
-        U9934013:
-          point:
-            1: Fault
-        U9834017:
-          point:
-            1: Returned
   10:
-    kendall:
-      influences:
-        U9934036:
+    ikea:
+      0:
+        U0034033:
+          point:
+            1: Nil
+        U0034004:
+          point:
+            1: Returned
+    valentino:
+      0:
+        U0034033:
+          point:
+            1: Nil
+        U0034004:
+          point:
+            1: Nil
+    flicker:
+      0:
+        U0034033:
           point:
             1: Returned
             2: Returned
-        U9934033:
+        U0034004:
           point:
             1: Returned
-            2: Returned
-      coventgreen:
-        U9934036:
+    zara:
+      0:
+        U0034033:
           point:
             1: Nil
-        U9934033:
+        U0034004:
           point:
-            1: Nil
+            1: Old
   11:
-    kendall:
-      influences:
-        U9934017:
+    ikea:
+      0:
+        U0034031:
+          point:
+            1: Returned
+        U0034009:
+          point:
+            1: Nil
+    valentino:
+      0:
+        U0034031:
+          point:
+            1: Nil
+        U0034009:
+          point:
+            1: Nil
+    flicker:
+      0:
+        U0034031:
+          point:
+            1: Nil
+        U0034009:
+          point:
+            1: Nil
+    zara:
+      0:
+        U0034031:
+          point:
+            1: Fault
+            2: Returned
+        U0034009:
           point:
             1: Returned
             2: Returned
-        U9934048:
-          point:
-            1: Returned
-            2: Returned
-      coventgreen:
-        U9934017:
-          point:
-            1: Returned
-        U9934048:
-          point:
-            1: Returned
   12:
-    kendall:
-      influences:
-        U9913132:
+    ikea:
+      0:
+        U0034016:
           point:
             1: Returned
-            2: Returned
-        U9934020:
-          point:
-            1: Unreturned
-      coventgreen:
-        U9913132:
+        U0034002:
           point:
             1: Returned
-        U9934020:
+    valentino:
+      0:
+        U0034016:
           point:
-            1: Fault
+            1: Nil
+        U0034002:
+          point:
+            1: Returned
+    flicker:
+      0:
+        U0034016:
+          point:
+            1: Returned
+        U0034002:
+          point:
+            1: Returned
+    zara:
+      0:
+        U0034016:
+          point:
+            1: Returned
+        U0034002:
+          point:
+            1: Nil
   13:
-    kendall:
-      influences:
-        U9934012:
+    ikea:
+      0:
+        U0034023:
           point:
             1: Returned
             2: Returned
-        U9934003:
+        U0034034:
           point:
-            1: Returned
-            2: Returned
-      coventgreen:
-        U9934012:
+            1: Old
+    valentino:
+      0:
+        U0034023:
           point:
             1: Nil
-        U9934003:
-          point:
-            1: Nil
-  14:
-    kendall:
-      influences:
-        U9933147:
+        U0034034:
           point:
             1: Returned
             2: Returned
-        U9934039:
-          point:
-            1: Returned
-            2: Returned
-      coventgreen:
-        U9933147:
-          point:
-            1: Returned
-        U9934039:
-          point:
-            1: Returned
-  16:
-    kendall:
-      influences:
-        U9934015:
-          point:
-            1: Unreturned
-            2: Returned
-        U9934052:
-          point:
-            1: Returned
-            2: Returned
-      coventgreen:
-        U9934015:
-          point:
-            1: Returned
-        U9934052:
-          point:
-            1: Returned
-  17:
-    kendall:
-      influences:
-        U9934005:
-          point:
-            1: Returned
-            2: Returned
-        U9934037:
-          point:
-            1: Returned
-            2: Returned
-      coventgreen:
-        U9934005:
-          point:
-            1: Returned
-        U9934037:
-          point:
-            1: Nil
-  18:
-    kendall:
-      influences:
-        U9934034:
-          point:
-            1: Returned
-        U9934002:
-          point:
-            1: Returned
-      coventgreen:
-        U9934034:
-          point:
-            1: Returned
-        U9934002:
-          point:
-            1: Returned
-  19:
-    kendall:
-      influences:
-        U9934026:
-          point:
-            1: Returned
-            2: Returned
-        U9934022:
-          point:
-            1: Returned
-            2: Returned
-      coventgreen:
-        U9934026:
-          point:
-            1: Returned
-        U9934022:
-          point:
-            1: Fault
-  20:
-    kendall:
-      influences:
-        U9934001:
-          point:
-            1: Returned
-        U9934024:
-          point:
-            1: Returned
-      coventgreen:
-        U9934001:
-          point:
-            1: Returned
-        U9934024:
-          point:
-            1: Returned
-  21:
-    kendall:
-      influences:
-        U9934028:
-          point:
-            1: Returned
-            2: Returned
-        U9934011:
-          point:
-            1: Returned
-            2: Returned
-      coventgreen:
-        U9934028:
-          point:
-            1: Returned
-        U9934011:
-          point:
-            1: Returned
-  22:
-    kendall:
-      influences:
-        U9934006:
+    flicker:
+      0:
+        U0034023:
           point:
             1: Returned
             2: Fault
-        U9934027:
+        U0034034:
           point:
             1: Returned
-            2: Unreturned
-      coventgreen:
-        U9934006:
+    zara:
+      0:
+        U0034023:
           point:
-            1: Fault
-        U9934027:
+            1: Nil
+        U0034034:
           point:
-            1: Fault
-set:
-  1:
-    kendall:
-      influences:
-        U9934046:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8:   F
-        U9934004:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8:   F
-      coventgreen:
-        U9934046:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-        U9934004:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-  2:
-    kendall:
-      influences:
-        U9934016:
-          1: T
-          2:   F
-          3: T
-          4: T
-          5: T
-          6: T
-          7: T
-          8: T
-        U9934030:
-          1:   F
-          2:   F
-          3: T
-          4: T
-          5: T
-          6: T
-          7: T
-          8: T
-      coventgreen:
-        U9934016:
-          1: T
-          2:   F
-          3: T
-          4: T
-          5: T
-          6: T
-          7:   F
-          8: T
-        U9934030:
-          1: T
-          2:   F
-          3: T
-          4: T
-          5: T
-          6: T
-          7:   F
-          8: T
-  3:
-    kendall:
-      influences:
-        U9934009:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8:   F
-        U9934050:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8:   F
-      coventgreen:
-        U9934009:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-        U9934050:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-  4:
-    kendall:
-      influences:
-        U9934025:
-          1:   F
-          2:   F
-          3: T
-          4: T
-          5: T
-          6:   F
-          7:   F
-          8:   F
-        U9934031:
-          1:   F
-          2:   F
-          3: T
-          4: T
-          5: T
-          6:   F
-          7:   F
-          8:   F
-      coventgreen:
-        U9934025:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-        U9934031:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-  5:
-    kendall:
-      influences:
-        U9934019:
-          1:   F
-          2:   F
-          3: T
-          4: T
-          5: T
-          6:   F
-          7:   F
-          8:   F
-        U9934043:
-          1:   F
-          2:   F
-          3: T
-          4: T
-          5: T
-          6:   F
-          7:   F
-          8:   F
-      coventgreen:
-        U9934019:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-        U9934043:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-  6:
-    kendall:
-      influences:
-        U9934032:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8:   F
-        U9934040:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8:   F
-      coventgreen:
-        U9934032:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-        U9934040:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-  7:
-    kendall:
-      influences:
-        U9934029:
-          1:   F
-          2:   F
-          3: T
-          4: T
-          5: T
-          6: T
-          7:   F
-          8:   F
-        U9934051:
-          1:   F
-          2: T
-          3: T
-          4: T
-          5:   F
-          6: T
-          7:   F
-          8:   F
-      coventgreen:
-        U9934029:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-        U9934051:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-  8:
-    kendall:
-      influences:
-        U9934038:
-          1: T
-          2: T
-          3:   F
-          4: T
-          5: T
-          6: T
-          7: T
-          8:   F
-        U9934047:
-          1: T
-          2: T
-          3:   F
-          4: T
-          5: T
-          6: T
-          7: T
-          8:   F
-      coventgreen:
-        U9934038:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5:   F
-          6:   F
-          7:   F
-          8: T
-        U9934047:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5:   F
-          6:   F
-          7:   F
-          8: T
-  9:
-    kendall:
-      influences:
-        U9934013:
-          1: T
-          2:   F
-          3:   F
-          4: T
-          5: T
-          6: T
-          7: T
-          8:   F
-        U9834017:
-          1: T
-          2:   F
-          3:   F
-          4: T
-          5:   F
-          6: T
-          7: T
-          8:   F
-      coventgreen:
-        U9934013:
-          1: T
-          2: T
-          3: T
-          4: T
-          5: T
-          6: T
-          7: T
-          8: T
-        U9834017:
-          1: T
-          2:   F
-          3: T
-          4: T
-          5: T
-          6:   F
-          7: T
-          8: T
-  10:
-    kendall:
-      influences:
-        U9934036:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-          5: T
-          6: T
-          7: T
-          8:   F
-        U9934033:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-          5: T
-          6: T
-          7: T
-          8:   F
-      coventgreen:
-        U9934036:
-          1: T
-          2: T
-          3:   F
-          4: T
-          5:   F
-          6:   F
-          7:   F
-          8:   F
-        U9934033:
-          1: T
-          2: T
-          3:   F
-          4: T
-          5:   F
-          6:   F
-          7:   F
-          8:   F
-  11:
-    kendall:
-      influences:
-        U9934017:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-          5: T
-          6: T
-          7:   F
-          8: T
-        U9934048:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-          5: T
-          6: T
-          7:   F
-          8: T
-      coventgreen:
-        U9934017:
-          1: T
-          2: T
-          3:   F
-          4: T
-          5:   F
-          6:   F
-          7:   F
-          8:   F
-        U9934048:
-          1: T
-          2: T
-          3:   F
-          4: T
-          5:   F
-          6:   F
-          7:   F
-          8:   F
-  12:
-    kendall:
-      influences:
-        U9913132:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8:   F
-        U9934020:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8:   F
-      coventgreen:
-        U9913132:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-        U9934020:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-  13:
-    kendall:
-      influences:
-        U9934012:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8:   F
-        U9934003:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8:   F
-      coventgreen:
-        U9934012:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-        U9934003:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
+            1: Nil
   14:
-    kendall:
-      influences:
-        U9933147:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-        U9934039:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-      coventgreen:
-        U9933147:
-          1: T
-          2: T
-          3:   F
-          4: T
-          5:   F
-          6:   F
-          7:   F
-          8:   F
-        U9934039:
-          1: T
-          2: T
-          3:   F
-          4: T
-          5:   F
-          6:   F
-          7:   F
-          8:   F
+    ikea:
+      0:
+        U0034029:
+          point:
+            1: Nil
+        U0034017:
+          point:
+            1: Nil
+    valentino:
+      0:
+        U0034029:
+          point:
+            1: Returned
+        U0034017:
+          point:
+            1: Returned
+    flicker:
+      0:
+        U0034029:
+          point:
+            1: Returned
+        U0034017:
+          point:
+            1: Returned
+    zara:
+      0:
+        U0034029:
+          point:
+            1: Returned
+        U0034017:
+          point:
+            1: Returned
+  15:
+    ikea:
+      0:
+        U0034043:
+          point:
+            1: Nil
+        U0034036:
+          point:
+            1: Nil
+    valentino:
+      0:
+        U0034043:
+          point:
+            1: Nil
+        U0034036:
+          point:
+            1: Returned
+    flicker:
+      0:
+        U0034043:
+          point:
+            1: Returned
+        U0034036:
+          point:
+            1: Returned
+    zara:
+      0:
+        U0034043:
+          point:
+            1: Returned
+        U0034036:
+          point:
+            1: Unreturned
   16:
-    kendall:
-      influences:
-        U9934015:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8:   F
-        U9934052:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8:   F
-      coventgreen:
-        U9934015:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-        U9934052:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
+    ikea:
+      0:
+        U0034011:
+          point:
+            1: Fault
+        U0034030:
+          point:
+            1: Nil
+    valentino:
+      0:
+        U0034011:
+          point:
+            1: Fault
+        U0034030:
+          point:
+            1: Old
+    flicker:
+      0:
+        U0034011:
+          point:
+            1: Returned
+        U0034030:
+          point:
+            1: Returned
+            2: Returned
+    zara:
+      0:
+        U0034011:
+          point:
+            1: Nil
+        U0034030:
+          point:
+            1: Nil
   17:
-    kendall:
-      influences:
-        U9934005:
-          1:   F
-          2:   F
-          3:   F
-          4:   F
-          5: T
-          6: T
-          7:   F
-          8: T
-        U9934037:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6: T
-          7:   F
-          8: T
-      coventgreen:
-        U9934005:
-          1: T
-          2:   F
-          3: T
-          4: T
-          5: T
-          6:   F
-          7:   F
-          8: T
-        U9934037:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
+    ikea:
+      0:
+        U0034013:
+          point:
+            1: Nil
+        U0034037:
+          point:
+            1: Nil
+    valentino:
+      0:
+        U0034013:
+          point:
+            1: Nil
+        U0034037:
+          point:
+            1: Nil
+    flicker:
+      0:
+        U0034013:
+          point:
+            1: Returned
+            2: Old
+            3: Returned
+        U0034037:
+          point:
+            1: Old
+            2: Old
+            3: Old
+    zara:
+      0:
+        U0034013:
+          point:
+            1: Nil
+        U0034037:
+          point:
+            1: Returned
   18:
-    kendall:
-      influences:
-        U9934034:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6: T
-          7:   F
-          8: T
-        U9934002:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6: T
-          7:   F
-          8: T
-      coventgreen:
-        U9934034:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-        U9934002:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
+    ikea:
+      0:
+        U0034040:
+          point:
+            1: Nil
+        U0034008:
+          point:
+            1: Returned
+    valentino:
+      0:
+        U0034040:
+          point:
+            1: Returned
+        U0034008:
+          point:
+            1: Nil
+    flicker:
+      0:
+        U0034040:
+          point:
+            1: Returned
+            2: Returned
+        U0034008:
+          point:
+            1: Nil
+    zara:
+      0:
+        U0034040:
+          point:
+            1: Nil
+        U0034008:
+          point:
+            1: Returned
+            2: Returned
   19:
-    kendall:
-      influences:
-        U9934026:
-          1:   F
-          2:   F
-          3: T
-          4: T
-          5: T
-          6:   F
-          7:   F
-          8:   F
-        U9934022:
-          1:   F
-          2:   F
-          3: T
-          4: T
-          5: T
-          6:   F
-          7:   F
-          8:   F
-      coventgreen:
-        U9934026:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-        U9934022:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
+    ikea:
+      0:
+        U0034006:
+          point:
+            1: Nil
+        U0034010:
+          point:
+            1: Nil
+    valentino:
+      0:
+        U0034006:
+          point:
+            1: Nil
+        U0034010:
+          point:
+            1: Returned
+    flicker:
+      0:
+        U0034006:
+          point:
+            1: Nil
+        U0034010:
+          point:
+            1: Returned
+    zara:
+      0:
+        U0034006:
+          point:
+            1: Returned
+            2: Returned
+        U0034010:
+          point:
+            1: Nil
   20:
-    kendall:
-      influences:
-        U9934001:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6: T
-          7:   F
-          8: T
-        U9934024:
-          1:   F
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6: T
-          7:   F
-          8: T
-      coventgreen:
-        U9934001:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
-        U9934024:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
+    ikea:
+      0:
+        U0031046:
+          point:
+            1: Returned
+        U0034056:
+          point:
+            1: Returned
+    valentino:
+      0:
+        U0031046:
+          point:
+            1: Returned
+        U0034056:
+          point:
+            1: Returned
+    flicker:
+      0:
+        U0031046:
+          point:
+            1: Nil
+        U0034056:
+          point:
+            1: Nil
+    zara:
+      0:
+        U0031046:
+          point:
+            1: Nil
+        U0034056:
+          point:
+            1: Nil
   21:
-    kendall:
-      influences:
-        U9934028:
-          1:   F
-          2: T
-          3:   F
-          4:   F
-          5: T
-          6: T
-          7: T
-          8: T
-        U9934011:
-          1:   F
-          2: T
-          3:   F
-          4: T
-          5: T
-          6: T
-          7:   F
-          8: T
-      coventgreen:
-        U9934028:
-          1: T
-          2: T
-          3:   F
-          4: T
-          5:   F
-          6:   F
-          7:   F
-          8:   F
-        U9934011:
-          1: T
-          2: T
-          3:   F
-          4: T
-          5:   F
-          6:   F
-          7:   F
-          8:   F
-  22:
-    kendall:
-      influences:
-        U9934006:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8:   F
-        U9934027:
-          1: T
-          2:   F
-          3:   F
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8:   F
-      coventgreen:
-        U9934006:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7: T
-        U9934027:
-          1: T
-          2:   F
-          3: T
-          4:   F
-          5: T
-          6:   F
-          7:   F
-          8: T
+    ikea:
+      0:
+        U0034003:
+          point:
+            1: Nil
+        U0034045:
+          point:
+            1: Nil
+    valentino:
+      0:
+        U0034003:
+          point:
+            1: Nil
+        U0034045:
+          point:
+            1: Nil
+    flicker:
+      0:
+        U0034003:
+          point:
+            1: Nil
+        U0034045:
+          point:
+            1: Nil
+    zara:
+      0:
+        U0034003:
+          point:
+            1: Returned
+        U0034045:
+          point:
+            1: Returned
