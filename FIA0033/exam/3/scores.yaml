@@ -5,101 +5,101 @@ Chinese:
   Blue: 0
   BlueBlue: 0
   Brown: 0
-  BrownBrown: 0
   Gray: 0
-  GrayGray: 0
   Green: 0
   GreenGreen: 0
   Orange: 0
   OrangeOrange: 0
   Pink: 0
   Purple: 0
+  PurplePurple: 0
   Red: 0
   White: 0
   Yellow: 0
+  YellowYellow: 0
 letters:
   Black:
-    U9934029: 7
-    U9913132: 7
-    U9934043: 7
-    story: kendall11
+    U0034032: 2
+    U0034010: 2
+    U0034037: 2
+    story: fourswot04
   BlackBlack:
-    U9734051: 4
-    U9934021: 3
-    U9934045: 4
-    story: kendall33
+    U0034007: 1
+    U0031032: 1
+    U0034044: 1
+    story: fourswot08
   Blue:
-    U9934047: 5
-    U9934032: 6
-    U9934028: 3
-    story: kendall11
+    U0034051: 2
+    U0034024: 0
+    U0034035: 0
+    story: fourswot03
   BlueBlue:
-    U9934007: 5
-    U9934044: 6
-    U9934010: 4
-    story: kendall22
+    U0034050: 3
+    U0031046: 3
+    U0034036: 3
+    story: fourswot08
   Brown:
-    U9934016: 4
-    U9933147: 5
-    U9934024: 6
-    story: kendall11
-  BrownBrown:
-    U9934020: 9
-    U9934046: 4
-    U9934009: 4
-    story: kendall11
+    U9934026: 1
+    U0034012: 1
+    U0034013: 1
+    story: fourswot04
   Gray:
-    U9934031: 5
-    U9934017: 4
-    U9934005: 5
-    story: kendall11
-  GrayGray:
-    U9934052: 10
-    U9934048: 10
-    U9934006: 10
-    story: kendall33
+    U0034025: 0
+    U0034055: 0
+    U0034017: 1
+    story: fourswot09
   Green:
-    U9934034: 5
-    U9934033: 3
-    U9934022: 4
-    story: kendall22
+    U9934004: 1
+    U0034033: 1
+    U0034026: 2
+    story: fourswot03
   GreenGreen:
-    U9934013: 8
-    U9934011: 7
-    U9934027: 8
-    story: kendall22
+    U0034003: 2
+    U0034027: 2
+    U0034014: 2
+    story: fourswot00
   Orange:
-    U9934038: 7
-    U9934001: 7
-    U9934002: 7
-    story: kendall33
+    U0034001: 1
+    U0034015: 2
+    U0034028: 1
+    story: fourswot08
   OrangeOrange:
-    U9934030: 6
-    U9934040: 6
-    U9934001: 7
-    story: kendall11
+    U0034011: 1
+    U0034030: 1
+    U0034029: 1
+    story: fourswot08
   Pink:
-    U9934026: 9
-    U9934003: 10
-    U9934025: 9
-    story: kendall33
+    U0034031: 2
+    U0034005: 2
+    U0034029: 1
+    story: fourswot04
   Purple:
-    U9934019: 3
-    U9934012: 5
-    U9934015: 5
-    story: kendall22
+    U0034004: 1
+    U0034046: 1
+    U0034009: 1
+    story: fourswot09
+  PurplePurple:
+    U0034002: 2
+    U0034008: 2
+    U0034016: 2
+    story: fourswot00
   Red:
-    U9934051: 7
-    U9934023: 5
-    U9934027: 6
-    story: kendall22
+    U0034049: 1
+    U0034040: 1
+    U0034043: 1
+    story: fourswot00
   White:
-    U9834017: 6
-    U9934039: 6
-    U9934037: 7
-    story: kendall33
+    U0034038: 0
+    U0034056: 4
+    U9933033: 0
+    story: fourswot03
   Yellow:
-    U9934004: 6
-    U9934036: 6
-    U9934050: 6
-    story: kendall22
+    U9834018: 2
+    U0034023: 1
+    U0034042: 0
+    story: fourswot04
+  YellowYellow:
+    U0034006: 1
+    U0034034: 1
+    U0034045: 0
+    story: fourswot09
