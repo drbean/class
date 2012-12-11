@@ -135,6 +135,7 @@ group:
     White: U0033037
     Black: U0033008
 late:
+  - U0033042
 pairing: swiss
 payprotocol: meritPay
 round: 3
