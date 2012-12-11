@@ -1,57 +1,57 @@
 ---
 Black:
-  absent: 
-  merits:  3
+      absent: 
+      merits: 1
 Blue:
-  absent:  
-  merits:  2
+      absent: 
+      merits: 1
 
 Brown:
-  absent:  
-  merits:  2
+      absent: 
+      merits: 1
 Gray:
-  absent:  
-  merits:  3
+      absent: 
+      merits: 2
 
 Green:
-  absent:  
-    - Willie
-  merits:  3
-Orange:
-  absent:  
-  merits:  2
-
-Pink:
-  absent:  
-  merits:  3
-Purple:
-  absent:
-  merits:  2
-
-Red:
-  absent:  
-  merits:  3
-White:
-  absent:  
-    - Erin
-  merits:  2
-
-Yellow:
-  absent:  
-    - Merlin
-  merits:  3
+      absent: 
+      merits: 3
 BlackBlack:
-  absent:  
-  merits:  2
+      absent: 
+      merits: 3
 
 BlueBlue:
-  absent:  
-  merits:  2
-BrownBrown:
-  absent:  
-  merits:  3
+      absent: 
+      merits: 3
+GreenGreen:
+      absent: 
+      merits: 1
 
-# assistants
-GrayGray:
-  absent:  
-  merits:  3
+Orange:
+      absent: 
+      merits: 2
+Pink:
+      absent: 
+      merits: 3
+
+Purple:
+      absent:
+      merits: 2
+Red:
+      absent: 
+      merits: 1
+
+White:
+      absent: 
+      merits: 2
+Yellow:
+      absent: 
+      merits: 1
+
+YellowYellow:
+      absent: 
+      merits: 2
+OrangeOrange:
+      absent: 
+      merits: 0.5
+
