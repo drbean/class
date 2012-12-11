@@ -1,7 +1,8 @@
 ---
 activity:
-  kendall:
-    influences:
+  ikea:
+    0:
+      - 0
       - 1
       - 2
       - 3
@@ -11,6 +12,7 @@ activity:
       - 7
       - 8
       - 9
+      - 10
       - 11
       - 12
       - 13
@@ -20,8 +22,9 @@ activity:
       - 17
       - 18
       - 19
-      - 20
-    coventgreen:
+  valentino:
+    0:
+      - 0
       - 1
       - 2
       - 3
@@ -31,6 +34,7 @@ activity:
       - 7
       - 8
       - 9
+      - 10
       - 11
       - 12
       - 13
@@ -40,77 +44,126 @@ activity:
       - 17
       - 18
       - 19
-      - 20
-bye: T9833024
-group:
-  1:
-    White: U9931025
-    Black: U9931110
-  2:
-    White: U9931003
-    Black: U9931129
-  3:
-    White: U9931006
-    Black: U9931109
-  4:
-    White: U9931125
-    Black: U9931143
-  5:
-    White: U9931032
-    Black: U9931105
-  6:
-    White: U9931042
-    Black: T9833026
-  7:
-    White: U9931029
-    Black: U9931001
-  8:
-    White: U9931013
-    Black: U9931043
-  9:
-    White: U9931034
-    Black: U9931133
-  11:
-    White: U9931111
-    Black: U9931041
-  12:
-    White: U9931146
-    Black: U9931007
-  13:
-    White: U9931101
-    Black: U9931138
-  14:
-    White: U9931015
-    Black: U9931017
-  15:
-    White: U9931026
-    Black: U9931140
-  16:
-    White: U9931102
-    Black: U9931014
-  17:
-    White: U9931149
-    Black: U9931004
-  18:
-    White: U9931103
-    Black: U9931039
-  19:
-    White: U9931142
-    Black: U9931012
-  20:
-    White: U9931002
-    Black: U9931037
+  flicker:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+  zara:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
 assistant:
-  BlackBlack:
-    U9931145: 5
-    U9931028: 5
-    U9931130: 5
-  BlueBlue:
-    U9931139: 5
-    U9931127: 5
-    U9931134: 5
+  white:
+    U0031026: 4
+    U0031045: 5
+    U0031040: 5
+  PinkPink:
+    U0031047: 5
+    U0031018: 5
+    U9931152: 1
+dispensation:
+divisions:
+  - free
+group:
+  0:
+    White: U9831152
+    Black: U0031020
+  1:
+    White: U0031033
+    Black: U0031007
+  2:
+    White: U0031012
+    Black: U0031036
+  3:
+    White: U9831144
+    Black: U0031024
+  4:
+    White: U9931129
+    Black: U0031011
+  5:
+    White: U0031003
+    Black: U0031013
+  6:
+    White: U0031049
+    Black: U0031027
+  7:
+    White: U0031004
+    Black: U0031008
+  8:
+    White: U0031016
+    Black: U0031009
+  9:
+    White: U0031043
+    Black: U0031038
+  10:
+    White: U0031002
+    Black: U0031010
+  11:
+    White: U0031022
+    Black: U0031029
+  12:
+    White: U0031001
+    Black: U0031037
+  13:
+    White: U0031039
+    Black: U0031014
+  14:
+    White: U0031042
+    Black: U0031025
+  15:
+    White: U0031044
+    Black: U0031034
+  16:
+    White: U0031031
+    Black: U0022016
+  17:
+    White: U0031017
+    Black: U0031005
+  18:
+    White: U0031035
+    Black: U0031006
+  19:
+    White: U0031028
+    Black: U0031041
+late:
 pairing: swiss
 payprotocol: meritPay
 round: 3
-text: /home/drbean/class/business/planning/cards.yaml
+text: /home/drbean/class/business/companies/cards.yaml
 week: 13
