@@ -2,58 +2,66 @@
 cutpoints:
   one: 20
   two: 85
-exercise: abreu
+exercise: refugees
 grade:
-  T9822043: 2
-  U9711114: 2
-  U9817051: 2
-  U9818019: 2
-  U9818039: 2
-  U9818048: 2
-  U9821130: 2
-  U9914051: 0
-  U9931043: 2
-  U9931123: 0
-  U9931134: 2
-  U9931148: 2
-  V9741064: 2
+  97550001: 2
+  97550002: 2
+  97550003: 2
+  97550004: 2
+  97550008: 2
+  97550009: 0
+  97550011: 2
+  97550017: 2
+  97550018: 2
+  97550021: 2
+  97550023: 2
+  97550027: 2
+  97550028: 2
+  97550031: 2
+  97550033: 2
 points:
-  T9822043:
-    letters: 126
-    percent: 99
-  U9711114:
-    letters: 100
-    percent: 100
-  U9817051:
-    letters: 102
-    percent: 100
-  U9818019:
-    letters: 92
-    percent: 96
-  U9818039:
-    letters: 122
+  97550001:
+    letters: 260
     percent: 98
-  U9818048:
-    letters: 123
-    percent: 96
-  U9821130:
-    letters: 98
+  97550002:
+    letters: 215
     percent: 100
-  U9914051:
+  97550003:
+    letters: 238
+    percent: 100
+  97550004:
+    letters: 263
+    percent: 100
+  97550008:
+    letters: 236
+    percent: 100
+  97550009:
     letters: 0
     percent: 0
-  U9931043:
-    letters: 117
+  97550011:
+    letters: 253
     percent: 100
-  U9931123:
-    letters: 0
-    percent: 0
-  U9931134:
-    letters: 107
+  97550017:
+    letters: 239
+    percent: 98
+  97550018:
+    letters: 254
+    percent: 98
+  97550021:
+    letters: 252
     percent: 100
-  U9931148:
-    letters: 126
+  97550023:
+    letters: 273
     percent: 100
-  V9741064:
-    letters: 107
-    percent: 97
+  97550027:
+    letters: 263
+    percent: 100
+  97550028:
+    letters: 288
+    percent: 100
+  97550031:
+    letters: 249
+    percent: 100
+  97550033:
+    letters: 259
+    percent: 92
