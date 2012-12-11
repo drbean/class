@@ -1,62 +1,64 @@
 ---
-# left
-Green:
-  absent: 
-  merits: 2
+
 Black:
   absent: 
-  merits: 2
-
+  merits: 3
 Blue:
   absent: 
   merits: 2
+
 Brown:
   absent: 
   merits: 2
-
 Gray:
   absent: 
-  merits: 2
-Purple:
-  absent:
-  merits: 2
+  merits: 3
 
-Pink:
+Green:
+  absent: 
+  merits: 3
+BlackBlack:
   absent: 
   merits: 2
-Orange:
-  absent: 
-  merits: 2
-
-# right
 
 BlueBlue:
+  absent: 
+  merits: 2
+GreenGreen:
+  absent: 
+  tardy:
+    - Tina
+  merits: 3
+
+Orange:
+  absent:
+  merits: 2
+Pink:
+  absent: 
+  merits: 3
+
+Purple:
   absent: 
   merits: 3
 Red:
   absent: 
-  merits: 3
+  merits: 2
 
 White:
   absent: 
-  merits: 3
+  merits: 2
 Yellow:
   absent: 
   merits: 3
 
-BlackBlack:
-  absent: 
-  merits: 3
-GreenGreen:
-  absent: 
-  merits: 3
-
-GrayGray:
-  absent: 
-  merits: 3
-BrownBrown:
-  absent: 
-  merits: 3
-
+# assistants
 OrangeOrange:
+  absent:
+  merits: 3
+
+PurplePurple:
+  absent: 
+  merits: 2
+YellowYellow:
+  absent: 
   merits: 3
