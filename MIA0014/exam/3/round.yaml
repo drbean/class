@@ -2,81 +2,98 @@
 round: Exam 3
 week: 13
 questions:
-  - 10
-pass: 5
-assistant: 
-  - Albert
-  - Shane
-absent: 
-text: /home/drbean/class/business/planning/cards.yaml
+  - 4
+pass: 2
+assistant:
+  - Lynette
+  - Tony
+  - Kammy
+  - Eva
+absent:
+  - Harry
+  - John
+text: /home/drbean/class/business/companies/cards.yaml
 activity:
-  kendall:
-    11:
+  fourswot:
+    00:
+      - GreenGreen
+      - Pink
+    01:
+      - Black
+      - Red
+      - White
+    03:
       - Blue
       - Green
       - Orange
-      - Red
-    22:
-      - Black
-      - BlackBlack
+      - Owen
+      - Yellow
+    04:
       - Gray
-      - Pink
-      - White
-    33:
-      - BlueBlue
+    08:
+      - OrangeOrange
+    09:
+      - BlackBlack
       - Brown
       - Purple
-      - Yellow
 group:
   Black:
-    - Tony
-    - Sophia
-    - Linda2
-  BlackBlack:
-    - Shane
-    - Albert
-    - Gene
-  Blue:
-    - James
-    - Jane
-    - Alex
-  BlueBlue:
-    - Fred
-    - Albert
-    - Shane
-  Brown:
-    - Jordan
-    - Lilith
-    - Linda1
-  Gray:
-    - Soymilk
+    - Eva
     - Sean
-    - Tom
-  Green:
-    - Mila
-    - Peter2
-    - Leo
-  Orange:
-    - Evangeline
-    - Candy
-    - Sandy
-  Pink:
-    - Kevin
-    - Cathy
-    - Anny
-  Purple:
-    - Claire
-    - Kenny
-    - Wendy
-  Red:
-    - Peter1
-    - Sam
-    - Ivy
-  White:
+    - Eva
+  BlackBlack:
+    - Roy
+    - Christine
+    - Bess
+  Blue:
+    - Jack
+    - Yun
+    - Shanny
+  Brown:
+    - Stacy
     - Alice
-    - Dora
-    - Sally
-  Yellow:
+    - Ling
+  Gray:
+    - Michelle
+    - Michelle
+    - Kevin
+  Green:
+    - Jim
+    - Ivy
+    - Eric
+  GreenGreen:
+    - Banana
+    - Peter
+    - Kyle
+  Orange:
+    - Joyce
+    - Gill
+    - Alisa
+  OrangeOrange:
+    - White
+    - Amy
+    - Eva
+  Pink:
+    - Jimmy
+    - Jessie
+    - Jenny
+  Owen:
+    - Tony
+    - Owen
+    - Kammy
+  Purple:
+    - Tony
+    - Lynette
+    - Kammy
+  Red:
+    - Joe
+    - Josh
+    - Gary
+  White:
+    - Sweet
+    - An
     - Tina
-    - Ruby
-    - Cranium
+  Yellow:
+    - Andy
+    - Lynette
+    - Pig
