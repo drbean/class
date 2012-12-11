@@ -4,6 +4,10 @@ cutpoints:
   two: 85
 exercise: interview
 grade:
+  # latecomers
+  9633253: 0
+  U0022016: 0
+
   U0031001: 2
   U0031002: 2
   U0031003: 2
