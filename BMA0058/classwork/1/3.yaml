@@ -15,6 +15,7 @@ Brown:
 
 Gray:
   absent: 
+  tardy:
     - Annie
   merits: 2
 Green:
