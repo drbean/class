@@ -1,9 +1,9 @@
 ---
 Black:
-  - Roy
+  - Harry
   - Peter
   - Eva
-BlackBlack:
+Gray:
   - Joyce
   - Christine
   - Ling
@@ -15,7 +15,7 @@ Brown:
   - Stacy
   - Owen
   - Eric
-Gray:
+BlackBlack:
   - Jim
   - Lynette
   - Kevin
@@ -32,7 +32,7 @@ Orange:
   - Michelle
   - Bess
 OrangeOrange:
-  - Harry
+  - Roy
   - Amy
 Pink:
   - Sweet
