@@ -1,43 +1,47 @@
 ---
 activity:
-  dickson:
+  true-love:
     0:
+      - 0
       - 1
       - 2
       - 3
       - 4
       - 5
-  abreu:
-    0:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-bye: U9818048
+      - 6
+      - 7
+assistant: ~
+dispensation: ~
+divisions: ~
 group:
+  0:
+    White: 97550023
+    Black: 97550002
   1:
-    White: U9818019
-    Black: U9817051
+    White: 97550011
+    Black: 97550021
   2:
-    White: U9931148
-    Black: U9818039
+    White: 97550009
+    Black: 97550004
   3:
-    White: U9821130
-    Black: U9711114
+    White: 97550008
+    Black: 97550033
   4:
-    White: U9931043
-    Black: T9822043
+    White: 97550031
+    Black: 97550001
   5:
-    White: U9931134
-    Black: V9741064
+    White: 97550018
+    Black: 97550027
+  6:
+    White: 97550017
+    Black: 97550028
+  7:
+    White: 97550017
+    Black: 97550028
 late:
-  - U9931134
-  - V9741064
-pairing: swiss adjusted
-assistant:
-  Black:
-    U9818048: 5
-round: 3
-text: /home/drbean/class/conversation/work/cards.yaml
-week: 14
+  - ~
+pairing: swiss
+payprotocol: meritPay
+round: 6
+text: ~
+week: ~
