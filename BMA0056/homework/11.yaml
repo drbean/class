@@ -1,187 +1,199 @@
 ---
 cutpoints:
   one: 20
-  two: 85
-exercise: kendall_talk1
+  two: 80
+exercise: flicker
 grade:
-  T9833024: 2
-  T9833026: 0
-  U9931001: 0
-  U9931002: 2
-  U9931003: 2
-  U9931004: 2
-  U9931006: 2
-  U9931007: 2
-  U9931012: 2
-  U9931013: 1
-  U9931014: 2
-  U9931015: 0
-  U9931017: 2
-  U9931025: 2
-  U9931026: 1
-  U9931028: 0
-  U9931029: 2
-  U9931032: 1
-  U9931034: 1
-  U9931037: 2
-  U9931039: 1
-  U9931041: 0
-  U9931042: 2
-  U9931043: 2
-  U9931101: 2
-  U9931102: 2
-  U9931103: 2
-  U9931105: 2
-  U9931109: 2
-  U9931110: 2
-  U9931111: 2
-  U9931125: 2
-  U9931127: 2
-  U9931129: 1
-  U9931130: 2
-  U9931133: 2
-  U9931134: 2
-  U9931138: 2
-  U9931139: 2
-  U9931140: 2
-  U9931142: 2
-  U9931143: 2
-  U9931145: 2
-  U9931146: 0
-  U9931149: 2
+  U0022016: 2
+  U0031001: 2
+  U0031002: 2
+  U0031003: 2
+  U0031004: 2
+  U0031005: 2
+  U0031006: 2
+  U0031007: 2
+  U0031008: 2
+  U0031009: 2
+  U0031010: 2
+  U0031011: 0
+  U0031012: 2
+  U0031013: 2
+  U0031014: 2
+  U0031016: 2
+  U0031017: 0
+  U0031018: 2
+  U0031020: 2
+  U0031022: 2
+  U0031024: 1
+  U0031025: 2
+  U0031026: 2
+  U0031027: 0
+  U0031028: 2
+  U0031029: 2
+  U0031031: 2
+  U0031033: 2
+  U0031034: 2
+  U0031035: 2
+  U0031036: 2
+  U0031037: 2
+  U0031038: 2
+  U0031039: 2
+  U0031040: 0
+  U0031041: 2
+  U0031042: 2
+  U0031043: 2
+  U0031044: 2
+  U0031045: 2
+  U0031047: 2
+  U0031048: 2
+  U0031049: 2
+  U9831006: 2
+  U9831144: 0
+  U9831152: 2
+  U9931129: 2
+  U9931152: 2
 points:
-  T9833024:
-    letters: 437
+  U0022016:
+    letters: 224
     percent: 100
-  T9833026:
-    letters: 0
-    percent: 0
-  U9931001:
-    letters: 0
-    percent: 0
-  U9931002:
-    letters: 386
+  U0031001:
+    letters: 189
     percent: 100
-  U9931003:
-    letters: 410
+  U0031002:
+    letters: 194
     percent: 100
-  U9931004:
-    letters: 452
-    percent: 98
-  U9931006:
-    letters: 396
-    percent: 90
-  U9931007:
-    letters: 398
-    percent: 91
-  U9931012:
-    letters: 451
+  U0031003:
+    letters: 228
     percent: 100
-  U9931013:
+  U0031004:
     letters: 217
-    percent: 49
-  U9931014:
-    letters: 405
-    percent: 100
-  U9931015:
-    letters: 0
-    percent: 0
-  U9931017:
-    letters: 434
-    percent: 100
-  U9931025:
-    letters: 442
-    percent: 100
-  U9931026:
-    letters: 321
-    percent: 75
-  U9931028:
-    letters: 0
-    percent: 0
-  U9931029:
-    letters: 416
-    percent: 100
-  U9931032:
-    letters: 207
-    percent: 48
-  U9931034:
-    letters: 209
-    percent: 50
-  U9931037:
-    letters: 448
-    percent: 100
-  U9931039:
-    letters: 336
-    percent: 79
-  U9931041:
-    letters: 0
-    percent: 0
-  U9931042:
-    letters: 373
-    percent: 85
-  U9931043:
-    letters: 386
-    percent: 91
-  U9931101:
-    letters: 410
-    percent: 100
-  U9931102:
-    letters: 419
-    percent: 100
-  U9931103:
-    letters: 435
-    percent: 100
-  U9931105:
-    letters: 434
-    percent: 100
-  U9931109:
-    letters: 473
-    percent: 100
-  U9931110:
-    letters: 430
-    percent: 100
-  U9931111:
-    letters: 423
-    percent: 98
-  U9931125:
-    letters: 398
     percent: 96
-  U9931127:
-    letters: 440
+  U0031005:
+    letters: 201
+    percent: 100
+  U0031006:
+    letters: 201
+    percent: 100
+  U0031007:
+    letters: 212
+    percent: 100
+  U0031008:
+    letters: 219
+    percent: 100
+  U0031009:
+    letters: 203
+    percent: 100
+  U0031010:
+    letters: 210
+    percent: 100
+  U0031011:
+    letters: 0
+    percent: 0
+  U0031012:
+    letters: 224
+    percent: 100
+  U0031013:
+    letters: 208
+    percent: 100
+  U0031014:
+    letters: 231
+    percent: 100
+  U0031016:
+    letters: 251
+    percent: 98
+  U0031017:
+    letters: 0
+    percent: 0
+  U0031018:
+    letters: 197
+    percent: 100
+  U0031020:
+    letters: 200
+    percent: 100
+  U0031022:
+    letters: 244
+    percent: 100
+  U0031024:
+    letters: 80
+    percent: 35
+  U0031025:
+    letters: 220
+    percent: 100
+  U0031026:
+    letters: 209
+    percent: 100
+  U0031027:
+    letters: 0
+    percent: 0
+  U0031028:
+    letters: 218
+    percent: 100
+  U0031029:
+    letters: 225
+    percent: 99
+  U0031031:
+    letters: 231
+    percent: 100
+  U0031033:
+    letters: 221
+    percent: 100
+  U0031034:
+    letters: 229
+    percent: 100
+  U0031035:
+    letters: 229
+    percent: 100
+  U0031036:
+    letters: 230
+    percent: 100
+  U0031037:
+    letters: 224
+    percent: 100
+  U0031038:
+    letters: 208
+    percent: 100
+  U0031039:
+    letters: 187
+    percent: 97
+  U0031040:
+    letters: 0
+    percent: 0
+  U0031041:
+    letters: 212
+    percent: 100
+  U0031042:
+    letters: 216
+    percent: 100
+  U0031043:
+    letters: 173
+    percent: 100
+  U0031044:
+    letters: 201
+    percent: 100
+  U0031045:
+    letters: 227
+    percent: 100
+  U0031047:
+    letters: 195
+    percent: 100
+  U0031048:
+    letters: 189
+    percent: 93
+  U0031049:
+    letters: 226
+    percent: 100
+  U9831006:
+    letters: 211
+    percent: 100
+  U9831144:
+    letters: 0
+    percent: 0
+  U9831152:
+    letters: 222
     percent: 100
   U9931129:
-    letters: 352
-    percent: 80
-  U9931130:
-    letters: 411
+    letters: 241
     percent: 100
-  U9931133:
-    letters: 439
-    percent: 98
-  U9931134:
-    letters: 403
+  U9931152:
+    letters: 217
     percent: 100
-  U9931138:
-    letters: 411
-    percent: 100
-  U9931139:
-    letters: 449
-    percent: 100
-  U9931140:
-    letters: 408
-    percent: 100
-  U9931142:
-    letters: 433
-    percent: 100
-  U9931143:
-    letters: 451
-    percent: 98
-  U9931145:
-    letters: 403
-    percent: 100
-  U9931146:
-    letters: 0
-    percent: 0
-  U9931149:
-    letters: 446
-    percent: 99
