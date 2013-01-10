@@ -1,18 +1,43 @@
 ---
 activity:
-  fernandez:
+  true-love:
     0:
+      - 0
       - 1
       - 2
+      - 3
+      - 4
+      - 5
+      - 6
+assistant: ~
+dispensation: ~
+divisions: ~
 group:
+  0:
+    White: 97550023
+    Black: 97550011
   1:
-     White: U9934003
-     Black: U9934051
+    White: 97550002
+    Black: 97550033
   2:
-     White: U9934002
-     Black: U9934021
-bye: V9731059
-pairing: hand-paired. GTS said no more pairs.
-round: 7 
-text: /home/drbean/class/conversation/intercultural/cards.yaml
-week: 10
+    White: 97550021
+    Black: 97550003
+  3:
+    White: 97550009
+    Black: 97550008
+  4:
+    White: 97550001
+    Black: 97550004
+  5:
+    White: 97550028
+    Black: 97550018
+  6:
+    White: 97550031
+    Black: 97550017
+late:
+  - ~
+pairing: swiss
+payprotocol: meritPay
+round: 7
+text: ~
+week: ~
