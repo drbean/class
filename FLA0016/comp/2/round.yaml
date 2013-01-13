@@ -1,6 +1,6 @@
 ---
 activity:
-  rumor:
+  match:
     0:
       - 1
       - 2
@@ -9,89 +9,36 @@ activity:
       - 5
       - 6
       - 7
-      - 8
-      - 9
-      - 10
-      - 11
-  control:
-    0:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-  cohabitation:
-    0:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-assistant:
-  Blue:
-    V9941036: 5
-bye: V9841031
-dispensation:
-divisions:
-  - free
+assistant: ~
+bye: V9841046
+dispensation: ~
+divisions: ~
 group:
   1:
-    White: V9941068
-    Black: V9841042
+    White: V9941001
+    Black: V9941069
   2:
-    White: V9941023
-    Black: V9941026
+    White: V9941067
+    Black: V9841006
   3:
-    White: V9941075
-    Black: V9941015
+    White: V9841063
+    Black: V9941010
   4:
-    White: V9941013
-    Black: V9941007
+    White: V9941025
+    Black: V9941022
   5:
-    White: V9941062
-    Black: V9941059
+    White: V9941031
+    Black: V9941073
   6:
-    White: V9941032
-    Black: V9941050
+    White: V9941012
+    Black: V9941037
   7:
-    White: V9941029
-    Black: V9941011
-  8:
-    White: V9841049
-    Black: V9941040
-  9:
-    White: V9916050
-    Black: V9841002
-  10:
-    White: V9941045
-    Black: V9741022
-  11:
-    White: V9941071
-    Black: V9941047
+    White: V9841025
+    Black: V9941049
 late:
-  - V9841031
-  - V9841049
-  - V9941040
-  - V9916050
-  - V9841002
-  - V9941045
-  - V9741022
-  - V9941071
-  - V9941047
+  - ~
 pairing: swiss
 payprotocol: meritPay
 round: 2
-text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
-week: 9
+text: ~
+week: ~
