@@ -1,190 +1,52 @@
 ---
 cutpoints:
-  loser: 1
-  quitter: 0
-  winner: 2
-exercise: dickson
+  one: ~
+  two: ~
+exercise: 31-35
 grade:
-  T9822043: 0
-  U9711114: 0
-  U9817051: 2
-  U9818019: 1
-  U9818039: 0
-  U9818048: 1
-  U9821130: 2
-  U9914051: 0
-  U9931043: 2
-  U9931123: 1
-  U9931134: 0
-  U9931148: 1
-  V9741064: 1
+  97550001: 0
+  97550002: 2
+  97550003: 2
+  97550004: 0
+  97550008: 0
+  97550009: 0
+  97550011: 2
+  97550017: 2
+  97550018: 2
+  97550021: 2
+  97550023: 2
+  97550027: 2
+  97550028: 2
+  97550031: 2
+  97550033: 2
 points:
-  T9822043:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
-  U9711114:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  U9817051:
-    Wh:
-      answers: 2
-      questions: 4
-      attempts: 4
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
-  U9818019:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 2
-      questions: 9
-      attempts: 16
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
-  U9818039:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  U9818048:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: 3
-      questions: 8
-      attempts: 16
-  U9821130:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: 6
-      questions: 7
-      attempts: 10
-  U9914051:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  U9931043:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 7
-      attempts: 16
-    S:
-      answers: 2
-      questions: 6
-      attempts: 34
-  U9931123:
-    Wh:
-      answers: 0
-      questions: 2
-      attempts: 12
-    Yn:
-      answers: 1
-      questions: 3
-      attempts: 12
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
-  U9931134:
-    Wh:
-      answers: 0
-      questions: 1
-      attempts: 2
-    Yn:
-      answers: 1
-      questions: 1
-      attempts: 1
-    S:
-      answers: 1
-      questions: 1
-      attempts: 1
-  U9931148:
-    Wh:
-      answers: 0
-      questions: 1
-      attempts: 5
-    Yn:
-      answers: 1
-      questions: 1
-      attempts: 3
-    S:
-      answers: 1
-      questions: 6
-      attempts: 13
-  V9741064:
-    Wh:
-      answers: 1
-      questions: 1
-      attempts: 2
-    Yn:
-      answers: 0
-      questions: 1
-      attempts: 18
-    S:
-      answers: 2
-      questions: 5
-      attempts: 15
+  Anita:
+    letters: 2
+  Cheer:
+    letters: 2
+  Cindy:
+    letters: 0
+  Doris:
+    letters: 2
+  Eva:
+    letters: 0
+  Jay:
+    letters: 2
+  Jennifer:
+    letters: 0
+  Jill:
+    letters: 2
+  Lin:
+    letters: 2
+  Mandy:
+    letters: 0
+  Mil:
+    letters: 2
+  Miru:
+    letters: 2
+  Sally:
+    letters: 2
+  Stella:
+    letters: 2
+  Yvonne:
+    letters: 2
