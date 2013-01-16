@@ -1,39 +1,52 @@
 ---
 activity:
-  old:
-    0:
+  true-love:
+    16-20:
       - 1
       - 2
       - 3
       - 4
-  smallwood:
-    0:
+      - 5
+      - 6
+      - 7
+    21-25:
       - 1
       - 2
       - 3
       - 4
-  jackson:
-    0:
-      - 1
-      - 2
-      - 3
-      - 4
-bye: U9931134
+      - 5
+      - 6
+      - 7
+assistant:
+bye: 97550011
+dispensation:
+divisions:
+  - free
 group:
   1:
-    White: U9818048
-    Black: U9817051
+    White: 97550002
+    Black: 97550004
   2:
-    White: V9741064
-    Black: U9821130
+    White: 97550023
+    Black: 97550028
   3:
-    White: T9822043
-    Black: U9931148
+    White: 97550003
+    Black: 97550009
   4:
-    White: U9818019
-    Black: U9931043
+    White: 97550021
+    Black: 97550008
+  5:
+    White: 97550027
+    Black: 97550031
+  6:
+    White: 97550033
+    Black: 97550018
+  7:
+    White: 97550017
+    Black: 97550001
+late:
 pairing: swiss
-payprotocol: meritPay
-round: 4
-text: /home/drbean/class/conversation/work/cards.yaml
-week: 18
+payprotocol: meritPay 6
+round: 2
+text: /home/drbean/class/intercultural/customs/cards.yaml
+week: 8
