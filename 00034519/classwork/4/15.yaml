@@ -1,18 +1,17 @@
 ---
+# 46-50?
 Black:
   absent:
-    - Sheena
-  merits: 3
-
-Green:
+  merits: 2
+Blue:
   absent:
-  merits: 3
-
-Red:
+  merits: 2.75
+Orange:
   absent:
-    - Jason
-  merits: 3
-White:
+  merits: 2
+Pink:
   absent:
-    - Jimmy
+  merits: 2.75
+Purple:
+  absent:
   merits: 3
