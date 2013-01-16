@@ -1,18 +1,24 @@
 ---
+# dress
 Black:
   absent:
-    - Sheena
+    - Cheer
+  merits: 3
+Blue:
+  absent:
+    - Yvonne
+  merits: 2
+
+Orange:
+  absent:
+    - Cindy
+    - Mandy
   merits: 3
 
-Green:
+Pink:
   absent:
   merits: 3
-
-Red:
+Purple:
   absent:
-    - Jason
-  merits: 3
-White:
-  absent:
-    - Jimmy
-  merits: 3
+    - Anita
+  merits: 2
