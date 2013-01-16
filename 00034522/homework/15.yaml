@@ -1,162 +1,67 @@
 ---
 cutpoints:
-  loser: 1
-  quitter: 0
-  winner: 2
-exercise: smallwood
+  one: 20
+  two: 85
+exercise: dress
 grade:
-  T9822043: 1
-  U9711114: 0
-  U9817051: 2
-  U9818019: 2
-  U9818039: 0
-  U9818048: 2
-  U9821130: 2
-  U9931043: 2
-  U9931134: 2
-  U9931148: 2
-  V9741064: 0
+  97550001: 2
+  97550002: 2
+  97550003: 2
+  97550004: 2
+  97550008: 2
+  97550009: 2
+  97550011: 2
+  97550017: 2
+  97550018: 2
+  97550021: 2
+  97550023: 1
+  97550027: 2
+  97550028: 2
+  97550031: 2
+  97550033: 2
 points:
-  T9822043:
-    Wh:
-      answers: 1
-      questions: 2
-      attempts: 8
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
-  U9711114:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  U9817051:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 5
-      attempts: 6
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
-  U9818019:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 5
-      attempts: 10
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
-  U9818039:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  U9818048:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 3
-      attempts: 3
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
-  U9821130:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: 6
-      questions: 6
-      attempts: 7
-  U9931043:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: 6
-      questions: 7
-      attempts: 11
-  U9931134:
-    Wh:
-      answers: 1
-      questions: 2
-      attempts: 7
-    Yn:
-      answers: 3
-      questions: 4
-      attempts: 6
-    S:
-      answers: 3
-      questions: 3
-      attempts: 4
-  U9931148:
-    Wh:
-      answers: 2
-      questions: 2
-      attempts: 2
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V9741064:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 15
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: 0
-      questions: 0
-      attempts: 0
+  97550001:
+    letters: 178
+    percent: 100
+  97550002:
+    letters: 179
+    percent: 100
+  97550003:
+    letters: 182
+    percent: 100
+  97550004:
+    letters: 174
+    percent: 100
+  97550008:
+    letters: 192
+    percent: 100
+  97550009:
+    letters: 173
+    percent: 100
+  97550011:
+    letters: 172
+    percent: 100
+  97550017:
+    letters: 181
+    percent: 100
+  97550018:
+    letters: 159
+    percent: 98
+  97550021:
+    letters: 183
+    percent: 100
+  97550023:
+    letters: 149
+    percent: 83
+  97550027:
+    letters: 196
+    percent: 100
+  97550028:
+    letters: 183
+    percent: 100
+  97550031:
+    letters: 192
+    percent: 100
+  97550033:
+    letters: 200
+    percent: 100
