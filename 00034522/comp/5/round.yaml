@@ -1,25 +1,64 @@
 ---
 activity:
-  vanbeke:
+  cohabitation:
     0:
       - 0
       - 1
       - 2
       - 3
+      - 4
+      - 5
+      - 6
+  refugees:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+  weight:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+assistant:
+  Black:
+    97550033: 5
+bye: 97550033
+dispensation:
+divisions:
+  - free
 group:
   0:
-    White: T9821018
-    Black: U9922143
+    White: 97550004
+    Black: 97550023
   1:
-    White: U9934002
-    Black: U9934051
+    White: 97550003
+    Black: 97550011
   2:
-    White: V9731059
-    Black: U9934025
+    White: 97550021
+    Black: 97550002
   3:
-    White: U9934003
-    Black: U9934021
+    White: 97550028
+    Black: 97550009
+  4:
+    White: 97550008
+    Black: 97550031
+  5:
+    White: 97550027
+    Black: 97550017
+  6:
+    White: 97550001
+    Black: 97550018
+late:
 pairing: swiss
-round: 5
-text: /home/drbean/class/conversation/poverty/cards.yaml
-week: 8
+payprotocol: meritPay 7
+round: 3
+text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
+week: 13
