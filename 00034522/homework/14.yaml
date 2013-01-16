@@ -2,50 +2,66 @@
 cutpoints:
   one: 20
   two: 85
-exercise: smallwood
+exercise: match
 grade:
-  T9822043: 0
-  U9711114: 0
-  U9817051: 2
-  U9818019: 2
-  U9818039: 2
-  U9818048: 2
-  U9821130: 2
-  U9931043: 2
-  U9931134: 2
-  U9931148: 1
-  V9741064: 2
+  97550001: 2
+  97550002: 2
+  97550003: 2
+  97550004: 2
+  97550008: 2
+  97550009: 0
+  97550011: 2
+  97550017: 2
+  97550018: 0
+  97550021: 2
+  97550023: 0
+  97550027: 2
+  97550028: 2
+  97550031: 2
+  97550033: 0
 points:
-  T9822043:
+  97550001:
+    letters: 250
+    percent: 100
+  97550002:
+    letters: 231
+    percent: 100
+  97550003:
+    letters: 240
+    percent: 100
+  97550004:
+    letters: 252
+    percent: 99
+  97550008:
+    letters: 256
+    percent: 100
+  97550009:
     letters: 0
     percent: 0
-  U9711114:
-    letters: 0
-    percent: 0
-  U9817051:
-    letters: 143
+  97550011:
+    letters: 251
     percent: 100
-  U9818019:
-    letters: 147
-    percent: 93
-  U9818039:
-    letters: 177
-    percent: 98
-  U9818048:
-    letters: 144
-    percent: 96
-  U9821130:
-    letters: 157
-    percent: 100
-  U9931043:
-    letters: 171
+  97550017:
+    letters: 228
     percent: 97
-  U9931134:
-    letters: 173
+  97550018:
+    letters: 0
+    percent: 0
+  97550021:
+    letters: 242
     percent: 100
-  U9931148:
-    letters: 106
-    percent: 63
-  V9741064:
-    letters: 161
+  97550023:
+    letters: 0
+    percent: 0
+  97550027:
+    letters: 248
     percent: 100
+  97550028:
+    letters: 234
+    percent: 100
+  97550031:
+    letters: 226
+    percent: 100
+  97550033:
+    letters: 0
+    percent: 0
