@@ -1,7 +1,7 @@
 ---
 activity:
   true-love:
-    0:
+    1-2:
       - 0
       - 1
       - 2
@@ -9,9 +9,29 @@ activity:
       - 4
       - 5
       - 6
-assistant: ~
-dispensation: ~
-divisions: ~
+    3-4:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+    4-5:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+assistant:
+  Blue:
+    97550017: 5
+bye: 97550017
+dispensation:
+divisions:
+  - free
 group:
   0:
     White: 97550033
@@ -35,9 +55,8 @@ group:
     White: 97550018
     Black: 97550031
 late:
-  - ~
-pairing: swiss
-payprotocol: meritPay
-round: 8
-text: ~
-week: ~
+pairing: swiss. Cheer submitted questions in advance. Jill was assistant, or bye.
+payprotocol: meritPay 7
+round: 4
+text: /home/drbean/class/intercultural/customs/cards.yaml
+week: 17
