@@ -1,17 +1,17 @@
 ---
+# tailgate
 Black:
   absent:
-    - Max
-  merits: 3
-
-Green:
+  merits: 2
+Blue:
   absent:
   merits: 3
-
-Red:
+Orange:
+  absent:
+  merits: 2
+Pink:
   absent:
   merits: 3
-White:
+Purple:
   absent:
-    - Jimmy
   merits: 3
