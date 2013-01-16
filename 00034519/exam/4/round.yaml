@@ -1,34 +1,44 @@
 ---
 round: Exam 4
-week: 18
+week: 17
 questions:
   - 10
 pass: 5
 assistant:
+  - Yvonne
 absent:
-  - Max
-  - Ian
-  - Mike2
-  - Jimmy
-text: /home/drbean/class/conversation/work/cards.yaml
+  - Cheer
+text: /home/drbean/class/intercultural/customs/cards.yaml
 activity:
-  smallwood:
-    1:
-      - Green
-  jackson:
-    1:
+  drivethru:
+    0:
+      - Blue
+      - Orange
+      - Pink
+  eatingcontest:
+    0:
+      - Purple
+  tailgate:
+    0:
       - Black
-      - Red
 group:
   Black:
-    - Sheena
-    - Mike1
-    - Tina
-  Green:
-    - R-kai
-    - Amy
-    - Simon
-  Red:
-    - Charlie
-    - Jason
-    - Kimberly
+    - Yvonne
+    - Jay
+    - Jill
+  Blue:
+    - Stella
+    - Lin
+    - Yvonne
+  Orange:
+    - Eva
+    - Cindy
+    - Mandy
+  Pink:
+    - Jennifer
+    - Sally
+    - Miru
+  Purple:
+    - Doris
+    - Mil
+    - Anita
