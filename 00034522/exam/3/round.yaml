@@ -1,46 +1,42 @@
 ---
 round: Exam 3
-week: 14
+week: 13
 questions:
   - 10
 pass: 5
 assistant:
-  - Charlie
-  - Sheena
-  - Kimberly
-  - Simon
 absent:
-  - Ian
-  - Mike2
-text: /home/drbean/class/conversation/work/cards.yaml
+text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
 activity:
-  dickson:
-    1:
+  cohabitation:
+    0:
+      - Pink
+      - Purple
+  refugees:
+    0:
       - Black
-      - Blue
-      - Green
-  abreu:
-    1:
       - Orange
-      - Red
+  weight:
+    0:
+      - Blue
 group:
   Black:
-    - Sheena
-    - Charlie
-    - Simon
+    - Jay
+    - Cindy
+    - Doris
   Blue:
-    - Jason
-    - R-kai
-    - Charlie
-  Green:
-    - Amy
-    - Sheena
-    - Simon
+    - Mandy
+    - Jill
+    - Yvonne
   Orange:
-    - Max
-    - Jimmy
-    - Kimberly
-  Red:
-    - Tina
-    - Kimberly
-    - Mike1
+    - Lin
+    - Mil
+    - Miru
+  Pink:
+    - Anita
+    - Eva
+    - Jennifer
+  Purple:
+    - Sally
+    - Stella
+    - Cheer
