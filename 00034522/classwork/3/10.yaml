@@ -2,6 +2,7 @@
 # cohabitation
 Black:
   absent:
+    - Cindy
   merits: 3
 
 Blue:
