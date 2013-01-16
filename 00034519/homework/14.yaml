@@ -1,51 +1,52 @@
 ---
 cutpoints:
-  one: 20
-  two: 85
-exercise: smallwood
+  one: ~
+  two: ~
+exercise: 41-45
 grade:
-  T9822043: 0
-  U9711114: 0
-  U9817051: 2
-  U9818019: 2
-  U9818039: 2
-  U9818048: 2
-  U9821130: 2
-  U9931043: 2
-  U9931134: 2
-  U9931148: 1
-  V9741064: 2
+  97550001: 0
+  97550002: 2
+  97550003: 2
+  97550004: 2
+  97550008: 2
+  97550009: 0
+  97550011: 2
+  97550017: 0
+  97550018: 2
+  97550021: 2
+  97550023: 2
+  97550027: 2
+  97550028: 2
+  97550031: 1
+  97550033: 2
 points:
-  T9822043:
+  Anita:
+    letters: 2
+  Cheer:
+    letters: 2
+  Cindy:
+    letters: 2
+  Doris:
+    letters: 2
+  Eva:
     letters: 0
-    percent: 0
-  U9711114:
+  Jay:
+    letters: 2
+  Jennifer:
     letters: 0
-    percent: 0
-  U9817051:
-    letters: 143
-    percent: 100
-  U9818019:
-    letters: 147
-    percent: 93
-  U9818039:
-    letters: 177
-    percent: 98
-  U9818048:
-    letters: 144
-    percent: 96
-  U9821130:
-    letters: 157
-    percent: 100
-  U9931043:
-    letters: 171
-    percent: 97
-  U9931134:
-    letters: 173
-    percent: 100
-  U9931148:
-    letters: 106
-    percent: 63
-  V9741064:
-    letters: 161
-    percent: 100
+  Jill:
+    letters: 0
+  Lin:
+    letters: 2
+  Mandy:
+    letters: 2
+  Mil:
+    letters: 2
+  Miru:
+    letters: 2
+  Sally:
+    letters: 1
+  Stella:
+    letters: 2
+  Yvonne:
+    letters: 2
