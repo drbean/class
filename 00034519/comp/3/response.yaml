@@ -1,225 +1,221 @@
 ---
 free:
+  0:
+    true-love:
+      26-30:
+        97550023:
+          point:
+            1: Old
+        97550002:
+          point:
+            1: Returned
+            2: Unreturned
+      31-35:
+        97550023:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+            4: Returned
+        97550002:
+          point:
+            1: Returned
+            2: Returned
+            3: Fault
+      36-40:
+        97550023:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        97550002:
+          point:
+            1: Returned
+            2: Returned
   1:
-    dickson:
-      0:
-        U9818019:
+    true-love:
+      26-30:
+        97550011:
+          point:
+            1: Unreturned
+            2: Returned
+            3: Returned
+            4: Returned
+            5: Returned
+        97550021:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+      31-35:
+        97550011:
+          point:
+            1: Returned
+        97550021:
+          point:
+            1: Returned
+            2: Returned
+      36-40:
+        97550011:
+          point:
+            1: Returned
+            2: Returned
+        97550021:
+          point:
+            1: Returned
+            2: Returned
+  2:
+    true-love:
+      26-30:
+        97550009:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        97550004:
+          point:
+            1: Returned
+            2: Returned
+            3: Fault
+      31-35:
+        97550009:
+          point:
+            1: Returned
+            2: Returned
+        97550004:
+          point:
+            1: Returned
+            2: Returned
+      36-40:
+        97550009:
+          point:
+            1: Old
+            2: Returned
+            3: Returned
+        97550004:
+          point:
+            1: Fault
+            2: Returned
+  3:
+    true-love:
+      26-30:
+        97550008:
+          point:
+            1: Returned
+            2: Returned
+        97550033:
+          point:
+            1: Returned
+            2: Returned
+      31-35:
+        97550008:
+          point:
+            1: Returned
+            2: Returned
+        97550033:
+          point:
+            1: Returned
+            2: Returned
+      36-40:
+        97550008:
+          point:
+            1: Returned
+        97550033:
+          point:
+            1: Nil
+  4:
+    true-love:
+      26-30:
+        97550031:
+          point:
+            1: Returned
+            2: Returned
+        97550001:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+      31-35:
+        97550031:
+          point:
+            1: Returned
+            2: Returned
+        97550001:
+          point:
+            1: Returned
+            2: Returned
+      36-40:
+        97550031:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        97550001:
+          point:
+            1: Returned
+            2: Returned
+  5:
+    true-love:
+      26-30:
+        97550018:
+          point:
+            1: Returned
+            2: Returned
+            3: Unreturned
+            4: Returned
+        97550027:
           point:
             1: Fault
             2: Returned
             3: Returned
-        U9817051:
+            4: Returned
+      31-35:
+        97550018:
           point:
-            1: Returned
+            1: Old
             2: Returned
-    abreu:
-      0:
-        U9818019:
-          point:
-            1: Nil
-        U9817051:
-          point:
-            1: Fault
-  2:
-    dickson:
-      0:
-        U9931148:
+            3: Unreturned
+        97550027:
           point:
             1: Returned
-            2: Returned
-        U9818039:
-          point:
-            1: Fault
-            2: Returned
-    abreu:
-      0:
-        U9931148:
-          point:
-            1: Returned
-        U9818039:
-          point:
-            1: Returned
-  3:
-    dickson:
-      0:
-        U9821130:
+      36-40:
+        97550018:
           point:
             1: Returned
             2: Fault
-        U9711114:
+            3: Returned
+        97550027:
+          point:
+            1: Returned
+            2: Returned
+  6:
+    true-love:
+      26-30:
+        97550017:
+          point:
+            1: Unreturned
+            2: Returned
+        97550028:
           point:
             1: Fault
             2: Returned
-    abreu:
-      0:
-        U9821130:
-          point:
-            1: Nil
-        U9711114:
-          point:
-            1: Nil
-  4:
-    dickson:
-      0:
-        U9931043:
+      31-35:
+        97550017:
           point:
             1: Returned
-            2: Returned
-        T9822043:
-          point:
-            1: Returned
-            2: Returned
-    abreu:
-      0:
-        U9931043:
-          point:
-            1: Returned
-            2: Unreturned
-        T9822043:
-          point:
-            1: Fault
-            2: Returned
-  5:
-    dickson:
-      0:
-        U9931134:
-          point:
-            1: Returned
-            2: Returned
-        V9741064:
-          point:
-            1: Fault
             2: Fault
-    abreu:
-      0:
-        U9931134:
+        97550028:
           point:
-            1: Nil
-        V9741064:
+            1: Returned
+            2: Returned
+      36-40:
+        97550017:
           point:
-            1: Nil
-set:
-  1:
-    dickson:
-      0:
-        U9818019:
-          1: T
-          2: T
-          3:   F
-          4:   F
-        U9817051:
-          1:   F
-          2: T
-          3:   F
-          4: T
-    abreu:
-      0:
-        U9818019:
-          1:   F
-          2:   F
-          3:   F
-          4:   F
-        U9817051:
-          1: T
-          2: T
-          3:   F
-          4: T
-  2:
-    dickson:
-      0:
-        U9931148:
-          1:   F
-          2: T
-          3:   F
-        U9818039:
-          1:   F
-          2: T
-          3: T
-          4:   F
-    abreu:
-      0:
-        U9931148:
-          1: T
-          2: T
-          3: T
-          4:   F
-        U9818039:
-          1: T
-          2:   F
-          3: T
-          4:   F
-  3:
-    dickson:
-      0:
-        U9821130:
-          1: T
-          2:   F
-          3: T
-          4: T
-        U9711114:
-          1: T
-          2: T
-          3:   F
-          4: T
-    abreu:
-      0:
-        U9821130:
-          1:   F
-          2:   F
-          3:   F
-          4: T
-        U9711114:
-          1:   F
-          2: T
-          3: T
-          4: T
-  4:
-    dickson:
-      0:
-        U9931043:
-          1:   F
-          2: T
-          3: T
-          4: T
-        T9822043:
-          1:   F
-          2: T
-          3: T
-          4:   F
-    abreu:
-      0:
-        U9931043:
-          1: T
-          2:   F
-          3: T
-          4: T
-        T9822043:
-          1: T
-          2:   F
-          3: T
-          4: T
-  5:
-    dickson:
-      0:
-        U9931134:
-          1:   F
-          2: T
-          3: T
-          4:   F
-        V9741064:
-          1:   F
-          2: T
-          3: T
-          4:   F
-    abreu:
-      0:
-        U9931134:
-          1: T
-          2: T
-          3: T
-          4: T
-        V9741064:
-          1: T
-          2:   F
-          3: T
-          4: T
+            1: Returned
+            2: Returned
+            3: Returned
+        97550028:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
