@@ -1,51 +1,52 @@
 ---
 cutpoints:
-  one: 20
-  two: 85
-exercise: jackson
+  one: ~
+  two: ~
+exercise: certificate, or 300 points
 grade:
-  T9822043: 2
-  U9711114: 0
-  U9817051: 2
-  U9818019: 0
-  U9818039: 0
-  U9818048: 0
-  U9821130: 2
-  U9931043: 2
-  U9931134: 2
-  U9931148: 2
-  V9741064: 2
+  97550001: 0
+  97550002: 2
+  97550003: 2
+  97550004: 2
+  97550008: 0
+  97550009: 0
+  97550011: 0
+  97550017: 2
+  97550018: 0
+  97550021: 2
+  97550023: 2
+  97550027: 0
+  97550028: 0
+  97550031: 0
+  97550033: 0
 points:
-  T9822043:
-    letters: 124
-    percent: 97
-  U9711114:
+  Anita:
     letters: 0
-    percent: 0
-  U9817051:
-    letters: 107
-    percent: 100
-  U9818019:
+  Cheer:
     letters: 0
-    percent: 0
-  U9818039:
+  Cindy:
+    letters: 2
+  Doris:
+    letters: 2
+  Eva:
     letters: 0
-    percent: 0
-  U9818048:
+  Jay:
     letters: 0
-    percent: 0
-  U9821130:
-    letters: 103
-    percent: 100
-  U9931043:
-    letters: 107
-    percent: 100
-  U9931134:
-    letters: 114
-    percent: 100
-  U9931148:
-    letters: 109
-    percent: 100
-  V9741064:
-    letters: 114
-    percent: 96
+  Jennifer:
+    letters: 0
+  Jill:
+    letters: 2
+  Lin:
+    letters: 0
+  Mandy:
+    letters: 0
+  Mil:
+    letters: 0
+  Miru:
+    letters: 2
+  Sally:
+    letters: 0
+  Stella:
+    letters: 2
+  Yvonne:
+    letters: 2
