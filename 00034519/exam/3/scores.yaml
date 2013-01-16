@@ -2,32 +2,32 @@
 Chinese:
   Black: 0
   Blue: 0
-  Green: 0
   Orange: 0
-  Red: 0
+  Pink: 0
+  Purple: 0
 letters:
   Black:
-    U9818048: 8
-    T9822043: 9
-    U9931148: 9
-    story: dickson1
+    97550033: 6
+    97550004: 7
+    97550002: 7
+    story: handshake0
   Blue:
-    U9818019: 6
-    U9821130: 10
-    T9822043: 10
-    story: dickson1
-  Green:
-    V9741064: 9
-    U9818048: 9
-    U9931148: 9
-    story: dickson1
+    97550008: 9
+    97550017: 9
+    97550023: 8
+    story: yardsale0
   Orange:
-    U9818039: 10
-    U9711114: 9
-    U9931043: 9
-    story: abreu1
-  Red:
-    U9931134: 8
-    U9931043: 8
-    U9817051: 8
-    story: abreu1
+    97550028: 9
+    97550018: 9
+    97550003: 9
+    story: yardsale0
+  Pink:
+    97550011: 2
+    97550001: 2
+    97550009: 2
+    story: squaredance0
+  Purple:
+    97550031: 7
+    97550021: 7
+    97550027: 5
+    story: squaredance0
