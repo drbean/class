@@ -1,34 +1,40 @@
 ---
 round: Exam 4
-week: 18
+week: 17
 questions:
   - 10
 pass: 5
 assistant:
 absent:
-  - Max
-  - Ian
-  - Mike2
-  - Jimmy
-text: /home/drbean/class/conversation/work/cards.yaml
+text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
 activity:
-  smallwood:
-    1:
-      - Green
-  jackson:
-    1:
+  match:
+    0:
+      - Orange
+      - Purple
+  dress:
+    0:
       - Black
-      - Red
+      - Blue
+      - Pink
 group:
   Black:
-    - Sheena
-    - Mike1
-    - Tina
-  Green:
-    - R-kai
-    - Amy
-    - Simon
-  Red:
-    - Charlie
-    - Jason
-    - Kimberly
+    - Cheer
+    - Jay
+    - Jill
+  Blue:
+    - Stella
+    - Lin
+    - Yvonne
+  Orange:
+    - Eva
+    - Cindy
+    - Mandy
+  Pink:
+    - Jennifer
+    - Sally
+    - Miru
+  Purple:
+    - Doris
+    - Mil
+    - Anita
