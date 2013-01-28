@@ -1,54 +1,60 @@
 ---
+GreenGreen:
+  absent: 
+  merits: 2
 Black:
   absent: 
-  merits:  3
+  merits: 3
+
 Blue:
-  absent:  
-  merits:  2
-
+  absent: 
+  merits: 2
 Brown:
-  absent:  
-  merits:  2
-Gray:
-  absent:  
-  merits:  3
+  absent: 
+  merits: 3
 
+Gray:
+  absent: 
+  merits: 2
 Green:
-  absent:  
-  merits:  2
+  absent:
+  merits: 3
+
+BlackBlack:
+  absent: 
+  merits: 2
+BlueBlue:
+  absent:
+    - Max
+  merits: 3
+
+YellowYellow:
+  absent: 
+    - Jungle
+  tardy:
+  merits: 2
 Orange:
-  absent:  
-  merits:  2
+  absent: 
+  merits: 3
 
 Pink:
-  absent:  
-  merits:  2
+  absent: 
+  merits: 3
 Purple:
-  absent:
-  merits:  2
+  absent: 
+    - Alen
+  merits: 2
 
 Red:
-  absent:  
-  merits:  2
+  absent: 
+  merits: 3
 White:
-  absent:  
-  merits:  2
+  absent: 
+  merits: 2
 
 Yellow:
-  absent:  
-  merits:  3
-BlackBlack:
-  absent:  
-  merits:  2
-
-BlueBlue:
-  absent:  
-  merits:  3
-BrownBrown:
-  absent:  
-  merits:  2
-
-# assistant
-GrayGray:
-  absent:  
-  merits:  3
+  absent: 
+  merits: 2
+OrangeOrange:
+  absent: 
+  merits: 3
