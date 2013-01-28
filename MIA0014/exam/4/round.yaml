@@ -2,82 +2,87 @@
 round: Exam 4
 week: 18
 questions:
-  - 10
-pass: 5
-assistant: 
-  - Wendy
-  - Anny
-absent: 
-text: /home/drbean/class/business/planning/cards.yaml
+  - 4
+pass: 2
+assistant:
+  - Stacy
+absent:
+text: /home/drbean/class/business/greatideas/cards.yaml
 activity:
-  huang:
-    000:
-      - BlueBlue
-      - Brown
+  fourconcepts:
+    00:
       - Orange
-      - White
-    111:
-      - Gray
       - Pink
-      - Yellow
-    222:
-      - Black
-      - Green
+    01:
+      - Brown
+      - GreenGreen
+      - OrangeOrange
       - Purple
-    333:
+    02:
+      - Black
       - BlackBlack
       - Blue
       - Red
+    04:
+      - Green
+      - White
+    05:
+      - Gray
+      - Yellow
 group:
   Black:
-    - Peter1
-    - Wendy
-    - Linda2
-  BlueBlue:
-    - Sophia
-    - Mila
-    - Wendy
-  Blue:
-    - Claire
-    - Alice
-    - Tom
-  BlackBlack:
-    - Ruby
-    - Candy
-    - Anny
-  Brown:
-    - Tony
-    - Evangeline
-    - Cranium
+    - Harry
+    - Peter
+    - Eva
   Gray:
-    - Gene
-    - Ivy
-    - Tina
-  Green:
-    - Jordan
-    - Shane
-    - Sandy
-  Orange:
-    - Sean
-    - Jane
-    - Alex
-  Pink:
-    - Soymilk
-    - Sam
-    - Leo
-  Purple:
-    - James
-    - Kenny
-    - Sally
-  Red:
-    - Lilith
-    - Cathy
-    - Linda1
-  White:
+    - Joyce
+    - Christine
+    - Ling
+  Blue:
+    - Jack
+    - Jessie
+    - Alisa
+  Brown:
+    - Stacy
+    - Owen
+    - Eric
+  BlackBlack:
+    - Jim
+    - Lynette
     - Kevin
-    - Dora
-    - Anny
+  Green:
+    - John
+    - Yun
+    - Alice
+  GreenGreen:
+    - White
+    - Shanny
+    - Jenny
+  Orange:
+    - Banana
+    - Michelle
+    - Bess
+  OrangeOrange:
+    - Roy
+    - Amy
+    - Stacy
+  Pink:
+    - Sweet
+    - Pig
+    - Kammy
+  Purple:
+    - Jimmy
+    - Sean
+    - Gill
+  Red:
+    - Tony
+    - Tina
+    - Kyle
+  White:
+    - Josh
+    - An
+    - Ivy
   Yellow:
-    - Peter2
-    - Fred
-    - Albert
+    - Joe
+    - Andy
+    - Gary
