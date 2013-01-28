@@ -1,56 +1,49 @@
 ---
-# BlackBlack, BlueBlue merged as one group
-#
-# Good
-Orange:
+Black:
   absent: 
   merits: 2
-Black:
+Blue:
   absent: 
   merits: 3
 
-# Bad
-Blue:
-  absent: 
-  merits: 2
 Brown:
   absent: 
   merits: 2
-
-# Good
 Gray:
   absent: 
   merits: 3
+
 Green:
   absent: 
-  merits: 2
-
-# Bad
-Yellow:
-  absent: 
-  merits: 2
+  merits: 3
 BlackBlack:
   absent: 
   merits: 2
-BlueBlue:
-  absent: 
-  merits: 2
 
-# Good
-White:
-  absent: 
-  merits: 2
-Red:
+GreenGreen:
   absent: 
   merits: 3
+OrangeOrange:
+  absent: 
+  merits: 2
 
-# Good
+Orange:
+  absent: 
+  merits: 2
 Pink:
   absent: 
   merits: 3
+
 Purple:
   absent:
+  merits: 3
+Red:
+  absent: 
   merits: 2
 
-
-
+White:
+  absent: 
+  merits: 3
+Yellow:
+  absent: 
+  merits: 2
