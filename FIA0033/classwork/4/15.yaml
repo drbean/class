@@ -1,33 +1,38 @@
 ---
-# Good and Bad groups
 
+GreenGreen:
+  absent:
+  merits: 2
 Black:
   absent: 
   merits: 3
+
 Blue:
   absent: 
   merits: 2
-
 Brown:
   absent: 
-  merits: 2
+  merits: 3
+
 Gray:
+  absent: 
+  merits: 3
+Green:
   absent: 
   merits: 2
 
-Green:
+BlackBlack:
   absent: 
-    - Amy2
-  merits: 2
-Orange:
+  merits: 3
+BlueBlue:
   absent: 
   merits: 2
 
 Pink:
   absent: 
-  merits: 2
+  merits: 3
 Purple:
-  absent:
+  absent: 
   merits: 2
 
 Red:
@@ -39,26 +44,19 @@ White:
 
 Yellow:
   absent: 
-  merits: 2
-BlackBlack:
-  absent: 
   merits: 3
-
-BlueBlue:
-  absent: 
-    - Carrie
-  merits: 2
-BrownBrown:
-  absent: 
-  merits: 2
-
-GrayGray:
-  absent: 
-  merits: 3
-GreenGreen:
-  absent: 
-  merits: 2
-
-# assistants
 OrangeOrange:
+  absent: 
+  merits: 2
+
+PurplePurple:
+  absent: 
+  merits: 2
+Orange:
+  absent: 
+  merits: 3
+
+YellowYellow:
+  absent:
+    - Jessy
   merits: 3
