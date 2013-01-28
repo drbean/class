@@ -20,9 +20,61 @@ activity:
       - 15
       - 16
       - 17
-assistant: ~
-dispensation: ~
-divisions: ~
+      - 18
+  citrus:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+  internet:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+assistant:
+  BlackBlack:
+    U0033019: 4
+    U0033029: 4
+  Orange:
+    U0033133: 5
+    U0033023: 5
+    U0033039: 5
+bye: U0031117
+dispensation:
+divisions:
+  - free
 group:
   0:
     White: U0031143
@@ -78,10 +130,15 @@ group:
   17:
     White: U0031122
     Black: U0031145
+  18:
+    White: U0031142
+    Black: U0031150
 late:
-  - ~
-pairing: swiss
+  - U0031142
+  - U0031150
+  - U0031117
+pairing: swiss adjusted
 payprotocol: meritPay
 round: 4
-text: ~
-week: ~
+text: /home/drbean/class/business/greatideas/cards.yaml
+week: 18
