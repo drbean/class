@@ -1,6 +1,6 @@
 ---
 activity:
-  old:
+  cars:
     0:
       - 1
       - 2
@@ -21,8 +21,9 @@ activity:
       - 17
       - 18
       - 19
-  huang:
-    2:
+      - 20
+  citrus:
+    0:
       - 1
       - 2
       - 3
@@ -42,7 +43,9 @@ activity:
       - 17
       - 18
       - 19
-    1:
+      - 20
+  internet:
+    0:
       - 1
       - 2
       - 3
@@ -62,76 +65,85 @@ activity:
       - 17
       - 18
       - 19
+      - 20
 assistant:
-  BlackBlack:
-    U9931034: 5
-    U9931101: 5
-    U9931125: 5
-  BlueBlue:
-    U9931139: 5
-    U9931138: 5
-    U9931039: 5
-bye: U9931130
+  White:
+    U0031012: 5
+    U0031013: 5
+    U0031044: 4
+  PinkPink:
+    U0031038: 4
+    U0031002: 4
+    U0031029: 4
+bye: U9931152
+dispensation:
+divisions:
+  - free
 group:
   1:
-    White: U9931025
-    Black: U9931003
+    White: U0031024
+    Black: U9931129
   2:
-    White: T9833024
-    Black: U9931032
+    White: U0031020
+    Black: U0031009
   3:
-    White: U9931109
-    Black: U9931028
+    White: U0031047
+    Black: U0031011
   4:
-    White: U9931110
-    Black: U9931134
+    White: U0031039
+    Black: U0031007
   5:
-    White: U9931127
-    Black: U9931006
+    White: U0031008
+    Black: U9831144
   6:
-    White: U9931129
-    Black: U9931145
+    White: U0031033
+    Black: U0031022
   7:
-    White: U9931143
-    Black: T9833026
+    White: U0031016
+    Black: U0031025
   8:
-    White: U9931001
-    Black: U9931043
+    White: U0031048
+    Black: U0031014
   9:
-    White: U9931102
-    Black: U9931026
+    White: U0031027
+    Black: U0031006
   10:
-    White: U9931013
-    Black: U9931105
+    White: U0031034
+    Black: U0031005
   11:
-    White: U9931029
-    Black: U9931041
+    White: U0031010
+    Black: U0031018
   12:
-    White: U9931146
-    Black: U9931004
+    White: U0031043
+    Black: U0031041
   13:
-    White: U9931111
-    Black: U9931042
+    White: U9831152
+    Black: U0031003
   14:
-    White: U9931015
-    Black: U9931007
+    White: U0031035
+    Black: U0031040
   15:
-    White: U9931017
-    Black: U9931133
+    White: U0031042
+    Black: U0031049
   16:
-    White: U9931103
-    Black: U9931037
+    White: U0031017
+    Black: U0031004
   17:
-    White: U9931002
-    Black: U9931012
+    White: U0031026
+    Black: U0031036
   18:
-    White: U9931142
-    Black: U9931140
+    White: U0022016
+    Black: U0031001
   19:
-    White: U9931149
-    Black: U9931014
+    White: U0031028
+    Black: U0031031
+  20:
+    White: U0031037
+    Black: U0031045
+late:
+  - U9931152
 pairing: swiss
 payprotocol: meritPay
 round: 4
-text: /home/drbean/class/business/newbusiness/cards.yaml
-week: 18
+text: ~
+week: ~

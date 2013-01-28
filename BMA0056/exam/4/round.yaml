@@ -2,90 +2,98 @@
 round: Exam 4
 week: 18
 questions:
-  - 10
-pass: 5
-assistant: 
-absent: 
-text: /home/drbean/class/business/newbusiness/cards.yaml
+  - 4
+pass: 2
+assistant:
+  - Polly2
+absent:
+  - WeiYu
+text: /home/drbean/class/business/greatideas/cards.yaml
 activity:
-  huang:
-    000:
-      - BrownBrown
-      - Gray
-      - GrayGray
+  fourconcepts:
+    00:
       - Orange
-    111:
-      - Black
+      - OrangeOrange
+      - Yellow
+    01:
       - BlackBlack
+      - Green
       - Purple
-      - Red
-    222:
+    02:
+      - BlueBlue
+      - Pink
+      - PinkPink
+    04:
       - Blue
       - Brown
-      - Pink
+      - BrownBrown
+    05:
+      - Black
+      - Gray
+      - Red
       - White
-    333:
-      - BlueBlue
-      - Green
-      - Yellow
 group:
   Black:
-    - Harry
-    - Amy4
-    - Will
-  BlackBlack:
-    - Cindy
     - Jenny
-    - Jim
+    - Lily
+    - Polly2
+  BlackBlack:
+    - Shion-Yu
+    - Celina
+    - Judy
   Blue:
-    - Rita
-    - Kelly
-    - Peilin
+    - Polly2
+    - Alien
+    - Flora1
   BlueBlue:
-    - Linda
-    - Mandy
-    - Jane
+    - Henry
+    - Emily
+    - Tiffany
   Brown:
-    - Lulu
-    - Kevin2
-    - Merlin
+    - Tony
+    - Trista
+    - Sandy
   BrownBrown:
-    - Alice1
-    - Robert
-    - Nina
+    - David1
+    - YiJie
+    - Aslyn
   Gray:
-    - Jojo
-    - Janet
-    - Erin
-  GrayGray:
-    - Nora
-    - Amy1
-    - Zara
+    - Soccer
+    - John
+    - Victor
   Green:
-    - Flora
-    - Kimberly
-    - Lisa
+    - Banana
+    - Ian
+    - Amy
   Orange:
-    - Willie
-    - Kathy
-    - Angel
+    - Flora2
+    - Jessie
+    - Gina
+  OrangeOrange:
+    - Rene
+    - Whitney
+    - David2
   Pink:
-    - Anting
-    - Jay
-    - Sandy2
+    - Anastasia
+    - Stanley
+    - Alice
+  PinkPink:
+    - Hui
+    - Zoe
+    - Sophie
   Purple:
-    - Amy3
-    - YiChun
-    - Tina
+    - Sherry
+    - Shirley
+    - Polly1
   Red:
-    - Len
-    - Sandy1
-    - Jason
+    - Winnie
+    - Alan
+    - Jophiel
   White:
     - Helen
-    - Karen
-    - Cathy
+    - Jimmy
+    - ShuJing
   Yellow:
-    - Laura
-    - Sheryl
-    - Angeline
+    - Jason
+    - Sylvia
+    - Natalie
