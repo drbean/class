@@ -1,47 +1,55 @@
 ---
-Black:
-  absent: 
-  merits: 3
-Blue:
-  absent: 
-  merits: 2
-
-Brown:
-  absent: 
-  merits: 3
-Gray:
-  absent: 
-  merits: 2
-
-BlueBlue:
-  absent: 
-  merits: 3
-BlackBlack:
-  absent: 
-  merits: 2
-
 Orange:
   absent: 
   merits: 2
+Black:
+  absent: 
+    - Harry
+  merits: 3
+
+Blue:
+  absent: 
+    - Jack
+  merits: 3
+Brown:
+  absent: 
+  merits: 2
+
+Gray:
+  absent: 
+  merits: 3
+Green:
+  absent: 
+    - John
+  merits: 2
+
+BlackBlack:
+  absent: 
+  merits: 3
+GreenGreen:
+  absent: 
+  merits: 2
+
 Pink:
   absent: 
   merits: 3
-
 Purple:
   absent:
+    - Jimmy
   merits: 2
+
 Red:
   absent: 
+    - Tony
   merits: 3
-
 White:
   absent: 
-  merits: 3
+    - An
+  merits: 2
+
 Yellow:
   absent: 
   merits: 2
-
-# assistants
-Green:
+OrangeOrange:
   absent: 
   merits: 3
