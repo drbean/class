@@ -2,102 +2,111 @@
 round: Exam 4
 week: 18
 questions:
-  - 10
-pass: 5
-assistant: 
-  - Reese
-  - Sherry
-absent: 
-text: /home/drbean/class/business/newbusiness/cards.yaml
+  - 4
+pass: 2
+assistant:
+  - Abby
+  - David
+  - Amber
+  - Eric
+  - Bob
+absent:
+text: /home/drbean/class/business/greatideas/cards.yaml
 activity:
-  huang:
-    000:
-      - BlackBlack
-      - BlueBlue
-      - GrayGray
-      - Green
-    111:
+  fourconcepts:
+    00:
       - Gray
+      - GreenGreen
+      - White
+      - YellowYellow
+    01:
+      - BlueBlue
+      - PurplePurple
+      - Yellow
+    02:
+      - Black
+      - OrangeOrange
+      - Pink
+    04:
+      - BlackBlack
+      - Blue
+      - Green
+      - Purple
+    05:
+      - Brown
+      - Leo
       - Orange
       - Red
-      - Yellow
-    222:
-      - Blue
-      - Pink
-      - Purple
-      - White
-    333:
-      - Black
-      - Brown
-      - BrownBrown
-      - GreenGreen
-      - OrangeOrange
 group:
   Black:
-    - John
-    - Robin
-    - Carol
-  BlackBlack:
-    - Jennifer
-    - Bob
-    - Bill
-  Blue:
-    - Jack1
-    - Julie
-    - Celia
-  BlueBlue:
-    - Shirley
-    - Tommy
-    - Carrie
-  Brown:
-    - Dalai
-    - Emily
-    - Reese
-  BrownBrown:
-    - Amy1
-    - Daisy
-    - Lynn
-  Gray:
-    - Jack2
-    - Kate
-    - Annie
-  GrayGray:
-    - Joe
-    - Johnson
-    - Orton
+    - James
+    - David
+    - Jike
   Green:
-    - Jason
-    - Amy2
-    - Andy
-  GreenGreen:
-    - Ezra
-    - Doris
-    - Reese
-  Orange:
-    - Sam1
-    - Betty1
-    - Maggie
-  OrangeOrange:
-    - Diana
-    - Jill
+    - Woodstock
+    - Chris
+    - Linda1
+  Blue:
+    - George
+    - Emma
+    - Alice
+  BlueBlue:
     - Sherry
-  Pink:
-    - Eileen
-    - Lion
-    - Sherry
-  Purple:
-    - Justin
-    - Jeff
-    - Jerry
-  Red:
-    - Larry
-    - Abby
+    - Ben
     - Paul
-  White:
+  Brown:
+    - Hugh
+    - Amber
+    - Teddy
+  Gray:
+    - Louis
+    - Rifle
     - Ting
-    - Jay1
-    - Kelly
+  BlackBlack:
+    - Yvonne
+    - Bob
+    - Nana
+  GreenGreen:
+    - Amber
+    - Cabe
+    - Eric
+  Leo:
+    - Leo2
+    - Eric
+    - Bob
+  Orange:
+    - Leo1
+    - Santie
+    - Lynn
+  OrangeOrange:
+    - Sam
+    - Liz
+    - Abby
+  Pink:
+    - Minmin
+    - Andy
+    - Danny
+  Purple:
+    - Ann
+    - Sen
+    - Frank
+  PurplePurple:
+    - Lisa
+    - Linda2
+    - Cathy2
+  Red:
+    - Sunny
+    - Tosha
+    - E.J.
+  White:
+    - Tina
+    - Abby
+    - Wei
   Yellow:
-    - Cindy
-    - Betty2
-    - Evan
+    - Annie
+    - Jimmy
+    - Jeffrey
+  YellowYellow:
+    - Ken
+    - Jessy
+    - Cathy1

@@ -1,6 +1,6 @@
 ---
 activity:
-  old:
+  cars:
     0:
       - 0
       - 1
@@ -24,8 +24,8 @@ activity:
       - 19
       - 20
       - 21
-  huang:
-    2:
+  citrus:
+    0:
       - 0
       - 1
       - 2
@@ -48,7 +48,8 @@ activity:
       - 19
       - 20
       - 21
-    1:
+  internet:
+    0:
       - 0
       - 1
       - 2
@@ -71,85 +72,85 @@ activity:
       - 19
       - 20
       - 21
+assistant:
+  BlackBlack:
+    U0034007: 4
+    U0034056: 4
+    U0034036: 4
+dispensation:
+divisions:
+  - free
 group:
   0:
-    White: U9934006
-    Black: U9734051
+    White: U0034050
+    Black: U0034001
   1:
-    White: U9934046
-    Black: U9934007
-  2:
     White: U9934004
-    Black: U9934010
+    Black: U0034042
+  2:
+    White: U0034005
+    Black: U0034045
   3:
-    White: U9934021
-    Black: U9934044
+    White: U0034025
+    Black: U0034024
   4:
-    White: U9934045
-    Black: U9934019
-  5:
-    White: U9934051
-    Black: U9934016
-  6:
-    White: U9934043
-    Black: U9934032
-  7:
-    White: U9934050
-    Black: U9934025
-  8:
-    White: U9834017
-    Black: U9934029
-  9:
-    White: U9933147
-    Black: U9934047
-  10:
-    White: U9913132
-    Black: U9934048
-  11:
-    White: U9934052
-    Black: U9934036
-  12:
-    White: U9934033
-    Black: U9934012
-  13:
-    White: U9934003
-    Black: U9934013
-  14:
-    White: U9934002
-    Black: U9934005
-  15:
-    White: U9934027
+    White: U0034015
     Black: U9934026
+  5:
+    White: U9933033
+    Black: U0034028
+  6:
+    White: U0034035
+    Black: U0034049
+  7:
+    White: U0034012
+    Black: U0034044
+  8:
+    White: U0034003
+    Black: U0034046
+  9:
+    White: U0034032
+    Black: U0034043
+  10:
+    White: U9834018
+    Black: U0034011
+  11:
+    White: U0034027
+    Black: U0034038
+  12:
+    White: U0034031
+    Black: U0034026
+  13:
+    White: U0034055
+    Black: U0034029
+  14:
+    White: U0034051
+    Black: U0034016
+  15:
+    White: U0034013
+    Black: U0034033
   16:
-    White: U9934022
-    Black: U9934034
+    White: U0034017
+    Black: U0034002
   17:
-    White: U9934039
-    Black: U9934001
+    White: U0034008
+    Black: U0034010
   18:
-    White: U9934024
-    Black: U9934020
+    White: U0034030
+    Black: U0034040
   19:
-    White: U9934037
-    Black: U9934028
+    White: U0034037
+    Black: U0034009
   20:
-    White: U9934011
-    Black: U9934015
+    White: U0031046
+    Black: U0034006
   21:
-    White: U9934009
-    Black: U9934023
+    White: U0031032
+    Black: U0034014
+  
 late:
-  - U9934009
-  - U9934023
-assistant:
-  BlueBlue:
-    U9934030: 5
-    U9934017: 5
-    U9934031: 5
-  OrangeOrange:
-    U9934038: 5
-    U9934040: 5
-pairing: swiss (adjusted)
+pairing: swiss
+payprotocol: meritPay
 round: 4
-text: /home/drbean/class/business/newbusiness/cards.yaml
+text: /home/drbean/class/business/greatideas/cards.yaml
 week: 18
