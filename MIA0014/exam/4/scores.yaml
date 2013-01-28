@@ -3,11 +3,12 @@ Chinese:
   Black: 0
   BlackBlack: 0
   Blue: 0
-  BlueBlue: 0
   Brown: 0
   Gray: 0
   Green: 0
+  GreenGreen: 0
   Orange: 0
+  OrangeOrange: 0
   Pink: 0
   Purple: 0
   Red: 0
@@ -15,67 +16,72 @@ Chinese:
   Yellow: 0
 letters:
   Black:
-    U9933010: 10
-    U9933008: 9
-    U9933033: 9
-    story: huang222
+    T9833026: 1
+    U0033006: 1
+    U0033036: 2
+    story: fourconcepts02
   BlackBlack:
-    U9933023: 9
-    U9933038: 9
-    U9933026: 9
-    story: huang333
+    U0033024: 2
+    U0033019: 1
+    U0033029: 1
+    story: fourconcepts02
   Blue:
-    U9933107: 5
-    U9933112: 4
-    U9933041: 5
-    story: huang333
-  BlueBlue:
-    U9933143: 7
-    U9933025: 7
-    U9933008: 7
-    story: huang000
+    T9833038: 0
+    U0033035: 2
+    U0033040: 2
+    story: fourconcepts02
   Brown:
-    U9933039: 10
-    U9933031: 9
-    U9933044: 10
-    story: huang000
+    U0033030: 1
+    U0033042: 2
+    U0033004: 2
+    story: fourconcepts01
   Gray:
-    U9933006: 10
-    U9933029: 9
-    U9933108: 10
-    story: huang111
+    U0033139: 0
+    U0033009: 2
+    U0033005: 4
+    story: fourconcepts05
   Green:
-    U9933136: 8
-    U9933003: 8
-    U9933024: 8
-    story: huang222
+    U0033010: 0
+    U0033014: 0
+    U0033001: 2
+    story: fourconcepts04
+  GreenGreen:
+    U0033135: 2
+    U0033137: 2
+    U0033020: 1
+    story: fourconcepts01
   Orange:
-    U9933126: 7
-    U9933109: 6
-    U9933020: 7
-    story: huang000
+    U0033133: 1
+    U0033023: 0
+    U0033039: 0
+    story: fourconcepts00
+  OrangeOrange:
+    U0033136: 0
+    U0033018: 0
+    U0033030: 0
+    story: fourconcepts01
   Pink:
-    U9933138: 5
-    U9933043: 6
-    U9933045: 6
-    story: huang111
+    U0033034: 2
+    U0033016: 1
+    U0033012: 2
+    story: fourconcepts00
   Purple:
-    U9933139: 6
-    U9933116: 6
-    U9933022: 6
-    story: huang222
+    U9933035: 4
+    U0033008: 4
+    U0033033: 4
+    story: fourconcepts01
   Red:
-    U9816024: 8
-    U9933030: 5
-    U9933011: 8
-    story: huang333
+    U0033015: 0
+    U0033031: 0
+    U0033002: 2
+    story: fourconcepts02
   White:
-    U9933037: 9
-    U9933005: 9
-    U9933026: 9
-    story: huang000
+    U0014139: 2
+    U0033022: 2
+    U0033032: 2
+    story: fourconcepts04
   Yellow:
-    U9933017: 7
-    U9933001: 7
-    U9933027: 8
-    story: huang111
+    U0033013: 2
+    U0033037: 2
+    U0033003: 2
+    story: fourconcepts05
