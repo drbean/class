@@ -1,70 +1,71 @@
 ---
 
-# Good
-Green:
-  absent:  
-  merits:  2
 Black:
   absent: 
-  merits:  3
-
-# Good
+  merits: 2
 Blue:
-  absent:  
-  merits:  2
+  absent: 
+  merits: 3
+
 Brown:
-  absent:  
-  merits:  3
-
-# Good
+  absent: 
+    - Amber
+  merits: 3
 Gray:
-  absent:  
-  merits:  2
-Purple:
-  absent:
-  merits:  3
+  absent: 
+    - Louis
+  merits: 2
 
-# Good
-Orange:
-  absent:  
-  merits:  2
-Pink:
-  absent:  
-  merits:  3
-
-# Bad
-Red:
-  absent:  
-  merits:  2
-BlueBlue:
-  absent:  
-  merits:  2
-
-# Good?
-White:
-  absent:  
-  merits:  2
-Yellow:
-  absent:  
-  merits:  2
-
-# Bad
-OrangeOrange:
-  absent:  
-  merits:  2
+Green:
+  absent: 
+    - Woodstock
+  merits: 3
 BlackBlack:
-  absent:  
-  merits:  2
+  absent: 
+    - Yvonne
+  merits: 2
 
-# Good
-BrownBrown:
-  absent:  
-  merits:  3
-GrayGray:
-  absent:  
-  merits:  2
+BlueBlue:
+  absent: 
+  merits: 3
+GreenGreen:
+  absent: 
+    - Leo2
+    - Eric
+  merits: 2
+
+OrangeOrange:
+  absent:
+  merits: 3
+Pink:
+  absent: 
+    - Minmin
+  merits: 2
+
+Purple:
+  absent: 
+  merits: 2
+Red:
+  absent: 
+  merits: 3
+
+White:
+  absent: 
+    - Abby
+  merits: 2
+Yellow:
+  absent: 
+  merits: 3
 
 # assistants
-GreenGreen:
-  absent:  
-  merits:  3
+Orange:
+  absent:
+    - Santie
+  merits: 3
+
+PurplePurple:
+  absent:
+  merits: 3
+YellowYellow:
+  absent: 
+  merits: 2
