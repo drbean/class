@@ -1,141 +1,211 @@
 ---
 absent: ~
-anterior: FLA0010
+anterior: 011FLA0016
 approach: GroupworkNoFault
 classMax: 3
 compcomp: comp
 examMax: 5
 exams: exam
-field: 英語會話(三)
+field: 小說選讀
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 011FLA0016
+id: AFN231
 jigsaw: exam
-league: 夜應外大學三甲
+league: NAF031四技外三甲
 member:
-  - Chinese: 陳美惠
-    id: V9841006
-    name: Abby
-    password: mei
+  - Chinese: 徐怡君
+    id: N00122101
+    name: 徐怡君
+    password: yi
     rating: ~
-  - Chinese: 葉瓊惠
-    id: V9841025
-    name: Sandy
-    password: qiong
+  - Chinese: 賴玟靜
+    id: N00202003
+    name: 賴玟靜
+    password: min
     rating: ~
-  - Chinese: 郭芳萱
-    id: V9841033
-    name: Amber
-    password: fang
-    rating: ~
-  - Chinese: 胡佳玟
-    id: V9841046
-    name: Lace
-    password: jia
-    rating: ~
-  - Chinese: 湯浩軍
-    id: V9841063
-    name: Tea
-    password: hao
-    rating: ~
-  - Chinese: 吳仰婷
-    id: V9941001
-    name: Rei
-    password: yang
-    rating: ~
-  - Chinese: 徐?焜
-    id: V9941005
-    name: Innocent
-    password: '?'
-    rating: ~
-  - Chinese: 湯明勳
-    id: V9941010
-    name: Robert
-    password: ming
-    rating: ~
-  - Chinese: '?翔義'
-    id: V9941012
-    name: XiangYi
-    password: xiang
-    rating: ~
-  - Chinese: 謝東霖
-    id: V9941014
-    name: Tony
-    password: dong
-    rating: ~
-  - Chinese: 陳俞靜
-    id: V9941022
-    name: Vicki
+  - Chinese: 李玉香
+    id: N00202101
+    name: 李玉香
     password: yu
     rating: ~
-  - Chinese: 陳乙瑄
-    id: V9941025
-    name: Sharon
-    password: yi
+  - Chinese: 張嘉晏
+    id: N00202103
+    name: 張嘉晏
+    password: jia
     rating: ~
-  - Chinese: 楊琬茹
-    id: V9941027
-    name: Wan-Ru
-    password: wan
-    rating: ~
-  - Chinese: 洪欣慈
-    id: V9941031
-    name: Hsin-Cih
-    password: xin
-    rating: ~
-  - Chinese: 曾姿蒨
-    id: V9941033
-    name: Zi-Qian
+  - Chinese: 吳紫彤
+    id: N01203003
+    name: 吳紫彤
     password: zi
     rating: ~
-  - Chinese: 劉紋君
-    id: V9941037
-    name: WenJun
-    password: wen
+  - Chinese: 黃宛梓
+    id: N99080086
+    name: 黃宛梓
+    password: wan
     rating: ~
-  - Chinese: 賴淑君
-    id: V9941043
-    name: Shu-Jun
-    password: shu
+  - Chinese: 莊涵
+    id: N99200002
+    name: 莊涵
+    password: han
     rating: ~
-  - Chinese: 蕭莉娟
-    id: V9941046
-    name: LiJuan
-    password: li
+  - Chinese: 李茂傳
+    id: N99200004
+    name: 李茂傳
+    password: mou
     rating: ~
-  - Chinese: 詹春英
-    id: V9941049
-    name: Chun-Ying
-    password: chun
+  - Chinese: 彭誠君
+    id: N99200005
+    name: 彭誠君
+    password: cheng
     rating: ~
-  - Chinese: 張鉯芸
-    id: V9941057
-    name: David
-    password: yi
+  - Chinese: 李宛閑
+    id: N99200007
+    name: 李宛閑
+    password: wan
     rating: ~
-  - Chinese: 吳李龍
-    id: V9941060
-    name: Leon
-    password: li
+  - Chinese: 金慧琪
+    id: N99200008
+    name: 金慧琪
+    password: hui
     rating: ~
-  - Chinese: 劉好英
-    id: V9941067
-    name: Ivy
-    password: hao
+  - Chinese: 陳雪慈
+    id: N99200009
+    name: 陳雪慈
+    password: xie
     rating: ~
-  - Chinese: 蔡佩芸
-    id: V9941069
-    name: Pei-Yun
-    password: pei
+  - Chinese: 葉美慧
+    id: N99200010
+    name: 葉美慧
+    password: mei
     rating: ~
-  - Chinese: 楊千慧
-    id: V9941073
-    name: Yvonne
+  - Chinese: 王肅雅
+    id: N99200011
+    name: 王肅雅
+    password: su
+    rating: ~
+  - Chinese: 蔡宛晏
+    id: N99200012
+    name: 蔡宛晏
+    password: wan
+    rating: ~
+  - Chinese: 程家筑
+    id: N99200013
+    name: 程家筑
+    password: jia
+    rating: ~
+  - Chinese: 王嘉綺
+    id: N99200014
+    name: 王嘉綺
+    password: jia
+    rating: ~
+  - Chinese: 周采蓉
+    id: N99200016
+    name: 周采蓉
+    password: cai
+    rating: ~
+  - Chinese: 鄭凱尹
+    id: N99200019
+    name: 鄭凱尹
+    password: kai
+    rating: ~
+  - Chinese: 范家菱
+    id: N99200020
+    name: 范家菱
+    password: jia
+    rating: ~
+  - Chinese: 朱秀卿
+    id: N99200021
+    name: 朱秀卿
+    password: xiu
+    rating: ~
+  - Chinese: 張菀芩
+    id: N99200022
+    name: 張菀芩
+    password: wan
+    rating: ~
+  - Chinese: 陳信宏
+    id: N99200023
+    name: 陳信宏
+    password: xin
+    rating: ~
+  - Chinese: 吳千合
+    id: N99200024
+    name: 吳千合
     password: qian
     rating: ~
+  - Chinese: 李昊軒
+    id: N99200025
+    name: 李昊軒
+    password: hao
+    rating: ~
+  - Chinese: 蕭惠文
+    id: N99200027
+    name: 蕭惠文
+    password: hui
+    rating: ~
+  - Chinese: 陳筱靖
+    id: N99200028
+    name: 陳筱靖
+    password: xiao
+    rating: ~
+  - Chinese: 廖幸嬋
+    id: N99200030
+    name: 廖幸嬋
+    password: xing
+    rating: ~
+  - Chinese: 傅瑄佑
+    id: N99200032
+    name: 傅瑄佑
+    password: xuan
+    rating: ~
+  - Chinese: 魏紫庭
+    id: N99200033
+    name: 魏紫庭
+    password: zi
+    rating: ~
+  - Chinese: 葉盈秀
+    id: N99200035
+    name: 葉盈秀
+    password: ying
+    rating: ~
+  - Chinese: 吳雅雯
+    id: N99200036
+    name: 吳雅雯
+    password: ya
+    rating: ~
+  - Chinese: 邱致善
+    id: N99200039
+    name: 邱致善
+    password: zhi
+    rating: ~
+  - Chinese: 林健瑋
+    id: N99200041
+    name: 林健瑋
+    password: jian
+    rating: ~
+  - Chinese: 洪瑞霙
+    id: N99200045
+    name: 洪瑞霙
+    password: rui
+    rating: ~
+  - Chinese: 蔣佩君
+    id: N99200047
+    name: 蔣佩君
+    password: pei
+    rating: ~
+  - Chinese: 王偉珍
+    id: N99200050
+    name: 王偉珍
+    password: wei
+    rating: ~
+  - Chinese: 林秀齡
+    id: N99200051
+    name: 林秀齡
+    password: xiu
+    rating: ~
 out:
-room: A705
+room: 220
 scores:
   bye: 5
   draw: 4
