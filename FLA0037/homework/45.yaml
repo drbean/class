@@ -1,0 +1,103 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: oreilly
+grade:
+  N9561732: 2
+  N9661712: 2
+  N9661752: 2
+  U9616041: 0
+  V0041028: 0
+  V9724004: 1
+  V9741010: 1
+  V9741016: 2
+  V9741023: 2
+  V9741025: 0
+  V9741028: 2
+  V9741029: 1
+  V9741030: 1
+  V9741032: 1
+  V9741034: 2
+  V9741036: 1
+  V9741041: 2
+  V9741043: 2
+  V9741047: 2
+  V9741053: 2
+  V9741057: 1
+  V9741059: 0
+  V9741060: 2
+  V9741066: 1
+points:
+  N9561732:
+    letters: 201
+    percent: 99
+  N9661712:
+    letters: 184
+    percent: 100
+  N9661752:
+    letters: 228
+    percent: 93
+  U9616041:
+    letters: 0
+    percent: 0
+  V0041028:
+    letters: 0
+    percent: 0
+  V9724004:
+    letters: 110
+    percent: 54
+  V9741010:
+    letters: 117
+    percent: 58
+  V9741016:
+    letters: 176
+    percent: 99
+  V9741023:
+    letters: 226
+    percent: 100
+  V9741025:
+    letters: 0
+    percent: 0
+  V9741028:
+    letters: 215
+    percent: 100
+  V9741029:
+    letters: 142
+    percent: 67
+  V9741030:
+    letters: 108
+    percent: 52
+  V9741032:
+    letters: 163
+    percent: 82
+  V9741034:
+    letters: 248
+    percent: 100
+  V9741036:
+    letters: 89
+    percent: 40
+  V9741041:
+    letters: 211
+    percent: 100
+  V9741043:
+    letters: 212
+    percent: 100
+  V9741047:
+    letters: 230
+    percent: 100
+  V9741053:
+    letters: 217
+    percent: 100
+  V9741057:
+    letters: 178
+    percent: 80
+  V9741059:
+    letters: 0
+    percent: 0
+  V9741060:
+    letters: 219
+    percent: 100
+  V9741066:
+    letters: 146
+    percent: 60

@@ -1,0 +1,95 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: stern1
+grade:
+  N9561732: 2
+  N9661712: 2
+  N9661752: 0
+  V9724004: 1
+  V9741010: 1
+  V9741016: 2
+  V9741023: 2
+  V9741025: 0
+  V9741028: 2
+  V9741029: 1
+  V9741030: 1
+  V9741032: 2
+  V9741034: 2
+  V9741036: 0
+  V9741041: 2
+  V9741043: 2
+  V9741047: 2
+  V9741053: 2
+  V9741057: 1
+  V9741059: 0
+  V9741060: 2
+  V9741066: 0
+points:
+  N9561732:
+    letters: 349
+    percent: 125
+  N9661712:
+    letters: 408
+    percent: 119
+  N9661752:
+    letters: 0
+    percent: 0
+  V9724004:
+    letters: 141
+    percent: 51
+  V9741010:
+    letters: 119
+    percent: 36
+  V9741016:
+    letters: 367
+    percent: 115
+  V9741023:
+    letters: 381
+    percent: 111
+  V9741025:
+    letters: 0
+    percent: 0
+  V9741028:
+    letters: 337
+    percent: 113
+  V9741029:
+    letters: 171
+    percent: 59
+  V9741030:
+    letters: 183
+    percent: 58
+  V9741032:
+    letters: 344
+    percent: 103
+  V9741034:
+    letters: 360
+    percent: 101
+  V9741036:
+    letters: 0
+    percent: 0
+  V9741041:
+    letters: 336
+    percent: 108
+  V9741043:
+    letters: 340
+    percent: 107
+  V9741047:
+    letters: 375
+    percent: 119
+  V9741053:
+    letters: 410
+    percent: 114
+  V9741057:
+    letters: 253
+    percent: 84
+  V9741059:
+    letters: 0
+    percent: 0
+  V9741060:
+    letters: 395
+    percent: 108
+  V9741066:
+    letters: 0
+    percent: 0
