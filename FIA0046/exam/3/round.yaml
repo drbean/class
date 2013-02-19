@@ -1,0 +1,104 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 4
+pass: 2
+assistant:
+  - Amber
+absent:
+text: /home/drbean/class/business/companies/cards.yaml
+activity:
+  fourswot:
+    00:
+      - GreenGreen
+      - PurplePurple
+      - Red
+    01:
+    03:
+      - Blue
+      - Green
+      - White
+    04:
+      - Black
+      - Brown
+      - Pink
+      - Yellow
+    08:
+      - BlackBlack
+      - BlueBlue
+      - Orange
+      - OrangeOrange
+    09:
+      - Gray
+      - Purple
+      - YellowYellow
+group:
+  Black:
+    - Woodstock
+    - Cathy1
+    - Liz
+  BlackBlack:
+    - Yvonne
+    - Leo2
+    - Jike
+  Blue:
+    - George
+    - Abby
+    - Teddy
+  BlueBlue:
+    - Ann
+    - Chris
+    - Nana
+  Brown:
+    - Sam
+    - Linda1
+    - Annie
+  Gray:
+    - James
+    - Ben
+    - Eric
+  Green:
+    - Sherry
+    - Cathy2
+    - Paul
+  GreenGreen:
+    - Tina
+    - Jeffrey
+    - Emma
+  Orange:
+    - Sen
+    - Danny
+    - Ting
+  OrangeOrange:
+    - Cabe
+    - Alice
+    - Amber
+  Pink:
+    - Ken
+    - Lisa
+    - Amber
+  Purple:
+    - Leo1
+    - Tosha
+    - Wei
+  PurplePurple:
+    - David
+    - E.J.
+    - Frank
+  Red:
+    - Minmin
+    - Louis
+    - Jessy
+  White:
+    - Sunny
+    - Bob
+    - Linda2
+  Yellow:
+    - Hugh
+    - Santie
+    - Andy
+  YellowYellow:
+    - Jimmy
+    - Lynn
+    - Rifle

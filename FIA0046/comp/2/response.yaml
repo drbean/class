@@ -1,0 +1,544 @@
+---
+free:
+  0:
+    argos:
+      0:
+        U9934004:
+          point:
+            1: Returned
+        U9934026:
+          point:
+            1: Fault
+    website:
+      0:
+        U9934004:
+          point:
+            1: Nil
+        U9934026:
+          point:
+            1: Nil
+    vacations:
+      0:
+        U9934004:
+          point:
+            1: Old
+        U9934026:
+          point:
+            1: Old
+  1:
+    argos:
+      0:
+        U9933033:
+          point:
+            1: Nil
+        U0031032:
+          point:
+            1: Nil
+    website:
+      0:
+        U9933033:
+          point:
+            1: Returned
+        U0031032:
+          point:
+            1: Returned
+            2: Returned
+    vacations:
+      0:
+        U9933033:
+          point:
+            1: Returned
+        U0031032:
+          point:
+            1: Nil
+  2:
+    argos:
+      0:
+        U0034001:
+          point:
+            1: Returned
+        U9834018:
+          point:
+            1: Returned
+    website:
+      0:
+        U0034001:
+          point:
+            1: Nil
+        U9834018:
+          point:
+            1: Nil
+    vacations:
+      0:
+        U0034001:
+          point:
+            1: Returned
+        U9834018:
+          point:
+            1: Returned
+  3:
+    argos:
+      0:
+        U0034049:
+          point:
+            1: Fault
+        U0034029:
+          point:
+            1: Returned
+    website:
+      0:
+        U0034049:
+          point:
+            1: Returned
+        U0034029:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034049:
+          point:
+            1: Returned
+        U0034029:
+          point:
+            1: Nil
+  4:
+    argos:
+      0:
+        U0034038:
+          point:
+            1: Nil
+        U0034046:
+          point:
+            1: Nil
+    website:
+      0:
+        U0034038:
+          point:
+            1: Fault
+        U0034046:
+          point:
+            1: Fault
+    vacations:
+      0:
+        U0034038:
+          point:
+            1: Old
+        U0034046:
+          point:
+            1: Nil
+  5:
+    argos:
+      0:
+        U0034051:
+          point:
+            1: Returned
+            2: Fault
+        U0034043:
+          point:
+            1: Returned
+    website:
+      0:
+        U0034051:
+          point:
+            1: Fault
+        U0034043:
+          point:
+            1: Nil
+    vacations:
+      0:
+        U0034051:
+          point:
+            1: Nil
+        U0034043:
+          point:
+            1: Returned
+  6:
+    argos:
+      0:
+        U0034002:
+          point:
+            1: Nil
+        U0034033:
+          point:
+            1: Nil
+    website:
+      0:
+        U0034002:
+          point:
+            1: Returned
+            2: Returned
+        U0034033:
+          point:
+            1: Returned
+            2: Old
+            3: Returned
+    vacations:
+      0:
+        U0034002:
+          point:
+            1: Nil
+        U0034033:
+          point:
+            1: Nil
+  7:
+    argos:
+      0:
+        U0034010:
+          point:
+            1: Fault
+        U0034024:
+          point:
+            1: Nil
+    website:
+      0:
+        U0034010:
+          point:
+            1: Nil
+        U0034024:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034010:
+          point:
+            1: Nil
+        U0034024:
+          point:
+            1: Returned
+  8:
+    argos:
+      0:
+        U0034009:
+          point:
+            1: Returned
+            2: Returned
+        U0034023:
+          point:
+            1: Returned
+            2: Returned
+    website:
+      0:
+        U0034009:
+          point:
+            1: Returned
+        U0034023:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034009:
+          point:
+            1: Nil
+        U0034023:
+          point:
+            1: Nil
+  9:
+    argos:
+      0:
+        U0034027:
+          point:
+            1: Returned
+        U0034040:
+          point:
+            1: Nil
+    website:
+      0:
+        U0034027:
+          point:
+            1: Nil
+        U0034040:
+          point:
+            1: Fault
+    vacations:
+      0:
+        U0034027:
+          point:
+            1: Returned
+        U0034040:
+          point:
+            1: Nil
+  10:
+    argos:
+      0:
+        U0034004:
+          point:
+            1: Returned
+        U0034016:
+          point:
+            1: Returned
+    website:
+      0:
+        U0034004:
+          point:
+            1: Returned
+            2: Old
+        U0034016:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034004:
+          point:
+            1: Nil
+        U0034016:
+          point:
+            1: Nil
+  11:
+    argos:
+      0:
+        U0034034:
+          point:
+            1: Nil
+        U0034015:
+          point:
+            1: Nil
+    website:
+      0:
+        U0034034:
+          point:
+            1: Returned
+            2: Old
+        U0034015:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034034:
+          point:
+            1: Returned
+        U0034015:
+          point:
+            1: Returned
+  12:
+    argos:
+      0:
+        U0034008:
+          point:
+            1: Returned
+        U0034026:
+          point:
+            1: Returned
+    website:
+      0:
+        U0034008:
+          point:
+            1: Returned
+        U0034026:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034008:
+          point:
+            1: Unreturned
+        U0034026:
+          point:
+            1: Returned
+  13:
+    argos:
+      0:
+        U0034036:
+          point:
+            1: Old
+            2: Returned
+        U0034011:
+          point:
+            1: Fault
+    website:
+      0:
+        U0034036:
+          point:
+            1: Fault
+        U0034011:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034036:
+          point:
+            1: Nil
+        U0034011:
+          point:
+            1: Nil
+  14:
+    argos:
+      0:
+        U0034037:
+          point:
+            1: Nil
+        U0034055:
+          point:
+            1: Nil
+    website:
+      0:
+        U0034037:
+          point:
+            1: Returned
+            2: Returned
+            3: Old
+        U0034055:
+          point:
+            1: Returned
+            2: Old
+            3: Returned
+    vacations:
+      0:
+        U0034037:
+          point:
+            1: Nil
+        U0034055:
+          point:
+            1: Nil
+  15:
+    argos:
+      0:
+        U0034017:
+          point:
+            1: Returned
+            2: Returned
+        U0034032:
+          point:
+            1: Returned
+    website:
+      0:
+        U0034017:
+          point:
+            1: Nil
+        U0034032:
+          point:
+            1: Nil
+    vacations:
+      0:
+        U0034017:
+          point:
+            1: Returned
+        U0034032:
+          point:
+            1: Returned
+  16:
+    argos:
+      0:
+        U0034056:
+          point:
+            1: Nil
+        U0034031:
+          point:
+            1: Nil
+    website:
+      0:
+        U0034056:
+          point:
+            1: Unreturned
+        U0034031:
+          point:
+            1: Nil
+    vacations:
+      0:
+        U0034056:
+          point:
+            1: Returned
+        U0034031:
+          point:
+            1: Returned
+  17:
+    argos:
+      0:
+        U0034044:
+          point:
+            1: Returned
+        U0034013:
+          point:
+            1: Old
+            2: Returned
+    website:
+      0:
+        U0034044:
+          point:
+            1: Returned
+        U0034013:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034044:
+          point:
+            1: Returned
+        U0034013:
+          point:
+            1: Returned
+  18:
+    argos:
+      0:
+        U0034030:
+          point:
+            1: Nil
+        U0034006:
+          point:
+            1: Nil
+    website:
+      0:
+        U0034030:
+          point:
+            1: Returned
+            2: Returned
+        U0034006:
+          point:
+            1: Old
+    vacations:
+      0:
+        U0034030:
+          point:
+            1: Returned
+        U0034006:
+          point:
+            1: Returned
+  19:
+    argos:
+      0:
+        U0034028:
+          point:
+            1: Returned
+        U0031046:
+          point:
+            1: Old
+    website:
+      0:
+        U0034028:
+          point:
+            1: Returned
+        U0031046:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034028:
+          point:
+            1: Nil
+        U0031046:
+          point:
+            1: Old
+  20:
+    argos:
+      0:
+        U0034045:
+          point:
+            1: Returned
+        U0034003:
+          point:
+            1: Old
+    website:
+      0:
+        U0034045:
+          point:
+            1: Returned
+        U0034003:
+          point:
+            1: Returned
+    vacations:
+      0:
+        U0034045:
+          point:
+            1: Nil
+        U0034003:
+          point:
+            1: O

@@ -1,0 +1,112 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 6
+pass: 3
+assistant:
+absent:
+  - Derrick
+  - Jack
+text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
+activity:
+  vacations:
+    22:
+      - GreenGreen
+      - OrangeOrange
+      - White
+    33:
+      - BlackBlack
+      - Brown
+      - Gray
+      - Red
+    44:
+      - Blue
+      - Purple
+    55:
+      - Black
+      - Pink
+      - PinkPink
+    66:
+      - BlueBlue
+      - Yellow
+      - YellowYellow
+    77:
+      - Green
+      - Orange
+      - PurplePurple
+group:
+  Black:
+    - Sam
+    - George
+    - Ting
+  BlackBlack:
+    - James
+    - Andy
+    - Linda1
+  Blue:
+# Andy took absent players place, but didn't answer questions
+    - Jike
+    - Liz
+    - Jike
+  BlueBlue:
+    - Leo2
+    - Cathy2
+    - Alice
+  Brown:
+    - Bob
+    - Bob
+    - Paul
+  Gray:
+    - Tina
+    - Wei
+    - Chris
+  Green:
+    - Sen
+    - Louis
+    - Jeffrey
+  GreenGreen:
+    - Santie
+    - Hugh
+    - Ben
+  Orange:
+    - Lisa
+    - Emma
+    - Teddy
+  Pink:
+    - David
+    - Frank
+    - E.J.
+  YellowYellow:
+    - Sunny
+    - Cabe
+    - Nana
+  Purple:
+    - Rifle
+    - Amber
+    - Eric
+  PurplePurple:
+    - Danny
+    - Woodstock
+    - Ken
+  Red:
+    - Leo1
+    - Jimmy
+    - Abby
+  White:
+    - Minmin
+    - Jessy
+    - Linda2
+  Yellow:
+    - Tosha
+    - Sherry
+    - Lynn
+# only 2 cards filled in
+  PinkPink:
+    - Ann
+    - Cathy1
+    - Cathy1
+  OrangeOrange:
+    - Yvonne
+    - Annie
+    - Annie
