@@ -1,0 +1,680 @@
+---
+cutpoints:
+  loser: 1
+  quitter: 0
+  winner: 2
+exercise: website
+grade:
+  U0022016: 0
+  U0031001: 1
+  U0031002: 2
+  U0031003: 0
+  U0031004: 1
+  U0031005: 1
+  U0031006: 1
+  U0031007: 0
+  U0031008: 2
+  U0031009: 1
+  U0031010: 2
+  U0031011: 0
+  U0031012: 1
+  U0031013: 2
+  U0031014: 2
+  U0031016: 1
+  U0031017: 1
+  U0031018: 1
+  U0031020: 1
+  U0031022: 0
+  U0031024: 0
+  U0031025: 2
+  U0031026: 2
+  U0031027: 1
+  U0031028: 0
+  U0031029: 1
+  U0031031: 1
+  U0031033: 1
+  U0031034: 0
+  U0031035: 1
+  U0031036: 2
+  U0031037: 1
+  U0031038: 1
+  U0031039: 0
+  U0031040: 0
+  U0031041: 2
+  U0031042: 2
+  U0031043: 2
+  U0031044: 2
+  U0031045: 2
+  U0031047: 1
+  U0031048: 0
+  U0031049: 1
+  U9831006: 0
+  U9831144: 2
+  U9831152: 1
+  U9931129: 0
+  U9931152: 2
+points:
+  U0022016:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 1
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031001:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 1
+      questions: 7
+      attempts: 27
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031002:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 9
+      attempts: 18
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031003:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031004:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 3
+    Yn:
+      answers: 1
+      questions: 4
+      attempts: 14
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031005:
+    Wh:
+      answers: 1
+      questions: 3
+      attempts: 7
+    Yn:
+      answers: 1
+      questions: 8
+      attempts: 15
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031006:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 6
+      attempts: 11
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031007:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 2
+      attempts: 2
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031008:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 7
+      attempts: 13
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031009:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 2
+      questions: 9
+      attempts: 12
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031010:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 9
+      attempts: 19
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031011:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031012:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 7
+      attempts: 14
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031013:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 3
+    Yn:
+      answers: 3
+      questions: 6
+      attempts: 18
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031014:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 6
+      attempts: 9
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031016:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 7
+      attempts: 11
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031017:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 7
+      attempts: 9
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031018:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 2
+      questions: 9
+      attempts: 11
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031020:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 1
+      attempts: 13
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031022:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031024:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031025:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 4
+      attempts: 5
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031026:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 5
+      attempts: 10
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031027:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 7
+      attempts: 23
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031028:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 2
+      attempts: 4
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031029:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 1
+      questions: 4
+      attempts: 18
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031031:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 7
+      attempts: 16
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031033:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 1
+      questions: 8
+      attempts: 11
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031034:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031035:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 1
+      questions: 8
+      attempts: 8
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031036:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 6
+      attempts: 12
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031037:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 7
+      attempts: 10
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031038:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 7
+      attempts: 13
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031039:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031040:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031041:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 6
+      attempts: 18
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031042:
+    Wh:
+      answers: 2
+      questions: 2
+      attempts: 4
+    Yn:
+      answers: 0
+      questions: 1
+      attempts: 6
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031043:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 6
+      attempts: 11
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031044:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 4
+      attempts: 11
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031045:
+    Wh:
+      answers: 2
+      questions: 3
+      attempts: 9
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031047:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 7
+      attempts: 9
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031048:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0031049:
+    Wh:
+      answers: 0
+      questions: 3
+      attempts: 8
+    Yn:
+      answers: 0
+      questions: 6
+      attempts: 7
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9831006:
+    Wh:
+      answers: 0
+      questions: 1
+      attempts: 4
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 1
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9831144:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 6
+      attempts: 13
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9831152:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 2
+    Yn:
+      answers: 1
+      questions: 6
+      attempts: 21
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9931129:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 6
+    Yn:
+      answers: 0
+      questions: 2
+      attempts: 8
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9931152:
+    Wh:
+      answers: 2
+      questions: 3
+      attempts: 4
+    Yn:
+      answers: 0
+      questions: 2
+      attempts: 7
+    S:
+      answers: ~
+      questions: ~
+      attempts: ~
