@@ -1,0 +1,161 @@
+---
+activity:
+  fast-track:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+  tips:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+  beliefs:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+assistant:
+  Green:
+    U9831006: 5
+  BrownBrown:
+    U9931129: 5
+  PinkPink:
+    U9831144: 5
+bye: U0031040
+divisions:
+  - free
+dispensation: ~
+group:
+  0:
+    White: U0031002
+    Black: U0031013
+  
+  1:
+    White: U0031041
+    Black: U0031004
+  2:
+    White: U0031020
+    Black: U0031005
+  3:
+    White: U0031049
+    Black: U0031038
+  4:
+    White: U0031048
+    Black: U0031028
+  5:
+    White: U0022016
+    Black: U0031012
+  6:
+    White: U0031039
+    Black: U0031034
+  7:
+    White: U0031036
+    Black: U0031029
+  8:
+    White: U0031044
+    Black: U0031025
+  9:
+    White: U0031042
+    Black: U0031014
+  10:
+    White: U0031016
+    Black: U9931152
+  11:
+    White: U0031027
+    Black: U0031037
+  12:
+    White: U0031033
+    Black: U0031031
+  13:
+    White: U0031018
+    Black: U0031006
+  14:
+    White: U0031001
+    Black: U0031047
+  15:
+    White: U0031007
+    Black: U0031035
+  16:
+    White: U0031008
+    Black: U0031017
+  17:
+    White: U0031022
+    Black: U0031009
+  18:
+    White: U0031043
+    Black: U0031010
+
+  19:
+    White: U0031045
+    Black: U0031024
+  20:
+    White: U0031003
+    Black: U0031011
+  
+late:
+  - U0031013
+  - U0031045
+  - U0031024
+  - U0031003
+  - U0031011
+  - U0031040
+pairing: swiss adjusted
+payprotocol: meritPay
+round: 1
+text: /home/drbean/class/business/careers/cards.yaml
+week: 5
