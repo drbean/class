@@ -1,0 +1,111 @@
+---
+Chinese:
+  Black: 0
+  BlackBlack: 0
+  Blue: 0
+  BlueBlue: 0
+  Brown: 0
+  Gray: 0
+  Green: 0
+  GreenGreen: 0
+  Orange: 0
+  OrangeOrange: 0
+  Pink: 0
+  PinkPink: 0
+  Purple: 0
+  PurplePurple: 0
+  Red: 0
+  White: 0
+  Yellow: 0
+  YellowYellow: 0
+letters:
+  Black:
+    U9934026: 2
+    U0034051: 2
+    U0034028: 2
+    story: vacations55
+  BlackBlack:
+    U0034025: 4
+    U0034042: 3
+    U0034012: 3
+    story: vacations33
+  Blue:
+    U0034044: 4
+    U0034037: 2
+    U0034044: 4
+    story: vacations44
+  BlueBlue:
+    U0031032: 2
+    U0034033: 4
+    U0034030: 2
+    story: vacations66
+  Brown:
+    U0034056: 4
+    U0034056: 4
+    U0034026: 2
+    story: vacations33
+  Gray:
+    U0034003: 3
+    U0034009: 4
+    U0031046: 2
+    story: vacations33
+  Green:
+    U0034001: 2
+    U0034040: 3
+    U0034027: 3
+    story: vacations77
+  GreenGreen:
+    U0034023: 2
+    U9834018: 4
+    U0034055: 2
+    story: vacations22
+  Orange:
+    U0034005: 3
+    U0034014: 4
+    U0034035: 3
+    story: vacations77
+  OrangeOrange:
+    U0034007: 2
+    U0034013: 5
+    U0034013: 5
+    story: vacations22
+  Pink:
+    U0034002: 3
+    U0034016: 3
+    U0034008: 4
+    story: vacations55
+  PinkPink:
+    U0034050: 1
+    U0034010: 2
+    U0034010: 2
+    story: vacations55
+  Purple:
+    U0034045: 6
+    U0034029: 5
+    U0034017: 6
+    story: vacations44
+  PurplePurple:
+    U0034015: 3
+    U0034032: 1
+    U0034031: 2
+    story: vacations77
+  Red:
+    U0034004: 0
+    U0034006: 3
+    U0034024: 1
+    story: vacations33
+  White:
+    U0034049: 3
+    U0034043: 3
+    U9933033: 5
+    story: vacations22
+  Yellow:
+    U0034046: 2
+    U9934004: 3
+    U0034034: 2
+    story: vacations66
+  YellowYellow:
+    U0034038: 4
+    U0034011: 3
+    U0034036: 4
+    story: vacations66

@@ -1,0 +1,113 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 2
+pass: 0
+assistant:
+  - Louis
+  - James
+  - Abby
+  - E.J.
+absent:
+  - Derrick
+  - Ann
+text: /home/drbean/class/business/careers/cards.yaml
+activity:
+  tips:
+    8:
+      - Black
+      - BlackBlack
+      - Orange
+    9:
+      - Green
+      - PinkPink
+      - White
+    10:
+      - Gray
+      - Red
+      - PurplePurple
+    11:
+      - Blue
+      - GreenGreen
+      - Pink
+    12:
+      - Sam
+      - BlueBlue
+      - Brown
+      - Purple
+      - Yellow
+      - YellowYellow
+group:
+  Sam:
+    - Sam
+    - James
+    - Abby
+  Black:
+    - Lisa
+    - Rifle
+    - Louis
+  BlackBlack:
+    - Sunny
+    - Cabe
+    - Danny
+  Blue:
+    - Ting
+    - Ben
+    - Jeffrey
+  BlueBlue:
+    - Wei
+    - Hugh
+    - Frank
+  Brown:
+    - Leo1
+    - Yvonne
+    - Eric
+  PurplePurple:
+    - Minmin
+    - Andy
+    - Ken
+  Gray:
+    - E.J.
+    - Lynn
+    - Woodstock
+  Green:
+    - Bob
+    - Paul
+    - Liz
+  Orange:
+    - Amber
+    - Chris
+    - Alice
+  GreenGreen:
+    - Tina
+    - Linda1
+    - Emma
+  Pink:
+    - E.J.
+    - Annie
+    - Santie
+  YellowYellow:
+    - Nana
+    - Jike
+    - Jack
+  Purple:
+    - Jimmy
+    - George
+    - Jessy
+  PinkPink:
+    - David
+    - Cathy1
+    - Derrick
+  Red:
+    - Tosha
+    - Sen
+    - Cathy2
+  White:
+    - Teddy
+    - Leo2
+    - Abby
+  Yellow:
+    - James
+    - Sherry
+    - Linda2
