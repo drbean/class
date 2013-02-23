@@ -1,7 +1,7 @@
 ---
 absent: ~
 active: ~
-anterior: 002BMA0056
+anterior: 011BMA0056
 approach: GroupworkNoFault
 classMax: 3
 compcomp: comp
@@ -11,33 +11,19 @@ field: 商用英文實務(一)
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 011BMA0056
+id: 012BMA0035
 jigsaw: exam
 league: 日經管大學二甲
 member:
-  - Chinese: 楊崴宇
-    id: U9831006
-    name: WeiYu
-    password: wei
+  - Chinese: 林冠丞
+    id: T9831019
+    name: 林冠丞
+    password: guan
     rating: ~
-  
   - Chinese: 陳哲彬
     name: Tony
     password: zhe
     id: U0022016
-    rating: ~
-  
-  
-  - Chinese: 湯竣傑
-    name: Victor
-    password: jun
-    id: U0031049
-    rating: ~
-  
-  - Chinese: 彭大維
-    name: David2
-    password: da
-    id: U9931152
     rating: ~
   - Chinese: 黃粲媛
     id: U0031001
@@ -151,7 +137,7 @@ member:
     rating: ~
   - Chinese: 鍾孝澤
     id: U0031027
-    name: David1
+    name: David
     password: xiao
     rating: ~
   - Chinese: 林洵鋌
@@ -186,7 +172,7 @@ member:
     rating: ~
   - Chinese: 陳君婷
     id: U0031036
-    name: Flora1
+    name: Flora
     password: jun
     rating: ~
   - Chinese: 林佩儀
@@ -244,38 +230,18 @@ member:
     name: Henry
     password: zhi
     rating: ~
-  - Chinese: 顏摩
-    id: U9831144
-    name: Stanley
-    password: mo
+  - Chinese: 湯竣傑
+    id: U0031049
+    name: Victor
+    password: jun
     rating: ~
-  - Chinese: 鐵木倫
-    id: U9831152
-    name: Jenny
-    password: mu
-    rating: ~
-  - Chinese: 江佳蕙
-    id: U9931129
-    name: Flora2
-    password: jia
+  - Chinese: 李宗翰
+    id: U9931040
+    name: 李宗翰
+    password: zong
     rating: ~
 out:
-  - Chinese: 葉日維
-    id: U9831038
-    name: Max
-    password: ri
-    rating: ~
-  - Chinese: 陳沛瑋
-    name: Daniel
-    password: pei
-    id: 9633253
-    rating: ~
-  - Chinese: 陳怡婷
-    id: U0031021
-    name: 陳怡婷
-    password: yi
-    rating: ~
-room: A705
+room: A706
 scores:
   bye: 5
   draw: 4
