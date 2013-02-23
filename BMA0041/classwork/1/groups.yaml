@@ -1,65 +1,61 @@
 ---
-Ciyun:
-  - Ciyun
-  - Willie
-
 Black:
-  - A-Mei
-  - Lydia
-  - Jim
-BlackBlack:
-  - Alison
-  - Chelsea
-  - Wayne
-Blue:
-  - Yi-Zhen
-  - Bebe
   - Mandy
-BlueBlue:
-  - Polly
-  - Angela
-  - Ya-Lin
-Brown:
-  - SuSu
-  - Yuda
-  - Lin-ho
-Gray:
-  - Wade
+  - Lydia
   - Annie
-  - Christina
-Green:
-  - Grace
-  - Maggie
-  - Susan
-GreenGreen:
-  - Alen
-  - Fang
-  - Casper
-Orange:
-  - Aling
-  - Skylla
-  - Apple
-Pink:
-  - Cathy
-  - Max
-  - Jeffrey
-Purple:
+BlackBlack:
   - Sam
-  - Caxton
-  - Jungle
-Red:
-  - Venus
   - Penny
   - Jason
-White:
-  - Joanna
+Blue:
+  - A-Mei
+  - Joyce
+  - Jim
+BlueBlue:
+  - Venus
   - Jenny
   - Eric
-Yellow:
-  - Joyce
+Brown:
+  - Alison
+  - Bebe
+  - Wayne
+YellowYellow:
+  - Joanna
   - Cindy
   - Tiffany
-YellowYellow:
+Gray:
+  - Yi-Zhen
+  - Chelsea
+  - Polly
+GreenGreen:
   - Bella
   - Jill
   - Winnie
+Green:
+  - Ya-Lin
+  - Yuda
+  - Lin-ho
+Orange:
+  - SuSu
+  - Angela
+  - Christina
+Pink:
+  - Wade
+  - Maggie
+  - Susan
+Purple:
+  - Grace
+  - Fang
+  - Casper
+Red:
+  - Alen
+  - Skylla
+  - Apple
+White:
+  - Aling
+  - Max
+  - Jeffrey
+Yellow:
+  - Cathy
+  - Caxton
+  - Jungle
