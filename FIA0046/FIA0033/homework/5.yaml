@@ -1,0 +1,215 @@
+---
+cutpoints:
+  one: 20
+  two: 80
+exercise: argos
+grade:
+  U0031032: 2
+  U0031046: 2
+  U0034001: 2
+  U0034002: 2
+  U0034003: 2
+  U0034004: 2
+  U0034005: 2
+  U0034006: 2
+  U0034007: 2
+  U0034008: 2
+  U0034009: 2
+  U0034010: 2
+  U0034011: 2
+  U0034012: 2
+  U0034013: 2
+  U0034014: 2
+  U0034015: 2
+  U0034016: 2
+  U0034017: 2
+  U0034023: 2
+  U0034024: 2
+  U0034025: 2
+  U0034026: 2
+  U0034027: 2
+  U0034028: 2
+  U0034029: 2
+  U0034030: 2
+  U0034031: 2
+  U0034032: 2
+  U0034033: 2
+  U0034034: 2
+  U0034035: 2
+  U0034036: 2
+  U0034037: 2
+  U0034038: 2
+  U0034040: 2
+  U0034042: 2
+  U0034043: 2
+  U0034044: 2
+  U0034045: 2
+  U0034046: 2
+  U0034049: 2
+  U0034050: 2
+  U0034051: 2
+  U0034055: 2
+  U0034056: 2
+  U9816059: 0
+  U9816062: 0
+  U9834018: 2
+  U9933033: 2
+  U9934004: 2
+  U9934026: 2
+points:
+  U0031032:
+    letters: 1061
+    percent: 100
+  U0031046:
+    letters: 1097
+    percent: 100
+  U0034001:
+    letters: 1000
+    percent: 93
+  U0034002:
+    letters: 1067
+    percent: 100
+  U0034003:
+    letters: 1075
+    percent: 100
+  U0034004:
+    letters: 1054
+    percent: 100
+  U0034005:
+    letters: 1077
+    percent: 100
+  U0034006:
+    letters: 1059
+    percent: 100
+  U0034007:
+    letters: 1079
+    percent: 99
+  U0034008:
+    letters: 1088
+    percent: 100
+  U0034009:
+    letters: 1068
+    percent: 100
+  U0034010:
+    letters: 1077
+    percent: 100
+  U0034011:
+    letters: 1086
+    percent: 100
+  U0034012:
+    letters: 1090
+    percent: 100
+  U0034013:
+    letters: 1093
+    percent: 100
+  U0034014:
+    letters: 1094
+    percent: 100
+  U0034015:
+    letters: 1084
+    percent: 100
+  U0034016:
+    letters: 1075
+    percent: 100
+  U0034017:
+    letters: 1081
+    percent: 100
+  U0034023:
+    letters: 1047
+    percent: 100
+  U0034024:
+    letters: 1076
+    percent: 100
+  U0034025:
+    letters: 1068
+    percent: 99
+  U0034026:
+    letters: 1089
+    percent: 100
+  U0034027:
+    letters: 1070
+    percent: 100
+  U0034028:
+    letters: 1075
+    percent: 100
+  U0034029:
+    letters: 1061
+    percent: 100
+  U0034030:
+    letters: 1082
+    percent: 100
+  U0034031:
+    letters: 1086
+    percent: 100
+  U0034032:
+    letters: 1070
+    percent: 100
+  U0034033:
+    letters: 1087
+    percent: 100
+  U0034034:
+    letters: 1083
+    percent: 100
+  U0034035:
+    letters: 1053
+    percent: 100
+  U0034036:
+    letters: 1050
+    percent: 100
+  U0034037:
+    letters: 1088
+    percent: 100
+  U0034038:
+    letters: 1087
+    percent: 100
+  U0034040:
+    letters: 1072
+    percent: 100
+  U0034042:
+    letters: 1088
+    percent: 100
+  U0034043:
+    letters: 1073
+    percent: 100
+  U0034044:
+    letters: 1072
+    percent: 100
+  U0034045:
+    letters: 1058
+    percent: 100
+  U0034046:
+    letters: 1089
+    percent: 100
+  U0034049:
+    letters: 1075
+    percent: 100
+  U0034050:
+    letters: 1087
+    percent: 100
+  U0034051:
+    letters: 1070
+    percent: 99
+  U0034055:
+    letters: 1083
+    percent: 100
+  U0034056:
+    letters: 1082
+    percent: 100
+  U9816059:
+    letters: 0
+    percent: 0
+  U9816062:
+    letters: 63
+    percent: 6
+  U9834018:
+    letters: 1078
+    percent: 100
+  U9933033:
+    letters: 1079
+    percent: 100
+  U9934004:
+    letters: 1072
+    percent: 100
+  U9934026:
+    letters: 1050
+    percent: 97

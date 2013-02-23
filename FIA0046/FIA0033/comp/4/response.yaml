@@ -1,0 +1,591 @@
+---
+free:
+  0:
+    cars:
+      0:
+        U0034050:
+          point:
+            1: Returned
+            2: Returned
+        U0034001:
+          point:
+            1: Nil
+    citrus:
+      0:
+        U0034050:
+          point:
+            1: Old
+            2: Returned
+            3: Fault
+        U0034001:
+          point:
+            1: Returned
+            2: Returned
+            3: Old
+    internet:
+      0:
+        U0034050:
+          point:
+            1: Nil
+        U0034001:
+          point:
+            1: Nil
+  1:
+    cars:
+      0:
+        U9934004:
+          point:
+            1: Nil
+        U0034042:
+          point:
+            1: Nil
+    citrus:
+      0:
+        U9934004:
+          point:
+            1: Fault
+        U0034042:
+          point:
+            1: Returned
+    internet:
+      0:
+        U9934004:
+          point:
+            1: Returned
+            2: Returned
+        U0034042:
+          point:
+            1: Fault
+            2: Returned
+  2:
+    cars:
+      0:
+        U0034005:
+          point:
+            1: Old
+            2: Fault
+        U0034045:
+          point:
+            1: Nil
+    citrus:
+      0:
+        U0034005:
+          point:
+            1: Returned
+            2: Old
+        U0034045:
+          point:
+            1: Returned
+    internet:
+      0:
+        U0034005:
+          point:
+            1: Old
+        U0034045:
+          point:
+            1: Nil
+  3:
+    cars:
+      0:
+        U0034025:
+          point:
+            1: Returned
+        U0034024:
+          point:
+            1: Nil
+    citrus:
+      0:
+        U0034025:
+          point:
+            1: Returned
+        U0034024:
+          point:
+            1: Returned
+    internet:
+      0:
+        U0034025:
+          point:
+            1: Returned
+        U0034024:
+          point:
+            1: Returned
+  4:
+    cars:
+      0:
+        U0034015:
+          point:
+            1: Nil
+        U9934026:
+          point:
+            1: Nil
+    citrus:
+      0:
+        U0034015:
+          point:
+            1: Old
+        U9934026:
+          point:
+            1: Nil
+    internet:
+      0:
+        U0034015:
+          point:
+            1: Old
+            2: Returned
+            3: Returned
+        U9934026:
+          point:
+            1: Returned
+            2: Old
+  5:
+    cars:
+      0:
+        U9933033:
+          point:
+            1: Returned
+            2: Fault
+        U0034028:
+          point:
+            1: Returned
+    citrus:
+      0:
+        U9933033:
+          point:
+            1: Nil
+        U0034028:
+          point:
+            1: Nil
+    internet:
+      0:
+        U9933033:
+          point:
+            1: Returned
+        U0034028:
+          point:
+            1: Returned
+  6:
+    cars:
+      0:
+        U0034035:
+          point:
+            1: Nil
+        U0034049:
+          point:
+            1: Nil
+    citrus:
+      0:
+        U0034035:
+          point:
+            1: Nil
+        U0034049:
+          point:
+            1: Returned
+            2: Returned
+    internet:
+      0:
+        U0034035:
+          point:
+            1: Returned
+            2: Fault
+        U0034049:
+          point:
+            1: Nil
+  7:
+    cars:
+      0:
+        U0034012:
+          point:
+            1: Fault
+            2: Returned
+        U0034044:
+          point:
+            1: Returned
+    citrus:
+      0:
+        U0034012:
+          point:
+            1: Nil
+        U0034044:
+          point:
+            1: Nil
+    internet:
+      0:
+        U0034012:
+          point:
+            1: Returned
+        U0034044:
+          point:
+            1: Returned
+  8:
+    cars:
+      0:
+        U0034003:
+          point:
+            1: Old
+        U0034046:
+          point:
+            1: Returned
+    citrus:
+      0:
+        U0034003:
+          point:
+            1: Returned
+        U0034046:
+          point:
+            1: Returned
+    internet:
+      0:
+        U0034003:
+          point:
+            1: Returned
+        U0034046:
+          point:
+            1: Nil
+  9:
+    cars:
+      0:
+        U0034032:
+          point:
+            1: Old
+            2: Returned
+        U0034043:
+          point:
+            1: Returned
+    citrus:
+      0:
+        U0034032:
+          point:
+            1: Nil
+        U0034043:
+          point:
+            1: Nil
+    internet:
+      0:
+        U0034032:
+          point:
+            1: Returned
+        U0034043:
+          point:
+            1: Returned
+  10:
+    cars:
+      0:
+        U9834018:
+          point:
+            1: Returned
+        U0034011:
+          point:
+            1: Returned
+    citrus:
+      0:
+        U9834018:
+          point:
+            1: Returned
+        U0034011:
+          point:
+            1: Returned
+    internet:
+      0:
+        U9834018:
+          point:
+            1: Nil
+        U0034011:
+          point:
+            1: Nil
+  11:
+    cars:
+      0:
+        U0034027:
+          point:
+            1: Nil
+        U0034038:
+          point:
+            1: Returned
+    citrus:
+      0:
+        U0034027:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        U0034038:
+          point:
+            1: Nil
+    internet:
+      0:
+        U0034027:
+          point:
+            1: Nil
+        U0034038:
+          point:
+            1: Returned
+            2: Unreturned
+  12:
+    cars:
+      0:
+        U0034031:
+          point:
+            1: Nil
+        U0034026:
+          point:
+            1: Old
+    citrus:
+      0:
+        U0034031:
+          point:
+            1: Returned
+            2: Old
+        U0034026:
+          point:
+            1: Nil
+    internet:
+      0:
+        U0034031:
+          point:
+            1: Returned
+        U0034026:
+          point:
+            1: Returned
+  13:
+    cars:
+      0:
+        U0034055:
+          point:
+            1: Nil
+        U0034029:
+          point:
+            1: Returned
+    citrus:
+      0:
+        U0034055:
+          point:
+            1: Nil
+        U0034029:
+          point:
+            1: Nil
+    internet:
+      0:
+        U0034055:
+          point:
+            1: Old
+            2: Old
+            3: Returned
+        U0034029:
+          point:
+            1: Nil
+  14:
+    cars:
+      0:
+        U0034051:
+          point:
+            1: Nil
+        U0034016:
+          point:
+            1: Nil
+    citrus:
+      0:
+        U0034051:
+          point:
+            1: Nil
+        U0034016:
+          point:
+            1: Returned
+    internet:
+      0:
+        U0034051:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        U0034016:
+          point:
+            1: Returned
+            2: Unreturned
+  15:
+    cars:
+      0:
+        U0034013:
+          point:
+            1: Returned
+            2: Old
+        U0034033:
+          point:
+            1: Returned
+    citrus:
+      0:
+        U0034013:
+          point:
+            1: Returned
+        U0034033:
+          point:
+            1: Returned
+            2: Returned
+    internet:
+      0:
+        U0034013:
+          point:
+            1: Returned
+        U0034033:
+          point:
+            1: Nil
+  16:
+    cars:
+      0:
+        U0034017:
+          point:
+            1: Returned
+        U0034002:
+          point:
+            1: Returned
+    citrus:
+      0:
+        U0034017:
+          point:
+            1: Old
+            2: Returned
+        U0034002:
+          point:
+            1: Nil
+    internet:
+      0:
+        U0034017:
+          point:
+            1: Old
+        U0034002:
+          point:
+            1: Returned
+  17:
+    cars:
+      0:
+        U0034008:
+          point:
+            1: Fault
+        U0034010:
+          point:
+            1: Returned
+    citrus:
+      0:
+        U0034008:
+          point:
+            1: Nil
+        U0034010:
+          point:
+            1: Returned
+    internet:
+      0:
+        U0034008:
+          point:
+            1: Returned
+            2: Old
+        U0034010:
+          point:
+            1: Nil
+  18:
+    cars:
+      0:
+        U0034030:
+          point:
+            1: Returned
+            2: Old
+            3: Returned
+        U0034040:
+          point:
+            1: Returned
+    citrus:
+      0:
+        U0034030:
+          point:
+            1: Nil
+        U0034040:
+          point:
+            1: Nil
+    internet:
+      0:
+        U0034030:
+          point:
+            1: Nil
+        U0034040:
+          point:
+            1: Returned
+  19:
+    cars:
+      0:
+        U0034037:
+          point:
+            1: Nil
+        U0034009:
+          point:
+            1: Returned
+            2: Returned
+    citrus:
+      0:
+        U0034037:
+          point:
+            1: Nil
+        U0034009:
+          point:
+            1: Nil
+    internet:
+      0:
+        U0034037:
+          point:
+            1: Fault
+            2: Returned
+            3: Returned
+        U0034009:
+          point:
+            1: Old
+  20:
+    cars:
+      0:
+        U0031046:
+          point:
+            1: Nil
+        U0034006:
+          point:
+            1: Nil
+    citrus:
+      0:
+        U0031046:
+          point:
+            1: Nil
+        U0034006:
+          point:
+            1: Nil
+    internet:
+      0:
+        U0031046:
+          point:
+            1: Returned
+        U0034006:
+          point:
+            1: Returned
+  21:
+    cars:
+      0:
+        U0031032:
+          point:
+            1: Nil
+        U0034014:
+          point:
+            1: Returned
+            2: Returned
+    citrus:
+      0:
+        U0031032:
+          point:
+            1: Nil
+        U0034014:
+          point:
+            1: Old
+    internet:
+      0:
+        U0031032:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+            4: Fault
+        U0034014:
+          point:
+            1: Nil
