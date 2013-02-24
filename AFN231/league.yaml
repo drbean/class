@@ -16,12 +16,12 @@ league: NAF031四技外三甲
 member:
   - Chinese: 徐怡君
     id: N00122101
-    name: 徐怡君
+    name: Vyan
     password: yi
     rating: ~
   - Chinese: 賴玟靜
     id: N00202003
-    name: 賴玟靜
+    name: Zona
     password: min
     rating: ~
   - Chinese: 李玉香
@@ -31,7 +31,7 @@ member:
     rating: ~
   - Chinese: 張嘉晏
     id: N00202103
-    name: 張嘉晏
+    name: Betty
     password: jia
     rating: ~
   - Chinese: 吳紫彤
@@ -46,32 +46,32 @@ member:
     rating: ~
   - Chinese: 莊涵
     id: N99200002
-    name: 莊涵
+    name: Hellen
     password: han
     rating: ~
   - Chinese: 李茂傳
     id: N99200004
-    name: 李茂傳
+    name: Michael
     password: mou
     rating: ~
   - Chinese: 彭誠君
     id: N99200005
-    name: 彭誠君
+    name: Juby
     password: cheng
     rating: ~
   - Chinese: 李宛閑
     id: N99200007
-    name: 李宛閑
+    name: Sue
     password: wan
     rating: ~
   - Chinese: 金慧琪
     id: N99200008
-    name: 金慧琪
+    name: Elaine
     password: hui
     rating: ~
   - Chinese: 陳雪慈
     id: N99200009
-    name: 陳雪慈
+    name: Carol
     password: xie
     rating: ~
   - Chinese: 葉美慧
@@ -81,42 +81,42 @@ member:
     rating: ~
   - Chinese: 王肅雅
     id: N99200011
-    name: 王肅雅
+    name: Kate
     password: su
     rating: ~
   - Chinese: 蔡宛晏
     id: N99200012
-    name: 蔡宛晏
-    password: wan
+    name: Genna
+    password: ding
     rating: ~
   - Chinese: 程家筑
     id: N99200013
-    name: 程家筑
+    name: Foxy
     password: jia
     rating: ~
   - Chinese: 王嘉綺
     id: N99200014
-    name: 王嘉綺
+    name: Evy
     password: jia
     rating: ~
   - Chinese: 周采蓉
     id: N99200016
-    name: 周采蓉
+    name: Nora
     password: cai
     rating: ~
   - Chinese: 鄭凱尹
     id: N99200019
-    name: 鄭凱尹
+    name: Amber
     password: kai
     rating: ~
   - Chinese: 范家菱
     id: N99200020
-    name: 范家菱
+    name: Lainey
     password: jia
     rating: ~
   - Chinese: 朱秀卿
     id: N99200021
-    name: 朱秀卿
+    name: Cherry
     password: xiu
     rating: ~
   - Chinese: 張菀芩
@@ -131,27 +131,27 @@ member:
     rating: ~
   - Chinese: 吳千合
     id: N99200024
-    name: 吳千合
+    name: Debby
     password: qian
     rating: ~
   - Chinese: 李昊軒
     id: N99200025
-    name: 李昊軒
+    name: Lee
     password: hao
     rating: ~
   - Chinese: 蕭惠文
     id: N99200027
-    name: 蕭惠文
+    name: Winnie
     password: hui
     rating: ~
   - Chinese: 陳筱靖
     id: N99200028
-    name: 陳筱靖
+    name: Vivian
     password: xiao
     rating: ~
   - Chinese: 廖幸嬋
     id: N99200030
-    name: 廖幸嬋
+    name: Cindy
     password: xing
     rating: ~
   - Chinese: 傅瑄佑
@@ -161,22 +161,22 @@ member:
     rating: ~
   - Chinese: 魏紫庭
     id: N99200033
-    name: 魏紫庭
+    name: Tina
     password: zi
     rating: ~
   - Chinese: 葉盈秀
     id: N99200035
-    name: 葉盈秀
+    name: Hulie
     password: ying
     rating: ~
   - Chinese: 吳雅雯
     id: N99200036
-    name: 吳雅雯
+    name: Vickey
     password: ya
     rating: ~
   - Chinese: 邱致善
     id: N99200039
-    name: 邱致善
+    name: Andy
     password: zhi
     rating: ~
   - Chinese: 林健瑋
@@ -186,22 +186,22 @@ member:
     rating: ~
   - Chinese: 洪瑞霙
     id: N99200045
-    name: 洪瑞霙
+    name: Joelle
     password: rui
     rating: ~
   - Chinese: 蔣佩君
     id: N99200047
-    name: 蔣佩君
+    name: Peggy
     password: pei
     rating: ~
   - Chinese: 王偉珍
     id: N99200050
-    name: 王偉珍
+    name: Olivia
     password: wei
     rating: ~
   - Chinese: 林秀齡
     id: N99200051
-    name: 林秀齡
+    name: Alisa
     password: xiu
     rating: ~
 out:
