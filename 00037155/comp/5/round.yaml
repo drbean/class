@@ -1,0 +1,64 @@
+---
+activity:
+  cohabitation:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+  refugees:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+  weight:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+assistant:
+  Black:
+    97550033: 5
+bye: 97550033
+dispensation:
+divisions:
+  - free
+group:
+  0:
+    White: 97550004
+    Black: 97550023
+  1:
+    White: 97550003
+    Black: 97550011
+  2:
+    White: 97550021
+    Black: 97550002
+  3:
+    White: 97550028
+    Black: 97550009
+  4:
+    White: 97550008
+    Black: 97550031
+  5:
+    White: 97550027
+    Black: 97550017
+  6:
+    White: 97550001
+    Black: 97550018
+late:
+pairing: swiss
+payprotocol: meritPay 7
+round: 3
+text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
+week: 13

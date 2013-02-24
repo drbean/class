@@ -1,0 +1,33 @@
+---
+Chinese:
+  Black: 0
+  Blue: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
+letters:
+  Black:
+    97550027: 9
+    97550033: 9
+    97550017: 9
+    story: dress0
+  Blue:
+    97550021: 8
+    97550028: 8
+    97550023: 7
+    story: dress0
+  Orange:
+    97550001: 8
+    97550004: 6
+    97550008: 6
+    story: match0
+  Pink:
+    97550009: 9
+    97550031: 9
+    97550003: 9
+    story: dress0
+  Purple:
+    97550002: 8
+    97550018: 8
+    97550011: 8
+    story: match0

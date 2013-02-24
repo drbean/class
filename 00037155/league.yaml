@@ -1,0 +1,108 @@
+---
+anterior: 002GL00034
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 進階英語聽力(一)
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 1011\_\_0034522
+jigsaw: exam
+league: 應用外語科-五專日間部-5年-01班
+member:
+  - Chinese: 陳慈憶
+    id: 97550001
+    name: Eva
+    password: ci
+    rating: ~
+  - Chinese: 吳家綺
+    id: 97550002
+    name: Doris
+    password: jia
+    rating: ~
+  - Chinese: 林志哲
+    id: 97550003
+    name: Miru
+    password: zhi
+    rating: ~
+  - Chinese: 孫葶芬
+    id: 97550004
+    name: Cindy
+    password: ting
+    rating: ~
+  - Chinese: 卓揚智
+    id: 97550033
+    name: Jay
+    password: yang
+    rating: ~
+  - Chinese: 朱念庭
+    id: 97550008
+    name: Mandy
+    password: nian
+    rating: ~
+  - Chinese: 江可茵
+    id: 97550009
+    name: Jennifer
+    password: ke
+    rating: ~
+  - Chinese: 邱馨儀
+    id: 97550011
+    name: Anita
+    password: xin
+    rating: ~
+  - Chinese: 黃君媛
+    id: 97550017
+    name: Jill
+    password: jun
+    rating: ~
+  - Chinese: 謝惠婷
+    id: 97550018
+    name: Mil
+    password: hui
+    rating: ~
+  - Chinese: 劉佩榕
+    id: 97550021
+    name: Stella
+    password: pei
+    rating: ~
+  - Chinese: 賴語萱
+    id: 97550023
+    name: Yvonne
+    password: yu
+    rating: ~
+  - Chinese: 張笠
+    id: 97550027
+    name: Cheer
+    password: li
+    rating: ~
+  - Chinese: 江佳玲
+    id: 97550028
+    name: Lin
+    password: jia
+    rating: ~
+  - Chinese: 陳怡菁
+    id: 97550031
+    name: Sally
+    password: yi
+    rating: ~
+out: ~
+room: jente
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+series:
+  - first
+  - second
+  - third
+  - fourth
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40

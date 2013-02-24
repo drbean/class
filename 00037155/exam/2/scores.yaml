@@ -1,0 +1,33 @@
+---
+Chinese:
+  Black: 0
+  Blue: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
+letters:
+  Black:
+    97550033: 9
+    97550021: 10
+    97550008: 9
+    story: rumor0
+  Blue:
+    97550001: 8
+    97550003: 8
+    97550002: 8
+    story: rumor0
+  Orange:
+    97550027: 9
+    97550009: 9
+    97550004: 9
+    story: rumor0
+  Pink:
+    97550031: 6
+    97550018: 6
+    97550023: 6
+    story: control0
+  Purple:
+    97550028: 5
+    97550017: 5
+    97550011: 6
+    story: control0

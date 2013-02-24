@@ -1,0 +1,63 @@
+---
+activity:
+  match:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+  dress:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+  execution:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+bye: 97550027
+assistant:
+  Black:
+    97550027: 5
+divisions:
+  - free
+group:
+  0:
+    White: 97550023
+    Black: 97550011
+  1:
+    White: 97550002
+    Black: 97550033
+  2:
+    White: 97550021
+    Black: 97550003
+  3:
+    White: 97550009
+    Black: 97550008
+  4:
+    White: 97550001
+    Black: 97550004
+  5:
+    White: 97550028
+    Black: 97550018
+  6:
+    White: 97550031
+    Black: 97550017
+late:
+pairing: swiss adjusted
+payprotocol: meritPay 7
+round: 7
+text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
+week: 17

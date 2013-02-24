@@ -1,0 +1,33 @@
+---
+Chinese:
+  Black: 0
+  Blue: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
+letters:
+  Black:
+    97550017: 5
+    97550018: 5
+    97550001: 5
+    story: traffic1
+  Blue:
+    97550004: 3
+    97550023: 6
+    97550003: 5
+    story: 1st_impressions0
+  Orange:
+    97550031: 8
+    97550033: 8
+    97550011: 8
+    story: marriage0
+  Pink:
+    97550021: 8
+    97550009: 7
+    97550002: 8
+    story: language0
+  Purple:
+    97550027: 6
+    97550008: 6
+    97550028: 7
+    story: traffic1

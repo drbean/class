@@ -1,0 +1,27 @@
+97550001: Eva		Black	Blue	Pink
+97550004: Cindy		Blue	Orange	Black
+97550008: Mandy		Purple	Black	Blue
+
+97550002: Doris		Pink	Blue	Black
+97550011: Anita		Orange	Purple	Pink
+97550018: Mil		Black	Pink	Orange
+
+97550003: Miru		Blue	Blue	Orange
+97550009: Jenife	Pink	Orange	Pink
+97550031: Sally		Orange	Pink	Purple
+
+---
+	Session		1	2	3
+97550021: Stela		Pink	Black	Purple
+97550028: Lin		Purple	Purple	Orange
+97550023: Yvone		Blue	Pink	Blue
+
+97550017: Jill		Black	Purple	Blue
+97550027: Cheer		Purple	Orange	Purple
+97550033: Jay		Orange	Black	Black
+
+Orange: Eva Cindy Mandy
+Purple Doris Anita Mil
+Pink: Miru Jennifer Sally
+Blue: Stella Yvonne Lin
+Black: Jill Cheer Jay
