@@ -1,0 +1,67 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: match
+grade:
+  97550001: 2
+  97550002: 2
+  97550003: 2
+  97550004: 2
+  97550008: 2
+  97550009: 0
+  97550011: 2
+  97550017: 2
+  97550018: 0
+  97550021: 2
+  97550023: 0
+  97550027: 2
+  97550028: 2
+  97550031: 2
+  97550033: 0
+points:
+  97550001:
+    letters: 250
+    percent: 100
+  97550002:
+    letters: 231
+    percent: 100
+  97550003:
+    letters: 240
+    percent: 100
+  97550004:
+    letters: 252
+    percent: 99
+  97550008:
+    letters: 256
+    percent: 100
+  97550009:
+    letters: 0
+    percent: 0
+  97550011:
+    letters: 251
+    percent: 100
+  97550017:
+    letters: 228
+    percent: 97
+  97550018:
+    letters: 0
+    percent: 0
+  97550021:
+    letters: 242
+    percent: 100
+  97550023:
+    letters: 0
+    percent: 0
+  97550027:
+    letters: 248
+    percent: 100
+  97550028:
+    letters: 234
+    percent: 100
+  97550031:
+    letters: 226
+    percent: 100
+  97550033:
+    letters: 0
+    percent: 0

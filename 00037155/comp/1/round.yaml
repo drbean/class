@@ -1,0 +1,72 @@
+---
+activity:
+  1st_impressions:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  traffic:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  language:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  marriage:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+assistant:
+bye: 97550023
+dispensation: ~
+divisions:
+  - free
+group:
+  1:
+    White: 97550009
+    Black: 97550021
+  2:
+    White: 97550031
+    Black: 97550033
+  3:
+    White: 97550001
+    Black: 97550003
+  4:
+    White: 97550018
+    Black: 97550002
+  5:
+    White: 97550004
+    Black: 97550008
+  6:
+    White: 97550028
+    Black: 97550027
+  7:
+    White: 97550011
+    Black: 97550017
+late:
+  - ~
+pairing: swiss
+payprotocol: meritPay
+round: 1
+text: /home/drbean/class/curriculum/speaking/impact/dic.yaml
+week: 5

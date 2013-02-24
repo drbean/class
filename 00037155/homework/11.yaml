@@ -1,0 +1,67 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: weight
+grade:
+  97550001: 0
+  97550002: 2
+  97550003: 2
+  97550004: 2
+  97550008: 2
+  97550009: 2
+  97550011: 1
+  97550017: 2
+  97550018: 0
+  97550021: 2
+  97550023: 2
+  97550027: 0
+  97550028: 1
+  97550031: 2
+  97550033: 2
+points:
+  97550001:
+    letters: 0
+    percent: 0
+  97550002:
+    letters: 212
+    percent: 100
+  97550003:
+    letters: 252
+    percent: 100
+  97550004:
+    letters: 216
+    percent: 88
+  97550008:
+    letters: 218
+    percent: 100
+  97550009:
+    letters: 244
+    percent: 99
+  97550011:
+    letters: 92
+    percent: 41
+  97550017:
+    letters: 195
+    percent: 90
+  97550018:
+    letters: 0
+    percent: 0
+  97550021:
+    letters: 225
+    percent: 96
+  97550023:
+    letters: 240
+    percent: 100
+  97550027:
+    letters: 0
+    percent: 0
+  97550028:
+    letters: 180
+    percent: 70
+  97550031:
+    letters: 270
+    percent: 100
+  97550033:
+    letters: 200
+    percent: 87
