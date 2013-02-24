@@ -1,12 +1,12 @@
 ---
 Black:
   - Stanley
-  - Debbie
   - 李葦唯
+  - Debbie
 BlackBlack:
-  - Cathy
   - X
   - Katty
+  - Cathy
 Blue:
   - Amy
   - Frances
@@ -17,28 +17,28 @@ BlueBlue:
   - Lisa
 White:
   - 陳柏諺
-  - Sue
   - 林岱緯
+  - Sue
 BrownBrown:
   - Kitty
   - 謝家恩
   - Jessica
 Green:
   - Bass
-  - Abby
   - 王律予
+  - Abby
 Orange:
   - 黃彥華
-  - Joy
   - 沈冠宇
+  - Joy
 Yellow:
-  - Yorick
   - 李緯閎
   - 范宇仙
+  - Yorick
 Pink:
   - Dennis
-  - Wei-Yi
   - 陳泊儒
+  - Wei-Yi
 Purple:
   - Carina
   - Joan
@@ -48,8 +48,10 @@ Red:
   - 郭勝峯
   - Rachel
 Brown:
+  - ~
   - 曾孟博
   - Hank
 OrangeOrange:
+  - ~
   - 邱政標
   - Julie
