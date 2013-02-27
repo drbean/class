@@ -20,12 +20,6 @@ member:
     id: T9833026
     rating: ~
   
-  - Chinese: 吳昌哲
-    name: Owen
-    password: chang
-    id: U0033042
-    rating: ~
-  
   - Chinese: 王志暄
     id: T9833038
     name: Jack
@@ -190,6 +184,11 @@ member:
     id: U0033040
     name: Alisa
     password: rou
+    rating: ~
+  - Chinese: 吳昌哲
+    name: Owen
+    password: chang
+    id: U0033042
     rating: ~
   - Chinese: 施勗彥
     id: U0033133
