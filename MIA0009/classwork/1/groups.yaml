@@ -1,56 +1,56 @@
 ---
 Black:
-  - Ivy
-  - Jenny
-  - Eva
-BlackBlack:
   - Pig
+  - Jenny
   - White
-  - Owen
+BlackBlack:
+  - Ivy
+  - Christine
+  - Eva
 Blue:
   - Josh
-  - An
+  - Yun
   - Lynette
 Brown:
   - Gill
-  - Yun
+  - Amy
   - Kyle
 Gray:
   - Shanny
-  - Kevin
-  - Harry
+  - Peter
+  - Owen
 Green:
   - Sean
-  - Peter
-  - Michelle
+  - Tony
+  - Harry
 GreenGreen:
   - Kammy
-  - Christine
-  - Gary
+  - Jim
+  - Kevin
 Orange:
   - Jimmy
-  - Jim
-  - Alice
+  - Jack
+  - Michelle
 OrangeOrange:
-  - Banana
-  - Eric
-Pink:
-  - Roy
-  - Amy
-  - Tina
-Purple:
   - Bess
+  - Roy
+Pink:
+  - Eric
   - Joyce
-  - Ling
+  - Gary
+Purple:
+  - Banana
+  - Alisa
+  - Alice
 Red:
   - Joe
-  - Tony
-  - Sweet
+  - Jessie
+  - Tina
 White:
   - Andy
-  - Jessie
   - John
+  - Ling
 Yellow:
   - Stacy
-  - Jack
-  - Alisa
+  - An
+  - Sweet
