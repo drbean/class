@@ -15,6 +15,12 @@ id: 012BMA0041
 jigsaw: exam
 league: 日經管大學二甲
 member:
+  - Chinese: 彭大維
+    name: David
+    password: da
+    id: U9931152
+    rating: ~
+  
   - Chinese: 方書翌
     id: U0031101
     name: Fang
@@ -89,11 +95,6 @@ member:
     id: U0031115
     name: Christina
     password: jian
-    rating: ~
-  - Chinese: 翁琳賀
-    id: U0031116
-    name: Lin-ho
-    password: lin
     rating: ~
   - Chinese: 劉晉嘉
     id: U0031117
@@ -233,7 +234,7 @@ member:
   - Chinese: 曾佳柔
     id: U0031150
     name: Joyce
-    password: ~
+    password: jia
     rating: ~
   - Chinese: 馮敏儀
     id: U0031205
@@ -241,6 +242,11 @@ member:
     password: min
     rating: ~
 out:
+  - Chinese: 翁琳賀
+    id: U0031116
+    name: Lin-ho
+    password: lin
+    rating: ~
 room: A706
 scores:
   bye: 5
