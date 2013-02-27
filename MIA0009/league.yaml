@@ -1,6 +1,6 @@
 ---
 active: ''
-anterior: 002MIA0013
+anterior:  011MIA0014
 approach: GroupworkNoFault
 classMax: 3
 compcomp: comp
@@ -10,21 +10,10 @@ field: 商用英文實務(一)
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 011MIA0014
+id: 012MIA0009
 jigsaw: exam
 league: 日資管大學二甲
 member:
-  - Chinese: 王證傑
-    name: Harry
-    password: zheng
-    id: T9833026
-    rating: ~
-  
-  - Chinese: 王志暄
-    id: T9833038
-    name: Jack
-    password: zhi
-    rating: ~
   - Chinese: 郭永貴
     id: U0014139
     name: Josh
@@ -220,12 +209,13 @@ member:
     name: Jimmy
     password: qi
     rating: ~
-out:
-  - Chinese: 陳怡瑄
-    id: U0033027
-    name: 陳怡瑄
-    password: yi
+  - Chinese: 葛妮
+    id: U9833051
+    name: 葛妮
+    password: ni
     rating: ~
+  
+out:
 room: A706
 scores:
   bye: 5
