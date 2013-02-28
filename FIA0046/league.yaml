@@ -1,17 +1,17 @@
 ---
 absent: ~
 active: ~
-anterior: 002FIA0034
+anterior: 011FIA0033
 approach: GroupworkNoFault
 classMax: 3
 compcomp: comp
 examMax: 5
 exams: exam
-field: 商用英文實務(一)
+field: 商用英文實務(二)
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 011FIA0033
+id: 012FIA0046
 jigsaw: exam
 league: 日財金大學二甲
 member:
