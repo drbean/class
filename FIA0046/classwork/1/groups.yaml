@@ -36,6 +36,7 @@ Orange:
   - Chris
   - Liz
 OrangeOrange:
+  - ~
   - Teddy
   - James
 Pink:
@@ -63,5 +64,6 @@ Yellow:
   - Sen
   - Jessy
 YellowYellow:
+  - ~
   - Leo2
   - Cathy2
