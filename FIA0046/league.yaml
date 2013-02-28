@@ -15,10 +15,10 @@ id: 011FIA0033
 jigsaw: exam
 league: 日財金大學二甲
 member:
-  - Chinese: 周孝峰
-    name: Sam
-    password: xiao
-    id: U9934026
+  - Chinese: 謝佳昀
+    id: T9831030
+    name: 謝佳昀
+    password: jia
     rating: ~
   
   - Chinese: 施凱清
@@ -251,33 +251,17 @@ member:
     name: Bob
     password: jin
     rating: ~
+  - Chinese: 余玟霈
+    id: U9733015
+    name: 余玟霈
+    password: wen
+    rating: ~
   - Chinese: 洪暉堯
     id: U9834018
     name: Hugh
     password: hui
     rating: ~
-  - Chinese: 胡珮津
-    id: U9933033
-    name: Linda2
-    password: pei
-    rating: ~
-  - Chinese: 陳欣愉
-    id: U9934004
-    name: Sherry
-    password: xin
-    rating: ~
 out:
-  - Chinese: 鄭英杰
-    name: Jack
-    password: ying
-    id: U9816059
-    rating: ~
-  - Chinese: 蘇家緯
-    name: Derrick
-    password: jia
-    id: U9816062
-    rating: ~
-  
 room: A706
 scores:
   bye: 5
