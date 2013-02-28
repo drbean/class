@@ -1,6 +1,4 @@
 ---
-Absent:
-  - Lin-ho
 Black:
   - Willie
   - Susan
@@ -37,9 +35,6 @@ Orange:
   - Bebe
   - Jenny
   - Annie
-OrangeOrange:
-  - Chelsea
-  - Jill
 Pink:
   - Joyce
   - Cathy
@@ -63,3 +58,9 @@ YellowYellow:
   - Jungle
   - Fang
   - Skylla
+OrangeOrange:
+  - Chelsea
+  - Jill
+PurplePurple:
+  - Chelsea
+  - Jill
