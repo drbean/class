@@ -14,6 +14,11 @@ id: AFN231
 jigsaw: exam
 league: NAF031四技外三甲
 member:
+  - Chinese: 姜欣妤
+    id: N98070018
+    name: 姜欣妤
+    password: xin
+    rating: ~
   - Chinese: 方家蓁
     id: N01080069
     name: 方家蓁
@@ -31,11 +36,6 @@ member:
     rating: ~
   
   
-  - Chinese: 徐怡君
-    id: N00122101
-    name: Vyan
-    password: yi
-    rating: ~
   - Chinese: 賴玟靜
     id: N00202003
     name: Zona
@@ -50,16 +50,6 @@ member:
     id: N00202103
     name: Betty
     password: jia
-    rating: ~
-  - Chinese: 吳紫彤
-    id: N01203003
-    name: 吳紫彤
-    password: zi
-    rating: ~
-  - Chinese: 黃宛梓
-    id: N99080086
-    name: 黃宛梓
-    password: wan
     rating: ~
   - Chinese: 莊涵
     id: N99200002
@@ -222,6 +212,21 @@ member:
     password: xiu
     rating: ~
 out:
+  - Chinese: 黃宛梓
+    id: N99080086
+    name: 黃宛梓
+    password: wan
+    rating: ~
+  - Chinese: 吳紫彤
+    id: N01203003
+    name: 吳紫彤
+    password: zi
+    rating: ~
+  - Chinese: 徐怡君
+    id: N00122101
+    name: Vyan
+    password: yi
+    rating: ~
 room: feng_220
 scores:
   bye: 5
