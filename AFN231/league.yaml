@@ -19,14 +19,9 @@ member:
     name: 姜欣妤
     password: xin
     rating: ~
-  - Chinese: 方家蓁
-    id: N01080069
-    name: 方家蓁
-    password: jia
-    rating: ~
   - Chinese: 王淇
     id: N97080093
-    name: 王淇
+    name: Ariel
     password: qi
     rating: ~
   - Chinese: 彭嘉惠
@@ -40,11 +35,6 @@ member:
     id: N00202003
     name: Zona
     password: min
-    rating: ~
-  - Chinese: 李玉香
-    id: N00202101
-    name: 李玉香
-    password: yu
     rating: ~
   - Chinese: 張嘉晏
     id: N00202103
@@ -212,6 +202,16 @@ member:
     password: xiu
     rating: ~
 out:
+  - Chinese: 李玉香
+    id: N00202101
+    name: 李玉香
+    password: yu
+    rating: ~
+  - Chinese: 方家蓁
+    id: N01080069
+    name: 方家蓁
+    password: jia
+    rating: ~
   - Chinese: 黃宛梓
     id: N99080086
     name: 黃宛梓
