@@ -1,7 +1,7 @@
 ---
 Black:
   absent: 
-    - 傅瑄佑
+    - Nitro
   merits: 3
 Blue:
   absent: 
@@ -9,7 +9,7 @@ Blue:
 
 Brown:
   absent: 
-    - 葉美慧
+    - Cherry2
   merits: 3
 BlueBlue:
   absent:
@@ -20,7 +20,7 @@ Green:
   merits: 3
 BlackBlack:
   absent: 
-    - 陳信宏
+    - Louis
   merits: 3
 
 Orange:
@@ -29,26 +29,22 @@ Orange:
   merits: 3
 Pink:
   absent: 
-    - 李玉香
+    - Ariel
   merits: 3
 
 Purple:
   absent: 
-    - 黃宛梓
   merits: 3
 Red:
   absent: 
   merits: 3
 
-White:
-  absent: 
-    - 吳紫彤
-  merits: 3
 Yellow:
   absent: 
   merits: 3
 
 OrangeOrange:
   absent: 
-    - 張菀芩
+    - Eve
+    - Sonia
   merits: 3
