@@ -79,7 +79,7 @@ member:
     rating: ~
   - Chinese: 葉美慧
     id: N99200010
-    name: 葉美慧
+    name: Cherry2
     password: mei
     rating: ~
   - Chinese: 王肅雅
@@ -119,17 +119,17 @@ member:
     rating: ~
   - Chinese: 朱秀卿
     id: N99200021
-    name: Cherry
+    name: Cherry1
     password: xiu
     rating: ~
   - Chinese: 張菀芩
     id: N99200022
-    name: 張菀芩
+    name: Eve
     password: wan
     rating: ~
   - Chinese: 陳信宏
     id: N99200023
-    name: 陳信宏
+    name: Louis
     password: xin
     rating: ~
   - Chinese: 吳千合
@@ -159,7 +159,7 @@ member:
     rating: ~
   - Chinese: 傅瑄佑
     id: N99200032
-    name: 傅瑄佑
+    name: Nitro
     password: xuan
     rating: ~
   - Chinese: 魏紫庭
