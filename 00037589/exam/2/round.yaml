@@ -1,0 +1,40 @@
+---
+round: Exam 2
+week: 8
+questions:
+  - 10
+pass: 5
+assistant:
+absent:
+text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
+activity:
+  rumor:
+    0:
+      - Black
+      - Blue
+      - Orange
+  control:
+    0:
+      - Pink
+      - Purple
+group:
+  Black:
+    - Jay
+    - Stella
+    - Mandy
+  Blue:
+    - Eva
+    - Miru
+    - Doris
+  Orange:
+    - Cheer
+    - Jennifer
+    - Cindy
+  Pink:
+    - Sally
+    - Mil
+    - Yvonne
+  Purple:
+    - Lin
+    - Jill
+    - Anita

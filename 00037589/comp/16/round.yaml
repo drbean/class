@@ -1,0 +1,51 @@
+---
+round: 16
+week: 16
+absent:
+bye: N9561766
+text: /home/drbean/class/conversation/disasters/cards.yaml
+activity:
+  conant:
+    0:
+      #0:
+      #  White: 9622240
+      #  Black: N9661747
+      #1:
+      #  White: U9722022
+      #  Black: N9561765
+      #2:
+      #  White: U9821142
+      #  Black: N9661723
+      #3:
+      #  White: U9633019
+      #  Black: T9822149
+      #4:
+      #  White: 9622212
+      #  Black: U9822019
+      #5:
+      #  White: U9633052
+      #  Black: U9822004
+      #6:
+      #  White: U9818007
+      #  Black: U9818046
+      -
+        White: 9622240
+        Black: N9661747
+      -
+        White: U9722022
+        Black: N9561765
+      -
+        White: U9821142
+        Black: N9661723
+      -
+        White: U9633019
+        Black: T9822149
+      -
+        White: 9622212
+        Black: U9822019
+      -
+        White: U9633052
+        Black: U9822004
+      -
+        White: U9818007
+        Black: U9818046

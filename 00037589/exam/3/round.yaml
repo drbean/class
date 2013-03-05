@@ -1,0 +1,42 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 10
+pass: 5
+assistant:
+absent:
+text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
+activity:
+  cohabitation:
+    0:
+      - Pink
+      - Purple
+  refugees:
+    0:
+      - Black
+      - Orange
+  weight:
+    0:
+      - Blue
+group:
+  Black:
+    - Jay
+    - Cindy
+    - Doris
+  Blue:
+    - Mandy
+    - Jill
+    - Yvonne
+  Orange:
+    - Lin
+    - Mil
+    - Miru
+  Pink:
+    - Anita
+    - Eva
+    - Jennifer
+  Purple:
+    - Sally
+    - Stella
+    - Cheer

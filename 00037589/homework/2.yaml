@@ -1,0 +1,67 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: traffic
+grade:
+  97550001: 0
+  97550002: 2
+  97550003: 2
+  97550004: 2
+  97550008: 2
+  97550009: 2
+  97550011: 2
+  97550017: 2
+  97550018: 2
+  97550021: 2
+  97550023: 2
+  97550027: 2
+  97550028: 1
+  97550031: 0
+  97550033: 2
+points:
+  97550001:
+    letters: 0
+    percent: 0
+  97550002:
+    letters: 326
+    percent: 100
+  97550003:
+    letters: 327
+    percent: 100
+  97550004:
+    letters: 308
+    percent: 98
+  97550008:
+    letters: 292
+    percent: 100
+  97550009:
+    letters: 336
+    percent: 100
+  97550011:
+    letters: 318
+    percent: 97
+  97550017:
+    letters: 306
+    percent: 100
+  97550018:
+    letters: 260
+    percent: 86
+  97550021:
+    letters: 289
+    percent: 100
+  97550023:
+    letters: 324
+    percent: 100
+  97550027:
+    letters: 275
+    percent: 85
+  97550028:
+    letters: 273
+    percent: 83
+  97550031:
+    letters: 0
+    percent: 0
+  97550033:
+    letters: 310
+    percent: 100

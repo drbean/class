@@ -1,0 +1,33 @@
+---
+Chinese:
+  Black: 0
+  Blue: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
+letters:
+  Black:
+    97550033: 8
+    97550004: 5
+    97550002: 5
+    story: refugees0
+  Blue:
+    97550008: 6
+    97550017: 6
+    97550023: 6
+    story: weight0
+  Orange:
+    97550028: 8
+    97550018: 8
+    97550003: 8
+    story: refugees0
+  Pink:
+    97550011: 10
+    97550001: 9
+    97550009: 9
+    story: cohabitation0
+  Purple:
+    97550031: 10
+    97550021: 10
+    97550027: 10
+    story: cohabitation0

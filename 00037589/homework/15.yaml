@@ -1,0 +1,67 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: dress
+grade:
+  97550001: 2
+  97550002: 2
+  97550003: 2
+  97550004: 2
+  97550008: 2
+  97550009: 2
+  97550011: 2
+  97550017: 2
+  97550018: 2
+  97550021: 2
+  97550023: 1
+  97550027: 2
+  97550028: 2
+  97550031: 2
+  97550033: 2
+points:
+  97550001:
+    letters: 178
+    percent: 100
+  97550002:
+    letters: 179
+    percent: 100
+  97550003:
+    letters: 182
+    percent: 100
+  97550004:
+    letters: 174
+    percent: 100
+  97550008:
+    letters: 192
+    percent: 100
+  97550009:
+    letters: 173
+    percent: 100
+  97550011:
+    letters: 172
+    percent: 100
+  97550017:
+    letters: 181
+    percent: 100
+  97550018:
+    letters: 159
+    percent: 98
+  97550021:
+    letters: 183
+    percent: 100
+  97550023:
+    letters: 149
+    percent: 83
+  97550027:
+    letters: 196
+    percent: 100
+  97550028:
+    letters: 183
+    percent: 100
+  97550031:
+    letters: 192
+    percent: 100
+  97550033:
+    letters: 200
+    percent: 100

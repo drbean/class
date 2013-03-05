@@ -1,0 +1,221 @@
+---
+free:
+  0:
+    true-love:
+      26-30:
+        97550023:
+          point:
+            1: Old
+        97550002:
+          point:
+            1: Returned
+            2: Unreturned
+      31-35:
+        97550023:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+            4: Returned
+        97550002:
+          point:
+            1: Returned
+            2: Returned
+            3: Fault
+      36-40:
+        97550023:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        97550002:
+          point:
+            1: Returned
+            2: Returned
+  1:
+    true-love:
+      26-30:
+        97550011:
+          point:
+            1: Unreturned
+            2: Returned
+            3: Returned
+            4: Returned
+            5: Returned
+        97550021:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+      31-35:
+        97550011:
+          point:
+            1: Returned
+        97550021:
+          point:
+            1: Returned
+            2: Returned
+      36-40:
+        97550011:
+          point:
+            1: Returned
+            2: Returned
+        97550021:
+          point:
+            1: Returned
+            2: Returned
+  2:
+    true-love:
+      26-30:
+        97550009:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        97550004:
+          point:
+            1: Returned
+            2: Returned
+            3: Fault
+      31-35:
+        97550009:
+          point:
+            1: Returned
+            2: Returned
+        97550004:
+          point:
+            1: Returned
+            2: Returned
+      36-40:
+        97550009:
+          point:
+            1: Old
+            2: Returned
+            3: Returned
+        97550004:
+          point:
+            1: Fault
+            2: Returned
+  3:
+    true-love:
+      26-30:
+        97550008:
+          point:
+            1: Returned
+            2: Returned
+        97550033:
+          point:
+            1: Returned
+            2: Returned
+      31-35:
+        97550008:
+          point:
+            1: Returned
+            2: Returned
+        97550033:
+          point:
+            1: Returned
+            2: Returned
+      36-40:
+        97550008:
+          point:
+            1: Returned
+        97550033:
+          point:
+            1: Nil
+  4:
+    true-love:
+      26-30:
+        97550031:
+          point:
+            1: Returned
+            2: Returned
+        97550001:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+      31-35:
+        97550031:
+          point:
+            1: Returned
+            2: Returned
+        97550001:
+          point:
+            1: Returned
+            2: Returned
+      36-40:
+        97550031:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        97550001:
+          point:
+            1: Returned
+            2: Returned
+  5:
+    true-love:
+      26-30:
+        97550018:
+          point:
+            1: Returned
+            2: Returned
+            3: Unreturned
+            4: Returned
+        97550027:
+          point:
+            1: Fault
+            2: Returned
+            3: Returned
+            4: Returned
+      31-35:
+        97550018:
+          point:
+            1: Old
+            2: Returned
+            3: Unreturned
+        97550027:
+          point:
+            1: Returned
+      36-40:
+        97550018:
+          point:
+            1: Returned
+            2: Fault
+            3: Returned
+        97550027:
+          point:
+            1: Returned
+            2: Returned
+  6:
+    true-love:
+      26-30:
+        97550017:
+          point:
+            1: Unreturned
+            2: Returned
+        97550028:
+          point:
+            1: Fault
+            2: Returned
+      31-35:
+        97550017:
+          point:
+            1: Returned
+            2: Fault
+        97550028:
+          point:
+            1: Returned
+            2: Returned
+      36-40:
+        97550017:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        97550028:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned

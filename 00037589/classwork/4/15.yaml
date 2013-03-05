@@ -1,0 +1,24 @@
+---
+# dress
+Black:
+  absent:
+    - Cheer
+  merits: 3
+Blue:
+  absent:
+    - Yvonne
+  merits: 2
+
+Orange:
+  absent:
+    - Cindy
+    - Mandy
+  merits: 3
+
+Pink:
+  absent:
+  merits: 3
+Purple:
+  absent:
+    - Anita
+  merits: 2

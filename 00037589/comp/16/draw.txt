@@ -1,0 +1,35 @@
+Draw
+
+   CAPTION:
+
+GL00013 Tournament Draw Table, Round 16
+
+White
+
+Black
+
+   Table ID Name Rating Score Result ID Name Rating Score
+   1 9622240 Ryan 81 [24] [1][(1)__-:-] N9661747 Kiki 80 [26]
+   2 U9722022 Mark 79 [25] [2][(1)__-:-] N9561765 Emily 75 [25]
+   3 U9821142 Ivory 87 [23] [3][(1)__-:-] N9661723 Jessica 86 [24]
+   4 U9633019 Kerwin 75 [20] [4][(1)__-:-] T9822149 Kenny 72 [24]
+   5 9622212 Ken 74 [20] [5][(1)__-:-] U9822019 Sarah 81 [22]
+   6 U9633052 Eva 83 [21] [6][(1)__-:-] U9822004 Kate 80 [20]
+   7 U9818007 Emma 62 [20] [7][(1)__-:-] U9818046 Lily 60 [20]
+   8 U9615010 Jerry 18 [13] [8][(1)__-:-] N9561766 Frank 73 [16]
+   9 T9822129 Kevin 41 0 [9][(1)__Bye]
+   W: Win, L: Loss, =: draw, F: Forfeit
+   [10]Record Round 16 results
+
+References
+
+   1. form field = popup menu
+   2. form field = popup menu
+   3. form field = popup menu
+   4. form field = popup menu
+   5. form field = popup menu
+   6. form field = popup menu
+   7. form field = popup menu
+   8. form field = popup menu
+   9. form field = popup menu
+  10. form field = submit button
