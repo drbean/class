@@ -1,0 +1,65 @@
+---
+activity:
+  true-love:
+    26-30:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+    31-35:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+    36-40:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+assistant:
+dispensation:
+divisions:
+  - free
+bye: 97550003
+group:
+  0:
+    White: 97550023
+    Black: 97550002
+  1:
+    White: 97550011
+    Black: 97550021
+  2:
+    White: 97550009
+    Black: 97550004
+  3:
+    White: 97550008
+    Black: 97550033
+  4:
+    White: 97550031
+    Black: 97550001
+  5:
+    White: 97550018
+    Black: 97550027
+  6:
+    White: 97550017
+    Black: 97550028
+  7:
+    White: 97550017
+    Black: 97550028
+pairing: swiss
+payprotocol: meritPay 7
+round: 6
+text: /home/drbean/class/intercultural/customs/cards.yaml
+week: 13

@@ -1,0 +1,35 @@
+Draw
+
+   CAPTION:
+
+GL00013 Tournament Draw Table, Round 8
+
+White
+
+Black
+
+   Table ID Name Rating Score Result ID Name Rating Score
+   1 U9821142 Ivory 556 [33] [1][(1)__-:-] N9561766 Frank 1477 [29]
+   2 U9822004 Kate 552 [30] [2][(1)__-:-] U9633052 Eva 1018 [30]
+   3 9622240 Ryan 892 [26] [3][(1)__-:-] N9661723 Jessica 1338 [28]
+   4 U9633019 Kerwin 975 [26] [4][(1)__-:-] U9822019 Sarah 529 [27]
+   5 T9822149 Kenny 990 [26] [5][(1)__-:-] U9818007 Emma 519 [27]
+   6 U9622089 Amy 897 [24] [6][(1)__-:-] 9622212 Ken 487 [26]
+   7 U9818046 Lily 515 [25] [7][(1)__-:-] N9661747 Kiki 1170 [23]
+   8 T9822129 Kevin 497 [20] [8][(1)__-:-] U9722022 Mark 523 [24]
+   9 N9561765 Emily 1151 22 [9][(1)__Bye]
+   W: Win, L: Loss, =: draw, F: Forfeit
+   [10]Record Round 8 results
+
+References
+
+   1. form field = popup menu
+   2. form field = popup menu
+   3. form field = popup menu
+   4. form field = popup menu
+   5. form field = popup menu
+   6. form field = popup menu
+   7. form field = popup menu
+   8. form field = popup menu
+   9. form field = popup menu
+  10. form field = submit button

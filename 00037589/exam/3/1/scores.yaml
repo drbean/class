@@ -1,0 +1,38 @@
+---
+Chinese:
+  Black: 0
+  Gray: 0
+  Green: 0
+  Pink: 0
+  Purple: 0
+letters:
+  Black:
+    N9561766: 8
+    N9661723: 6
+    T9822129: 8
+    U9821142: 9
+    story: roxborough2
+  Gray:
+    N9661723: 10
+    T9822149: 9
+    U9818007: 9
+    U9818046: 9
+    story: connell2
+  Green:
+    N9661747: 9
+    N9661723: 9
+    N9561766: 10
+    U9722022: 10
+    story: connell2
+  Pink:
+    N9561765: 9
+    U9633019: 9
+    U9822004: 8
+    U9622089: 4
+    story: connell2
+  Purple:
+    9622212: 1
+    U9633052: 8
+    U9822019: 7
+    9622240: 10
+    story: roxborough2

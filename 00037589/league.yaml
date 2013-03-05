@@ -1,0 +1,108 @@
+---
+anterior: 0034522
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field:  跨文化溝通
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 00037155
+jigsaw: exam
+league: 應用外語科-五專日間部-5年-01班
+member:
+  - Chinese: 陳慈憶
+    id: 97550001
+    name: Eva
+    password: ci
+    rating: 78
+  - Chinese: 吳家綺
+    id: 97550002
+    name: Doris
+    password: jia
+    rating: 90
+  - Chinese: 林志哲
+    id: 97550003
+    name: Miru
+    password: zhi
+    rating: 92
+  - Chinese: 孫葶芬
+    id: 97550004
+    name: Cindy
+    password: ting
+    rating: 84
+  - Chinese: 卓揚智
+    id: 97550033
+    name: Jay
+    password: yang
+    rating: 70
+  - Chinese: 朱念庭
+    id: 97550008
+    name: Mandy
+    password: nian
+    rating: 73
+  - Chinese: 江可茵
+    id: 97550009
+    name: Jennifer
+    password: ke
+    rating: 85
+  - Chinese: 邱馨儀
+    id: 97550011
+    name: Anita
+    password: xin
+    rating: 82
+  - Chinese: 黃君媛
+    id: 97550017
+    name: Jill
+    password: jun
+    rating: 87
+  - Chinese: 謝惠婷
+    id: 97550018
+    name: Mil
+    password: hui
+    rating: 80
+  - Chinese: 劉佩榕
+    id: 97550021
+    name: Stella
+    password: pei
+    rating: 84
+  - Chinese: 賴語萱
+    id: 97550023
+    name: Yvonne
+    password: yu
+    rating: 74
+  - Chinese: 張笠
+    id: 97550027
+    name: Cheer
+    password: li
+    rating: 76
+  - Chinese: 江佳玲
+    id: 97550028
+    name: Lin
+    password: jia
+    rating: 80
+  - Chinese: 陳怡菁
+    id: 97550031
+    name: Sally
+    password: yi
+    rating: 85
+out: ~
+room: jente
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+series:
+  - first
+  - second
+  - third
+  - fourth
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40

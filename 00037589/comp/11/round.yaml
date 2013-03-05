@@ -1,0 +1,29 @@
+---
+activity:
+  dickson:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+group:
+  1:
+    White: T9821018
+    Black: U9822150
+  2:
+    White: U9922143
+    Black: U9934025
+  3:
+    White: U9934003
+    Black: U9934002
+  4:
+    White: U9934051
+    Black: U9934021
+late:
+  - U9934002
+  - U9934051
+  - U9934021
+pairing: swiss adjusted
+round: 11
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 14

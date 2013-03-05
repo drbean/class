@@ -1,0 +1,44 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 10
+pass: 5
+assistant:
+absent:
+text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
+activity:
+  1st_impressions:
+    0:
+      - Blue
+  traffic:
+    1:
+      - Black
+      - Purple
+  language:
+    0:
+      - Pink
+  marriage:
+    0:
+      - Orange
+group:
+  Black:
+    - Jill
+    - Mil
+    - Eva
+  Blue:
+    - Cindy
+    - Yvonne
+    - Miru
+  Orange:
+    - Sally
+    - Jay
+    - Anita
+  Pink:
+    - Stella
+    - Jennifer
+    - Doris
+  Purple:
+    - Cheer
+    - Mandy
+    - Lin

@@ -1,0 +1,67 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: davist
+grade:
+  T9821041: 0
+  T9822043: 0
+  U9711114: 0
+  U9817051: 2
+  U9818019: 2
+  U9818039: 0
+  U9818048: 2
+  U9821130: 2
+  U9914051: 0
+  U9918041: 0
+  U9931043: 2
+  U9931123: 0
+  U9931134: 2
+  U9931148: 0
+  V9741064: 1
+points:
+  T9821041:
+    letters: 0
+    percent: 0
+  T9822043:
+    letters: 0
+    percent: 0
+  U9711114:
+    letters: 0
+    percent: 0
+  U9817051:
+    letters: 136
+    percent: 100
+  U9818019:
+    letters: 128
+    percent: 100
+  U9818039:
+    letters: 0
+    percent: 0
+  U9818048:
+    letters: 143
+    percent: 100
+  U9821130:
+    letters: 139
+    percent: 100
+  U9914051:
+    letters: 0
+    percent: 0
+  U9918041:
+    letters: 0
+    percent: 0
+  U9931043:
+    letters: 124
+    percent: 97
+  U9931123:
+    letters: 0
+    percent: 0
+  U9931134:
+    letters: 151
+    percent: 100
+  U9931148:
+    letters: 0
+    percent: 0
+  V9741064:
+    letters: 103
+    percent: 82
