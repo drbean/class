@@ -204,11 +204,6 @@ member:
     name: Joyce
     password: jia
     rating: ~
-  - Chinese: 陳祈文
-    id: U9933035
-    name: Jimmy
-    password: qi
-    rating: ~
   - Chinese: 葛妮
     id: U9833051
     name: 葛妮
@@ -216,6 +211,11 @@ member:
     rating: ~
   
 out:
+  - Chinese: 陳祈文
+    id: U9933035
+    name: Jimmy
+    password: qi
+    rating: ~
 room: A706
 scores:
   bye: 5
