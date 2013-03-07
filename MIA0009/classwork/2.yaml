@@ -1,49 +1,49 @@
 ---
-Orange:
+GreenGreen:
   absent: 
-  merits: 2
+  merits:    3
 Black:
   absent: 
-  merits: 3
+  merits:    3
 
 Blue:
   absent: 
-  merits: 2
+  merits:    3
 Brown:
   absent: 
-  merits: 3
+  merits:    3
 
 Gray:
   absent: 
-  merits: 3
+  merits:    2
 Green:
   absent: 
-  merits: 2
+  merits:    3
 
 BlackBlack:
   absent: 
-  merits: 2
-GreenGreen:
+  merits:    2
+Orange:
   absent: 
-  merits: 3
+  merits:    3
 
 Pink:
   absent: 
-  merits: 3
+  merits:    2
 Purple:
   absent:
-  merits: 2
+  merits:    2
 
 Red:
   absent: 
-  merits: 3
+  merits:    3
 White:
   absent: 
-  merits: 2
+  merits:    2
 
 Yellow:
   absent: 
-  merits: 2
+  merits:    2
 OrangeOrange:
   absent: 
-  merits: 3
+  merits:    3
