@@ -1,58 +1,54 @@
 ---
-Daniel:
+GreenGreen:
       absent: 
-        - Daniel
-        -  Jenny
-      merits: 0
-
+      merits: 3
 Black:
       absent: 
-        - Tony
+        - 李宗翰
       merits: 2
+
 Blue:
       absent: 
       merits: 3
 Brown:
       absent: 
       merits: 2
+
 Gray:
       absent: 
-      merits: 3
+      merits: 2
 Green:
       absent: 
-        -  WeiYu
       merits: 3
+
 BlackBlack:
       absent: 
       merits: 2
 BlueBlue:
       absent: 
-      merits: 2
-BrownBrown:
-      absent: 
       merits: 3
 
-Orange:
-      absent: 
-      merits: 3
 Pink:
       absent: 
-      merits: 2
+      merits: 3
 Purple:
       absent:
       merits: 2
+
 Red:
       absent: 
       merits: 3
 White:
       absent: 
       merits: 2
+
 Yellow:
       absent: 
-      merits: 3
-OrangeOrange:
-      absent: 
       merits: 2
-PinkPink:
+YellowYellow:
+      absent: 
+      merits: 3
+
+Orange:
       absent: 
       merits: 3
