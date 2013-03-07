@@ -1,0 +1,20 @@
+---
+# korea_times, twitter
+Black:
+  absent:
+  merits: 3
+Blue:
+  absent:
+  merits: 2.5
+Orange:
+  absent:
+    - Yvonne
+  merits: 3
+Pink:
+  absent:
+  tardy:
+    - Cheer
+  merits: 2.5
+Purple:
+  absent:
+  merits: 3
