@@ -1,0 +1,18 @@
+---
+# culture shock
+Black:
+  absent:
+  merits: 2.5
+Blue:
+  absent:
+  merits: 2.5
+Orange:
+  absent:
+    - Yvonne
+  merits: 2.5
+Pink:
+  absent:
+  merits: 3
+Purple:
+  absent:
+  merits: 2.5
