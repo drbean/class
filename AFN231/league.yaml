@@ -75,7 +75,7 @@ member:
   - Chinese: 陳雪慈
     id: N99200009
     name: Carol
-    password: xie
+    password: xue
     rating: ~
   - Chinese: 葉美慧
     id: N99200010
@@ -89,8 +89,8 @@ member:
     rating: ~
   - Chinese: 蔡宛晏
     id: N99200012
-    name: Genna
-    password: ding
+    name: Senna
+    password: wan
     rating: ~
   - Chinese: 程家筑
     id: N99200013
