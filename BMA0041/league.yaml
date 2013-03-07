@@ -15,8 +15,14 @@ id: 012BMA0041
 jigsaw: exam
 league: 日經管大學二甲
 member:
+  - Chinese: 馮鈺琛
+    id: U9743025
+    name: David2
+    password: yu
+    rating: ~
+  
   - Chinese: 彭大維
-    name: David
+    name: David1
     password: da
     id: U9931152
     rating: ~
