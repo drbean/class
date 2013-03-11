@@ -168,6 +168,7 @@ member:
     name: Sue
     password: wen
     rating: 0
+out:
   - Chinese: 范宇仙
     id: V9924009
     name: Lily
@@ -213,7 +214,6 @@ member:
     name: David2
     password: dai
     rating: 0
-out:
 room: A705
 weights:
   classwork: 40
