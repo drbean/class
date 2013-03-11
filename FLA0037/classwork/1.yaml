@@ -1,7 +1,7 @@
 ---
 Black:
   absent: 
-    - 李葦唯
+    - Stella
   merits: 2
 Blue:
   absent: 
@@ -9,7 +9,7 @@ Blue:
 
 Green:
   absent: 
-    - 王律予
+    - Cindy
   merits: 2
 BlackBlack:
   absent: 
@@ -18,14 +18,9 @@ BlackBlack:
 BlueBlue:
   absent: 
   merits: 3
-BrownBrown:
-  absent: 
-  merits: 2
 
 Orange:
   absent: 
-  tardy:
-    - Ken
   merits: 2
 Pink:
   absent: 
@@ -35,9 +30,6 @@ Pink:
 Purple:
   absent: 
   merits: 3
-Red:
-  absent:
-  merits: 2
 
 White:
   absent: 
@@ -49,6 +41,3 @@ Yellow:
 Brown:
   absent: 
   merits: 3
-OrangeOrange:
-  absent: 
-  merits: 2
