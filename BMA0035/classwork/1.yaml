@@ -55,3 +55,8 @@ Yellow:
 YellowYellow:
   absent: 
   merits: 3
+
+PurplePurple:
+  absent:
+    - Gaani
+    - Jenny

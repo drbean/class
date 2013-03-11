@@ -15,6 +15,16 @@ id: 012BMA0035
 jigsaw: exam
 league: 日經管大學二甲
 member:
+  - Chinese: 葛妮
+    id: U9833051
+    name: Gaanii
+    password: ni
+    rating: ~
+  - Chinese: 鐵木倫
+    id: U9831152
+    name: Jenny
+    password: mu
+    rating: ~
   - Chinese: 林冠丞
     id: T9831019
     name: Gary
