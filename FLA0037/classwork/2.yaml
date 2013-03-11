@@ -1,0 +1,42 @@
+---
+Green:
+  absent:    
+  merits:    ~
+Black:
+  absent: 
+  merits:    ~
+
+BlackBlack:
+  absent:    
+  merits:    ~
+BlueBlue:
+  absent:    
+    - Lisa
+    - Hank
+  merits:    ~
+
+White:
+  absent:    
+    - Jessica
+  merits:    ~
+Orange:
+  absent:    
+    - Julie
+  merits:    ~
+
+Pink:
+  absent:    
+    - 陳泊儒
+  merits:    ~
+Purple:
+  absent:    
+  merits:    ~
+
+Yellow:
+  absent:    
+    - Yorick
+    - Rachel
+  merits:    ~
+Blue:
+  absent:    
+  merits:    ~
