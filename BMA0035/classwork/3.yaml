@@ -1,0 +1,67 @@
+---
+Green:
+      absent: 
+      merits: ~
+Black:
+      absent: 
+      merits: ~
+
+GreenGreen:
+      absent: 
+        - Trista
+      tardy:
+        - Jimmy
+      merits: ~
+Blue:
+      absent: 
+      merits: ~
+Brown:
+      absent: 
+      tardy:
+        - Ian
+      merits: ~
+
+Gray:
+      absent: 
+        - Gary
+      merits: ~
+BrownBrown:
+      absent: 
+      merits: ~
+
+BlackBlack:
+      absent: 
+      merits: ~
+BlueBlue:
+      absent: 
+      merits: ~
+
+White:
+      absent: 
+      merits: ~
+Orange:
+      absent: 
+      merits: ~
+
+Pink:
+      absent: 
+      merits: ~
+Purple:
+      absent:
+        - Victor
+      merits: ~
+
+Red:
+      absent: 
+        - Celina
+      merits: ~
+PinkPink:
+      absent: 
+      merits: ~
+
+Yellow:
+      absent: 
+      merits: ~
+OrangeOrange:
+      absent: 
+      merits: ~
