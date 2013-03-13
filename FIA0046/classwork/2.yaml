@@ -50,6 +50,7 @@ OrangeOrange:
 
 PurplePurple:
   absent:    
+    - Brook
   merits:    2
 YellowYellow:
   absent:
