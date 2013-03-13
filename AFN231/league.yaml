@@ -20,11 +20,6 @@ member:
     password: qi
     rating: ~
   
-  - Chinese: 姜欣妤
-    id: N98070018
-    name: 姜欣妤
-    password: xin
-    rating: ~
   - Chinese: 王淇
     id: N97080093
     name: Ariel
@@ -208,6 +203,11 @@ member:
     password: xiu
     rating: ~
 out:
+  - Chinese: 姜欣妤
+    id: N98070018
+    name: 姜欣妤
+    password: xin
+    rating: ~
   - Chinese: 李玉香
     id: N00202101
     name: 李玉香
