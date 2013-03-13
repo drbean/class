@@ -46,10 +46,10 @@ White:
       merits: 3
 Yellow:
       absent: 
+        - David2
       merits: 2
 
 # assistants
 YellowYellow:
       absent: 
-        - David2
       merits: 3
