@@ -25,11 +25,6 @@ member:
     name: Ariel
     password: qi
     rating: ~
-  - Chinese: 彭嘉惠
-    id: N98200045
-    name: 彭嘉惠
-    password: jia
-    rating: ~
   
   
   - Chinese: 賴玟靜
@@ -203,6 +198,11 @@ member:
     password: xiu
     rating: ~
 out:
+  - Chinese: 彭嘉惠
+    id: N98200045
+    name: 彭嘉惠
+    password: jia
+    rating: ~
   - Chinese: 姜欣妤
     id: N98070018
     name: 姜欣妤
