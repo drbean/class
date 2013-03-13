@@ -1,11 +1,11 @@
 ---
 GreenGreen:
       absent: 
-      merits: 3
+      merits: 2
 Black:
       absent: 
         - Lydia
-      merits: 2
+      merits: 3
 
 Blue:
       absent: 
