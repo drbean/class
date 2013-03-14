@@ -1,67 +1,66 @@
 ---
-Green:
+PurplePurple:
       absent: 
-      merits: ~
+      merits: 3
 Black:
       absent: 
-      merits: ~
+        - 李宗翰
+      merits: 2
 
+Blue:
+      absent: 
+      merits: 2
 GreenGreen:
       absent: 
         - Trista
       tardy:
         - Jimmy
-      merits: ~
-Blue:
-      absent: 
-      merits: ~
+      merits: 3
+
 Brown:
       absent: 
       tardy:
         - Ian
-      merits: ~
-
+      merits: 2
 Gray:
       absent: 
         - Gary
-      merits: ~
-BrownBrown:
-      absent: 
-      merits: ~
+      merits: 3
 
+Green:
+      absent: 
+      merits: 2
 BlackBlack:
       absent: 
-      merits: ~
+      merits: 3
+
 BlueBlue:
       absent: 
-      merits: ~
-
-White:
+      merits: 3
+YellowYellow:
       absent: 
-      merits: ~
+      merits: 2
+
 Orange:
       absent: 
-      merits: ~
-
+      merits: 3
 Pink:
       absent: 
-      merits: ~
+      merits: 2
+
 Purple:
       absent:
         - Victor
-      merits: ~
-
+      merits: 2
 Red:
       absent: 
+      tardy:
         - Celina
-      merits: ~
-PinkPink:
-      absent: 
-      merits: ~
+      merits: 3
 
+White:
+      absent: 
+      merits: 2
 Yellow:
       absent: 
-      merits: ~
-OrangeOrange:
-      absent: 
-      merits: ~
+      merits: 3
