@@ -28,11 +28,6 @@ member:
     name: Dean
     password: guan
     rating: 0
-  - Chinese: 陳泊儒
-    id: V9716047
-    name: 陳泊儒
-    password: bo
-    rating: 0
   - Chinese: 白芳瑜
     id: V9741064
     name: Amy
@@ -42,11 +37,6 @@ member:
     id: V9741065
     name: Frances
     password: man
-    rating: 0
-  - Chinese: 謝家恩
-    id: V9811032
-    name: David1
-    password: jia
     rating: 0
   - Chinese: 夏芳婕
     id: V9841002
@@ -68,11 +58,6 @@ member:
     name: Leo
     password: jian
     rating: 0
-  - Chinese: 江培寬
-    id: V9841013
-    name: Dennis
-    password: pei
-    rating: 0
   - Chinese: 黃柏銘
     id: V9841020
     name: Stanley
@@ -93,11 +78,6 @@ member:
     name: Katty
     password: yi
     rating: 0
-  - Chinese: 朱莉鳳
-    id: V9841029
-    name: Lisa
-    password: li
-    rating: 0
   - Chinese: 戴維儀
     id: V9841030
     name: Wei-Yi
@@ -108,21 +88,6 @@ member:
     name: Bass
     password: yu
     rating: 0
-  - Chinese: 林心如
-    id: V9841034
-    name: Rachel
-    password: xin
-    rating: 0
-  - Chinese: 林筠臻
-    id: V9841036
-    name: Jessica
-    password: yun
-    rating: 0
-  - Chinese: 邱靜妤
-    id: V9841038
-    name: Julie
-    password: jing
-    rating: 0
   - Chinese: 張筱青
     id: V9841040
     name: Joy
@@ -132,11 +97,6 @@ member:
     id: V9841048
     name: Cathy
     password: yi
-    rating: 0
-  - Chinese: 駱佳帷
-    id: V9841049
-    name: Joan
-    password: jia
     rating: 0
   - Chinese: 鄭宇筑
     id: V9841050
@@ -163,12 +123,52 @@ member:
     name: Kitty
     password: yun
     rating: 0
+out:
+  - Chinese: 陳泊儒
+    id: V9716047
+    name: 陳泊儒
+    password: bo
+    rating: 0
+  - Chinese: 謝家恩
+    id: V9811032
+    name: David1
+    password: jia
+    rating: 0
+  - Chinese: 江培寬
+    id: V9841013
+    name: Dennis
+    password: pei
+    rating: 0
+  - Chinese: 朱莉鳳
+    id: V9841029
+    name: Lisa
+    password: li
+    rating: 0
+  - Chinese: 林心如
+    id: V9841034
+    name: Rachel
+    password: xin
+    rating: 0
+  - Chinese: 林筠臻
+    id: V9841036
+    name: Jessica
+    password: yun
+    rating: 0
+  - Chinese: 邱靜妤
+    id: V9841038
+    name: Julie
+    password: jing
+    rating: 0
+  - Chinese: 駱佳帷
+    id: V9841049
+    name: Joan
+    password: jia
+    rating: 0
   - Chinese: 蘇文彥
     id: V9841067
     name: Sue
     password: wen
     rating: 0
-out:
   - Chinese: 范宇仙
     id: V9924009
     name: Lily
