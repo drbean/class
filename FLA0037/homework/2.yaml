@@ -2,102 +2,130 @@
 cutpoints:
   one: 20
   two: 85
-exercise: 20120224
+exercise: hacking
 grade:
-  N9561732: 2
-  N9661712: 2
-  N9661752: 0
-  V0041028: 0
-  V9724004: 0
-  V9741010: 0
-  V9741016: 0
-  V9741018: 0
-  V9741023: 2
-  V9741025: 0
-  V9741028: 0
-  V9741029: 1
-  V9741030: 0
-  V9741032: 2
-  V9741034: 0
-  V9741036: 0
-  V9741041: 2
-  V9741043: 2
-  V9741047: 2
-  V9741053: 2
-  V9741057: 1
-  V9741059: 0
-  V9741060: 0
-  V9741066: 1
+  V0041039: 2
+  V0041053: 1
+  V0141013: 0
+  V9716047: 0
+  V9741064: 2
+  V9741065: 0
+  V9811032: 0
+  V9841002: 0
+  V9841006: 2
+  V9841010: 0
+  V9841011: 1
+  V9841013: 1
+  V9841020: 2
+  V9841022: 0
+  V9841027: 1
+  V9841028: 0
+  V9841029: 0
+  V9841030: 2
+  V9841031: 2
+  V9841034: 0
+  V9841036: 0
+  V9841038: 0
+  V9841040: 0
+  V9841048: 1
+  V9841049: 1
+  V9841050: 1
+  V9841051: 2
+  V9841053: 2
+  V9841054: 2
+  V9841058: 0
+  V9841067: 0
 points:
-  N9561732:
-    letters: 53
+  V0041039:
+    letters: 652
+    percent: 98
+  V0041053:
+    letters: 434
+    percent: 68
+  V0141013:
+    letters: 0
+    percent: 0
+  V9716047:
+    letters: 0
+    percent: 0
+  V9741064:
+    letters: 661
+    percent: 97
+  V9741065:
+    letters: 0
+    percent: 0
+  V9811032:
+    letters: 0
+    percent: 0
+  V9841002:
+    letters: 0
+    percent: 0
+  V9841006:
+    letters: 661
+    percent: 97
+  V9841010:
+    letters: 0
+    percent: 0
+  V9841011:
+    letters: 157
+    percent: 23
+  V9841013:
+    letters: 455
+    percent: 68
+  V9841020:
+    letters: 614
+    percent: 92
+  V9841022:
+    letters: 0
+    percent: 0
+  V9841027:
+    letters: 305
+    percent: 47
+  V9841028:
+    letters: 144
+    percent: 20
+  V9841029:
+    letters: 0
+    percent: 0
+  V9841030:
+    letters: 601
+    percent: 89
+  V9841031:
+    letters: 693
     percent: 100
-  N9661712:
-    letters: 48
-    percent: 94
-  N9661752:
+  V9841034:
     letters: 0
     percent: 0
-  V0041028:
+  V9841036:
     letters: 0
     percent: 0
-  V9724004:
+  V9841038:
     letters: 0
     percent: 0
-  V9741010:
-    letters: 1
-    percent: 2
-  V9741016:
+  V9841040:
     letters: 0
     percent: 0
-  V9741018:
-    letters: 0
-    percent: 0
-  V9741023:
-    letters: 45
+  V9841048:
+    letters: 514
+    percent: 75
+  V9841049:
+    letters: 575
+    percent: 80
+  V9841050:
+    letters: 340
+    percent: 51
+  V9841051:
+    letters: 688
     percent: 100
-  V9741025:
+  V9841053:
+    letters: 622
+    percent: 89
+  V9841054:
+    letters: 692
+    percent: 98
+  V9841058:
     letters: 0
     percent: 0
-  V9741028:
+  V9841067:
     letters: 0
     percent: 0
-  V9741029:
-    letters: 20
-    percent: 36
-  V9741030:
-    letters: 0
-    percent: 0
-  V9741032:
-    letters: 47
-    percent: 94
-  V9741034:
-    letters: 0
-    percent: 0
-  V9741036:
-    letters: 0
-    percent: 0
-  V9741041:
-    letters: 49
-    percent: 100
-  V9741043:
-    letters: 47
-    percent: 100
-  V9741047:
-    letters: 59
-    percent: 100
-  V9741053:
-    letters: 55
-    percent: 100
-  V9741057:
-    letters: 41
-    percent: 77
-  V9741059:
-    letters: 0
-    percent: 0
-  V9741060:
-    letters: 0
-    percent: 0
-  V9741066:
-    letters: 33
-    percent: 53
