@@ -204,13 +204,13 @@ member:
     name: Joyce
     password: jia
     rating: ~
+  
+out:
   - Chinese: 葛妮
     id: U9833051
     name: 葛妮
     password: ni
     rating: ~
-  
-out:
   - Chinese: 陳祈文
     id: U9933035
     name: Jimmy
