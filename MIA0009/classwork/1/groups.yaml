@@ -44,10 +44,12 @@ White:
   - Alisa
   - John
 Yellow:
+  - Jimmy
   - Jim
-  - Roy
-  - Bess
+  - Gary
 GreenGreen:
   - Stacy
   - White
-  - Gary
+OrangeOrange:
+  - Roy
+  - Bess
