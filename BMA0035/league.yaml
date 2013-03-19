@@ -245,12 +245,12 @@ member:
     name: Victor
     password: jun
     rating: ~
+out:
   - Chinese: 李宗翰
     id: U9931040
     name: 李宗翰
     password: zong
     rating: ~
-out:
 room: A706
 scores:
   bye: 5
