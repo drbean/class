@@ -1,111 +1,151 @@
 ---
 cutpoints:
   one: 20
-  two: 85
-exercise: language
+  two: 80
+exercise: disney-robin
 grade:
-  V9741022: 0
-  V9841002: 0
-  V9841008: 0
-  V9841031: 0
-  V9841042: 2
-  V9841049: 2
-  V9916050: 0
-  V9941003: 0
-  V9941007: 0
-  V9941011: 0
-  V9941013: 2
-  V9941015: 2
-  V9941023: 2
-  V9941026: 0
-  V9941029: 2
-  V9941032: 1
-  V9941036: 0
-  V9941040: 0
-  V9941045: 2
-  V9941047: 2
-  V9941050: 2
-  V9941059: 2
-  V9941062: 2
-  V9941068: 2
-  V9941071: 1
-  V9941075: 0
+  N00202003: 2
+  N00202103: 1
+  N96200019: 2
+  N97080093: 1
+  N99200002: 2
+  N99200004: 2
+  N99200005: 2
+  N99200007: 2
+  N99200008: 2
+  N99200009: 2
+  N99200010: 0
+  N99200011: 2
+  N99200012: 2
+  N99200013: 2
+  N99200014: 2
+  N99200016: 1
+  N99200019: 2
+  N99200020: 2
+  N99200021: 2
+  N99200022: 2
+  N99200023: 2
+  N99200024: 2
+  N99200025: 0
+  N99200027: 2
+  N99200028: 2
+  N99200030: 2
+  N99200032: 2
+  N99200033: 2
+  N99200035: 0
+  N99200036: 2
+  N99200039: 2
+  N99200041: 2
+  N99200045: 0
+  N99200047: 2
+  N99200050: 2
+  N99200051: 2
 points:
-  V9741022:
-    letters: 0
-    percent: 0
-  V9841002:
-    letters: 0
-    percent: 0
-  V9841008:
-    letters: 0
-    percent: 0
-  V9841031:
-    letters: 0
-    percent: 0
-  V9841042:
-    letters: 254
+  N00202003:
+    letters: 255
     percent: 100
-  V9841049:
-    letters: 246
-    percent: 97
-  V9916050:
-    letters: 0
-    percent: 0
-  V9941003:
-    letters: 0
-    percent: 0
-  V9941007:
-    letters: 0
-    percent: 0
-  V9941011:
-    letters: 0
-    percent: 0
-  V9941013:
-    letters: 249
+  N00202103:
+    letters: 174
+    percent: 63
+  N96200019:
+    letters: 294
     percent: 100
-  V9941015:
-    letters: 256
+  N97080093:
+    letters: 105
+    percent: 45
+  N99200002:
+    letters: 259
     percent: 100
-  V9941023:
+  N99200004:
     letters: 268
-    percent: 100
-  V9941026:
-    letters: 0
-    percent: 0
-  V9941029:
-    letters: 223
-    percent: 93
-  V9941032:
-    letters: 214
-    percent: 83
-  V9941036:
-    letters: 0
-    percent: 0
-  V9941040:
-    letters: 0
-    percent: 0
-  V9941045:
-    letters: 249
-    percent: 100
-  V9941047:
-    letters: 248
-    percent: 100
-  V9941050:
+    percent: 99
+  N99200005:
     letters: 251
     percent: 100
-  V9941059:
-    letters: 244
-    percent: 94
-  V9941062:
-    letters: 281
+  N99200007:
+    letters: 257
     percent: 100
-  V9941068:
-    letters: 245
+  N99200008:
+    letters: 259
     percent: 100
-  V9941071:
-    letters: 147
-    percent: 59
-  V9941075:
+  N99200009:
+    letters: 282
+    percent: 100
+  N99200010:
     letters: 0
     percent: 0
+  N99200011:
+    letters: 254
+    percent: 90
+  N99200012:
+    letters: 252
+    percent: 100
+  N99200013:
+    letters: 244
+    percent: 89
+  N99200014:
+    letters: 259
+    percent: 100
+  N99200016:
+    letters: 177
+    percent: 64
+  N99200019:
+    letters: 256
+    percent: 100
+  N99200020:
+    letters: 266
+    percent: 100
+  N99200021:
+    letters: 240
+    percent: 86
+  N99200022:
+    letters: 265
+    percent: 100
+  N99200023:
+    letters: 280
+    percent: 100
+  N99200024:
+    letters: 248
+    percent: 95
+  N99200025:
+    letters: 34
+    percent: 12
+  N99200027:
+    letters: 222
+    percent: 100
+  N99200028:
+    letters: 261
+    percent: 100
+  N99200030:
+    letters: 285
+    percent: 100
+  N99200032:
+    letters: 260
+    percent: 100
+  N99200033:
+    letters: 213
+    percent: 87
+  N99200035:
+    letters: 0
+    percent: 0
+  N99200036:
+    letters: 237
+    percent: 89
+  N99200039:
+    letters: 272
+    percent: 94
+  N99200041:
+    letters: 280
+    percent: 100
+  N99200045:
+    letters: 0
+    percent: 0
+  N99200047:
+    letters: 270
+    percent: 100
+  N99200050:
+    letters: 280
+    percent: 98
+  N99200051:
+    letters: 261
+    percent: 100
