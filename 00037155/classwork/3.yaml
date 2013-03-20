@@ -1,0 +1,18 @@
+---
+# hacking
+Black:
+  absent:
+  merits: 2.5
+Blue:
+  absent:
+  merits: 2.5
+Orange:
+  absent:
+  merits: 2
+Pink:
+  absent:
+  tardy:
+  merits: 3
+Purple:
+  absent:
+  merits: 3
