@@ -4,18 +4,16 @@ cutpoints:
   two: 80
 exercise: don-quixote
 grade:
-  N00202003: 0
+  N00202003: 2
   N00202103: 1
   N96200019: 2
   N97080093: 2
-  N98070018: 0
-  N98200045: 0
   N99200002: 2
   N99200004: 2
   N99200005: 2
   N99200007: 2
   N99200008: 2
-  N99200009: 1
+  N99200009: 2
   N99200010: 2
   N99200011: 2
   N99200012: 2
@@ -44,8 +42,8 @@ grade:
   N99200051: 2
 points:
   N00202003:
-    letters: 0
-    percent: 0
+    letters: 288
+    percent: 100
   N00202103:
     letters: 124
     percent: 45
@@ -55,18 +53,12 @@ points:
   N97080093:
     letters: 244
     percent: 100
-  N98070018:
-    letters: 0
-    percent: 0
-  N98200045:
-    letters: 0
-    percent: 0
   N99200002:
     letters: 247
     percent: 100
   N99200004:
-    letters: 241
-    percent: 84
+    letters: 265
+    percent: 93
   N99200005:
     letters: 262
     percent: 100
@@ -77,8 +69,8 @@ points:
     letters: 267
     percent: 100
   N99200009:
-    letters: 225
-    percent: 79
+    letters: 269
+    percent: 94
   N99200010:
     letters: 248
     percent: 83
@@ -116,8 +108,8 @@ points:
     letters: 216
     percent: 93
   N99200025:
-    letters: 0
-    percent: 0
+    letters: 49
+    percent: 19
   N99200027:
     letters: 310
     percent: 100
