@@ -2,100 +2,105 @@
 round: Exam 1
 week: 5
 questions:
-  - 2
-pass: 0
+  - 5
+pass: 1
 assistant:
-  - Alen
-  - Fang
+  - Winnie
+  - Cathy
+  - Caxton
+  - Lydia
 absent:
-  - Ciyun
-text: /home/drbean/class/business/careers/cards.yaml
+  - Alison
+text: /home/drbean/class/business/stress/cards.yaml
 activity:
-  tips:
+  adventure:
     8:
       - Gray
-      - Pink
-      - Yellow
+      - GreenGreen
+      - Purple
+      - Yellow1
     9:
+      - Green
+      - Pink
+      - Yellow2
+    10:
       - Blue
       - BlueBlue
-      - White
-      - YellowYellow
-    10:
       - Orange
-      - Purple
+      - Red1
+      - Red2
     11:
       - Black
-      - Brown
-      - Green
-    12:
       - BlackBlack
-      - Ciyun
-      - GreenGreen
-      - Red
+      - Brown
+      - White
+      - YellowYellow
 group:
-  Ciyun:
-    - Alen
-    - Willie
-    - Casper
-  
   Black:
-    - A-Mei
-    - Lydia
-    - Susan
-  BlackBlack:
-    - Alison
-    - Chelsea
-    - Wayne
-  Blue:
-    - Yi-Zhen
-    - Bebe
     - Mandy
-  BlueBlue:
-    - Polly
-    - Angela
-    - Ya-Lin
-  Brown:
-    - SuSu
-    - Yuda
-    - Lin-ho
-  Gray:
-    - Wade
+    - Lydia
     - Annie
-    - Christina
-  Green:
-    - Grace
-    - Maggie
-    - Jim
-  GreenGreen:
-    - Alen
-    - Fang
-    - Casper
-  Orange:
-    - Aling
-    - Skylla
-    - Apple
-  Pink:
-    - Cathy
-    - Max
-    - Jeffrey
-  Purple:
+  BlackBlack:
     - Sam
-    - Caxton
-    - Jungle
-  Red:
-    - Venus
     - Penny
     - Jason
-  White:
-    - Joanna
+  Blue:
+    - A-Mei
+    - Joyce
+    - Jim
+  BlueBlue:
+    - Venus
     - Jenny
     - Eric
-  Yellow:
-    - Joyce
+  Brown:
+    - Lydia
+    - Bebe
+    - Wayne
+  YellowYellow:
+    - Joanna
     - Cindy
     - Tiffany
-  YellowYellow:
+  Gray:
+    - Yi-Zhen
+    - Chelsea
+    - Polly
+  GreenGreen:
     - Bella
     - Jill
     - Winnie
+  Green:
+    - Ya-Lin
+    - Yuda
+    - David1
+  Orange:
+    - SuSu
+    - Angela
+    - Christina
+  Pink:
+    - Wade
+    - Maggie
+    - Susan
+  Purple:
+    - Grace
+    - Fang
+    - Casper
+  Red1:
+    - Winnie
+    - Skylla
+    - Apple
+  Red2:
+    - Alen
+    - Skylla
+    - Apple
+  White:
+    - Aling
+    - Max
+    - Jeffrey
+  Yellow1:
+    - Cathy
+    - Caxton
+    - Jungle
+  Yellow2:
+    - Cathy
+    - Caxton
+    - David2
