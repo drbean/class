@@ -2,105 +2,98 @@
 round: Exam 1
 week: 5
 questions:
-  - 2
-pass: 0
+  - 5
+pass: 1
 assistant:
-  - Judy
+  - Celina
+  - Soccer
 absent:
-  - Daniel
-  - Max
-  - Jenny
-text: /home/drbean/class/business/careers/cards.yaml
+  - Polly2
+text: /home/drbean/class/business/stress/cards.yaml
 activity:
-  tips:
+  adventure:
     8:
-      - White
-      - Gray
-      - Pink
-      - BlueBlue
-    9:
-      - BrownBrown
-      - Purple
-      - Yellow
-    10:
       - Black
+      - Gray
       - Red
-      - OrangeOrange
-    11:
-      - PinkPink
-      - Green
+      - YellowYellow
+    9:
       - Blue
-    12:
-      - BlackBlack
-      - Orange
+      - GreenGreen
+      - Purple
+      - PurplePurple
+    10:
       - Brown
-      # not examined
-      - Daniel
+      - Pink
+      - Yellow
+    11:
+      - BlackBlack
+      - BlueBlue
+      - Green
+      - Orange
+      - White
 group:
-  Black:
+  Yellow:
     - Hui
-    - Zoe
-    - Tony
+    - Helen
+    - John
   BlackBlack:
     - Amy
-    - Alien
+    - Zoe
     - Whitney
   Blue:
     - Emily
-    - Helen
+    - Judy
     - Polly1
   BlueBlue:
     - Rene
-    - Lily
+    - Alien
     - Jason
   Brown:
     - ShuJing
-    - Judy
+    - Ian
     - Natalie
-  BrownBrown:
+  YellowYellow:
     - Sophie
-    - Flora2
-    - Gina
+    - Lily
+    - Tony
   Gray:
     - Tiffany
-    - Ian
-    - Judy
+    - Gary
+    - Gina
   Green:
     - YiJie
     - Jophiel
-    - WeiYu
+    - Sandy
   Orange:
     - Soccer
     - Alice
-    - Sandy
-  OrangeOrange:
+    - Aslyn
+  GreenGreen:
     - Trista
     - Jimmy
-    - Aslyn
+    - Shion-Yu
   Pink:
     - Sherry
     - Jessie
-    - Shion-Yu
-  PinkPink:
-    - Stanley
-    - John
-    - David2
+    - Winnie
   Purple:
     - Alan
-    - Polly2
-    - Winnie
+    - Victor
+    - Sylvia
   Red:
     - Celina
     - Henry
-    - Sylvia
-  White:
-    - David1
-    - Victor
     - Anastasia
-  Yellow:
-    - Banana
-    - Flora1
+  White:
+    - David
+    - Celina
     - Shirley
-  Daniel:
-    - Daniel
+  Black:
+    - Banana
+    - Flora
+    - Flora
+  PurplePurple:
+    - Gaanii
     - Jenny
+    - Soccer
