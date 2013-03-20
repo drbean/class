@@ -1,22 +1,22 @@
 ---
 cutpoints:
   one: 20
-  two: 85
-exercise: marriage
+  two: 80
+exercise: illegals
 grade:
   97550001: 0
-  97550002: 2
+  97550002: 1
   97550003: 2
   97550004: 2
   97550008: 2
-  97550009: 2
-  97550011: 2
-  97550017: 2
-  97550018: 2
+  97550009: 0
+  97550011: 1
+  97550017: 0
+  97550018: 0
   97550021: 2
   97550023: 2
-  97550027: 1
-  97550028: 2
+  97550027: 0
+  97550028: 1
   97550031: 2
   97550033: 0
 points:
@@ -24,43 +24,43 @@ points:
     letters: 0
     percent: 0
   97550002:
-    letters: 262
-    percent: 100
+    letters: 224
+    percent: 76
   97550003:
-    letters: 242
+    letters: 308
     percent: 100
   97550004:
-    letters: 254
-    percent: 96
+    letters: 235
+    percent: 89
   97550008:
-    letters: 221
-    percent: 100
-  97550009:
-    letters: 224
-    percent: 98
-  97550011:
-    letters: 183
-    percent: 100
-  97550017:
     letters: 238
-    percent: 100
+    percent: 80
+  97550009:
+    letters: 0
+    percent: 0
+  97550011:
+    letters: 161
+    percent: 51
+  97550017:
+    letters: 0
+    percent: 0
   97550018:
-    letters: 226
-    percent: 95
+    letters: 0
+    percent: 0
   97550021:
-    letters: 237
+    letters: 262
     percent: 100
   97550023:
     letters: 252
-    percent: 100
+    percent: 84
   97550027:
-    letters: 68
-    percent: 31
+    letters: 0
+    percent: 0
   97550028:
-    letters: 252
-    percent: 100
+    letters: 233
+    percent: 79
   97550031:
-    letters: 206
+    letters: 266
     percent: 100
   97550033:
     letters: 0
