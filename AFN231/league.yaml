@@ -195,15 +195,10 @@ member:
     password: xiu
     rating: 80
 out:
-  - Chinese: 彭嘉惠
-    id: N98200045
-    name: 彭嘉惠
-    password: jia
-    rating: ~
-  - Chinese: 姜欣妤
-    id: N98070018
-    name: 姜欣妤
-    password: xin
+  - Chinese: 徐怡君
+    id: N00122101
+    name: Vyan
+    password: yi
     rating: ~
   - Chinese: 李玉香
     id: N00202101
@@ -215,20 +210,25 @@ out:
     name: 方家蓁
     password: jia
     rating: ~
-  - Chinese: 黃宛梓
-    id: N99080086
-    name: 黃宛梓
-    password: wan
-    rating: ~
   - Chinese: 吳紫彤
     id: N01203003
     name: 吳紫彤
     password: zi
     rating: ~
-  - Chinese: 徐怡君
-    id: N00122101
-    name: Vyan
-    password: yi
+  - Chinese: 姜欣妤
+    id: N98070018
+    name: 姜欣妤
+    password: xin
+    rating: ~
+  - Chinese: 彭嘉惠
+    id: N98200045
+    name: 彭嘉惠
+    password: jia
+    rating: ~
+  - Chinese: 黃宛梓
+    id: N99080086
+    name: 黃宛梓
+    password: wan
     rating: ~
 room: feng_220
 scores:
