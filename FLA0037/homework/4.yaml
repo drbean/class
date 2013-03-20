@@ -1,47 +1,95 @@
 ---
-exercise: Interview: Presentation with slides
+cutpoints:
+  one: 20
+  two: 80
+exercise: illegals
 grade:
-  N9461738: 2
-  N9532037: 3
-  N9561715: 3
-  N9561721: 3
-  N9561751: 3
-  N9561765: 3
-  N9661701: 3
-  N9661702: 3
-  N9661705: 2
-  N9661706: 2
-  N9661709: 0
-  N9661712: 3
-  N9661714: 3
-  N9661717: 3
-  N9661719: 3
-  N9661720: 3
-  N9661722: 3
-  N9661723: 3
-  N9661724: 3
-  N9661725: 2
-  N9661727: 3
-  N9661728: 3
-  N9661731: 3
-  N9661734: 3
-  N9661737: 3
-  N9661738: 0
-  N9661740: 3
-  N9661741: 3
-  N9661742: 3
-  N9661743: 3
-  N9661745: 3
-  N9661746: 0
-  N9661747: 3
-  N9661748: 3
-  N9661752: 3
-  N9661754: 0
-  N9661757: 3
-  N9661758: 3
-  N9661760: 0
-  N9661761: 3
-  U9631039: 3
-  U9693044: 0
-  V9741028: 3
-  V9741038: 1
+  V0041039: 2
+  V0041053: 2
+  V0141013: 1
+  V9741064: 2
+  V9741065: 2
+  V9841002: 1
+  V9841006: 0
+  V9841010: 0
+  V9841011: 0
+  V9841020: 0
+  V9841022: 0
+  V9841027: 0
+  V9841028: 1
+  V9841030: 2
+  V9841031: 2
+  V9841040: 1
+  V9841048: 2
+  V9841050: 0
+  V9841051: 0
+  V9841053: 2
+  V9841054: 2
+  V9841058: 0
+points:
+  V0041039:
+    letters: 319
+    percent: 100
+  V0041053:
+    letters: 264
+    percent: 100
+  V0141013:
+    letters: 166
+    percent: 57
+  V9741064:
+    letters: 278
+    percent: 100
+  V9741065:
+    letters: 278
+    percent: 100
+  V9841002:
+    letters: 231
+    percent: 76
+  V9841006:
+    letters: 0
+    percent: 0
+  V9841010:
+    letters: 0
+    percent: 0
+  V9841011:
+    letters: 0
+    percent: 0
+  V9841020:
+    letters: 0
+    percent: 0
+  V9841022:
+    letters: 0
+    percent: 0
+  V9841027:
+    letters: 0
+    percent: 0
+  V9841028:
+    letters: 100
+    percent: 39
+  V9841030:
+    letters: 261
+    percent: 100
+  V9841031:
+    letters: 298
+    percent: 100
+  V9841040:
+    letters: 149
+    percent: 54
+  V9841048:
+    letters: 247
+    percent: 88
+  V9841050:
+    letters: 0
+    percent: 0
+  V9841051:
+    letters: 0
+    percent: 0
+  V9841053:
+    letters: 260
+    percent: 84
+  V9841054:
+    letters: 277
+    percent: 97
+  V9841058:
+    letters: 0
+    percent: 0
