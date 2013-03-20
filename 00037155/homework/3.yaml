@@ -1,8 +1,8 @@
 ---
 cutpoints:
   one: 20
-  two: 85
-exercise: language
+  two: 80
+exercise: hacking
 grade:
   97550001: 0
   97550002: 0
