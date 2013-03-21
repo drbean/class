@@ -1,57 +1,59 @@
 ---
 round: Exam 1
-week: 5
+week: 4
 questions:
   - 10
-pass: 6
+pass: 5
 assistant:
-  - Maggie
+  - Dennis
 absent:
-  - Cathy
-text: /home/drbean/class/curriculum/media/cards.yaml
+  - Bass
+text: /home/drbean/class/media/cards.yaml
 activity:
-  bx8B3ORmMZo:
+  hacking:
     0:
-      - Green
-      - Orange
-      - Pink
+      - Blue
       - Purple
-  oreilly:
+  illegals:
     0:
-      - Red
-      - White
-      - Yellow
       - BlackBlack
+      - Green
+      - White
+  pope:
+    0:
+      - Black
+      - BlueBlue
+      - Orange
 group:
-  Green:
-    - Vera
-    - Hank
-    - Tina
+  Black:
+    - Stanley
+    - Stella
+    - Debbie
   BlackBlack:
-    - Allen
-    - Kathy
-    - Molly
+    - Winnie
+    - Katty
+    - Cathy
+  Blue:
+    - Amy
+    - Frances
+    - Yi-Ru
+  BlueBlue:
+    - Hank
+    - Kori
+    - Dennis
+  Green:
+    - Dennis
+    - Cindy
+    - Abby
   Orange:
-    - Maggie
-    - Andy
-    - Nina
-  Pink:
-    - Ivy2
-    - Elly
-    - Michelle
+    - Wei-Yi
+    - Dean
+    - Joy
   Purple:
-    - Jacinta
-    - Nancy
-    - Emily2
-  Red:
-    - Joe
-    - Kumiko
-    - Ivy1
+    - Carina
+    - Joan
+    - Ming
   White:
-    - Tracy
-    - Donna
-    - Jessica
-  Yellow:
-    - Carol
-    - Anita
-    - Maggie
+    - Kitty
+    - Leo
+    - Yorick
