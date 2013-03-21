@@ -58,6 +58,11 @@ member:
     name: Leo
     password: jian
     rating: 0
+  - Chinese: 江培寬
+    id: V9841013
+    name: Dennis
+    password: pei
+    rating: 0
   - Chinese: 黃柏銘
     id: V9841020
     name: Stanley
@@ -98,6 +103,11 @@ member:
     name: Cathy
     password: yi
     rating: 0
+  - Chinese: 駱佳帷
+    id: V9841049
+    name: Joan
+    password: jia
+    rating: 0
   - Chinese: 鄭宇筑
     id: V9841050
     name: Debbie
@@ -134,11 +144,6 @@ out:
     name: David1
     password: jia
     rating: 0
-  - Chinese: 江培寬
-    id: V9841013
-    name: Dennis
-    password: pei
-    rating: 0
   - Chinese: 朱莉鳳
     id: V9841029
     name: Lisa
@@ -158,11 +163,6 @@ out:
     id: V9841038
     name: Julie
     password: jing
-    rating: 0
-  - Chinese: 駱佳帷
-    id: V9841049
-    name: Joan
-    password: jia
     rating: 0
   - Chinese: 蘇文彥
     id: V9841067
