@@ -263,6 +263,9 @@ scores:
   win: 5
 series:
   - first
+session:
+  1: 1
+  2: 5
 weights:
   classwork: 40
   exams: 20
