@@ -1,423 +1,450 @@
 ---
 free:
   0:
-    fast-track:
+    adventure:
       0:
         U0031103:
           point:
             1: Returned
-        U9931001:
+        U0031144:
           point:
             1: Returned
-    tips:
-      0:
-        U0031103:
-          point:
-            1: Returned
-        U9931001:
-          point:
-            1: Returned
-    beliefs:
+    cusp:
       0:
         U0031103:
           point:
             1: Nil
-        U9931001:
+        U0031144:
           point:
             1: Nil
+    school:
+      0:
+        U0031103:
+          point:
+            1: Old
+            2: Returned
+        U0031144:
+          point:
+            1: Old
+            2: Returned
   1:
-    fast-track:
-      0:
-        U0031133:
-          point:
-            1: Unreturned
-        U0031129:
-          point:
-            1: Unreturned
-    tips:
-      0:
-        U0031133:
-          point:
-            1: Returned
-        U0031129:
-          point:
-            1: Returned
-    beliefs:
+    adventure:
       0:
         U0031133:
           point:
             1: Nil
-        U0031129:
+        U0031146:
+          point:
+            1: Unreturned
+    cusp:
+      0:
+        U0031133:
+          point:
+            1: Returned
+        U0031146:
+          point:
+            1: Returned
+            2: Returned
+    school:
+      0:
+        U0031133:
+          point:
+            1: Returned
+            2: Returned
+        U0031146:
           point:
             1: Nil
   2:
-    fast-track:
+    adventure:
       0:
-        U0031113:
+        U0031129:
           point:
             1: Returned
             2: Returned
         U0031122:
           point:
             1: Returned
-    tips:
+            2: Returned
+    cusp:
       0:
-        U0031113:
-          point:
-            1: Returned
-        U0031122:
-          point:
-            1: Unreturned
-    beliefs:
-      0:
-        U0031113:
+        U0031129:
           point:
             1: Nil
+        U0031122:
+          point:
+            1: Nil
+    school:
+      0:
+        U0031129:
+          point:
+            1: Fault
         U0031122:
           point:
             1: Nil
   3:
-    fast-track:
+    adventure:
       0:
+        U0031128:
+          point:
+            1: Returned
+        U0031139:
+          point:
+            1: Old
+            2: Returned
+    cusp:
+      0:
+        U0031128:
+          point:
+            1: Returned
+            2: Fault
         U0031139:
           point:
             1: Returned
             2: Returned
-            3: Returned
-        U0031128:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
-    tips:
+    school:
       0:
-        U0031139:
-          point:
-            1: Nil
         U0031128:
           point:
             1: Nil
-    beliefs:
-      0:
         U0031139:
-          point:
-            1: Nil
-        U0031128:
           point:
             1: Nil
   4:
-    fast-track:
+    adventure:
       0:
-        U0031101:
-          point:
-            1: Other
-        U0031143:
+        U0031130:
           point:
             1: Unreturned
-    tips:
+        U0031101:
+          point:
+            1: Nil
+    cusp:
       0:
+        U0031130:
+          point:
+            1: Nil
+        U0031101:
+          point:
+            1: Nil
+    school:
+      0:
+        U0031130:
+          point:
+            1: Fault
         U0031101:
           point:
             1: Returned
-        U0031143:
-          point:
-            1: Nil
-    beliefs:
-      0:
-        U0031101:
-          point:
-            1: Nil
-        U0031143:
-          point:
-            1: Nil
   5:
-    fast-track:
+    adventure:
       0:
-        U0031140:
-          point:
-            1: Returned
-        U0031136:
-          point:
-            1: Returned
-    tips:
-      0:
-        U0031140:
-          point:
-            1: Returned
-        U0031136:
-          point:
-            1: Returned
-    beliefs:
-      0:
-        U0031140:
-          point:
-            1: Nil
         U0031136:
           point:
             1: Nil
+        U0031140:
+          point:
+            1: Nil
+    cusp:
+      0:
+        U0031136:
+          point:
+            1: Fault
+        U0031140:
+          point:
+            1: Returned
+    school:
+      0:
+        U0031136:
+          point:
+            1: Returned
+        U0031140:
+          point:
+            1: Returned
   6:
-    fast-track:
-      0:
-        U0031105:
-          point:
-            1: Returned
-        U0031132:
-          point:
-            1: Returned
-    tips:
-      0:
-        U0031105:
-          point:
-            1: Returned
-        U0031132:
-          point:
-            1: Returned
-    beliefs:
+    adventure:
       0:
         U0031105:
           point:
             1: Nil
-        U0031132:
+        U9743025:
           point:
             1: Nil
+    cusp:
+      0:
+        U0031105:
+          point:
+            1: Returned
+        U9743025:
+          point:
+            1: Nil
+    school:
+      0:
+        U0031105:
+          point:
+            1: Returned
+        U9743025:
+          point:
+            1: Returned
   7:
-    fast-track:
+    adventure:
       0:
-        U0031115:
-          point:
-            1: Nil
-        U0031107:
-          point:
-            1: Returned
-    tips:
-      0:
-        U0031115:
+        U9931152:
           point:
             1: Returned
         U0031107:
           point:
-            1: Nil
-    beliefs:
+            1: Fault
+    cusp:
       0:
-        U0031115:
+        U9931152:
           point:
-            1: Nil
+            1: Fault
+        U0031107:
+          point:
+            1: Returned
+    school:
+      0:
+        U9931152:
+          point:
+            1: Returned
         U0031107:
           point:
             1: Nil
   8:
-    fast-track:
+    adventure:
+      0:
+        U0031102:
+          point:
+            1: Returned
+        U0031132:
+          point:
+            1: Nil
+    cusp:
+      0:
+        U0031102:
+          point:
+            1: Returned
+        U0031132:
+          point:
+            1: Returned
+    school:
       0:
         U0031102:
           point:
             1: Fault
-        U0031119:
+        U0031132:
           point:
             1: Returned
-            2: Returned
-    tips:
-      0:
-        U0031102:
-          point:
-            1: Returned
-            2: Returned
-        U0031119:
-          point:
-            1: Returned
-    beliefs:
-      0:
-        U0031102:
-          point:
-            1: Nil
-        U0031119:
-          point:
-            1: Nil
   9:
-    fast-track:
+    adventure:
+      0:
+        U0031120:
+          point:
+            1: Returned
+        U0031119:
+          point:
+            1: Nil
+    cusp:
+      0:
+        U0031120:
+          point:
+            1: Returned
+        U0031119:
+          point:
+            1: Returned
+    school:
+      0:
+        U0031120:
+          point:
+            1: Returned
+            2: Returned
+        U0031119:
+          point:
+            1: Fault
+  10:
+    adventure:
       0:
         U0031108:
+          point:
+            1: Nil
+        U0031110:
+          point:
+            1: Nil
+    cusp:
+      0:
+        U0031108:
+          point:
+            1: Fault
+            2: Returned
+        U0031110:
+          point:
+            1: Returned
+    school:
+      0:
+        U0031108:
+          point:
+            1: Returned
+        U0031110:
+          point:
+            1: Returned
+  11:
+    adventure:
+      0:
+        U0031143:
           point:
             1: Unreturned
-        U0031111:
-          point:
-            1: Returned
-    tips:
-      0:
-        U0031108:
-          point:
-            1: Returned
             2: Returned
-        U0031111:
+        U0031106:
           point:
             1: Returned
-            2: Returned
-    beliefs:
+    cusp:
       0:
-        U0031108:
-          point:
-            1: Nil
-        U0031111:
-          point:
-            1: Nil
-  10:
-    fast-track:
-      0:
-        U0031120:
+        U0031143:
           point:
             1: Returned
         U0031106:
           point:
-            1: Old
-            2: Unreturned
-    tips:
-      0:
-        U0031120:
-          point:
-            1: Fault
-        U0031106:
-          point:
             1: Returned
-    beliefs:
+    school:
       0:
-        U0031120:
+        U0031143:
           point:
             1: Returned
         U0031106:
           point:
-            1: Nil
-  11:
-    fast-track:
+            1: Returned
+  12:
+    adventure:
       0:
         U0031109:
+          point:
+            1: Nil
+        U0031205:
+          point:
+            1: Nil
+    cusp:
+      0:
+        U0031109:
+          point:
+            1: Fault
+            2: Returned
+        U0031205:
+          point:
+            1: Returned
+    school:
+      0:
+        U0031109:
+          point:
+            1: Returned
+        U0031205:
           point:
             1: Returned
             2: Fault
-        U0031145:
-          point:
-            1: Returned
-    tips:
-      0:
-        U0031109:
-          point:
-            1: Returned
-        U0031145:
-          point:
-            1: Nil
-    beliefs:
-      0:
-        U0031109:
-          point:
-            1: Nil
-        U0031145:
-          point:
-            1: Nil
-  12:
-    fast-track:
-      0:
-        U0031110:
-          point:
-            1: Returned
-        U0031112:
-          point:
-            1: Returned
-            2: Returned
-    tips:
-      0:
-        U0031110:
-          point:
-            1: Returned
-            2: Old
-        U0031112:
-          point:
-            1: Returned
-    beliefs:
-      0:
-        U0031110:
-          point:
-            1: Nil
-        U0031112:
-          point:
-            1: Nil
   13:
-    fast-track:
+    adventure:
       0:
-        U0031118:
-          point:
-            1: Returned
-        U0031147:
+        U0031123:
           point:
             1: Fault
-    tips:
-      0:
-        U0031118:
-          point:
-            1: Fault
-        U0031147:
+        U0031112:
           point:
             1: Returned
-    beliefs:
+    cusp:
       0:
-        U0031118:
+        U0031123:
           point:
-            1: Old
-            2: Returned
-        U0031147:
+            1: Nil
+        U0031112:
+          point:
+            1: Nil
+    school:
+      0:
+        U0031123:
+          point:
+            1: Returned
+        U0031112:
           point:
             1: Returned
   14:
-    fast-track:
+    adventure:
       0:
-        U0031135:
-          point:
-            1: Returned
-        U0031205:
+        U0031127:
           point:
             1: Unreturned
-    tips:
-      0:
-        U0031135:
+            2: Fault
+        U0031126:
           point:
-            1: Old
+            1: Returned
             2: Returned
-        U0031205:
-          point:
-            1: Nil
-    beliefs:
+    cusp:
       0:
-        U0031135:
+        U0031127:
           point:
             1: Nil
-        U0031205:
+        U0031126:
+          point:
+            1: Nil
+    school:
+      0:
+        U0031127:
+          point:
+            1: Nil
+        U0031126:
           point:
             1: Nil
   15:
-    fast-track:
+    adventure:
       0:
-        U0031123:
-          point:
-            1: Old
-        U0031104:
+        U0031142:
           point:
             1: Returned
-    tips:
+        U0031147:
+          point:
+            1: Returned
+    cusp:
       0:
-        U0031123:
+        U0031142:
+          point:
+            1: Returned
+        U0031147:
+          point:
+            1: Returned
+    school:
+      0:
+        U0031142:
+          point:
+            1: Returned
+        U0031147:
+          point:
+            1: Returned
+  16:
+    adventure:
+      0:
+        U0031135:
+          point:
+            1: Nil
+        U0031150:
+          point:
+            1: Old
+    cusp:
+      0:
+        U0031135:
+          point:
+            1: Nil
+        U0031150:
+          point:
+            1: Nil
+    school:
+      0:
+        U0031135:
           point:
             1: Returned
             2: Returned
-        U0031104:
+        U0031150:
           point:
             1: Returned
-    beliefs:
-      0:
-        U0031123:
-          point:
-            1: Nil
-        U0031104:
-          point:
-            1: Nil
+            2: Returned
   17:
-    fast-track:
+    adventure:
       0:
         U0031114:
           point:
@@ -425,123 +452,44 @@ free:
         U0031131:
           point:
             1: Returned
-    tips:
+    cusp:
       0:
         U0031114:
-          point:
-            1: Old
-            2: Returned
-        U0031131:
-          point:
-            1: Old
-    beliefs:
-      0:
-        U0031114:
-          point:
-            1: Nil
-        U0031131:
-          point:
-            1: Nil
-  18:
-    fast-track:
-      0:
-        U0031124:
           point:
             1: Returned
-        U0031144:
-          point:
-            1: Old
-            2: Returned
-    tips:
-      0:
-        U0031124:
-          point:
-            1: Nil
-        U0031144:
-          point:
-            1: Nil
-    beliefs:
-      0:
-        U0031124:
-          point:
-            1: Nil
-        U0031144:
-          point:
-            1: Nil
-  19:
-    fast-track:
-      0:
-        U0031146:
-          point:
-            1: Nil
-        U0031138:
+        U0031131:
           point:
             1: Fault
-    tips:
+    school:
       0:
-        U0031146:
+        U0031114:
           point:
-            1: Old
+            1: Returned
+        U0031131:
+          point:
+            1: Returned
+  18:
+    adventure:
+      0:
+        U0031117:
+          point:
+            1: Nil
         U0031138:
           point:
             1: Nil
-    beliefs:
+    cusp:
       0:
-        U0031146:
+        U0031117:
           point:
-            1: Returned
-            2: Returned
-            3: Returned
+            1: Nil
         U0031138:
           point:
             1: Returned
-  20:
-    fast-track:
+    school:
       0:
-        U0031116:
-          point:
-            1: Returned
-        U0031150:
-          point:
-            1: Returned
-    tips:
-      0:
-        U0031116:
-          point:
-            1: Returned
-        U0031150:
-          point:
-            1: Returned
-    beliefs:
-      0:
-        U0031116:
-          point:
-            1: Nil
-        U0031150:
-          point:
-            1: Nil
-  21:
-    fast-track:
-      0:
-        U0031142:
-          point:
-            1: Returned
         U0031117:
           point:
             1: Returned
-    tips:
-      0:
-        U0031142:
-          point:
-            1: Nil
-        U0031117:
-          point:
-            1: Nil
-    beliefs:
-      0:
-        U0031142:
-          point:
-            1: Nil
-        U0031117:
+        U0031138:
           point:
             1: Nil
