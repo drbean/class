@@ -1,130 +1,150 @@
 ---
 free:
+  0:
+    savoir_1:
+      0:
+        97550011:
+          point:
+            1: Returned
+            2: Returned
+        97550033:
+          point:
+            1: Unreturned
+            2: Unreturned
+    savoir_2:
+      0:
+        97550011:
+          point:
+            1: Returned
+        97550033:
+          point:
+            1: Unreturned
+    savoir_3:
+      0:
+        97550011:
+          point:
+            1: Nil
+        97550033:
+          point:
+            1: Nil
   1:
-    1st_impressions:
+    savoir_1:
       0:
-        97550009:
-          point:
-            1: Returned
         97550021:
           point:
             1: Returned
-    traffic:
-      0:
-        97550009:
+        97550008:
           point:
-            1: Fault
+            1: Unreturned
+    savoir_2:
+      0:
         97550021:
           point:
-            1: Fault
-    language:
-      0:
-        97550009:
+            1: Unreturned
+        97550008:
           point:
             1: Returned
-        97550021:
-          point:
-            1: Returned
-    marriage:
+    savoir_3:
       0:
-        97550009:
-          point:
-            1: Fault
         97550021:
+          point:
+            1: Unreturned
+        97550008:
           point:
             1: Returned
   2:
-    1st_impressions:
+    savoir_1:
       0:
-        97550031:
+        97550023:
+          point:
+            1: Unreturned
+            2: Unreturned
+        97550004:
           point:
             1: Returned
-        97550033:
-          point:
-            1: Returned
-    traffic:
+            2: Returned
+    savoir_2:
       0:
-        97550031:
+        97550023:
           point:
-            1: Returned
-        97550033:
+            1: Nil
+        97550004:
           point:
-            1: Returned
-    language:
+            1: Nil
+    savoir_3:
       0:
-        97550031:
+        97550023:
           point:
-            1: Returned
-        97550033:
-          point:
-            1: Returned
-    marriage:
-      0:
-        97550031:
-          point:
-            1: Returned
-        97550033:
+            1: Nil
+        97550004:
           point:
             1: Nil
   3:
-    1st_impressions:
+    savoir_1:
       0:
-        97550001:
+        97550031:
+          point:
+            1: Unreturned
+            2: Unreturned
+        97550027:
           point:
             1: Returned
-        97550003:
-          point:
-            1: Returned
-    traffic:
+            2: Returned
+    savoir_2:
       0:
-        97550001:
+        97550031:
           point:
             1: Returned
-        97550003:
+        97550027:
           point:
-            1: Returned
-    language:
+            1: Unreturned
+    savoir_3:
       0:
-        97550001:
+        97550031:
           point:
-            1: Fault
-        97550003:
+            1: Nil
+        97550027:
           point:
-            1: Returned
-    marriage:
-      0:
-        97550001:
-          point:
-            1: Fault
-        97550003:
-          point:
-            1: Returned
+            1: Nil
   4:
-    1st_impressions:
+    savoir_1:
+      0:
+        97550017:
+          point:
+            1: Unreturned
+            2: Returned
+        97550001:
+          point:
+            1: Returned
+            2: Unreturned
+    savoir_2:
+      0:
+        97550017:
+          point:
+            1: Returned
+        97550001:
+          point:
+            1: Unreturned
+    savoir_3:
+      0:
+        97550017:
+          point:
+            1: Nil
+        97550001:
+          point:
+            1: Nil
+  5:
+    savoir_1:
       0:
         97550018:
           point:
             1: Returned
+            2: Unreturned
         97550002:
           point:
-            1: Fault
-    traffic:
-      0:
-        97550018:
-          point:
-            1: Returned
-        97550002:
-          point:
-            1: Returned
-    language:
-      0:
-        97550018:
-          point:
-            1: Returned
-        97550002:
-          point:
-            1: Returned
-    marriage:
+            1: Unreturned
+            2: Returned
+    savoir_2:
       0:
         97550018:
           point:
@@ -132,102 +152,42 @@ free:
         97550002:
           point:
             1: Returned
-  5:
-    1st_impressions:
+    savoir_3:
       0:
-        97550004:
-          point:
-            1: Returned
-        97550008:
-          point:
-            1: Fault
-    traffic:
-      0:
-        97550004:
-          point:
-            1: Returned
-        97550008:
+        97550018:
           point:
             1: Nil
-    language:
-      0:
-        97550004:
-          point:
-            1: Nil
-        97550008:
-          point:
-            1: Nil
-    marriage:
-      0:
-        97550004:
-          point:
-            1: Nil
-        97550008:
+        97550002:
           point:
             1: Nil
   6:
-    1st_impressions:
+    savoir_1:
       0:
-        97550028:
-          point:
-            1: Fault
-        97550027:
-          point:
-            1: Returned
-    traffic:
-      0:
-        97550028:
-          point:
-            1: Returned
-        97550027:
-          point:
-            1: Returned
-    language:
-      0:
-        97550028:
-          point:
-            1: Returned
-        97550027:
-          point:
-            1: Returned
-    marriage:
-      0:
-        97550028:
-          point:
-            1: Returned
-        97550027:
-          point:
-            1: Returned
-  7:
-    1st_impressions:
-      0:
-        97550011:
-          point:
-            1: Returned
-        97550017:
-          point:
-            1: Fault
-    traffic:
-      0:
-        97550011:
-          point:
-            1: Returned
-        97550017:
-          point:
-            1: Returned
-    language:
-      0:
-        97550011:
-          point:
-            1: Fault
-        97550017:
-          point:
-            1: Returned
-    marriage:
-      0:
-        97550011:
-          point:
-            1: Returned
-        97550017:
+        97550003:
           point:
             1: Unreturned
+            2: Unreturned
+            3: Returned
+        97550028:
+          point:
+            1: Returned
+            2: Returned
+            3: Unreturned
+    savoir_2:
+      0:
+        97550003:
+          point:
+            1: Returned
+            2: Returned
+        97550028:
+          point:
+            1: Returned
+            2: Returned
+    savoir_3:
+      0:
+        97550003:
+          point:
+            1: Nil
+        97550028:
+          point:
+            1: Nil
