@@ -2,112 +2,100 @@
 round: Exam 1
 week: 5
 questions:
-  - 2
-pass: 0
+  - 5
+pass: 1
 assistant:
-  - Louis
-  - James
-  - Abby
-  - E.J.
 absent:
-  - Derrick
-  - Ann
-text: /home/drbean/class/business/careers/cards.yaml
+text: /home/drbean/class/business/stress/cards.yaml
 activity:
-  tips:
+  adventure:
     8:
       - Black
-      - BlackBlack
-      - Orange
-    9:
       - Green
-      - PinkPink
-      - White
-    10:
-      - Gray
       - Red
-      - PurplePurple
-    11:
+      - YellowYellow
+    9:
       - Blue
       - GreenGreen
       - Pink
-    12:
-      - Sam
+      - White
+    10:
       - BlueBlue
       - Brown
-      - Purple
+      - OrangeOrange
+      - PurplePurple
       - Yellow
-      - YellowYellow
+    11:
+      - BlackBlack
+      - Gray
+      - Orange
+      - Purple
 group:
-  Sam:
-    - Sam
-    - James
-    - Abby
   Black:
     - Lisa
     - Rifle
-    - Louis
-  BlackBlack:
-    - Sunny
-    - Cabe
-    - Danny
-  Blue:
-    - Ting
-    - Ben
-    - Jeffrey
-  BlueBlue:
-    - Wei
-    - Hugh
-    - Frank
-  Brown:
-    - Leo1
-    - Yvonne
-    - Eric
-  PurplePurple:
-    - Minmin
-    - Andy
-    - Ken
-  Gray:
-    - E.J.
-    - Lynn
-    - Woodstock
-  Green:
-    - Bob
-    - Paul
-    - Liz
-  Orange:
-    - Amber
-    - Chris
-    - Alice
-  GreenGreen:
-    - Tina
-    - Linda1
-    - Emma
-  Pink:
-    - E.J.
-    - Annie
-    - Santie
-  YellowYellow:
-    - Nana
     - Jike
-    - Jack
+  BlackBlack:
+    - Candy
+    - Cabe
+    - Louis
+  Blue:
+    - Sunny
+    - Ben
+    - Danny
+  BlueBlue:
+    - Ting
+    - Hugh
+    - Jeffrey
+  Brown:
+    - Wei
+    - Yvonne
+    - Frank
+  Gray:
+    - Leo1
+    - Andy
+    - Eric
+  Green:
+    - Minmin
+    - Lynn
+    - Ken
+  GreenGreen:
+    - E.J.
+    - Paul
+    - Woodstock
+  Orange:
+    - Bob
+    - Chris
+    - Liz
+  OrangeOrange:
+    - Teddy
+    - James
+    - Amber
+  Pink:
+    - Amber
+    - Linda1
+    - Alice
   Purple:
-    - Jimmy
-    - George
-    - Jessy
-  PinkPink:
-    - David
-    - Cathy1
-    - Derrick
+    - Tina
+    - Annie
+    - Emma
+  PurplePurple:
+    - Nana
+    - Brook
+    - Abby
   Red:
     - Tosha
-    - Sen
-    - Cathy2
+    - David
+    - Cathy1
   White:
-    - Teddy
-    - Leo2
-    - Abby
+    - Ann
+    - George
+    - Santie
   Yellow:
-    - James
-    - Sherry
-    - Linda2
+    - Jimmy
+    - Sen
+    - Jessy
+  YellowYellow:
+    - Leo2
+    - Cathy2
+    - Andy
