@@ -1,16 +1,52 @@
 ---
-Anita: 2
-Cheer: 2
-Cindy: 0
-Doris: 2
-Eva: 0
-Jay: 0
-Jennifer: 0
-Jill: 0
-Lin: 0
-Mandy: 2
-Mil: 0
-Miru: 2
-Sally: 0
-Stella: 0
-Yvonne: 0
+cutpoints:
+  one: ~
+  two: ~
+exercise: savoirs1-3
+grade:
+  97550001: 0
+  97550002: 2
+  97550003: 2
+  97550004: 0
+  97550008: 2
+  97550009: 0
+  97550011: 2
+  97550017: 0
+  97550018: 0
+  97550021: 0
+  97550023: 0
+  97550027: 2
+  97550028: 0
+  97550031: 0
+  97550033: 0
+points:
+  Anita:
+    letters: 2
+  Cheer:
+    letters: 2
+  Cindy:
+    letters: 0
+  Doris:
+    letters: 2
+  Eva:
+    letters: 0
+  Jay:
+    letters: 0
+  Jennifer:
+    letters: 0
+  Jill:
+    letters: 0
+  Lin:
+    letters: 0
+  Mandy:
+    letters: 2
+  Mil:
+    letters: 0
+  Miru:
+    letters: 2
+  Sally:
+    letters: 0
+  Stella:
+    letters: 0
+  Yvonne:
+    letters: 0
