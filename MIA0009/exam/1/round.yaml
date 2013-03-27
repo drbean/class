@@ -2,91 +2,88 @@
 round: Exam 1
 week: 5
 questions:
-  - 2
-pass: 0
+  - 5
+pass: 1
 assistant:
-  - Gill
-  - Eric
-  - Sean
+  - Tina
+  - Jim
+  - Jenny
 absent:
-  - Tony
-  - Harry
-text: /home/drbean/class/business/careers/cards.yaml
+text: /home/drbean/class/business/stress/cards.yaml
 activity:
-  tips:
+  adventure:
     8:
-      - Green
-      - Orange
-      - OrangeOrange
+      - Black
+      - BlackBlack
+      - Pink
     9:
-      - Brown
-      - Red
+      - Blue
+      - Gray
+      - Purple
       - Yellow
     10:
-      - Gray
-      - GreenGreen
-      - White
+      - Brown
+      - OrangeOrange
+      - Red
     11:
-      - BlackBlack
-      - Blue
-      - Purple
-    12:
-      - Black
-      - Pink
+      - Green
+      - GreenGreen
+      - Orange
+      - White
 group:
   Black:
     - Ivy
     - Jenny
     - Eva
   BlackBlack:
-    - Pig
-    - White
-    - Owen
-  Blue:
     - Josh
     - An
     - Lynette
-  Brown:
+  Blue:
     - Gill
     - Yun
+    - Owen
+  Brown:
+    - Shanny
+    - Christine
     - Kyle
   Gray:
-    - Shanny
-    - Kevin
-    - Sean
-  Green:
     - Sean
     - Peter
-    - Michelle
-  GreenGreen:
+    - Kevin
+  Green:
     - Kammy
-    - Christine
-    - Gary
-  Orange:
-    - Jimmy
-    - Jim
-    - Alice
-  OrangeOrange:
-    - Banana
-    - Eric
-    - Gill
-  Pink:
-    - Roy
     - Amy
+    - Michelle
+  Orange:
+    - Eric
+    - Tony
+    - Alice
+  Pink:
+    - Banana
+    - Joyce
     - Tina
   Purple:
-    - Bess
-    - Joyce
+    - Joe
+    - Tina
     - Ling
   Red:
-    - Joe
-    - Eric
-    - Sweet
-  White:
     - Andy
     - Jessie
+    - Sweet
+  White:
+    - Pig
+    - Alisa
     - John
   Yellow:
+    - Jenny
+    - Jim
+    - Gary
+  GreenGreen:
     - Stacy
-    - Jack
-    - Alisa
+    - White
+    - Jim
+  OrangeOrange:
+    - Roy
+    - Bess
+    - Tina
