@@ -11,7 +11,7 @@ grade:
   97550008: 2
   97550009: 0
   97550011: 2
-  97550017: 0
+  97550017: 1
   97550018: 0
   97550021: 2
   97550023: 0
@@ -35,7 +35,7 @@ points:
   Jennifer:
     letters: 0
   Jill:
-    letters: 0
+    letters: 1
   Lin:
     letters: 0
   Mandy:
