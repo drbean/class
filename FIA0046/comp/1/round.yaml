@@ -1,6 +1,6 @@
 ---
 activity:
-  fast-track:
+  adventure:
     0:
       - 1
       - 2
@@ -21,146 +21,76 @@ activity:
       - 17
       - 18
       - 19
-      - 21
-      - 22
-      - 23
-      - 24
-  tips:
-    0:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
-      - 19
-      - 21
-      - 22
-      - 23
-      - 24
-  beliefs:
-    0:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
-      - 19
-      - 21
-      - 22
-      - 23
-      - 24
-assistant:
-  Sam:
-    U9934026: 5
-  Yellow:
-    U9933033: 5
-    U9934004: 5
-absent:
-  - U0034050
-  - U9816062
-bye: U0034032
+      - 20
+assistant: ~
+bye: U0034007
 dispensation: ~
 divisions: ~
 group:
   1:
-    White: U0034007
-    Black: U0034027
+    White: U0034044
+    Black: U0034032
   2:
-    White: U0034025
-    Black: U0034009
+    White: U0034009
+    Black: U0034043
   3:
     White: U0034046
-    Black: U9816059
+    Black: U0034027
   4:
-    White: U9834018
-    Black: U0034028
+    White: U0034028
+    Black: U9834018
   5:
     White: U0034003
-    Black: U0034051
+    Black: U0034016
   6:
-    White: U0034016
+    White: U0034017
     Black: U0034035
   7:
     White: U0034038
-    Black: U0034017
+    Black: U0034014
   8:
-    White: U0034014
+    White: U0034008
     Black: U0034001
   9:
     White: U0034023
-    Black: U0034008
-  10:
-    White: U0034045
-    Black: U0034004
-  11:
-    White: U0034026
     Black: U0034002
-  12:
+  10:
     White: U0034015
-    Black: U0034036
-  13:
-    White: U0034049
-    Black: U0031046
-  14:
+    Black: U0034045
+  11:
     White: U0034033
+    Black: U0034026
+  12:
+    White: U0034036
+    Black: U0034010
+  13:
+    White: U9733015
+    Black: U0034049
+  14:
+    White: U0034055
     Black: U0034034
   15:
-    White: U0034040
-    Black: U0034010
-  16:
-    White: U0034011
-    Black: U0034037
-  17:
     White: U0034005
-    Black: U0034056
-  18:
-    White: U0034055
-    Black: U0034012
-  19:
-    White: U0031032
     Black: U0034013
-  21:
-    White: U0034031
+  16:
+    White: U0034050
+    Black: U0034012
+  17:
+    White: U0031032
     Black: U0034042
-  22:
+  18:
     White: U0034029
-    Black: U0034006
-  23:
-    White: U0034043
+    Black: U0034004
+  19:
+    White: U0034031
     Black: U0034030
-  24:
+  20:
     White: U0034024
-    Black: U0034044
+    Black: U0034006
 late:
-  - U0034032
-pairing: swiss adjusted
+  - ~
+pairing: swiss
 payprotocol: meritPay
 round: 1
-text: /home/drbean/class/business/careers/cards.yaml
-week: 5
+text: ~
+week: ~
