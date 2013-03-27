@@ -2,6 +2,7 @@
 activity:
   adventure:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -22,11 +23,69 @@ activity:
       - 18
       - 19
       - 20
-assistant: ~
-bye: U0034007
-dispensation: ~
-divisions: ~
+  cusp:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+  school:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+assistant: 
+  OrangeOrange:
+    U0034056: 5
+    U0031046: 5
+    U0034037: 5
+  BlackBlack:
+    T9831030: 3
+    U0034011: 4
+    U0034040: 4
+bye: U0034025
+dispensation:
+divisions:
+  - free
 group:
+  0:
+    White: U0034007
+    Black: U0034051
   1:
     White: U0034044
     Black: U0034032
@@ -88,7 +147,8 @@ group:
     White: U0034024
     Black: U0034006
 late:
-  - ~
+  - U0034051
+  - U0034025
 pairing: swiss
 payprotocol: meritPay
 round: 1

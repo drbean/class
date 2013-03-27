@@ -9,103 +9,97 @@ Chinese:
   Green: 0
   GreenGreen: 0
   Orange: 0
+  OrangeOrange: 0
   Pink: 0
-  PinkPink: 0
   Purple: 0
   PurplePurple: 0
   Red: 0
-  Sam: 0
   White: 0
   Yellow: 0
   YellowYellow: 0
 letters:
   Black:
-    U0034005: 0
-    U0034045: 0
-    U0034040: 0
-    story: tips8
+    U0034005: 1
+    U0034045: 1
+    U0034044: 1
+    story: adventure8
   BlackBlack:
-    U0034038: 0
-    U0034011: 0
-    U0034015: 0
-    story: tips8
+    T9831030: 1
+    U0034011: 3
+    U0034040: 3
+    story: adventure11
   Blue:
-    U0034028: 0
-    U0034055: 0
-    U0034027: 0
-    story: tips11
+    U0034038: 2
+    U0034055: 2
+    U0034015: 2
+    story: adventure9
   BlueBlue:
-    U0034009: 0
-    U9834018: 0
-    U0034016: 1
-    story: tips12
+    U0034028: 1
+    U9834018: 3
+    U0034027: 1
+    story: adventure10
   Brown:
-    U0034004: 0
+    U0034009: 2
     U0034007: 1
-    U0034017: 1
-    story: tips12
+    U0034016: 3
+    story: adventure10
   Gray:
-    U0034008: 1
-    U0034034: 1
-    U0034032: 1
-    story: tips10
+    U0034004: 2
+    U0034042: 3
+    U0034017: 2
+    story: adventure11
   Green:
-    U0034056: 1
-    U0034026: 1
-    U0034037: 1
-    story: tips9
-  GreenGreen:
-    U0034003: 0
-    U0034012: 0
-    U0034014: 0
-    story: tips11
-  Orange:
-    U0034029: 0
-    U0031046: 0
-    U0034030: 0
-    story: tips8
-  Pink:
-    U0034008: 1
-    U0034013: 0
-    U0034023: 0
-    story: tips11
-  PinkPink:
-    U0034002: 0
-    U0034010: 0
-    U9816062: 0
-    story: tips9
-  Purple:
-    U0034006: 0
-    U0034051: 0
-    U0034043: 0
-    story: tips12
-  PurplePurple:
-    U0034049: 0
-    U0034042: 0
+    U0034049: 1
+    U0034034: 4
     U0034031: 0
-    story: tips10
+    story: adventure8
+  GreenGreen:
+    U0034008: 2
+    U0034026: 2
+    U0034032: 1
+    story: adventure9
+  Orange:
+    U0034056: 3
+    U0031046: 2
+    U0034037: 0
+    story: adventure11
+  OrangeOrange:
+    U0034035: 4
+    U0034025: 3
+    U0034029: 4
+    story: adventure10
+  Pink:
+    U0034029: 0
+    U0034012: 1
+    U0034030: 2
+    story: adventure9
+  Purple:
+    U0034003: 2
+    U0034013: 2
+    U0034014: 2
+    story: adventure11
+  PurplePurple:
+    U0034036: 3
+    U9733015: 2
+    U0034024: 2
+    story: adventure10
   Red:
-    U0034046: 0
-    U0034001: 0
-    U0034033: 0
-    story: tips10
-  Sam:
-    U9934026: 0
-    U0034025: 0
-    U0034024: 0
-    story: tips12
+    U0034046: 1
+    U0034002: 1
+    U0034010: 1
+    story: adventure8
   White:
-    U0034035: 0
-    U0031032: 0
-    U0034024: 0
-    story: tips9
+    U0034050: 3
+    U0034051: 3
+    U0034023: 2
+    story: adventure9
   Yellow:
-    U0034025: 0
-    U9934004: 0
-    U9933033: 1
-    story: tips12
+    U0034006: 4
+    U0034001: 5
+    U0034043: 5
+    story: adventure10
   YellowYellow:
-    U0034036: 0
-    U0034044: 0
-    U9816059: 0
-    story: tips12
+    U0031032: 4
+    U0034033: 3
+    U0034042: 3
+    story: adventure8
