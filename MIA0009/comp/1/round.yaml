@@ -1,6 +1,6 @@
 ---
 activity:
-  fast-track:
+  adventure:
     0:
       - 0
       - 1
@@ -18,9 +18,7 @@ activity:
       - 13
       - 14
       - 15
-      - 16
-      - 17
-  tips:
+  cusp:
     0:
       - 0
       - 1
@@ -38,9 +36,7 @@ activity:
       - 13
       - 14
       - 15
-      - 16
-      - 17
-  beliefs:
+  school:
     0:
       - 0
       - 1
@@ -58,77 +54,70 @@ activity:
       - 13
       - 14
       - 15
-      - 16
-      - 17
 assistant:
+  Orange:
+    U0033004: 5
+    U0033015: 5
+    U0033001: 5
   BlackBlack:
-    U0033016: 5
-    U0033135: 5
-    U0033042: 5
-bye:
-dispensation: ~
+    U0014139: 5
+    U0033022: 5
+    U0033019: 5
+dispensation:
 divisions:
   - free
 group:
   0:
-    White: U0033014
-    Black: U0033133
+    White: U0033139
+    Black: U0033014
   1:
-    White: U9933035
-    Black: U0033031
+    White: U0033135
+    Black: U0033010
   2:
+    White: U0033013
+    Black: U0033031
+  3:
     White: U0033034
     Black: U0033024
-  3:
+  4:
     White: U0033035
     Black: U0033030
-  4:
+  5:
     White: U0033137
     Black: U0033020
-  5:
-    White: T9833038
-    Black: U0033008
   6:
-    White: U0033136
-    Black: U0033032
+    White: U0033032
+    Black: U0033008
   7:
-    White: U0033006
+    White: U0033136
     Black: U0033033
   8:
     White: U0033003
-    Black: U0033023
+    Black: U0033016
   9:
-    White: U0033019
-    Black: U0033036
+    White: U0033036
+    Black: U0033006
   10:
-    White: U0033004
-    Black: U0033005
+    White: U0033009
+    Black: U0033042
   11:
-    White: U0033002
-    Black: U0033009
+    White: U0033023
+    Black: U0033039
   12:
-    White: U0033039
-    Black: U0033029
+    White: U0033133
+    Black: U0033005
   13:
-    White: U0033037
-    Black: U0033012
+    White: U0033002
+    Black: U0033037
   14:
-    White: U0033139
-    Black: U0033022
+    White: U0033029
+    Black: U0033018
   15:
-    White: U0033018
-    Black: U0014139
-  16:
-    White: U0033010
-    Black: U0033040
-  17:
-    White: U0033001
-    Black: U0033013
+    White: U0033040
+    Black: U0033012
 late:
-  - U0033013
-
 pairing: swiss
 payprotocol: meritPay
 round: 1
-text: /home/drbean/class/business/careers/cards.yaml
-week: 5
+text: /home/drbean/class/business/stress/cards.yaml
+week: 4
