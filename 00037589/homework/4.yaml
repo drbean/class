@@ -13,7 +13,7 @@ grade:
   97550011: 2
   97550017: 0
   97550018: 0
-  97550021: 0
+  97550021: 2
   97550023: 0
   97550027: 2
   97550028: 0
@@ -47,6 +47,6 @@ points:
   Sally:
     letters: 0
   Stella:
-    letters: 0
+    letters: 2
   Yvonne:
     letters: 0
