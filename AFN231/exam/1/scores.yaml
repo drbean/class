@@ -7,6 +7,7 @@ Chinese:
   Brown: 0
   Green: 0
   OrangeOrange: 0
+  Others: 0
   Pink: 0
   Purple: 0
   Red: 0
@@ -47,6 +48,11 @@ letters:
     N99200024: 7
     N96200019: 7
     story: don-quixote2
+  Others:
+    N99200035: 9
+    N99200039: 9
+    N99200041: 8
+    story: don-quixote1
   Pink:
     N97080093: 8
     N99200012: 7

@@ -7,12 +7,10 @@ pass: 4
 assistant:
   - Louis
   - Eve
-  - Lee
   - Amber
 absent:
   - Joelle
   - Cherry2
-  - Hulie
   - Evy
   - Cindy
 text: /home/drbean/class/literature/cards.yaml
@@ -30,6 +28,7 @@ activity:
     1:
       - BlueBlue
       - Brown
+      - Others
     2:
       - BlackBlack
       - Pink
@@ -59,10 +58,6 @@ group:
     - Zona
     - Carol
     - Tina
-  #Orange:
-  #  - Lee
-  #  - Andy
-  #  - James
   Yellow:
     - Lee
     - Lainey
@@ -83,3 +78,7 @@ group:
     - Eve
     - Debby
     - Sonia
+  Others:
+    - Hulie
+    - Andy
+    - James
