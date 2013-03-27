@@ -224,6 +224,8 @@ scores:
   late: 1
   loss: 3
   win: 5
+session:
+  1: 1
 transfer: ~
 weights:
   classwork: 40
