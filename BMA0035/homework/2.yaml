@@ -5,40 +5,37 @@ cutpoints:
   winner: 2
 exercise: adventure
 grade:
-  U9833051: 0
-  U9831152: 0
-
   T9831019: 0
   U0022016: 0
-  U0031001: 0
-  U0031002: 0
+  U0031001: 2
+  U0031002: 2
   U0031003: 0
   U0031004: 0
   U0031005: 2
   U0031006: 0
   U0031007: 0
-  U0031008: 0
+  U0031008: 2
   U0031009: 0
-  U0031010: 1
+  U0031010: 2
   U0031011: 1
   U0031012: 2
   U0031013: 2
   U0031014: 2
   U0031016: 2
   U0031017: 2
-  U0031018: 1
+  U0031018: 2
   U0031020: 1
   U0031022: 0
   U0031024: 2
   U0031025: 2
   U0031026: 2
   U0031027: 0
-  U0031028: 0
+  U0031028: 1
   U0031029: 2
   U0031031: 0
   U0031033: 2
   U0031034: 2
-  U0031035: 0
+  U0031035: 2
   U0031036: 2
   U0031037: 2
   U0031038: 2
@@ -48,11 +45,12 @@ grade:
   U0031042: 2
   U0031043: 2
   U0031044: 2
-  U0031045: 0
+  U0031045: 2
   U0031047: 1
   U0031048: 1
-  U0031049: 0
-  U9931040: 0
+  U0031049: 2
+  U9831152: 0
+  U9833051: 0
 points:
   T9831019:
     Wh:
@@ -63,7 +61,7 @@ points:
       answers: ~
       questions: ~
       attempts: ~
-    S:
+    Tag:
       answers: ~
       questions: ~
       attempts: ~
@@ -76,7 +74,7 @@ points:
       answers: ~
       questions: ~
       attempts: ~
-    S:
+    Tag:
       answers: ~
       questions: ~
       attempts: ~
@@ -89,10 +87,10 @@ points:
       answers: 0
       questions: 0
       attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 3
+      questions: 3
+      attempts: 3
   U0031002:
     Wh:
       answers: 0
@@ -102,10 +100,10 @@ points:
       answers: 0
       questions: 0
       attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 3
+      questions: 3
+      attempts: 7
   U0031003:
     Wh:
       answers: ~
@@ -115,7 +113,7 @@ points:
       answers: ~
       questions: ~
       attempts: ~
-    S:
+    Tag:
       answers: ~
       questions: ~
       attempts: ~
@@ -128,10 +126,10 @@ points:
       answers: 0
       questions: 0
       attempts: 1
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031005:
     Wh:
       answers: 1
@@ -141,10 +139,10 @@ points:
       answers: 3
       questions: 4
       attempts: 14
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031006:
     Wh:
       answers: ~
@@ -154,7 +152,7 @@ points:
       answers: ~
       questions: ~
       attempts: ~
-    S:
+    Tag:
       answers: ~
       questions: ~
       attempts: ~
@@ -167,7 +165,7 @@ points:
       answers: ~
       questions: ~
       attempts: ~
-    S:
+    Tag:
       answers: ~
       questions: ~
       attempts: ~
@@ -180,10 +178,10 @@ points:
       answers: 0
       questions: 0
       attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 3
+      questions: 6
+      attempts: 7
   U0031009:
     Wh:
       answers: ~
@@ -193,7 +191,7 @@ points:
       answers: ~
       questions: ~
       attempts: ~
-    S:
+    Tag:
       answers: ~
       questions: ~
       attempts: ~
@@ -206,10 +204,10 @@ points:
       answers: 1
       questions: 6
       attempts: 8
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 3
+      questions: 4
+      attempts: 4
   U0031011:
     Wh:
       answers: 0
@@ -219,10 +217,10 @@ points:
       answers: 0
       questions: 7
       attempts: 21
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031012:
     Wh:
       answers: 0
@@ -232,10 +230,10 @@ points:
       answers: 3
       questions: 4
       attempts: 6
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031013:
     Wh:
       answers: 0
@@ -245,10 +243,10 @@ points:
       answers: 3
       questions: 5
       attempts: 6
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031014:
     Wh:
       answers: 0
@@ -258,10 +256,10 @@ points:
       answers: 3
       questions: 7
       attempts: 13
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 3
   U0031016:
     Wh:
       answers: 0
@@ -271,10 +269,10 @@ points:
       answers: 3
       questions: 4
       attempts: 6
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031017:
     Wh:
       answers: 0
@@ -284,10 +282,10 @@ points:
       answers: 3
       questions: 4
       attempts: 6
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031018:
     Wh:
       answers: 0
@@ -297,10 +295,10 @@ points:
       answers: 0
       questions: 0
       attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 3
+      questions: 7
+      attempts: 12
   U0031020:
     Wh:
       answers: 0
@@ -310,10 +308,10 @@ points:
       answers: 0
       questions: 6
       attempts: 13
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031022:
     Wh:
       answers: ~
@@ -323,7 +321,7 @@ points:
       answers: ~
       questions: ~
       attempts: ~
-    S:
+    Tag:
       answers: ~
       questions: ~
       attempts: ~
@@ -336,10 +334,10 @@ points:
       answers: 3
       questions: 6
       attempts: 6
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031025:
     Wh:
       answers: 0
@@ -349,10 +347,10 @@ points:
       answers: 3
       questions: 3
       attempts: 5
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031026:
     Wh:
       answers: 0
@@ -362,10 +360,10 @@ points:
       answers: 3
       questions: 3
       attempts: 6
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031027:
     Wh:
       answers: ~
@@ -375,7 +373,7 @@ points:
       answers: ~
       questions: ~
       attempts: ~
-    S:
+    Tag:
       answers: ~
       questions: ~
       attempts: ~
@@ -388,10 +386,10 @@ points:
       answers: 0
       questions: 0
       attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 2
+      questions: 3
+      attempts: 20
   U0031029:
     Wh:
       answers: 0
@@ -401,10 +399,10 @@ points:
       answers: 3
       questions: 5
       attempts: 9
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031031:
     Wh:
       answers: 0
@@ -414,10 +412,10 @@ points:
       answers: 0
       questions: 0
       attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 1
+      questions: 1
+      attempts: 11
   U0031033:
     Wh:
       answers: 0
@@ -427,10 +425,10 @@ points:
       answers: 3
       questions: 8
       attempts: 11
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031034:
     Wh:
       answers: 0
@@ -440,10 +438,10 @@ points:
       answers: 3
       questions: 4
       attempts: 4
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 3
+      attempts: 5
   U0031035:
     Wh:
       answers: 0
@@ -453,10 +451,10 @@ points:
       answers: 0
       questions: 0
       attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 3
+      questions: 8
+      attempts: 10
   U0031036:
     Wh:
       answers: 0
@@ -466,10 +464,10 @@ points:
       answers: 3
       questions: 4
       attempts: 9
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031037:
     Wh:
       answers: 0
@@ -479,10 +477,10 @@ points:
       answers: 3
       questions: 4
       attempts: 4
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031038:
     Wh:
       answers: 0
@@ -492,10 +490,10 @@ points:
       answers: 3
       questions: 4
       attempts: 9
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031039:
     Wh:
       answers: ~
@@ -505,7 +503,7 @@ points:
       answers: ~
       questions: ~
       attempts: ~
-    S:
+    Tag:
       answers: ~
       questions: ~
       attempts: ~
@@ -518,10 +516,10 @@ points:
       answers: 3
       questions: 3
       attempts: 5
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031041:
     Wh:
       answers: 0
@@ -531,10 +529,10 @@ points:
       answers: 3
       questions: 3
       attempts: 4
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 1
   U0031042:
     Wh:
       answers: 0
@@ -544,10 +542,10 @@ points:
       answers: 3
       questions: 5
       attempts: 8
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031043:
     Wh:
       answers: 0
@@ -557,10 +555,10 @@ points:
       answers: 3
       questions: 5
       attempts: 7
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031044:
     Wh:
       answers: 0
@@ -570,10 +568,10 @@ points:
       answers: 3
       questions: 5
       attempts: 9
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
   U0031045:
     Wh:
       answers: 0
@@ -583,10 +581,10 @@ points:
       answers: 0
       questions: 0
       attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 3
+      questions: 4
+      attempts: 6
   U0031047:
     Wh:
       answers: 0
@@ -596,10 +594,10 @@ points:
       answers: 0
       questions: 2
       attempts: 3
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 1
   U0031048:
     Wh:
       answers: 0
@@ -609,10 +607,10 @@ points:
       answers: 0
       questions: 0
       attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    Tag:
+      answers: 0
+      questions: 2
+      attempts: 24
   U0031049:
     Wh:
       answers: 0
@@ -622,11 +620,11 @@ points:
       answers: 0
       questions: 0
       attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  U9931040:
+    Tag:
+      answers: 3
+      questions: 6
+      attempts: 9
+  U9831152:
     Wh:
       answers: ~
       questions: ~
@@ -635,7 +633,20 @@ points:
       answers: ~
       questions: ~
       attempts: ~
-    S:
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U9833051:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
       answers: ~
       questions: ~
       attempts: ~
