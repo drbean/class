@@ -1,56 +1,58 @@
 ---
-Black:
-  - Jack
-  - Gary
-  - Amy
-BlackBlack:
-  - Harry
-  - Eric
-  - Eva
-Blue:
-  - Jimmy
-  - Peter
-  - Tina
-Brown:
-  - White
-  - Pig
-  - Christine
-Gray:
+1-1:
   - Banana
-  - Bess
-  - Shanny
-Green:
-  - Stacy
+  - Eric
+1-2:
+  - Pig
+  - White
+10-1:
   - Yun
-  - Ivy
-GreenGreen:
-  - Roy
-  - Alice
-  - Kevin
-Orange:
-  - Tony
-  - Alisa
-  - Ling
-OrangeOrange:
-  - Joyce
   - Jenny
-Pink:
-  - John
-  - Jim
-  - Sean
-Purple:
-  - Sweet
-  - Owen
-  - Kyle
-Red:
-  - Jessie
+10-2:
+  - Andy
+  - Ling
+2-1:
+  - Ivy
+  - Eva
+2-2:
+  - Josh
   - Lynette
+3-1:
   - Gill
-White:
-  - Joe
+  - Owen
+3-2:
+  - Shanny
+  - Kyle
+4-1:
+  - Sean
+  - Kevin
+4-2:
   - Kammy
   - Michelle
-Yellow:
-  - Josh
+5-1:
+  - Roy
+  - Gary
+11-1:
+  - Bess
+  - Alice
+11-2:
+  - Joe
+  - Tina
+7-1:
+  - Stacy
+  - Sweet
+7-2:
   - An
-  - Andy
+  - John
+8-1:
+  - Jessie
+  - Alisa
+8-2:
+  - Joyce
+  - Tony
+9-1:
+  - Jim
+  - Amy
+9-2:
+  - Peter
+  - Christine
