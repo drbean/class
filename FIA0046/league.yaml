@@ -277,6 +277,7 @@ series:
   - fourth
 session:
   1: 1
+  2: 5
 weights:
   classwork: 40
   exams: 20
