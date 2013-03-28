@@ -1,68 +1,75 @@
 ---
-Black:
-  - Sam
-  - George
-  - Ting
-BlackBlack:
-  - James
-  - Andy
-  - Linda1
-Blue:
-  - Ann
-  - Liz
-  - Jike
-BlueBlue:
-  - Leo2
-  - Cathy2
-  - Alice
-Brown:
-  - Bob
-  - Paul
-Gray:
-  - Tina
-  - Wei
-  - Chris
-Green:
-  - Sen
-  - Louis
-  - Jeffrey
-GreenGreen:
-  - Santie
-  - Hugh
-  - Ben
-Orange:
-  - Lisa
-  - Emma
-  - Teddy
-Pink:
-  - David
-  - Frank
-  - E.J.
-YellowYellow:
-  - Sunny
-  - Cabe
-  - Nana
-Purple:
-  - Rifle
-  - Amber
-  - Eric
-Red:
-  - Leo1
-  - Jimmy
-  - Abby
-White:
-  - Minmin
-  - Jessy
-  - Linda2
-Yellow:
-  - Tosha
-  - Sherry
-  - Lynn
-PurplePurple:
-  - Danny
+1-1:
   - Woodstock
+  - Liz
+1-2:
+  - Brook
+  - Bob
+10-1:
+  - Candy
+  - Nana
+10-2:
+  - Amber
+  - Jike
+11-1:
+  - James
+  - Cathy2
+11-2:
+  - Hugh
+  - Sen
+12-1:
   - Ken
-OrangeOrange:
+  - Andy
+12-2:
+  - Teddy
+  - Rifle
+13-1:
   - Yvonne
   - Annie
+13-2:
+  - Sunny
+  - E.J.
+14-1:
+  - Santie
+2-1:
+  - Ann
+  - Minmin
+2-2:
+  - Ting
+  - Leo1
+3-1:
+  - Tina
+  - Abby
+3-2:
+  - Louis
+  - Chris
+4-1:
+  - Jimmy
+  - David
+4-2:
+  - Cabe
+  - Jeffrey
+5-1:
+  - George
+  - Frank
+5-2:
+  - Emma
+  - Paul
+6-1:
+  - Lisa
+  - Ben
+6-2:
+  - Jessy
+  - Lynn
+8-1:
+  - Leo2
+  - Alice
+8-2:
+  - Danny
+  - Linda1
+9-1:
   - Cathy1
+  - Tosha
+9-2:
+  - Wei
+  - Eric
