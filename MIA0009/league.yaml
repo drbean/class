@@ -226,6 +226,7 @@ scores:
   win: 5
 session:
   1: 1
+  2: 5
 transfer: ~
 weights:
   classwork: 40
