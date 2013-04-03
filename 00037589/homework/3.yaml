@@ -1,67 +1,67 @@
 ---
 cutpoints:
   one: 20
-  two: 85
-exercise: language
+  two: 80
+exercise: smiling
 grade:
-  97550001: 0
-  97550002: 0
-  97550003: 0
-  97550004: 0
-  97550008: 0
+  97550001: 1
+  97550002: 1
+  97550003: 2
+  97550004: 2
+  97550008: 1
   97550009: 0
-  97550011: 0
-  97550017: 0
-  97550018: 0
-  97550021: 0
+  97550011: 1
+  97550017: 1
+  97550018: 1
+  97550021: 2
   97550023: 0
   97550027: 0
-  97550028: 0
-  97550031: 0
+  97550028: 1
+  97550031: 2
   97550033: 0
 points:
   97550001:
-    letters: 0
-    percent: 0
+    letters: 99
+    percent: 32
   97550002:
-    letters: 0
-    percent: 0
+    letters: 220
+    percent: 79
   97550003:
-    letters: 0
-    percent: 0
+    letters: 311
+    percent: 100
   97550004:
-    letters: 0
-    percent: 0
+    letters: 258
+    percent: 80
   97550008:
-    letters: 0
-    percent: 0
+    letters: 172
+    percent: 63
   97550009:
     letters: 0
     percent: 0
   97550011:
-    letters: 0
-    percent: 0
+    letters: 96
+    percent: 36
   97550017:
-    letters: 0
-    percent: 0
+    letters: 143
+    percent: 54
   97550018:
-    letters: 0
-    percent: 0
+    letters: 227
+    percent: 74
   97550021:
-    letters: 0
-    percent: 0
+    letters: 287
+    percent: 100
   97550023:
-    letters: 0
-    percent: 0
+    letters: 35
+    percent: 12
   97550027:
     letters: 0
     percent: 0
   97550028:
-    letters: 0
-    percent: 0
+    letters: 156
+    percent: 52
   97550031:
-    letters: 0
-    percent: 0
+    letters: 314
+    percent: 100
   97550033:
     letters: 0
     percent: 0
