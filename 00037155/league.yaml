@@ -102,6 +102,8 @@ series:
   - second
   - third
   - fourth
+session:
+  1: 1
 weights:
   classwork: 40
   exams: 20
