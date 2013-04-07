@@ -1,0 +1,33 @@
+---
+2-1:
+  absent: 
+    - Ming
+    - Carina
+  merits: 2
+1-1:
+  absent: 
+    - Abby
+  merits: 3
+
+1-2:
+  absent: 
+  merits: 2
+2-2:
+  absent: 
+  merits: 3
+
+4-1:
+  absent: 
+    - Frances
+  merits: 2
+3-1:
+  absent: 
+    - Stella
+  merits: 0
+
+3-2:
+  absent: 
+  merits: 3
+4-2:
+  absent: 
+  merits: 3
