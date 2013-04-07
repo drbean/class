@@ -1,0 +1,18 @@
+---
+# o'reilly, news story questionsc
+Black:
+  absent:
+  merits: 3
+Blue:
+  absent:
+  merits: 2.4
+Orange:
+  absent:
+  merits: 3
+Pink:
+  absent:
+  tardy:
+  merits: 2.4
+Purple:
+  absent:
+  merits: 2.2
