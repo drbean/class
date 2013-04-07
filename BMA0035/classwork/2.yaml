@@ -52,3 +52,9 @@ YellowYellow:
 Orange:
       absent: 
       merits: 3
+
+PurplePurple:
+      absent: 
+        - Gaanii
+        - Jenny
+      merits: 0
