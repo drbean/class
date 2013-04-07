@@ -1,65 +1,70 @@
 ---
-Black:
-  - Jenny
-  - Lily
-  - Flora1
-BlackBlack:
-  - Shion-Yu
-  - Helen
-  - ShuJing
-Blue:
-  - WeiYu
-  - Zoe
-  - Amy
-BlueBlue:
-  - Tony
-  - YiJie
-  - Gina
-Brown:
-  - Hui
-  - Ian
-  - Sandy
-BrownBrown:
-  - Flora2
-  - Alice
-  - Judy
-Gray:
-  - Henry
-  - Trista
-  - Sophie
-Green:
-  - Rene
-  - Jophiel
-  - Emily
-Orange:
-  - David1
-  - Sherry
-  - Stanley
-OrangeOrange:
-  - Jessie
-  - Victor
-  - Polly2
-Pink:
-  - Jimmy
-  - Soccer
-  - Polly1
-PinkPink:
-  - Anastasia
-  - Aslyn
-  - David2
-Purple:
-  - Jason
-  - Alien
-  - Tiffany
-Red:
-  - Celina
-  - Alan
-  - Shirley
-White:
-  - Sylvia
+1-1:
+  - David
   - Whitney
+1-2:
+  - Gaanii
+  - Aslyn
+10-1:
+  - Sylvia
+  - Victor
+10-2:
+  - Gina
+  - Sandy
+11-1:
   - John
-Yellow:
-  - Banana
   - Winnie
+11-2:
+  - ShuJing
+  - Ian
+12-1:
+  - Jason
+  - Judy
+12-2:
+  - Banana
+  - Alice
+13-1:
+  - Helen
+  - Shirley
+2-1:
+  - Gary
+  - Celina
+2-2:
+  - Tony
+  - Jophiel
+3-1:
+  - Jessie
+  - Alien
+3-2:
+  - Jenny
+  - Tiffany
+4-1:
+  - Anastasia
   - Natalie
+4-2:
+  - Polly2
+  - Hui
+5-1:
+  - Soccer
+  - Jimmy
+5-2:
+  - Henry
+  - Sherry
+6-1:
+  - Shion-Yu
+  - Lily
+6-2:
+  - Polly1
+  - Flora
+8-1:
+  - Sophie
+  - Emily
+8-2:
+  - Trista
+  - YiJie
+9-1:
+  - Alan
+  - Zoe
+9-2:
+  - Rene
+  - Amy
