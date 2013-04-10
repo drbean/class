@@ -1,67 +1,67 @@
 ---
 cutpoints:
   one: 20
-  two: 85
-exercise: control
+  two: 80
+exercise: wallace-oreilly
 grade:
-  97550001: 2
-  97550002: 2
+  97550001: 0
+  97550002: 1
   97550003: 2
   97550004: 2
-  97550008: 2
+  97550008: 1
   97550009: 2
-  97550011: 2
-  97550017: 2
-  97550018: 2
-  97550021: 2
+  97550011: 1
+  97550017: 1
+  97550018: 1
+  97550021: 1
   97550023: 2
-  97550027: 2
-  97550028: 2
-  97550031: 2
-  97550033: 0
+  97550027: 0
+  97550028: 1
+  97550031: 1
+  97550033: 1
 points:
   97550001:
-    letters: 270
-    percent: 100
+    letters: 11
+    percent: 4
   97550002:
-    letters: 281
-    percent: 100
+    letters: 140
+    percent: 59
   97550003:
-    letters: 260
+    letters: 186
     percent: 100
   97550004:
-    letters: 288
-    percent: 100
+    letters: 218
+    percent: 98
   97550008:
-    letters: 274
-    percent: 100
+    letters: 121
+    percent: 56
   97550009:
-    letters: 241
-    percent: 100
+    letters: 168
+    percent: 80
   97550011:
-    letters: 251
-    percent: 100
+    letters: 120
+    percent: 55
   97550017:
-    letters: 284
-    percent: 100
+    letters: 60
+    percent: 26
   97550018:
-    letters: 241
-    percent: 100
+    letters: 93
+    percent: 42
   97550021:
-    letters: 254
-    percent: 100
+    letters: 122
+    percent: 57
   97550023:
-    letters: 241
-    percent: 100
+    letters: 213
+    percent: 96
   97550027:
-    letters: 261
-    percent: 100
+    letters: 25
+    percent: 11
   97550028:
-    letters: 263
-    percent: 100
+    letters: 46
+    percent: 23
   97550031:
-    letters: 269
-    percent: 100
+    letters: 143
+    percent: 60
   97550033:
-    letters: 0
-    percent: 0
+    letters: 86
+    percent: 41
