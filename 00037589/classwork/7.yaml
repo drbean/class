@@ -1,0 +1,23 @@
+---
+# Frank: Savoir 5
+# adjudicated
+Black:
+  absent:
+  merits: 2.5
+
+Blue:
+  absent:
+  merits: 3
+
+Orange:
+  absent:
+  merits: 2
+
+Pink:
+  absent:
+  merits: 2
+
+Purple:
+  absent:
+    - Anita
+  merits: 2.5
