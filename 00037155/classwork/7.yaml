@@ -1,0 +1,23 @@
+---
+# smoking commercials cloze
+Black:
+  absent:
+  merits: 3
+Blue:
+  absent:
+  merits: 2.5
+Orange:
+  absent:
+    - Doris
+  tardy:
+    - Cheer
+  merits: 2.5
+Pink:
+  absent:
+  tardy:
+  merits: 3
+Purple:
+  absent:
+    - Anita
+    - Jennifer
+  merits: 3
