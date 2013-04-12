@@ -1,0 +1,24 @@
+---
+# interview :smiling, savoir 1-3
+# adjudicated
+
+Orange:
+  absent:
+  tardy:
+    - Doris
+  merits: 2
+Black:
+  absent:
+  merits: 3
+
+Blue:
+  absent:
+  merits: 3
+Pink:
+  absent:
+  merits: 2
+
+# assistants
+Purple:
+  absent:
+  merits: 3
