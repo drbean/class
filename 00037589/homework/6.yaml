@@ -1,8 +1,8 @@
 ---
 cutpoints:
   one: 20
-  two: 85
-exercise: control
+  two: 80
+exercise: frank3
 grade:
   97550001: 2
   97550002: 2
@@ -16,52 +16,52 @@ grade:
   97550021: 2
   97550023: 2
   97550027: 2
-  97550028: 2
-  97550031: 2
-  97550033: 0
+  97550028: 1
+  97550031: 0
+  97550033: 2
 points:
   97550001:
-    letters: 270
-    percent: 100
+    letters: 188
+    percent: 82
   97550002:
-    letters: 281
-    percent: 100
+    letters: 196
+    percent: 95
   97550003:
-    letters: 260
+    letters: 267
     percent: 100
   97550004:
-    letters: 288
+    letters: 209
     percent: 100
   97550008:
-    letters: 274
-    percent: 100
+    letters: 229
+    percent: 93
   97550009:
-    letters: 241
+    letters: 243
     percent: 100
   97550011:
-    letters: 251
+    letters: 231
     percent: 100
   97550017:
-    letters: 284
-    percent: 100
+    letters: 202
+    percent: 86
   97550018:
-    letters: 241
-    percent: 100
+    letters: 203
+    percent: 89
   97550021:
-    letters: 254
+    letters: 225
     percent: 100
   97550023:
-    letters: 241
-    percent: 100
+    letters: 233
+    percent: 92
   97550027:
-    letters: 261
-    percent: 100
+    letters: 200
+    percent: 93
   97550028:
-    letters: 263
-    percent: 100
+    letters: 143
+    percent: 64
   97550031:
-    letters: 269
-    percent: 100
-  97550033:
     letters: 0
     percent: 0
+  97550033:
+    letters: 235
+    percent: 94
