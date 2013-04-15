@@ -1,33 +1,32 @@
 ---
-Black:
+# story: wallace, smoking
+
+1-1:
   absent: 
   merits: 2
-Blue:
+1-2:
   absent: 
   merits: 3
-Brown:
+
+2-1:
+  absent: 
+  merits: 3
+2-2:
   absent: 
   merits: 2
-Gray:
+
+3-1:
   absent: 
   merits: 3
-Green:
+3-2:
   absent: 
-    - Cathy
-  merits: 3
-Orange:
-  absent: 
+    - Yi-Ru
   merits: 2
-Pink:
+
+4-1:
   absent: 
-    - Jacinta
   merits: 3
-Purple:
-  absent:
-  merits: 3
-Red:
+4-2:
   absent: 
-  merits: 2
-White:
-  absent: 
+    - Kori
   merits: 2
