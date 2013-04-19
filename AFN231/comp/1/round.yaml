@@ -1,6 +1,6 @@
 ---
 activity:
-  1st_impressions:
+  robin-hood:
     0:
       - 0
       - 1
@@ -12,89 +12,68 @@ activity:
       - 7
       - 8
       - 9
-  traffic:
-    0:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-  language:
-    0:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-  marriage:
-    0:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-assistant:
-  BlueBlue:
-    V9841042: 5
-  Pink:
-    V9941068: 5
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+assistant: ~
 dispensation: ~
-divisions:
-  - free
+divisions: ~
 group:
   0:
-    White: V9941007
-    Black: V9941062
+    White: N99200010
+    Black: N00202003
   1:
-    White: V9941026
-    Black: V9941032
+    White: N99200016
+    Black: N99200021
   2:
-    White: V9916050
-    Black: V9941050
+    White: N97080093
+    Black: N99200019
   3:
-    White: V9941045
-    Black: V9941071
+    White: N99200036
+    Black: N99200027
   4:
-    White: V9941015
-    Black: V9941029
+    White: N99200033
+    Black: N99200013
   5:
-    White: V9941047
-    Black: V9941013
+    White: N99200009
+    Black: N99200007
   6:
-    White: V9941059
-    Black: V9941075
+    White: N99200004
+    Black: N00202103
   7:
-    White: V9941023
-    Black: V9941011
+    White: N99200028
+    Black: N99200020
   8:
-    White: V9841049
-    Black: V9841002
+    White: N99200011
+    Black: N96200019
   9:
-    White: V9741022
-    Black: V9841031
-  
+    White: N99200012
+    Black: N99200005
+  10:
+    White: N99200045
+    Black: N99200047
+  11:
+    White: N99200002
+    Black: N99200050
+  12:
+    White: N99200032
+    Black: N99200014
+  13:
+    White: N99200024
+    Black: N99200008
+  14:
+    White: N99200023
+    Black: N99200030
+  15:
+    White: N99200022
+    Black: N99200051
 late:
-  - V9841049
-  - V9841002
-  - V9741022
-  - V9841031
+  - ~
 pairing: swiss
 payprotocol: meritPay
 round: 1
-text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
-week: 5
+text: ~
+week: ~
