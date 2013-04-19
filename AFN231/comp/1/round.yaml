@@ -38,11 +38,10 @@ activity:
       - 15
 assistant:
   Orange:
-    N99200025: 2
-    N99200039: 2
-    N99200041: 2
-dispensation:
-  N99200035: 2
+    N99200025: ~
+    N99200039: ~
+    N99200041: ~
+dispensation: ~
 divisions: ~
 group:
   0:
