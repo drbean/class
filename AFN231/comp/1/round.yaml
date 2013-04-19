@@ -18,12 +18,31 @@ activity:
       - 13
       - 14
       - 15
+  don-quixote:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
 assistant:
   Orange:
-    N99200025: ~
-    N99200039: ~
-    N99200041: ~
-dispensation: ~
+    N99200025: 2
+    N99200039: 2
+    N99200041: 2
+dispensation:
+  N99200035: 2
 divisions: ~
 group:
   0:
@@ -79,5 +98,5 @@ late:
 pairing: swiss
 payprotocol: meritPay
 round: 1
-text: ~
-week: ~
+text: /home/drbean/class/literature/cards.yaml
+week: 4
