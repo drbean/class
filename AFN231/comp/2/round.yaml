@@ -18,10 +18,50 @@ activity:
       - 14
       - 15
       - 16
-assistant: ~
-bye: N98200045
-dispensation: ~
-divisions: ~
+  frankenstein:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+  twist:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+assistant:
+  Orange:
+    N97080093: 5
+    N99200032: 5
+    N99200024: 5
+bye: N99200045
+dispensation:
+divisions:
 group:
   1:
     White: N99200025
@@ -72,9 +112,9 @@ group:
     White: N99200007
     Black: N00202003
 late:
-  - ~
+  - N99200045
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 3
 round: 2
-text: ~
-week: ~
+text: /home/drbean/class/literature/cards.yaml
+week: 9
