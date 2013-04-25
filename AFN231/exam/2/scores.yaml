@@ -2,50 +2,74 @@
 Chinese:
   Black: 0
   BlackBlack: 0
+  Blue: 0
+  BlueBlue: 0
+  Brown: 0
   Green: 0
-  One: 0
+  Orange: 0
+  OrangeOrange: 0
   Pink: 0
-  Three: 0
-  Two: 0
-  White: 0
+  Purple: 0
+  Red: 0
+  Yellow: 0
 letters:
   Black:
-    V9916050: 7
-    V9941011: 10
-    V9941059: 10
-    story: control0
+    N99200010: 5
+    N99200036: 5
+    N99200005: 9
+    story: twist0
   BlackBlack:
-    V9941040: 9
-    V9941015: 10
-    V9941045: 9
-    story: rumor0
+    N99200023: 8
+    N99200032: 8
+    N99200033: 8
+    story: frankenstein1
+  Blue:
+    N99200025: 3
+    N00202003: 7
+    N99200051: 5
+    story: swiss1
+  BlueBlue:
+    N99200016: 10
+    N99200028: 10
+    N99200009: 7
+    story: twist1
+  Brown:
+    N99200041: 9
+    N99200022: 8
+    N99200007: 7
+    story: swiss1
   Green:
-    V9841002: 10
-    V9941023: 10
-    V9941068: 10
-    story: rumor0
-  One:
-    V9941032: 4
-    V9841042: 10
-    V9941062: 7
-    story: rumor0
+    N99200035: 8
+    N99200050: 8
+    N99200027: 5
+    story: frankenstein1
+  Orange:
+    N97080093: 10
+    N99200045: 10
+    N99200024: 8
+    story: frankenstein0
+  OrangeOrange:
+    N99200030: 7
+    N99200013: 7
+    N99200021: 6
+    story: swiss0
   Pink:
-    V9741022: 7
-    V9941026: 6
-    V9941013: 7
-    story: control0
-  Three:
-    V9841031: 9
-    V9841049: 8
-    V9941036: 8
-    story: cohabitation0
-  Two:
-    V9941007: 9
-    V9941050: 8
-    V9941029: 10
-    story: rumor0
-  White:
-    V9941071: 10
-    V9941075: 9
-    V9941047: 9
-    story: cohabitation0
+    N00202103: 9
+    N99200012: 10
+    N99200002: 9
+    story: twist1
+  Purple:
+    N99200019: 9
+    N99200047: 5
+    N99200011: 9
+    story: twist0
+  Red:
+    N99200014: 9
+    N96200019: 7
+    N99200004: 10
+    story: frankenstein0
+  Yellow:
+    N99200039: 7
+    N99200008: 7
+    N99200020: 7
+    story: swiss0
