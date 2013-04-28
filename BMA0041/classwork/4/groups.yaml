@@ -1,65 +1,61 @@
 ---
-Absent:
-  - Lin-ho
 Black:
-  - Willie
-  - Susan
-  - Maggie
-BlackBlack:
-  - Caxton
-  - Polly
-  - Ciyun
-Blue:
-  - Eric
-  - Yi-Zhen
-  - Grace
-BlueBlue:
-  - Jason
-  - Max
-  - Apple
-Brown:
-  - A-Mei
-  - Mandy
-  - Wayne
-Gray:
-  - Alison
-  - Jeffrey
-  - Tiffany
-Green:
   - Lydia
+  - Casper
+  - Cindy
+Blue:
+  - A-Mei
+  - Jim
+  - Joanna
+Brown:
+  - Bebe
+  - Penny
+  - Grace
+Gray:
+  - Jungle
+  - Jenny
+  - Wayne
+Green:
+  - Annie
+  - Maggie
+  - Tiffany
+BlackBlack:
+  - Wade
+  - Apple
+  - Winnie
+BlueBlue:
+  - Aling
+  - Bella
+  - Fang
+GreenGreen:
+  - Caxton
   - Venus
   - Angela
-GreenGreen:
-  - Wade
-  - Casper
-  - Ya-Lin
 Orange:
-  - Bebe
-  - Jenny
-  - Annie
-OrangeOrange:
   - Chelsea
-  - Jill
-Pink:
-  - Joyce
-  - Cathy
-  - Sam
-Purple:
-  - Alen
-  - Jim
-  - Winnie
-Red:
-  - Joanna
-  - SuSu
-White:
-  - Aling
-  - Christina
-  - Cindy
-Yellow:
-  - Penny
-  - Bella
   - Yuda
-YellowYellow:
-  - Jungle
-  - Fang
+  - Ya-Lin
+Pink:
+  - David1
+  - Eric
+  - Mandy
+Purple:
+  - Polly
+  - Sam
   - Skylla
+Red:
+  - Joyce
+  - Alen
+  - Jill
+White:
+  - Yi-Zhen
+  - SuSu
+  - Cathy
+Yellow:
+  - Max
+  - Jeffrey
+  - Susan
+YellowYellow:
+  - David2
+  - Jason
+  - Christina
