@@ -1,8 +1,7 @@
 ---
 activity:
-  4:
+  4_Ps:
     0:
-      - 0
       - 1
       - 2
       - 3
@@ -22,13 +21,63 @@ activity:
       - 17
       - 18
       - 19
-assistant: ~
+  bottled_water:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+  drbean:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+assistant:
+  5-2:
+    U0031119: 5
+    U0031114: 5
+  4-2:
+    U0031104: 5
+  8-1:
+    U0031133: 5
+    U0031130: 5
+  8-2:
+    U0031112: 5
+bye: U0031113
 dispensation: ~
 divisions: ~
 group:
-  0:
-    White: U0031141
-    Black: U0031113
   1:
     White: U0031118
     Black: U0031145
@@ -87,9 +136,8 @@ group:
     White: U0031107
     Black: U0031110
 late:
-  - ~
 pairing: swiss
 payprotocol: meritPay
 round: 2
-text: ~
-week: ~
+text: /home/drbean/class/business/marketing/cards.yaml
+week: 9
