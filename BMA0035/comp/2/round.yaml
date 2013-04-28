@@ -1,6 +1,6 @@
 ---
 activity:
-  argos:
+  4_Ps:
     0:
       - 0
       - 1
@@ -22,132 +22,74 @@ activity:
       - 17
       - 18
       - 19
-      - 20
-  website:
-    0:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
-      - 19
-      - 20
-  vacations:
-    0:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
-      - 19
-      - 20
-assistant:
-  White:
-    U0031033: 5
-    U0031020: 5
-    U0031007: 5
-  PinkPink:
-    U0031012: 4
-    U0031049: 4
-    U0031036: 4
-dispensation:
-divisions:
-  - free
+assistant: ~
+dispensation: ~
+divisions: ~
 group:
   0:
-    White: U9831152
-    Black: U9931129
-  1:
-    White: U9831006
-    Black: U0031026
-  2:
-    White: U0031011
-    Black: U9831144
-  3:
-    White: U0031013
-    Black: U0031045
-  4:
-    White: U0031024
-    Black: U0031003
-  5:
-    White: U0031038
-    Black: U0031016
-  6:
-    White: U0031048
-    Black: U0031002
-  7:
-    White: U0031027
-    Black: U0031039
-  8:
-    White: U0031004
-    Black: U0031044
-  9:
-    White: U0031008
-    Black: U0022016
-  10:
-    White: U0031009
-    Black: U0031018
-  11:
-    White: U0031014
-    Black: U0031001
-  12:
-    White: U0031047
+    White: T9831019
     Black: U0031022
-  13:
-    White: U0031006
-    Black: U0031043
-  14:
-    White: U0031010
+  1:
+    White: U0031002
     Black: U0031042
-  15:
-    White: U0031005
-    Black: U0031031
-  16:
-    White: U0031034
-    Black: U0031017
-  17:
-    White: U9931152
-    Black: U0031028
-  18:
-    White: U0031037
-    Black: U0031041
-  19:
-    White: U0031025
+  2:
+    White: U0031007
+    Black: U0031018
+  3:
+    White: U0031045
+    Black: U9833051
+  4:
+    White: U0031010
+    Black: U9831152
+  5:
+    White: U0031009
+    Black: U0031008
+  6:
+    White: U0031031
     Black: U0031035
-  20:
-    White: U0031029
+  7:
+    White: U0031026
+    Black: U0031001
+  8:
+    White: U0031005
+    Black: U0022016
+  9:
+    White: U0031014
+    Black: U0031048
+  10:
+    White: U0031006
+    Black: U0031041
+  11:
+    White: U0031037
     Black: U0031040
+  12:
+    White: U0031004
+    Black: U0031020
+  13:
+    White: U0031036
+    Black: U0031039
+  14:
+    White: U0031034
+    Black: U0031044
+  15:
+    White: U0031012
+    Black: U0031016
+  16:
+    White: U0031027
+    Black: U0031033
+  17:
+    White: U0031047
+    Black: U0031049
+  18:
+    White: U0031017
+    Black: U0031011
+  19:
+    White: U0031024
+    Black: U0031043
 late:
+  - ~
 pairing: swiss
 payprotocol: meritPay
 round: 2
-text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
-week: 9
+text: ~
+week: ~
