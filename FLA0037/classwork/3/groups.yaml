@@ -1,31 +1,33 @@
 ---
-Black:
+1-1:
+  - Kitty
+  - Dean
+  - Wei-Yi
+1-2:
+  - Joy
+  - Ming
+  - Amy
+2-1:
+  - Dennis
+  - Abby
+  - Winnie
+2-2:
   - Hank
-  - Joe
-  - Molly
-Blue:
-  - Tracy
-  - Kathy
-  - Jessica
-Green:
-  - Nancy
-  - Maggie
-  - Tina
-Orange:
-  - Kumiko
-  - Nina
-  - Ivy1
-Red:
-  - Donna
-  - Jacinta
-  - Elly
-White:
-  - Andy
-  - Anita
-  - Carol
-BlueBlue:
-  - Michelle
-  - Emily2
-BrownBrown:
-  - Ivy2
-  - Allen
+  - Stella
+  - Stanley
+3-1:
+  - Joan
+  - Katty
+  - Cindy
+3-2:
+  - Frances
+  - Leo
+  - Bass
+4-1:
+  - Cathy
+  - Yi-Ru
+  - Debbie
+4-2:
+  - Kori
+  - Carina
+  - Yorick
