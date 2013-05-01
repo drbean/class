@@ -1,42 +1,46 @@
 ---
-round: Exam 3
-week: 13
+round: Exam 2
+week: 9
 questions:
   - 10
 pass: 5
 assistant:
 absent:
-text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
+text: /home/drbean/class/intercultural/cards.yaml
 activity:
-  cohabitation:
-    0:
-      - Pink
-      - Purple
-  refugees:
-    0:
-      - Black
-      - Orange
-  weight:
-    0:
+  injury:
+    1:
       - Blue
+  no:
+    1:
+      - Pink
+  paying:
+    1:
+      - Orange
+  american:
+    1:
+      - Black
+  smiling:
+    1:
+      - Purple
 group:
-  Black:
-    - Jay
-    - Cindy
-    - Doris
-  Blue:
-    - Mandy
-    - Jill
-    - Yvonne
-  Orange:
-    - Lin
-    - Mil
+  Purple:
+    - Jennifer
+    - Anita
     - Miru
   Pink:
-    - Anita
     - Eva
-    - Jennifer
-  Purple:
+    - Lin
     - Sally
-    - Stella
+  Orange:
     - Cheer
+    - Doris
+    - Cindy
+  Blue:
+    - Jill
+    - Mandy
+    - Yvonne
+  Black:
+    - Mil
+    - Jay
+    - Stella
