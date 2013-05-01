@@ -1,7 +1,7 @@
 ---
 activity:
-  true-love:
-    16-20:
+  news_questions:
+    0:
       - 1
       - 2
       - 3
@@ -9,44 +9,36 @@ activity:
       - 5
       - 6
       - 7
-    21-25:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-assistant:
-bye: 97550011
-dispensation:
+assistant: ~
+bye: 97550003
+dispensation: ~
 divisions:
   - free
 group:
   1:
-    White: 97550002
-    Black: 97550004
+    White: 97550009
+    Black: 97550011
   2:
-    White: 97550023
-    Black: 97550028
-  3:
-    White: 97550003
-    Black: 97550009
-  4:
-    White: 97550021
-    Black: 97550008
-  5:
-    White: 97550027
-    Black: 97550031
-  6:
     White: 97550033
-    Black: 97550018
+    Black: 97550008
+  3:
+    White: 97550004
+    Black: 97550031
+  4:
+    White: 97550028
+    Black: 97550002
+  5:
+    White: 97550023
+    Black: 97550021
+  6:
+    White: 97550027
+    Black: 97550001
   7:
     White: 97550017
-    Black: 97550001
+    Black: 97550018
 late:
-pairing: swiss
-payprotocol: meritPay 6
-round: 2
-text: /home/drbean/class/intercultural/customs/cards.yaml
-week: 8
+pairing: hand
+payprotocol: meritPay 7
+round: 4
+text: /home/drbean/class/intercultural/cards.yaml
+week: 9
