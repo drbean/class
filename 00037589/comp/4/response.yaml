@@ -1,170 +1,119 @@
 ---
 free:
   1:
-    true-love:
-      16-20:
-        97550002:
+    news_questions:
+      0:
+        97550009:
           point:
-            1: Returned
-            2: Old
-            3: Returned
-            4: Returned
-        97550004:
-          point:
-            1: Returned
-      21-25:
-        97550002:
-          point:
-            1: Returned
-            2: Fault
-            3: Returned
-        97550004:
-          point:
-            1: Returned
+            1: Unreturned
             2: Returned
+            3: Unreturned
+            4: Unreturned
+            5: Unreturned
+        97550011:
+          point:
+            1: Returned
+            2: Unreturned
             3: Returned
             4: Returned
             5: Returned
   2:
-    true-love:
-      16-20:
-        97550023:
+    news_questions:
+      0:
+        97550033:
+          point:
+            1: Unreturned
+            2: Unreturned
+            3: Returned
+            4: Returned
+            5: Unreturned
+        97550008:
           point:
             1: Returned
+            2: Returned
+            3: Unreturned
+            4: Unreturned
+            5: Returned
+  3:
+    news_questions:
+      0:
+        97550004:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+            4: Unreturned
+            5: Unreturned
+        97550031:
+          point:
+            1: Unreturned
+            2: Unreturned
+            3: Unreturned
+            4: Returned
+            5: Returned
+  4:
+    news_questions:
+      0:
         97550028:
           point:
             1: Returned
-      21-25:
+            2: Unreturned
+            3: Unreturned
+            4: Unreturned
+        97550002:
+          point:
+            1: Unreturned
+            2: Returned
+            3: Returned
+            4: Returned
+  5:
+    news_questions:
+      0:
         97550023:
+          point:
+            1: Unreturned
+            2: Unreturned
+            3: Returned
+            4: Unreturned
+            5: Unreturned
+        97550021:
           point:
             1: Returned
             2: Returned
             3: Returned
             4: Returned
             5: Returned
-        97550028:
+  6:
+    news_questions:
+      0:
+        97550027:
           point:
             1: Returned
+            2: Unreturned
+            3: Returned
+            4: Unreturned
+            5: Unreturned
+        97550001:
+          point:
+            1: Unreturned
             2: Returned
+            3: Unreturned
+            4: Returned
+            5: Returned
+  7:
+    news_questions:
+      0:
+        97550017:
+          point:
+            1: Unreturned
+            2: Returned
+            3: Unreturned
+            4: Unreturned
+            5: Returned
+        97550018:
+          point:
+            1: Returned
+            2: Unreturned
             3: Returned
             4: Returned
             5: Unreturned
-  3:
-    true-love:
-      16-20:
-        97550003:
-          point:
-            1: Returned
-            2: Returned
-        97550009:
-          point:
-            1: Returned
-      21-25:
-        97550003:
-          point:
-            1: Fault
-            2: Fault
-            3: Returned
-            4: Returned
-        97550009:
-          point:
-            1: Returned
-            2: Fault
-            3: Fault
-            4: Fault
-            5: Fault
-  4:
-    true-love:
-      16-20:
-        97550021:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
-        97550008:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
-            4: Old
-      21-25:
-        97550021:
-          point:
-            1: Returned
-            2: Returned
-        97550008:
-          point:
-            1: Old
-            2: Returned
-            3: Old
-  5:
-    true-love:
-      16-20:
-        97550027:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
-        97550031:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
-            4: Returned
-      21-25:
-        97550027:
-          point:
-            1: Returned
-            2: Returned
-        97550031:
-          point:
-            1: Returned
-  6:
-    true-love:
-      16-20:
-        97550033:
-          point:
-            1: Returned
-            2: Returned
-        97550018:
-          point:
-            1: Returned
-            2: Returned
-      21-25:
-        97550033:
-          point:
-            1: Returned
-            2: Fault
-            3: Returned
-            4: Unreturned
-        97550018:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
-            4: Returned
-  7:
-    true-love:
-      16-20:
-        97550017:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
-        97550001:
-          point:
-            1: Returned
-            2: Returned
-      21-25:
-        97550017:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
-            4: Returned
-        97550001:
-          point:
-            1: Fault
-            2: Returned
-            3: Returned
-            4: Returned

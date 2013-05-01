@@ -1,40 +1,39 @@
 ---
-round: Exam 4
-week: 17
+round: Exam 2
+week: 9
 questions:
   - 10
 pass: 5
 assistant:
 absent:
-text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
+text: /home/drbean/class/media/cards.yaml
 activity:
-  match:
+  interviews:
     0:
       - Orange
       - Purple
-  dress:
-    0:
+    1:
       - Black
       - Blue
       - Pink
 group:
-  Black:
-    - Cheer
-    - Jay
-    - Jill
-  Blue:
-    - Stella
-    - Lin
-    - Yvonne
-  Orange:
-    - Eva
-    - Cindy
-    - Mandy
-  Pink:
-    - Jennifer
-    - Sally
-    - Miru
   Purple:
-    - Doris
-    - Mil
+    - Jennifer
     - Anita
+    - Miru
+  Pink:
+    - Eva
+    - Lin
+    - Sally
+  Orange:
+    - Cheer
+    - Doris
+    - Cindy
+  Blue:
+    - Jill
+    - Mandy
+    - Yvonne
+  Black:
+    - Mil
+    - Jay
+    - Stella
