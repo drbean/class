@@ -1,99 +1,279 @@
 ---
 Chinese:
-  Black: 0
-  BlackBlack: 0
-  Blue: 0
-  BlueBlue: 0
-  Brown: 0
-  BrownBrown: 0
-  Gray: 0
-  Green: 0
-  Orange: 0
-  OrangeOrange: 0
-  Pink: 0
-  PinkPink: 0
-  Purple: 0
-  Red: 0
-  White: 0
-  Yellow: 0
+  T9831019: 0
+  U0022016: 0
+  U0031001: 0
+  U0031002: 0
+  U0031003: 0
+  U0031004: 0
+  U0031005: 0
+  U0031006: 0
+  U0031007: 0
+  U0031008: 0
+  U0031009: 0
+  U0031010: 0
+  U0031011: 0
+  U0031012: 0
+  U0031013: 0
+  U0031014: 0
+  U0031016: 0
+  U0031017: 0
+  U0031018: 0
+  U0031020: 0
+  U0031022: 0
+  U0031024: 0
+  U0031025: 0
+  U0031026: 0
+  U0031027: 0
+  U0031028: 0
+  U0031029: 0
+  U0031031: 0
+  U0031033: 0
+  U0031034: 0
+  U0031035: 0
+  U0031036: 0
+  U0031037: 0
+  U0031038: 0
+  U0031039: 0
+  U0031040: 0
+  U0031041: 0
+  U0031042: 0
+  U0031043: 0
+  U0031044: 0
+  U0031045: 0
+  U0031047: 0
+  U0031048: 0
+  U0031049: 0
+  U9831152: 0
+  U9833051: 0
 letters:
-  Black:
-    U9831006: 4
-    U0031024: 4
-    U0031029: 4
-    story: vacations77
-  BlackBlack:
-    U9831152: 3
-    U0031017: 3
-    U0031025: 5
-    story: vacations66
-  Blue:
-    U0031048: 5
-    U0031003: 3
-    U9931152: 3
-    story: vacations44
-  BlueBlue:
-    U0031011: 4
-    U0031002: 3
-    U0031037: 3
-    story: vacations66
-  Brown:
-    U0031026: 4
-    U0031004: 3
-    U0031022: 3
-    story: vacations55
-  BrownBrown:
+  T9831019:
+    T9831019: 4
+    U0031043: 5
+    U0031033: 2
+    story: saleshoes_2
+  U0022016:
     U0022016: 4
-    U0031040: 0
-    U0031006: 4
-    story: vacations33
-  Gray:
-    U9931129: 4
-    U0031018: 3
+    U0031029: 3
+    U0031043: 4
+    story: saleshoes_1
+  U0031001:
     U0031001: 4
-    story: vacations44
-  Green:
-    U0031045: 3
-    U0031028: 6
-    U0031039: 5
-    story: vacations55
-  Orange:
-    U0031031: 4
+    U0031044: 4
     U0031047: 4
-    U0031014: 5
-    story: vacations33
-  OrangeOrange:
-    U0031038: 2
-    U0031009: 2
-    U0031042: 2
-    story: vacations22
-  Pink:
+    story: saleoil_1
+  U0031002:
+    U0031002: 3
+    U0031012: 4
+    U0031010: 3
+    story: salemilk_1
+  U0031003:
+    U0031003: 5
+    U0031018: 5
     U0031013: 5
-    U0031043: 3
+    story: saleshoes_2
+  U0031004:
+    U0031004: 5
+    U0031031: 5
     U0031008: 5
-    story: vacations44
-  PinkPink:
-    U0031012: 6
-    U0031049: 5
-    U0031036: 6
-    story: vacations55
-  Purple:
+    story: salerice_1
+  U0031005:
+    U0031005: 1
+    U0031010: 3
+    U0031040: 3
+    story: salebananas_2
+  U0031006:
+    U0031006: 4
+    U0031025: 5
+    U0031036: 4
+    story: salebananas_1
+  U0031007:
+    U0031007: 3
+    U0031045: 3
+    U0031031: 3
+    story: salemilk_2
+  U0031008:
+    U0031008: 5
+    U0031017: 5
+    U0031004: 5
+    story: saleeggs_1
+  U0031009:
+    U0031009: 5
+    U0031049: 4
+    U0031017: 5
+    story: saleeggs_1
+  U0031010:
+    U0031010: 5
     U0031005: 5
-    U9831144: 3
-    U0031010: 4
-    story: vacations77
-  Red:
-    U0031016: 3
-    U0031034: 4
-    U0031044: 5
-    story: vacations22
-  White:
-    U0031033: 5
-    U0031020: 2
-    U0031007: 1
-    story: vacations33
-  Yellow:
-    U0031027: 5
+    U0031002: 5
+    story: saleshoes_2
+  U0031011:
+    U0031011: 3
+    U0031016: 4
+    U0031035: 4
+    story: saleoil_1
+  U0031012:
+    U0031012: 3
+    U0031002: 3
+    U0031014: 3
+    story: salemilk_1
+  U0031013:
+    U0031013: 5
+    U0031022: 5
+    U0031003: 4
+    story: salebananas_2
+  U0031014:
+    U0031014: 3
+    U0031036: 4
+    U0031012: 3
+    story: salebananas_2
+  U0031016:
+    U0031016: 5
+    U0031011: 5
+    U0031048: 5
+    story: salemilk_1
+  U0031017:
+    U0031017: 5
+    U0031008: 5
+    U0031009: 5
+    story: salerice_1
+  U0031018:
+    U0031018: 5
+    U0031003: 5
+    U9833051: 5
+    story: salemilk_2
+  U0031020:
+    U0031020: 5
+    U0031035: 5
+    U0031044: 4
+    story: salebananas_1
+  U0031022:
+    U0031022: 5
+    U0031013: 5
+    U0031024: 4
+    story: saleoil_1
+  U0031024:
+    U0031024: 4
+    U0031047: 3
+    U0031022: 5
+    story: saleshoes_2
+  U0031025:
+    U0031025: 5
+    U0031006: 4
+    U0031029: 3
+    story: saleeggs_1
+  U0031026:
+    U0031026: 4
+    U0031033: 4
+    U0031049: 4
+    story: saleshoes_3
+  U0031027:
+    U0031027: 3
+    U9833051: 3
+    U0031045: 3
+    story: saleshoes_4
+  U0031028:
+    U0031028: 3
+    U0031037: 4
     U0031041: 3
-    U0031035: 1
-    story: vacations22
+    story: salebananas_3
+  U0031029:
+    U0031029: 5
+    U0022016: 2
+    U0031025: 5
+    story: salebananas_4
+  U0031031:
+    U0031031: 5
+    U0031004: 5
+    U0031007: 4
+    story: saleeggs_1
+  U0031033:
+    U0031033: 2
+    U0031026: 5
+    T9831019: 5
+    story: saleoil_2
+  U0031034:
+    U0031034: 4
+    U0031039: 2
+    U9831152: 2
+    story: salerice_2
+  U0031035:
+    U0031035: 5
+    U0031020: 4
+    U0031011: 3
+    story: salemilk_3
+  U0031036:
+    U0031036: 4
+    U0031014: 5
+    U0031006: 3
+    story: salerice_3
+  U0031037:
+    U0031037: 3
+    U0031028: 3
+    U0031039: 2
+    story: salemilk_4
+  U0031038:
+    U0031038: 4
+    U0031040: 4
+    U0031042: 4
+    story: saleshoes_3
+  U0031039:
+    U0031039: 4
+    U0031034: 3
+    U0031037: 4
+    story: saleshoes_4
+  U0031040:
+    U0031040: 5
+    U0031038: 3
+    U0031005: 3
+    story: salebananas_3
+  U0031041:
+    U0031041: 3
+    U9831152: 5
+    U0031028: 3
+    story: salebananas_4
+  U0031042:
+    U0031042: 3
+    U0031048: 3
+    U0031038: 5
+    story: saleeggs_1
+  U0031043:
+    U0031043: 3
+    T9831019: 3
+    U0022016: 2
+    story: salemilk_4
+  U0031044:
+    U0031044: 3
+    U0031001: 3
+    U0031020: 3
+    story: salerice_2
+  U0031045:
+    U0031045: 3
+    U0031007: 5
+    U0031027: 3
+    story: salemilk_3
+  U0031047:
+    U0031047: 3
+    U0031024: 3
+    U0031001: 4
+    story: salerice_3
+  U0031048:
+    U0031048: 4
+    U0031042: 3
+    U0031016: 3
+    story: salemilk_4
+  U0031049:
+    U0031049: 3
+    U0031009: 5
+    U0031026: 4
+    story: saleoil_2
+  U9831152:
+    U9831152: 4
+    U0031041: 3
+    U0031034: 4
+    story: salerice_3
+  U9833051:
+    U9833051: 3
+    U0031027: 4
+    U0031018: 5
+    story: salebananas_3

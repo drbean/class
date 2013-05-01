@@ -22,7 +22,61 @@ activity:
       - 17
       - 18
       - 19
-assistant: ~
+  bottled_water:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+  drbean:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+assistant:
+  5-1:
+    U0031003: 5
+    U0031013: 5
+  4-2:
+    U0031038: 5
+  8-1:
+    U0031029: 5
+    U0031025: 5
+  8-2:
+    U0031028: 5
 dispensation: ~
 divisions: ~
 group:
@@ -87,9 +141,8 @@ group:
     White: U0031024
     Black: U0031043
 late:
-  - ~
 pairing: swiss
 payprotocol: meritPay
 round: 2
-text: ~
-week: ~
+text: /home/drbean/class/business/marketing/cards.yaml
+week: 9

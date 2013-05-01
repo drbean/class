@@ -2,97 +2,306 @@
 round: Exam 2
 week: 9
 questions:
-  - 6
+  - 5
 pass: 3
 assistant:
+  - Hui
+  - Amy
+  - Emily
+  - Rene
+  - ShuJing
+  - Sophie
+  - Tiffany
+  - YiJie
+  - Soccer
+  - Trista
+  - Sherry
+  - Alan
+  - Celina
+  - David
+  - Banana
+  - Flora
+  - Henry
+  - Jessie
+  - Alice
+  - Gary
+  - Ian
+  - Judy
+  - Helen
+  - Zoe
+  - Alien
+  - Lily
+  - Jophiel
+  - Jimmy
+  - Victor
+  - Polly2
+  - Shirley
+  - Anastasia
+  - Gaanii
+  - Sylvia
+  - Winnie
+  - Shion-Yu
+  - Sandy
+  - Aslyn
+  - Jenny
+  - Gina
+  - Tony
+  - Natalie
+  - Jason
+  - Polly1
+  - Whitney
+  - John
 absent:
-text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
+text: /home/drbean/class/business/marketing/cards.yaml
 activity:
-  vacations:
-    22:
-      - OrangeOrange
-      - Red
-      - Yellow
-    33:
-      - BrownBrown
-      - Orange
-      - White
-    44:
-      - Blue
-      - Gray
-      - Pink
-    55:
-      - Brown
-      - Green
-      - PinkPink
-    66:
-      - BlackBlack
-      - BlueBlue
-    77:
-      - Black
-      - Purple
+  sale:
+    shoes_1:
+      - U0022016
+    shoes_2:
+      - T9831019
+      - U0031003
+      - U0031010
+      - U0031024
+    shoes_3:
+      - U0031026
+      - U0031038
+    shoes_4:
+      - U0031027
+      - U0031039
+    oil_1:
+      - U0031001
+      - U0031011
+      - U0031022
+    oil_2:
+      - U0031033
+      - U0031049
+    milk_1:
+      - U0031002
+      - U0031012
+      - U0031016
+    milk_2:
+      - U0031007
+      - U0031018
+    milk_3:
+      - U0031035
+      - U0031045
+    milk_4:
+      - U0031037
+      - U0031043
+      - U0031048
+    bananas_1:
+      - U0031006
+      - U0031020
+    bananas_2:
+      - U0031005
+      - U0031013
+      - U0031014
+    bananas_3:
+      - U0031028
+      - U0031040
+      - U9833051
+    bananas_4:
+      - U0031029
+      - U0031041
+    eggs_1:
+      - U0031008
+      - U0031009
+      - U0031025
+      - U0031031
+      - U0031042
+    rice_1:
+      - U0031004
+      - U0031017
+    rice_2:
+      - U0031034
+      - U0031044
+    rice_3:
+      - U0031036
+      - U0031047
+      - U9831152
+
 group:
-  Black:
-    - WeiYu
-    - Banana
-    - Sophie
-  BlackBlack:
-    - Jenny
-    - Alien
-    - Emily
-  Blue:
-    - Henry
-    - Soccer
-    - David2
-  BlueBlue:
-    - Shion-Yu
-    - Zoe
-    - Sandy
-  Brown:
-    - Sylvia
-    - Jason
-    - Alice
-  BrownBrown:
+  T9831019:
+    - Gary
+    - Jophiel
+    - Celina
+  U0022016:
     - Tony
-    - John
-    - Polly1
-  Gray:
-    - Flora2
-    - Aslyn
+    - Sophie
+    - Jophiel
+  U0031001:
     - Natalie
-  Green:
+    - ShuJing
+    - Anastasia
+  U0031002:
+    - Zoe
+    - Helen
+    - Alan
+  U0031003:
+    - Soccer
+    - Aslyn
+    - Jimmy
+  U0031004:
+    - Jason
+    - Rene
+    - Judy
+  U0031005:
+    - Winnie
+    - Alan
+    - John
+  U0031006:
+    - Polly1
+    - Emily
+    - Flora
+  U0031007:
+    - Amy
     - Whitney
+    - Rene
+  U0031008:
+    - Judy
+    - Alien
+    - Jason
+  U0031009:
+    - Jessie
+    - Victor
+    - Alien
+  U0031010:
+    - Alan
+    - Winnie
+    - Zoe
+  U0031011:
+    - Shion-Yu
+    - Sherry
+    - Lily
+  U0031012:
+    - Helen
+    - Zoe
+    - Shirley
+  U0031013:
+    - Jimmy
+    - Alice
+    - Soccer
+  U0031014:
+    - Shirley
+    - Flora
+    - Helen
+  U0031016:
+    - Sherry
+    - Shion-Yu
+    - Henry
+  U0031017:
+    - Alien
+    - Judy
+    - Jessie
+  U0031018:
+    - Aslyn
+    - Soccer
+    - Gaanii
+  U0031020:
+    - Ian
+    - Lily
+    - ShuJing
+  U0031022:
+    - Alice
+    - Jimmy
+    - Banana
+  U0031024:
+    - Banana
+    - Anastasia
+    - Alice
+  U0031025:
+    - Emily
+    - Polly1
+    - Sophie
+  U0031026:
+    - Sylvia
+    - Celina
+    - Victor
+  U0031027:
+    - David
+    - Gaanii
+    - Whitney
+  U0031028:
+    - Trista
+    - Sandy
+    - YiJie
+  U0031029:
+    - Sophie
+    - Tony
+    - Emily
+  U0031031:
+    - Rene
+    - Jason
+    - Amy
+  U0031033:
+    - Celina
+    - Sylvia
+    - Gary
+  U0031034:
+    - Tiffany
+    - Gina
+    - Jenny
+  U0031035:
+    - Lily
+    - Ian
+    - Shion-Yu
+  U0031036:
+    - Flora
+    - Shirley
+    - Polly1
+  U0031037:
+    - Sandy
     - Trista
     - Gina
-  Orange:
-    - Rene
-    - Anastasia
-    - Shirley
-  OrangeOrange:
+  U0031038:
     - Hui
-    - Jessie
+    - John
     - Polly2
-  Pink:
-    - Jimmy
-    - Jophiel
-    - Judy
-  PinkPink:
-    - Helen
-    - Victor
-    - Flora1
-  Purple:
-    - Winnie
-    - Stanley
-    - Alan
-  Red:
-    - Sherry
+  U0031039:
+    - Gina
     - Tiffany
-    - ShuJing
-  White:
-    - Celina
-    - Ian
-    - Amy
-  Yellow:
-    - David1
+    - Sandy
+  U0031040:
+    - John
+    - Hui
+    - Winnie
+  U0031041:
     - YiJie
-    - Lily
+    - Jenny
+    - Trista
+  U0031042:
+    - Polly2
+    - Henry
+    - Hui
+  U0031043:
+    - Jophiel
+    - Gary
+    - Tony
+  U0031044:
+    - ShuJing
+    - Natalie
+    - Ian
+  U0031045:
+    - Whitney
+    - Amy
+    - David
+  U0031047:
+    - Anastasia
+    - Banana
+    - Natalie
+  U0031048:
+    - Henry
+    - Polly2
+    - Sherry
+  U0031049:
+    - Victor
+    - Jessie
+    - Sylvia
+  U9831152:
+    - Jenny
+    - YiJie
+    - Tiffany
+  U9833051:
+    - Gaanii
+    - David
+    - Aslyn
