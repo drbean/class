@@ -1,68 +1,67 @@
 ---
 Black:
-  - Woodstock
-  - Cathy1
-  - Liz
-BlackBlack:
-  - Yvonne
-  - Leo2
-  - Jike
-Blue:
-  - George
-  - Abby
-  - Teddy
-BlueBlue:
-  - Ann
+  - Candy
   - Chris
-  - Nana
-Brown:
-  - Sam
-  - Linda1
-  - Annie
-Gray:
-  - James
-  - Ben
-  - Eric
-Green:
-  - Sherry
-  - Cathy2
-  - Paul
-GreenGreen:
-  - Tina
   - Jeffrey
-  - Emma
-Orange:
-  - Sen
-  - Danny
-  - Ting
-OrangeOrange:
-  - Cabe
-  - Alice
-Pink:
-  - Ken
-  - Lisa
-  - Amber
-Purple:
-  - Leo1
-  - Tosha
-  - Wei
-PurplePurple:
+Blue:
+  - Hugh
+  - Rifle
+  - Liz
+Brown:
+  - James
   - David
   - E.J.
-  - Frank
-Red:
-  - Minmin
+Gray:
+  - Amber
+  - Linda1
+  - Danny
+Green:
   - Louis
-  - Jessy
-White:
-  - Sunny
-  - Bob
-  - Linda2
-Yellow:
-  - Hugh
+  - Eric
+  - Cathy2
+BlackBlack:
+  - Lisa
+  - Sen
   - Santie
-  - Andy
-YellowYellow:
+BlueBlue:
+  - Ken
+  - Jessy
+  - Tosha
+GreenGreen:
   - Jimmy
+  - Ben
+  - Cathy1
+Orange:
+  - Teddy
+  - Abby
+  - Jike
+Pink:
+  - Yvonne
+  - Paul
+  - Alice
+Purple:
+  - Tina
+  - Emma
+  - Andy
+Red:
+  - Sunny
+  - Nana
+  - Annie
+White:
+  - Ann
+  - Cabe
+  - Leo1
+Yellow:
+  - Leo2
+  - Wei
+  - Frank
+PinkPink:
+  - George
+  - Ting
   - Lynn
-  - Rifle
+PurplePurple:
+  - Brook
+  - Minmin
+YellowYellow:
+  - Woodstock
+  - Bob
