@@ -1,7 +1,8 @@
 ---
 activity:
-  argos:
+  4_Ps:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -11,16 +12,15 @@ activity:
       - 7
       - 8
       - 9
+      - 10
       - 11
       - 12
       - 13
+      - 14
       - 15
-      - 16
-      - 17
-      - 18
-      - 20
-  website:
+  bottled_water:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -30,16 +30,15 @@ activity:
       - 7
       - 8
       - 9
+      - 10
       - 11
       - 12
       - 13
+      - 14
       - 15
-      - 16
-      - 17
-      - 18
-      - 20
-  vacations:
+  drbean:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -49,81 +48,76 @@ activity:
       - 7
       - 8
       - 9
+      - 10
       - 11
       - 12
       - 13
+      - 14
       - 15
-      - 16
-      - 17
-      - 18
-      - 20
 assistant:
-  Orange:
-    U0033015: 4
-    U0033040: 4
-    U0033005: 4
-  BlackBlack:
-    U0033004: 5
-    U0033036: 5
-bye: U0033137
-dispensation:
-divisions:
-  - free
+  5-1:
+    U0033136: 4
+    U0033003: 4
+  4-2:
+    U0033023: 4
+  8-1:
+    U0033035: 5
+    U0033040: 5
+    U0033139: 5
+dispensation: ~
+divisions: ~
 group:
-  1:
-    White: U0033024
-    Black: U0033016
-  2:
-    White: U0033042
-    Black: U0033135
-  3:
-    White: U0033013
-    Black: T9833038
-  4:
+  0:
     White: U0033001
+    Black: U0033015
+  1:
+    White: U0033019
     Black: U0014139
-  5:
-    White: U0033032
-    Black: U9933035
-  6:
+  2:
     White: U0033022
-    Black: U0033034
+    Black: U0033004
+  3:
+    White: U0033037
+    Black: U0033137
+  4:
+    White: U0033006
+    Black: U0033009
+  5:
+    White: U0033039
+    Black: U0033024
+  6:
+    White: U0033010
+    Black: U0033029
   7:
-    White: U0033012
-    Black: U0033035
+    White: U0033018
+    Black: U0033135
   8:
-    White: U0033014
-    Black: U0033003
+    White: U0033005
+    Black: U0033013
   9:
-    White: U0033002
-    Black: U0033010
-  11:
-    White: U0033029
-    Black: U0033006
-  12:
-    White: U0033020
-    Black: U0033039
-  13:
-    White: U0033033
-    Black: U0033019
-  15:
-    White: U0033030
-    Black: U0033037
-  16:
-    White: U0033008
-    Black: U0033139
-  17:
-    White: U0033009
-    Black: U0033136
-  18:
-    White: U0033031
+    White: U0033012
     Black: U0033133
-  20:
-    White: U0033023
-    Black: U0033018
+  10:
+    White: U0033031
+    Black: U0033032
+  11:
+    White: U0033030
+    Black: U0033008
+  12:
+    White: U0033016
+    Black: U0033034
+  13:
+    White: U0033020
+    Black: U0033014
+  14:
+    White: U0033033
+    Black: U0033002
+  15:
+    White: U0033042
+    Black: U0033036
 late:
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 
 round: 2
-text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
+text: /home/drbean/class/business/marketing/cards.yaml
 week: 9
