@@ -2,111 +2,186 @@
 round: Exam 2
 week: 9
 questions:
-  - 6
-pass: 3
+  - 5
+pass: 4
 assistant:
+  - David
+  - Amber
+
+  - Liz
+  - Bob
+  - Leo1
+  - Minmin
+  - Abby
+  - Chris
+  - Sunny
+  - Jeffrey
+  - Rifle
+  - George
+  - Jessy
+  - Ben
+  - Danny
+  - Leo2
+  - Amber
+  - Linda1
+  - Santie
+  - Cathy2
+  - Andy
+  - Sen
+  - Annie
+
 absent:
-  - Derrick
-  - Jack
-text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
+  - Eric
+text: /home/drbean/class/business/marketing/cards.yaml
 activity:
-  vacations:
-    22:
-      - GreenGreen
-      - OrangeOrange
-      - White
-    33:
-      - BlackBlack
-      - Brown
-      - Gray
-      - Red
-    44:
-      - Blue
-      - Purple
-    55:
-      - Black
-      - Pink
-      - PinkPink
-    66:
-      - BlueBlue
-      - Yellow
-      - YellowYellow
-    77:
-      - Green
-      - Orange
-      - PurplePurple
+  sale:
+    shoes_1:
+      - 9-1
+    shoes_2:
+      - 11-2
+    shoes_3:
+      - 4-2
+    shoes_4:
+      - 4-1
+    oil_1:
+      - 10-1
+      - 8-2
+    oil_2:
+      - 12-1
+    milk_1:
+      - 11-1
+      - 5-1-milk_1
+      - 8-1-milk_1
+    milk_2:
+      - 13-1
+    milk_3:
+      - 1-2
+      - 5-2
+    milk_4:
+      - 1-1
+      - 6-1
+    bananas_1:
+      - 13-2
+    bananas_2:
+      - 9-2
+    bananas_3:
+      - 2-1
+      - 6-2
+    bananas_4:
+      - 2-2
+    eggs_1:
+      - 12-2
+      - 5-1-eggs_1
+      - 8-1-eggs_1
+    rice_1:
+      - 10-2
+    rice_2:
+      - 3-2
+    rice_3:
+      - 3-1
+
 group:
-  Black:
-    - Sam
-    - George
-    - Ting
-  BlackBlack:
-    - James
-    - Andy
-    - Linda1
-  Blue:
-# Andy took absent players place, but didn't answer questions
-    - Jike
-    - Liz
-    - Jike
-  BlueBlue:
-    - Leo2
-    - Cathy2
-    - Alice
-  Brown:
-    - Bob
-    - Bob
-    - Paul
-  Gray:
-    - Tina
-    - Wei
-    - Chris
-  Green:
-    - Sen
-    - Louis
-    - Jeffrey
-  GreenGreen:
-    - Santie
-    - Hugh
-    - Ben
-  Orange:
-    - Lisa
-    - Emma
-    - Teddy
-  Pink:
-    - David
-    - Frank
-    - E.J.
-  YellowYellow:
-    - Sunny
-    - Cabe
-    - Nana
-  Purple:
-    - Rifle
-    - Amber
-    - Eric
-  PurplePurple:
-    - Danny
+  1-1:
     - Woodstock
-    - Ken
-  Red:
-    - Leo1
-    - Jimmy
-    - Abby
-  White:
-    - Minmin
-    - Jessy
-    - Linda2
-  Yellow:
-    - Tosha
-    - Sherry
-    - Lynn
-# only 2 cards filled in
-  PinkPink:
+    - Liz
+    - Bob
+  1-2:
+    - Brook
+    - Bob
+    - Liz
+  2-1:
     - Ann
+    - Minmin
+    - Leo1
+  2-2:
+    - Ting
+    - Leo1
+    - Minmin
+  3-1:
+    - Tina
+    - Abby
+    - Chris
+  3-2:
+    - Louis
+    - Chris
+    - Abby
+  4-1:
+    - Jimmy
+    - David
+    - Jeffrey
+  4-2:
+    - Cabe
+    - Jeffrey
+    - Sunny
+  5-1-eggs_1:
+    - George
+    - Frank
+    - Rifle
+  5-1-milk_1:
+    - George
+    - Frank
+    - Rifle
+  5-2:
+    - Emma
+    - Paul
+    - George
+  6-1:
+    - Lisa
+    - Ben
+    - Jessy
+  6-2:
+    - Jessy
+    - Lynn
+    - Ben
+  8-1-eggs_1:
+    - Leo2
+    - Alice
+    - Danny
+  8-1-milk_1:
+    - Leo2
+    - Alice
+    - Danny
+  8-2:
+    - Danny
+    - Linda1
+    - Leo2
+  9-1:
     - Cathy1
-    - Cathy1
-  OrangeOrange:
+    - Tosha
+    - Linda1
+  9-2:
+    - Wei
+    - David
+    - Amber
+  10-1:
+    - Candy
+    - Nana
+    - Santie
+  10-2:
+    - Amber
+    - Jike
+    - Cathy2
+  11-1:
+    - James
+    - Cathy2
+    - Sen
+  11-2:
+    - Hugh
+    - Sen
+    - Andy
+  12-1:
+    - Ken
+    - Andy
+    - Sen
+  12-2:
+    - Teddy
+    - Rifle
+    - Santie
+  13-1:
     - Yvonne
     - Annie
+    - Sunny
+  13-2:
+    - Sunny
+    - E.J.
     - Annie
