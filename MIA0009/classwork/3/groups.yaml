@@ -1,56 +1,52 @@
 ---
 Black:
-  - Harry
-  - Sean
-  - Eva
-BlackBlack:
-  - Roy
-  - Christine
-  - Bess
-Blue:
-  - Jack
-  - Yun
-  - Shanny
-Brown:
-  - Stacy
-  - Alice
-  - Ling
-Gray:
-  - John
-  - Michelle
-  - Kevin
-Green:
-  - Jim
-  - Ivy
-  - Eric
-GreenGreen:
-  - Banana
-  - Peter
-  - Kyle
-Orange:
   - Joyce
-  - Gill
-  - Alisa
-OrangeOrange:
-  - White
-  - Amy
-Pink:
-  - Jimmy
-  - Jessie
-  - Jenny
-Purple:
-  - Tony
-  - Owen
-  - Kammy
-Red:
-  - Joe
-  - Josh
-  - Gary
-White:
-  - Sweet
-  - An
-  - Tina
-Yellow:
-  - Andy
-  - Lynette
   - Pig
+  - Jessie
+Blue:
+  - Sweet
+  - Kyle
+  - Michelle
+Brown:
+  - Banana
+  - Sean
+  - Jenny
+Gray:
+  - Christine
+  - Tina
+  - Stacy
+Green:
+  - Tony
+  - Kevin
+  - Bess
+BlackBlack:
+  - Andy
+  - Peter
+  - Owen
+GreenGreen:
+  - Jim
+  - Ling
+  - Gill
+Orange:
+  - John
+  - Amy
+  - Lynette
+Pink1:
+  - Josh
+  - Eva
+  - Alisa
+Purple:
+  - Shanny
+  - Alice
+  - Joe
+Red:
+  - Roy
+  - Yun
+  - Kammy
+White:
+  - Gary
+  - Ivy
+  - An
+Yellow:
+  - White
+  - Eric
