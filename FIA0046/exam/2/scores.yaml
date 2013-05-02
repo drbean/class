@@ -1,111 +1,159 @@
 ---
 Chinese:
-  Black: 0
-  BlackBlack: 0
-  Blue: 0
-  BlueBlue: 0
-  Brown: 0
-  Gray: 0
-  Green: 0
-  GreenGreen: 0
-  Orange: 0
-  OrangeOrange: 0
-  Pink: 0
-  PinkPink: 0
-  Purple: 0
-  PurplePurple: 0
-  Red: 0
-  White: 0
-  Yellow: 0
-  YellowYellow: 0
+  1-1: 0
+  1-2: 0
+  10-1: 0
+  10-2: 0
+  11-1: 0
+  11-2: 0
+  12-1: 0
+  12-2: 0
+  13-1: 0
+  13-2: 0
+  2-1: 0
+  2-2: 0
+  3-1: 0
+  3-2: 0
+  4-1: 0
+  4-2: 0
+  5-1-eggs_1: 0
+  5-1-milk_1: 0
+  5-2: 0
+  6-1: 0
+  6-2: 0
+  8-1-eggs_1: 0
+  8-1-milk_1: 0
+  8-2: 0
+  9-1: 0
+  9-2: 0
 letters:
-  Black:
-    U9934026: 2
-    U0034051: 2
-    U0034028: 2
-    story: vacations55
-  BlackBlack:
-    U0034025: 4
-    U0034042: 3
-    U0034012: 3
-    story: vacations33
-  Blue:
-    U0034044: 4
-    U0034037: 2
-    U0034044: 4
-    story: vacations44
-  BlueBlue:
-    U0031032: 2
-    U0034033: 4
-    U0034030: 2
-    story: vacations66
-  Brown:
-    U0034056: 4
-    U0034056: 4
-    U0034026: 2
-    story: vacations33
-  Gray:
-    U0034003: 3
-    U0034009: 4
-    U0031046: 2
-    story: vacations33
-  Green:
-    U0034001: 2
-    U0034040: 3
-    U0034027: 3
-    story: vacations77
-  GreenGreen:
-    U0034023: 2
-    U9834018: 4
-    U0034055: 2
-    story: vacations22
-  Orange:
-    U0034005: 3
-    U0034014: 4
-    U0034035: 3
-    story: vacations77
-  OrangeOrange:
-    U0034007: 2
-    U0034013: 5
-    U0034013: 5
-    story: vacations22
-  Pink:
-    U0034002: 3
-    U0034016: 3
-    U0034008: 4
-    story: vacations55
-  PinkPink:
-    U0034050: 1
-    U0034010: 2
-    U0034010: 2
-    story: vacations55
-  Purple:
-    U0034045: 6
-    U0034029: 5
-    U0034017: 6
-    story: vacations44
-  PurplePurple:
-    U0034015: 3
-    U0034032: 1
-    U0034031: 2
-    story: vacations77
-  Red:
-    U0034004: 0
-    U0034006: 3
-    U0034024: 1
-    story: vacations33
-  White:
-    U0034049: 3
-    U0034043: 3
-    U9933033: 5
-    story: vacations22
-  Yellow:
-    U0034046: 2
-    U9934004: 3
-    U0034034: 2
-    story: vacations66
-  YellowYellow:
-    U0034038: 4
-    U0034011: 3
+  1-1:
+    U0034032: 3
+    U0034037: 3
+    U0034056: 3
+    story: salemilk_4
+  1-2:
+    U9733015: 3
+    U0034056: 5
+    U0034037: 5
+    story: salemilk_3
+  10-1:
+    T9831030: 3
     U0034036: 4
-    story: vacations66
+    U0034023: 5
+    story: saleoil_1
+  10-2:
+    U0034029: 4
+    U0034044: 4
+    U0034033: 4
+    story: salerice_1
+  11-1:
+    U0034025: 4
+    U0034033: 4
+    U0034001: 4
+    story: salemilk_1
+  11-2:
+    U9834018: 4
+    U0034001: 4
+    U0034042: 3
+    story: saleshoes_2
+  12-1:
+    U0034031: 3
+    U0034042: 4
+    U0034001: 4
+    story: saleoil_2
+  12-2:
+    U0034035: 5
+    U0034045: 5
+    U0034023: 5
+    story: saleeggs_1
+  13-1:
+    U0034007: 4
+    U0034013: 4
+    U0034038: 4
+    story: salemilk_2
+  13-2:
+    U0034038: 5
+    U0034008: 5
+    U0034013: 5
+    story: salebananas_1
+  2-1:
+    U0034050: 4
+    U0034049: 3
+    U0034004: 3
+    story: salebananas_3
+  2-2:
+    U0034028: 4
+    U0034004: 4
+    U0034049: 5
+    story: salebananas_4
+  3-1:
+    U0034003: 4
+    U0034024: 3
+    U0031046: 2
+    story: salerice_3
+  3-2:
+    U0034040: 2
+    U0031046: 3
+    U0034024: 4
+    story: salerice_2
+  4-1:
+    U0034006: 4
+    U0034002: 4
+    U0034027: 4
+    story: saleshoes_4
+  4-2:
+    U0034011: 4
+    U0034027: 3
+    U0034038: 2
+    story: saleshoes_3
+  5-1-eggs_1:
+    U0034051: 5
+    U0034016: 5
+    U0034045: 5
+    story: saleeggs_1
+  5-1-milk_1:
+    U0034051: 3
+    U0034016: 3
+    U0034045: 4
+    story: salemilk_1
+  5-2:
+    U0034014: 3
+    U0034026: 3
+    U0034051: 3
+    story: salemilk_3
+  6-1:
+    U0034005: 2
+    U0034055: 3
+    U0034043: 3
+    story: salemilk_4
+  6-2:
+    U0034043: 3
+    U0034034: 3
+    U0034055: 3
+    story: salebananas_3
+  8-1-eggs_1:
+    U0031032: 5
+    U0034030: 5
+    U0034015: 5
+    story: saleeggs_1
+  8-1-milk_1:
+    U0031032: 3
+    U0034030: 3
+    U0034015: 3
+    story: salemilk_1
+  8-2:
+    U0034015: 5
+    U0034012: 5
+    U0031032: 5
+    story: saleoil_1
+  9-1:
+    U0034010: 5
+    U0034046: 5
+    U0034012: 5
+    story: saleshoes_1
+  9-2:
+    U0034009: 3
+    U0034002: 3
+    U0034029: 3
+    story: salebananas_2
