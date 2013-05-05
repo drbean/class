@@ -1,31 +1,32 @@
 ---
-Black:
-  absent: 
-  merits: 3
-Blue:
-  absent: 
-  merits: 3
-Brown:
+# story: ESPN
+
+1-1:
   absent: 
   merits: 2
-Gray:
+1-2:
   absent: 
-  merits: 2
-Green:
+    - Joy
+  merits: 3
+
+2-1:
   absent: 
   merits: 3
-Orange:
+2-2:
   absent: 
   merits: 2
-Pink:
+
+3-1:
+  absent: 
+  merits: 2
+3-2:
   absent: 
   merits: 3
-Purple:
-  absent:
-  merits: 2
-Red:
-  absent: 
-  merits: 2
-White:
+
+4-1:
   absent: 
   merits: 3
+4-2:
+  absent: 
+    - Yorick
+  merits: 2
