@@ -2,35 +2,36 @@
 cutpoints:
   one: 20
   two: 80
-exercise: valentino
+exercise: palmer
 grade:
+  T9831019: 0
   U0022016: 0
   U0031001: 2
   U0031002: 2
-  U0031003: 0
+  U0031003: 2
   U0031004: 2
-  U0031005: 0
+  U0031005: 2
   U0031006: 2
-  U0031007: 2
+  U0031007: 0
   U0031008: 2
   U0031009: 2
   U0031010: 2
   U0031011: 0
-  U0031012: 2
-  U0031013: 2
-  U0031014: 2
-  U0031016: 2
+  U0031012: 1
+  U0031013: 0
+  U0031014: 0
+  U0031016: 1
   U0031017: 2
   U0031018: 2
   U0031020: 2
-  U0031022: 2
+  U0031022: 0
   U0031024: 0
-  U0031025: 2
+  U0031025: 0
   U0031026: 2
-  U0031027: 0
+  U0031027: 1
   U0031028: 2
-  U0031029: 2
-  U0031031: 2
+  U0031029: 0
+  U0031031: 1
   U0031033: 2
   U0031034: 2
   U0031035: 2
@@ -38,162 +39,153 @@ grade:
   U0031037: 2
   U0031038: 2
   U0031039: 2
-  U0031040: 2
-  U0031041: 2
-  U0031042: 2
+  U0031040: 0
+  U0031041: 1
+  U0031042: 1
   U0031043: 2
-  U0031044: 0
-  U0031045: 2
-  U0031047: 0
-  U0031048: 0
-  U0031049: 2
-  U9831006: 2
-  U9831144: 2
+  U0031044: 2
+  U0031045: 0
+  U0031047: 1
+  U0031048: 1
+  U0031049: 0
   U9831152: 2
-  U9931129: 0
-  U9931152: 2
+  U9833051: 0
 points:
+  T9831019:
+    letters: 0
+    percent: 0
   U0022016:
     letters: 0
     percent: 0
   U0031001:
-    letters: 402
-    percent: 100
+    letters: 309
+    percent: 90
   U0031002:
-    letters: 409
+    letters: 337
     percent: 100
   U0031003:
+    letters: 283
+    percent: 85
+  U0031004:
+    letters: 290
+    percent: 91
+  U0031005:
+    letters: 321
+    percent: 87
+  U0031006:
+    letters: 345
+    percent: 96
+  U0031007:
     letters: 0
     percent: 0
-  U0031004:
-    letters: 320
-    percent: 92
-  U0031005:
-    letters: 32
-    percent: 9
-  U0031006:
-    letters: 392
-    percent: 100
-  U0031007:
-    letters: 355
-    percent: 100
   U0031008:
-    letters: 379
+    letters: 364
     percent: 100
   U0031009:
-    letters: 386
-    percent: 100
+    letters: 315
+    percent: 98
   U0031010:
-    letters: 349
-    percent: 100
+    letters: 325
+    percent: 94
   U0031011:
     letters: 0
     percent: 0
   U0031012:
-    letters: 337
-    percent: 93
+    letters: 140
+    percent: 45
   U0031013:
-    letters: 387
-    percent: 100
+    letters: 0
+    percent: 0
   U0031014:
-    letters: 348
-    percent: 95
+    letters: 0
+    percent: 0
   U0031016:
-    letters: 391
-    percent: 100
+    letters: 216
+    percent: 66
   U0031017:
-    letters: 402
+    letters: 305
     percent: 100
   U0031018:
-    letters: 378
+    letters: 351
     percent: 100
   U0031020:
-    letters: 371
+    letters: 342
     percent: 100
   U0031022:
-    letters: 370
-    percent: 100
+    letters: 57
+    percent: 15
   U0031024:
     letters: 0
     percent: 0
   U0031025:
-    letters: 393
-    percent: 100
+    letters: 0
+    percent: 0
   U0031026:
-    letters: 397
+    letters: 303
     percent: 100
   U0031027:
-    letters: 0
-    percent: 0
+    letters: 82
+    percent: 24
   U0031028:
-    letters: 381
+    letters: 350
     percent: 100
   U0031029:
-    letters: 383
-    percent: 100
+    letters: 0
+    percent: 0
   U0031031:
-    letters: 361
-    percent: 96
+    letters: 141
+    percent: 48
   U0031033:
-    letters: 358
+    letters: 332
     percent: 100
   U0031034:
-    letters: 392
+    letters: 373
     percent: 100
   U0031035:
-    letters: 367
-    percent: 100
+    letters: 327
+    percent: 92
   U0031036:
-    letters: 384
-    percent: 100
-  U0031037:
-    letters: 388
-    percent: 100
-  U0031038:
     letters: 375
     percent: 100
+  U0031037:
+    letters: 342
+    percent: 100
+  U0031038:
+    letters: 346
+    percent: 99
   U0031039:
-    letters: 366
-    percent: 100
+    letters: 306
+    percent: 88
   U0031040:
-    letters: 371
-    percent: 100
+    letters: 0
+    percent: 0
   U0031041:
-    letters: 396
-    percent: 100
+    letters: 224
+    percent: 67
   U0031042:
-    letters: 400
-    percent: 100
+    letters: 146
+    percent: 41
   U0031043:
-    letters: 366
+    letters: 342
     percent: 100
   U0031044:
-    letters: 0
-    percent: 0
+    letters: 346
+    percent: 100
   U0031045:
-    letters: 389
-    percent: 100
+    letters: 8
+    percent: 2
   U0031047:
-    letters: 0
-    percent: 0
+    letters: 154
+    percent: 52
   U0031048:
-    letters: 0
-    percent: 0
+    letters: 166
+    percent: 48
   U0031049:
-    letters: 376
-    percent: 100
-  U9831006:
-    letters: 408
-    percent: 100
-  U9831144:
-    letters: 404
-    percent: 100
-  U9831152:
-    letters: 392
-    percent: 100
-  U9931129:
     letters: 0
     percent: 0
-  U9931152:
-    letters: 370
+  U9831152:
+    letters: 366
     percent: 100
+  U9833051:
+    letters: 0
+    percent: 0
