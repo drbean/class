@@ -1,0 +1,21 @@
+---
+# adjudicated
+
+Orange:
+  absent:
+  merits: 2
+Black:
+  absent:
+  merits: 3
+
+Blue:
+  absent:
+  merits: 2
+Pink:
+  absent:
+  merits: 3
+
+# assistants
+Purple:
+  absent:
+  merits: 3
