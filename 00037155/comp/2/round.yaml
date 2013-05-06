@@ -1,15 +1,6 @@
 ---
 activity:
-  rumor:
-    0:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-  control:
+  news_questions:
     0:
       - 1
       - 2
@@ -19,35 +10,35 @@ activity:
       - 6
       - 7
 assistant: ~
-bye: 97550002
+bye: 97550003
 dispensation: ~
 divisions:
   - free
 group:
   1:
-    White: 97550011
-    Black: 97550033
+    White: 97550009
+    Black: 97550011
   2:
-    White: 97550031
-    Black: 97550021
-  3:
-    White: 97550001
+    White: 97550033
     Black: 97550008
+  3:
+    White: 97550004
+    Black: 97550031
   4:
     White: 97550028
-    Black: 97550004
+    Black: 97550002
   5:
-    White: 97550009
-    Black: 97550027
-  6:
     White: 97550023
-    Black: 97550003
+    Black: 97550021
+  6:
+    White: 97550027
+    Black: 97550001
   7:
-    White: 97550018
-    Black: 97550017
+    White: 97550017
+    Black: 97550018
 late:
-pairing: swiss
-payprotocol: meritPay
-round: 2
-text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
-week: 8
+pairing: hand
+payprotocol: meritPay 7
+round: 4
+text: /home/drbean/class/intercultural/cards.yaml
+week: 9
