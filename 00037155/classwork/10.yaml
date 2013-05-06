@@ -1,20 +1,21 @@
 ---
-# cohabitation
+# news, ESPN cloze
 Black:
   absent:
-    - Cindy
   merits: 3
 
 Blue:
   absent:
-  merits: 2
+  merits: 2.5
 Pink:
   absent:
-  merits: 3
+  merits: 2
 
 Orange:
   absent:
-  merits: 2
+    - Jennifer
+  merits: 3
 Purple:
   absent:
-  merits: 3
+    - Anita
+  merits: 2
