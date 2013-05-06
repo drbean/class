@@ -7,27 +7,27 @@ Chinese:
   Purple: 0
 letters:
   Black:
-    97550033: 9
-    97550021: 10
-    97550008: 9
-    story: rumor0
-  Blue:
-    97550001: 8
-    97550003: 8
-    97550002: 8
-    story: rumor0
-  Orange:
-    97550027: 9
-    97550009: 9
-    97550004: 9
-    story: rumor0
-  Pink:
-    97550031: 6
     97550018: 6
-    97550023: 6
-    story: control0
+    97550033: 7
+    97550021: 4
+    story: interviews1
+  Blue:
+    97550017: 4
+    97550008: 4
+    97550023: 4
+    story: interviews1
+  Orange:
+    97550027: 3
+    97550002: 3
+    97550004: 4
+    story: interviews0
+  Pink:
+    97550001: 4
+    97550028: 6
+    97550031: 6
+    story: interviews1
   Purple:
-    97550028: 5
-    97550017: 5
-    97550011: 6
-    story: control0
+    97550009: 4
+    97550011: 3
+    97550003: 4
+    story: interviews0
