@@ -13,9 +13,11 @@ Blue:
   merits: 2
 Pink:
   absent:
+    - Jennifer
   merits: 3
 
 # assistants
 Purple:
   absent:
+    - Anita
   merits: 3
