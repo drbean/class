@@ -4,38 +4,38 @@ cutpoints:
   two: ~
 exercise: cheer_incident
 grade:
-  97550001: ~
+  97550001: 0
   97550002: 1
   97550003: 2
   97550004: 2
   97550008: 2
-  97550009: ~
+  97550009: 0
   97550011: 2
-  97550017: ~
+  97550017: 0
   97550018: 1
   97550021: 2
   97550023: 2
-  97550027: ~
+  97550027: 0
   97550028: 2
-  97550031: ~
-  97550033: ~
+  97550031: 0
+  97550033: 0
 points:
   Anita:
     letters: 2
   Cheer:
-    letters: ~
+    letters: 0
   Cindy:
     letters: 2
   Doris:
     letters: 1
   Eva:
-    letters: ~
+    letters: 0
   Jay:
-    letters: ~
+    letters: 0
   Jennifer:
-    letters: ~
+    letters: 0
   Jill:
-    letters: ~
+    letters: 0
   Lin:
     letters: 2
   Mandy:
@@ -45,7 +45,7 @@ points:
   Miru:
     letters: 2
   Sally:
-    letters: ~
+    letters: 0
   Stella:
     letters: 2
   Yvonne:
