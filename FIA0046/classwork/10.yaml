@@ -12,6 +12,7 @@ Brown:
   merits: 2
 Gray:
   absent: 
+    - Danny
   merits: 3
 
 Green:
@@ -19,6 +20,7 @@ Green:
   merits: 3
 BlackBlack:
   absent: 
+    - Lisa
   merits: 2
 
 BlueBlue:
@@ -26,39 +28,41 @@ BlueBlue:
   merits: 2
 GreenGreen:
   absent: 
-  tardy:
-    - Tina
   merits: 3
 
 Orange:
   absent:
+    - Abby
   merits: 2
 Pink:
   absent: 
+    - Yvonne
   merits: 3
 
 Purple:
   absent: 
-  merits: 3
+    - Tina
+  merits: 2
 Red:
   absent: 
-  merits: 2
+  merits: 3
 
 White:
   absent: 
-  merits: 2
+    - Ann
+  merits: 3
 Yellow:
   absent: 
-  merits: 3
+  merits: 2
 
-# assistants
-OrangeOrange:
-  absent:
+PinkPink:
+  absent: 
   merits: 3
-
 PurplePurple:
   absent: 
   merits: 2
+
+# assistants
 YellowYellow:
   absent: 
   merits: 3
