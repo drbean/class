@@ -1,28 +1,30 @@
 ---
-Black:
+2-1:
   absent: 
   merits: 2
-Blue:
+1-1:
   absent: 
   merits: 3
 
-Green:
+1-2:
   absent: 
   merits: 3
-Orange:
-  absent:
+2-2:
+  absent: 
+    - Stella
   merits: 2
 
-Red:
+4-1:
   absent: 
   merits: 3
-White:
+3-1:
   absent: 
   merits: 2
 
-BlueBlue:
+3-2:
   absent: 
   merits: 3
-BrownBrown:
+4-2:
   absent: 
+    - Carina
   merits: 2
