@@ -9,11 +9,11 @@ Blue:
   merits: 2.5
 Pink:
   absent:
+    - Jennifer
   merits: 2
 
 Orange:
   absent:
-    - Jennifer
   merits: 3
 Purple:
   absent:
