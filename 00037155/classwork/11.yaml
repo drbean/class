@@ -1,0 +1,21 @@
+---
+# news, blair plagiarized document diff
+Black:
+  absent:
+  merits: 3
+
+Blue:
+  absent:
+    - Cindy
+  merits: 2
+Pink:
+  absent:
+    - Jennifer
+  merits: 2.5
+
+Orange:
+  absent:
+  merits: 2.5
+Purple:
+  absent:
+  merits: 3
