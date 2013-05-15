@@ -1,0 +1,23 @@
+---
+# adjudicated
+
+Black:
+  absent:
+  merits: 3
+Blue:
+  absent:
+  merits: 2
+
+Purple:
+  absent:
+  merits: 3
+Pink:
+  absent:
+  merits: 2
+
+# assistants
+
+Orange:
+  absent:
+    - Sally
+  merits: 3
