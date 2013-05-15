@@ -1,67 +1,67 @@
 ---
 cutpoints:
   one: 20
-  two: 85
-exercise: cohabitation
+  two: 80
+exercise: blair
 grade:
-  97550001: 2
-  97550002: 2
+  97550001: 1
+  97550002: 0
   97550003: 2
-  97550004: 2
-  97550008: 0
-  97550009: 2
+  97550004: 1
+  97550008: 1
+  97550009: 1
   97550011: 2
-  97550017: 2
-  97550018: 2
+  97550017: 1
+  97550018: 0
   97550021: 2
-  97550023: 2
+  97550023: 0
   97550027: 0
-  97550028: 2
+  97550028: 0
   97550031: 2
-  97550033: 2
+  97550033: 0
 points:
   97550001:
-    letters: 198
-    percent: 93
+    letters: 115
+    percent: 40
   97550002:
-    letters: 208
-    percent: 100
-  97550003:
-    letters: 182
-    percent: 100
-  97550004:
-    letters: 206
-    percent: 100
-  97550008:
     letters: 0
     percent: 0
-  97550009:
-    letters: 201
+  97550003:
+    letters: 339
     percent: 100
+  97550004:
+    letters: 162
+    percent: 43
+  97550008:
+    letters: 95
+    percent: 29
+  97550009:
+    letters: 117
+    percent: 32
   97550011:
-    letters: 210
+    letters: 344
     percent: 100
   97550017:
-    letters: 243
-    percent: 100
+    letters: 175
+    percent: 47
   97550018:
-    letters: 231
-    percent: 100
+    letters: 0
+    percent: 0
   97550021:
-    letters: 208
-    percent: 100
+    letters: 353
+    percent: 99
   97550023:
-    letters: 235
-    percent: 100
+    letters: 33
+    percent: 9
   97550027:
     letters: 0
     percent: 0
   97550028:
-    letters: 208
-    percent: 86
+    letters: 0
+    percent: 0
   97550031:
-    letters: 200
+    letters: 345
     percent: 100
   97550033:
-    letters: 209
-    percent: 100
+    letters: 0
+    percent: 0
