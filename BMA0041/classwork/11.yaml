@@ -1,10 +1,11 @@
 ---
 GreenGreen:
   absent: 
-  merits: 3
+    - Caxton
+  merits: 2
 Black:
   absent: 
-  merits: 2
+  merits: 3
 
 Blue:
   absent: 
@@ -18,7 +19,7 @@ Gray:
   merits: 3
 Green:
   absent:
-    - Jason
+    - Maggie
   merits: 2
 
 BlackBlack:
@@ -26,21 +27,11 @@ BlackBlack:
   merits: 2
 BlueBlue:
   absent:
-  merits: 3
-
-YellowYellow:
-  absent: 
-  tardy:
-    - Aling
   merits: 2
-Orange:
-  absent: 
-  merits: 3
 
 Pink:
   absent: 
-    - Alison
-    - Eric
+    - David1
   merits: 3
 Purple:
   absent: 
@@ -55,7 +46,17 @@ White:
 
 Yellow:
   absent: 
+   - Max
   merits: 2
-OrangeOrange:
+YellowYellow:
+  tardy:
+    - Christina
+  absent: 
+    - David2
+  merits: 3
+
+# assistants
+
+Orange:
   absent: 
   merits: 3
