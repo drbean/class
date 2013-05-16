@@ -1,8 +1,8 @@
 ---
 cutpoints:
   one: 20
-  two: 85
-exercise: weight
+  two: 75
+exercise: eunice2
 grade:
   97550001: 0
   97550002: 2
@@ -10,58 +10,58 @@ grade:
   97550004: 2
   97550008: 2
   97550009: 2
-  97550011: 1
+  97550011: 2
   97550017: 2
-  97550018: 0
+  97550018: 2
   97550021: 2
   97550023: 2
   97550027: 0
-  97550028: 1
+  97550028: 2
   97550031: 2
-  97550033: 2
+  97550033: 0
 points:
   97550001:
     letters: 0
     percent: 0
   97550002:
-    letters: 212
+    letters: 254
     percent: 100
   97550003:
-    letters: 252
+    letters: 235
     percent: 100
   97550004:
-    letters: 216
-    percent: 88
-  97550008:
-    letters: 218
-    percent: 100
-  97550009:
-    letters: 244
+    letters: 278
     percent: 99
+  97550008:
+    letters: 278
+    percent: 99
+  97550009:
+    letters: 239
+    percent: 98
   97550011:
-    letters: 92
-    percent: 41
+    letters: 272
+    percent: 100
   97550017:
-    letters: 195
-    percent: 90
+    letters: 210
+    percent: 76
   97550018:
-    letters: 0
-    percent: 0
+    letters: 181
+    percent: 75
   97550021:
-    letters: 225
-    percent: 96
+    letters: 257
+    percent: 100
   97550023:
-    letters: 240
+    letters: 265
     percent: 100
   97550027:
     letters: 0
     percent: 0
   97550028:
-    letters: 180
-    percent: 70
+    letters: 266
+    percent: 97
   97550031:
-    letters: 270
+    letters: 268
     percent: 100
   97550033:
-    letters: 200
-    percent: 87
+    letters: 0
+    percent: 0
