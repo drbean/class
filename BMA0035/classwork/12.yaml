@@ -1,33 +1,37 @@
 ---
 Black:
       absent: 
-      merits: 3
+      merits: 2
 Blue:
       absent: 
-      merits: 2
+      merits: 3
 
 Brown:
       absent: 
       merits: 2
 Gray:
       absent: 
+        - Anastasia
       merits: 3
 
 Green:
       absent: 
-        - Emily
-      tardy:
-        - Shion-Yu
+        - Henry
       merits: 2
 BlackBlack:
       absent: 
+      tardy:
+        - Hui
       merits: 3
 
-BlueBlue:
+GreenGreen:
+      tardy:
+        - Shion-Yu
       absent: 
       merits: 2
-BrownBrown:
-      absent: 
+YellowYellow:
+      absent:
+        - Jenny
       merits: 3
 
 Orange:
@@ -44,19 +48,24 @@ Red:
       absent: 
       merits: 2
 
-White:
-      absent: 
-      merits: 3
 Yellow:
       absent: 
       merits: 2
-
-OrangeOrange:
+PurplePurple:
       absent: 
-      merits: 2
-PinkPink:
-      absent: 
-      tardy:
-        - Anastasia
       merits: 3
 
+White:
+      absent: 
+        - Polly2
+        - Victor
+      merits: 3
+
+# assistants
+
+BlueBlue:
+      tardy:
+        - Jimmy
+        - Gaani
+      absent: 
+      merits: 3
