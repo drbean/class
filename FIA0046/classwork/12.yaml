@@ -1,65 +1,64 @@
 ---
-GreenGreen:
-  absent:
-  tardy:
-    - Tina
-  merits: 3
+
 Black:
   absent: 
   merits: 2
-
 Blue:
   absent: 
+    - Hugh
   merits: 3
+
 Brown:
   absent: 
-  merits: 2
-
+  merits: 3
 Gray:
   absent: 
   merits: 2
+
 Green:
   absent: 
-  merits: 3
-
+  merits: 2
 BlackBlack:
   absent: 
   merits: 3
+
 BlueBlue:
   absent: 
   merits: 2
-
-Pink:
-  absent: 
-  merits: 3
-Purple:
-  absent: 
-  merits: 2
-
-Red:
-  absent: 
-  tardy:
-    - Louis
-  merits: 3
-White:
-  absent: 
-  merits: 2
-
-Yellow:
-  absent: 
-  merits: 2
-OrangeOrange:
+GreenGreen:
   absent: 
   merits: 3
 
 Orange:
+  absent:
+  merits: 3
+Pink:
+  absent: 
+  merits: 2
+
+Purple:
+  absent: 
+    - Emma
+  merits: 3
+Red:
+  absent: 
+  merits: 2
+
+White:
+  absent: 
+  merits: 2
+Yellow:
+  absent: 
+  merits: 3
+
+PinkPink:
   absent: 
   merits: 3
 YellowYellow:
-  absent:
+  absent: 
   merits: 2
 
-# assistants
+# joined
 PurplePurple:
   absent: 
-  merits: 3
+  merits: 2.5
