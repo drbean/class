@@ -1,50 +1,45 @@
 ---
 Black:
   absent: 
-  merits: 3
+  merits: 2
 Blue:
   absent: 
-    - Wade
-    - Yuda
-  merits: 2
+  merits: 3
 
 Brown:
   absent: 
-  merits: 2
+  merits: 3
 Gray:
   absent: 
-  merits: 3
+  merits: 2
 
 Green:
   absent:
-  merits: 3
+  merits: 2
 BlackBlack:
   absent: 
-  tardy:
-    - Caxton
-  merits: 2
+    - Wade
+  merits: 3
 
 BlueBlue:
   absent:
-    - Polly
-  merits: 2
+  merits: 3
 GreenGreen:
   absent: 
-    - Lydia
-  merits: 3
+    - Caxton
+  merits: 2
 
 
-Orange:
+YellowYellow:
   absent: 
-    - Ciyun
-  merits: 3
+    - David2
+  merits: 2
 Pink:
   absent: 
-  merits: 2
+  merits: 3
 
 Purple:
   absent: 
-    - Eric
   merits: 3
 Red:
   absent: 
@@ -52,15 +47,15 @@ Red:
 
 White:
   absent: 
+    - Yi-Zhen
   merits: 2
 Yellow:
   absent: 
+    - Max
   merits: 3
 
-OrangeOrange:
+Orange:
   absent: 
     - Chelsea
+    - Yuda
   merits: 2
-YellowYellow:
-  absent: 
-  merits: 3
