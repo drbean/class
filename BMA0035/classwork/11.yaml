@@ -1,10 +1,11 @@
 ---
-Green:
+GreenGreen:
       absent: 
-      merits: 3
+        - Shion-Yu
+      merits: 2
 Black:
       absent: 
-      merits: 2
+      merits: 3
 
 Blue:
       absent: 
@@ -15,42 +16,46 @@ Brown:
 
 Gray:
       absent: 
-      merits: 2
-BrownBrown:
-      absent: 
       merits: 3
+Green:
+      absent: 
+      merits: 2
 
 BlackBlack:
       absent: 
-      merits: 3
+      merits: 2
 BlueBlue:
       absent: 
-      merits: 2
+      merits: 3
 
+Pink:
+      absent: 
+      merits: 2
+Purple:
+      absent:
+      merits: 3
+
+Red:
+      absent: 
+      merits: 2
 White:
+      absent: 
+        - Victor
+      merits: 3
+
+Yellow:
+      absent: 
+      tardy:
+        - Ian
+      merits: 2
+PurplePurple:
+      absent: 
+      merits: 3
+
+YellowYellow:
       absent: 
       merits: 3
 Orange:
       absent: 
       merits: 2
 
-Pink:
-      absent: 
-      merits: 3
-Purple:
-      absent:
-      merits: 2
-
-Red:
-      absent: 
-      merits: 3
-PinkPink:
-      absent: 
-      merits: 2
-
-Yellow:
-      absent: 
-      merits: 2
-OrangeOrange:
-      absent: 
-      merits: 3
