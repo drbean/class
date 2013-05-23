@@ -1,8 +1,7 @@
 ---
 activity:
-  biodad:
-    1:
-      - 0
+  musketeers:
+    0:
       - 1
       - 2
       - 3
@@ -18,79 +17,100 @@ activity:
       - 13
       - 14
       - 15
-      - 16
-      - 17
-      - 18
-      - 19
-      - 20
-bye: V9841017
+  20000:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+  jekyll:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+assistant:
+  Orange:
+    N99200032: 4
+    N99200036: 4
+    N99200022: 4
+bye: N99200025
+dispensation:
+  Orange:
+    N99200045: 1
+divisions:
 group:
-  0:
-    White: V9841036
-    Black: V9841040
   1:
-    White: V9841038
-    Black: U9693046
+    White: N99200041
+    Black: N99200024
   2:
-    White: V9841051
-    Black: V9841024
+    White: N99200039
+    Black: N97080093
   3:
-    White: V9841005
-    Black: V9841050
+    White: N99200035
+    Black: N00202103
   4:
-    White: V9841009
-    Black: V9841058
+    White: N96200019
+    Black: N99200021
   5:
-    White: V9841020
-    Black: U9693040
+    White: N99200005
+    Black: N99200013
   6:
-    White: U9693041
-    Black: V9841008
+    White: N99200020
+    Black: N99200008
   7:
-    White: V9841027
-    Black: V9741065
+    White: N99200033
+    Black: N99200051
   8:
-    White: V9841002
-    Black: V9841034
+    White: N99200010
+    Black: N99200047
   9:
-    White: V9841041
-    Black: V9841026
+    White: N99200009
+    Black: N99200050
   10:
-    White: V9841059
-    Black: V9741018
+    White: N00202003
+    Black: N99200027
   11:
-    White: N9661752
-    Black: V9841014
+    White: N99200002
+    Black: N99200019
   12:
-    White: V9841028
-    Black: V9841064
+    White: N99200011
+    Black: N99200030
   13:
-    White: V9841030
-    Black: V9841054
+    White: N99200012
+    Black: N99200007
   14:
-    White: V9841062
-    Black: V9841067
+    White: N99200028
+    Black: N99200016
   15:
-    White: V9841007
-    Black: V9841011
-  16:
-    White: V9841015
-    Black: V9841013
-  17:
-    White: V9841029
-    Black: V9841022
-  18:
-    White: V9841010
-    Black: V9841053
-  19:
-    White: V9841037
-    Black: V9841039
-  20:
-    White: V9841048
-    Black: V9841044
+    White: N99200004
+    Black: N99200023
 late:
-  - V9841028
-  - V9841064
+  - ~
+pairing: swiss
+payprotocol: meritPay 3
 round: 3
-text: ../../class/conversation/parents/cards.yaml
-week: 8
+text: /home/drbean/class/literature/cards.yaml
+week: 13

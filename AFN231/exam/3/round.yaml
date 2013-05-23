@@ -1,110 +1,84 @@
 ---
 round: Exam 3
-week: 14
+week: 13
 questions:
   - 10
-pass: 6
+pass: 4
 assistant:
-  - Frances
-  - Sherry
-  - Bass
-  - Yorick
-  - Anny
+  - Lee
+  - Debby
 absent:
-  - Joanna
-  - Mike
-  - Tea
-  - Jerry
-  - Dan
-  - Abby
-  - Ming
-  - Kitty
-text: /home/drbean/class/conversation/dying/cards.yaml
+  - Evy
+  - Joelle
+text: /home/drbean/class/literature/cards.yaml
 activity:
-  undertaker:
-    1:
-      - Red
-      - WhiteWhite
-      - Yellow
-  oakland:
+  musketeers:
     0:
-      - Blue
       - Green
-      - Purple
-  spirits:
-    0:
+      - Orange
+    1:
       - Black
-      - Gray
-      - Pink
-  wardead:
+      - Purple
+  20000:
     0:
       - BlackBlack
+      - Pink
+    1:
+      - Blue
+      - Red
+  jekyll:
+    0:
+      - BlueBlue
+      - Yellow
+    1:
       - Brown
-      - Orange
-      - White
+      - OrangeOrange
 group:
   Black:
-    - Frances
-    - Leo
-    - Sana
-    - Hannah
-  BlackBlack:
-    - Frances
-    - Dennis
-    - Laura
-    - Jessica
-  Blue:
-    - Sherry
-    - Hank
-    - Anny
-    - Bella
-  Brown:
-    - Yorick
-    - Shaq
-    - Lisa
-    - Frances
-  Gray:
-    - Bass
+    - Cherry2
+    - Olivia
     - Sue
-    - Wei-Yi
-    - Anny
+  BlackBlack:
+    - Lee
+    - Nora
+    - Andy
+  Blue:
+    - Betty
+    - Zona
+    - Kate
+  BlueBlue:
+    - Lee
+    - Cindy
+    - Hellen
+  Brown:
+    - Ariel
+    - James
+    - Winnie
   Green:
-    - Patty
-    - Michelle
-    - Yi-Ru
-    - Yorick
+    - Tina
+    - Debby
+    - Carol
   Orange:
-    - Eva
-    - Katty
-    - Stanley
-    - Rachel
+    - Nitro
+    - Vickey
+    - Eve
+  OrangeOrange:
+    - Debby
+    - Hulie
+    - Juby
   Pink:
-    - Jeffrey
-    - Kori
-    - Winne
-    - Debbie
+    - Cherry1
+    - Elaine
+    - Peggy
   Purple:
-    - Sherry
-    - Winny
-    - Rose
-    - Yu-Lun
+    - Sonia
+    - Senna
+    - Alisa
   Red:
-    - Cathy
-    - Yorick
-    - Sherry
-    - Fifi
-  White:
-    - Ricky
-    - Bass
-    - Cathy2
-    - Yu-Ching
-  WhiteWhite:
-    - Amber
-    - Anne
-    - Julie
-    - Joy
+    - Foxy
+    - Louis
+    - Michael
   Yellow:
-    - Joan
-    - Carina
-    - Ivan
-    - Luke
+    - Amber
+    - Lainey
+    - Vivian
