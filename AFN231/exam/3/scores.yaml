@@ -3,92 +3,73 @@ Chinese:
   Black: 0
   BlackBlack: 0
   Blue: 0
+  BlueBlue: 0
   Brown: 0
-  Gray: 0
   Green: 0
   Orange: 0
+  OrangeOrange: 0
   Pink: 0
   Purple: 0
   Red: 0
-  White: 0
-  WhiteWhite: 0
   Yellow: 0
 letters:
   Black:
-    V9741065: 10
-    V9841011: 10
-    V9841008: 10
-    V9841024: 10
-    story: spirits0
+    N99200010: 7
+    N99200050: 4
+    N99200007: 9
+    story: musketeers1
   BlackBlack:
-    V9741065: 9
-    V9841013: 9
-    V9841007: 9
-    V9841036: 9
-    story: wardead0
+    N99200025: 7
+    N99200016: 6
+    N99200039: 6
+    story: 200000
   Blue:
-    U9693046: 9
-    V9841022: 8
-    U9693040: 9
-    U9693041: 7
-    story: oakland0
+    N00202103: 6
+    N00202003: 6
+    N99200011: 8
+    story: 200001
+  BlueBlue:
+    N99200025: 7
+    N99200030: 8
+    N99200002: 6
+    story: jekyll0
   Brown:
-    V9841010: 9
-    V9841015: 9
-    V9841029: 9
-    V9741065: 9
-    story: wardead0
-  Gray:
-    V9841031: 8
-    V9841067: 8
-    V9841030: 8
-    U9693040: 10
-    story: spirits0
+    N97080093: 7
+    N99200041: 7
+    N99200027: 4
+    story: jekyll1
   Green:
-    V9841039: 8
-    N9661752: 8
-    V9841027: 8
-    V9841010: 8
-    story: oakland0
+    N99200033: 5
+    N99200024: 5
+    N99200009: 5
+    story: musketeers0
   Orange:
-    V9841044: 9
-    V9841028: 9
-    V9841020: 8
-    V9841034: 10
-    story: wardead0
+    N99200032: 7
+    N99200036: 4
+    N99200022: 10
+    story: musketeers0
+  OrangeOrange:
+    N99200024: 6
+    N99200035: 5
+    N99200005: 5
+    story: jekyll1
   Pink:
-    V9841017: 8
-    V9841002: 8
-    V9841054: 8
-    V9841050: 8
-    story: spirits0
+    N99200021: 10
+    N99200008: 7
+    N99200047: 7
+    story: 200000
   Purple:
-    U9693046: 9
-    V9841009: 9
-    V9841041: 9
-    V9841026: 9
-    story: oakland0
+    N96200019: 6
+    N99200012: 7
+    N99200051: 3
+    story: musketeers1
   Red:
-    V9841048: 10
-    V9841010: 10
-    U9693046: 10
-    V9841005: 10
-    story: undertaker1
-  White:
-    V9841064: 9
-    V9841031: 9
-    V9741018: 9
-    V9841059: 9
-    story: wardead0
-  WhiteWhite:
-    V9841033: 8
-    V9841037: 8
-    V9841038: 8
-    V9841040: 6
-    story: undertaker1
+    N99200013: 8
+    N99200023: 8
+    N99200004: 8
+    story: 200001
   Yellow:
-    V9841049: 8
-    V9841053: 8
-    V9841062: 8
-    V9841014: 8
-    story: undertaker1
+    N99200019: 4
+    N99200020: 4
+    N99200028: 5
+    story: jekyll0
