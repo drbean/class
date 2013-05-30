@@ -1,675 +1,507 @@
 ---
 free:
   0:
-    ikea:
-      0:
-        U9831152:
+    management:
+      kendall:
+        U0031003:
+          point:
+            1: Returned
+            2: Returned
+        U9833051:
+          point:
+            1: Unreturned
+            2: Old
+            3: Returned
+      companies:
+        U0031003:
           point:
             1: Nil
-        U0031020:
+        U9833051:
           point:
             1: Nil
-    valentino:
-      0:
-        U9831152:
+      compcomp:
+        U0031003:
           point:
-            1: Returned
-        U0031020:
-          point:
-            1: Returned
-    flicker:
-      0:
-        U9831152:
-          point:
-            1: Returned
-        U0031020:
-          point:
-            1: Returned
-    zara:
-      0:
-        U9831152:
-          point:
-            1: Returned
-        U0031020:
+            1: Nil
+        U9833051:
           point:
             1: Returned
   1:
-    ikea:
-      0:
-        U0031033:
-          point:
-            1: Nil
-        U0031007:
-          point:
-            1: Nil
-    valentino:
-      0:
-        U0031033:
-          point:
-            1: Returned
-        U0031007:
-          point:
-            1: Nil
-    flicker:
-      0:
-        U0031033:
-          point:
-            1: Nil
-        U0031007:
+    management:
+      kendall:
+        T9831019:
           point:
             1: Old
             2: Returned
-    zara:
-      0:
-        U0031033:
-          point:
-            1: Fault
+            3: Returned
         U0031007:
           point:
             1: Returned
+            2: Returned
+      companies:
+        T9831019:
+          point:
+            1: Nil
+        U0031007:
+          point:
+            1: Nil
+      compcomp:
+        T9831019:
+          point:
+            1: Nil
+        U0031007:
+          point:
+            1: Nil
   2:
-    ikea:
-      0:
-        U0031012:
+    management:
+      kendall:
+        U0031025:
           point:
             1: Fault
-        U0031036:
+            2: Returned
+        U0031002:
+          point:
+            1: Returned
+      companies:
+        U0031025:
           point:
             1: Nil
-    valentino:
-      0:
-        U0031012:
-          point:
-            1: Old
-        U0031036:
+        U0031002:
           point:
             1: Returned
-    flicker:
-      0:
-        U0031012:
+      compcomp:
+        U0031025:
           point:
             1: Returned
-        U0031036:
-          point:
-            1: Returned
-    zara:
-      0:
-        U0031012:
-          point:
-            1: Nil
-        U0031036:
+        U0031002:
           point:
             1: Returned
   3:
-    ikea:
-      0:
-        U9831144:
-          point:
-            1: Fault
-        U0031024:
-          point:
-            1: Nil
-    valentino:
-      0:
-        U9831144:
-          point:
-            1: Nil
-        U0031024:
-          point:
-            1: Nil
-    flicker:
-      0:
-        U9831144:
-          point:
-            1: Old
-        U0031024:
+    management:
+      kendall:
+        U0031042:
           point:
             1: Returned
-    zara:
-      0:
-        U9831144:
+            2: Returned
+        U0031013:
           point:
             1: Returned
-        U0031024:
+      companies:
+        U0031042:
+          point:
+            1: Nil
+        U0031013:
+          point:
+            1: Nil
+      compcomp:
+        U0031042:
           point:
             1: Returned
+        U0031013:
+          point:
+            1: Returned
+            2: Returned
   4:
-    ikea:
-      0:
-        U9931129:
+    management:
+      kendall:
+        U0031028:
           point:
             1: Returned
-        U0031011:
-          point:
-            1: Nil
-    valentino:
-      0:
-        U9931129:
-          point:
-            1: Nil
-        U0031011:
+        U0031045:
           point:
             1: Returned
-    flicker:
-      0:
-        U9931129:
+            2: Returned
+      companies:
+        U0031028:
           point:
             1: Nil
-        U0031011:
+        U0031045:
           point:
             1: Nil
-    zara:
-      0:
-        U9931129:
+      compcomp:
+        U0031028:
           point:
             1: Returned
-        U0031011:
+            2: Returned
+        U0031045:
           point:
             1: Returned
   5:
-    ikea:
-      0:
-        U0031003:
-          point:
-            1: Nil
-        U0031013:
+    management:
+      kendall:
+        U0031018:
           point:
             1: Returned
-    valentino:
-      0:
-        U0031003:
+        U0031022:
           point:
-            1: Returned
-        U0031013:
-          point:
-            1: Returned
-    flicker:
-      0:
-        U0031003:
+            1: Old
+            2: Returned
+      companies:
+        U0031018:
           point:
             1: Returned
             2: Returned
-        U0031013:
+        U0031022:
+          point:
+            1: Fault
+      compcomp:
+        U0031018:
+          point:
+            1: Nil
+        U0031022:
           point:
             1: Returned
-    zara:
-      0:
-        U0031003:
-          point:
-            1: Nil
-        U0031013:
-          point:
-            1: Nil
+            2: Old
   6:
-    ikea:
-      0:
-        U0031049:
-          point:
-            1: Nil
-        U0031027:
-          point:
-            1: Nil
-    valentino:
-      0:
-        U0031049:
-          point:
-            1: Nil
-        U0031027:
-          point:
-            1: Returned
-    flicker:
-      0:
-        U0031049:
+    management:
+      kendall:
+        U0031008:
           point:
             1: Returned
             2: Returned
-        U0031027:
+        U0031010:
           point:
             1: Returned
-    zara:
-      0:
-        U0031049:
+      companies:
+        U0031008:
+          point:
+            1: Nil
+        U0031010:
           point:
             1: Returned
-        U0031027:
+      compcomp:
+        U0031008:
+          point:
+            1: Unreturned
+        U0031010:
           point:
             1: Returned
   7:
-    ikea:
-      0:
-        U0031004:
+    management:
+      kendall:
+        U0031033:
           point:
             1: Returned
-        U0031008:
+            2: Returned
+        U0031026:
           point:
             1: Returned
-    valentino:
-      0:
-        U0031004:
-          point:
-            1: Returned
-        U0031008:
-          point:
-            1: Returned
-    flicker:
-      0:
-        U0031004:
-          point:
-            1: Returned
-        U0031008:
+      companies:
+        U0031033:
           point:
             1: Nil
-    zara:
-      0:
-        U0031004:
+        U0031026:
           point:
-            1: Nil
-        U0031008:
+            1: Returned
+      compcomp:
+        U0031033:
           point:
-            1: Nil
+            1: Returned
+        U0031026:
+          point:
+            1: Returned
   8:
-    ikea:
-      0:
-        U0031016:
+    management:
+      kendall:
+        U0031001:
+          point:
+            1: Returned
+            2: Returned
+        U0031009:
+          point:
+            1: Returned
+            2: Returned
+      companies:
+        U0031001:
           point:
             1: Nil
         U0031009:
           point:
             1: Nil
-    valentino:
-      0:
-        U0031016:
+      compcomp:
+        U0031001:
           point:
-            1: Returned
-        U0031009:
-          point:
-            1: Nil
-    flicker:
-      0:
-        U0031016:
-          point:
-            1: Returned
-        U0031009:
-          point:
-            1: Returned
-    zara:
-      0:
-        U0031016:
-          point:
-            1: Returned
+            1: Fault
+            2: Returned
         U0031009:
           point:
             1: Returned
   9:
-    ikea:
-      0:
-        U0031043:
-          point:
-            1: Nil
-        U0031038:
-          point:
-            1: Nil
-    valentino:
-      0:
-        U0031043:
-          point:
-            1: Returned
-        U0031038:
+    management:
+      kendall:
+        U9831152:
           point:
             1: Fault
-    flicker:
-      0:
-        U0031043:
+            2: Returned
+            3: Returned
+        U0031037:
           point:
             1: Returned
-        U0031038:
+            2: Returned
+      companies:
+        U9831152:
           point:
-            1: Returned
-    zara:
-      0:
-        U0031043:
+            1: Nil
+        U0031037:
           point:
-            1: Returned
-        U0031038:
+            1: Nil
+      compcomp:
+        U9831152:
+          point:
+            1: Nil
+        U0031037:
           point:
             1: Returned
   10:
-    ikea:
-      0:
-        U0031002:
-          point:
-            1: Returned
-        U0031010:
-          point:
-            1: Returned
-    valentino:
-      0:
-        U0031002:
-          point:
-            1: Returned
-        U0031010:
-          point:
-            1: Returned
-    flicker:
-      0:
-        U0031002:
-          point:
-            1: Returned
-        U0031010:
-          point:
-            1: Returned
-    zara:
-      0:
-        U0031002:
-          point:
-            1: Returned
-        U0031010:
-          point:
-            1: Returned
-  11:
-    ikea:
-      0:
-        U0031022:
-          point:
-            1: Returned
-        U0031029:
-          point:
-            1: Nil
-    valentino:
-      0:
-        U0031022:
+    management:
+      kendall:
+        U0031044:
           point:
             1: Returned
             2: Returned
-        U0031029:
+        U0031014:
           point:
             1: Returned
-    flicker:
-      0:
-        U0031022:
-          point:
-            1: Nil
-        U0031029:
-          point:
-            1: Nil
-    zara:
-      0:
-        U0031022:
-          point:
-            1: Nil
-        U0031029:
+      companies:
+        U0031044:
           point:
             1: Returned
+        U0031014:
+          point:
+            1: Returned
+      compcomp:
+        U0031044:
+          point:
+            1: Nil
+        U0031014:
+          point:
+            1: Fault
+  11:
+    management:
+      kendall:
+        U0031039:
+          point:
+            1: Old
+            2: Returned
+        U0031006:
+          point:
+            1: Old
+            2: Unreturned
+      companies:
+        U0031039:
+          point:
+            1: Nil
+        U0031006:
+          point:
+            1: Nil
+      compcomp:
+        U0031039:
+          point:
+            1: Returned
+            2: Returned
+        U0031006:
+          point:
+            1: Fault
             2: Returned
   12:
-    ikea:
-      0:
-        U0031001:
+    management:
+      kendall:
+        U0031048:
           point:
             1: Returned
-        U0031037:
+        U0031034:
+          point:
+            1: Returned
+      companies:
+        U0031048:
           point:
             1: Nil
-    valentino:
-      0:
-        U0031001:
+        U0031034:
+          point:
+            1: Nil
+      compcomp:
+        U0031048:
           point:
             1: Returned
-        U0031037:
-          point:
-            1: Returned
-    flicker:
-      0:
-        U0031001:
-          point:
-            1: Returned
-        U0031037:
-          point:
-            1: Returned
-    zara:
-      0:
-        U0031001:
-          point:
-            1: Returned
-        U0031037:
+        U0031034:
           point:
             1: Returned
   13:
-    ikea:
-      0:
-        U0031039:
-          point:
-            1: Nil
-        U0031014:
-          point:
-            1: Old
-    valentino:
-      0:
-        U0031039:
-          point:
-            1: Nil
-        U0031014:
-          point:
-            1: Returned
-    flicker:
-      0:
-        U0031039:
+    management:
+      kendall:
+        U0031043:
           point:
             1: Returned
             2: Returned
-        U0031014:
+            3: Returned
+        U0031041:
           point:
-            1: Old
-    zara:
-      0:
-        U0031039:
+            1: Returned
+            2: Returned
+            3: Returned
+      companies:
+        U0031043:
           point:
-            1: Fault
-        U0031014:
+            1: Nil
+        U0031041:
+          point:
+            1: Nil
+      compcomp:
+        U0031043:
+          point:
+            1: Nil
+        U0031041:
           point:
             1: Nil
   14:
-    ikea:
-      0:
-        U0031042:
-          point:
-            1: Returned
-        U0031025:
-          point:
-            1: Nil
-    valentino:
-      0:
-        U0031042:
-          point:
-            1: Old
-        U0031025:
-          point:
-            1: Nil
-    flicker:
-      0:
-        U0031042:
-          point:
-            1: Nil
-        U0031025:
-          point:
-            1: Returned
-    zara:
-      0:
-        U0031042:
+    management:
+      kendall:
+        U0031035:
           point:
             1: Unreturned
-        U0031025:
-          point:
-            1: Returned
-  15:
-    ikea:
-      0:
-        U0031044:
-          point:
-            1: Nil
-        U0031034:
-          point:
-            1: Nil
-    valentino:
-      0:
-        U0031044:
-          point:
-            1: Returned
-            2: Old
-        U0031034:
+            2: Returned
+            3: Returned
+        U0031005:
           point:
             1: Returned
             2: Returned
-    flicker:
-      0:
-        U0031044:
-          point:
-            1: Returned
-            2: Returned
-        U0031034:
-          point:
-            1: Nil
-    zara:
-      0:
-        U0031044:
-          point:
-            1: Returned
-        U0031034:
-          point:
-            1: Fault
-  16:
-    ikea:
-      0:
-        U0031031:
-          point:
-            1: Nil
-        U0022016:
-          point:
-            1: Nil
-    valentino:
-      0:
-        U0031031:
-          point:
-            1: Old
-        U0022016:
-          point:
-            1: Returned
-    flicker:
-      0:
-        U0031031:
-          point:
-            1: Returned
-        U0022016:
-          point:
-            1: Nil
-    zara:
-      0:
-        U0031031:
-          point:
-            1: Returned
-        U0022016:
-          point:
-            1: Returned
-  17:
-    ikea:
-      0:
-        U0031017:
+      companies:
+        U0031035:
           point:
             1: Nil
         U0031005:
           point:
             1: Returned
-    valentino:
-      0:
+      compcomp:
+        U0031035:
+          point:
+            1: Nil
+        U0031005:
+          point:
+            1: Nil
+  15:
+    management:
+      kendall:
+        U0031011:
+          point:
+            1: Old
+            2: Returned
+        U0031020:
+          point:
+            1: Returned
+      companies:
+        U0031011:
+          point:
+            1: Nil
+        U0031020:
+          point:
+            1: Nil
+      compcomp:
+        U0031011:
+          point:
+            1: Returned
+        U0031020:
+          point:
+            1: Returned
+  16:
+    management:
+      kendall:
+        U0031040:
+          point:
+            1: Returned
+        U0031047:
+          point:
+            1: Old
+            2: Returned
+      companies:
+        U0031040:
+          point:
+            1: Nil
+        U0031047:
+          point:
+            1: Returned
+      compcomp:
+        U0031040:
+          point:
+            1: Returned
+            2: Returned
+        U0031047:
+          point:
+            1: Returned
+  17:
+    management:
+      kendall:
+        U0031049:
+          point:
+            1: Returned
+            2: Returned
         U0031017:
           point:
             1: Returned
             2: Returned
             3: Returned
-        U0031005:
-          point:
-            1: Nil
-    flicker:
-      0:
-        U0031017:
-          point:
-            1: Nil
-        U0031005:
-          point:
-            1: Nil
-    zara:
-      0:
-        U0031017:
-          point:
-            1: Nil
-        U0031005:
+      companies:
+        U0031049:
           point:
             1: Returned
-            2: Returned
+        U0031017:
+          point:
+            1: Nil
+      compcomp:
+        U0031049:
+          point:
+            1: Nil
+        U0031017:
+          point:
+            1: Nil
   18:
-    ikea:
-      0:
-        U0031035:
-          point:
-            1: Nil
-        U0031006:
-          point:
-            1: Returned
-    valentino:
-      0:
-        U0031035:
-          point:
-            1: Returned
-        U0031006:
-          point:
-            1: Nil
-    flicker:
-      0:
-        U0031035:
-          point:
-            1: Returned
-        U0031006:
-          point:
-            1: Old
-    zara:
-      0:
-        U0031035:
-          point:
-            1: Old
-        U0031006:
-          point:
-            1: Returned
-  19:
-    ikea:
-      0:
-        U0031028:
-          point:
-            1: Nil
-        U0031041:
-          point:
-            1: Nil
-    valentino:
-      0:
-        U0031028:
-          point:
-            1: Returned
-        U0031041:
+    management:
+      kendall:
+        U0031016:
           point:
             1: Returned
             2: Returned
-    flicker:
-      0:
-        U0031028:
+        U0031027:
           point:
             1: Returned
-        U0031041:
+            2: Returned
+      companies:
+        U0031016:
+          point:
+            1: Nil
+        U0031027:
+          point:
+            1: Nil
+      compcomp:
+        U0031016:
           point:
             1: Returned
-    zara:
-      0:
-        U0031028:
+        U0031027:
           point:
-            1: Returned
-        U0031041:
+            1: Old
+            2: Returned
+  19:
+    management:
+      kendall:
+        U0031012:
+          point:
+            1: Old
+            2: Fault
+        U0031024:
+          point:
+            1: Old
+            2: Fault
+      companies:
+        U0031012:
+          point:
+            1: Nil
+        U0031024:
+          point:
+            1: Nil
+      compcomp:
+        U0031012:
+          point:
+            1: Nil
+        U0031024:
           point:
             1: Nil
