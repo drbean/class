@@ -2,103 +2,238 @@
 round: Exam 3
 week: 13
 questions:
-  - 4
-pass: 2
-assistant:
-  - Amber
+  - 5
+pass: 3
 absent:
-text: /home/drbean/class/business/companies/cards.yaml
+assistant:
+  - 'Candy'
+  - 'Leo2'
+  - 'Chris'
+  - 'Sen'
+  - 'David'
+  - 'Tina'
+  - 'Leo1'
+  - 'Lisa'
+  - 'Jimmy'
+  - 'Yvonne'
+  - 'E.J.'
+  - 'Wei'
+  - 'Cathy1'
+  - 'Cabe'
+  - 'Linda1'
+  - 'Annie'
+  - 'Emma'
+  - 'Danny'
+  - 'Frank'
+  - 'Eric'
+  - 'Santie'
+  - 'Abby'
+  - 'James'
+  - 'Paul'
+  - 'Jeffrey'
+  - 'Ting'
+  - 'Amber'
+  - 'Alice'
+  - 'Ken'
+  - 'Woodstock'
+  - 'Cathy2'
+  - 'Lynn'
+  - 'Teddy'
+  - 'Nana'
+  - 'Liz'
+  - 'Sunny'
+  - 'Louis'
+  - 'Andy'
+  - 'Jessy'
+  - 'Jike'
+  - 'Rifle'
+  - 'Tosha'
+  - 'Minmin'
+  - 'Ann'
+  - 'George'
+  - 'Ben'
+  - 'Bob'
+  - 'Brook'
+  - 'Hugh'
+text: /home/drbean/class/business/planning/cards.yaml
 activity:
-  fourswot:
-    00:
-      - GreenGreen
-      - PurplePurple
-      - Red
-    01:
-    03:
-      - Blue
-      - Green
-      - White
-    04:
-      - Black
-      - Brown
-      - Pink
-      - Yellow
-    08:
-      - BlackBlack
-      - BlueBlue
-      - Orange
-      - OrangeOrange
-    09:
-      - Gray
-      - Purple
-      - YellowYellow
+  drbean:
+    3:
+      - 'BlackBlack1'
+      - 'GreenGreen1'
+      - 'PinkPink1'
+      - 'YellowYellow1'
+    4:
+      - 'Black1'
+      - 'Brown2'
+      - 'Green1'
+      - 'Pink1'
+      - 'White2'
+    5:
+      - 'Brown1'
+      - 'GreenGreen2'
+      - 'PurplePurple1'
+      - 'Yellow2'
+    6:
+      - 'Black2'
+      - 'Orange1'
+      - 'Purple2'
+      - 'Red1'
+    7:
+      - 'Blue1'
+      - 'Gray1'
+      - 'Pink2'
+      - 'PinkPink2'
+    8:
+      - 'BlackBlack2'
+      - 'BlueBlue1'
+      - 'Gray2'
+      - 'PurplePurple2'
+      - 'White1'
+    9:
+      - 'BlueBlue2'
+      - 'Green2'
+      - 'Red2'
+      - 'Yellow1'
+    10:
+      - 'Blue2'
+      - 'Orange2'
+      - 'Purple1'
+      - 'YellowYellow2'
 group:
-  Black:
-    - Woodstock
-    - Cathy1
-    - Liz
-  BlackBlack:
-    - Yvonne
-    - Leo2
-    - Jike
-  Blue:
-    - George
-    - Abby
-    - Teddy
-  BlueBlue:
-    - Ann
+  Black1:
+    - Candy
     - Chris
-    - Nana
-  Brown:
-    - Sam
-    - Linda1
-    - Annie
-  Gray:
-    - James
-    - Ben
-    - Eric
-  Green:
-    - Sherry
-    - Cathy2
-    - Paul
-  GreenGreen:
-    - Tina
     - Jeffrey
-    - Emma
-  Orange:
-    - Sen
-    - Danny
-    - Ting
-  OrangeOrange:
-    - Cabe
-    - Alice
-    - Amber
-  Pink:
-    - Ken
-    - Lisa
-    - Amber
-  Purple:
-    - Leo1
-    - Tosha
-    - Wei
-  PurplePurple:
+  Blue1:
+    - Hugh
+    - Rifle
+    - Liz
+  Brown1:
+    - James
     - David
     - E.J.
+  Gray1:
+    - Amber
+    - Linda1
+    - Danny
+  Green1:
+    - Louis
+    - Eric
+    - Cathy2
+  BlackBlack1:
+    - Lisa
+    - Sen
+    - Santie
+  BlueBlue1:
+    - Ken
+    - Jessy
+    - Tosha
+  GreenGreen1:
+    - Jimmy
+    - Ben
+    - Cathy1
+  Orange1:
+    - Teddy
+    - Abby
+    - Jike
+  Pink1:
+    - Yvonne
+    - Paul
+    - Alice
+  Purple1:
+    - Tina
+    - Emma
+    - Andy
+  Red1:
+    - Sunny
+    - Nana
+    - Annie
+  White1:
+    - Ann
+    - Cabe
+    - Leo1
+  Yellow1:
+    - Leo2
+    - Wei
     - Frank
-  Red:
+  PinkPink1:
+    - George
+    - Ting
+    - Lynn
+  PurplePurple1:
+    - Brook
     - Minmin
     - Louis
-    - Jessy
-  White:
-    - Sunny
+  YellowYellow1:
+    - Woodstock
     - Bob
-    - Linda2
-  Yellow:
+    - Ken
+  Black2:
+    - Candy
+    - Chris
+    - Jeffrey
+  Blue2:
     - Hugh
-    - Santie
-    - Andy
-  YellowYellow:
-    - Jimmy
-    - Lynn
     - Rifle
+    - Liz
+  Brown2:
+    - James
+    - David
+    - E.J.
+  Gray2:
+    - Amber
+    - Linda1
+    - Danny
+  Green2:
+    - Louis
+    - Eric
+    - Cathy2
+  BlackBlack2:
+    - Lisa
+    - Sen
+    - Santie
+  BlueBlue2:
+    - Ken
+    - Jessy
+    - Tosha
+  GreenGreen2:
+    - Jimmy
+    - Ben
+    - Cathy1
+  Orange2:
+    - Teddy
+    - Abby
+    - Jike
+  Pink2:
+    - Yvonne
+    - Paul
+    - Alice
+  Purple2:
+    - Tina
+    - Emma
+    - Andy
+  Red2:
+    - Sunny
+    - Nana
+    - Annie
+  White2:
+    - Ann
+    - Cabe
+    - Leo1
+  Yellow2:
+    - Leo2
+    - Wei
+    - Frank
+  PinkPink2:
+    - George
+    - Ting
+    - Lynn
+  PurplePurple2:
+    - Brook
+    - Minmin
+    - Louis
+  YellowYellow2:
+    - Woodstock
+    - Bob
+    - Ken
