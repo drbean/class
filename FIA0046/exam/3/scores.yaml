@@ -1,105 +1,207 @@
 ---
 Chinese:
-  Black: 0
-  BlackBlack: 0
-  Blue: 0
-  BlueBlue: 0
-  Brown: 0
-  Gray: 0
-  Green: 0
-  GreenGreen: 0
-  Orange: 0
-  OrangeOrange: 0
-  Pink: 0
-  Purple: 0
-  PurplePurple: 0
-  Red: 0
-  White: 0
-  Yellow: 0
-  YellowYellow: 0
+  Black1: 0
+  Black2: 0
+  BlackBlack1: 0
+  BlackBlack2: 0
+  Blue1: 0
+  Blue2: 0
+  BlueBlue1: 0
+  BlueBlue2: 0
+  Brown1: 0
+  Brown2: 0
+  Gray1: 0
+  Gray2: 0
+  Green1: 0
+  Green2: 0
+  GreenGreen1: 0
+  GreenGreen2: 0
+  Orange1: 0
+  Orange2: 0
+  Pink1: 0
+  Pink2: 0
+  PinkPink1: 0
+  PinkPink2: 0
+  Purple1: 0
+  Purple2: 0
+  PurplePurple1: 0
+  PurplePurple2: 0
+  Red1: 0
+  Red2: 0
+  White1: 0
+  White2: 0
+  Yellow1: 0
+  Yellow2: 0
+  YellowYellow1: 0
+  YellowYellow2: 0
 letters:
-  Black:
-    U0034032: 2
-    U0034010: 2
-    U0034037: 2
-    story: fourswot04
-  BlackBlack:
-    U0034007: 1
-    U0031032: 1
-    U0034044: 1
-    story: fourswot08
-  Blue:
-    U0034051: 2
-    U0034024: 0
-    U0034035: 0
-    story: fourswot03
-  BlueBlue:
-    U0034050: 3
-    U0031046: 3
-    U0034036: 3
-    story: fourswot08
-  Brown:
-    U9934026: 1
-    U0034012: 1
-    U0034013: 1
-    story: fourswot04
-  Gray:
-    U0034025: 0
-    U0034055: 0
-    U0034017: 1
-    story: fourswot09
-  Green:
-    U9934004: 1
-    U0034033: 1
-    U0034026: 2
-    story: fourswot03
-  GreenGreen:
-    U0034003: 2
-    U0034027: 2
-    U0034014: 2
-    story: fourswot00
-  Orange:
-    U0034001: 1
-    U0034015: 2
-    U0034028: 1
-    story: fourswot08
-  OrangeOrange:
-    U0034011: 1
-    U0034030: 1
-    U0034029: 1
-    story: fourswot08
-  Pink:
+  Black1:
+    T9831030: 4
+    U0031046: 4
+    U0034027: 5
+    story: drbean4
+  Black2:
+    T9831030: 5
+    U0031046: 4
+    U0034027: 5
+    story: drbean6
+  BlackBlack1:
+    U0034005: 3
+    U0034001: 3
+    U0034023: 5
+    story: drbean3
+  BlackBlack2:
+    U0034005: 5
+    U0034001: 5
+    U0034023: 5
+    story: drbean8
+  Blue1:
+    U9834018: 5
+    U0034045: 5
+    U0034037: 5
+    story: drbean7
+  Blue2:
+    U9834018: 5
+    U0034045: 5
+    U0034037: 5
+    story: drbean10
+  BlueBlue1:
+    U0034031: 4
+    U0034043: 3
+    U0034046: 3
+    story: drbean8
+  BlueBlue2:
     U0034031: 2
-    U0034005: 2
-    U0034029: 1
-    story: fourswot04
-  Purple:
-    U0034004: 1
-    U0034046: 1
-    U0034009: 1
-    story: fourswot09
-  PurplePurple:
-    U0034002: 2
-    U0034008: 2
-    U0034016: 2
-    story: fourswot00
-  Red:
-    U0034049: 1
-    U0034040: 1
-    U0034043: 1
-    story: fourswot00
-  White:
-    U0034038: 0
+    U0034043: 5
+    U0034046: 3
+    story: drbean9
+  Brown1:
+    U0034025: 5
+    U0034002: 5
+    U0034008: 5
+    story: drbean5
+  Brown2:
+    U0034025: 5
+    U0034002: 5
+    U0034008: 5
+    story: drbean4
+  Gray1:
+    U0034029: 5
+    U0034012: 5
+    U0034015: 5
+    story: drbean7
+  Gray2:
+    U0034029: 5
+    U0034012: 5
+    U0034015: 5
+    story: drbean8
+  Green1:
+    U0034040: 5
+    U0034017: 5
+    U0034033: 5
+    story: drbean4
+  Green2:
+    U0034040: 5
+    U0034017: 5
+    U0034033: 5
+    story: drbean9
+  GreenGreen1:
+    U0034006: 4
+    U0034055: 3
+    U0034010: 3
+    story: drbean3
+  GreenGreen2:
+    U0034006: 5
+    U0034055: 5
+    U0034010: 5
+    story: drbean5
+  Orange1:
+    U0034035: 5
+    U0034024: 5
+    U0034044: 5
+    story: drbean6
+  Orange2:
+    U0034035: 5
+    U0034024: 5
+    U0034044: 5
+    story: drbean10
+  Pink1:
+    U0034007: 5
+    U0034026: 5
+    U0034030: 5
+    story: drbean4
+  Pink2:
+    U0034007: 5
+    U0034026: 5
+    U0034030: 5
+    story: drbean7
+  PinkPink1:
+    U0034051: 5
+    U0034028: 5
+    U0034034: 5
+    story: drbean3
+  PinkPink2:
+    U0034051: 3
+    U0034028: 3
+    U0034034: 3
+    story: drbean7
+  Purple1:
+    U0034003: 2
+    U0034014: 2
+    U0034042: 2
+    story: drbean10
+  Purple2:
+    U0034003: 4
+    U0034014: 4
+    U0034042: 4
+    story: drbean6
+  PurplePurple1:
+    U9733015: 5
+    U0034049: 3
+    U0034040: 5
+    story: drbean5
+  PurplePurple2:
+    U9733015: 5
+    U0034049: 5
+    U0034040: 4
+    story: drbean8
+  Red1:
+    U0034038: 5
+    U0034036: 5
+    U0034013: 5
+    story: drbean6
+  Red2:
+    U0034038: 3
+    U0034036: 3
+    U0034013: 3
+    story: drbean9
+  White1:
+    U0034050: 4
+    U0034011: 3
+    U0034004: 5
+    story: drbean8
+  White2:
+    U0034050: 5
+    U0034011: 5
+    U0034004: 5
+    story: drbean4
+  Yellow1:
+    U0031032: 3
+    U0034009: 3
+    U0034016: 3
+    story: drbean9
+  Yellow2:
+    U0031032: 3
+    U0034009: 3
+    U0034016: 3
+    story: drbean5
+  YellowYellow1:
+    U0034032: 4
     U0034056: 4
-    U9933033: 0
-    story: fourswot03
-  Yellow:
-    U9834018: 2
-    U0034023: 1
-    U0034042: 0
-    story: fourswot04
-  YellowYellow:
-    U0034006: 1
-    U0034034: 1
-    U0034045: 0
-    story: fourswot09
+    U0034031: 4
+    story: drbean3
+  YellowYellow2:
+    U0034032: 5
+    U0034056: 4
+    U0034031: 5
+    story: drbean10

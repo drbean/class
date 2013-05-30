@@ -22,6 +22,7 @@ activity:
       - 18
       - 19
       - 20
+      - 21
     companies:
       - 1
       - 2
@@ -43,6 +44,7 @@ activity:
       - 18
       - 19
       - 20
+      - 21
     compcomp:
       - 1
       - 2
@@ -64,11 +66,23 @@ activity:
       - 18
       - 19
       - 20
-assistant: ~
-bye: U0034051
+      - 21
+assistant:
+  BlackBlack:
+    U0034005: 5
+    U0034001: 5
+    U0034023: 5
+  Orange:
+    U0034035: 5
+    U0034024: 5
+    U0034044: 5
 dispensation: ~
 divisions: ~
 group:
+  21:
+    White: U0034051
+    Black: U0034003
+
   1:
     White: U0034030
     Black: U0031032
@@ -132,7 +146,7 @@ group:
 late:
   - U0034003
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 4
 round: 3
-text: ~
-week: ~
+text: /home/drbean/class/business/planning/cards.yaml
+week: 13
