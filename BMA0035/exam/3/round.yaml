@@ -2,101 +2,226 @@
 round: Exam 3
 week: 13
 questions:
-  - 4
-pass: 2
-assistant:
-  - Judy
-  - Sylvia
+  - 5
+pass: 3
 absent:
-  - Henry
-  - WeiYu
-text: /home/drbean/class/business/companies/cards.yaml
+  - Jason
+assistant:
+  - 'Gary'
+  - 'Tony'
+  - 'Natalie'
+  - 'Zoe'
+  - 'Soccer'
+  - 'Jason'
+  - 'Winnie'
+  - 'Polly1'
+  - 'Amy'
+  - 'Judy'
+  - 'Jessie'
+  - 'Alan'
+  - 'Shion-Yu'
+  - 'Helen'
+  - 'Jimmy'
+  - 'Shirley'
+  - 'Sherry'
+  - 'Alien'
+  - 'Aslyn'
+  - 'Ian'
+  - 'Alice'
+  - 'Banana'
+  - 'Emily'
+  - 'Sylvia'
+  - 'David'
+  - 'Trista'
+  - 'Sophie'
+  - 'Rene'
+  - 'Celina'
+  - 'Tiffany'
+  - 'Lily'
+  - 'Flora'
+  - 'Sandy'
+  - 'Hui'
+  - 'Gina'
+  - 'John'
+  - 'YiJie'
+  - 'Polly2'
+  - 'Jophiel'
+  - 'ShuJing'
+  - 'Whitney'
+  - 'Anastasia'
+  - 'Henry'
+  - 'Victor'
+  - 'Jenny'
+  - 'Gaanii'
+text: /home/drbean/class/business/planning/cards.yaml
 activity:
-  fourswot:
-    00:
-      - OrangeOrange
-    01:
-      - Gray
-      - Orange
-      - Yellow
-    03:
-      - Blue
-      - Green
-      - Red
-    04:
-      - BrownBrown
-      - Pink
-      - Purple
-    08:
-      - BlackBlack
-      - BlueBlue
-      - PinkPink
-      - White
-    09:
-      - Black
-      - Brown
+  drbean:
+    3:
+      - 'Gray2'
+      - 'GreenGreen1'
+      - 'Pink1'
+      - 'Yellow1'
+    4:
+      - 'BlackBlack1'
+      - 'Blue2'
+      - 'BlueBlue1'
+      - 'Purple1'
+      - 'YellowYellow1'
+    5:
+      - 'Black1'
+      - 'Brown2'
+      - 'Red1'
+      - PurplePurple1
+    6:
+      - 'Black2'
+      - 'Blue1'
+      - 'Orange1'
+      - 'Purple2'
+    7:
+      - 'BlackBlack2'
+      - 'BlueBlue2'
+      - 'Brown1'
+      - 'Pink2'
+      - 'Yellow2'
+    8:
+      - 'Gray1'
+      - 'GreenGreen2'
+      - 'White1'
+      - 'YellowYellow2'
+    9:
+      - 'Green1'
+      - 'White2'
+      - PurplePurple2
+    10:
+      - 'Green2'
+      - 'Orange2'
+      - 'Red2'
 group:
-  Black:
-    - Jenny
-    - Lily
-    - Flora1
-  BlackBlack:
-    - Shion-Yu
+  Black1:
+    - Gary
+    - Gina
+    - Sherry
+  BlackBlack1:
+    - Tony
     - Helen
+    - Hui
+  Blue1:
+    - Jessie
+    - Shirley
+    - Natalie
+  YellowYellow1:
+    - Jenny
     - ShuJing
-  Blue:
+    - Aslyn
+  Brown1:
+    - Soccer
+    - Ian
+    - Jophiel
+  Gray1:
+    - Anastasia
+    - Winnie
+    - Alien
+  Green1:
+    - Henry
+    - Alan
+    - Emily
+  GreenGreen1:
+    - Shion-Yu
+    - Alice
+    - Lily
+  Orange1:
+    - Rene
+    - Sophie
+    - Flora
+  Pink1:
+    - Polly1
+    - YiJie
+    - Celina
+  Purple1:
+    - Jophiel
+    - Amy
+    - Tiffany
+  PurplePurple1:
+    - David
+    - Whitney
+    - Banana
+  Red1:
+    - John
+    - Judy
+    - Sandy
+  White1:
+    - Trista
+    - Polly2
+    - Victor
+  Yellow1:
     - Sylvia
     - Zoe
-    - Amy
-  BlueBlue:
-    - Tony
-    - YiJie
-    - Gina
-  Brown:
-    - Hui
     - Ian
-    - Sandy
-  BrownBrown:
-    - Flora2
-    - Alice
-    - Judy
-  Gray:
-    - Judy
-    - Trista
-    - Sophie
-  Green:
-    - Rene
-    - Jophiel
-    - Emily
-  Orange:
-    - David1
-    - Sherry
-    - Stanley
-  OrangeOrange:
-    - Jessie
-    - Victor
-    - Polly2
-  Pink:
+  BlueBlue1:
+    - Gaanii
     - Jimmy
     - Soccer
-    - Polly1
-  PinkPink:
-    - Anastasia
-    - Aslyn
-    - David2
-  Purple:
-    - Jason
-    - Alien
-    - Tiffany
-  Red:
-    - Celina
-    - Alan
+  Black2:
+    - Gary
+    - Gina
+    - Sherry
+  BlackBlack2:
+    - Tony
+    - Helen
+    - Hui
+  Blue2:
+    - Jessie
     - Shirley
-  White:
-    - Sylvia
-    - Whitney
-    - John
-  Yellow:
-    - Banana
-    - Winnie
     - Natalie
+  YellowYellow2:
+    - Jenny
+    - ShuJing
+    - Aslyn
+  Brown2:
+    - Soccer
+    - Gaanii
+    - Jophiel
+  Gray2:
+    - Anastasia
+    - Winnie
+    - Alien
+  Green2:
+    - Henry
+    - Alan
+    - Emily
+  GreenGreen2:
+    - Shion-Yu
+    - Alice
+    - Lily
+  Orange2:
+    - Rene
+    - Sophie
+    - Flora
+  Pink2:
+    - Polly1
+    - YiJie
+    - Celina
+  Purple2:
+    - Jophiel
+    - Amy
+    - Tiffany
+  PurplePurple2:
+    - David
+    - Whitney
+    - Banana
+  Red2:
+    - John
+    - Judy
+    - Sandy
+  White2:
+    - Trista
+    - Polly2
+    - Victor
+  Yellow2:
+    - Sylvia
+    - Zoe
+    - Ian
+  BlueBlue2:
+    - Gaanii
+    - Jimmy
+    - Soccer

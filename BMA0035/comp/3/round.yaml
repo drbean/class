@@ -2,6 +2,7 @@
 activity:
   management:
     kendall:
+      - 0
       - 1
       - 2
       - 3
@@ -20,6 +21,49 @@ activity:
       - 16
       - 17
       - 18
+      - 19
+    companies:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+    compcomp:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
 assistant:
   BlackBlack:
     U0022016: 5
@@ -29,10 +73,14 @@ assistant:
     U0031031: 5
     U0031029: 5
     U0031036: 5
-bye: U0031003
+# bye: U0031003
 dispensation: ~
 divisions: ~
 group:
+  0:
+    White: U0031003
+    Black: U9833051
+  
   1:
     White: T9831019
     Black: U0031007
@@ -87,6 +135,10 @@ group:
   18:
     White: U0031016
     Black: U0031027
+  
+  19:
+    White: U0031012
+    Black: U0031024
 late:
   - U9833051
   - U0031012
