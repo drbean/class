@@ -1,8 +1,7 @@
 ---
 activity:
-  ikea:
-    0:
-      - 0
+  management:
+    kendall:
       - 1
       - 2
       - 3
@@ -23,10 +22,7 @@ activity:
       - 18
       - 19
       - 20
-      - 21
-  valentino:
-    0:
-      - 0
+    companies:
       - 1
       - 2
       - 3
@@ -47,10 +43,7 @@ activity:
       - 18
       - 19
       - 20
-      - 21
-  flicker:
-    0:
-      - 0
+    compcomp:
       - 1
       - 2
       - 3
@@ -71,115 +64,75 @@ activity:
       - 18
       - 19
       - 20
-      - 21
-  zara:
-    0:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
-      - 19
-      - 20
-      - 21
-assistant:
-  BlackBlack:
-    U0034007: 5
-    U0031032: 5
-    U0034044: 5
-  Orange:
-    U0034001: 5
-    U0034015: 5
-    U0034028: 5
-dispensation:
-divisions:
-  - free
+assistant: ~
+bye: U0034051
+dispensation: ~
+divisions: ~
 group:
-  0:
-    White: U0034042
-    Black: U0034050
   1:
-    White: U9934026
-    Black: U0034005
+    White: U0034030
+    Black: U0031032
   2:
-    White: U0034035
-    Black: U0034025
+    White: U0034015
+    Black: T9831030
   3:
-    White: U0034024
-    Black: U9933033
+    White: U0034011
+    Black: U0034017
   4:
-    White: U0034012
-    Black: U9934004
+    White: U0031046
+    Black: U0034037
   5:
-    White: U0034014
-    Black: U0034049
+    White: U0034027
+    Black: U0034040
   6:
-    White: U0034046
-    Black: U0034051
+    White: U0034016
+    Black: U0034056
   7:
     White: U9834018
-    Black: U0034027
+    Black: U0034043
   8:
-    White: U0034026
-    Black: U0034038
+    White: U0034038
+    Black: U0034026
   9:
-    White: U0034032
-    Black: U0034055
+    White: U0034028
+    Black: U0034013
   10:
-    White: U0034033
-    Black: U0034004
-  11:
-    White: U0034031
-    Black: U0034009
-  12:
-    White: U0034016
-    Black: U0034002
-  13:
-    White: U0034023
-    Black: U0034034
-  14:
-    White: U0034029
-    Black: U0034017
-  15:
-    White: U0034043
-    Black: U0034036
-  16:
-    White: U0034011
-    Black: U0034030
-  17:
-    White: U0034013
-    Black: U0034037
-  18:
-    White: U0034040
-    Black: U0034008
-  19:
-    White: U0034006
+    White: U0034050
     Black: U0034010
+  11:
+    White: U0034002
+    Black: U0034006
+  12:
+    White: U0034029
+    Black: U0034012
+  13:
+    White: U0034025
+    Black: U0034004
+  14:
+    White: U0034046
+    Black: U0034014
+  15:
+    White: U0034033
+    Black: U0034034
+  16:
+    White: U0034055
+    Black: U0034032
+  17:
+    White: U9733015
+    Black: U0034042
+  18:
+    White: U0034008
+    Black: U0034031
+  19:
+    White: U0034007
+    Black: U0034049
   20:
-    White: U0031046
-    Black: U0034056
-  21:
-    White: U0034003
-    Black: U0034045
+    White: U0034036
+    Black: U0034009
 late:
-  - U0034045
   - U0034003
 pairing: swiss
 payprotocol: meritPay
 round: 3
-text: /home/drbean/class/business/companies/cards.yaml
-week: 13
+text: ~
+week: ~
