@@ -1,65 +1,63 @@
 ---
 Black:
-  - Jenny
-  - Lily
-  - Polly2
-BlackBlack:
-  - Shion-Yu
-  - Celina
-  - Judy
-Blue:
-  - WeiYu
-  - Alien
-  - Flora1
-BlueBlue:
-  - Henry
-  - Emily
-  - Tiffany
-Brown:
-  - Tony
-  - Trista
-  - Sandy
-BrownBrown:
-  - David1
-  - YiJie
-  - Aslyn
-Gray:
-  - Soccer
-  - John
-  - Victor
-Green:
-  - Banana
-  - Ian
-  - Amy
-Orange:
-  - Flora2
-  - Jessie
+  - Gary
   - Gina
-OrangeOrange:
-  - Rene
-  - Whitney
-  - David2
-Pink:
-  - Anastasia
-  - Stanley
-  - Alice
-PinkPink:
-  - Hui
-  - Zoe
-  - Sophie
-Purple:
   - Sherry
-  - Shirley
-  - Polly1
-Red:
-  - Winnie
-  - Alan
-  - Jophiel
-White:
-  - Helen
-  - Jimmy
-  - ShuJing
-Yellow:
+BlackBlack:
+  - Tony
   - Jason
-  - Sylvia
+  - Hui
+Blue:
+  - Jessie
+  - Shirley
   - Natalie
+YellowYellow:
+  - Jenny
+  - ShuJing
+  - Aslyn
+Brown:
+  - Soccer
+  - Helen
+  - Jophiel
+Gray:
+  - Anastasia
+  - Winnie
+  - Alien
+Green:
+  - Henry
+  - Alan
+  - Emily
+GreenGreen:
+  - Shion-Yu
+  - Alice
+  - Lily
+Orange:
+  - Rene
+  - Sophie
+  - Flora
+Pink:
+  - Polly1
+  - YiJie
+  - Celina
+Purple:
+  - Banana
+  - Amy
+  - Tiffany
+PurplePurple:
+  - David
+  - Whitney
+Red:
+  - John
+  - Judy
+  - Sandy
+White:
+  - Trista
+  - Polly2
+  - Victor
+Yellow:
+  - Sylvia
+  - Zoe
+  - Ian
+BlueBlue:
+  - Gaanii
+  - Jimmy
