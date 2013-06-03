@@ -202,11 +202,6 @@ member:
     name: Wade
     password: long
     rating: ~
-  - Chinese: 黃貞蓉
-    id: U0031141
-    name: Alison
-    password: zhen
-    rating: ~
   - Chinese: 江峻豪
     id: U0031142
     name: Jungle
@@ -248,6 +243,11 @@ member:
     password: min
     rating: ~
 out:
+  - Chinese: 黃貞蓉
+    id: U0031141
+    name: Alison
+    password: zhen
+    rating: ~
   - Chinese: 翁琳賀
     id: U0031116
     name: Lin-ho
@@ -268,6 +268,7 @@ session:
   2: 5
   3: 7
   4: 10
+  5: 14
 weights:
   classwork: 40
   exams: 20
