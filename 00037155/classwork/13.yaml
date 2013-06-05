@@ -1,20 +1,20 @@
 ---
+# examiners, Miru joining Blue
 Black:
   absent:
   merits: 3
+
 Blue:
   absent:
-  merits: 3
-
-Green:
-  absent:
+    - Cindy
   merits: 3
 Orange:
   absent:
-    - Jimmy
-  merits: 3
+  merits: 2
 
-Red:
+Purple:
   absent:
-    - Ian
+  merits: 2
+Pink:
+  absent:
   merits: 3
