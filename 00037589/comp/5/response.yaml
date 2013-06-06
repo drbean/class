@@ -1,231 +1,127 @@
 ---
 free:
-  0:
-    cohabitation:
+  1:
+    news_questions:
       0:
-        97550004:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
-            4: Returned
-        97550023:
-          point:
-            1: Returned
-            2: Old
-    weight:
-      0:
-        97550004:
-          point:
-            1: Returned
-        97550023:
-          point:
-            1: Returned
-            2: Fault
-            3: Returned
-    refugees:
-      0:
-        97550004:
+        97550001:
           point:
             1: Unreturned
-        97550023:
-          point:
-            1: Returned
-  1:
-    cohabitation:
-      0:
-        97550003:
-          point:
-            1: Returned
             2: Returned
             3: Returned
-        97550011:
+            4: Returned
+            5: Unreturned
+        97550017:
           point:
             1: Returned
-            2: Returned
-            3: Returned
-    weight:
-      0:
-        97550003:
-          point:
-            1: Returned
-            2: Returned
-        97550011:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
-    refugees:
-      0:
-        97550003:
-          point:
-            1: Returned
-            2: Returned
-        97550011:
-          point:
-            1: Returned
+            2: Unreturned
+            3: Unreturned
+            4: Returned
+            5: Returned
   2:
-    cohabitation:
+    news_questions:
       0:
-        97550021:
+        97550018:
           point:
-            1: Returned
-        97550002:
-          point:
-            1: Returned
-            2: Returned
-    weight:
-      0:
-        97550021:
-          point:
-            1: Fault
-            2: Returned
-        97550002:
-          point:
-            1: Returned
-            2: Returned
-    refugees:
-      0:
-        97550021:
-          point:
-            1: Old
-            2: Returned
+            1: Unreturned
+            2: Unreturned
             3: Returned
             4: Returned
-        97550002:
+            5: Returned
+        97550004:
           point:
             1: Returned
+            2: Returned
+            3: Unreturned
+            4: Returned
+            5: Unreturned
   3:
-    cohabitation:
+    news_questions:
       0:
-        97550028:
+        97550003:
           point:
             1: Returned
-            2: Returned
-            3: Fault
-        97550009:
-          point:
-            1: Fault
-            2: Returned
-    weight:
-      0:
-        97550028:
-          point:
-            1: Fault
             2: Unreturned
-        97550009:
-          point:
-            1: Returned
-            2: Returned
             3: Returned
-    refugees:
-      0:
-        97550028:
+            4: Returned
+            5: Unreturned
+            6: Unreturned
+        97550021:
           point:
-            1: Returned
-            2: Unreturned
-        97550009:
-          point:
-            1: Returned
+            1: Unreturned
             2: Returned
+            3: Unreturned
+            4: Unreturned
+            5: Returned
+            6: Returned
   4:
-    cohabitation:
+    news_questions:
       0:
-        97550008:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
         97550031:
           point:
             1: Returned
             2: Returned
+            3: Unreturned
+            4: Returned
+            5: Returned
+            6: Unreturned
+        97550027:
+          point:
+            1: Unreturned
+            2: Unreturned
             3: Returned
-    weight:
-      0:
-        97550008:
-          point:
-            1: Returned
-            2: Returned
-            3: Fault
-        97550031:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
-    refugees:
-      0:
-        97550008:
-          point:
-            1: Returned
-        97550031:
-          point:
-            1: Returned
+            4: Unreturned
+            5: Unreturned
+            6: Returned
   5:
-    cohabitation:
+    news_questions:
       0:
-        97550027:
+        97550028:
           point:
-            1: Returned
+            1: Unreturned
             2: Returned
-        97550017:
-          point:
-            1: Returned
-            2: Unreturned
-            3: Fault
-    weight:
-      0:
-        97550027:
-          point:
-            1: Returned
-            2: Returned
-        97550017:
-          point:
-            1: Fault
-            2: Returned
-    refugees:
-      0:
-        97550027:
-          point:
-            1: Old
-            2: Returned
-            3: Fault
+            3: Unreturned
             4: Returned
-        97550017:
+            5: Returned
+            6: Unreturned
+        97550009:
           point:
             1: Returned
             2: Returned
+            3: Returned
+            4: Unreturned
+            5: Unreturned
+            6: Returned
   6:
-    cohabitation:
+    news_questions:
       0:
-        97550001:
+        97550008:
+          point:
+            1: Unreturned
+            2: Returned
+            3: Unreturned
+            4: Unreturned
+            5: Returned
+        97550002:
           point:
             1: Returned
-            2: Returned
-            3: Fault
-            4: Returned
-        97550018:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
-    weight:
-      0:
-        97550001:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
-        97550018:
-          point:
-            1: Fault
             2: Unreturned
             3: Returned
-    refugees:
+            4: Returned
+            5: Unreturned
+  7:
+    news_questions:
       0:
-        97550001:
-          point:
-            1: Nil
-        97550018:
+        97550033:
           point:
             1: Returned
+            2: Returned
+            3: Unreturned
+            4: Unreturned
+            5: Returned
+        97550011:
+          point:
+            1: Unreturned
+            2: Unreturned
+            3: Returned
+            4: Returned
+            5: Unreturned

@@ -1,31 +1,33 @@
 ---
 Chinese:
-  Gray: 0
-  Green: 0
+  Black: 0
+  Blue: 0
+  Orange: 0
   Pink: 0
   Purple: 0
 letters:
-  Gray:
-    U9633052: 8
-    U9722022: 8
-    9622212: 8
-    U9821142: 8
-    story: conant1
-  Green:
-    U9818046: 8
-    N9561766: 8
-    N9661747: 8
-    N9661723: 8
-    story: desilvey1
+  Black:
+    97550001: 6
+    97550018: 6
+    97550003: 6
+    story: eunice0
+  Blue:
+    97550017: 8
+    97550004: 9
+    97550021: 9
+    story: monica0
+  Orange:
+    97550031: 8
+    97550028: 8
+    97550008: 8
+    story: eunice0
   Pink:
-    U9818007: 10
-    U9633019: 10
-    9622240: 10
-    U9633052: 10
-    story: duplantier1
+    97550009: 8
+    97550027: 6
+    97550002: 8
+    story: eunice0
   Purple:
-    T9822149: 10
-    N9561765: 10
-    U9822019: 10
-    U9822004: 10
-    story: harllee1
+    97550033: 7
+    97550023: 6
+    97550011: 5
+    story: monica0

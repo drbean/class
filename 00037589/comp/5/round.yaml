@@ -1,64 +1,43 @@
 ---
 activity:
-  cohabitation:
+  news_questions:
     0:
-      - 0
       - 1
       - 2
       - 3
       - 4
       - 5
       - 6
-  refugees:
-    0:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-  weight:
-    0:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-assistant:
-  Black:
-    97550033: 5
-bye: 97550033
-dispensation:
-divisions:
-  - free
+      - 7
+assistant: ~
+bye: 97550023
+dispensation: ~
+divisions: ~
 group:
-  0:
-    White: 97550004
-    Black: 97550023
   1:
-    White: 97550003
-    Black: 97550011
+     White: 97550001
+     Black: 97550017
   2:
-    White: 97550021
-    Black: 97550002
+     White: 97550018
+     Black: 97550004
   3:
-    White: 97550028
-    Black: 97550009
+     White: 97550003
+     Black: 97550021
   4:
-    White: 97550008
-    Black: 97550031
+     White: 97550031
+     Black: 97550027
   5:
-    White: 97550027
-    Black: 97550017
+     White: 97550028
+     Black: 97550009
   6:
-    White: 97550001
-    Black: 97550018
+     White: 97550008
+     Black: 97550002
+  7:
+     White: 97550033
+     Black: 97550011
 late:
 pairing: swiss
-payprotocol: meritPay 7
-round: 3
-text: /home/drbean/class/curriculum/speaking/impact/cards.yaml
-week: 13
+payprotocol: meritPay 5
+round: 5
+text: /home/drbean/class/intercultural/cards.yaml
+week: 14
