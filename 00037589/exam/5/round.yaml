@@ -1,45 +1,40 @@
 ---
-round: Exam 4
-week: 18
+round: Exam 5
+week: 14
 questions:
   - 10
-pass: 6
+pass: 0
 assistant:
-  - Eva
 absent:
-  - Jerry
-text: /home/drbean/class/conversation/disasters/cards.yaml
+text: /home/drbean/class/intercultural/cards.yaml
 activity:
-  duplantier:
-    1:
+  eunice:
+    0:
+      - Black
+      - Orange
       - Pink
-  desilvey:
-    1:
-      - Green
-  conant:
-    1:
-      - Gray
-  harllee:
-    1:
+  monica:
+    0:
+      - Blue
       - Purple
 group:
-  Gray:
+  Black:
     - Eva
-    - Mark
-    - Ken
-    - Ivory
-  Green:
-    - Lily
-    - Frank
-    - Kiki
-    - Jessica
+    - Mil
+    - Miru
+  Blue:
+    - Jill
+    - Cindy
+    - Stella
+  Orange:
+    - Sally
+    - Lin
+    - Mandy
   Pink:
-    - Emma
-    - Kerwin
-    - Ryan
-    - Eva
+    - Jennifer
+    - Cheer
+    - Doris
   Purple:
-    - Kenny
-    - Emily
-    - Sarah
-    - Kate
+    - Jay
+    - Yvonne
+    - Anita
