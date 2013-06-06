@@ -39,6 +39,6 @@ group:
 late:
 pairing: hand
 payprotocol: meritPay 7
-round: 4
+round: 2 # 4 with 00037589
 text: /home/drbean/class/intercultural/cards.yaml
 week: 9
