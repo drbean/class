@@ -1,171 +1,151 @@
 ---
 free:
   1:
-    rumor:
+    news_questions:
       0:
-        97550011:
+        97550002:
           point:
             1: Returned
             2: Returned
-            3: Old
-            4: Fault
-        97550033:
+            3: Unreturned
+            4: Returned
+            5: Unreturned
+            6: Returned
+            7: Returned
+        97550009:
+          point:
+            1: Unreturned
+            2: Unreturned
+            3: Returned
+            4: Unreturned
+            5: Returned
+            6: Unreturned
+            7: Unreturned
+  2:
+    news_questions:
+      0:
+        97550011:
+          point:
+            1: Unreturned
+            2: Returned
+            3: Returned
+            4: Unreturned
+            5: Unreturned
+            6: Unreturned
+            7: Returned
+        97550017:
           point:
             1: Returned
             2: Unreturned
-            3: Returned
-    control:
-      0:
-        97550011:
-          point:
-            1: Fault
-        97550033:
-          point:
-            1: Returned
-  2:
-    rumor:
-      0:
-        97550031:
-          point:
-            1: Returned
-            2: Returned
-            3: Fault
-        97550021:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
-    control:
-      0:
-        97550031:
-          point:
-            1: Returned
-            2: Returned
-        97550021:
-          point:
-            1: Returned
-            2: Fault
-  3:
-    rumor:
-      0:
-        97550001:
-          point:
-            1: Unreturned
-            2: Fault
-            3: Fault
-        97550008:
-          point:
-            1: Returned
-            2: Returned
-    control:
-      0:
-        97550001:
-          point:
-            1: Returned
-            2: Returned
-        97550008:
-          point:
-            1: Returned
-            2: Old
-            3: Returned
-  4:
-    rumor:
-      0:
-        97550028:
-          point:
-            1: Returned
-            2: Returned
-        97550004:
-          point:
-            1: Old
-            2: Old
-            3: Old
+            3: Unreturned
             4: Returned
             5: Returned
-    control:
+            6: Unreturned
+            7: Returned
+  3:
+    news_questions:
       0:
+        97550031:
+          point:
+            1: Returned
+            2: Returned
+            3: Unreturned
+            4: Returned
+            5: Unreturned
+            6: Unreturned
+            7: Unreturned
         97550028:
           point:
-            1: Returned
-            2: Returned
-            3: Returned
-        97550004:
-          point:
-            1: Returned
-            2: Returned
-  5:
-    rumor:
-      0:
-        97550009:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
-            4: Fault
-            5: Returned
-        97550027:
-          point:
-            1: Old
-            2: Returned
-            3: Returned
-            4: Old
-            5: Returned
-    control:
-      0:
-        97550009:
-          point:
-            1: Fault
-            2: Returned
-        97550027:
-          point:
-            1: Returned
-            2: Returned
-  6:
-    rumor:
-      0:
-        97550023:
-          point:
-            1: Returned
-            2: Old
-        97550003:
-          point:
-            1: Returned
-            2: Returned
-    control:
-      0:
-        97550023:
-          point:
-            1: Returned
+            1: Unreturned
             2: Unreturned
-            3: Fault
-            4: Old
-
-        97550003:
-          point:
-            1: Fault
-            2: Returned
             3: Returned
-  7:
-    rumor:
+            4: Unreturned
+            5: Returned
+            6: Returned
+            7: Returned
+  4:
+    news_questions:
       0:
-        97550018:
-          point:
-            1: Fault
-            2: Returned
-            3: Returned
-        97550017:
+        97550001:
           point:
             1: Unreturned
             2: Returned
             3: Returned
-    control:
+            4: Unreturned
+            5: Returned
+            6: Unreturned
+            7: Returned
+        97550004:
+          point:
+            1: Returned
+            2: Unreturned
+            3: Unreturned
+            4: Returned
+            5: Unreturned
+            6: Returned
+            7: Unreturned
+  5:
+    news_questions:
+      0:
+        97550021:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+            4: Unreturned
+            5: Returned
+            6: Unreturned
+            7: Unreturned
+        97550027:
+          point:
+            1: Unreturned
+            2: Unreturned
+            3: Unreturned
+            4: Returned
+            5: Unreturned
+            6: Returned
+            7: Returned
+  6:
+    news_questions:
       0:
         97550018:
           point:
-            1: Old
-            2: Fault
-            3: Returned
-        97550017:
-          point:
-            1: Fault
+            1: Returned
             2: Returned
+            3: Returned
+            4: Unreturned
+            5: Unreturned
+            6: Returned
+            7: Unreturned
+            8: Unreturned
+        97550003:
+          point:
+            1: Unreturned
+            2: Unreturned
+            3: Unreturned
+            4: Returned
+            5: Returned
+            6: Unreturned
+            7: Returned
+            8: Returned
+  7:
+    news_questions:
+      0:
+        97550033:
+          point:
+            1: Returned
+            2: Returned
+            3: Unreturned
+            4: Returned
+            5: Unreturned
+            6: Returned
+            7: Unreturned
+        97550023:
+          point:
+            1: Unreturned
+            2: Unreturned
+            3: Returned
+            4: Unreturned
+            5: Returned
+            6: Unreturned
+            7: Returned
