@@ -7,13 +7,15 @@ pass: 4
 assistant:
   - Lee
   - Debby
+  - Hellen
+  - Winnie
 absent:
-  - Evy
   - Joelle
 text: /home/drbean/class/literature/cards.yaml
 activity:
   musketeers:
     0:
+      - Evy
       - Green
       - Orange
     1:
@@ -34,6 +36,10 @@ activity:
       - Brown
       - OrangeOrange
 group:
+  Evy:
+    - Evy
+    - Hellen
+    - Winnie
   Black:
     - Cherry2
     - Olivia
