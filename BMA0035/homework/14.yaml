@@ -1,680 +1,191 @@
 ---
 cutpoints:
-  loser: 1
-  quitter: 0
-  winner: 2
-exercise: cars
+  one: 20
+  two: 80
+exercise: chang
 grade:
+  T9831019: 1
   U0022016: 0
-  U0031001: 0
-  U0031002: 1
-  U0031003: 0
-  U0031004: 0
-  U0031005: 0
-  U0031006: 0
+  U0031001: 2
+  U0031002: 2
+  U0031003: 2
+  U0031004: 1
+  U0031005: 1
+  U0031006: 2
   U0031007: 0
   U0031008: 0
   U0031009: 0
-  U0031010: 1
+  U0031010: 2
   U0031011: 0
-  U0031012: 2
-  U0031013: 1
-  U0031014: 1
+  U0031012: 1
+  U0031013: 0
+  U0031014: 0
   U0031016: 0
-  U0031017: 0
+  U0031017: 2
   U0031018: 2
   U0031020: 2
   U0031022: 2
-  U0031024: 2
+  U0031024: 1
   U0031025: 2
-  U0031026: 0
+  U0031026: 2
   U0031027: 0
-  U0031028: 0
+  U0031028: 2
   U0031029: 0
   U0031031: 0
-  U0031033: 0
+  U0031033: 1
   U0031034: 2
   U0031035: 0
   U0031036: 2
   U0031037: 2
-  U0031038: 1
+  U0031038: 2
   U0031039: 0
   U0031040: 0
-  U0031041: 1
+  U0031041: 2
   U0031042: 2
   U0031043: 2
-  U0031044: 0
-  U0031045: 2
-  U0031047: 0
+  U0031044: 2
+  U0031045: 0
+  U0031047: 1
   U0031048: 0
-  U0031049: 0
-  U9831006: 0
-  U9831144: 2
-  U9831152: 0
-  U9931129: 0
-  U9931152: 1
+  U0031049: 2
+  U9831152: 2
+  U9833051: 2
 points:
+  T9831019:
+    letters: 200
+    percent: 58
   U0022016:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 0
+    percent: 0
   U0031001:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 310
+    percent: 90
   U0031002:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 2
-      questions: 9
-      attempts: 15
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 340
+    percent: 100
   U0031003:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 344
+    percent: 97
   U0031004:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 1
-      questions: 2
-      attempts: 5
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 233
+    percent: 68
   U0031005:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 290
+    percent: 79
   U0031006:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 364
+    percent: 100
   U0031007:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 59
+    percent: 18
   U0031008:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 1
-      attempts: 2
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 0
+    percent: 0
   U0031009:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 0
+    percent: 0
   U0031010:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 5
-      attempts: 7
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 307
+    percent: 100
   U0031011:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 0
+    percent: 0
   U0031012:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 5
-      attempts: 12
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 156
+    percent: 46
   U0031013:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 4
-      attempts: 7
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 0
+    percent: 0
   U0031014:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 2
-      questions: 9
-      attempts: 19
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 6
+    percent: 2
   U0031016:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 6
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 0
+    percent: 0
   U0031017:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 336
+    percent: 100
   U0031018:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 3
-      attempts: 4
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 362
+    percent: 100
   U0031020:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 6
-      attempts: 14
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 363
+    percent: 100
   U0031022:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 8
-      attempts: 15
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 355
+    percent: 100
   U0031024:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 9
-      attempts: 15
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 102
+    percent: 30
   U0031025:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 4
-      attempts: 11
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 332
+    percent: 96
   U0031026:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 333
+    percent: 98
   U0031027:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 9
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 0
+    percent: 0
   U0031028:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 306
+    percent: 83
   U0031029:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 0
+    percent: 0
   U0031031:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 0
+    percent: 0
   U0031033:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 239
+    percent: 73
   U0031034:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 3
-      attempts: 3
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 294
+    percent: 100
   U0031035:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 2
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 0
+    percent: 0
   U0031036:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 4
-      attempts: 8
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 328
+    percent: 100
   U0031037:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 3
-      attempts: 4
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 387
+    percent: 100
   U0031038:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 2
-      questions: 5
-      attempts: 5
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 326
+    percent: 100
   U0031039:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 0
+    percent: 0
   U0031040:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 1
-      questions: 2
-      attempts: 4
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 65
+    percent: 19
   U0031041:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 1
-      questions: 8
-      attempts: 11
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 344
+    percent: 100
   U0031042:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 8
-      attempts: 12
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 319
+    percent: 98
   U0031043:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 4
-      attempts: 8
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 321
+    percent: 99
   U0031044:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 1
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 322
+    percent: 100
   U0031045:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 3
-      attempts: 6
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 0
+    percent: 0
   U0031047:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 101
+    percent: 29
   U0031048:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 0
+    percent: 0
   U0031049:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  U9831006:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  U9831144:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: 6
-      attempts: 9
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 332
+    percent: 100
   U9831152:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 2
-      attempts: 2
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  U9931129:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
-  U9931152:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 3
-    Yn:
-      answers: 1
-      questions: 8
-      attempts: 15
-    S:
-      answers: ~
-      questions: ~
-      attempts: ~
+    letters: 328
+    percent: 100
+  U9833051:
+    letters: 354
+    percent: 100
