@@ -1,49 +1,68 @@
 ---
-Black:
-  absent: 
-  merits: 2
-Blue:
+# assistants
+5-1:
   absent: 
   merits: 3
 
-Brown:
+1-1:
   absent: 
   merits: 2
-Gray:
+1-2:
   absent: 
   merits: 3
 
-Green:
+2-1:
   absent: 
   merits: 3
-BlackBlack:
+2-2:
   absent: 
   merits: 2
 
-GreenGreen:
-  absent: 
-  merits: 3
-OrangeOrange:
+3-1:
   absent: 
   merits: 2
-
-Orange:
-  absent: 
-  merits: 2
-Pink:
+3-2:
   absent: 
   merits: 3
 
-Purple:
-  absent:
+4-1:
+  absent: 
   merits: 3
-Red:
+4-2:
   absent: 
   merits: 2
 
-White:
+8-1:
   absent: 
   merits: 3
-Yellow:
+8-2:
   absent: 
   merits: 2
+
+9-1:
+  absent: 
+  merits: 2
+9-2:
+  absent: 
+  merits: 3
+
+10-1:
+  absent: 
+  merits: 2
+10-2:
+  absent: 
+  merits: 3
+
+11-1:
+  absent: 
+  merits: 3
+11-2:
+  absent: 
+  merits: 2
+
+12-1:
+  absent: 
+  merits: 2
+12-2:
+  absent: 
+  merits: 3
