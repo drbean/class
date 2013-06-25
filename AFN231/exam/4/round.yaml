@@ -3,85 +3,79 @@ round: Exam 4
 week: 18
 questions:
   - 10
-pass: 6
+pass: 4
 assistant:
 absent:
-text: /home/drbean/class/conversation/psych/cards.yaml
+text: /home/drbean/class/literature/cards.yaml
 activity:
-  brock:
+  mowgli:
     0:
-      - BlackBlack
       - Blue
-      - Gray
-      - Green
-      - White
-      - WhiteWhite
-  selassie:
-    0:
-      - Black
       - Brown
-      - Orange
+    1:
+      - BlackBlack
+      - Green
+  time:
+    1:
+      - BlueBlue
       - Pink
+  anne:
+    1:
       - Purple
       - Red
+    2:
+      - OrangeOrange
+      - Yellow
+  phantom:
+    1:
+      - Black
+      - Orange
 group:
   Black:
-    - Eva
-    - Ricky
-    - Wei-Yi
-    - Anny
-  BlackBlack:
-    - Kori
-    - Kitty
-    - Dennis
-    - Rose
-  Blue:
-    - Amber
-    - Hank
-    - Ivan
-    - Frances
-  Brown:
-    - Dan
-    - Winny
-    - Anne
-    - Hannah
-  Gray:
-    - Abby
-    - Joy
-    - Shaq
-    - Julie
-  Green:
-    - Bass
-    - Yu-Lun
-    - Sana
-    - Bella
-  Orange:
-    - Joan
-    - Yi-Ru
+    - Cherry2
+    - Vivian
     - Sue
-    - Sherry
+  BlackBlack:
+    - Lee
+    - James
+    - Carol
+  Blue:
+    - Joelle
+    - Elaine
+    - Andy
+  BlueBlue:
+    - Evy
+    - Juby
+    - Winnie
+  Brown:
+    - Cherry1
+    - Foxy
+    - Kate
+  Green:
+    - Tina
+    - Olivia
+    - Eve
+  Orange:
+    - Ariel
+    - Debby
+    - Hellen
+  OrangeOrange:
+    - Nora
+    - Hulie
+    - Michael
   Pink:
-    - Jeffrey
-    - Stanley
-    - Rachel
-    - Winne
+    - Nitro
+    - Louis
+    - Zona
   Purple:
-    - Ming
-    - Luke
-    - Jessica
-    - Yu-Ching
+    - Amber
+    - Peggy
+    - Cindy
   Red:
-    - Katty
-    - Fifi
-    - Michelle
-    - Lisa
-  White:
-    - Yorick
-    - Patty
-    - Debbie
-    - Cathy2
-  WhiteWhite:
-    - Cathy
-    - Carina
-    - Leo
-    - Laura
+    - Sonia
+    - Vickey
+    - Lainey
+  Yellow:
+    - Betty
+    - Senna
+    - Alisa

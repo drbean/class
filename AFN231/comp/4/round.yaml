@@ -1,60 +1,6 @@
 ---
 activity:
-  biomom:
-    1:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
-      - 19
-      - 20
-      - 21
-      - 22
-      - 23
-      - 24
-  biodad:
-    1:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
-      - 19
-      - 20
-      - 21
-      - 22
-      - 23
-      - 24
-  emersonj:
+  mowgli:
     0:
       - 0
       - 1
@@ -72,94 +18,120 @@ activity:
       - 13
       - 14
       - 15
-      - 16
-      - 17
-      - 18
-      - 19
-      - 20
-      - 21
-      - 22
-      - 23
-      - 24
+  time:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+  anne:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+  phantom:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+assistant:
+  Orange:
+    N97080093: 5
+    N99200024: 5
+    N99200002: 5
+dispensation:
+divisions:
+bye: N99200045
 group:
   0:
-    White: U9693046
-    Black: V9841040
+    White: N99200032
+    Black: N99200025
   1:
-    White: V9841051
-    Black: V9841036
+    White: N99200036
+    Black: N99200014
   2:
-    White: V9841024
-    Black: V9841038
+    White: N99200022
+    Black: N99200041
   3:
-    White: V9841058
-    Black: V9841005
+    White: N99200039
+    Black: N99200035
   4:
-    White: V9841050
-    Black: V9841009
+    White: N99200021
+    Black: N99200005
   5:
-    White: U9693040
-    Black: V9841026
+    White: N00202103
+    Black: N99200010
   6:
-    White: V9841028
-    Black: U9693041
+    White: N99200027
+    Black: N99200033
   7:
-    White: V9741065
-    Black: V9841020
+    White: N99200007
+    Black: N96200019
   8:
-    White: V9841034
-    Black: V9841008
+    White: N99200030
+    Black: N99200019
   9:
-    White: V9741018
-    Black: V9841041
+    White: N99200050
+    Black: N99200011
   10:
-    White: V9841064
-    Black: V9841059
+    White: N99200020
+    Black: N99200013
   11:
-    White: V9841014
-    Black: V9841027
+    White: N99200008
+    Black: N99200009
   12:
-    White: V9841030
-    Black: V9841002
+    White: N99200016
+    Black: N99200004
   13:
-    White: V9841011
-    Black: V9841062
+    White: N99200051
+    Black: N99200047
   14:
-    White: V9841054
-    Black: V9841015
+    White: N99200023
+    Black: N99200012
   15:
-    White: V9841067
-    Black: V9841007
-  16:
-    White: V9841013
-    Black: V9841029
-  17:
-    White: V9841049
-    Black: V9841031
-  18:
-    White: V9841022
-    Black: V9841037
-  19:
-    White: V9841039
-    Black: V9841033
-  20:
-    White: V9841017
-    Black: V9841010
-  21:
-    White: V9841053
-    Black: V9841006
-  22:
-    White: V9841044
-    Black: V9841004
-  23:
-    White: V9841052
-    Black: V9841048
-  24:
-    White: V9841063
-    Black: V9841016
-bye: N9661752
+    White: N00202003
+    Black: N99200028
 late:
-  - N9661752
+pairing: swiss
+payprotocol: meritPay 3
 round: 4
-text: ../../class/conversation/parents/cards.yaml
-week: 9
+text: /home/drbean/class/literature/cards.yaml
+week: 18
