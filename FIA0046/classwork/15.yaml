@@ -69,7 +69,9 @@
   merits: 2
 10-1:
   absent: 
-  merits: 2
+  tardy:
+    - Tosha
+  merits: 3
 
 10-2:
   absent: 
