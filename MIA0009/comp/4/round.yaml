@@ -1,7 +1,8 @@
 ---
 activity:
-  cars:
+  people:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -17,10 +18,9 @@ activity:
       - 13
       - 14
       - 15
-      - 16
-      - 17
-  citrus:
+  ingredients:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -36,10 +36,9 @@ activity:
       - 13
       - 14
       - 15
-      - 16
-      - 17
-  internet:
+  investment:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -55,76 +54,71 @@ activity:
       - 13
       - 14
       - 15
-      - 16
-      - 17
 assistant:
-  BlackBlack:
-    U0033024: 4
-    U0033019: 4
-    U0033024: 4
-  Orange:
-    U0033133: 5
-    U0033023: 5
-    U0033039: 5
-bye: T9833026
-dispensation:
-divisions:
-  - free
+  8-1:
+    U0033020: 5
+    U0033035: 5
+  8-2:
+    U0033031: 5
+  5-1:
+    U0033036: 5
+    U0033032: 5
+  4-2:
+    U0033003: 5
+dispensation: ~
+divisions: ~
 group:
-  1:
-    White: U0033040
-    Black: U0033015
-  2:
-    White: U0033033
-    Black: U0033042
-  3:
+  0:
     White: U0033004
-    Black: U0033135
-  4:
-    White: U0033139
-    Black: U0033009
-  5:
-    White: U0033010
-    Black: U0033035
-  6:
-    White: U0033016
-    Black: U0033003
-  7:
-    White: U0033005
-    Black: U0033137
-  8:
-    White: U0033036
-    Black: U0033032
-  9:
+    Black: U0033019
+  1:
+    White: U0033001
+    Black: U0033139
+  2:
     White: U0033136
-    Black: U0033034
-  10:
-    White: T9833038
-    Black: U9933035
-  11:
-    White: U0033013
-    Black: U0033030
-  12:
+    Black: U0033039
+  3:
+    White: U0033135
+    Black: U0033015
+  4:
+    White: U0033040
+    Black: U0033010
+  5:
     White: U0033022
-    Black: U0033006
-  13:
-    White: U0033020
-    Black: U0033001
-  14:
-    White: U0014139
-    Black: U0033002
-  15:
-    White: U0033031
-    Black: U0033014
-  16:
-    White: U0033018
-    Black: U0033037
-  17:
+    Black: U0014139
+  6:
+    White: U0033023
+    Black: U0033137
+  7:
+    White: U0033037
+    Black: U0033018
+  8:
+    White: U0033006
+    Black: U0033024
+  9:
+    White: U0033009
+    Black: U0033030
+  10:
+    White: U0033042
+    Black: U0033133
+  11:
+    White: U0033012
+    Black: U0033005
+  12:
     White: U0033008
-    Black: U0033012
+    Black: U0033013
+  13:
+    White: U0033014
+    Black: U0033002
+  14:
+    White: U0033016
+    Black: U0033029
+  15:
+    White: U0033033
+    Black: U0033034
 late:
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 4
 round: 4
-text: /home/drbean/class/business/greatideas/cards.yaml
+text: /home/drbean/class/business/newbusiness/cards.yaml
 week: 18

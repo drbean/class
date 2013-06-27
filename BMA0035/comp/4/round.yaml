@@ -1,7 +1,8 @@
 ---
 activity:
-  cars:
+  people:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -13,7 +14,7 @@ activity:
       - 9
       - 10
       - 11
-      - 12
+      # - 12
       - 13
       - 14
       - 15
@@ -21,9 +22,9 @@ activity:
       - 17
       - 18
       - 19
-      - 20
-  citrus:
+  ingredients:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -35,7 +36,7 @@ activity:
       - 9
       - 10
       - 11
-      - 12
+      # - 12
       - 13
       - 14
       - 15
@@ -43,9 +44,9 @@ activity:
       - 17
       - 18
       - 19
-      - 20
-  internet:
+  investment:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -57,7 +58,7 @@ activity:
       - 9
       - 10
       - 11
-      - 12
+      # - 12
       - 13
       - 14
       - 15
@@ -65,85 +66,85 @@ activity:
       - 17
       - 18
       - 19
-      - 20
 assistant:
-  White:
-    U0031012: 5
-    U0031013: 5
-    U0031044: 4
-  PinkPink:
-    U0031038: 4
-    U0031002: 4
-    U0031029: 4
-bye: U9931152
-dispensation:
-divisions:
-  - free
+  8-1:
+    U0031003: 5
+    U0031008: 5
+  8-2:
+    U0031045: 5
+  5-1:
+    U0031031: 5
+    U0031044: 5
+  4-2:
+    U0031041: 5
+dispensation: ~
+divisions: ~
+bye: U0031009
+absent: U0031048
 group:
+  0:
+    White: U0031038
+    Black: U0031029
   1:
-    White: U0031024
-    Black: U9931129
+    White: U9833051
+    Black: T9831019
   2:
-    White: U0031020
-    Black: U0031009
+    White: U0031007
+    Black: U0031004
   3:
-    White: U0031047
-    Black: U0031011
+    White: U0022016
+    Black: U0031042
   4:
-    White: U0031039
-    Black: U0031007
-  5:
-    White: U0031008
-    Black: U9831144
-  6:
-    White: U0031033
-    Black: U0031022
-  7:
-    White: U0031016
+    White: U0031013
     Black: U0031025
-  8:
-    White: U0031048
-    Black: U0031014
-  9:
-    White: U0031027
-    Black: U0031006
-  10:
-    White: U0031034
-    Black: U0031005
-  11:
+  5:
+    White: U0031002
+    Black: U0031012
+  6:
+    White: U0031036
+    Black: U0031028
+  7:
     White: U0031010
     Black: U0031018
-  12:
-    White: U0031043
-    Black: U0031041
-  13:
-    White: U9831152
-    Black: U0031003
-  14:
-    White: U0031035
-    Black: U0031040
-  15:
-    White: U0031042
-    Black: U0031049
-  16:
-    White: U0031017
-    Black: U0031004
-  17:
-    White: U0031026
-    Black: U0031036
-  18:
-    White: U0022016
+  8:
+    White: U0031022
     Black: U0031001
-  19:
-    White: U0031028
-    Black: U0031031
-  20:
+  9:
     White: U0031037
-    Black: U0031045
+    Black: U0031039
+  10:
+    White: U0031005
+    Black: U0031026
+  11:
+    White: U0031024
+    Black: U0031033
+  #12:
+  #  White: U0031009
+  #  Black: U0031048
+  13:
+    White: U0031020
+    Black: U0031014
+  14:
+    White: U0031034
+    Black: U9831152
+  15:
+    White: U0031011
+    Black: U0031043
+  16:
+    White: U0031006
+    Black: U0031049
+  17:
+    White: U0031047
+    Black: U0031016
+  18:
+    White: U0031040
+    Black: U0031035
+  19:
+    White: U0031027
+    Black: U0031017
 late:
-  - U9931152
-pairing: swiss
-payprotocol: meritPay
+pairing: swiss adjusted
+payprotocol: meritPay 3
 round: 4
-text: ~
-week: ~
+text: /home/drbean/class/business/newbusiness/cards.yaml
+week: 18
