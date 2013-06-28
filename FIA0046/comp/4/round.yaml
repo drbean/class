@@ -2,6 +2,7 @@
 activity:
   people:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -11,9 +12,7 @@ activity:
       - 7
       - 8
       - 9
-      - 10
       - 11
-      - 12
       - 13
       - 14
       - 15
@@ -25,6 +24,7 @@ activity:
       - 21
   ingredients:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -34,9 +34,7 @@ activity:
       - 7
       - 8
       - 9
-      - 10
       - 11
-      - 12
       - 13
       - 14
       - 15
@@ -48,6 +46,7 @@ activity:
       - 21
   investment:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -57,9 +56,7 @@ activity:
       - 7
       - 8
       - 9
-      - 10
       - 11
-      - 12
       - 13
       - 14
       - 15
@@ -84,6 +81,9 @@ bye: U0034051
 dispensation: ~
 divisions: ~
 group:
+  0:
+    White: U0034003
+    Black: U0034025
   1:
     White: U0031032
     Black: U0034024
@@ -94,7 +94,7 @@ group:
     White: U0034044
     Black: U0031046
   4:
-    White: U0034003
+    White: U0034026
     Black: U0034001
   5:
     White: U0034005
@@ -111,15 +111,9 @@ group:
   9:
     White: U0034010
     Black: U0034016
-  10:
-    White: U0034010
-    Black: U0034029
   11:
     White: U9834018
     Black: U0034029
-  12:
-    White: U0034026
-    Black: U0034025
   13:
     White: U0034014
     Black: U0034002
