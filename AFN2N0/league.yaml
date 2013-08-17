@@ -17,149 +17,149 @@ member:
   - Chinese: 黃志文
     id: N00200059
     name: 黃志文
-    password: ~
+    password: zhi
     rating: ~
   - Chinese: 方漢揚
     id: N01200050
     name: 方漢揚
-    password: ~
+    password: han
     rating: ~
   - Chinese: 范芝喬
     id: N01200002
     name: 范芝喬
-    password: ~
+    password: zhi
     rating: ~
   - Chinese: 曾靜如
     id: N01200005
     name: 曾靜如
-    password: ~
+    password: jing
     rating: ~
   - Chinese: 王詩云
     id: N01200006
     name: 王詩云
-    password: ~
+    password: shi
     rating: ~
   - Chinese: 徐瑋萱
     id: N01200008
     name: 徐瑋萱
-    password: ~
+    password: wei
     rating: ~
   - Chinese: 徐禹婷
     id: N01200009
     name: 徐禹婷
-    password: ~
+    password: yu
     rating: ~
   - Chinese: 凾紫渝
     id: N01200010
     name: 凾紫渝
-    password: ~
+    password: zi
     rating: ~
   - Chinese: 范育芳
     id: N01200014
     name: 范育芳
-    password: ~
+    password: yu
     rating: ~
   - Chinese: 王子銘
     id: N01200015
     name: 王子銘
-    password: ~
+    password: zi
     rating: ~
   - Chinese: 許依萍
     id: N01200016
     name: 許依萍
-    password: ~
+    password: yi
     rating: ~
   - Chinese: 王楚寒
     id: N01200018
     name: 王楚寒
-    password: ~
+    password: chu
     rating: ~
   - Chinese: 蔡雨樵
     id: N01200021
     name: 蔡雨樵
-    password: ~
+    password: yu
     rating: ~
   - Chinese: 詹庭羽
     id: N01200023
     name: 詹庭羽
-    password: ~
+    password: ting
     rating: ~
   - Chinese: 李姿嫺
     id: N01200024
     name: 李姿嫺
-    password: ~
+    password: zi
     rating: ~
   - Chinese: 劉昱宜
     id: N01200025
     name: 劉昱宜
-    password: ~
+    password: yu
     rating: ~
   - Chinese: 葉淑玲
     id: N01200026
     name: 葉淑玲
-    password: ~
+    password: shu
     rating: ~
   - Chinese: 陳俐婷
     id: N01200028
     name: 陳俐婷
-    password: ~
+    password: li
     rating: ~
   - Chinese: 黃俞嘉
     id: N01200029
     name: 黃俞嘉
-    password: ~
+    password: yu
     rating: ~
   - Chinese: 蕭至祐
     id: N01200033
     name: 蕭至祐
-    password: ~
+    password: zhi
     rating: ~
   - Chinese: 徐詩茹
     id: N01200035
     name: 徐詩茹
-    password: ~
+    password: shi
     rating: ~
   - Chinese: 張煥翊
     id: N01200038
     name: 張煥翊
-    password: ~
+    password: huan
     rating: ~
   - Chinese: 蔡佩燕
     id: N01200041
     name: 蔡佩燕
-    password: ~
+    password: pei
     rating: ~
   - Chinese: 蔡承翰
     id: N01200042
     name: 蔡承翰
-    password: ~
+    password: cheng
     rating: ~
   - Chinese: 黃小芳
     id: N01200044
     name: 黃小芳
-    password: ~
+    password: xiao
     rating: ~
   - Chinese: 江進慧
     id: N01200045
     name: 江進慧
-    password: ~
+    password: jin
     rating: ~
   - Chinese: 林秀華
     id: N01200051
     name: 林秀華
-    password: ~
+    password: xiu
     rating: ~
   - Chinese: 陳巧惠
     id: N01200052
     name: 陳巧惠
-    password: ~
+    password: qiao
     rating: ~
   - Chinese: 張敏鈺
     id: N01200058
     name: 張敏鈺
-    password: ~
+    password: min
     rating: ~
-out:
+out: ~
 room: feng_220
 school: must
 scores:
