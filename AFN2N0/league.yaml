@@ -161,6 +161,7 @@ member:
     rating: ~
 out:
 room: feng_220
+school: must
 scores:
   bye: 5
   draw: 4
