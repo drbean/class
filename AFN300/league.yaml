@@ -1,0 +1,200 @@
+---
+absent: ~
+anterior: 021AFN2N0
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 電腦多媒體語言教學
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: AFN3Y0
+jigsaw: exam
+league: NAF031_四技外三甲_選修_2
+member:
+  - Chinese: 張芯瑀
+    id: N00200001
+    name: 張芯瑀
+    password: xin
+    rating: ~
+  - Chinese: 江麗玲
+    id: N00200006
+    name: 江麗玲
+    password: li
+    rating: ~
+  - Chinese: 王雅慧
+    id: N00200008
+    name: 王雅慧
+    password: ya
+    rating: ~
+  - Chinese: 劉玉慧
+    id: N00200009
+    name: 劉玉慧
+    password: yu
+    rating: ~
+  - Chinese: 陳映如
+    id: N00200010
+    name: 陳映如
+    password: ying
+    rating: ~
+  - Chinese: 彭為騰
+    id: N00200013
+    name: 彭為騰
+    password: wei
+    rating: ~
+  - Chinese: 羅莉玲
+    id: N00200014
+    name: 羅莉玲
+    password: li
+    rating: ~
+  - Chinese: 潘信安
+    id: N00200017
+    name: 潘信安
+    password: xin
+    rating: ~
+  - Chinese: 陳宣貝
+    id: N00200025
+    name: 陳宣貝
+    password: xuan
+    rating: ~
+  - Chinese: 魏羽娸
+    id: N00200029
+    name: 魏羽娸
+    password: yu
+    rating: ~
+  - Chinese: 徐頌華
+    id: N00200030
+    name: 徐頌華
+    password: song
+    rating: ~
+  - Chinese: 曾詩穎
+    id: N00200032
+    name: 曾詩穎
+    password: shi
+    rating: ~
+  - Chinese: 魏雪如
+    id: N00200034
+    name: 魏雪如
+    password: xue
+    rating: ~
+  - Chinese: 彭成賓
+    id: N00200036
+    name: 彭成賓
+    password: cheng
+    rating: ~
+  - Chinese: 林昱瑤
+    id: N00200037
+    name: 林昱瑤
+    password: yu
+    rating: ~
+  - Chinese: 馮小蓉
+    id: N00200042
+    name: 馮小蓉
+    password: xiao
+    rating: ~
+  - Chinese: 劉佩欣
+    id: N00200043
+    name: 劉佩欣
+    password: pei
+    rating: ~
+  - Chinese: 邱欣蘭
+    id: N00200044
+    name: 邱欣蘭
+    password: xin
+    rating: ~
+  - Chinese: 陳俊生
+    id: N00200047
+    name: 陳俊生
+    password: jun
+    rating: ~
+  - Chinese: 葉俞萱
+    id: N00200048
+    name: 葉俞萱
+    password: yu
+    rating: ~
+  - Chinese: 戴睿萱
+    id: N00200051
+    name: 戴睿萱
+    password: rui
+    rating: ~
+  - Chinese: 呂恩華
+    id: N00200054
+    name: 呂恩華
+    password: en
+    rating: ~
+  - Chinese: 蔡秉倉
+    id: N00200055
+    name: 蔡秉倉
+    password: bing
+    rating: ~
+  - Chinese: 徐敏華
+    id: N00200056
+    name: 徐敏華
+    password: min
+    rating: ~
+  - Chinese: 郭姵妤
+    id: N00200058
+    name: 郭姵妤
+    password: pei
+    rating: ~
+  - Chinese: 蕭巧薇
+    id: N01202001
+    name: 蕭巧薇
+    password: qiao
+    rating: ~
+  - Chinese: 彭雅楹
+    id: N01202002
+    name: 彭雅楹
+    password: ya
+    rating: ~
+  - Chinese: 林宜儒
+    id: N01202004
+    name: 林宜儒
+    password: yi
+    rating: ~
+  - Chinese: 黃秀娟
+    id: N01202101
+    name: 黃秀娟
+    password: xiu
+    rating: ~
+  - Chinese: 吳振暐
+    id: N01202103
+    name: 吳振暐
+    password: zhen
+    rating: ~
+  - Chinese: 詹益昌
+    id: N01202104
+    name: 詹益昌
+    password: yi
+    rating: ~
+  - Chinese: 鄭瑞昇
+    id: N01202105
+    name: 鄭瑞昇
+    password: rui
+    rating: ~
+  - Chinese: 管得成
+    id: N99030025
+    name: 管得成
+    password: de
+    rating: ~
+out: ~
+room: feng_220
+school: must
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 1
+  2: 5
+  3: 9
+  4: 14
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
