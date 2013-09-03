@@ -1,0 +1,101 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 5
+pass: 1
+assistant:
+absent:
+text: /home/drbean/class/business/stress/cards.yaml
+activity:
+  adventure:
+    8:
+      - Black
+      - Green
+      - Red
+      - YellowYellow
+    9:
+      - Blue
+      - GreenGreen
+      - Pink
+      - White
+    10:
+      - BlueBlue
+      - Brown
+      - OrangeOrange
+      - PurplePurple
+      - Yellow
+    11:
+      - BlackBlack
+      - Gray
+      - Orange
+      - Purple
+group:
+  Black:
+    - Lisa
+    - Rifle
+    - Jike
+  BlackBlack:
+    - Candy
+    - Cabe
+    - Louis
+  Blue:
+    - Sunny
+    - Ben
+    - Danny
+  BlueBlue:
+    - Ting
+    - Hugh
+    - Jeffrey
+  Brown:
+    - Wei
+    - Yvonne
+    - Frank
+  Gray:
+    - Leo1
+    - Andy
+    - Eric
+  Green:
+    - Minmin
+    - Lynn
+    - Ken
+  GreenGreen:
+    - E.J.
+    - Paul
+    - Woodstock
+  Orange:
+    - Bob
+    - Chris
+    - Liz
+  OrangeOrange:
+    - Teddy
+    - James
+    - Amber
+  Pink:
+    - Amber
+    - Linda1
+    - Alice
+  Purple:
+    - Tina
+    - Annie
+    - Emma
+  PurplePurple:
+    - Nana
+    - Brook
+    - Abby
+  Red:
+    - Tosha
+    - David
+    - Cathy1
+  White:
+    - Ann
+    - George
+    - Santie
+  Yellow:
+    - Jimmy
+    - Sen
+    - Jessy
+  YellowYellow:
+    - Leo2
+    - Cathy2
+    - Andy

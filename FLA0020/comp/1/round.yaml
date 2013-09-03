@@ -1,0 +1,156 @@
+---
+activity:
+  adventure:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+  cusp:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+  school:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+assistant: 
+  OrangeOrange:
+    U0034056: 5
+    U0031046: 5
+    U0034037: 5
+  BlackBlack:
+    T9831030: 3
+    U0034011: 4
+    U0034040: 4
+bye: U0034025
+dispensation:
+divisions:
+  - free
+group:
+  0:
+    White: U0034007
+    Black: U0034051
+  1:
+    White: U0034044
+    Black: U0034032
+  2:
+    White: U0034009
+    Black: U0034043
+  3:
+    White: U0034046
+    Black: U0034027
+  4:
+    White: U0034028
+    Black: U9834018
+  5:
+    White: U0034003
+    Black: U0034016
+  6:
+    White: U0034017
+    Black: U0034035
+  7:
+    White: U0034038
+    Black: U0034014
+  8:
+    White: U0034008
+    Black: U0034001
+  9:
+    White: U0034023
+    Black: U0034002
+  10:
+    White: U0034015
+    Black: U0034045
+  11:
+    White: U0034033
+    Black: U0034026
+  12:
+    White: U0034036
+    Black: U0034010
+  13:
+    White: U9733015
+    Black: U0034049
+  14:
+    White: U0034055
+    Black: U0034034
+  15:
+    White: U0034005
+    Black: U0034013
+  16:
+    White: U0034050
+    Black: U0034012
+  17:
+    White: U0031032
+    Black: U0034042
+  18:
+    White: U0034029
+    Black: U0034004
+  19:
+    White: U0034031
+    Black: U0034030
+  20:
+    White: U0034024
+    Black: U0034006
+late:
+  - U0034051
+  - U0034025
+pairing: swiss
+payprotocol: meritPay
+round: 1
+text: ~
+week: ~

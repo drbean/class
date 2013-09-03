@@ -1,0 +1,554 @@
+---
+free:
+  0:
+    adventure:
+      0:
+        U0034007:
+          point:
+            1: Nil
+        U0034051:
+          point:
+            1: Nil
+    cusp:
+      0:
+        U0034007:
+          point:
+            1: Returned
+            2: Returned
+        U0034051:
+          point:
+            1: Fault
+    school:
+      0:
+        U0034007:
+          point:
+            1: Nil
+        U0034051:
+          point:
+            1: Returned
+  1:
+    adventure:
+      0:
+        U0034044:
+          point:
+            1: Fault
+        U0034032:
+          point:
+            1: Returned
+    cusp:
+      0:
+        U0034044:
+          point:
+            1: Returned
+            2: Returned
+        U0034032:
+          point:
+            1: Old
+            2: Returned
+    school:
+      0:
+        U0034044:
+          point:
+            1: Returned
+        U0034032:
+          point:
+            1: Returned
+  2:
+    adventure:
+      0:
+        U0034009:
+          point:
+            1: Unreturned
+        U0034043:
+          point:
+            1: Nil
+    cusp:
+      0:
+        U0034009:
+          point:
+            1: Nil
+        U0034043:
+          point:
+            1: Nil
+    school:
+      0:
+        U0034009:
+          point:
+            1: Returned
+        U0034043:
+          point:
+            1: Returned
+            2: Returned
+  3:
+    adventure:
+      0:
+        U0034046:
+          point:
+            1: Nil
+        U0034027:
+          point:
+            1: Nil
+    cusp:
+      0:
+        U0034046:
+          point:
+            1: Returned
+        U0034027:
+          point:
+            1: Returned
+    school:
+      0:
+        U0034046:
+          point:
+            1: Returned
+        U0034027:
+          point:
+            1: Returned
+  4:
+    adventure:
+      0:
+        U0034028:
+          point:
+            1: Returned
+        U9834018:
+          point:
+            1: Unreturned
+    cusp:
+      0:
+        U0034028:
+          point:
+            1: Returned
+        U9834018:
+          point:
+            1: Returned
+    school:
+      0:
+        U0034028:
+          point:
+            1: Fault
+        U9834018:
+          point:
+            1: Returned
+  5:
+    adventure:
+      0:
+        U0034003:
+          point:
+            1: Old
+            2: Returned
+        U0034016:
+          point:
+            1: Nil
+    cusp:
+      0:
+        U0034003:
+          point:
+            1: Returned
+        U0034016:
+          point:
+            1: Returned
+    school:
+      0:
+        U0034003:
+          point:
+            1: Fault
+            2: Returned
+        U0034016:
+          point:
+            1: Returned
+            2: Returned
+  6:
+    adventure:
+      0:
+        U0034017:
+          point:
+            1: Nil
+        U0034035:
+          point:
+            1: Nil
+    cusp:
+      0:
+        U0034017:
+          point:
+            1: Nil
+        U0034035:
+          point:
+            1: Nil
+    school:
+      0:
+        U0034017:
+          point:
+            1: Returned
+        U0034035:
+          point:
+            1: Returned
+  7:
+    adventure:
+      0:
+        U0034038:
+          point:
+            1: Returned
+        U0034014:
+          point:
+            1: Returned
+    cusp:
+      0:
+        U0034038:
+          point:
+            1: Nil
+        U0034014:
+          point:
+            1: Nil
+    school:
+      0:
+        U0034038:
+          point:
+            1: Fault
+        U0034014:
+          point:
+            1: Nil
+  8:
+    adventure:
+      0:
+        U0034008:
+          point:
+            1: Returned
+        U0034001:
+          point:
+            1: Old
+            2: Returned
+    cusp:
+      0:
+        U0034008:
+          point:
+            1: Returned
+        U0034001:
+          point:
+            1: Returned
+    school:
+      0:
+        U0034008:
+          point:
+            1: Returned
+        U0034001:
+          point:
+            1: Fault
+  9:
+    adventure:
+      0:
+        U0034023:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        U0034002:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+    cusp:
+      0:
+        U0034023:
+          point:
+            1: Nil
+        U0034002:
+          point:
+            1: Nil
+    school:
+      0:
+        U0034023:
+          point:
+            1: Nil
+        U0034002:
+          point:
+            1: Nil
+  10:
+    adventure:
+      0:
+        U0034015:
+          point:
+            1: Returned
+        U0034045:
+          point:
+            1: Nil
+    cusp:
+      0:
+        U0034015:
+          point:
+            1: Nil
+        U0034045:
+          point:
+            1: Nil
+    school:
+      0:
+        U0034015:
+          point:
+            1: Old
+            2: Returned
+        U0034045:
+          point:
+            1: Fault
+  11:
+    adventure:
+      0:
+        U0034033:
+          point:
+            1: Returned
+        U0034026:
+          point:
+            1: Returned
+    cusp:
+      0:
+        U0034033:
+          point:
+            1: Nil
+        U0034026:
+          point:
+            1: Nil
+    school:
+      0:
+        U0034033:
+          point:
+            1: Fault
+        U0034026:
+          point:
+            1: Returned
+  12:
+    adventure:
+      0:
+        U0034036:
+          point:
+            1: Unreturned
+        U0034010:
+          point:
+            1: Nil
+    cusp:
+      0:
+        U0034036:
+          point:
+            1: Returned
+        U0034010:
+          point:
+            1: Returned
+    school:
+      0:
+        U0034036:
+          point:
+            1: Returned
+        U0034010:
+          point:
+            1: Returned
+  13:
+    adventure:
+      0:
+        U9733015:
+          point:
+            1: Returned
+        U0034049:
+          point:
+            1: Returned
+    cusp:
+      0:
+        U9733015:
+          point:
+            1: Nil
+        U0034049:
+          point:
+            1: Nil
+    school:
+      0:
+        U9733015:
+          point:
+            1: Returned
+            2: Fault
+        U0034049:
+          point:
+            1: Returned
+            2: Returned
+  14:
+    adventure:
+      0:
+        U0034055:
+          point:
+            1: Returned
+            2: Returned
+        U0034034:
+          point:
+            1: Returned
+            2: Returned
+    cusp:
+      0:
+        U0034055:
+          point:
+            1: Nil
+        U0034034:
+          point:
+            1: Nil
+    school:
+      0:
+        U0034055:
+          point:
+            1: Nil
+        U0034034:
+          point:
+            1: Nil
+  15:
+    adventure:
+      0:
+        U0034005:
+          point:
+            1: Returned
+            2: Returned
+        U0034013:
+          point:
+            1: Returned
+            2: Returned
+    cusp:
+      0:
+        U0034005:
+          point:
+            1: Returned
+        U0034013:
+          point:
+            1: Returned
+    school:
+      0:
+        U0034005:
+          point:
+            1: Nil
+        U0034013:
+          point:
+            1: Nil
+  16:
+    adventure:
+      0:
+        U0034050:
+          point:
+            1: Nil
+        U0034012:
+          point:
+            1: Nil
+    cusp:
+      0:
+        U0034050:
+          point:
+            1: Returned
+        U0034012:
+          point:
+            1: Returned
+    school:
+      0:
+        U0034050:
+          point:
+            1: Returned
+        U0034012:
+          point:
+            1: Returned
+  17:
+    adventure:
+      0:
+        U0031032:
+          point:
+            1: Returned
+            2: Returned
+        U0034042:
+          point:
+            1: Returned
+    cusp:
+      0:
+        U0031032:
+          point:
+            1: Nil
+        U0034042:
+          point:
+            1: Nil
+    school:
+      0:
+        U0031032:
+          point:
+            1: Fault
+            2: Returned
+        U0034042:
+          point:
+            1: Returned
+            2: Fault
+  18:
+    adventure:
+      0:
+        U0034029:
+          point:
+            1: Returned
+        U0034004:
+          point:
+            1: Nil
+    cusp:
+      0:
+        U0034029:
+          point:
+            1: Fault
+        U0034004:
+          point:
+            1: Returned
+    school:
+      0:
+        U0034029:
+          point:
+            1: Returned
+        U0034004:
+          point:
+            1: Returned
+            2: Returned
+  19:
+    adventure:
+      0:
+        U0034031:
+          point:
+            1: Nil
+        U0034030:
+          point:
+            1: Nil
+    cusp:
+      0:
+        U0034031:
+          point:
+            1: Returned
+            2: Old
+            3: Returned
+        U0034030:
+          point:
+            1: Returned
+            2: Fault
+            3: Returned
+    school:
+      0:
+        U0034031:
+          point:
+            1: Nil
+        U0034030:
+          point:
+            1: Nil
+  20:
+    adventure:
+      0:
+        U0034024:
+          point:
+            1: Nil
+        U0034006:
+          point:
+            1: Nil
+    cusp:
+      0:
+        U0034024:
+          point:
+            1: Returned
+        U0034006:
+          point:
+            1: Returned
+    school:
+      0:
+        U0034024:
+          point:
+            1: Returned
+        U0034006:
+          point:
+            1: Nil

@@ -1,0 +1,556 @@
+---
+free:
+  0:
+    4_Ps:
+      0:
+        T9831030:
+          point:
+            1: Nil
+        U9834018:
+          point:
+            1: Returned
+    bottled_water:
+      0:
+        T9831030:
+          point:
+            1: Returned
+        U9834018:
+          point:
+            1: Returned
+    drbean:
+      0:
+        T9831030:
+          point:
+            1: Returned
+        U9834018:
+          point:
+            1: Nil
+  1:
+    4_Ps:
+      0:
+        U0034040:
+          point:
+            1: Nil
+        U0031046:
+          point:
+            1: Returned
+    bottled_water:
+      0:
+        U0034040:
+          point:
+            1: Returned
+        U0031046:
+          point:
+            1: Returned
+    drbean:
+      0:
+        U0034040:
+          point:
+            1: Returned
+        U0031046:
+          point:
+            1: Nil
+  2:
+    4_Ps:
+      0:
+        U0034037:
+          point:
+            1: Returned
+            2: Fault
+            3: Returned
+        U0034011:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+    bottled_water:
+      0:
+        U0034037:
+          point:
+            1: Nil
+        U0034011:
+          point:
+            1: Nil
+    drbean:
+      0:
+        U0034037:
+          point:
+            1: Nil
+        U0034011:
+          point:
+            1: Nil
+  3:
+    4_Ps:
+      0:
+        U0034056:
+          point:
+            1: Nil
+        U0034038:
+          point:
+            1: Nil
+    bottled_water:
+      0:
+        U0034056:
+          point:
+            1: Returned
+        U0034038:
+          point:
+            1: Returned
+    drbean:
+      0:
+        U0034056:
+          point:
+            1: Returned
+            2: Old
+        U0034038:
+          point:
+            1: Returned
+  4:
+    4_Ps:
+      0:
+        U0034043:
+          point:
+            1: Returned
+        U0034003:
+          point:
+            1: Returned
+    bottled_water:
+      0:
+        U0034043:
+          point:
+            1: Fault
+        U0034003:
+          point:
+            1: Returned
+    drbean:
+      0:
+        U0034043:
+          point:
+            1: Nil
+        U0034003:
+          point:
+            1: Nil
+  5:
+    4_Ps:
+      0:
+        U0034010:
+          point:
+            1: Fault
+        U0034028:
+          point:
+            1: Nil
+    bottled_water:
+      0:
+        U0034010:
+          point:
+            1: Returned
+        U0034028:
+          point:
+            1: Returned
+            2: Returned
+    drbean:
+      0:
+        U0034010:
+          point:
+            1: Returned
+        U0034028:
+          point:
+            1: Old
+            2: Returned
+  6:
+    4_Ps:
+      0:
+        U0034024:
+          point:
+            1: Nil
+        U0034044:
+          point:
+            1: Nil
+    bottled_water:
+      0:
+        U0034024:
+          point:
+            1: Returned
+        U0034044:
+          point:
+            1: Returned
+    drbean:
+      0:
+        U0034024:
+          point:
+            1: Returned
+        U0034044:
+          point:
+            1: Old
+            2: Old
+            3: Returned
+  7:
+    4_Ps:
+      0:
+        U0034035:
+          point:
+            1: Nil
+        U0034055:
+          point:
+            1: Nil
+    bottled_water:
+      0:
+        U0034035:
+          point:
+            1: Nil
+        U0034055:
+          point:
+            1: Returned
+    drbean:
+      0:
+        U0034035:
+          point:
+            1: Returned
+            2: Returned
+        U0034055:
+          point:
+            1: Old
+  8:
+    4_Ps:
+      0:
+        U0034012:
+          point:
+            1: Returned
+        U0034046:
+          point:
+            1: Nil
+    bottled_water:
+      0:
+        U0034012:
+          point:
+            1: Returned
+        U0034046:
+          point:
+            1: Returned
+    drbean:
+      0:
+        U0034012:
+          point:
+            1: Returned
+        U0034046:
+          point:
+            1: Returned
+            2: Returned
+  9:
+    4_Ps:
+      0:
+        U0034026:
+          point:
+            1: Nil
+        U9733015:
+          point:
+            1: Nil
+    bottled_water:
+      0:
+        U0034026:
+          point:
+            1: Nil
+        U9733015:
+          point:
+            1: Returned
+    drbean:
+      0:
+        U0034026:
+          point:
+            1: Returned
+            2: Returned
+        U9733015:
+          point:
+            1: Old
+  10:
+    4_Ps:
+      0:
+        U0034034:
+          point:
+            1: Returned
+        U0034029:
+          point:
+            1: Fault
+    bottled_water:
+      0:
+        U0034034:
+          point:
+            1: Returned
+            2: Returned
+        U0034029:
+          point:
+            1: Returned
+    drbean:
+      0:
+        U0034034:
+          point:
+            1: Nil
+        U0034029:
+          point:
+            1: Fault
+  11:
+    4_Ps:
+      0:
+        U0034004:
+          point:
+            1: Nil
+        U0034005:
+          point:
+            1: Nil
+    bottled_water:
+      0:
+        U0034004:
+          point:
+            1: Returned
+        U0034005:
+          point:
+            1: Returned
+    drbean:
+      0:
+        U0034004:
+          point:
+            1: Returned
+            2: Returned
+        U0034005:
+          point:
+            1: Returned
+            2: Returned
+  12:
+    4_Ps:
+      0:
+        U0034013:
+          point:
+            1: Fault
+            2: Returned
+        U0034007:
+          point:
+            1: Returned
+    bottled_water:
+      0:
+        U0034013:
+          point:
+            1: Returned
+        U0034007:
+          point:
+            1: Returned
+    drbean:
+      0:
+        U0034013:
+          point:
+            1: Old
+        U0034007:
+          point:
+            1: Nil
+  13:
+    4_Ps:
+      0:
+        U0034001:
+          point:
+            1: Returned
+            2: Returned
+        U0034023:
+          point:
+            1: Returned
+            2: Returned
+    bottled_water:
+      0:
+        U0034001:
+          point:
+            1: Returned
+        U0034023:
+          point:
+            1: Nil
+    drbean:
+      0:
+        U0034001:
+          point:
+            1: Nil
+        U0034023:
+          point:
+            1: Returned
+  14:
+    4_Ps:
+      0:
+        U0034002:
+          point:
+            1: Fault
+        U0034008:
+          point:
+            1: Nil
+    bottled_water:
+      0:
+        U0034002:
+          point:
+            1: Returned
+        U0034008:
+          point:
+            1: Returned
+    drbean:
+      0:
+        U0034002:
+          point:
+            1: Returned
+        U0034008:
+          point:
+            1: Returned
+  15:
+    4_Ps:
+      0:
+        U0034049:
+          point:
+            1: Nil
+        U0034050:
+          point:
+            1: Nil
+    bottled_water:
+      0:
+        U0034049:
+          point:
+            1: Returned
+            2: Returned
+        U0034050:
+          point:
+            1: Fault
+            2: Returned
+    drbean:
+      0:
+        U0034049:
+          point:
+            1: Unreturned
+        U0034050:
+          point:
+            1: Returned
+  16:
+    4_Ps:
+      0:
+        U0034032:
+          point:
+            1: Nil
+        U0034033:
+          point:
+            1: Nil
+    bottled_water:
+      0:
+        U0034032:
+          point:
+            1: Nil
+        U0034033:
+          point:
+            1: Returned
+    drbean:
+      0:
+        U0034032:
+          point:
+            1: Returned
+            2: Returned
+        U0034033:
+          point:
+            1: Returned
+  17:
+    4_Ps:
+      0:
+        U0034014:
+          point:
+            1: Nil
+        U0034025:
+          point:
+            1: Nil
+    bottled_water:
+      0:
+        U0034014:
+          point:
+            1: Nil
+        U0034025:
+          point:
+            1: Nil
+    drbean:
+      0:
+        U0034014:
+          point:
+            1: Returned
+            2: Old
+            3: Returned
+        U0034025:
+          point:
+            1: Unreturned
+            2: Returned
+  18:
+    4_Ps:
+      0:
+        U0034006:
+          point:
+            1: Fault
+        U0034036:
+          point:
+            1: Nil
+    bottled_water:
+      0:
+        U0034006:
+          point:
+            1: Returned
+            2: Returned
+        U0034036:
+          point:
+            1: Returned
+    drbean:
+      0:
+        U0034006:
+          point:
+            1: Nil
+        U0034036:
+          point:
+            1: Returned
+  19:
+    4_Ps:
+      0:
+        U0034045:
+          point:
+            1: Returned
+        U0034009:
+          point:
+            1: Returned
+    bottled_water:
+      0:
+        U0034045:
+          point:
+            1: Returned
+        U0034009:
+          point:
+            1: Nil
+    drbean:
+      0:
+        U0034045:
+          point:
+            1: Returned
+        U0034009:
+          point:
+            1: Returned
+  20:
+    4_Ps:
+      0:
+        U0034042:
+          point:
+            1: Nil
+        U0034031:
+          point:
+            1: Nil
+    bottled_water:
+      0:
+        U0034042:
+          point:
+            1: Nil
+        U0034031:
+          point:
+            1: Nil
+    drbean:
+      0:
+        U0034042:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        U0034031:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned

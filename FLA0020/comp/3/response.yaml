@@ -1,0 +1,556 @@
+---
+free:
+  1:
+    management:
+      kendall:
+        U0034030:
+          point:
+            1: Unreturned
+        U0031032:
+          point:
+            1: Returned
+      companies:
+        U0034030:
+          point:
+            1: Unreturned
+        U0031032:
+          point:
+            1: Nil
+      compcomp:
+        U0034030:
+          point:
+            1: Nil
+        U0031032:
+          point:
+            1: Nil
+  2:
+    management:
+      kendall:
+        U0034015:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+            4: Returned
+        T9831030:
+          point:
+            1: Old
+            2: Old
+            3: Returned
+            4: Fault
+      companies:
+        U0034015:
+          point:
+            1: Nil
+        T9831030:
+          point:
+            1: Returned
+            2: Returned
+      compcomp:
+        U0034015:
+          point:
+            1: Nil
+        T9831030:
+          point:
+            1: Nil
+  3:
+    management:
+      kendall:
+        U0034011:
+          point:
+            1: Unreturned
+        U0034017:
+          point:
+            1: Returned
+            2: Returned
+      companies:
+        U0034011:
+          point:
+            1: Returned
+        U0034017:
+          point:
+            1: Returned
+      compcomp:
+        U0034011:
+          point:
+            1: Returned
+        U0034017:
+          point:
+            1: Nil
+  4:
+    management:
+      kendall:
+        U0031046:
+          point:
+            1: Fault
+            2: Returned
+            3: Returned
+            4: Returned
+        U0034037:
+          point:
+            1: Unreturned
+            2: Returned
+            3: Old
+            4: Old
+            5: Returned
+            6: Old
+      companies:
+        U0031046:
+          point:
+            1: Nil
+        U0034037:
+          point:
+            1: Nil
+      compcomp:
+        U0031046:
+          point:
+            1: Nil
+        U0034037:
+          point:
+            1: Nil
+  5:
+    management:
+      kendall:
+        U0034027:
+          point:
+            1: Returned
+            2: Returned
+        U0034040:
+          point:
+            1: Returned
+            2: Returned
+      companies:
+        U0034027:
+          point:
+            1: Unreturned
+        U0034040:
+          point:
+            1: Fault
+      compcomp:
+        U0034027:
+          point:
+            1: Returned
+        U0034040:
+          point:
+            1: Returned
+  6:
+    management:
+      kendall:
+        U0034016:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        U0034056:
+          point:
+            1: Returned
+            2: Returned
+      companies:
+        U0034016:
+          point:
+            1: Nil
+        U0034056:
+          point:
+            1: Returned
+      compcomp:
+        U0034016:
+          point:
+            1: Nil
+        U0034056:
+          point:
+            1: Nil
+  7:
+    management:
+      kendall:
+        U9834018:
+          point:
+            1: Returned
+            2: Returned
+        U0034043:
+          point:
+            1: Returned
+            2: Returned
+      companies:
+        U9834018:
+          point:
+            1: Returned
+        U0034043:
+          point:
+            1: Returned
+      compcomp:
+        U9834018:
+          point:
+            1: Returned
+        U0034043:
+          point:
+            1: Fault
+  8:
+    management:
+      kendall:
+        U0034038:
+          point:
+            1: Returned
+        U0034026:
+          point:
+            1: Returned
+            2: Old
+            3: Returned
+      companies:
+        U0034038:
+          point:
+            1: Old
+            2: Returned
+        U0034026:
+          point:
+            1: Nil
+      compcomp:
+        U0034038:
+          point:
+            1: Old
+            2: Returned
+        U0034026:
+          point:
+            1: Returned
+  9:
+    management:
+      kendall:
+        U0034028:
+          point:
+            1: Returned
+            2: Returned
+            3: Fault
+        U0034013:
+          point:
+            1: Returned
+      companies:
+        U0034028:
+          point:
+            1: Nil
+        U0034013:
+          point:
+            1: Nil
+      compcomp:
+        U0034028:
+          point:
+            1: Returned
+        U0034013:
+          point:
+            1: Returned
+            2: Returned
+  10:
+    management:
+      kendall:
+        U0034050:
+          point:
+            1: Returned
+            2: Unreturned
+            3: Old
+            4: Returned
+            5: Returned
+        U0034010:
+          point:
+            1: Returned
+            2: Returned
+            3: Old
+            4: Returned
+            5: Returned
+      companies:
+        U0034050:
+          point:
+            1: Nil
+        U0034010:
+          point:
+            1: Nil
+      compcomp:
+        U0034050:
+          point:
+            1: Nil
+        U0034010:
+          point:
+            1: Nil
+  11:
+    management:
+      kendall:
+        U0034002:
+          point:
+            1: Unreturned
+            2: Returned
+            3: Returned
+        U0034006:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+      companies:
+        U0034002:
+          point:
+            1: Nil
+        U0034006:
+          point:
+            1: Nil
+      compcomp:
+        U0034002:
+          point:
+            1: Returned
+        U0034006:
+          point:
+            1: Fault
+  12:
+    management:
+      kendall:
+        U0034029:
+          point:
+            1: Returned
+            2: Fault
+        U0034012:
+          point:
+            1: Returned
+            2: Old
+            3: Returned
+      companies:
+        U0034029:
+          point:
+            1: Returned
+        U0034012:
+          point:
+            1: Unreturned
+      compcomp:
+        U0034029:
+          point:
+            1: Fault
+        U0034012:
+          point:
+            1: Nil
+  13:
+    management:
+      kendall:
+        U0034025:
+          point:
+            1: Returned
+        U0034004:
+          point:
+            1: Old
+      companies:
+        U0034025:
+          point:
+            1: Returned
+        U0034004:
+          point:
+            1: Returned
+            2: Returned
+      compcomp:
+        U0034025:
+          point:
+            1: Returned
+        U0034004:
+          point:
+            1: Returned
+  14:
+    management:
+      kendall:
+        U0034046:
+          point:
+            1: Returned
+        U0034014:
+          point:
+            1: Nil
+      companies:
+        U0034046:
+          point:
+            1: Returned
+        U0034014:
+          point:
+            1: Returned
+      compcomp:
+        U0034046:
+          point:
+            1: Returned
+        U0034014:
+          point:
+            1: Returned
+            2: Returned
+  15:
+    management:
+      kendall:
+        U0034033:
+          point:
+            1: Returned
+        U0034034:
+          point:
+            1: Returned
+      companies:
+        U0034033:
+          point:
+            1: Returned
+        U0034034:
+          point:
+            1: Returned
+      compcomp:
+        U0034033:
+          point:
+            1: Old
+            2: Returned
+        U0034034:
+          point:
+            1: Returned
+  16:
+    management:
+      kendall:
+        U0034055:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        U0034032:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+      companies:
+        U0034055:
+          point:
+            1: Nil
+        U0034032:
+          point:
+            1: Nil
+      compcomp:
+        U0034055:
+          point:
+            1: Nil
+        U0034032:
+          point:
+            1: Nil
+  17:
+    management:
+      kendall:
+        U9733015:
+          point:
+            1: Old
+            2: Returned
+        U0034042:
+          point:
+            1: Returned
+            2: Returned
+      companies:
+        U9733015:
+          point:
+            1: Returned
+            2: Returned
+        U0034042:
+          point:
+            1: Returned
+      compcomp:
+        U9733015:
+          point:
+            1: Nil
+        U0034042:
+          point:
+            1: Nil
+  18:
+    management:
+      kendall:
+        U0034008:
+          point:
+            1: Returned
+            2: Fault
+            3: Old
+            4: Returned
+            5: Returned
+        U0034031:
+          point:
+            1: Returned
+            2: Old
+      companies:
+        U0034008:
+          point:
+            1: Nil
+        U0034031:
+          point:
+            1: Nil
+      compcomp:
+        U0034008:
+          point:
+            1: Nil
+        U0034031:
+          point:
+            1: Returned
+            2: Fault
+            3: Returned
+  19:
+    management:
+      kendall:
+        U0034007:
+          point:
+            1: Returned
+            2: Returned
+        U0034049:
+          point:
+            1: Returned
+            2: Returned
+      companies:
+        U0034007:
+          point:
+            1: Returned
+        U0034049:
+          point:
+            1: Returned
+      compcomp:
+        U0034007:
+          point:
+            1: Nil
+        U0034049:
+          point:
+            1: Nil
+  20:
+    management:
+      kendall:
+        U0034036:
+          point:
+            1: Returned
+            2: Old
+            3: Returned
+            4: Returned
+        U0034009:
+          point:
+            1: Old
+            2: Fault
+            3: Old
+            4: Fault
+      companies:
+        U0034036:
+          point:
+            1: Nil
+        U0034009:
+          point:
+            1: Nil
+      compcomp:
+        U0034036:
+          point:
+            1: Nil
+        U0034009:
+          point:
+            1: Returned
+  21:
+    management:
+      kendall:
+        U0034051:
+          point:
+            1: Returned
+        U0034003:
+          point:
+            1: Old
+            2: Returned
+      companies:
+        U0034051:
+          point:
+            1: Unreturned
+        U0034003:
+          point:
+            1: Returned
+      compcomp:
+        U0034051:
+          point:
+            1: Returned
+        U0034003:
+          point:
+            1: Returned

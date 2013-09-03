@@ -1,0 +1,113 @@
+---
+activity:
+  website:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+bye: ~
+group:
+  0:
+     White: U9934046
+     Black: U9933147
+  1:
+    White: U9934010
+    Black: U9934048
+  2:
+    White: U9934012
+    Black: U9934016
+  3:
+    White: U9934004
+    Black: T9833026
+  4:
+    White: U9816024
+    Black: U9934036
+  5:
+    White: T9833024
+    Black: U9934003
+  6:
+    White: U9913132
+    Black: U9934045
+  7:
+    White: U9934011
+    Black: T9833008
+  8:
+    White: U9934015
+    Black: U9934019
+  9:
+    White: U9934050
+    Black: U9934025
+  10:
+    White: U9934021
+    Black: U9934039
+  11:
+    White: U9934007
+    Black: U9934023
+  12:
+    White: U9934033
+    Black: U9934038
+  13:
+    White: U9934031
+    Black: U9934017
+  14:
+    White: U9934009
+    Black: U9934022
+  15:
+    White: U9934037
+    Black: U9934040
+  16:
+     White: U9934028
+     Black: U9934034
+  17:
+     White: U9934051
+     Black: U9934002
+  18:
+     White: U9934006
+     Black: U9934005
+  19:
+     White: U9934027
+     Black: U9934030
+  20:
+     White: U9934043
+     Black: U9934001
+  21:
+     White: U9934020
+     Black: U9934032
+  
+late:
+  - U9934046
+  - U9934028
+  - U9934034
+  - U9934051
+  - U9934002
+  - U9934006
+  - U9934005
+  - U9934027
+  - U9934030
+  - U9934043
+  - U9934001
+  - U9934020
+  - U9934032
+pairing: swiss (adjusted)
+round: 5
+text: /home/drbean/class/business/online/cards.yaml
+week: 7
