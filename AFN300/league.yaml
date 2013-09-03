@@ -1,28 +1,38 @@
 ---
 absent: ~
-anterior: 021AFN2N0
+anterior: 021AFN3Y0
 approach: GroupworkNoFault
 classMax: 3
 compcomp: comp
 examMax: 5
 exams: exam
-field: 電腦多媒體語言教學
+field: 高階英語聽力
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: AFN3Y0
+id: AFN300
 jigsaw: exam
-league: NAF031_四技外三甲_選修_2
+league: NAF031_四技外三甲_必修_2
 member:
   - Chinese: 張芯瑀
     id: N00200001
     name: 張芯瑀
     password: xin
     rating: ~
+  - Chinese: 林宗賢
+    id: N00200003
+    name: 林宗賢
+    password: zong
+    rating: ~
   - Chinese: 江麗玲
     id: N00200006
     name: 江麗玲
     password: li
+    rating: ~
+  - Chinese: 鄒瓊瑩
+    id: N00200007
+    name: 鄒瓊瑩
+    password: qiong
     rating: ~
   - Chinese: 王雅慧
     id: N00200008
@@ -49,15 +59,35 @@ member:
     name: 羅莉玲
     password: li
     rating: ~
+  - Chinese: 劉啟芬
+    id: N00200015
+    name: 劉啟芬
+    password: qi
+    rating: ~
   - Chinese: 潘信安
     id: N00200017
     name: 潘信安
     password: xin
     rating: ~
+  - Chinese: 曾孟妍
+    id: N00200018
+    name: 曾孟妍
+    password: meng
+    rating: ~
+  - Chinese: 胡文瑄
+    id: N00200022
+    name: 胡文瑄
+    password: wen
+    rating: ~
   - Chinese: 陳宣貝
     id: N00200025
     name: 陳宣貝
     password: xuan
+    rating: ~
+  - Chinese: 周彥伶
+    id: N00200027
+    name: 周彥伶
+    password: yan
     rating: ~
   - Chinese: 魏羽娸
     id: N00200029
@@ -68,6 +98,11 @@ member:
     id: N00200030
     name: 徐頌華
     password: song
+    rating: ~
+  - Chinese: 嚴佳馨
+    id: N00200031
+    name: 嚴佳馨
+    password: jia
     rating: ~
   - Chinese: 曾詩穎
     id: N00200032
@@ -103,6 +138,11 @@ member:
     id: N00200044
     name: 邱欣蘭
     password: xin
+    rating: ~
+  - Chinese: 余岱蓉
+    id: N00200045
+    name: 余岱蓉
+    password: dai
     rating: ~
   - Chinese: 陳俊生
     id: N00200047
@@ -149,6 +189,11 @@ member:
     name: 彭雅楹
     password: ya
     rating: ~
+  - Chinese: 黃冠潔
+    id: N01202003
+    name: 黃冠潔
+    password: guan
+    rating: ~
   - Chinese: 林宜儒
     id: N01202004
     name: 林宜儒
@@ -174,10 +219,30 @@ member:
     name: 鄭瑞昇
     password: rui
     rating: ~
+  - Chinese: 呂旻汶
+    id: N02203101
+    name: 呂旻汶
+    password: min
+    rating: ~
+  - Chinese: 溫嘉翔
+    id: N02203102
+    name: 溫嘉翔
+    password: jia
+    rating: ~
+  - Chinese: 林雯柔
+    id: N98200037
+    name: 林雯柔
+    password: wen
+    rating: ~
   - Chinese: 管得成
     id: N99030025
     name: 管得成
     password: de
+    rating: ~
+  - Chinese: 郭駿緯
+    id: N99030033
+    name: 郭駿緯
+    password: jun
     rating: ~
 out: ~
 room: feng_220
