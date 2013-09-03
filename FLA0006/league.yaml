@@ -1,219 +1,164 @@
 ---
 absent: ~
 active: ~
-anterior: 002FLA0027
+anterior: 012FLA0037
 approach: GroupworkNoFault
 classMax: 3
 examMax: 5
 exams: exam
-field: 英語媒體
+field: 新聞英語
 groupwork: classwork
 hw: homework
 hwMax: 3
-id: 012FLA0037
+id: 021FLA0006
 league: 夜應外大學四甲
 member:
-  - Chinese: 王律予
-    id: V0041039
-    name: Cindy
-    password: lu
-    rating: 0
-  - Chinese: 李葦唯
-    id: V0041053
-    name: Stella
-    password: wei
-    rating: 0
+  - Chinese: 李秉霖
+    id: T9823041
+    name: 李秉霖
+    password: bing
+    rating: ~
   - Chinese: 沈冠宇
     id: V0141013
-    name: Dean
+    name: 沈冠宇
     password: guan
-    rating: 0
+    rating: ~
+  - Chinese: 陳昱樺
+    id: V9724004
+    name: 陳昱樺
+    password: yu
+    rating: ~
+  - Chinese: 張馨卿
+    id: V9741044
+    name: 張馨卿
+    password: xin
+    rating: ~
   - Chinese: 白芳瑜
     id: V9741064
-    name: Amy
+    name: 白芳瑜
     password: fang
-    rating: 0
-  - Chinese: 羅曼
-    id: V9741065
-    name: Frances
-    password: man
-    rating: 0
-  - Chinese: 夏芳婕
-    id: V9841002
-    name: Kori
-    password: fang
-    rating: 0
-  - Chinese: 陳美惠
-    id: V9841006
-    name: Abby
-    password: mei
-    rating: 0
+    rating: ~
   - Chinese: 彭浩瑀
     id: V9841010
-    name: Yorick
+    name: 彭浩瑀
     password: hao
-    rating: 0
-  - Chinese: 劉建平
-    id: V9841011
-    name: Leo
-    password: jian
-    rating: 0
-  - Chinese: 江培寬
-    id: V9841013
-    name: Dennis
-    password: pei
-    rating: 0
-  - Chinese: 黃柏銘
-    id: V9841020
-    name: Stanley
-    password: bo
-    rating: 0
-  - Chinese: 吳千羽
-    id: V9841022
-    name: Hank
-    password: qian
-    rating: 0
-  - Chinese: 陳憶茹
-    id: V9841027
-    name: Yi-Ru
-    password: yi
-    rating: 0
+    rating: ~
+  - Chinese: 葉瓊惠
+    id: V9841025
+    name: 葉瓊惠
+    password: qiong
+    rating: ~
   - Chinese: 彭怡靜
     id: V9841028
-    name: Katty
+    name: 彭怡靜
     password: yi
-    rating: 0
-  - Chinese: 戴維儀
-    id: V9841030
-    name: Wei-Yi
-    password: wei
-    rating: 0
-  - Chinese: 黃裕惠
-    id: V9841031
-    name: Bass
-    password: yu
-    rating: 0
-  - Chinese: 張筱青
-    id: V9841040
-    name: Joy
-    password: xiao
-    rating: 0
-  - Chinese: 徐亦嫺
-    id: V9841048
-    name: Cathy
-    password: yi
-    rating: 0
+    rating: ~
+  - Chinese: 李家安
+    id: V9841042
+    name: 李家安
+    password: jia
+    rating: ~
   - Chinese: 駱佳帷
     id: V9841049
-    name: Joan
+    name: 駱佳帷
     password: jia
-    rating: 0
-  - Chinese: 鄭宇筑
-    id: V9841050
-    name: Debbie
-    password: yu
-    rating: 0
-  - Chinese: 李奕蓂
-    id: V9841051
-    name: Ming
-    password: yi
-    rating: 0
-  - Chinese: 張馥琦
-    id: V9841053
-    name: Carina
-    password: fu
-    rating: 0
-  - Chinese: 何青青
-    id: V9841054
-    name: Winnie
-    password: qing
-    rating: 0
-  - Chinese: 吳芸帆
-    id: V9841058
-    name: Kitty
-    password: yun
-    rating: 0
-out:
-  - Chinese: 陳泊儒
-    id: V9716047
-    name: 陳泊儒
-    password: bo
-    rating: 0
-  - Chinese: 謝家恩
-    id: V9811032
-    name: David1
-    password: jia
-    rating: 0
-  - Chinese: 朱莉鳳
-    id: V9841029
-    name: Lisa
-    password: li
-    rating: 0
-  - Chinese: 林心如
-    id: V9841034
-    name: Rachel
-    password: xin
-    rating: 0
-  - Chinese: 林筠臻
-    id: V9841036
-    name: Jessica
-    password: yun
-    rating: 0
-  - Chinese: 邱靜妤
-    id: V9841038
-    name: Julie
-    password: jing
-    rating: 0
-  - Chinese: 蘇文彥
-    id: V9841067
-    name: Sue
+    rating: ~
+  - Chinese: 吳仰婷
+    id: V9941001
+    name: 吳仰婷
+    password: yang
+    rating: ~
+  - Chinese: 朱文章
+    id: V9941007
+    name: 朱文章
     password: wen
-    rating: 0
-  - Chinese: 范宇仙
-    id: V9924009
-    name: Lily
-    password: yu
-    rating: 0
-  - Chinese: 黃佳鴻
-    id: V9924017
-    name: Paul
-    password: jia
-    rating: 0
-  - Chinese: 邱政標
-    id: V9924037
-    name: Jay
-    password: zheng
-    rating: 0
-  - Chinese: 李緯閎
-    id: V9924038
-    name: Lee
+    rating: ~
+  - Chinese: 鍾興科
+    id: V9941011
+    name: 鍾興科
+    password: xing
+    rating: ~
+  - Chinese: '?翔義'
+    id: V9941012
+    name: '?翔義'
+    password: xiang
+    rating: ~
+  - Chinese: 洪詠舜
+    id: V9941013
+    name: 洪詠舜
+    password: yong
+    rating: ~
+  - Chinese: 涂為智
+    id: V9941015
+    name: 涂為智
     password: wei
-    rating: 0
-  - Chinese: 郭勝峯
-    id: V9924039
-    name: Sheng
-    password: sheng
-    rating: 0
-  - Chinese: 陳柏諺
-    id: V9924055
-    name: Poyen
-    password: bo
-    rating: 0
-  - Chinese: 黃彥華
-    id: V9924060
-    name: Ken
-    password: yan
-    rating: 0
-  - Chinese: 曾孟博
-    id: V9924062
-    name: Marlboro
-    password: meng
-    rating: 0
-  - Chinese: 林岱緯
-    id: V9924066
-    name: David2
-    password: dai
-    rating: 0
+    rating: ~
+  - Chinese: 陳俞靜
+    id: V9941022
+    name: 陳俞靜
+    password: yu
+    rating: ~
+  - Chinese: 張真黛
+    id: V9941026
+    name: Zhen-Dai
+    password: zhen
+    rating: 74
+  - Chinese: 楊琬茹
+    id: V9941027
+    name: Wan-Ru
+    password: wan
+    rating: 51
+  - Chinese: 張雅婷
+    id: V9941029
+    name: YaTing1
+    password: ya
+    rating: 63
+  - Chinese: 劉紋君
+    id: V9941037
+    name: WenJun
+    password: wen
+    rating: 76
+  - Chinese: 莊翌蝶
+    id: V9941040
+    name: Claire
+    password: yi
+    rating: 72
+  - Chinese: 黃宇襄
+    id: V9941045
+    name: Jill
+    password: yu
+    rating: 89
+  - Chinese: 徐婉綾
+    id: V9941047
+    name: Wan-Ling
+    password: wan
+    rating: 52
+  - Chinese: 詹春英
+    id: V9941049
+    name: Chun-Ying
+    password: chun
+    rating: 78
+  - Chinese: 詹春華
+    id: V9941050
+    name: Chun-Hua
+    password: chun
+    rating: 82
+  - Chinese: 黃于真
+    id: V9941059
+    name: Sophia1
+    password: yu
+    rating: 70
+  - Chinese: 楊千慧
+    id: V9941073
+    name: QianHui
+    password: qian
+    rating: 72
+  - Chinese: 林柏如
+    id: V9941075
+    name: Brenda
+    password: bai
+    rating: 37
+out: ~
 room: A705
 session:
   1: 1
