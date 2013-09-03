@@ -1,0 +1,203 @@
+---
+cutpoints:
+  one: 20
+  two: 80
+exercise: cusp
+grade:
+  T9831030: 0
+  U0031032: 0
+  U0031046: 2
+  U0034001: 2
+  U0034002: 2
+  U0034003: 0
+  U0034004: 2
+  U0034005: 2
+  U0034006: 2
+  U0034007: 2
+  U0034008: 2
+  U0034009: 2
+  U0034010: 2
+  U0034011: 2
+  U0034012: 2
+  U0034013: 2
+  U0034014: 2
+  U0034015: 2
+  U0034016: 2
+  U0034017: 2
+  U0034023: 2
+  U0034024: 2
+  U0034025: 0
+  U0034026: 2
+  U0034027: 2
+  U0034028: 2
+  U0034029: 0
+  U0034030: 2
+  U0034031: 2
+  U0034032: 0
+  U0034033: 2
+  U0034034: 2
+  U0034035: 0
+  U0034036: 2
+  U0034037: 2
+  U0034038: 2
+  U0034040: 0
+  U0034042: 2
+  U0034043: 2
+  U0034044: 2
+  U0034045: 2
+  U0034046: 2
+  U0034049: 2
+  U0034050: 2
+  U0034051: 2
+  U0034055: 2
+  U0034056: 2
+  U9733015: 0
+  U9834018: 0
+points:
+  T9831030:
+    letters: 0
+    percent: 0
+  U0031032:
+    letters: 0
+    percent: 0
+  U0031046:
+    letters: 815
+    percent: 100
+  U0034001:
+    letters: 768
+    percent: 98
+  U0034002:
+    letters: 778
+    percent: 100
+  U0034003:
+    letters: 0
+    percent: 0
+  U0034004:
+    letters: 798
+    percent: 98
+  U0034005:
+    letters: 774
+    percent: 99
+  U0034006:
+    letters: 801
+    percent: 100
+  U0034007:
+    letters: 803
+    percent: 100
+  U0034008:
+    letters: 809
+    percent: 100
+  U0034009:
+    letters: 802
+    percent: 100
+  U0034010:
+    letters: 803
+    percent: 100
+  U0034011:
+    letters: 805
+    percent: 100
+  U0034012:
+    letters: 797
+    percent: 100
+  U0034013:
+    letters: 807
+    percent: 100
+  U0034014:
+    letters: 802
+    percent: 100
+  U0034015:
+    letters: 772
+    percent: 100
+  U0034016:
+    letters: 803
+    percent: 100
+  U0034017:
+    letters: 799
+    percent: 100
+  U0034023:
+    letters: 785
+    percent: 100
+  U0034024:
+    letters: 812
+    percent: 100
+  U0034025:
+    letters: 0
+    percent: 0
+  U0034026:
+    letters: 797
+    percent: 100
+  U0034027:
+    letters: 789
+    percent: 100
+  U0034028:
+    letters: 789
+    percent: 100
+  U0034029:
+    letters: 0
+    percent: 0
+  U0034030:
+    letters: 795
+    percent: 100
+  U0034031:
+    letters: 768
+    percent: 100
+  U0034032:
+    letters: 0
+    percent: 0
+  U0034033:
+    letters: 808
+    percent: 100
+  U0034034:
+    letters: 812
+    percent: 100
+  U0034035:
+    letters: 0
+    percent: 0
+  U0034036:
+    letters: 800
+    percent: 100
+  U0034037:
+    letters: 790
+    percent: 100
+  U0034038:
+    letters: 802
+    percent: 100
+  U0034040:
+    letters: 0
+    percent: 0
+  U0034042:
+    letters: 796
+    percent: 100
+  U0034043:
+    letters: 782
+    percent: 100
+  U0034044:
+    letters: 804
+    percent: 100
+  U0034045:
+    letters: 795
+    percent: 100
+  U0034046:
+    letters: 794
+    percent: 100
+  U0034049:
+    letters: 808
+    percent: 100
+  U0034050:
+    letters: 797
+    percent: 100
+  U0034051:
+    letters: 812
+    percent: 100
+  U0034055:
+    letters: 797
+    percent: 100
+  U0034056:
+    letters: 787
+    percent: 100
+  U9733015:
+    letters: 0
+    percent: 0
+  U9834018:
+    letters: 0
+    percent: 0

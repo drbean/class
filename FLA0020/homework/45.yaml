@@ -1,0 +1,203 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: bradshaw
+grade:
+  U9734051: 2
+  U9834017: 2
+  U9913132: 2
+  U9933147: 2
+  U9934001: 2
+  U9934002: 2
+  U9934003: 2
+  U9934004: 2
+  U9934005: 2
+  U9934006: 2
+  U9934007: 2
+  U9934009: 2
+  U9934010: 2
+  U9934011: 2
+  U9934012: 2
+  U9934013: 2
+  U9934015: 2
+  U9934016: 2
+  U9934017: 2
+  U9934019: 1
+  U9934020: 2
+  U9934021: 2
+  U9934022: 2
+  U9934023: 2
+  U9934024: 2
+  U9934025: 2
+  U9934026: 2
+  U9934027: 2
+  U9934028: 2
+  U9934029: 2
+  U9934030: 2
+  U9934031: 2
+  U9934032: 2
+  U9934033: 2
+  U9934034: 2
+  U9934036: 2
+  U9934037: 2
+  U9934038: 2
+  U9934039: 2
+  U9934040: 2
+  U9934043: 2
+  U9934044: 1
+  U9934045: 2
+  U9934046: 2
+  U9934047: 2
+  U9934048: 2
+  U9934050: 2
+  U9934051: 2
+  U9934052: 2
+points:
+  U9734051:
+    letters: 114
+    percent: 100
+  U9834017:
+    letters: 108
+    percent: 100
+  U9913132:
+    letters: 111
+    percent: 100
+  U9933147:
+    letters: 124
+    percent: 100
+  U9934001:
+    letters: 125
+    percent: 100
+  U9934002:
+    letters: 109
+    percent: 100
+  U9934003:
+    letters: 129
+    percent: 100
+  U9934004:
+    letters: 93
+    percent: 100
+  U9934005:
+    letters: 108
+    percent: 100
+  U9934006:
+    letters: 102
+    percent: 100
+  U9934007:
+    letters: 104
+    percent: 100
+  U9934009:
+    letters: 108
+    percent: 100
+  U9934010:
+    letters: 101
+    percent: 100
+  U9934011:
+    letters: 120
+    percent: 100
+  U9934012:
+    letters: 105
+    percent: 100
+  U9934013:
+    letters: 98
+    percent: 100
+  U9934015:
+    letters: 117
+    percent: 100
+  U9934016:
+    letters: 116
+    percent: 100
+  U9934017:
+    letters: 120
+    percent: 100
+  U9934019:
+    letters: 81
+    percent: 80
+  U9934020:
+    letters: 117
+    percent: 100
+  U9934021:
+    letters: 126
+    percent: 100
+  U9934022:
+    letters: 110
+    percent: 100
+  U9934023:
+    letters: 125
+    percent: 98
+  U9934024:
+    letters: 104
+    percent: 100
+  U9934025:
+    letters: 103
+    percent: 100
+  U9934026:
+    letters: 111
+    percent: 100
+  U9934027:
+    letters: 123
+    percent: 100
+  U9934028:
+    letters: 111
+    percent: 100
+  U9934029:
+    letters: 143
+    percent: 100
+  U9934030:
+    letters: 125
+    percent: 100
+  U9934031:
+    letters: 124
+    percent: 100
+  U9934032:
+    letters: 125
+    percent: 100
+  U9934033:
+    letters: 135
+    percent: 100
+  U9934034:
+    letters: 157
+    percent: 100
+  U9934036:
+    letters: 127
+    percent: 100
+  U9934037:
+    letters: 108
+    percent: 100
+  U9934038:
+    letters: 118
+    percent: 100
+  U9934039:
+    letters: 131
+    percent: 100
+  U9934040:
+    letters: 133
+    percent: 100
+  U9934043:
+    letters: 129
+    percent: 100
+  U9934044:
+    letters: 96
+    percent: 77
+  U9934045:
+    letters: 113
+    percent: 100
+  U9934046:
+    letters: 98
+    percent: 96
+  U9934047:
+    letters: 124
+    percent: 100
+  U9934048:
+    letters: 124
+    percent: 100
+  U9934050:
+    letters: 116
+    percent: 100
+  U9934051:
+    letters: 132
+    percent: 100
+  U9934052:
+    letters: 137
+    percent: 100

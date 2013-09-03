@@ -1,0 +1,203 @@
+---
+cutpoints:
+  one: 20
+  two: 80
+exercise: huang_vision
+grade:
+  T9831030: 0
+  U0031032: 1
+  U0031046: 2
+  U0034001: 2
+  U0034002: 2
+  U0034003: 2
+  U0034004: 2
+  U0034005: 2
+  U0034006: 2
+  U0034007: 2
+  U0034008: 2
+  U0034009: 2
+  U0034010: 2
+  U0034011: 1
+  U0034012: 2
+  U0034013: 2
+  U0034014: 2
+  U0034015: 2
+  U0034016: 2
+  U0034017: 2
+  U0034023: 2
+  U0034024: 2
+  U0034025: 0
+  U0034026: 2
+  U0034027: 2
+  U0034028: 2
+  U0034029: 2
+  U0034030: 2
+  U0034031: 2
+  U0034032: 2
+  U0034033: 2
+  U0034034: 2
+  U0034035: 2
+  U0034036: 2
+  U0034037: 2
+  U0034038: 0
+  U0034040: 2
+  U0034042: 2
+  U0034043: 2
+  U0034044: 0
+  U0034045: 0
+  U0034046: 2
+  U0034049: 2
+  U0034050: 0
+  U0034051: 0
+  U0034055: 2
+  U0034056: 2
+  U9733015: 1
+  U9834018: 2
+points:
+  T9831030:
+    letters: 0
+    percent: 0
+  U0031032:
+    letters: 167
+    percent: 49
+  U0031046:
+    letters: 342
+    percent: 100
+  U0034001:
+    letters: 291
+    percent: 85
+  U0034002:
+    letters: 345
+    percent: 100
+  U0034003:
+    letters: 391
+    percent: 100
+  U0034004:
+    letters: 356
+    percent: 100
+  U0034005:
+    letters: 358
+    percent: 96
+  U0034006:
+    letters: 328
+    percent: 98
+  U0034007:
+    letters: 411
+    percent: 99
+  U0034008:
+    letters: 353
+    percent: 100
+  U0034009:
+    letters: 369
+    percent: 100
+  U0034010:
+    letters: 380
+    percent: 100
+  U0034011:
+    letters: 201
+    percent: 57
+  U0034012:
+    letters: 362
+    percent: 100
+  U0034013:
+    letters: 386
+    percent: 100
+  U0034014:
+    letters: 353
+    percent: 100
+  U0034015:
+    letters: 322
+    percent: 100
+  U0034016:
+    letters: 352
+    percent: 100
+  U0034017:
+    letters: 350
+    percent: 100
+  U0034023:
+    letters: 386
+    percent: 100
+  U0034024:
+    letters: 312
+    percent: 100
+  U0034025:
+    letters: 0
+    percent: 0
+  U0034026:
+    letters: 338
+    percent: 100
+  U0034027:
+    letters: 386
+    percent: 100
+  U0034028:
+    letters: 368
+    percent: 100
+  U0034029:
+    letters: 379
+    percent: 100
+  U0034030:
+    letters: 342
+    percent: 100
+  U0034031:
+    letters: 361
+    percent: 100
+  U0034032:
+    letters: 333
+    percent: 100
+  U0034033:
+    letters: 356
+    percent: 100
+  U0034034:
+    letters: 368
+    percent: 100
+  U0034035:
+    letters: 354
+    percent: 100
+  U0034036:
+    letters: 359
+    percent: 100
+  U0034037:
+    letters: 348
+    percent: 100
+  U0034038:
+    letters: 0
+    percent: 0
+  U0034040:
+    letters: 341
+    percent: 100
+  U0034042:
+    letters: 397
+    percent: 100
+  U0034043:
+    letters: 363
+    percent: 100
+  U0034044:
+    letters: 0
+    percent: 0
+  U0034045:
+    letters: 0
+    percent: 0
+  U0034046:
+    letters: 324
+    percent: 93
+  U0034049:
+    letters: 386
+    percent: 100
+  U0034050:
+    letters: 64
+    percent: 17
+  U0034051:
+    letters: 0
+    percent: 0
+  U0034055:
+    letters: 359
+    percent: 100
+  U0034056:
+    letters: 324
+    percent: 100
+  U9733015:
+    letters: 233
+    percent: 66
+  U9834018:
+    letters: 243
+    percent: 82
