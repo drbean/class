@@ -1,0 +1,103 @@
+---
+cutpoints:
+  one: 20
+  two: 80
+exercise: campus
+grade:
+  V0041039: 2
+  V0041053: 2
+  V0141013: 1
+  V9741064: 2
+  V9741065: 0
+  V9841002: 1
+  V9841006: 1
+  V9841010: 2
+  V9841011: 0
+  V9841013: 0
+  V9841020: 1
+  V9841022: 1
+  V9841027: 1
+  V9841028: 1
+  V9841030: 2
+  V9841031: 1
+  V9841040: 2
+  V9841048: 2
+  V9841049: 2
+  V9841050: 1
+  V9841051: 1
+  V9841053: 2
+  V9841054: 1
+  V9841058: 0
+points:
+  V0041039:
+    letters: 264
+    percent: 84
+  V0041053:
+    letters: 375
+    percent: 99
+  V0141013:
+    letters: 187
+    percent: 56
+  V9741064:
+    letters: 355
+    percent: 99
+  V9741065:
+    letters: 0
+    percent: 0
+  V9841002:
+    letters: 123
+    percent: 32
+  V9841006:
+    letters: 186
+    percent: 58
+  V9841010:
+    letters: 364
+    percent: 100
+  V9841011:
+    letters: 36
+    percent: 9
+  V9841013:
+    letters: 0
+    percent: 0
+  V9841020:
+    letters: 204
+    percent: 54
+  V9841022:
+    letters: 235
+    percent: 58
+  V9841027:
+    letters: 245
+    percent: 63
+  V9841028:
+    letters: 77
+    percent: 23
+  V9841030:
+    letters: 343
+    percent: 100
+  V9841031:
+    letters: 224
+    percent: 68
+  V9841040:
+    letters: 320
+    percent: 95
+  V9841048:
+    letters: 345
+    percent: 96
+  V9841049:
+    letters: 353
+    percent: 100
+  V9841050:
+    letters: 221
+    percent: 66
+  V9841051:
+    letters: 176
+    percent: 51
+  V9841053:
+    letters: 308
+    percent: 98
+  V9841054:
+    letters: 192
+    percent: 52
+  V9841058:
+    letters: 0
+    percent: 0

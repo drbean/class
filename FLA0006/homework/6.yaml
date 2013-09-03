@@ -1,0 +1,103 @@
+---
+cutpoints:
+  one: 20
+  two: 80
+exercise: wallace-oreilly
+grade:
+  V0041039: 2
+  V0041053: 2
+  V0141013: 1
+  V9741064: 2
+  V9741065: 0
+  V9841002: 0
+  V9841006: 2
+  V9841010: 2
+  V9841011: 1
+  V9841013: 2
+  V9841020: 1
+  V9841022: 0
+  V9841027: 1
+  V9841028: 1
+  V9841030: 2
+  V9841031: 2
+  V9841040: 1
+  V9841048: 1
+  V9841049: 1
+  V9841050: 2
+  V9841051: 1
+  V9841053: 1
+  V9841054: 2
+  V9841058: 0
+points:
+  V0041039:
+    letters: 227
+    percent: 100
+  V0041053:
+    letters: 195
+    percent: 100
+  V0141013:
+    letters: 110
+    percent: 47
+  V9741064:
+    letters: 234
+    percent: 100
+  V9741065:
+    letters: 0
+    percent: 0
+  V9841002:
+    letters: 0
+    percent: 0
+  V9841006:
+    letters: 213
+    percent: 98
+  V9841010:
+    letters: 232
+    percent: 100
+  V9841011:
+    letters: 50
+    percent: 23
+  V9841013:
+    letters: 191
+    percent: 82
+  V9841020:
+    letters: 177
+    percent: 79
+  V9841022:
+    letters: 0
+    percent: 0
+  V9841027:
+    letters: 85
+    percent: 38
+  V9841028:
+    letters: 59
+    percent: 32
+  V9841030:
+    letters: 185
+    percent: 83
+  V9841031:
+    letters: 241
+    percent: 97
+  V9841040:
+    letters: 188
+    percent: 73
+  V9841048:
+    letters: 204
+    percent: 78
+  V9841049:
+    letters: 162
+    percent: 60
+  V9841050:
+    letters: 206
+    percent: 95
+  V9841051:
+    letters: 133
+    percent: 56
+  V9841053:
+    letters: 183
+    percent: 78
+  V9841054:
+    letters: 201
+    percent: 99
+  V9841058:
+    letters: 0
+    percent: 0

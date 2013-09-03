@@ -1,0 +1,99 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: limbaugh
+grade:
+  N9561732: 2
+  N9661712: 2
+  N9661752: 2
+  U9616041: 0
+  V9724004: 1
+  V9741010: 0
+  V9741016: 2
+  V9741023: 2
+  V9741025: 0
+  V9741028: 2
+  V9741029: 1
+  V9741030: 1
+  V9741032: 1
+  V9741034: 2
+  V9741036: 0
+  V9741041: 2
+  V9741043: 1
+  V9741047: 2
+  V9741053: 2
+  V9741057: 2
+  V9741059: 0
+  V9741060: 2
+  V9741066: 0
+points:
+  N9561732:
+    letters: 215
+    percent: 100
+  N9661712:
+    letters: 206
+    percent: 100
+  N9661752:
+    letters: 201
+    percent: 88
+  U9616041:
+    letters: 0
+    percent: 0
+  V9724004:
+    letters: 72
+    percent: 32
+  V9741010:
+    letters: 16
+    percent: 7
+  V9741016:
+    letters: 224
+    percent: 99
+  V9741023:
+    letters: 234
+    percent: 100
+  V9741025:
+    letters: 0
+    percent: 0
+  V9741028:
+    letters: 216
+    percent: 99
+  V9741029:
+    letters: 152
+    percent: 63
+  V9741030:
+    letters: 198
+    percent: 84
+  V9741032:
+    letters: 182
+    percent: 76
+  V9741034:
+    letters: 249
+    percent: 95
+  V9741036:
+    letters: 0
+    percent: 0
+  V9741041:
+    letters: 243
+    percent: 99
+  V9741043:
+    letters: 190
+    percent: 79
+  V9741047:
+    letters: 197
+    percent: 99
+  V9741053:
+    letters: 245
+    percent: 100
+  V9741057:
+    letters: 188
+    percent: 87
+  V9741059:
+    letters: 0
+    percent: 0
+  V9741060:
+    letters: 207
+    percent: 100
+  V9741066:
+    letters: 0
+    percent: 0

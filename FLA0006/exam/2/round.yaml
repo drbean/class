@@ -1,0 +1,54 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 5
+assistant:
+absent:
+text: /home/drbean/class/media/cards.yaml
+activity:
+  interviews:
+    0:
+      - 1-2
+      - 2-2
+      - 4-1
+      - 4-2
+    1:
+      - 1-1
+      - 2-1
+      - 3-1
+      - 3-2
+group:
+  1-1:
+    - Kitty
+    - Abby
+    - Wei-Yi
+  1-2:
+    - Hank
+    - Bass
+    - Amy
+  2-1:
+    - Yorick
+    - Ming
+    - Carina
+  2-2:
+    - Dennis
+    - Debbie
+    - Winnie
+  3-1:
+    - Joan
+    - Stella
+    - Cathy
+  3-2:
+    - Leo
+    - Yi-Ru
+    - Cindy
+  4-1:
+    - Dean
+    - Frances
+    - Stanley
+  4-2:
+    - Katty
+    - Joy
+    - Kori

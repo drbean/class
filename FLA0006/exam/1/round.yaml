@@ -1,0 +1,59 @@
+---
+round: Exam 1
+week: 4
+questions:
+  - 10
+pass: 5
+assistant:
+  - Dennis
+absent:
+  - Bass
+text: /home/drbean/class/media/cards.yaml
+activity:
+  hacking:
+    0:
+      - Blue
+      - Purple
+  illegals:
+    0:
+      - BlackBlack
+      - Green
+      - White
+  pope:
+    0:
+      - Black
+      - BlueBlue
+      - Orange
+group:
+  Black:
+    - Stanley
+    - Stella
+    - Debbie
+  BlackBlack:
+    - Winnie
+    - Katty
+    - Cathy
+  Blue:
+    - Amy
+    - Frances
+    - Yi-Ru
+  BlueBlue:
+    - Hank
+    - Kori
+    - Dennis
+  Green:
+    - Dennis
+    - Cindy
+    - Abby
+  Orange:
+    - Wei-Yi
+    - Dean
+    - Joy
+  Purple:
+    - Carina
+    - Joan
+    - Ming
+  White:
+    - Kitty
+    - Leo
+    - Yorick

@@ -1,0 +1,95 @@
+---
+cutpoints:
+  one: 20
+  two: 85
+exercise: axelrod
+grade:
+  N9561732: 2
+  N9661712: 2
+  N9661752: 2
+  V9724004: 1
+  V9741010: 1
+  V9741016: 2
+  V9741023: 2
+  V9741025: 1
+  V9741028: 2
+  V9741029: 2
+  V9741030: 1
+  V9741032: 1
+  V9741034: 2
+  V9741036: 1
+  V9741041: 2
+  V9741043: 1
+  V9741047: 1
+  V9741053: 2
+  V9741057: 0
+  V9741059: 0
+  V9741060: 0
+  V9741066: 1
+points:
+  N9561732:
+    letters: 446
+    percent: 100
+  N9661712:
+    letters: 491
+    percent: 100
+  N9661752:
+    letters: 479
+    percent: 100
+  V9724004:
+    letters: 112
+    percent: 23
+  V9741010:
+    letters: 270
+    percent: 56
+  V9741016:
+    letters: 487
+    percent: 100
+  V9741023:
+    letters: 514
+    percent: 100
+  V9741025:
+    letters: 299
+    percent: 64
+  V9741028:
+    letters: 428
+    percent: 86
+  V9741029:
+    letters: 537
+    percent: 100
+  V9741030:
+    letters: 140
+    percent: 27
+  V9741032:
+    letters: 293
+    percent: 69
+  V9741034:
+    letters: 425
+    percent: 88
+  V9741036:
+    letters: 197
+    percent: 40
+  V9741041:
+    letters: 450
+    percent: 100
+  V9741043:
+    letters: 385
+    percent: 78
+  V9741047:
+    letters: 234
+    percent: 46
+  V9741053:
+    letters: 472
+    percent: 100
+  V9741057:
+    letters: 0
+    percent: 0
+  V9741059:
+    letters: 0
+    percent: 0
+  V9741060:
+    letters: 0
+    percent: 0
+  V9741066:
+    letters: 280
+    percent: 54

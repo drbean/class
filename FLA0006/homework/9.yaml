@@ -1,0 +1,103 @@
+---
+cutpoints:
+  one: 20
+  two: 80
+exercise: espn
+grade:
+  V0041039: 2
+  V0041053: 2
+  V0141013: 1
+  V9741064: 2
+  V9741065: 1
+  V9841002: 0
+  V9841006: 2
+  V9841010: 1
+  V9841011: 1
+  V9841013: 0
+  V9841020: 2
+  V9841022: 0
+  V9841027: 1
+  V9841028: 1
+  V9841030: 2
+  V9841031: 1
+  V9841040: 2
+  V9841048: 2
+  V9841049: 1
+  V9841050: 2
+  V9841051: 2
+  V9841053: 0
+  V9841054: 1
+  V9841058: 0
+points:
+  V0041039:
+    letters: 249
+    percent: 100
+  V0041053:
+    letters: 272
+    percent: 100
+  V0141013:
+    letters: 180
+    percent: 63
+  V9741064:
+    letters: 292
+    percent: 100
+  V9741065:
+    letters: 191
+    percent: 68
+  V9841002:
+    letters: 0
+    percent: 0
+  V9841006:
+    letters: 282
+    percent: 87
+  V9841010:
+    letters: 218
+    percent: 73
+  V9841011:
+    letters: 123
+    percent: 40
+  V9841013:
+    letters: 0
+    percent: 0
+  V9841020:
+    letters: 297
+    percent: 100
+  V9841022:
+    letters: 0
+    percent: 0
+  V9841027:
+    letters: 143
+    percent: 48
+  V9841028:
+    letters: 88
+    percent: 32
+  V9841030:
+    letters: 310
+    percent: 100
+  V9841031:
+    letters: 205
+    percent: 74
+  V9841040:
+    letters: 267
+    percent: 82
+  V9841048:
+    letters: 297
+    percent: 91
+  V9841049:
+    letters: 210
+    percent: 68
+  V9841050:
+    letters: 273
+    percent: 83
+  V9841051:
+    letters: 295
+    percent: 100
+  V9841053:
+    letters: 0
+    percent: 0
+  V9841054:
+    letters: 208
+    percent: 75
+  V9841058:
+    letters: 0
+    percent: 0
