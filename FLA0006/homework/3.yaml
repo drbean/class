@@ -1,0 +1,103 @@
+---
+cutpoints:
+  one: 20
+  two: 80
+exercise: illegals
+grade:
+  V0041039: 2
+  V0041053: 2
+  V0141013: 1
+  V9741064: 2
+  V9741065: 2
+  V9841002: 1
+  V9841006: 0
+  V9841010: 0
+  V9841011: 0
+  V9841013: 0
+  V9841020: 0
+  V9841022: 0
+  V9841027: 0
+  V9841028: 1
+  V9841030: 2
+  V9841031: 2
+  V9841040: 1
+  V9841048: 2
+  V9841049: 1
+  V9841050: 0
+  V9841051: 0
+  V9841053: 2
+  V9841054: 2
+  V9841058: 0
+points:
+  V0041039:
+    letters: 319
+    percent: 100
+  V0041053:
+    letters: 264
+    percent: 100
+  V0141013:
+    letters: 166
+    percent: 57
+  V9741064:
+    letters: 278
+    percent: 100
+  V9741065:
+    letters: 278
+    percent: 100
+  V9841002:
+    letters: 231
+    percent: 76
+  V9841006:
+    letters: 0
+    percent: 0
+  V9841010:
+    letters: 0
+    percent: 0
+  V9841011:
+    letters: 0
+    percent: 0
+  V9841013:
+    letters: 0
+    percent: 0
+  V9841020:
+    letters: 0
+    percent: 0
+  V9841022:
+    letters: 0
+    percent: 0
+  V9841027:
+    letters: 0
+    percent: 0
+  V9841028:
+    letters: 100
+    percent: 39
+  V9841030:
+    letters: 261
+    percent: 100
+  V9841031:
+    letters: 298
+    percent: 100
+  V9841040:
+    letters: 149
+    percent: 54
+  V9841048:
+    letters: 247
+    percent: 88
+  V9841049:
+    letters: 190
+    percent: 69
+  V9841050:
+    letters: 0
+    percent: 0
+  V9841051:
+    letters: 0
+    percent: 0
+  V9841053:
+    letters: 260
+    percent: 84
+  V9841054:
+    letters: 277
+    percent: 97
+  V9841058:
+    letters: 0
+    percent: 0

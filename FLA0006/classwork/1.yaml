@@ -1,0 +1,43 @@
+---
+Black:
+  absent: 
+    - Stella
+  merits: 2
+Blue:
+  absent: 
+  merits: 3
+
+Green:
+  absent: 
+    - Cindy
+  merits: 2
+BlackBlack:
+  absent: 
+  merits: 3
+
+BlueBlue:
+  absent: 
+  merits: 3
+
+Orange:
+  absent: 
+  merits: 2
+Pink:
+  absent: 
+    - 陳泊儒
+  merits: 3
+
+Purple:
+  absent: 
+  merits: 3
+
+White:
+  absent: 
+  merits: 2
+Yellow:
+  absent: 
+  merits: 3
+
+Brown:
+  absent: 
+  merits: 3

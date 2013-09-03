@@ -1,0 +1,103 @@
+---
+cutpoints:
+  one: 20
+  two: 80
+exercise: scalia
+grade:
+  V0041039: 2
+  V0041053: 2
+  V0141013: 1
+  V9741064: 2
+  V9741065: 0
+  V9841002: 0
+  V9841006: 0
+  V9841010: 2
+  V9841011: 2
+  V9841013: 0
+  V9841020: 2
+  V9841022: 1
+  V9841027: 0
+  V9841028: 1
+  V9841030: 2
+  V9841031: 1
+  V9841040: 2
+  V9841048: 2
+  V9841049: 0
+  V9841050: 2
+  V9841051: 1
+  V9841053: 0
+  V9841054: 1
+  V9841058: 0
+points:
+  V0041039:
+    letters: 360
+    percent: 100
+  V0041053:
+    letters: 294
+    percent: 100
+  V0141013:
+    letters: 211
+    percent: 70
+  V9741064:
+    letters: 282
+    percent: 89
+  V9741065:
+    letters: 0
+    percent: 0
+  V9841002:
+    letters: 0
+    percent: 0
+  V9841006:
+    letters: 0
+    percent: 0
+  V9841010:
+    letters: 348
+    percent: 100
+  V9841011:
+    letters: 326
+    percent: 96
+  V9841013:
+    letters: 0
+    percent: 0
+  V9841020:
+    letters: 339
+    percent: 98
+  V9841022:
+    letters: 161
+    percent: 47
+  V9841027:
+    letters: 0
+    percent: 0
+  V9841028:
+    letters: 117
+    percent: 33
+  V9841030:
+    letters: 349
+    percent: 97
+  V9841031:
+    letters: 225
+    percent: 62
+  V9841040:
+    letters: 318
+    percent: 99
+  V9841048:
+    letters: 296
+    percent: 98
+  V9841049:
+    letters: 0
+    percent: 0
+  V9841050:
+    letters: 265
+    percent: 83
+  V9841051:
+    letters: 251
+    percent: 74
+  V9841053:
+    letters: 0
+    percent: 0
+  V9841054:
+    letters: 208
+    percent: 65
+  V9841058:
+    letters: 0
+    percent: 0

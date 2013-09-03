@@ -1,0 +1,103 @@
+---
+cutpoints:
+  one: 20
+  two: 80
+exercise: blair
+grade:
+  V0041039: 2
+  V0041053: 2
+  V0141013: 1
+  V9741064: 2
+  V9741065: 1
+  V9841002: 0
+  V9841006: 1
+  V9841010: 2
+  V9841011: 1
+  V9841013: 0
+  V9841020: 1
+  V9841022: 1
+  V9841027: 1
+  V9841028: 0
+  V9841030: 2
+  V9841031: 1
+  V9841040: 1
+  V9841048: 1
+  V9841049: 1
+  V9841050: 1
+  V9841051: 0
+  V9841053: 1
+  V9841054: 2
+  V9841058: 0
+points:
+  V0041039:
+    letters: 343
+    percent: 100
+  V0041053:
+    letters: 333
+    percent: 100
+  V0141013:
+    letters: 174
+    percent: 54
+  V9741064:
+    letters: 312
+    percent: 100
+  V9741065:
+    letters: 181
+    percent: 61
+  V9841002:
+    letters: 0
+    percent: 0
+  V9841006:
+    letters: 171
+    percent: 48
+  V9841010:
+    letters: 337
+    percent: 100
+  V9841011:
+    letters: 101
+    percent: 26
+  V9841013:
+    letters: 0
+    percent: 0
+  V9841020:
+    letters: 250
+    percent: 70
+  V9841022:
+    letters: 146
+    percent: 46
+  V9841027:
+    letters: 222
+    percent: 67
+  V9841028:
+    letters: 52
+    percent: 16
+  V9841030:
+    letters: 292
+    percent: 93
+  V9841031:
+    letters: 207
+    percent: 59
+  V9841040:
+    letters: 248
+    percent: 77
+  V9841048:
+    letters: 262
+    percent: 76
+  V9841049:
+    letters: 97
+    percent: 27
+  V9841050:
+    letters: 216
+    percent: 65
+  V9841051:
+    letters: 0
+    percent: 0
+  V9841053:
+    letters: 280
+    percent: 74
+  V9841054:
+    letters: 315
+    percent: 100
+  V9841058:
+    letters: 0
+    percent: 0

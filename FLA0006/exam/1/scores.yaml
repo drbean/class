@@ -1,0 +1,51 @@
+---
+Chinese:
+  Black: 0
+  BlackBlack: 0
+  Blue: 0
+  BlueBlue: 0
+  Green: 0
+  Orange: 0
+  Purple: 0
+  White: 0
+letters:
+  Black:
+    V9841020: 9
+    V0041053: 6
+    V9841050: 10
+    story: pope0
+  BlackBlack:
+    V9841054: 7
+    V9841028: 7
+    V9841048: 7
+    story: illegals0
+  Blue:
+    V9741064: 7
+    V9741065: 9
+    V9841027: 9
+    story: hacking0
+  BlueBlue:
+    V9841022: 9
+    V9841002: 9
+    V9841013: 10
+    story: pope0
+  Green:
+    V9841013: 6
+    V0041039: 6
+    V9841006: 6
+    story: illegals0
+  Orange:
+    V9841030: 7
+    V0141013: 7
+    V9841040: 7
+    story: pope0
+  Purple:
+    V9841053: 8
+    V9841049: 8
+    V9841051: 6
+    story: hacking0
+  White:
+    V9841058: 5
+    V9841011: 8
+    V9841010: 5
+    story: illegals0

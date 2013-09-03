@@ -1,0 +1,103 @@
+---
+cutpoints:
+  one: 20
+  two: 80
+exercise: oreilly-stern
+grade:
+  V0041039: 2
+  V0041053: 2
+  V0141013: 1
+  V9741064: 2
+  V9741065: 0
+  V9841002: 1
+  V9841006: 2
+  V9841010: 2
+  V9841011: 2
+  V9841013: 0
+  V9841020: 2
+  V9841022: 1
+  V9841027: 1
+  V9841028: 1
+  V9841030: 2
+  V9841031: 2
+  V9841040: 0
+  V9841048: 2
+  V9841049: 2
+  V9841050: 1
+  V9841051: 1
+  V9841053: 1
+  V9841054: 2
+  V9841058: 1
+points:
+  V0041039:
+    letters: 1562
+    percent: 100
+  V0041053:
+    letters: 1562
+    percent: 99
+  V0141013:
+    letters: 819
+    percent: 52
+  V9741064:
+    letters: 1526
+    percent: 98
+  V9741065:
+    letters: 0
+    percent: 0
+  V9841002:
+    letters: 455
+    percent: 29
+  V9841006:
+    letters: 1545
+    percent: 99
+  V9841010:
+    letters: 1548
+    percent: 99
+  V9841011:
+    letters: 1549
+    percent: 98
+  V9841013:
+    letters: 0
+    percent: 0
+  V9841020:
+    letters: 1510
+    percent: 96
+  V9841022:
+    letters: 854
+    percent: 54
+  V9841027:
+    letters: 532
+    percent: 34
+  V9841028:
+    letters: 676
+    percent: 43
+  V9841030:
+    letters: 1516
+    percent: 96
+  V9841031:
+    letters: 1508
+    percent: 97
+  V9841040:
+    letters: 0
+    percent: 0
+  V9841048:
+    letters: 1506
+    percent: 97
+  V9841049:
+    letters: 1347
+    percent: 86
+  V9841050:
+    letters: 849
+    percent: 54
+  V9841051:
+    letters: 560
+    percent: 36
+  V9841053:
+    letters: 799
+    percent: 51
+  V9841054:
+    letters: 1581
+    percent: 100
+  V9841058:
+    letters: 536
+    percent: 34
