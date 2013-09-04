@@ -1,0 +1,249 @@
+---
+absent: ~
+anterior: 011FLA0016
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 小說選讀
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: AFN231
+jigsaw: exam
+league: NAF031四技外三甲
+member:
+  - Chinese: 賴玟靜
+    id: N00202003
+    name: Zona
+    password: wen
+    rating: 27
+  - Chinese: 張嘉晏
+    id: N00202103
+    name: Betty
+    password: jia
+    rating: 60
+  - Chinese: 黃琦雲
+    id: N96200019
+    name: Sonia
+    password: qi
+    rating: 67
+  - Chinese: 王淇
+    id: N97080093
+    name: Ariel
+    password: qi
+    rating: 67
+  - Chinese: 莊涵
+    id: N99200002
+    name: Hellen
+    password: han
+    rating: 80
+  - Chinese: 李茂傳
+    id: N99200004
+    name: Michael
+    password: mao
+    rating: 80
+  - Chinese: 彭誠君
+    id: N99200005
+    name: Juby
+    password: cheng
+    rating: 80
+  - Chinese: 李宛閑
+    id: N99200007
+    name: Sue
+    password: wan
+    rating: 80
+  - Chinese: 金慧琪
+    id: N99200008
+    name: Elaine
+    password: hui
+    rating: 67
+  - Chinese: 陳雪慈
+    id: N99200009
+    name: Carol
+    password: xue
+    rating: 60
+  - Chinese: 葉美慧
+    id: N99200010
+    name: Cherry2
+    password: mei
+    rating: 67
+  - Chinese: 王肅雅
+    id: N99200011
+    name: Kate
+    password: su
+    rating: 80
+  - Chinese: 蔡宛晏
+    id: N99200012
+    name: Senna
+    password: wan
+    rating: 67
+  - Chinese: 程家筑
+    id: N99200013
+    name: Foxy
+    password: jia
+    rating: 60
+  - Chinese: 王嘉綺
+    id: N99200014
+    name: Evy
+    password: jia
+    rating: 80
+  - Chinese: 周采蓉
+    id: N99200016
+    name: Nora
+    password: cai
+    rating: 47
+  - Chinese: 鄭凱尹
+    id: N99200019
+    name: Amber
+    password: kai
+    rating: 47
+  - Chinese: 范家菱
+    id: N99200020
+    name: Lainey
+    password: jia
+    rating: 80
+  - Chinese: 朱秀卿
+    id: N99200021
+    name: Cherry1
+    password: xiu
+    rating: 67
+  - Chinese: 張菀芩
+    id: N99200022
+    name: Eve
+    password: wan
+    rating: 67
+  - Chinese: 陳信宏
+    id: N99200023
+    name: Louis
+    password: xin
+    rating: 67
+  - Chinese: 吳千合
+    id: N99200024
+    name: Debby
+    password: qian
+    rating: 80
+  - Chinese: 李昊軒
+    id: N99200025
+    name: Lee
+    password: hao
+    rating: 40
+  - Chinese: 蕭惠文
+    id: N99200027
+    name: Winnie
+    password: hui
+    rating: 80
+  - Chinese: 陳筱靖
+    id: N99200028
+    name: Vivian
+    password: xiao
+    rating: 67
+  - Chinese: 廖幸嬋
+    id: N99200030
+    name: Cindy
+    password: xing
+    rating: 80
+  - Chinese: 傅瑄佑
+    id: N99200032
+    name: Nitro
+    password: xuan
+    rating: 67
+  - Chinese: 魏紫庭
+    id: N99200033
+    name: Tina
+    password: zi
+    rating: 80
+  - Chinese: 葉盈秀
+    id: N99200035
+    name: Hulie
+    password: ying
+    rating: 80
+  - Chinese: 吳雅雯
+    id: N99200036
+    name: Vickey
+    password: ya
+    rating: 60
+  - Chinese: 邱致善
+    id: N99200039
+    name: Andy
+    password: zhi
+    rating: 80
+  - Chinese: 林健瑋
+    id: N99200041
+    name: James
+    password: jian
+    rating: 53
+  - Chinese: 洪瑞霙
+    id: N99200045
+    name: Joelle
+    password: rui
+    rating: 80
+  - Chinese: 蔣佩君
+    id: N99200047
+    name: Peggy
+    password: pei
+    rating: 67
+  - Chinese: 王偉珍
+    id: N99200050
+    name: Olivia
+    password: wei
+    rating: 67
+  - Chinese: 林秀齡
+    id: N99200051
+    name: Alisa
+    password: xiu
+    rating: 80
+out:
+  - Chinese: 徐怡君
+    id: N00122101
+    name: Vyan
+    password: yi
+    rating: ~
+  - Chinese: 李玉香
+    id: N00202101
+    name: 李玉香
+    password: yu
+    rating: ~
+  - Chinese: 方家蓁
+    id: N01080069
+    name: 方家蓁
+    password: jia
+    rating: ~
+  - Chinese: 吳紫彤
+    id: N01203003
+    name: 吳紫彤
+    password: zi
+    rating: ~
+  - Chinese: 姜欣妤
+    id: N98070018
+    name: 姜欣妤
+    password: xin
+    rating: ~
+  - Chinese: 彭嘉惠
+    id: N98200045
+    name: 彭嘉惠
+    password: jia
+    rating: ~
+  - Chinese: 黃宛梓
+    id: N99080086
+    name: 黃宛梓
+    password: wan
+    rating: ~
+room: feng_220
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 1
+  2: 5
+  3: 9
+  4: 14
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
