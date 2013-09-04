@@ -1,21 +1,8 @@
 ---
-absent:
-  - Chinese: 魏子鈞
-    id: T9722145
-    name: 魏子鈞
-    password: zi
-    rating: 500
-  - Chinese: 黃世賓
-    id: U9611002
-    name: 黃世賓
-    password: shi
-    rating: 500
-  - Chinese: 白芳瑜
-    id: V9741064
-    name: Amy
-    password: fang
-    rating: 1100
-approach: Compcomp
+absent: ~
+anterior: 012GL00030
+approach: GroupworkNoFault
+classMax: 3
 compcomp: comp
 examMax: 4
 exams: exam
@@ -23,284 +10,136 @@ field: 中級英文聽說訓練
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: GL00006
+id: 012GL00006
 jigsaw: exam
 league: 日語文共同學制虛擬班二甲
 member:
-  - Chinese: 饒城芳
-    id: U9824053
-    name: Hendy
-    password: cheng
-    rating: 72
-  - Chinese: 郭柏慶
-    id: U9614044
-    name: Jim
-    password: bo
-    rating: 71
-  - Chinese: 王葦琳
-    id: U9714105
-    name: Kate
-    password: wei
-    rating: 73
-  - Chinese: 王政傑
-    id: T9722102
-    name: Jay
-    password: zheng
-    rating: 65
-  - Chinese: 吳采薇
-    id: N9661725
-    name: Mico
-    password: cai
-    rating: 72
-  - Chinese: 劉軒齊
-    id: N9661714
-    name: Steven
-    password: xuan
-    rating: 66
-  - Chinese: 胡語倫
-    id: N9661712
-    name: Allen
-    password: yu
-    rating: 51
-  - Chinese: 劉庭閣
-    id: U9714108
-    name: Peter
-    password: ting
-    rating: 69
-  - Chinese: 徐曉彤
-    id: N9661709
-    name: Irin
-    password: xiao
-    rating: 44
-  - Chinese: 黃路加
-    id: N9661717
-    name: Lucas
-    password: lu
-    rating: 50
-  - Chinese: 汪大智
-    id: N9661740
-    name: Ken
-    password: da
-    rating: 74
-  - Chinese: 楊妙雲
-    id: N9661748
-    name: Cloud
-    password: miao
-    rating: 81
-  - Chinese: 吳筱函
-    id: N9661742
-    name: Daisy
-    password: xiao
-    rating: 68
-  - Chinese: 黃聖昱
-    id: N9661728
-    name: Moto
-    password: sheng
-    rating: 69
-  - Chinese: 邱錦玉
-    id: N9532037
-    name: Rita
-    password: jin
-    rating: 66
-  - Chinese: 吳建宏
-    id: T9722119
-    name: James
-    password: jian
-    rating: 72
-  - Chinese: 詹芳宜
-    id: U9714104
-    name: Fang-Yi
-    password: fang
-    rating: 64
-  - Chinese: 簡碧樺
-    id: U9714111
-    name: Cindy
-    password: bi
-    rating: 77
-  - Chinese: 謝妙宜
-    id: U9714127
-    name: Emaily
-    password: miao
-    rating: 77
-  - Chinese: 陳羽綺
-    id: U9714135
-    name: Yu-chi
-    password: yu
-    rating: 70
-  - Chinese: 翁靖雅
-    id: U9714141
-    name: Lily
-    password: jing
-    rating: 66
-  - Chinese: 白承哲
-    id: U9722143
-    name: Kenny
-    password: cheng
-    rating: 70
-  - Chinese: 陳靖武
-    id: U9822015
-    name: Sam
-    password: jing
-    rating: 64
-  - Chinese: 黃鈺珊
-    id: U9822020
-    name: May
-    password: yu
-    rating: 84
-  - Chinese: 邱毅青
-    id: U9824047
-    name: Chad
+  - Chinese: 蔡欣儒
+    id: U0016030
+    name: 蔡欣儒
+    password: xin
+    rating: ~
+  - Chinese: 王志睿
+    id: U0017024
+    name: 王志睿
+    password: zhi
+    rating: ~
+  - Chinese: 林珈羽
+    id: U0018027
+    name: 林珈羽
+    password: jia
+    rating: ~
+  - Chinese: 楊佳宜
+    id: U0018046
+    name: 楊佳宜
+    password: jia
+    rating: ~
+  - Chinese: 郭巧勻
+    id: U0033112
+    name: 郭巧勻
+    password: qiao
+    rating: ~
+  - Chinese: 蕭伊晴
+    id: U0042018
+    name: 蕭伊晴
     password: yi
-    rating: 63
-  - Chinese: 朱建豪
-    id: U9611024
-    name: John
-    password: jian
-    rating: 58
-  - Chinese: 蕭上好
-    id: U9824054
-    name: Shanghao
-    password: shang
-    rating: 45
-room: A705
+    rating: ~
+  - Chinese: 陳靖宜
+    id: U0042039
+    name: 陳靖宜
+    password: jing
+    rating: ~
+  - Chinese: 向垣蓉
+    id: U0042050
+    name: 向垣蓉
+    password: yuan
+    rating: ~
+  - Chinese: 張雅芬
+    id: U0043001
+    name: 張雅芬
+    password: ya
+    rating: ~
+  - Chinese: 陳嬿羽
+    id: U0043004
+    name: 陳嬿羽
+    password: yan
+    rating: ~
+  - Chinese: 陳佩暄
+    id: U0043033
+    name: 陳佩暄
+    password: pei
+    rating: ~
+  - Chinese: 陳蓉萱
+    id: U0122002
+    name: 陳蓉萱
+    password: rong
+    rating: ~
+  - Chinese: 葉俊豪
+    id: U0143002
+    name: 葉俊豪
+    password: jun
+    rating: ~
+  - Chinese: 湯光煜
+    id: U9911237
+    name: 湯光煜
+    password: guang
+    rating: ~
+  - Chinese: 陳柏合
+    id: U9911242
+    name: 陳柏合
+    password: bai
+    rating: ~
+  - Chinese: 楊孟勳
+    id: U9913037
+    name: 楊孟勳
+    password: meng
+    rating: ~
+  - Chinese: 許富強
+    id: U9914113
+    name: 許富強
+    password: fu
+    rating: ~
+  - Chinese: 何宇正
+    id: U9917024
+    name: 何宇正
+    password: yu
+    rating: ~
+  - Chinese: 林禹丞
+    id: U9921214
+    name: 林禹丞
+    password: yu
+    rating: ~
+  - Chinese: 廖顯旻
+    id: U9921230
+    name: 廖顯旻
+    password: xian
+    rating: ~
+  - Chinese: 吳冠甫
+    id: U9923120
+    name: 吳冠甫
+    password: guan
+    rating: ~
+  - Chinese: 林芳瑩
+    id: U9943007
+    name: 林芳瑩
+    password: fang
+    rating: ~
+out: ~
+room: '??'
+school: nuu
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 1
+  2: 5
+  3: 9
+  4: 14
 weights:
-  classwork: 70
-  exams: 15
-  homework: 15
-
-active:
-  - Chinese: 邱錦玉
-    id: N9532037
-    name: Rita
-    password: jin
-    rating: 66
-  - Chinese: 徐曉彤
-    id: N9661709
-    name: Irin
-    password: xiao
-    rating: 44
-  - Chinese: 胡語倫
-    id: N9661712
-    name: Allen
-    password: yu
-    rating: 51
-  - Chinese: 劉軒齊
-    id: N9661714
-    name: Steven
-    password: xuan
-    rating: 66
-  - Chinese: 黃路加
-    id: N9661717
-    name: Lucas
-    password: lu
-    rating: 50
-  - Chinese: 吳采薇
-    id: N9661725
-    name: Mico
-    password: cai
-    rating: 72
-  - Chinese: 黃聖昱
-    id: N9661728
-    name: Moto
-    password: sheng
-    rating: 69
-  - Chinese: 汪大智
-    id: N9661740
-    name: Ken
-    password: da
-    rating: 74
-  - Chinese: 吳筱函
-    id: N9661742
-    name: Daisy
-    password: xiao
-    rating: 68
-  - Chinese: 楊妙雲
-    id: N9661748
-    name: Cloud
-    password: miao
-    rating: 81
-  - Chinese: 王政傑
-    id: T9722102
-    name: Jay
-    password: zheng
-    rating: 65
-  - Chinese: 吳建宏
-    id: T9722119
-    name: James
-    password: jian
-    rating: 72
-  - Chinese: 朱建豪
-    id: U9611024
-    name: John
-    password: jian
-    rating: 58
-  - Chinese: 郭柏慶
-    id: U9614044
-    name: Jim
-    password: bo
-    rating: 71
-  - Chinese: 詹芳宜
-    id: U9714104
-    name: Fang-Yi
-    password: fang
-    rating: 64
-  - Chinese: 王葦琳
-    id: U9714105
-    name: Kate
-    password: wei
-    rating: 73
-  - Chinese: 劉庭閣
-    id: U9714108
-    name: Peter
-    password: ting
-    rating: 69
-  - Chinese: 簡碧樺
-    id: U9714111
-    name: Cindy
-    password: bi
-    rating: 77
-  - Chinese: 謝妙宜
-    id: U9714127
-    name: Emaily
-    password: miao
-    rating: 77
-  - Chinese: 陳羽綺
-    id: U9714135
-    name: Yu-chi
-    password: yu
-    rating: 70
-  - Chinese: 翁靖雅
-    id: U9714141
-    name: Lily
-    password: jing
-    rating: 66
-  - Chinese: 白承哲
-    id: U9722143
-    name: Kenny
-    password: cheng
-    rating: 70
-  - Chinese: 陳靖武
-    id: U9822015
-    name: Sam
-    password: jing
-    rating: 64
-  - Chinese: 黃鈺珊
-    id: U9822020
-    name: May
-    password: yu
-    rating: 84
-  - Chinese: 邱毅青
-    id: U9824047
-    name: Chad
-    password: yi
-    rating: 63
-  - Chinese: 饒城芳
-    id: U9824053
-    name: Hendy
-    password: cheng
-    rating: 72
-  - Chinese: 蕭上好
-    id: U9824054
-    name: Shanghao
-    password: shang
-    rating: 45
+  classwork: 40
+  exams: 20
+  homework: 40
