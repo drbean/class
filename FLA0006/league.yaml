@@ -25,9 +25,9 @@ member:
     rating: ~
   - Chinese: 陳昱樺
     id: V9724004
-    name: 陳昱樺
+    name: Nancy
     password: yu
-    rating: ~
+    rating: 16
   - Chinese: 張馨卿
     id: V9741044
     name: 張馨卿
@@ -45,9 +45,9 @@ member:
     rating: ~
   - Chinese: 葉瓊惠
     id: V9841025
-    name: 葉瓊惠
+    name: Sandy
     password: qiong
-    rating: ~
+    rating: 25
   - Chinese: 彭怡靜
     id: V9841028
     name: 彭怡靜
@@ -55,9 +55,9 @@ member:
     rating: ~
   - Chinese: 李家安
     id: V9841042
-    name: 李家安
+    name: Joanna
     password: jia
-    rating: ~
+    rating: 4
   - Chinese: 駱佳帷
     id: V9841049
     name: 駱佳帷
@@ -65,39 +65,39 @@ member:
     rating: ~
   - Chinese: 吳仰婷
     id: V9941001
-    name: 吳仰婷
+    name: Yang-ting
     password: yang
-    rating: ~
+    rating: 16
   - Chinese: 朱文章
     id: V9941007
-    name: 朱文章
+    name: Redd
     password: wen
-    rating: ~
+    rating: 12
   - Chinese: 鍾興科
     id: V9941011
-    name: 鍾興科
+    name: Adam
     password: xing
-    rating: ~
+    rating: 18
   - Chinese: '?翔義'
     id: V9941012
-    name: '?翔義'
+    name: XiangYi
     password: xiang
-    rating: ~
+    rating: 24
   - Chinese: 洪詠舜
     id: V9941013
-    name: 洪詠舜
+    name: Yong-Shun
     password: yong
-    rating: ~
+    rating: 15
   - Chinese: 涂為智
     id: V9941015
-    name: 涂為智
+    name: Henry
     password: wei
-    rating: ~
+    rating: 24
   - Chinese: 陳俞靜
     id: V9941022
-    name: 陳俞靜
+    name: Vicki
     password: yu
-    rating: ~
+    rating: 26
   - Chinese: 張真黛
     id: V9941026
     name: Zhen-Dai
