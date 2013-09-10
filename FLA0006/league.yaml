@@ -30,7 +30,7 @@ member:
     rating: ~
   - Chinese: 白芳瑜
     id: V9741064
-    name: Amy
+    name: Amy2
     password: fang
     rating: 0
         
@@ -38,7 +38,7 @@ member:
         
   - Chinese: 李秉霖
     id: T9823041
-    name: 李秉霖
+    name: Larry
     password: bing
     rating: ~
   - Chinese: 沈冠宇
@@ -46,14 +46,9 @@ member:
     name: 沈冠宇
     password: guan
     rating: ~
-  - Chinese: 陳昱樺
-    id: V9724004
-    name: Nancy
-    password: yu
-    rating: 16
   - Chinese: 張馨卿
     id: V9741044
-    name: 張馨卿
+    name: Jessica
     password: xin
     rating: ~
   - Chinese: 白芳瑜
@@ -73,7 +68,7 @@ member:
     rating: 25
   - Chinese: 彭怡靜
     id: V9841028
-    name: 彭怡靜
+    name: Katty
     password: yi
     rating: ~
   - Chinese: 李家安
@@ -83,12 +78,12 @@ member:
     rating: 4
   - Chinese: 駱佳帷
     id: V9841049
-    name: 駱佳帷
+    name: Joan
     password: jia
     rating: ~
   - Chinese: 吳仰婷
     id: V9941001
-    name: Yang-ting
+    name: Rei
     password: yang
     rating: 16
   - Chinese: 朱文章
@@ -108,7 +103,7 @@ member:
     rating: 24
   - Chinese: 洪詠舜
     id: V9941013
-    name: Yong-Shun
+    name: Edward
     password: yong
     rating: 15
   - Chinese: 涂為智
@@ -123,7 +118,7 @@ member:
     rating: 26
   - Chinese: 張真黛
     id: V9941026
-    name: Zhen-Dai
+    name: Diana
     password: zhen
     rating: 74
   - Chinese: 楊琬茹
@@ -138,7 +133,7 @@ member:
     rating: 63
   - Chinese: 劉紋君
     id: V9941037
-    name: WenJun
+    name: Vivian
     password: wen
     rating: 76
   - Chinese: 莊翌蝶
@@ -153,17 +148,17 @@ member:
     rating: 89
   - Chinese: 徐婉綾
     id: V9941047
-    name: Wan-Ling
+    name: Emily
     password: wan
     rating: 52
   - Chinese: 詹春英
     id: V9941049
-    name: Chun-Ying
+    name: Amy1
     password: chun
     rating: 78
   - Chinese: 詹春華
     id: V9941050
-    name: Chun-Hua
+    name: Judy
     password: chun
     rating: 82
   - Chinese: 黃于真
@@ -173,7 +168,7 @@ member:
     rating: 70
   - Chinese: 楊千慧
     id: V9941073
-    name: QianHui
+    name: Yvonne
     password: qian
     rating: 72
   - Chinese: 林柏如
@@ -181,7 +176,12 @@ member:
     name: Brenda
     password: bai
     rating: 37
-out: ~
+out:
+  - Chinese: 陳昱樺
+    id: V9724004
+    name: Nancy
+    password: yu
+    rating: 16
 room: A705
 school: nuu
 session:
