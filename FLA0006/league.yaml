@@ -13,6 +13,29 @@ hwMax: 3
 id: 021FLA0006
 league: 夜應外大學四甲
 member:
+  - Chinese: 吳千羽
+    id: V9840122
+    name: Hank
+    password: qian
+    rating: ~
+  - Chinese: 彭姿菁
+    id: V9941023
+    name: Rita
+    password: zi
+    rating: ~
+  - Chinese: 劉好英
+    id: V9941067
+    name: Ivy
+    password: hao
+    rating: ~
+  - Chinese: 白芳瑜
+    id: V9741064
+    name: Amy
+    password: fang
+    rating: 0
+        
+        
+        
   - Chinese: 李秉霖
     id: T9823041
     name: 李秉霖
