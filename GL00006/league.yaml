@@ -42,17 +42,17 @@ member:
 
   - Chinese: 蔡欣儒
     id: U0016030
-    name: 蔡欣儒
+    name: Emily
     password: xin
     rating: ~
   - Chinese: 王志睿
     id: U0017024
-    name: 王志睿
+    name: Rick
     password: zhi
     rating: ~
   - Chinese: 林珈羽
     id: U0018027
-    name: 林珈羽
+    name: Tracy
     password: jia
     rating: ~
   - Chinese: 楊佳宜
@@ -72,42 +72,42 @@ member:
     rating: ~
   - Chinese: 陳靖宜
     id: U0042039
-    name: 陳靖宜
+    name: Gina
     password: jing
     rating: ~
   - Chinese: 向垣蓉
     id: U0042050
-    name: 向垣蓉
+    name: Amy
     password: yuan
     rating: ~
   - Chinese: 張雅芬
     id: U0043001
-    name: 張雅芬
+    name: Tiffany
     password: ya
     rating: ~
   - Chinese: 陳嬿羽
     id: U0043004
-    name: 陳嬿羽
+    name: Mia
     password: yan
     rating: ~
   - Chinese: 陳佩暄
     id: U0043033
-    name: 陳佩暄
+    name: Peggy
     password: pei
     rating: ~
   - Chinese: 陳蓉萱
     id: U0122002
-    name: 陳蓉萱
+    name: Gillian
     password: rong
     rating: ~
   - Chinese: 湯光煜
     id: U9911237
-    name: 湯光煜
+    name: Yukin
     password: guang
     rating: ~
   - Chinese: 陳柏合
     id: U9911242
-    name: 陳柏合
+    name: Simon
     password: bai
     rating: ~
   - Chinese: 楊孟勳
@@ -122,7 +122,7 @@ member:
     rating: ~
   - Chinese: 何宇正
     id: U9917024
-    name: 何宇正
+    name: Tim
     password: yu
     rating: ~
   - Chinese: 林禹丞
@@ -137,12 +137,12 @@ member:
     rating: ~
   - Chinese: 吳冠甫
     id: U9923120
-    name: 吳冠甫
+    name: Lance
     password: guan
     rating: ~
   - Chinese: 林芳瑩
     id: U9943007
-    name: 林芳瑩
+    name: Carolyn
     password: fang
     rating: ~
 out:
