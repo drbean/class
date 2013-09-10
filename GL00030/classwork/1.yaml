@@ -1,50 +1,27 @@
 ---
-Black:
-  absent: 
-    - Nitro
-  merits: 3
-Blue:
-  absent: 
-  merits: 3
-
-Brown:
-  absent: 
-    - Cherry2
-  merits: 3
-BlueBlue:
-  absent:
-  merits: 3
 
 Green:
   absent: 
+    - 李其嶺
   merits: 3
 BlackBlack:
   absent: 
-    - Louis
   merits: 3
 
 Orange:
   absent: 
-    - James
   merits: 3
 Pink:
   absent: 
-    - Ariel
   merits: 3
 
 Purple:
   absent: 
-  merits: 3
-Red:
-  absent: 
-  merits: 3
+    - 吳秀秀
+    - 蕭淵文
+    - 葉啟章
+  merits: 0
 
 Yellow:
   absent: 
-  merits: 3
-
-OrangeOrange:
-  absent: 
-    - Eve
-    - Sonia
   merits: 3
