@@ -14,6 +14,32 @@ id: 012GL00006
 jigsaw: exam
 league: 日語文共同學制虛擬班二甲
 member:
+  - Chinese: 李翎
+    id: U0042004
+    name: Lily
+    password: ling
+    rating: ~
+  - Chinese: 吳肇茗
+    id: U0031213
+    name: Maddy
+    password: zhao
+    rating: ~
+  - Chinese: 褚春美
+    id: M0210002
+    name: Moomin
+    password: chun
+    rating: ~
+  - Chinese: 徐銘均
+    id: U0141060
+    name: Ming-chun
+    password: ming
+    rating: ~
+  - Chinese: 林沂慧
+    id: K220155482
+    name: Angela
+    password: yi
+    rating: ~
+
   - Chinese: 蔡欣儒
     id: U0016030
     name: 蔡欣儒
@@ -74,11 +100,6 @@ member:
     name: 陳蓉萱
     password: rong
     rating: ~
-  - Chinese: 葉俊豪
-    id: U0143002
-    name: 葉俊豪
-    password: jun
-    rating: ~
   - Chinese: 湯光煜
     id: U9911237
     name: 湯光煜
@@ -124,7 +145,12 @@ member:
     name: 林芳瑩
     password: fang
     rating: ~
-out: ~
+out:
+  - Chinese: 葉俊豪
+    id: U0143002
+    name: 葉俊豪
+    password: jun
+    rating: ~
 room: 2110
 school: nuu
 scores:
