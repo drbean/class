@@ -1,0 +1,207 @@
+---
+cutpoints:
+  one: 20
+  two: 80
+exercise: jelkeby
+grade:
+  U0031032: 2
+  U0031046: 2
+  U0034001: 2
+  U0034002: 2
+  U0034003: 2
+  U0034004: 2
+  U0034005: 2
+  U0034006: 2
+  U0034007: 2
+  U0034008: 2
+  U0034009: 2
+  U0034010: 2
+  U0034011: 2
+  U0034012: 2
+  U0034013: 2
+  U0034014: 2
+  U0034015: 2
+  U0034016: 2
+  U0034017: 2
+  U0034023: 2
+  U0034024: 2
+  U0034025: 0
+  U0034026: 2
+  U0034027: 2
+  U0034028: 2
+  U0034029: 2
+  U0034030: 2
+  U0034031: 2
+  U0034032: 2
+  U0034033: 2
+  U0034034: 2
+  U0034035: 2
+  U0034036: 2
+  U0034037: 2
+  U0034038: 2
+  U0034040: 2
+  U0034042: 2
+  U0034043: 2
+  U0034044: 2
+  U0034045: 2
+  U0034046: 2
+  U0034049: 2
+  U0034050: 2
+  U0034051: 2
+  U0034055: 2
+  U0034056: 2
+  U9834018: 2
+  U9933033: 2
+  U9934004: 2
+  U9934026: 2
+points:
+  U0031032:
+    letters: 672
+    percent: 100
+  U0031046:
+    letters: 686
+    percent: 100
+  U0034001:
+    letters: 648
+    percent: 96
+  U0034002:
+    letters: 669
+    percent: 100
+  U0034003:
+    letters: 682
+    percent: 100
+  U0034004:
+    letters: 670
+    percent: 100
+  U0034005:
+    letters: 678
+    percent: 100
+  U0034006:
+    letters: 672
+    percent: 100
+  U0034007:
+    letters: 681
+    percent: 100
+  U0034008:
+    letters: 690
+    percent: 100
+  U0034009:
+    letters: 682
+    percent: 100
+  U0034010:
+    letters: 677
+    percent: 100
+  U0034011:
+    letters: 655
+    percent: 99
+  U0034012:
+    letters: 686
+    percent: 100
+  U0034013:
+    letters: 674
+    percent: 100
+  U0034014:
+    letters: 677
+    percent: 100
+  U0034015:
+    letters: 680
+    percent: 100
+  U0034016:
+    letters: 688
+    percent: 100
+  U0034017:
+    letters: 662
+    percent: 100
+  U0034023:
+    letters: 687
+    percent: 100
+  U0034024:
+    letters: 659
+    percent: 100
+  U0034025:
+    letters: 0
+    percent: 0
+  U0034026:
+    letters: 685
+    percent: 100
+  U0034027:
+    letters: 681
+    percent: 100
+  U0034028:
+    letters: 685
+    percent: 100
+  U0034029:
+    letters: 693
+    percent: 100
+  U0034030:
+    letters: 669
+    percent: 100
+  U0034031:
+    letters: 683
+    percent: 100
+  U0034032:
+    letters: 667
+    percent: 100
+  U0034033:
+    letters: 677
+    percent: 100
+  U0034034:
+    letters: 684
+    percent: 100
+  U0034035:
+    letters: 684
+    percent: 100
+  U0034036:
+    letters: 683
+    percent: 100
+  U0034037:
+    letters: 662
+    percent: 100
+  U0034038:
+    letters: 664
+    percent: 100
+  U0034040:
+    letters: 668
+    percent: 98
+  U0034042:
+    letters: 688
+    percent: 100
+  U0034043:
+    letters: 674
+    percent: 100
+  U0034044:
+    letters: 674
+    percent: 100
+  U0034045:
+    letters: 675
+    percent: 100
+  U0034046:
+    letters: 693
+    percent: 100
+  U0034049:
+    letters: 667
+    percent: 100
+  U0034050:
+    letters: 686
+    percent: 100
+  U0034051:
+    letters: 683
+    percent: 100
+  U0034055:
+    letters: 670
+    percent: 100
+  U0034056:
+    letters: 684
+    percent: 100
+  U9834018:
+    letters: 665
+    percent: 100
+  U9933033:
+    letters: 675
+    percent: 100
+  U9934004:
+    letters: 682
+    percent: 100
+  U9934026:
+    letters: 688
+    percent: 100

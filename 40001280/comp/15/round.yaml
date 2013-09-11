@@ -1,0 +1,102 @@
+---
+activity:
+  internet:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+group:
+  0:
+    White: U9934013
+    Black: T9833024
+  1:
+    White: T9833026
+    Black: U9934029
+  2:
+    White: U9934004
+    Black: U9934024
+  3:
+    White: U9934047
+    Black: U9934044
+  4:
+    White: U9934048
+    Black: U9934046
+  5:
+    White: U9934006
+    Black: U9934034
+  6:
+    White: U9934032
+    Black: U9934011
+  7:
+    White: U9934001
+    Black: U9934012
+  8:
+    White: U9934015
+    Black: U9913132
+  9:
+    White: U9934010
+    Black: U9934051
+  10:
+    White: U9934021
+    Black: U9934036
+  11:
+    White: U9934016
+    Black: U9934003
+  12:
+    White: U9934019
+    Black: U9934028
+  13:
+    White: U9934033
+    Black: U9934027
+  14:
+    White: U9934030
+    Black: U9934038
+  15:
+    White: U9934045
+    Black: U9816024
+  16:
+    White: U9934002
+    Black: U9933147
+  17:
+    White: U9934005
+    Black: U9934022
+  18:
+    White: U9934007
+    Black: U9934020
+  19:
+    White: T9833008
+    Black: U9934037
+  20:
+    White: U9934025
+    Black: U9934040
+  22:
+    White: U9934009
+    Black: U9934050
+  23:
+    White: U9934039
+    Black: U9934017
+pairing: swiss adjusted
+round: 15
+text: /home/drbean/class/business/greatideas/cards.yaml
+week: 17

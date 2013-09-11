@@ -1,0 +1,68 @@
+---
+
+Black:
+  absent: 
+  merits: 2
+Blue:
+  absent: 
+  merits: 2
+
+Brown:
+  absent: 
+    - Jack
+  merits: 2
+Gray:
+  absent: 
+  merits: 2
+
+Green:
+  absent: 
+  merits: 3
+BlackBlack:
+  absent: 
+  merits: 2
+
+BlueBlue:
+  absent: 
+  merits: 2
+GreenGreen:
+  absent: 
+  merits: 2
+
+Orange:
+  absent:
+  merits: 2
+Pink:
+  absent: 
+  merits: 2
+
+Purple:
+  absent: 
+  merits: 2
+Red:
+  absent: 
+  merits: 2
+
+White:
+  absent: 
+  merits: 2
+Yellow:
+  absent: 
+  merits: 2
+
+PinkPink:
+  absent: 
+    - Ann
+  merits: 2
+
+OrangeOrange:
+  absent:
+  merits: 2
+PurplePurple:
+  absent: 
+  merits: 2
+
+# assistants
+YellowYellow:
+  absent: 
+  merits: 3

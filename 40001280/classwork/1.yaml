@@ -1,0 +1,76 @@
+---
+Black:
+  absent: 
+  merits: 2
+Blue:
+  absent: 
+  merits: 3
+
+Brown:
+  absent: 
+    - Wei
+    - Yvonne
+  merits: 3
+Gray:
+  absent: 
+  merits: 2
+
+Green:
+  absent: 
+  merits: 2
+Yellow:
+  absent: 
+  merits: 3
+
+BlueBlue:
+  absent: 
+    - Ting
+  merits: 3
+GreenGreen:
+  absent: 
+    - Woodstock
+  merits: 2
+
+Orange:
+  absent:
+    - Chris
+  merits: 3
+Pink:
+  absent: 
+    - Amber
+  merits: 2
+
+Purple:
+  absent: 
+    - Emma
+  merits: 2
+Red:
+  absent: 
+  merits: 3
+
+YellowYellow:
+  absent: 
+  merits: 2
+PurplePurple:
+  absent: 
+  merits: 3
+
+# Louis joined Orange
+BlackBlack:
+  absent:
+    - Candy
+    - Cabe
+  merits: 3
+
+# George joined YellowYellow
+White:
+  absent:
+    - Ann
+    - Santie
+  merits: 2
+
+# James joined Pink
+OrangeOrange:
+  absent:
+    - Teddy
+  merits: 2
