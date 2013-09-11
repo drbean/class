@@ -1,0 +1,101 @@
+---
+activity:
+  vacations:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+group:
+  0:
+    White: U9934026
+    Black: U9934047
+  1:
+    White: U9934029
+    Black: U9934046
+  2:
+    White: U9934048
+    Black: U9934012
+  3:
+    White: U9934032
+    Black: U9934010
+  4:
+    White: U9934036
+    Black: U9934016
+  5:
+    White: U9934001
+    Black: U9934004
+  6:
+    White: U9934030
+    Black: U9934020
+  7:
+    White: U9934034
+    Black: U9934051
+  8:
+    White: U9934028
+    Black: T9833024
+  9:
+    White: U9934044
+    Black: U9934006
+  10:
+    White: U9934005
+    Black: U9816024
+  11:
+    White: U9934019
+    Black: U9913132
+  12:
+    White: U9934045
+    Black: U9934027
+  13:
+    White: T9833008
+    Black: U9934043
+  14:
+    White: U9934002
+    Black: U9934011
+  15:
+    White: U9934003
+    Black: U9934021
+  16:
+    White: U9934017
+    Black: U9934025
+  17:
+    White: U9934038
+    Black: U9934050
+  18:
+    White: U9934015
+    Black: U9934033
+  19:
+    White: U9933147
+    Black: U9934007
+  20:
+    White: U9934039
+    Black: U9934009
+  21:
+    White: U9934022
+    Black: U9934037
+  22:
+    White: U9934040
+    Black: U9934031
+pairing: swiss
+round: 6
+text: /home/drbean/class/business/negotiations/WebVac/cards.yaml
+week: 8

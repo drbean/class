@@ -1,0 +1,1173 @@
+---
+0:
+  cars:
+    0:
+      free:
+        U9934015:
+          point:
+            1: Unreturned
+            2: Fault
+        T9833024:
+          point:
+            1: Fault
+            2: Fault
+      set:
+        U9934015:
+          1:   F
+        T9833024:
+          1:   F
+  citrus:
+    0:
+      free:
+        U9934015:
+          point:
+            1: Fault
+            2: Fault
+        T9833024:
+          point:
+            1: Fault
+            2: Unreturned
+      set:
+        U9934015:
+          1: Nil
+        T9833024:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934015:
+          point:
+            1: Fault
+            2: Fault
+            3: Fault
+        T9833024:
+          point:
+            1: Fault
+            2: Fault
+            3: Fault
+      set:
+        U9934015:
+          1: Nil
+        T9833024:
+          1: Nil
+1:
+  cars:
+    0:
+      free:
+        U9934048:
+          point:
+            1: Fault
+            2: Rally
+        U9934006:
+          point:
+            1: Rally
+            2: Rally
+      set:
+        U9934048:
+          1: T
+        U9934006:
+          1: T
+  citrus:
+    0:
+      free:
+        U9934048:
+          point:
+            1: Rally
+            2: Fault
+        U9934006:
+          point:
+            1: Fault
+            2: Rally
+      set:
+        U9934048:
+          1: Nil
+        U9934006:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934048:
+          point:
+            1: Unreturned
+            2: Rally
+            3: Fault
+        U9934006:
+          point:
+            1: Rally
+            2: Fault
+            3: Fault
+      set:
+        U9934048:
+          1: Nil
+        U9934006:
+          1: Nil
+2:
+  cars:
+    0:
+      free:
+        U9934027:
+          point:
+            1: Fault
+            2: Rally
+        U9934026:
+          point:
+            1: Fault
+            2: Fault
+      set:
+        U9934027:
+          1: Nil
+        U9934026:
+          1: Nil
+  citrus:
+    0:
+      free:
+        U9934027:
+          point:
+            1: Rally
+            2: Rally
+        U9934026:
+          point:
+            1: Fault
+            2: Rally
+            3: Fault
+      set:
+        U9934027:
+          1: Nil
+        U9934026:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934027:
+          point:
+            1: Rally
+            2: Fault
+            3: Rally
+        U9934026:
+          point:
+            1: Fault
+            2: Fault
+      set:
+        U9934027:
+          1: T
+        U9934026:
+          1: T
+3:
+  cars:
+    0:
+      free:
+        U9934036:
+          point:
+            1: Fault
+            2: Fault
+        U9934044:
+          point:
+            1: Rally
+            2: Rally
+      set:
+        U9934036:
+          1: T
+        U9934044:
+          1: T
+  citrus:
+    0:
+      free:
+        U9934036:
+          point:
+            1: Rally
+            2: Rally
+        U9934044:
+          point:
+            1: Fault
+            2: Fault
+      set:
+        U9934036:
+          1: Nil
+        U9934044:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934036:
+          point:
+            1: Fault
+            2: Rally
+            3: Fault
+        U9934044:
+          point:
+            1: Fault
+            2: Rally
+            3: Fault
+      set:
+        U9934036:
+          1: Nil
+        U9934044:
+          1: Nil
+4:
+  cars:
+    0:
+      free:
+        U9934019:
+          point:
+            1: Fault
+            2: Fault
+        U9934012:
+          point:
+            1: Rally
+            2: Fault
+      set:
+        U9934019:
+          1: Nil
+        U9934012:
+          1: Nil
+  citrus:
+    0:
+      free:
+        U9934019:
+          point:
+            1: Fault
+        U9934012:
+          point:
+            1: Rally
+            2: Rally
+      set:
+        U9934019:
+          1: Nil
+        U9934012:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934019:
+          point:
+            1: Unreturned
+            2: Rally
+            3: Rally
+            4: Fault
+        U9934012:
+          point:
+            1: Fault
+            2: Rally
+            3: Rally
+      set:
+        U9934019:
+          1: T
+        U9934012:
+          1: T
+5:
+  cars:
+    0:
+      free:
+        U9913132:
+          point:
+            1: Fault
+            2: Fault
+        U9934031:
+          point:
+            1: Rally
+            2: Rally
+            3: Unreturned
+            4: Fault
+      set:
+        U9913132:
+          1: T
+        U9934031:
+          1: T
+  citrus:
+    0:
+      free:
+        U9913132:
+          point:
+            1: Fault
+            2: Fault
+            3: Fault
+        U9934031:
+          point:
+            1: Fault
+            2: Rally
+      set:
+        U9913132:
+          1: Nil
+        U9934031:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9913132:
+          point:
+            1: Rally
+            2: Fault
+        U9934031:
+          point:
+            1: Rally
+      set:
+        U9913132:
+          1: Nil
+        U9934031:
+          1: Nil
+6:
+  cars:
+    0:
+      free:
+        U9934023:
+          point:
+            1: Unreturned
+            2: Fault
+        U9934004:
+          point:
+            1: Rally
+            2: Rally
+      set:
+        U9934023:
+          1: T
+        U9934004:
+          1: T
+  citrus:
+    0:
+      free:
+        U9934023:
+          point:
+            1: Rally
+            2: Fault
+            3: Unreturned
+        U9934004:
+          point:
+            1: Fault
+            2: Rally
+      set:
+        U9934023:
+          1: Nil
+        U9934004:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934023:
+          point:
+            1: Rally
+            2: Rally
+        U9934004:
+          point:
+            1: Fault
+            2: Rally
+            3: Fault
+      set:
+        U9934023:
+          1: Nil
+        U9934004:
+          1: Nil
+7:
+  cars:
+    0:
+      free:
+        U9934003:
+          point:
+            1: Rally
+            2: Fault
+        U9934002:
+          point:
+            1: Rally
+            2: Fault
+      set:
+        U9934003:
+          1: Nil
+        U9934002:
+          1: Nil
+  citrus:
+    0:
+      free:
+        U9934003:
+          point:
+            1: Fault
+            2: Fault
+        U9934002:
+          point:
+            1: Rally
+            2: Rally
+      set:
+        U9934003:
+          1: Nil
+        U9934002:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934003:
+          point:
+            1: Rally
+            2: Fault
+            3: Rally
+        U9934002:
+          point:
+            1: Rally
+            2: Rally
+            3: Fault
+      set:
+        U9934003:
+          1: T
+        U9934002:
+          1: T
+8:
+  cars:
+    0:
+      free:
+        U9934013:
+          point:
+            1: Fault
+        U9934047:
+          point:
+            1: Fault
+            2: Fault
+            3: Fault
+      set:
+        U9934013:
+          1: Nil
+        U9934047:
+          1: Nil
+  citrus:
+    0:
+      free:
+        U9934013:
+          point:
+            1: Rally
+            2: Fault
+            3: Fault
+        U9934047:
+          point:
+            1: Fault
+            2: Fault
+      set:
+        U9934013:
+          1:   F
+        U9934047:
+          1:   F
+  internet:
+    0:
+      free:
+        U9934013:
+          point:
+            1: Rally
+            2: Rally
+            3: Fault
+        U9934047:
+          point:
+            1: Rally
+            2: Fault
+      set:
+        U9934013:
+          1: Nil
+        U9934047:
+          1: Nil
+9:
+  cars:
+    0:
+      free:
+        U9934037:
+          point:
+            1: Rally
+            2: Rally
+        U9934011:
+          point:
+            1: Rally
+            2: Fault
+      set:
+        U9934037:
+          1: Nil
+        U9934011:
+          1: Nil
+  citrus:
+    0:
+      free:
+        U9934037:
+          point:
+            1: Rally
+            2: Rally
+            3: Rally
+        U9934011:
+          point:
+            1: Fault
+            2: Rally
+      set:
+        U9934037:
+          1: Nil
+        U9934011:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934037:
+          point:
+            1: Rally
+            2: Rally
+        U9934011:
+          point:
+            1: Fault
+            2: Rally
+            3: Rally
+      set:
+        U9934037:
+          1: T
+        U9934011:
+          1: T
+10:
+  cars:
+    0:
+      free:
+        U9934051:
+          point:
+            1: Fault
+            2: Fault
+        U9934025:
+          point:
+            1: Fault
+      set:
+        U9934051:
+          1: Nil
+        U9934025:
+          1: Nil
+  citrus:
+    0:
+      free:
+        U9934051:
+          point:
+            1: Fault
+            2: Fault
+        U9934025:
+          point:
+            1: Fault
+            2: Rally
+      set:
+        U9934051:
+          1: Nil
+        U9934025:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934051:
+          point:
+            1: Rally
+            2: Fault
+            3: Fault
+        U9934025:
+          point:
+            1: Rally
+            2: Rally
+            3: Rally
+            4: Rally
+      set:
+        U9934051:
+          1: T
+        U9934025:
+          1: T
+11:
+  cars:
+    0:
+      free:
+        U9934020:
+          point:
+            1: Fault
+            2: Fault
+        U9934033:
+          point:
+            1: Rally
+      set:
+        U9934020:
+          1: T
+        U9934033:
+          1: T
+  citrus:
+    0:
+      free:
+        U9934020:
+          point:
+            1: Fault
+            2: Fault
+        U9934033:
+          point:
+            1: Fault
+      set:
+        U9934020:
+          1: Nil
+        U9934033:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934020:
+          point:
+            1: Rally
+            2: Rally
+            3: Fault
+        U9934033:
+          point:
+            1: Fault
+            2: Fault
+            3: Fault
+            4: Fault
+            5: Fault
+      set:
+        U9934020:
+          1: Nil
+        U9934033:
+          1: Nil
+12:
+  cars:
+    0:
+      free:
+        U9934029:
+          point:
+            1: Fault
+        U9934007:
+          point:
+            1: Fault
+            2: Rally
+      set:
+        U9934029:
+          1: Nil
+        U9934007:
+          1: Nil
+  citrus:
+    0:
+      free:
+        U9934029:
+          point:
+            1: Rally
+            2: Rally
+            3: Fault
+        U9934007:
+          point:
+            1: Rally
+            2: Fault
+      set:
+        U9934029:
+          1: Nil
+        U9934007:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934029:
+          point:
+            1: Rally
+            2: Fault
+            3: Rally
+        U9934007:
+          point:
+            1: Fault
+            2: Fault
+            3: Rally
+      set:
+        U9934029:
+          1: T
+        U9934007:
+          1: T
+13:
+  cars:
+    0:
+      free:
+        U9934021:
+          point:
+            1: Fault
+            2: Fault
+        U9934046:
+          point:
+            1: Fault
+            2: Fault
+      set:
+        U9934021:
+          1: Nil
+        U9934046:
+          1: Nil
+  citrus:
+    0:
+      free:
+        U9934021:
+          point:
+            1: Rally
+            2: Fault
+            3: Rally
+        U9934046:
+          point:
+            1: Fault
+            2: Fault
+      set:
+        U9934021:
+          1: Nil
+        U9934046:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934021:
+          point:
+            1: Rally
+            2: Fault
+        U9934046:
+          point:
+            1: Fault
+            2: Fault
+            3: Fault
+      set:
+        U9934021:
+          1: T
+        U9934046:
+          1: T
+14:
+  cars:
+    0:
+      free:
+        U9934005:
+          point:
+            1: Rally
+        U9934010:
+          point:
+            1: Fault
+      set:
+        U9934005:
+          1: T
+        U9934010:
+          1: T
+  citrus:
+    0:
+      free:
+        U9934005:
+          point:
+            1: Rally
+            2: Fault
+            3: Fault
+        U9934010:
+          point:
+            1: Rally
+            2: Rally
+      set:
+        U9934005:
+          1: Nil
+        U9934010:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934005:
+          point:
+            1: Rally
+            2: Rally
+            3: Fault
+        U9934010:
+          point:
+            1: Fault
+            2: Rally
+            3: Rally
+      set:
+        U9934005:
+          1: Nil
+        U9934010:
+          1: Nil
+15:
+  cars:
+    0:
+      free:
+        U9934028:
+          point:
+            1: Fault
+            2: Rally
+        T9833008:
+          point:
+            1: Rally
+            2: Fault
+      set:
+        U9934028:
+          1: Nil
+        T9833008:
+          1: Nil
+  citrus:
+    0:
+      free:
+        U9934028:
+          point:
+            1: Fault
+            2: Fault
+        T9833008:
+          point:
+            1: Fault
+            2: Unreturned
+      set:
+        U9934028:
+          1: T
+        T9833008:
+          1: T
+  internet:
+    0:
+      free:
+        U9934028:
+          point:
+            1: Rally
+            2: Fault
+            3: Fault
+        T9833008:
+          point:
+            1: Fault
+            2: Fault
+            3: Fault
+      set:
+        U9934028:
+          1: Nil
+        T9833008:
+          1: Nil
+16:
+  cars:
+    0:
+      free:
+        U9934040:
+          point:
+            1: Fault
+            2: Fault
+        U9934016:
+          point:
+            1: Rally
+            2: Fault
+      set:
+        U9934040:
+          1: T
+        U9934016:
+          1: T
+  citrus:
+    0:
+      free:
+        U9934040:
+          point:
+            1: Rally
+            2: Rally
+        U9934016:
+          point:
+            1: Rally
+            2: Rally
+            3: Fault
+      set:
+        U9934040:
+          1: Nil
+        U9934016:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934040:
+          point:
+            1: Rally
+            2: Rally
+            3: Rally
+        U9934016:
+          point:
+            1: Rally
+            2: Rally
+      set:
+        U9934040:
+          1: Nil
+        U9934016:
+          1: Nil
+17:
+  cars:
+    0:
+      free:
+        U9934022:
+          point:
+            1: Rally
+            2: Unreturned
+        U9934009:
+          point:
+            1: Rally
+            2: Rally
+      set:
+        U9934022:
+          1: T
+        U9934009:
+          1: T
+  citrus:
+    0:
+      free:
+        U9934022:
+          point:
+            1: Rally
+            2: Rally
+        U9934009:
+          point:
+            1: Rally
+            2: Rally
+            3: Rally
+      set:
+        U9934022:
+          1: Nil
+        U9934009:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934022:
+          point:
+            1: Unreturned
+            2: Rally
+            3: Rally
+        U9934009:
+          point:
+            1: Rally
+            2: Rally
+      set:
+        U9934022:
+          1: Nil
+        U9934009:
+          1: Nil
+18:
+  cars:
+    0:
+      free:
+        U9933147:
+          point:
+            1: Rally
+            2: Unreturned
+        U9934032:
+          point:
+            1: Rally
+            2: Fault
+            3: Fault
+      set:
+        U9933147:
+          1: Nil
+        U9934032:
+          1: Nil
+  citrus:
+    0:
+      free:
+        U9933147:
+          point:
+            1: Rally
+            2: Rally
+        U9934032:
+          point:
+            1: Fault
+            2: Fault
+      set:
+        U9933147:
+          1: Nil
+        U9934032:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9933147:
+          point:
+            1: Rally
+            2: Rally
+            3: Fault
+        U9934032:
+          point:
+            1: Rally
+            2: Rally
+      set:
+        U9933147:
+          1: T
+        U9934032:
+          1: T
+19:
+  cars:
+    0:
+      free:
+        U9934043:
+          point:
+            1: Rally
+            2: Fault
+            3: Rally
+        U9934030:
+          point:
+            1: Rally
+            2: Rally
+            3: Rally
+      set:
+        U9934043:
+          1:   F
+        U9934030:
+          1: T
+  citrus:
+    0:
+      free:
+        U9934043:
+          point:
+            1: Rally
+            2: Fault
+        U9934030:
+          point:
+            1: Rally
+            2: Rally
+      set:
+        U9934043:
+          1: Nil
+        U9934030:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934043:
+          point:
+            1: Rally
+            2: Unreturned
+        U9934030:
+          point:
+            1: Rally
+            2: Rally
+      set:
+        U9934043:
+          1: Nil
+        U9934030:
+          1: Nil
+20:
+  cars:
+    0:
+      free:
+        U9934039:
+          point:
+            1: Rally
+            2: Fault
+        U9934045:
+          point:
+            1: Fault
+            2: Fault
+      set:
+        U9934039:
+          1: Nil
+        U9934045:
+          1: Nil
+  citrus:
+    0:
+      free:
+        U9934039:
+          point:
+            1: Rally
+            2: Rally
+            3: Rally
+        U9934045:
+          point:
+            1: Fault
+            2: Fault
+            3: Fault
+      set:
+        U9934039:
+          1: Nil
+        U9934045:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934039:
+          point:
+            1: Rally
+            2: Rally
+        U9934045:
+          point:
+            1: Fault
+            2: Rally
+      set:
+        U9934039:
+          1: T
+        U9934045:
+          1: T
+21:
+  cars:
+    0:
+      free:
+        U9934050:
+          point:
+            1: Rally
+            2: Rally
+        U9934024:
+          point:
+            1: Fault
+            2: Rally
+      set:
+        U9934050:
+          1: T
+        U9934024:
+          1: T
+  citrus:
+    0:
+      free:
+        U9934050:
+          point:
+            1: Rally
+            2: Fault
+        U9934024:
+          point:
+            1: Rally
+            2: Fault
+      set:
+        U9934050:
+          1: Nil
+        U9934024:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9934050:
+          point:
+            1: Rally
+            2: Fault
+            3: Fault
+        U9934024:
+          point:
+            1: Rally
+            2: Rally
+            3: Rally
+      set:
+        U9934050:
+          1: Nil
+        U9934024:
+          1: Nil
+22:
+  cars:
+    0:
+      free:
+        U9816024:
+          point:
+            1: Rally
+            2: Fault
+        U9934017:
+          point:
+            1: Fault
+            2: Rally
+      set:
+        U9816024:
+          1:   F
+        U9934017:
+          1:   F
+  citrus:
+    0:
+      free:
+        U9816024:
+          point:
+            1: Fault
+            2: Rally
+            3: Rally
+        U9934017:
+          point:
+            1: Fault
+            2: Fault
+            3: Rally
+      set:
+        U9816024:
+          1: Nil
+        U9934017:
+          1: Nil
+  internet:
+    0:
+      free:
+        U9816024:
+          point:
+            1: Rally
+            2: Fault
+        U9934017:
+          point:
+            1: Rally
+            2: Rally
+      set:
+        U9816024:
+          1: Nil
+        U9934017:
+          1: Nil
