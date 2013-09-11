@@ -1,19 +1,19 @@
 ---
 absent: ~
 active: ~
-anterior: 011FIA0033
+anterior: 012FIA0046
 approach: GroupworkNoFault
 classMax: 3
 compcomp: comp
 examMax: 5
 exams: exam
-field: 商用英文實務(二)
+field: 基礎英文(G)
 groupwork: classwork
 hw: homework
 hwMax: 2
 id: 012FIA0046
 jigsaw: exam
-league: 日財金大學二甲
+league: 育達 General English
 member:
   - Chinese: 謝佳昀
     id: T9831030
