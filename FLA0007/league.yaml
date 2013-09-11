@@ -30,7 +30,7 @@ member:
     rating: 4
   - Chinese: 胡佳玟
     id: V9841046
-    name: 胡佳玟
+    name: Lace
     password: jia
     rating: ~
   - Chinese: 湯浩軍
@@ -45,7 +45,7 @@ member:
     rating: 6
   - Chinese: 吳仰婷
     id: V9941001
-    name: Yang-ting
+    name: Rei
     password: yang
     rating: 16
   - Chinese: 徐?焜
@@ -75,7 +75,7 @@ member:
     rating: 24
   - Chinese: 洪詠舜
     id: V9941013
-    name: Yong-Shun
+    name: Edward
     password: yong
     rating: 15
   - Chinese: 謝東霖
@@ -95,7 +95,7 @@ member:
     rating: 26
   - Chinese: 彭姿菁
     id: V9941023
-    name: Tzu-Ching
+    name: Rita
     password: zi
     rating: 27
   - Chinese: 陳乙瑄
@@ -105,7 +105,7 @@ member:
     rating: 74
   - Chinese: 張真黛
     id: V9941026
-    name: Zhen-Dai
+    name: Diana
     password: zhen
     rating: 74
   - Chinese: 楊琬茹
@@ -135,7 +135,7 @@ member:
     rating: 64
   - Chinese: 劉紋君
     id: V9941037
-    name: WenJun
+    name: Vivian
     password: wen
     rating: 76
   - Chinese: 莊翌蝶
@@ -155,17 +155,17 @@ member:
     rating: 58
   - Chinese: 徐婉綾
     id: V9941047
-    name: Wan-Ling
+    name: Emily
     password: wan
     rating: 52
   - Chinese: 詹春英
     id: V9941049
-    name: Chun-Ying
+    name: Amy
     password: chun
     rating: 78
   - Chinese: 詹春華
     id: V9941050
-    name: Chun-Hua
+    name: Judy
     password: chun
     rating: 82
   - Chinese: 張鉯芸
@@ -210,7 +210,7 @@ member:
     rating: 73
   - Chinese: 楊千慧
     id: V9941073
-    name: QianHui
+    name: Yvonne
     password: qian
     rating: 72
   - Chinese: 林柏如
@@ -230,6 +230,8 @@ member:
     rating: ~
 out: ~
 room: A706
+session:
+  1: 1
 weights:
   classwork: 40
   exams: 20
