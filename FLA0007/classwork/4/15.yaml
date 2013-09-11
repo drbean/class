@@ -1,0 +1,35 @@
+---
+Black:
+  absent: 
+  merits: 3
+Blue:
+  absent: 
+  merits: 2
+Brown:
+  absent: 
+  merits: 2
+Gray:
+  absent: 
+  merits: 3
+Green:
+  absent: 
+    - Joey
+  merits: 2
+Orange:
+  absent: 
+  merits: 3
+Pink:
+  absent: 
+    - Chelsea
+  merits: 2
+Purple:
+  absent:
+    - Aska
+  merits: 3
+Red:
+  absent: 
+    - Cathy
+  merits: 2
+White:
+  absent: 
+  merits: 3

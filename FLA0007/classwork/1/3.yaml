@@ -1,0 +1,35 @@
+---
+Black:
+  absent: 
+  merits: 2
+Blue:
+  absent: 
+  merits: 3
+Brown:
+  absent: 
+  merits: 3
+Gray:
+  absent: 
+  merits: 2
+Green:
+  absent: 
+    - Emily1
+  merits: 2
+Orange:
+  absent: 
+  merits: 2
+Pink:
+  absent: 
+    - Vivi
+  merits: 3
+Purple:
+  absent:
+    - Eva
+  merits: 2
+Red:
+  absent: 
+  merits: 3
+White:
+  absent: 
+    - Chelsea
+  merits: 3
