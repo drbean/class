@@ -14,76 +14,50 @@ id: AFN2N0
 jigsaw: exam
 league: NAF021_四技外二甲_選修_2
 member:
-  - Chinese: 鄭宇婷
-    id: N02202104
-    name: Esme
-    password: yu
-    rating: ~
-  - Chinese: 鄧葛久
-    id: N97200033
-    name: Kelly
-    password: ge
-    rating: ~
-  - Chinese: 羅芳鏝
+  - Chinese: 羅芳鋙
     id: N97120058
-    name: Corey
+    name: 羅芳鋙
     password: fang
     rating: ~
-  - Chinese: 鄭巧柔
-    id: N02202114
-    name: Amy
-    password: qiao
+  - Chinese: 賴正傑
+    id: N96080091
+    name: 賴正傑
+    password: zheng
     rating: ~
-  - Chinese: 鄭煒諺
-    id: N02202110
-    name: Wayne
-    password: wei
-    rating: ~
-  - Chinese: 方志嘉
-    id: N02202112
-    name: Bill
-    password: zhi
-    rating: ~
-  - Chinese: 劉怡甄
-    id: N02202107
-    name: Tracy
-    password: yi
-    rating: ~
-  - Chinese: 戴??
-    id: N01200030
-    name: Rory
-    password: ?
-    rating: ~
-  - Chinese: 吳聲均
-    id: N01200056
-    name: Ted
-    password: sheng
-    rating: ~
-  - Chinese: 黃哲禹
-    id: N02202113
-    name: Jeff
-    password: zhe
-    rating: ~
-  
-  - Chinese: 黃志文
-    id: N00200059
-    name: 黃志文
-    password: zhi
-    rating: ~
-  - Chinese: 方漢揚
-    id: N01200050
-    name: 方漢揚
+  - Chinese: 陳翰境
+    id: N00082007
+    name: 陳翰境
     password: han
+    rating: ~
+  - Chinese: 李郁芬
+    id: N99080092
+    name: 李郁芬
+    password: yu
+    rating: ~
+  - Chinese: 劉晨宇
+    id: N99080075
+    name: 劉晨宇
+    password: chen
+    rating: ~
+  - Chinese: 張志嘉
+    id: N97200035
+    name: 張志嘉
+    password: zhi
+    rating: ~
+  - Chinese: 鄧茜文
+    id: N97200033
+    name: 鄧茜文
+    password: qian
+    rating: ~
+  - Chinese: 劉宇凡
+    id: N97200045
+    name: 劉宇凡
+    password: yu
     rating: ~
   - Chinese: 范芝喬
     id: N01200002
     name: 范芝喬
     password: zhi
-    rating: ~
-  - Chinese: 曾靜如
-    id: N01200005
-    name: 曾靜如
-    password: jing
     rating: ~
   - Chinese: 王詩云
     id: N01200006
@@ -124,6 +98,11 @@ member:
     id: N01200018
     name: 王楚寒
     password: chu
+    rating: ~
+  - Chinese: 凾登舜
+    id: N01200020
+    name: 凾登舜
+    password: deng
     rating: ~
   - Chinese: 蔡雨樵
     id: N01200021
@@ -195,20 +174,75 @@ member:
     name: 江進慧
     password: jin
     rating: ~
+  - Chinese: 江佳璇
+    id: N01200046
+    name: 江佳璇
+    password: jia
+    rating: ~
+  - Chinese: 陳怡真
+    id: N01200048
+    name: 陳怡真
+    password: yi
+    rating: ~
+  - Chinese: 陳怡芳
+    id: N01200049
+    name: 陳怡芳
+    password: yi
+    rating: ~
   - Chinese: 林秀華
     id: N01200051
     name: 林秀華
     password: xiu
     rating: ~
-  - Chinese: 陳巧惠
-    id: N01200052
-    name: 陳巧惠
-    password: qiao
+  - Chinese: 吳聲均
+    id: N01200056
+    name: 吳聲均
+    password: sheng
     rating: ~
   - Chinese: 張敏鈺
     id: N01200058
     name: 張敏鈺
     password: min
+    rating: ~
+  - Chinese: 陳文億
+    id: N02202101
+    name: 陳文億
+    password: wen
+    rating: ~
+  - Chinese: 鄭宇婷
+    id: N02202104
+    name: 鄭宇婷
+    password: yu
+    rating: ~
+  - Chinese: 劉芳瑀
+    id: N02202106
+    name: 劉芳瑀
+    password: fang
+    rating: ~
+  - Chinese: 鄭煒諺
+    id: N02202110
+    name: 鄭煒諺
+    password: wei
+    rating: ~
+  - Chinese: 董翌亦
+    id: N02202111
+    name: 董翌亦
+    password: yi
+    rating: ~
+  - Chinese: 方志嘉
+    id: N02202112
+    name: 方志嘉
+    password: zhi
+    rating: ~
+  - Chinese: 黃哲禹
+    id: N02202113
+    name: 黃哲禹
+    password: zhe
+    rating: ~
+  - Chinese: 鄭巧柔
+    id: N02202114
+    name: 鄭巧柔
+    password: qiao
     rating: ~
 out: ~
 room: feng_220
