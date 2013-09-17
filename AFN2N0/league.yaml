@@ -14,6 +14,57 @@ id: AFN2N0
 jigsaw: exam
 league: NAF021_四技外二甲_選修_2
 member:
+  - Chinese: 鄭宇婷
+    id: N02202104
+    name: Esme
+    password: yu
+    rating: ~
+  - Chinese: 鄧葛久
+    id: N97200033
+    name: Kelly
+    password: ge
+    rating: ~
+  - Chinese: 羅芳鏝
+    id: N97120058
+    name: Corey
+    password: fang
+    rating: ~
+  - Chinese: 鄭巧柔
+    id: N02202114
+    name: Amy
+    password: qiao
+    rating: ~
+  - Chinese: 鄭煒諺
+    id: N02202110
+    name: Wayne
+    password: wei
+    rating: ~
+  - Chinese: 方志嘉
+    id: N02202112
+    name: Bill
+    password: zhi
+    rating: ~
+  - Chinese: 劉怡甄
+    id: N02202107
+    name: Tracy
+    password: yi
+    rating: ~
+  - Chinese: 戴??
+    id: N01200030
+    name: Rory
+    password: ?
+    rating: ~
+  - Chinese: 吳聲均
+    id: N01200056
+    name: Ted
+    password: sheng
+    rating: ~
+  - Chinese: 黃哲禹
+    id: N02202113
+    name: Jeff
+    password: zhe
+    rating: ~
+  
   - Chinese: 黃志文
     id: N00200059
     name: 黃志文
