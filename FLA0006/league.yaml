@@ -13,10 +13,10 @@ hwMax: 3
 id: 021FLA0006
 league: 夜應外大學四甲
 member:
-  - Chinese: 吳千羽
-    id: V9840122
-    name: Hank
-    password: qian
+  - Chinese: 吳李龍
+    id: V9941060
+    name: Leon
+    password: li
     rating: ~
   - Chinese: 彭姿菁
     id: V9941023
@@ -40,11 +40,6 @@ member:
     id: T9823041
     name: Larry
     password: bing
-    rating: ~
-  - Chinese: 沈冠宇
-    id: V0141013
-    name: 沈冠宇
-    password: guan
     rating: ~
   - Chinese: 張馨卿
     id: V9741044
@@ -177,6 +172,16 @@ member:
     password: bai
     rating: 37
 out:
+  - Chinese: 沈冠宇
+    id: V0141013
+    name: 沈冠宇
+    password: guan
+    rating: ~
+  - Chinese: 吳千羽
+    id: V9840122
+    name: Hank
+    password: qian
+    rating: ~
   - Chinese: 陳昱樺
     id: V9724004
     name: Nancy
