@@ -14,11 +14,58 @@ id: 012GL00006
 jigsaw: exam
 league: 日語文共同學制虛擬班二甲
 member:
-  - Chinese: 李翎
-    id: U0042004
-    name: Lily
-    password: ling
+  - Chinese: 陳紹順
+    id: U0042012
+    name: Danny
+    password: shao
     rating: ~
+  - Chinese: 辛昆星
+    id: U0042041
+    name: KungHsing
+    password: kun
+    rating: ~
+  - Chinese: 陳忠偉
+    id: U0042031
+    name: Chung-Wei
+    password: jung
+    rating: ~
+  - Chinese: 黃理偉
+    id: U0142042
+    name: Kim
+    password: li
+    rating: ~
+  - Chinese: 楊苑羚
+    id: U0142036
+    name: Phoebe
+    password: yuan
+    rating: ~
+  - Chinese: 洪崇沼
+    id: U0222133
+    name: Dave
+    password: chung
+    rating: ~
+  - Chinese: 楊聖
+    id: U9917017
+    name: Scotter
+    password: sheng
+    rating: ~
+  - Chinese: 林立婷
+    id: U0222228
+    name: Li-Ting
+    password: li
+    rating: ~
+  - Chinese: 胡亞微
+    id: U0016051
+    name: Wei
+    password: ya
+    rating: ~
+  - Chinese: 洪珮其
+    id: U0023121
+    name: Penny
+    password: pei
+    rating: ~
+  
+  
   - Chinese: 吳肇茗
     id: U0031213
     name: Maddy
@@ -28,11 +75,6 @@ member:
     id: M0210002
     name: Moomin
     password: chun
-    rating: ~
-  - Chinese: 徐銘均
-    id: U0141060
-    name: Ming-chun
-    password: ming
     rating: ~
   - Chinese: 林沂慧
     id: K220155482
@@ -57,18 +99,8 @@ member:
     rating: ~
   - Chinese: 楊佳宜
     id: U0018046
-    name: 楊佳宜
+    name: Regina
     password: jia
-    rating: ~
-  - Chinese: 郭巧勻
-    id: U0033112
-    name: 郭巧勻
-    password: qiao
-    rating: ~
-  - Chinese: 蕭伊晴
-    id: U0042018
-    name: 蕭伊晴
-    password: yi
     rating: ~
   - Chinese: 陳靖宜
     id: U0042039
@@ -110,31 +142,6 @@ member:
     name: Simon
     password: bai
     rating: ~
-  - Chinese: 楊孟勳
-    id: U9913037
-    name: 楊孟勳
-    password: meng
-    rating: ~
-  - Chinese: 許富強
-    id: U9914113
-    name: 許富強
-    password: fu
-    rating: ~
-  - Chinese: 何宇正
-    id: U9917024
-    name: Tim
-    password: yu
-    rating: ~
-  - Chinese: 林禹丞
-    id: U9921214
-    name: 林禹丞
-    password: yu
-    rating: ~
-  - Chinese: 廖顯旻
-    id: U9921230
-    name: 廖顯旻
-    password: xian
-    rating: ~
   - Chinese: 吳冠甫
     id: U9923120
     name: Lance
@@ -146,6 +153,51 @@ member:
     password: fang
     rating: ~
 out:
+  - Chinese: 許富強
+    id: U9914113
+    name: 許富強
+    password: fu
+    rating: ~
+  - Chinese: 蕭伊晴
+    id: U0042018
+    name: 蕭伊晴
+    password: yi
+    rating: ~
+  - Chinese: 林禹丞
+    id: U9921214
+    name: 林禹丞
+    password: yu
+    rating: ~
+  - Chinese: 廖顯旻
+    id: U9921230
+    name: 廖顯旻
+    password: xian
+    rating: ~
+  - Chinese: 楊孟勳
+    id: U9913037
+    name: 楊孟勳
+    password: meng
+    rating: ~
+  - Chinese: 郭巧勻
+    id: U0033112
+    name: 郭巧勻
+    password: qiao
+    rating: ~
+  - Chinese: 徐銘均
+    id: U0141060
+    name: Ming-chun
+    password: ming
+    rating: ~
+  - Chinese: 何宇正
+    id: U9917024
+    name: Tim
+    password: yu
+    rating: ~
+  - Chinese: 李翎
+    id: U0042004
+    name: Lily
+    password: ling
+    rating: ~
   - Chinese: 葉俊豪
     id: U0143002
     name: 葉俊豪
