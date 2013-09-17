@@ -19,26 +19,6 @@ member:
     name: Tim
     password: yi
     rating: ~
-  - Chinese: 蕭淵文
-    id: U0022002
-    name: 蕭淵文
-    password: yuan
-    rating: ~
-  - Chinese: 林義儒
-    id: U0022024
-    name: Dora
-    password: yi
-    rating: ~
-  - Chinese: 樊洪妤
-    id: U0022046
-    name: Hedy
-    password: hong
-    rating: ~
-  - Chinese: 李其嶺
-    id: U0110032
-    name: 李其嶺
-    password: qi
-    rating: ~
   - Chinese: 陳冠廷
     id: U0114037
     name: Chris
@@ -54,16 +34,17 @@ member:
     name: Jeff
     password: hao
     rating: ~
-  - Chinese: 林榆雪
-    id: U0131006
-    name: YuXue
-    password: yu
-    rating: ~
   - Chinese: 張馨鎂
     id: U0131020
     name: Thena
     password: xin
     rating: ~
+  - Chinese: 林建禹
+    id: U9933028
+    name: Twenty-eight
+    password: jian
+    rating: ~
+out:
   - Chinese: 林秀玲
     id: U0131040
     name: 林秀玲
@@ -109,12 +90,31 @@ member:
     name: 吳秀秀
     password: xiu
     rating: ~
-  - Chinese: 林建禹
-    id: U9933028
-    name: Twenty-eight
-    password: jian
+  - Chinese: 林榆雪
+    id: U0131006
+    name: YuXue
+    password: yu
     rating: ~
-out: ~
+  - Chinese: 蕭淵文
+    id: U0022002
+    name: 蕭淵文
+    password: yuan
+    rating: ~
+  - Chinese: 林義儒
+    id: U0022024
+    name: Dora
+    password: yi
+    rating: ~
+  - Chinese: 樊洪妤
+    id: U0022046
+    name: Hedy
+    password: hong
+    rating: ~
+  - Chinese: 李其嶺
+    id: U0110032
+    name: 李其嶺
+    password: qi
+    rating: ~
 room: A705
 school: nuu
 scores:
