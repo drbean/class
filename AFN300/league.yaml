@@ -29,9 +29,9 @@ member:
     name: Claire
     password: jun
     rating: ~
-  - Chinese: 鄧葛久
+  - Chinese: 鄧茜久
     id: N97200033
-    name: Kelly
+    name: Kelly2
     password: ge
     rating: ~
   
@@ -153,7 +153,7 @@ member:
     rating: ~
   - Chinese: 馮小蓉
     id: N00200042
-    name: Kelly
+    name: Kelly1
     password: xiao
     rating: ~
   - Chinese: 劉佩欣
