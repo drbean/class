@@ -1,119 +1,115 @@
 ---
 cutpoints:
-  one: 0
-  two: 0
-exercise: connell
+  one: ~
+  two: ~
+exercise: dickson
 grade:
-  N9532037: 1
-  N9661709: 0
-  N9661712: 0
-  N9661714: 0
-  N9661717: 0
-  N9661725: 0
-  N9661728: 2
-  N9661740: 1
-  N9661742: 2
-  N9661748: 2
-  T9722102: 0
-  T9722119: 0
-  U9611024: 0
-  U9614044: 0
-  U9714104: 2
-  U9714105: 0
-  U9714108: 0
-  U9714111: 2
-  U9714127: 2
-  U9714135: 2
-  U9714141: 2
-  U9722143: 2
-  U9822015: 0
-  U9822020: 2
-  U9824047: 0
-  U9824053: 0
-  U9824054: 0
-  V9741064: 0
+  K220155482: 2
+  M0210002: 2
+  U0016030: 0
+  U0016051: 0
+  U0017024: 0.92
+  U0018027: 0
+  U0018046: 1.68
+  U0031213: 0
+  U0042012: 0
+  U0042031: 0
+  U0042039: 0
+  U0042041: 0
+  U0042050: 1.7
+  U0043001: 2
+  U0043004: 1.6
+  U0043033: 1.96
+  U0122002: 2
+  U0142036: 0
+  U0142042: 0
+  U0222133: 0
+  U0222228: 0.16
+  U9911237: 2
+  U9911242: 2
+  U9917017: 0
+  U9923120: 1.82
+  U9923121: 0
+  U9943007: 1.98
 points:
-  N9532037:
-    letters: 143
-    questions: 0
-  N9661709:
-    letters: ~
-    questions: 0
-  N9661712:
-    letters: ~
-    questions: 0
-  N9661714:
-    letters: ~
-    questions: 0
-  N9661717:
-    letters: ~
-    questions: 0
-  N9661725:
-    letters: ~
-    questions: 0
-  N9661728:
-    letters: 210
-    questions: 1
-  N9661740:
-    letters: 110
-    questions: 0
-  N9661742:
-    letters: 210
-    questions: 0
-  N9661748:
-    letters: 178
-    questions: 1
-  T9722102:
-    letters: ~
-    questions: 0
-  T9722119:
-    letters: ~
-    questions: 0
-  U9611024:
-    letters: ~
-    questions: 0
-  U9614044:
-    letters: ~
-    questions: 0
-  U9714104:
-    letters: 179
-    questions: 0
-  U9714105:
-    letters: ~
-    questions: 0
-  U9714108:
-    letters: ~
-    questions: 0
-  U9714111:
-    letters: 180
-    questions: 1
-  U9714127:
-    letters: 174
-    questions: 0
-  U9714135:
-    letters: 184
-    questions: 0
-  U9714141:
-    letters: 184
-    questions: 0
-  U9722143:
-    letters: 210
-    questions: 1
-  U9822015:
-    letters: ~
-    questions: 0
-  U9822020:
-    letters: 161
-    questions: 0
-  U9824047:
-    letters: ~
-    questions: 0
-  U9824053:
-    letters: ~
-    questions: 0
-  U9824054:
-    letters: ~
-    questions: 0
-  V9741064:
-    letters: ~
-    questions: 0
+  K220155482:
+    letters: 310
+    percent: 100
+  M0210002:
+    letters: 285
+    percent: 100
+  U0016030:
+    letters: 0
+    percent: 0
+  U0016051:
+    letters: 0
+    percent: 0
+  U0017024:
+    letters: 131
+    percent: 46
+  U0018027:
+    letters: 0
+    percent: 0
+  U0018046:
+    letters: 225
+    percent: 84
+  U0031213:
+    letters: 0
+    percent: 0
+  U0042012:
+    letters: 0
+    percent: 0
+  U0042031:
+    letters: 0
+    percent: 0
+  U0042039:
+    letters: 0
+    percent: 0
+  U0042041:
+    letters: 0
+    percent: 0
+  U0042050:
+    letters: 259
+    percent: 85
+  U0043001:
+    letters: 281
+    percent: 100
+  U0043004:
+    letters: 233
+    percent: 80
+  U0043033:
+    letters: 273
+    percent: 98
+  U0122002:
+    letters: 283
+    percent: 100
+  U0142036:
+    letters: 0
+    percent: 0
+  U0142042:
+    letters: 0
+    percent: 0
+  U0222133:
+    letters: 0
+    percent: 0
+  U0222228:
+    letters: 22
+    percent: 8
+  U9911237:
+    letters: 287
+    percent: 100
+  U9911242:
+    letters: 284
+    percent: 100
+  U9917017:
+    letters: 0
+    percent: 0
+  U9923120:
+    letters: 265
+    percent: 91
+  U9923121:
+    letters: 0
+    percent: 0
+  U9943007:
+    letters: 299
+    percent: 99
