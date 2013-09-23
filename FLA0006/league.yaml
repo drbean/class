@@ -13,6 +13,12 @@ hwMax: 2
 id: 021FLA0006
 league: 夜應外大學四甲
 member:
+  - Chinese: 陳韋志
+    id: V9941077
+    name: Joe
+    password: wei
+    rating: ~
+  
   - Chinese: 吳李龍
     id: V9941060
     name: Leon
@@ -169,7 +175,7 @@ member:
   - Chinese: 林柏如
     id: V9941075
     name: Brenda
-    password: bai
+    password: bo
     rating: 37
 out:
   - Chinese: 沈冠宇
