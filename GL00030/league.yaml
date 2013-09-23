@@ -14,6 +14,17 @@ id: 012GL00030
 jigsaw: exam
 league: 日語文共同學制虛擬班二甲
 member:
+  - Chinese: 張舜閔
+    id: U0214007
+    name: Aron
+    password: shun
+    rating: ~
+  - Chinese: 陳??
+    id: U9816041
+    name: Chen
+    password: cheng
+    rating: ~
+  
   - Chinese: 湯明勳
     id: V9941010
     name: Robert
