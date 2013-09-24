@@ -15,11 +15,17 @@ id: 012FIA0046
 jigsaw: exam
 league: 育達 General English
 member:
-  - Chinese: 李柏宏
-    id: 102104027
-    name: Parker
-    password: bai
+  - Chinese: 張詠軒
+    id: 10240329
+    name: YongXuan
+    password: yong
     rating: ~
+  - Chinese: 謝志宏
+    id: 102404326
+    name: ZhiHong
+    password: zhi
+    rating: ~
+  
   - Chinese: 鄭涵憶
     id: 102403001
     name: Evonne
@@ -211,6 +217,11 @@ member:
     password: yi
     rating: ~
 out:
+  - Chinese: 李柏宏
+    id: 102104027
+    name: Parker
+    password: bai
+    rating: ~
 room: ydu-223
 scores:
   bye: 5
