@@ -48,7 +48,7 @@ member:
     rating: ~
   - Chinese: 李郁芬
     id: N99080092
-    name: 李郁芬
+    name: Amy2
     password: yu
     rating: ~
   - Chinese: 劉晨宇
@@ -83,7 +83,7 @@ member:
     rating: ~
   - Chinese: 徐瑋萱
     id: N01200008
-    name: 徐瑋萱
+    name: Kate
     password: wei
     rating: ~
   - Chinese: 徐禹婷
@@ -128,7 +128,7 @@ member:
     rating: ~
   - Chinese: 詹庭羽
     id: N01200023
-    name: 詹庭羽
+    name: Cathy
     password: ting
     rating: ~
   - Chinese: 李姿嫺
@@ -258,7 +258,7 @@ member:
     rating: ~
   - Chinese: 鄭巧柔
     id: N02202114
-    name: Amy
+    name: Amy1
     password: qiao
     rating: ~
 out:
