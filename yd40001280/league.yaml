@@ -211,7 +211,7 @@ member:
     password: yi
     rating: ~
 out:
-  room: ydu-223
+room: ydu-223
 scores:
   bye: 5
   draw: 4
