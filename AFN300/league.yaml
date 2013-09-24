@@ -138,12 +138,12 @@ member:
     rating: ~
   - Chinese: 魏雪如
     id: N00200034
-    name: 魏雪如
+    name: Fion
     password: xue
     rating: ~
   - Chinese: 彭成賓
     id: N00200036
-    name: 彭成賓
+    name: Champion
     password: cheng
     rating: ~
   - Chinese: 林昱瑤
@@ -203,7 +203,7 @@ member:
     rating: ~
   - Chinese: 郭姵妤
     id: N00200058
-    name: 郭姵妤
+    name: Peggy
     password: pei
     rating: ~
   - Chinese: 蕭巧薇
@@ -272,7 +272,7 @@ member:
     password: jun
     rating: ~
 out: ~
-room: feng_220
+room: feng_207
 school: must
 scores:
   bye: 5
