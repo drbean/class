@@ -1,34 +1,33 @@
 ---
 Black:
   absent: 
-  merits: 3
+  merits: 2
 Blue:
   absent: 
-  merits: 2
+    - Innocent
+  merits: 3
+
 Brown:
   absent: 
-  merits: 2
+    - Yan-Ting
+  merits: 3
 Gray:
   absent: 
-    - Edison
-  merits: 3
-Green:
-  absent: 
-    - Emily1
-  merits: 3
+    - Tea
+  merits: 2
+
 Orange:
   absent: 
-  merits: 2
+    - Vicki
+  merits: 3
 Pink:
   absent: 
-  merits: 3
+  merits: 2
+
 Purple:
   absent:
-    - Eva
   merits: 2
 Red:
   absent: 
+    - Lace
   merits: 3
-White:
-  absent: 
-  merits: 2
