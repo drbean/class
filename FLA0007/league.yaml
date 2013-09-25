@@ -13,6 +13,22 @@ hwMax: 3
 id: 021FLA0007
 league: 夜應外大學四甲
 member:
+  - Chinese: 李名婷
+    id: V0041032
+    name: Stephanie
+    password: ming
+    rating: ~
+  - Chinese: 李玉嘉
+    id: V0041052
+    name: Una
+    password: yu
+    rating: ~
+  - Chinese: 劉晏秀
+    id: V0141042
+    name: Christy
+    password: yan
+    rating: ~
+  
   - Chinese: 羅尹妮
     id: V9741022
     name: Nini
