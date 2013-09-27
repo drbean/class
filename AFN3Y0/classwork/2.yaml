@@ -1,46 +1,34 @@
 ---
-Green:
-  absent: 
-  merits: 3
 Black:
   absent: 
+    - Andy
   merits: 3
 
-Blue:
+Green:
   absent: 
-  merits: 3
-Brown:
-  absent: 
+    - Mindy
   merits: 3
 
-BlueBlue:
-  absent:
-  merits: 3
-BlackBlack:
-  absent: 
-  merits: 3
-
-White:
-  absent: 
-  merits: 3
 Orange:
   absent: 
+   - Dave
+   - MiuMiu
+  merits: 3
+
+BlackBlack:
+  absent:
+    - Neil
+    - Esther
   merits: 3
 
 Pink:
   absent: 
-  merits: 3
-Purple:
-  absent: 
+    - Carol
   merits: 3
 
-Red:
-  absent: 
-  merits: 3
 Yellow:
   absent: 
-  merits: 3
-
-OrangeOrange:
-  absent: 
+    - Alex
+    - Shane
+    - Lanna
   merits: 3
