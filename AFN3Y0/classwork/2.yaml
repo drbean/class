@@ -1,29 +1,23 @@
 ---
 Black:
   absent: 
-    - Andy
   merits: 3
 
 Green:
   absent: 
-    - Mindy
   merits: 3
 
 Orange:
   absent: 
    - Dave
-   - MiuMiu
   merits: 3
 
 BlackBlack:
   absent:
-    - Neil
-    - Esther
   merits: 3
 
 Pink:
   absent: 
-    - Carol
   merits: 3
 
 Yellow:
