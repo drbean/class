@@ -25,6 +25,11 @@ member:
     password: zi
     rating: ~
   
+  - Chinese: 王雅慧
+    id: N00200008
+    name: MiuMiu
+    password: ya
+    rating: ~
   - Chinese: 邱欣蘭
     id: N00200044
     name: Lanna
@@ -65,11 +70,6 @@ member:
     name: Mindy
     password: min
     rating: ~
-  - Chinese: 陳映如
-    id: N00200010
-    name: Tina
-    password: ying
-    rating: ~
   - Chinese: 張芯瑀
     id: N00200001
     name: Carlos
@@ -96,15 +96,15 @@ member:
     password: xiao
     rating: ~
 out:
+  - Chinese: 陳映如
+    id: N00200010
+    name: Tina
+    password: ying
+    rating: ~
   - Chinese: 江麗玲
     id: N00200006
     name: 江麗玲
     password: li
-    rating: ~
-  - Chinese: 王雅慧
-    id: N00200008
-    name: MiuMiu
-    password: ya
     rating: ~
   - Chinese: 彭為騰
     id: N00200013
