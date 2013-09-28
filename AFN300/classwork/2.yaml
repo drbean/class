@@ -1,46 +1,61 @@
 ---
-Green:
+1/1:
   absent: 
-  merits: 3
-Black:
-  absent: 
-  merits: 3
-
-Blue:
-  absent: 
-  merits: 3
-Brown:
+  merits: 2
+3/1:
   absent: 
   merits: 3
 
-BlueBlue:
-  absent:
-  merits: 3
-BlackBlack:
+1/2:
   absent: 
+  merits: 0
+2/1:
+  absent: 
+  merits: 0
+2/2:
+  absent: 
+  merits: 0
+3/2:
+  absent: 
+  merits: 0
+
+4/1:
+  absent: 
+    - Shane
+  merits: 3
+4/2:
+  absent: 
+    - Denise
+  merits: 3
+10/2:
+  absent: 
+  merits: 2
+
+11/1:
+  absent: 
+  merits: 3
+11/2:
+  absent: 
+  merits: 2
+
+9/1:
+  absent: 
+    - Katie
+  merits: 3
+12/1:
+  absent: 
+    - Emily
   merits: 3
 
-White:
+8/1:
   absent: 
-  merits: 3
-Orange:
+  merits: 0
+8/2:
   absent: 
-  merits: 3
-
-Pink:
+  merits: 0
+9/2:
   absent: 
-  merits: 3
-Purple:
+  merits: 0
+10/1:
   absent: 
-  merits: 3
-
-Red:
-  absent: 
-  merits: 3
-Yellow:
-  absent: 
-  merits: 3
-
-OrangeOrange:
-  absent: 
-  merits: 3
+  merits: 0
