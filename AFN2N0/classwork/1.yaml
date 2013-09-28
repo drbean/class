@@ -1,7 +1,6 @@
 ---
 Black:
   absent: 
-    - Nitro
   merits: 3
 Blue:
   absent: 
@@ -9,10 +8,9 @@ Blue:
 
 Brown:
   absent: 
-    - Cherry2
   merits: 3
 BlueBlue:
-  absent:
+  absent: 
   merits: 3
 
 Green:
@@ -20,16 +18,13 @@ Green:
   merits: 3
 BlackBlack:
   absent: 
-    - Louis
   merits: 3
 
 Orange:
   absent: 
-    - James
   merits: 3
 Pink:
   absent: 
-    - Ariel
   merits: 3
 
 Purple:
@@ -42,9 +37,10 @@ Red:
 Yellow:
   absent: 
   merits: 3
+White:
+  absent: 
+  merits: 3
 
 OrangeOrange:
   absent: 
-    - Eve
-    - Sonia
-  merits: 3
+  merits: 0
