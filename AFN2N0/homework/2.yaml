@@ -1,111 +1,203 @@
 ---
 cutpoints:
-  one: 20
-  two: 85
-exercise: 1st_impressions
+  one: ~
+  two: ~
+exercise: interview
 grade:
-  V9741022: 2
-  V9841002: 0
-  V9841008: 0
-  V9841031: 0
-  V9841042: 2
-  V9841049: 0
-  V9916050: 0
-  V9941003: 0
-  V9941007: 0
-  V9941011: 2
-  V9941013: 2
-  V9941015: 0
-  V9941023: 2
-  V9941026: 2
-  V9941029: 2
-  V9941032: 2
-  V9941036: 0
-  V9941040: 2
-  V9941045: 2
-  V9941047: 2
-  V9941050: 2
-  V9941059: 2
-  V9941062: 2
-  V9941068: 2
-  V9941071: 0
-  V9941075: 2
+  N00082007: 0
+  N01200002: 0
+  N01200006: 0
+  N01200008: 0
+  N01200009: 1.72
+  N01200010: 1.1
+  N01200014: 1.44
+  N01200015: 0
+  N01200016: 0
+  N01200018: 0
+  N01200020: 0
+  N01200021: 1.62
+  N01200023: 0
+  N01200024: 0.48
+  N01200025: 0
+  N01200026: 0
+  N01200028: 0
+  N01200029: 2
+  N01200030: 0
+  N01200033: 0
+  N01200035: 1.62
+  N01200038: 0
+  N01200041: 1.36
+  N01200042: 0
+  N01200044: 1.98
+  N01200045: 0
+  N01200046: 0
+  N01200048: 0
+  N01200049: 0
+  N01200051: 1.04
+  N01200056: 1.82
+  N01200058: 0.52
+  N02202101: 1.94
+  N02202104: 1.5
+  N02202106: 0
+  N02202107: 0
+  N02202110: 0
+  N02202111: 1.62
+  N02202112: 1.64
+  N02202113: 0
+  N02202114: 1.86
+  N96080091: 0
+  N97120058: 0
+  N97200033: 0.04
+  N97200035: 0
+  N97200045: 0
+  N99080062: 0
+  N99080075: 0
+  N99080092: 0
 points:
-  V9741022:
-    letters: 204
-    percent: 100
-  V9841002:
+  N00082007:
     letters: 0
     percent: 0
-  V9841008:
+  N01200002:
     letters: 0
     percent: 0
-  V9841031:
+  N01200006:
     letters: 0
     percent: 0
-  V9841042:
-    letters: 196
-    percent: 100
-  V9841049:
+  N01200008:
     letters: 0
     percent: 0
-  V9916050:
+  N01200009:
+    letters: 289
+    percent: 86
+  N01200010:
+    letters: 186
+    percent: 55
+  N01200014:
+    letters: 221
+    percent: 72
+  N01200015:
     letters: 0
     percent: 0
-  V9941003:
+  N01200016:
     letters: 0
     percent: 0
-  V9941007:
+  N01200018:
     letters: 0
     percent: 0
-  V9941011:
-    letters: 189
-    percent: 100
-  V9941013:
-    letters: 193
-    percent: 100
-  V9941015:
+  N01200020:
     letters: 0
     percent: 0
-  V9941023:
-    letters: 165
-    percent: 100
-  V9941026:
-    letters: 182
-    percent: 100
-  V9941029:
-    letters: 178
-    percent: 100
-  V9941032:
-    letters: 200
-    percent: 100
-  V9941036:
+  N01200021:
+    letters: 273
+    percent: 81
+  N01200023:
     letters: 0
     percent: 0
-  V9941040:
-    letters: 199
-    percent: 100
-  V9941045:
-    letters: 194
-    percent: 100
-  V9941047:
-    letters: 171
-    percent: 100
-  V9941050:
-    letters: 199
-    percent: 100
-  V9941059:
-    letters: 198
-    percent: 100
-  V9941062:
-    letters: 185
-    percent: 100
-  V9941068:
-    letters: 176
-    percent: 90
-  V9941071:
+  N01200024:
+    letters: 79
+    percent: 24
+  N01200025:
     letters: 0
     percent: 0
-  V9941075:
-    letters: 157
-    percent: 88
+  N01200026:
+    letters: 0
+    percent: 0
+  N01200028:
+    letters: 0
+    percent: 0
+  N01200029:
+    letters: 339
+    percent: 100
+  N01200030:
+    letters: 0
+    percent: 0
+  N01200033:
+    letters: 0
+    percent: 0
+  N01200035:
+    letters: 258
+    percent: 81
+  N01200038:
+    letters: 0
+    percent: 0
+  N01200041:
+    letters: 206
+    percent: 68
+  N01200042:
+    letters: 0
+    percent: 0
+  N01200044:
+    letters: 320
+    percent: 99
+  N01200045:
+    letters: 0
+    percent: 0
+  N01200046:
+    letters: 0
+    percent: 0
+  N01200048:
+    letters: 0
+    percent: 0
+  N01200049:
+    letters: 0
+    percent: 0
+  N01200051:
+    letters: 175
+    percent: 52
+  N01200056:
+    letters: 263
+    percent: 91
+  N01200058:
+    letters: 86
+    percent: 26
+  N02202101:
+    letters: 309
+    percent: 97
+  N02202104:
+    letters: 233
+    percent: 75
+  N02202106:
+    letters: 0
+    percent: 0
+  N02202107:
+    letters: 0
+    percent: 0
+  N02202110:
+    letters: 0
+    percent: 0
+  N02202111:
+    letters: 252
+    percent: 81
+  N02202112:
+    letters: 258
+    percent: 82
+  N02202113:
+    letters: 0
+    percent: 0
+  N02202114:
+    letters: 301
+    percent: 93
+  N96080091:
+    letters: 0
+    percent: 0
+  N97120058:
+    letters: 0
+    percent: 0
+  N97200033:
+    letters: 7
+    percent: 2
+  N97200035:
+    letters: 0
+    percent: 0
+  N97200045:
+    letters: 0
+    percent: 0
+  N99080062:
+    letters: 0
+    percent: 0
+  N99080075:
+    letters: 0
+    percent: 0
+  N99080092:
+    letters: 0
+    percent: 0
