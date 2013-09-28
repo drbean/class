@@ -1,44 +1,69 @@
 ---
-Green:
-  absent: 
-  merits: 3
 Black:
   absent: 
+    - Grace
+    - David
   merits: 3
-
 Blue:
   absent: 
-  merits: 3
-Brown:
-  absent: 
+    - Samantha
+    - Jason
   merits: 3
 
+Brown:
+  absent: 
+    - Elvira
+    - Fang
+  merits: 3
 BlueBlue:
-  absent:
+  absent: 
+    - Ted
+    - Apple
+  merits: 3
+
+Green:
+  absent: 
+    - Joanne1
   merits: 3
 BlackBlack:
   absent: 
+    - Mira
   merits: 3
 
-White:
-  absent: 
-  merits: 3
 Orange:
   absent: 
+    - Lucia
+    - Devon
   merits: 3
-
 Pink:
   absent: 
-  merits: 3
+    - Esme
+    - Emily
+    - Kelly
+  merits: 0
+
 Purple:
   absent: 
-  merits: 3
-
+    - Danny
+    - Christy
+    - Tracy
+  merits: 0
 Red:
   absent: 
+    - Doni
+    - Bill
   merits: 3
+
 Yellow:
   absent: 
+    - Corey
+    - Ruby
+    - Larry
+  merits: 0
+White:
+  absent: 
+    - Helen1
+    - Penny
   merits: 3
 
 OrangeOrange:
