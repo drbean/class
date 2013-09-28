@@ -9,16 +9,23 @@ grade:
   N00200009: 1.3
   N00200017: 0
   N00200025: 0
+  N00200029: 0.54
   N00200030: 1.88
-  N00200037: 0
+  N00200031: 0
+  N00200034: 0
+  N00200036: 0
+  N00200037: 1.46
   N00200042: 0
-  N00200044: 0
+  N00200051: 0
   N00200054: 1.46
   N00200055: 0
   N00200056: 2
+  N00203002: 0
   N01202001: 0
   N01202004: 0
   N01203003: 0
+  N0200043: 0
+  N02202113: 0
   N96200030: 0
 points:
   N00200001:
@@ -36,16 +43,28 @@ points:
   N00200025:
     letters: 0
     percent: 0
+  N00200029:
+    letters: 85
+    percent: 27
   N00200030:
     letters: 271
     percent: 94
-  N00200037:
+  N00200031:
     letters: 0
     percent: 0
+  N00200034:
+    letters: 0
+    percent: 0
+  N00200036:
+    letters: 0
+    percent: 0
+  N00200037:
+    letters: 212
+    percent: 73
   N00200042:
     letters: 0
     percent: 0
-  N00200044:
+  N00200051:
     letters: 0
     percent: 0
   N00200054:
@@ -57,6 +76,9 @@ points:
   N00200056:
     letters: 323
     percent: 100
+  N00203002:
+    letters: 0
+    percent: 0
   N01202001:
     letters: 0
     percent: 0
@@ -64,6 +86,12 @@ points:
     letters: 0
     percent: 0
   N01203003:
+    letters: 0
+    percent: 0
+  N0200043:
+    letters: 0
+    percent: 0
+  N02202113:
     letters: 0
     percent: 0
   N96200030:
