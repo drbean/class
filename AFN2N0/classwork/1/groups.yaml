@@ -8,7 +8,7 @@ BlackBlack:
   - Jim
   - Mira
 Blue:
-  - Joannne
+  - Joannne2
   - Samantha
   - Jason
 Brown:
@@ -22,11 +22,11 @@ BrownBrown:
 BlueBlue:
   - Ted
   - Apple
-  - Amy
+  - Amy2
 Green:
   - Helen2
   - Dara
-  - Joanne
+  - Joanne1
 Orange:
   - Peter
   - Lucia
@@ -51,4 +51,8 @@ Yellow:
   - Corey
   - Ruby
   - Larry
+OrangeOrange:
+  - Cathy
+  - Amy1
+  - Kate
 
