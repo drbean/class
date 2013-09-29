@@ -14,6 +14,28 @@ id: AFN300
 jigsaw: exam
 league: NAF031_四技外三甲_必修_2
 member:
+  - Chinese: 郭駿緯 
+    id: N99030033 
+    name: Jerry
+    password: jun
+    rating: ~
+  - Chinese: 鄭瑞昇
+    id: N01202105 
+    name: Allen
+    password: rui
+    rating: ~
+            
+  - Chinese: 余岱蓉 
+    id: N00200045 
+    name: Yuki
+    password: cha
+    rating: ~
+  - Chinese: Cindy
+    id: Cindy
+    name: Cindy
+    password: Cindy
+    rating: ~
+  
   - Chinese: 李桂英
     id: N00120056
     name: Ally
