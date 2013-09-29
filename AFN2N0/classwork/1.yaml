@@ -17,6 +17,9 @@ BrownBrown:
   absent:
   merits: 3
 
+Gray:
+  merits: 0
+
 Green:
   absent: 
   merits: 3

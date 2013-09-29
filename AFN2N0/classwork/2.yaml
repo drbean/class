@@ -27,6 +27,9 @@ BrownBrown:
     - Rory
   merits: 3
 
+Gray:
+  merits: 0
+
 Green:
   absent: 
     - Joanne1
