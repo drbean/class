@@ -14,6 +14,27 @@ id: AFN2N0
 jigsaw: exam
 league: NAF021_四技外二甲_選修_2
 member:
+  - Chinese: 范思惟
+    id: B00200054
+    name: Wade
+    password: si
+    rating: ~
+  - Chinese: 江佳璇
+    id: N01200046 
+    name: Erica
+    password: jia
+    rating: ~
+  - Chinese: 葉淑玲
+    id: N01200026 
+    name: Betty
+    password: shu
+    rating: ~
+  - Chinese: 徐禹婷
+    id: N01200009
+    name: Olivia
+    password: yu
+    rating: ~
+ 
   - Chinese: 戴??
     id: N01200030
     name: Rory
