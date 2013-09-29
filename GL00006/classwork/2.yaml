@@ -12,6 +12,8 @@ Blue:
   merits: 3
 Brown:
   absent: 
+    - Kevin
+    - Elizabeth
   merits: 2
 
 Orange:
