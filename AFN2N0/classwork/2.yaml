@@ -21,6 +21,12 @@ BlueBlue:
     - Apple
   merits: 3
 
+BrownBrown:
+  absent: 
+    - Justin
+    - Rory
+  merits: 3
+
 Green:
   absent: 
     - Joanne1
