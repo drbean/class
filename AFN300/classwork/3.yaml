@@ -1,54 +1,82 @@
 ---
-Black:
+1/1:
   absent: 
-  merits:    3
-Blue:
-  absent:    
-    - Olivia
-  merits:    3
+    - Betty
+  merits: 3
+2/1:
+  absent: 
+    - Kelly1
+  merits: 2
 
-Brown:
-  absent:    
-    - Amber
-  merits:    3
-BlueBlue:
-  absent:
-    - Nora
-  merits:    3
+1/2:
+  absent: 
+    - Dora
+  merits: 2
+2/2:
+  absent: 
+  merits: 3
 
-Green:
-  absent:    
-    - Zona
-  merits:    3
-BlackBlack:
-  absent:    
-    - Cherry1
-  merits:    3
+3/1:
+  absent: 
+    - Carlos
+  merits: 3
+4/1:
+  absent: 
+  merits: 2
 
-Orange:
-  absent:    
-    - James
-  merits:    3
-Pink:
-  absent:    
-    - Senna
-    - Vivian
-  merits:    3
+3/2:
+  absent: 
+  merits: 2
+4/2:
+  absent: 
+  merits: 2
 
-Purple:
-  absent:    
-    - Elaine
-    - Peggy
-  merits:    3
-Red:
-  absent:    
-  merits:    3
+8/1:
+  absent: 
+  merits: 3
+9/1:
+  absent: 
+  merits: 2
 
-Yellow:
-  absent:    
-  merits:    3
+8/2:
+  absent: 
+  merits: 2
+9/2:
+  absent: 
+  merits: 3
 
-OrangeOrange:
-  absent:    
-    - Evy
-  merits:    3
+10/1:
+  absent: 
+  merits: 2
+12/1:
+  absent: 
+    - Crown
+  merits: 3
+
+10/2:
+  absent: 
+  merits: 3
+12/2:
+  absent: 
+    - Don
+  merits: 2
+
+13/1:
+  absent: 
+  merits: 3
+11/1:
+  absent: 
+    - Ben
+  merits: 2
+
+11/2:
+  absent: 
+  merits: 2
+
+13/2:
+  absent: 
+  merits: 3
+5/1:
+  absent: 
+  merits: 2
+
