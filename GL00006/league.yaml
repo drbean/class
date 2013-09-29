@@ -50,16 +50,6 @@ member:
     name: Chung-Wei
     password: jung
     rating: ~
-  - Chinese: 黃理偉
-    id: U0142042
-    name: Kim
-    password: li
-    rating: ~
-  - Chinese: 楊苑羚
-    id: U0142036
-    name: Phoebe
-    password: yuan
-    rating: ~
   - Chinese: 洪崇沼
     id: U0222133
     name: Dave
@@ -174,6 +164,16 @@ member:
     password: fang
     rating: ~
 out:
+  - Chinese: 楊苑羚
+    id: U0142036
+    name: Phoebe
+    password: yuan
+    rating: ~
+  - Chinese: 黃理偉
+    id: U0142042
+    name: Kim
+    password: li
+    rating: ~
   - Chinese: 許富強
     id: U9914113
     name: 許富強
