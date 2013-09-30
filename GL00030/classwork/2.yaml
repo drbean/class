@@ -4,11 +4,12 @@ Green:
   merits: 3
 Pink:
   absent: 
-    - Robert
   merits: 3
 
 BlackBlack:
   absent: 
+    - Chen
+    - Aron
   merits: 3
 Orange:
   absent: 
