@@ -25,11 +25,6 @@ member:
     password: cheng
     rating: ~
   
-  - Chinese: 湯明勳
-    id: V9941010
-    name: Robert
-    password: ming
-    rating: 73
   - Chinese: 林泓毅
     id: U0214036
     name: HongYi
@@ -39,11 +34,6 @@ member:
     id: U0131034
     name: Holly
     password: qing
-    rating: ~
-  - Chinese: 王秉亮
-    id: U9923150
-    name: Liang
-    password: bing
     rating: ~
   
   - Chinese: 卓羿廷
@@ -77,6 +67,16 @@ member:
     password: jian
     rating: ~
 out:
+  - Chinese: 王秉亮
+    id: U9923150
+    name: Liang
+    password: bing
+    rating: ~
+  - Chinese: 湯明勳
+    id: V9941010
+    name: Robert
+    password: ming
+    rating: 73
   - Chinese: 林秀玲
     id: U0131040
     name: 林秀玲
