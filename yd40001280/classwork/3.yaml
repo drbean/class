@@ -1,74 +1,63 @@
 ---
-# assistants:
-# no stories from Leo2
-YellowYellow:
-  absent:    
-  tardy:
-    - Leo2
-  merits:    3
-
 Black:
-  absent:    
-  merits:    3
+  absent: 
+    - Tina
+  merits: 2
 Blue:
-  absent:    
-  merits:    2
+  absent: 
+  merits: 3
 
 Brown:
-  absent:    
-    - Frank
-  merits:    3
-Gray:
-  absent:    
-  merits:    2
-
-Green:
-  absent:    
-    - Ken
-  merits:    3
-BlackBlack:
-  absent:    
-    - Louis
-  merits:    2
-
+  absent: 
+  merits: 2
 BlueBlue:
-  absent:    
-  tardy:
-    - Hugh
-  merits:    2
-GreenGreen:
-  absent:    
-    - Woodstock
-  merits:    3
+  absent: 
+  merits: 2
+
+Gray:
+  absent: 
+  merits: 3
+
+BlackBlack:
+  absent: 
+  merits: 2
+Green:
+  absent: 
+    - GenWei
+  merits: 3
+
+BrownBrown:
+  absent: 
+  merits: 0
 
 Orange:
   absent:
-  merits:    3
+  merits: 3
 Pink:
-  absent:    
-    - Amber
-  merits:    2
+  absent: 
+    - Jack1
+    - Marjorie
+  merits: 3
 
 Purple:
-  absent:    
-  merits:    3
+  absent: 
+  merits: 3
 Red:
-  absent:    
-  merits:    2
+  absent: 
+    - Zoo
+  merits: 3
 
 White:
-  absent:    
-  merits:    3
-Yellow:
-  absent:    
-    - Jessy
-  merits:    2
+  absent: 
+    - Parker
+    - James
+  merits: 3
 
+Yellow:
+  absent: 
+    - Vicky
+    - Jenny
+  merits: 2
 OrangeOrange:
   absent:
-    - Orange
-  merits:    2
-PurplePurple:
-  absent:    
-    - Brook
-  merits:    3
+  merits: 3
