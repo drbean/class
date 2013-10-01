@@ -9,11 +9,9 @@ Blue:
 
 Brown:
   absent: 
-    - Yan-Ting
   merits: 3
 Gray:
   absent: 
-    - Tea
   merits: 2
 
 Orange:
@@ -29,5 +27,4 @@ Purple:
   merits: 2
 Red:
   absent: 
-    - Lace
   merits: 3
