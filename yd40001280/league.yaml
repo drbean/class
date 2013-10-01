@@ -15,10 +15,17 @@ id: 40001280
 jigsaw: exam
 league: 育達 General English
 member:
-  - Chinese: 張詠軒
-    id: 10240329
-    name: YongXuan
-    password: yong
+
+  - Chinese: 周華庭
+    id: 100406006
+    name: Cain
+    password: hua
+    rating: ~
+  
+  - Chinese: 李柏宏
+    id: 102104027
+    name: Parker
+    password: bai
     rating: ~
   - Chinese: 謝志宏
     id: 102404326
@@ -217,10 +224,10 @@ member:
     password: yi
     rating: ~
 out:
-  - Chinese: 李柏宏
-    id: 102104027
-    name: Parker
-    password: bai
+  - Chinese: 張詠軒
+    id: 10240329
+    name: YongXuan
+    password: yong
     rating: ~
 room: ydu-223
 scores:
