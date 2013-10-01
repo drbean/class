@@ -15,7 +15,11 @@ id: 40001280
 jigsaw: exam
 league: 育達 General English
 member:
-
+  - Chinese: 陳子瑜
+    id: 102405328
+    name: Jack2
+    password: zi
+    rating: ~
   - Chinese: 周華庭
     id: 100406006
     name: Cain
@@ -171,7 +175,7 @@ member:
     rating: ~
   - Chinese: 黃威愷
     id: 102404328
-    name: Jack
+    name: Jack1
     password: wei
     rating: ~
   - Chinese: 鍾宜臻
