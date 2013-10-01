@@ -13,6 +13,12 @@ hwMax: 2
 id: 021FLA0006
 league: 夜應外大學四甲
 member:
+  - Chinese: 劉建平
+    id: V9841011
+    name: Leo
+    password: jian
+    rating: ~
+  
   - Chinese: 陳韋志
     id: V9941077
     name: Joe
