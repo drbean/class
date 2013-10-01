@@ -21,6 +21,12 @@ member:
     name: Cain
     password: hua
     rating: ~
+  - Chinese: 陳孟煒
+    id: 102403136
+    name: Tony
+    password: meng
+    rating: ~
+  
   
   - Chinese: 李柏宏
     id: 102104027
