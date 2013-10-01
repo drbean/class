@@ -50,10 +50,10 @@ member:
     name: Chung-Wei
     password: jung
     rating: ~
-  - Chinese: 洪崇沼
+  - Chinese: 洪崇洺
     id: U0222133
     name: Dave
-    password: chung
+    password: chong
     rating: ~
   - Chinese: 楊聖
     id: U9917017
@@ -64,11 +64,6 @@ member:
     id: U0222228
     name: Li-Ting
     password: li
-    rating: ~
-  - Chinese: 胡亞微
-    id: U0016051
-    name: Wei
-    password: ya
     rating: ~
   - Chinese: 洪珮其
     id: U9923121
@@ -93,11 +88,6 @@ member:
     password: yi
     rating: ~
 
-  - Chinese: 蔡欣儒
-    id: U0016030
-    name: Emily
-    password: xin
-    rating: ~
   - Chinese: 王志睿
     id: U0017024
     name: Rick
@@ -112,11 +102,6 @@ member:
     id: U0018046
     name: Regina
     password: jia
-    rating: ~
-  - Chinese: 陳靖宜
-    id: U0042039
-    name: Gina
-    password: jing
     rating: ~
   - Chinese: 向垣蓉
     id: U0042050
@@ -164,6 +149,21 @@ member:
     password: fang
     rating: ~
 out:
+  - Chinese: 陳靖宜
+    id: U0042039
+    name: Gina
+    password: jing
+    rating: ~
+  - Chinese: 胡亞微
+    id: U0016051
+    name: Wei
+    password: ya
+    rating: ~
+  - Chinese: 蔡欣儒
+    id: U0016030
+    name: Emily
+    password: xin
+    rating: ~
   - Chinese: 楊苑羚
     id: U0142036
     name: Phoebe
