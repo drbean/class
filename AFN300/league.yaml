@@ -31,9 +31,9 @@ member:
     password: cha
     rating: ~
   - Chinese: Cindy
-    id: Cindy
+    id: N00000000
     name: Cindy
-    password: Cindy
+    password: ci
     rating: ~
   
   - Chinese: 李桂英
