@@ -15,6 +15,10 @@ Brown:
   absent: 
   merits: 0
 
+Pink:
+  absent: 
+  merits: 0
+
 Orange:
   absent: 
     - Scotter
