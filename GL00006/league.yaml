@@ -14,140 +14,136 @@ id: 012GL00006
 jigsaw: exam
 league: 日語文共同學制虛擬班二甲
 member:
-  - Chinese: 劉又嘉
-    id: U9842014
-    name: Sunny
-    password: you
-    rating: ~
-  - Chinese: 將玉華
-    id: U9943019
-    name: Luisa
-    password: yu
-    rating: ~
-  - Chinese: 羅仁德
-    id: U0016008
-    name: Kevin
-    password: ren
-    rating: ~
-  - Chinese: 張琪?
-    id: U0142030
-    name: Elizabeth
-    password: qi
-    rating: ~
-  
-  - Chinese: 陳紹順
-    id: U0042012
-    name: Danny
-    password: shao
-    rating: ~
-  - Chinese: 辛昆星
-    id: U0042041
-    name: KungHsing
-    password: kun
-    rating: ~
-  - Chinese: 陳忠偉
-    id: U0042031
-    name: Chung-Wei
-    password: jung
-    rating: ~
-  - Chinese: 洪崇洺
-    id: U0222133
-    name: Dave
-    password: chong
-    rating: ~
-  - Chinese: 楊聖
-    id: U9917017
-    name: Scotter
-    password: sheng
-    rating: ~
-  - Chinese: 林立婷
-    id: U0222228
-    name: Li-Ting
-    password: li
-    rating: ~
-  - Chinese: 洪珮其
-    id: U9923121
-    name: Penny
-    password: pei
-    rating: ~
-  
-  
-  - Chinese: 吳肇茗
-    id: U0031213
-    name: Maddy
-    password: zhao
-    rating: ~
-  - Chinese: 褚春美
-    id: M0210002
-    name: Moomin
-    password: chun
-    rating: ~
-  - Chinese: 林沂慧
-    id: K220155482
-    name: Angela
-    password: yi
-    rating: ~
-
-  - Chinese: 王志睿
-    id: U0017024
-    name: Rick
-    password: zhi
-    rating: ~
   - Chinese: 林珈羽
     id: U0018027
     name: Tracy
     password: jia
-    rating: ~
-  - Chinese: 楊佳宜
-    id: U0018046
-    name: Regina
-    password: jia
-    rating: ~
+    rating: 40
   - Chinese: 向垣蓉
     id: U0042050
     name: Amy
     password: yuan
-    rating: ~
-  - Chinese: 張雅芬
-    id: U0043001
-    name: Tiffany
-    password: ya
-    rating: ~
-  - Chinese: 陳嬿羽
-    id: U0043004
-    name: Mia
-    password: yan
-    rating: ~
+    rating: 72
+  - Chinese: 王志睿
+    id: U0017024
+    name: Rick
+    password: zhi
+    rating: 49
   - Chinese: 陳佩暄
     id: U0043033
     name: Peggy
     password: pei
-    rating: ~
-  - Chinese: 陳蓉萱
-    id: U0122002
-    name: Gillian
-    password: rong
-    rating: ~
+    rating: 64
+  - Chinese: 羅仁德
+    id: U0016008
+    name: Kevin
+    password: ren
+    rating: 13
+  - Chinese: 林沂慧
+    id: K220155482
+    name: Angela
+    password: yi
+    rating: 80
   - Chinese: 湯光煜
     id: U9911237
     name: Yukin
     password: guang
-    rating: ~
-  - Chinese: 陳柏合
-    id: U9911242
-    name: Simon
-    password: bo
-    rating: ~
+    rating: 56
+  - Chinese: 辛昆星
+    id: U0042041
+    name: KungHsing
+    password: kun
+    rating: 27
+  - Chinese: 褚春美
+    id: M0210002
+    name: Moomin
+    password: chun
+    rating: 56
+  - Chinese: 將玉華
+    id: U9943019
+    name: Luisa
+    password: yu
+    rating: 13
+  - Chinese: 張雅芬
+    id: U0043001
+    name: Tiffany
+    password: ya
+    rating: 78
+  - Chinese: 洪崇洺
+    id: U0222133
+    name: Dave
+    password: chong
+    rating: 22
+  - Chinese: 劉又嘉
+    id: U9842014
+    name: Sunny
+    password: you
+    rating: 13
+  - Chinese: 吳肇茗
+    id: U0031213
+    name: Maddy
+    password: zhao
+    rating: 36
   - Chinese: 吳冠甫
     id: U9923120
     name: Lance
     password: guan
-    rating: ~
+    rating: 76
+  - Chinese: 楊聖
+    id: U9917017
+    name: Scotter
+    password: sheng
+    rating: 40
+  - Chinese: 陳忠偉
+    id: U0042031
+    name: Chung-Wei
+    password: jung
+    rating: 13
+  - Chinese: 張琪?
+    id: U0142030
+    name: Elizabeth
+    password: qi
+    rating: 13
+  - Chinese: 陳柏合
+    id: U9911242
+    name: Simon
+    password: bo
+    rating: 56
+  - Chinese: 楊佳宜
+    id: U0018046
+    name: Regina
+    password: jia
+    rating: 52
   - Chinese: 林芳瑩
     id: U9943007
     name: Carolyn
     password: fang
-    rating: ~
+    rating: 60
+  - Chinese: 洪珮其
+    id: U9923121
+    name: Penny
+    password: pei
+    rating: 39
+  - Chinese: 林立婷
+    id: U0222228
+    name: Li-Ting
+    password: li
+    rating: 62
+  - Chinese: 陳紹順
+    id: U0042012
+    name: Danny
+    password: shao
+    rating: 27
+  - Chinese: 陳蓉萱
+    id: U0122002
+    name: Gillian
+    password: rong
+    rating: 60
+  - Chinese: 陳嬿羽
+    id: U0043004
+    name: Mia
+    password: yan
+    rating: 53
 out:
   - Chinese: 陳靖宜
     id: U0042039
