@@ -35,21 +35,6 @@ member:
     password: yu
     rating: ~
  
-  - Chinese: 戴??
-    id: N01200030
-    name: Rory
-    password: ?
-    rating: ~
-  - Chinese: 劉怡甄
-    id: N02202107
-    name: Tracy
-    password: yi
-    rating: ~
-  - Chinese: 彭聖仁 
-    id: N99080062
-    name: Jason
-    password: sheng
-    rating: ~
   
 
   - Chinese: 羅芳鋙
@@ -86,11 +71,6 @@ member:
     id: N97200033
     name: Kelly
     password: qian
-    rating: ~
-  - Chinese: 劉宇凡
-    id: N97200045
-    name: 劉宇凡
-    password: yu
     rating: ~
   - Chinese: 范芝喬
     id: N01200002
@@ -283,6 +263,26 @@ member:
     password: qiao
     rating: ~
 out:
+  - Chinese: 劉怡甄
+    id: N02202107
+    name: Tracy
+    password: yi
+    rating: ~
+  - Chinese: 戴??
+    id: N01200030
+    name: Rory
+    password: ?
+    rating: ~
+  - Chinese: 劉宇凡
+    id: N97200045
+    name: 劉宇凡
+    password: yu
+    rating: ~
+  - Chinese: 彭聖仁 
+    id: N99080062
+    name: Jason
+    password: sheng
+    rating: ~
   - Chinese: 曾靜如
     id: N01200005
     name: Grace
