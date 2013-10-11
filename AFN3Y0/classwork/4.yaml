@@ -1,37 +1,33 @@
 ---
-# topic: Marriage problems
+# topic: Dictation
 
 Black:
   absent: 
-  merits: 2
+    - Andy
+  merits: 3
 Green:
   absent: 
-  merits: 3
+  merits: 2
 
 Blue:
   absent: 
-    - Jibson
-  merits: 3
+  merits: 2
 BlackBlack:
   absent: 
-  merits: 2
-
-# joined Blue, Pink
-BlueBlue:
-  absent:
-  merits: 2.5
-
-Orange:
-  absent: 
-  merits: 2
-White:
-  absent: 
   merits: 3
 
-Pink:
+# no card
+Orange:
   absent: 
-    - Yan-ting
+    - MiuMiu
   merits: 2
 Yellow:
+  absent: 
+  merits: 2
+
+Purple:
+  absent: 
+  merits: 2
+Pink:
   absent: 
   merits: 3
