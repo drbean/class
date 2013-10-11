@@ -41,21 +41,6 @@ member:
     name: Ally
     password: guei
     rating: ~
-  - Chinese: 鐘元君
-    id: N98200021
-    name: Neo
-    password: yuan
-    rating: ~
-  - Chinese: 張君鈺
-    id: N99100009
-    name: Claire
-    password: jun
-    rating: ~
-  - Chinese: 鄧茜久
-    id: N97200033
-    name: Kelly2
-    password: qian
-    rating: ~
   
   - Chinese: 張嘉晏
     id: N00202103
@@ -98,11 +83,6 @@ member:
     name: Tina
     password: ying
     rating: ~
-  - Chinese: 彭為騰
-    id: N00200013
-    name: 彭為騰
-    password: wei
-    rating: ~
   - Chinese: 羅莉玲
     id: N00200014
     name: Bunny
@@ -117,11 +97,6 @@ member:
     id: N00200017
     name: Andy
     password: xin
-    rating: ~
-  - Chinese: 曾孟妍
-    id: N00200018
-    name: 曾孟妍
-    password: meng
     rating: ~
   - Chinese: 胡文瑄
     id: N00200022
@@ -193,11 +168,6 @@ member:
     name: 余岱蓉
     password: dai
     rating: ~
-  - Chinese: 陳俊生
-    id: N00200047
-    name: 陳俊生
-    password: jun
-    rating: ~
   - Chinese: 葉俞萱
     id: N00200048
     name: 葉俞萱
@@ -258,11 +228,6 @@ member:
     name: Jeff
     password: zhen
     rating: ~
-  - Chinese: 詹益昌
-    id: N01202104
-    name: 詹益昌
-    password: yi
-    rating: ~
   - Chinese: 鄭瑞昇
     id: N01202105
     name: 鄭瑞昇
@@ -293,7 +258,42 @@ member:
     name: 郭駿緯
     password: jun
     rating: ~
-out: ~
+out:
+  - Chinese: 張君鈺
+    id: N99100009
+    name: Claire
+    password: jun
+    rating: ~
+  - Chinese: 鐘元君
+    id: N98200021
+    name: Neo
+    password: yuan
+    rating: ~
+  - Chinese: 鄧茜久
+    id: N97200033
+    name: Kelly2
+    password: qian
+    rating: ~
+  - Chinese: 詹益昌
+    id: N01202104
+    name: 詹益昌
+    password: yi
+    rating: ~
+  - Chinese: 陳俊生
+    id: N00200047
+    name: 陳俊生
+    password: jun
+    rating: ~
+  - Chinese: 曾孟妍
+    id: N00200018
+    name: 曾孟妍
+    password: meng
+    rating: ~
+  - Chinese: 彭為騰
+    id: N00200013
+    name: 彭為騰
+    password: wei
+    rating: ~
 room: feng-223
 school: must
 scores:
