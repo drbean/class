@@ -1,26 +1,50 @@
 ---
-round: 1
-week: 1
-absent:
-text: 
 activity:
-  drbean:
-    1:
-      -
-        White: N9661740
-        Black: U9714104
-      -
-        White: N9532037
-        Black: U9714127
-      -
-        White: U9714141
-        Black: U9822020
-      -
-        White: U9822015
-        Black: U9714135
-      -
-        White: T9722119
-        Black: U9714111
-      -
-        White: N9661742
-        Black: N9661748
+  0:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+assistant: ~
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: U0043004
+    Black: U9943019
+  1:
+    White: U0122002
+    Black: U0222133
+  2:
+    White: U0042041
+    Black: U9943007
+  3:
+    White: U0222228
+    Black: U0042012
+  4:
+    White: U9923121
+    Black: U0043033
+  5:
+    White: U0042050
+    Black: U0018027
+  6:
+    White: U9917017
+    Black: U9923120
+  7:
+    White: U0043001
+    Black: U0018046
+  8:
+    White: U0017024
+    Black: K220155482
+late:
+pairing: swiss
+payprotocol: meritPay
+round: 1
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 5
