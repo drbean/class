@@ -1,0 +1,99 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: abreu
+grade:
+  K220155482: 2
+  M0210002: 2
+  U0017024: 1.98
+  U0018027: 1.94
+  U0018046: 1.8
+  U0031213: 0
+  U0042012: 0
+  U0042031: 0
+  U0042041: 1.84
+  U0042050: 1.92
+  U0043001: 2
+  U0043004: 1.82
+  U0043033: 1.88
+  U0122002: 2
+  U0222133: 0
+  U0222228: 2
+  U9911237: 2
+  U9911242: 2
+  U9917017: 0
+  U9923120: 1.68
+  U9923121: 1.8
+  U9943007: 1.76
+  U9943019: 0
+points:
+  K220155482:
+    letters: 287
+    percent: 100
+  M0210002:
+    letters: 281
+    percent: 100
+  U0017024:
+    letters: 266
+    percent: 99
+  U0018027:
+    letters: 238
+    percent: 97
+  U0018046:
+    letters: 256
+    percent: 90
+  U0031213:
+    letters: 0
+    percent: 0
+  U0042012:
+    letters: 0
+    percent: 0
+  U0042031:
+    letters: 0
+    percent: 0
+  U0042041:
+    letters: 242
+    percent: 92
+  U0042050:
+    letters: 258
+    percent: 96
+  U0043001:
+    letters: 306
+    percent: 100
+  U0043004:
+    letters: 244
+    percent: 91
+  U0043033:
+    letters: 250
+    percent: 94
+  U0122002:
+    letters: 283
+    percent: 100
+  U0222133:
+    letters: 0
+    percent: 0
+  U0222228:
+    letters: 320
+    percent: 100
+  U9911237:
+    letters: 274
+    percent: 100
+  U9911242:
+    letters: 279
+    percent: 100
+  U9917017:
+    letters: 0
+    percent: 0
+  U9923120:
+    letters: 247
+    percent: 84
+  U9923121:
+    letters: 254
+    percent: 90
+  U9943007:
+    letters: 238
+    percent: 88
+  U9943019:
+    letters: 0
+    percent: 0
