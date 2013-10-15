@@ -15,6 +15,12 @@ id: 40001280
 jigsaw: exam
 league: 育達 General English
 member:
+  - Chinese: 李孟軒
+    id: 102405435
+    name: MengXuan
+    password: meng
+    rating: ~
+  
   - Chinese: 陳子瑜
     id: 102405328
     name: Jack2
@@ -135,7 +141,7 @@ member:
     rating: ~
   - Chinese: 王教儒
     id: 102404201
-    name: Zoo
+    name: Lai
     password: jiao
     rating: ~
   - Chinese: 余櫻俊
@@ -260,5 +266,5 @@ session:
   5: 16
 weights:
   classwork: 40
-  exams: 20
-  homework: 40
+  exams: 60
+  homework: 0
