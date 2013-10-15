@@ -16,6 +16,7 @@ BlueBlue:
 
 Gray:
   absent: 
+    - MengXuan
   merits: 3
 
 BlackBlack:
@@ -44,7 +45,7 @@ Purple:
   merits: 3
 Red:
   absent: 
-    - Zoo
+    - Lai
   merits: 3
 
 White:

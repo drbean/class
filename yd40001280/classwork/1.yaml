@@ -11,7 +11,10 @@ Brown:
   merits: 3
 Gray:
   absent: 
-  merits: 3
+    - Cain
+    - Jack1
+    - MengXuan
+  merits: 0
 
 BlackBlack:
   absent: 
@@ -46,4 +49,9 @@ White:
   merits: 3
 Yellow:
   absent: 
+  merits: 3
+
+OrangeOrange:
+  absent: 
+    - Tony
   merits: 3
