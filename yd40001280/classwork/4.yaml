@@ -1,9 +1,5 @@
 ---
-Sam:
-  absent:
-  merits: 3
-
-GreenGreen:
+Green:
   absent:
   merits: 3
 Black:
@@ -12,17 +8,14 @@ Black:
 
 Blue:
   absent: 
-  merits: 3
+  merits: 2
 Brown:
   absent: 
-  merits: 2
+  merits: 3
 
 Gray:
   absent: 
   merits: 2
-Green:
-  absent: 
-  merits: 3
 
 BlackBlack:
   absent: 
@@ -33,33 +26,28 @@ BlueBlue:
 
 Pink:
   absent: 
-  merits: 2
+  merits: 3
 Purple:
   absent: 
-  merits: 3
+  merits: 2
 
 Red:
   absent: 
-  merits: 2
-White:
-  absent: 
   merits: 3
-
+BrownBrown:
+  absent: 
+  merits: 2
 Yellow:
   absent: 
   merits: 2
-PinkPink:
+
+White:
   absent: 
   merits: 3
-
-PurplePurple:
+Orange:
   absent: 
   merits: 2
-YellowYellow:
-  absent:
-  merits: 3
 
-# assistants
-Orange:
+OrangeOrange:
   absent: 
   merits: 3
