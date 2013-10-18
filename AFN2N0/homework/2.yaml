@@ -4,11 +4,12 @@ cutpoints:
   two: ~
 exercise: interview
 grade:
-  N00082007: 0
+  B00200054: 0
+  N00082007: 0.9
   N01200002: 0
   N01200006: 0
   N01200008: 0
-  N01200009: 1.72
+  N01200009: 1.98
   N01200010: 1.1
   N01200014: 1.44
   N01200015: 0
@@ -16,17 +17,16 @@ grade:
   N01200018: 0
   N01200020: 0
   N01200021: 1.62
-  N01200023: 0
+  N01200023: 2
   N01200024: 0.48
-  N01200025: 0
+  N01200025: 0.74
   N01200026: 0
   N01200028: 0
   N01200029: 2
-  N01200030: 0
-  N01200033: 0
+  N01200033: 2
   N01200035: 1.62
   N01200038: 0
-  N01200041: 1.36
+  N01200041: 2
   N01200042: 0
   N01200044: 1.98
   N01200045: 0
@@ -38,25 +38,25 @@ grade:
   N01200058: 0.52
   N02202101: 1.94
   N02202104: 1.5
-  N02202106: 0
-  N02202107: 0
+  N02202106: 1.04
   N02202110: 0
-  N02202111: 1.62
+  N02202111: 1.7
   N02202112: 1.64
-  N02202113: 0
+  N02202113: 1.78
   N02202114: 1.86
   N96080091: 0
   N97120058: 0
   N97200033: 0.04
   N97200035: 0
-  N97200045: 0
-  N99080062: 0
-  N99080075: 0
-  N99080092: 0
+  N99080075: 1.72
+  N99080092: 0.28
 points:
-  N00082007:
+  B00200054:
     letters: 0
     percent: 0
+  N00082007:
+    letters: 146
+    percent: 45
   N01200002:
     letters: 0
     percent: 0
@@ -67,8 +67,8 @@ points:
     letters: 0
     percent: 0
   N01200009:
-    letters: 289
-    percent: 86
+    letters: 331
+    percent: 99
   N01200010:
     letters: 186
     percent: 55
@@ -91,14 +91,14 @@ points:
     letters: 273
     percent: 81
   N01200023:
-    letters: 0
-    percent: 0
+    letters: 302
+    percent: 100
   N01200024:
     letters: 79
     percent: 24
   N01200025:
-    letters: 0
-    percent: 0
+    letters: 118
+    percent: 37
   N01200026:
     letters: 0
     percent: 0
@@ -108,12 +108,9 @@ points:
   N01200029:
     letters: 339
     percent: 100
-  N01200030:
-    letters: 0
-    percent: 0
   N01200033:
-    letters: 0
-    percent: 0
+    letters: 314
+    percent: 100
   N01200035:
     letters: 258
     percent: 81
@@ -121,8 +118,8 @@ points:
     letters: 0
     percent: 0
   N01200041:
-    letters: 206
-    percent: 68
+    letters: 305
+    percent: 100
   N01200042:
     letters: 0
     percent: 0
@@ -157,23 +154,20 @@ points:
     letters: 233
     percent: 75
   N02202106:
-    letters: 0
-    percent: 0
-  N02202107:
-    letters: 0
-    percent: 0
+    letters: 168
+    percent: 52
   N02202110:
     letters: 0
     percent: 0
   N02202111:
-    letters: 252
-    percent: 81
+    letters: 266
+    percent: 85
   N02202112:
     letters: 258
     percent: 82
   N02202113:
-    letters: 0
-    percent: 0
+    letters: 287
+    percent: 89
   N02202114:
     letters: 301
     percent: 93
@@ -189,15 +183,9 @@ points:
   N97200035:
     letters: 0
     percent: 0
-  N97200045:
-    letters: 0
-    percent: 0
-  N99080062:
-    letters: 0
-    percent: 0
   N99080075:
-    letters: 0
-    percent: 0
+    letters: 307
+    percent: 86
   N99080092:
-    letters: 0
-    percent: 0
+    letters: 43
+    percent: 14
