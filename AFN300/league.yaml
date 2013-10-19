@@ -12,8 +12,14 @@ hw: homework
 hwMax: 2
 id: AFN300
 jigsaw: exam
-league: NAF031_四技外三甲_必修_2
+league: NAF031\\\_四技外三甲\\\_必修\\\_2
 member:
+  - Chinese: 鐘元君
+    id: N98200021
+    name: Neo
+    password: yuan
+    rating: ~
+
   - Chinese: 葉俞萱
     id: N00200048
     name: Mei
@@ -114,11 +120,6 @@ member:
     name: Neil
     password: xuan
     rating: ~
-  - Chinese: 周彥伶
-    id: N00200027
-    name: 周彥伶
-    password: yan
-    rating: ~
   - Chinese: 魏羽娸
     id: N00200029
     name: Vicky
@@ -128,11 +129,6 @@ member:
     id: N00200030
     name: Dave
     password: song
-    rating: ~
-  - Chinese: 嚴佳馨
-    id: N00200031
-    name: 嚴佳馨
-    password: jia
     rating: ~
   - Chinese: 曾詩穎
     id: N00200032
@@ -168,21 +164,6 @@ member:
     id: N00200044
     name: Lanna
     password: xin
-    rating: ~
-  - Chinese: 余岱蓉
-    id: N00200045
-    name: 余岱蓉
-    password: dai
-    rating: ~
-  - Chinese: 葉俞萱
-    id: N00200048
-    name: 葉俞萱
-    password: yu
-    rating: ~
-  - Chinese: 戴睿萱
-    id: N00200051
-    name: 戴睿萱
-    password: rui
     rating: ~
   - Chinese: 呂恩華
     id: N00200054
@@ -234,46 +215,46 @@ member:
     name: Jeff
     password: zhen
     rating: ~
-  - Chinese: 鄭瑞昇
-    id: N01202105
-    name: 鄭瑞昇
-    password: rui
-    rating: ~
-  - Chinese: 呂旻汶
-    id: N02203101
-    name: 呂旻汶
-    password: min
-    rating: ~
   - Chinese: 溫嘉翔
     id: N02203102
     name: James
     password: jia
-    rating: ~
-  - Chinese: 林雯柔
-    id: N98200037
-    name: 林雯柔
-    password: wen
     rating: ~
   - Chinese: 管得成
     id: N99030025
     name: Don
     password: de
     rating: ~
-  - Chinese: 郭駿緯
-    id: N99030033
-    name: 郭駿緯
-    password: jun
-    rating: ~
 out:
+  - Chinese: 嚴佳馨
+    id: N00200031
+    name: 嚴佳馨
+    password: jia
+    rating: ~
+  - Chinese: 戴睿萱
+    id: N00200051
+    name: 戴睿萱
+    password: rui
+    rating: ~
+  - Chinese: 林雯柔
+    id: N98200037
+    name: 林雯柔
+    password: wen
+    rating: ~
+  - Chinese: 周彥伶
+    id: N00200027
+    name: 周彥伶
+    password: yan
+    rating: ~
+  - Chinese: 呂旻汶
+    id: N02203101
+    name: 呂旻汶
+    password: min
+    rating: ~
   - Chinese: 張君鈺
     id: N99100009
     name: Claire
     password: jun
-    rating: ~
-  - Chinese: 鐘元君
-    id: N98200021
-    name: Neo
-    password: yuan
     rating: ~
   - Chinese: 鄧茜久
     id: N97200033
