@@ -19,21 +19,6 @@ member:
     name: Wade
     password: si
     rating: ~
-  - Chinese: 江佳璇
-    id: N01200046 
-    name: Erica
-    password: jia
-    rating: ~
-  - Chinese: 葉淑玲
-    id: N01200026 
-    name: Betty
-    password: shu
-    rating: ~
-  - Chinese: 徐禹婷
-    id: N01200009
-    name: Olivia
-    password: yu
-    rating: ~
  
   
 
@@ -72,21 +57,6 @@ member:
     name: Kelly
     password: qian
     rating: ~
-  - Chinese: 范芝喬
-    id: N01200002
-    name: Joanne1
-    password: zhi
-    rating: ~
-  - Chinese: 王詩云
-    id: N01200006
-    name: Emily
-    password: shi
-    rating: ~
-  - Chinese: 徐瑋萱
-    id: N01200008
-    name: Kate
-    password: wei
-    rating: ~
   - Chinese: 徐禹婷
     id: N01200009
     name: 徐禹婷
@@ -102,11 +72,6 @@ member:
     name: Devon
     password: yu
     rating: ~
-  - Chinese: 王子銘
-    id: N01200015
-    name: Danny
-    password: zi
-    rating: ~
   - Chinese: 許依萍
     id: N01200016
     name: Apple
@@ -116,11 +81,6 @@ member:
     id: N01200018
     name: Helen1
     password: chu
-    rating: ~
-  - Chinese: 凾登舜
-    id: N01200020
-    name: Larry
-    password: deng
     rating: ~
   - Chinese: 蔡雨樵
     id: N01200021
@@ -181,16 +141,6 @@ member:
     id: N01200042
     name: 蔡承翰
     password: cheng
-    rating: ~
-  - Chinese: 黃小芳
-    id: N01200044
-    name: Christy
-    password: xiao
-    rating: ~
-  - Chinese: 江進慧
-    id: N01200045
-    name: Samantha
-    password: jin
     rating: ~
   - Chinese: 江佳璇
     id: N01200046
@@ -263,6 +213,51 @@ member:
     password: qiao
     rating: ~
 out:
+  - Chinese: 江進慧
+    id: N01200045
+    name: Samantha
+    password: jin
+    rating: ~
+  - Chinese: 黃小芳
+    id: N01200044
+    name: Christy
+    password: xiao
+    rating: ~
+  - Chinese: 王子銘
+    id: N01200015
+    name: Danny
+    password: zi
+    rating: ~
+  - Chinese: 葉淑玲
+    id: N01200026 
+    name: Betty
+    password: shu
+    rating: ~
+  - Chinese: 徐禹婷
+    id: N01200009
+    name: Olivia
+    password: yu
+    rating: ~
+  - Chinese: 范芝喬
+    id: N01200002
+    name: Joanne1
+    password: zhi
+    rating: ~
+  - Chinese: 王詩云
+    id: N01200006
+    name: Emily
+    password: shi
+    rating: ~
+  - Chinese: 徐瑋萱
+    id: N01200008
+    name: Kate
+    password: wei
+    rating: ~
+  - Chinese: 凾登舜
+    id: N01200020
+    name: Larry
+    password: deng
+    rating: ~
   - Chinese: 劉怡甄
     id: N02202107
     name: Tracy
