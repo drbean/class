@@ -51,3 +51,6 @@ OrangeOrange:
   absent:
     - Kate
   merits: 3
+Jeff:
+  absent: 
+  merits: 3
