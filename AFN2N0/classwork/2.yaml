@@ -75,6 +75,11 @@ White:
     - Penny
   merits: 3
 
+Jeff:
+  absent: 
+    - Jeff
+  merits: 0
+
 OrangeOrange:
   absent: 
   merits: 3
