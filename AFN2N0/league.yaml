@@ -123,16 +123,6 @@ member:
     name: Penny
     password: pei
     rating: ~
-  - Chinese: 蔡承翰
-    id: N01200042
-    name: 蔡承翰
-    password: cheng
-    rating: ~
-  - Chinese: 江佳璇
-    id: N01200046
-    name: 江佳璇
-    password: jia
-    rating: ~
   - Chinese: 陳怡真
     id: N01200048
     name: Ava
@@ -199,6 +189,16 @@ member:
     password: qiao
     rating: ~
 out:
+  - Chinese: 蔡承翰
+    id: N01200042
+    name: 蔡承翰
+    password: cheng
+    rating: ~
+  - Chinese: 江佳璇
+    id: N01200046
+    name: 江佳璇
+    password: jia
+    rating: ~
   - Chinese: 張志嘉
     id: N97200035
     name: 張志嘉
