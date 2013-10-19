@@ -14,6 +14,12 @@ id: AFN2N0
 jigsaw: exam
 league: NAF021_四技外二甲_選修_2
 member:
+  - Chinese: 張志?
+    id: N97200035
+    name: Claude
+    password: zhi
+    rating: ~
+  
   - Chinese: 范思惟
     id: B00200054
     name: Wade
