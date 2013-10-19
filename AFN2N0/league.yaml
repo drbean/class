@@ -12,7 +12,7 @@ hw: homework
 hwMax: 2
 id: AFN2N0
 jigsaw: exam
-league: NAF021_四技外二甲_選修_2
+league: NAF021\_四技外二甲\_選修\_2
 member:
   - Chinese: 張志?
     id: N97200035
@@ -92,11 +92,6 @@ member:
     id: N01200025
     name: Vicky
     password: yu
-    rating: ~
-  - Chinese: 葉淑玲
-    id: N01200026
-    name: 葉淑玲
-    password: shu
     rating: ~
   - Chinese: 陳俐婷
     id: N01200028
