@@ -27,11 +27,6 @@ member:
     name: Corey
     password: fang
     rating: ~
-  - Chinese: 賴正傑
-    id: N96080091
-    name: 賴正傑
-    password: zheng
-    rating: ~
   - Chinese: 陳翰境
     id: N00082007
     name: Jim
@@ -47,20 +42,10 @@ member:
     name: Justin
     password: chen
     rating: ~
-  - Chinese: 張志嘉
-    id: N97200035
-    name: 張志嘉
-    password: zhi
-    rating: ~
   - Chinese: 鄧茜文
     id: N97200033
     name: Kelly
     password: qian
-    rating: ~
-  - Chinese: 徐禹婷
-    id: N01200009
-    name: 徐禹婷
-    password: yu
     rating: ~
   - Chinese: 凾紫渝
     id: N01200010
@@ -213,6 +198,16 @@ member:
     password: qiao
     rating: ~
 out:
+  - Chinese: 張志嘉
+    id: N97200035
+    name: 張志嘉
+    password: zhi
+    rating: ~
+  - Chinese: 賴正傑
+    id: N96080091
+    name: 賴正傑
+    password: zheng
+    rating: ~
   - Chinese: 江進慧
     id: N01200045
     name: Samantha
