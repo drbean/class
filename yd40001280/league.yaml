@@ -15,6 +15,11 @@ id: 40001280
 jigsaw: exam
 league: 育達 General English
 member:
+  - Chinese: 張御哲
+    id: 102404202
+    name: Andy
+    password: yu
+    rating: ~
   
   - Chinese: 周華庭
     id: 100406006
@@ -22,7 +27,7 @@ member:
     password: hua
     rating: ~
   - Chinese: 張詠軒
-    id: 10240329
+    id: 102403209
     name: YongXuan
     password: yong
     rating: ~
