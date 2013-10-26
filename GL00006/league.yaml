@@ -34,11 +34,6 @@ member:
     name: Peggy
     password: pei
     rating: 64
-  - Chinese: 羅仁德
-    id: U0016008
-    name: Kevin
-    password: ren
-    rating: 13
   - Chinese: 林沂慧
     id: K220155482
     name: Angela
@@ -54,11 +49,6 @@ member:
     name: KungHsing
     password: kun
     rating: 27
-  - Chinese: 褚春美
-    id: M0210002
-    name: Moomin
-    password: chun
-    rating: 56
   - Chinese: 將玉華
     id: U9943019
     name: Luisa
@@ -74,16 +64,6 @@ member:
     name: Dave
     password: chong
     rating: 22
-  - Chinese: 劉又嘉
-    id: U9842014
-    name: Sunny
-    password: you
-    rating: 13
-  - Chinese: 吳肇茗
-    id: U0031213
-    name: Maddy
-    password: zhao
-    rating: 36
   - Chinese: 吳冠甫
     id: U9923120
     name: Lance
@@ -98,11 +78,6 @@ member:
     id: U0042031
     name: Chung-Wei
     password: jung
-    rating: 13
-  - Chinese: 張琪?
-    id: U0142030
-    name: Elizabeth
-    password: qi
     rating: 13
   - Chinese: 陳柏合
     id: U9911242
@@ -145,6 +120,31 @@ member:
     password: yan
     rating: 53
 out:
+  - Chinese: 褚春美
+    id: M0210002
+    name: Moomin
+    password: chun
+    rating: 56
+  - Chinese: 吳肇茗
+    id: U0031213
+    name: Maddy
+    password: zhao
+    rating: 36
+  - Chinese: 張琪?
+    id: U0142030
+    name: Elizabeth
+    password: qi
+    rating: 13
+  - Chinese: 劉又嘉
+    id: U9842014
+    name: Sunny
+    password: you
+    rating: 13
+  - Chinese: 羅仁德
+    id: U0016008
+    name: Kevin
+    password: ren
+    rating: 13
   - Chinese: 陳靖宜
     id: U0042039
     name: Gina
