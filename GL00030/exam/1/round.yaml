@@ -1,84 +1,29 @@
 ---
 round: Exam 1
-week: 4
+week: 5
 questions:
   - 10
-pass: 4
+pass: 5
 assistant:
-  - Louis
-  - Eve
-  - Amber
 absent:
-  - Joelle
-  - Cherry2
-  - Evy
-  - Cindy
-text: /home/drbean/class/literature/cards.yaml
+    - Aron
+    - HongYi
+    - Jeff
+    - Twenty-eight
+text: /home/drbean/class/conversation/work/cards.yaml
 activity:
-  robin-hood:
-    1:
-      - Black
+  dickson:
+    2:
       - Green
-      - Purple
+  jackson:
     2:
-      - Blue
-      - Red
-      - Yellow
-  don-quixote:
-    1:
-      - BlueBlue
-      - Brown
-      - Others
-    2:
-      - BlackBlack
       - Pink
-      - OrangeOrange
 group:
-  Black:
-    - Sue
-    - Louis
-    - Nitro
-  BlackBlack:
-    - Louis
-    - Cherry1
-    - Hellen
-  Blue:
-    - Olivia
-    - Foxy
-    - Juby
-  BlueBlue:
-    - Eve
-    - Nora
-    - Winnie
-  Brown:
-    - Amber
-    - Eve
-    - Alisa
   Green:
-    - Zona
-    - Carol
-    - Tina
-  Yellow:
-    - Lee
-    - Lainey
-    - Michael
+    - Holly
+    - Thena
+    - Tim
   Pink:
-    - Ariel
-    - Senna
-    - Vivian
-  Purple:
-    - Peggy
-    - Elaine
-    - Amber
-  Red:
-    - Betty
-    - Kate
-    - Vickey
-  OrangeOrange:
-    - Eve
-    - Debby
-    - Sonia
-  Others:
-    - Hulie
-    - Andy
-    - James
+    - Chen
+    - Chris
+    - Johnny
