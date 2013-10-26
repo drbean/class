@@ -3,53 +3,52 @@ round: Exam 1
 week: 5
 questions:
   - 10
-pass: 6
+pass: 5
 assistant:
 absent:
-  - Shanghao
-  - Amy
-  - Kate
-  - Sam
-text: /home/drbean/class/conversation/PlayLife/cards.yaml
+  - Maddy
+  - Moomin
+  - Chung-Wei
+  - Yukin
+  - Simon
+text: /home/drbean/class/conversation/work/cards.yaml
 activity:
-  connell:
+  dickson:
     2:
-      - Black
-      - Green
-      - Gray
-  roxborough:
+      - Orange
+  abreu:
     2:
-      - Pink
-      - Yellow
       - White
+  smallwood:
+    2:
+      - Blue
+      - Black
+  jackson:
+    2:
+      - Gray
+      - Green
 group:
   Black:
-    - Irin
-    - James
-    - Peter
-    - May
+    - Tracy
+    - Penny
+    - Gillian
+  Blue:
+    - Danny
+    - KungHsing
+    - Dave
   Gray:
-    - Allen
-    - Cloud
-    - Cindy
-    - Rita
+    - Amy
+    - Luisa
+    - Regina
   Green:
-    - Lucas
-    - Daisy
-    - Emaily
-    - Kenny
-  Pink:
-    - Moto
-    - Ken
-    - Yu-chi
-    - Lily
+    - Rick
+    - Tiffany
+    - Carolyn
+  Orange:
+    - Peggy
+    - Mia
+    - Scotter
   White:
-    - Fang-Yi
-    - Jay
-    - John
-    - Chad
-  Yellow:
-    - Steven
-    - Mico
-    - Hendy
-    - Jim
+    - Li-Ting
+    - Angela
+    - Lance
