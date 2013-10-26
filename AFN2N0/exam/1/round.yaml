@@ -1,84 +1,83 @@
 ---
 round: Exam 1
-week: 4
+week: 5
 questions:
-  - 10
-pass: 4
+  - 2
+pass: 0
 assistant:
-  - Louis
-  - Eve
-  - Amber
 absent:
-  - Joelle
-  - Cherry2
-  - Evy
-  - Cindy
-text: /home/drbean/class/literature/cards.yaml
+  - Larry
+  - Kate
+  - Rory
+  - Emily
+  - Joanne1
+  - Erica
+  - Olivia
+  - Betty
+  - Danny
+  - Christy
+  - Tracy
+  - Shine
+  - Samantha
+  - Jason
+text: /home/drbean/class/business/careers/cards.yaml
 activity:
-  robin-hood:
-    1:
+  tips:
+    8:
       - Black
-      - Green
-      - Purple
-    2:
-      - Blue
-      - Red
       - Yellow
-  don-quixote:
-    1:
-      - BlueBlue
-      - Brown
-      - Others
-    2:
+    9:
+      - BrownBrown
+    10:
+      - Gray
+      - White
+    11:
       - BlackBlack
-      - Pink
+      - Red
+    12:
+      - Green
       - OrangeOrange
+    13:
+      - BlueBlue
 group:
   Black:
-    - Sue
-    - Louis
-    - Nitro
+    - Wade
+    - David
+    - Joanne2
   BlackBlack:
-    - Louis
-    - Cherry1
-    - Hellen
-  Blue:
-    - Olivia
-    - Foxy
-    - Juby
+    - Strawberry
+    - Jim
+    - Mira
+  BrownBrown:
+    - Justin
+    - Dave
+    - Esme
   BlueBlue:
-    - Eve
-    - Nora
-    - Winnie
-  Brown:
-    - Amber
-    - Eve
-    - Alisa
+    - Ted
+    - Apple
+    - Amy2
   Green:
-    - Zona
-    - Carol
-    - Tina
-  Yellow:
-    - Lee
-    - Lainey
-    - Michael
-  Pink:
-    - Ariel
-    - Senna
-    - Vivian
-  Purple:
-    - Peggy
-    - Elaine
-    - Amber
+    - Helen2
+    - Dara
+    - Kelly
+  Gray:
+    - Peter
+    - Lucia
+    - Devon
   Red:
-    - Betty
-    - Kate
-    - Vickey
+    - Doni
+    - Wayne
+    - Bill
+  White:
+    - Helen1
+    - Vicky
+    - Penny
+  Yellow:
+    - Corey
+    - Ruby
+    - Jeff
   OrangeOrange:
-    - Eve
-    - Debby
-    - Sonia
-  Others:
-    - Hulie
-    - Andy
-    - James
+    - Cathy
+    - Amy1
+    - Claude
+  
