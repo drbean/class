@@ -1,84 +1,93 @@
 ---
 round: Exam 1
-week: 4
+week: 5
 questions:
   - 10
-pass: 4
+pass: 5
 assistant:
-  - Louis
-  - Eve
-  - Amber
+  - Ally
+  - Lanna
+  - Carlos
+  - Andy
 absent:
-  - Joelle
-  - Cherry2
-  - Evy
+  - Claire
+  - Crown
   - Cindy
-text: /home/drbean/class/literature/cards.yaml
+  - Tina
+  - Dora
+text: /home/drbean/class/conversation/work/cards.yaml
 activity:
-  robin-hood:
-    1:
+  dickson:
+    2:
+      - Gray
+      - OrangeOrange
+      - Purple
+      - White
+  abreu:
+    2:
+      - Brown
+      - PinkPink
+      - Red
+  smallwood:
+    2:
       - Black
       - Green
-      - Purple
-    2:
-      - Blue
-      - Red
       - Yellow
-  don-quixote:
-    1:
-      - BlueBlue
-      - Brown
-      - Others
+  jackson:
     2:
       - BlackBlack
-      - Pink
-      - OrangeOrange
+      - Blue
+      - Orange
 group:
   Black:
-    - Sue
-    - Louis
-    - Nitro
-  BlackBlack:
-    - Louis
-    - Cherry1
-    - Hellen
-  Blue:
-    - Olivia
-    - Foxy
-    - Juby
-  BlueBlue:
-    - Eve
-    - Nora
-    - Winnie
-  Brown:
-    - Amber
-    - Eve
-    - Alisa
-  Green:
-    - Zona
-    - Carol
-    - Tina
-  Yellow:
-    - Lee
-    - Lainey
-    - Michael
-  Pink:
-    - Ariel
-    - Senna
-    - Vivian
-  Purple:
-    - Peggy
-    - Elaine
-    - Amber
-  Red:
+    - Neo
+    - Eva
     - Betty
-    - Kate
-    - Vickey
-  OrangeOrange:
-    - Eve
-    - Debby
-    - Sonia
-  Others:
-    - Hulie
+  Blue:
+    - Sally
+    - Mindy
+    - Kelly1
+  Brown:
+    - Candy
+    - MiuMiu
+    - Carlos
+  Gray:
+    - Teresa
+    - Louie
+    - Carlos
+  Green:
+    - Ally
+    - Shane
+    - Denise
+  BlackBlack:
+    - Selena
+    - Jerry
+    - Allen
+  Orange:
     - Andy
     - James
+    - Neil
+  Purple:
+    - Jeff
+    - Alex
+    - Katie
+  Red:
+    - Carol
+    - Vicky
+    - Dave
+  White:
+    - Lanna
+    - Ben
+    - Joan
+  Yellow:
+    - Ally
+    - Lanna
+    - Fion
+  OrangeOrange:
+    - Don
+    - Champion
+    - Peggy
+  PinkPink:
+    - Emily
+    - Bunny
+    - Yuki
