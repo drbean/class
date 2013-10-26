@@ -1,49 +1,50 @@
 ---
-Green:
-  absent:    
-  merits:    3
 Black:
-  absent: 
-    - Cherry2
-    - Juby
-  merits:    2
-
+  absent:
+  merits: 3
 Blue:
-  absent:    
-    - Alisa
-  merits:    2
+  absent:
+    - Peggy
+    - Crown
+  merits: 2
 Brown:
-  absent:    
-  merits:    3
-
+  absent:
+  merits: 2
+Gray:
+  absent:
+    - Ben
+  merits: 3
+Green:
+  absent:
+  merits: 3
 BlackBlack:
-  absent:    
-    - Alisa
-  merits:    2
+  absent:
+  merits: 3
 BlueBlue:
   absent:
-  merits:    3
-
-Yellow:
-  absent:    
-    - Elaine
-    - Lainey
-  merits:    3
+  merits: 3
 Orange:
-  absent:    
-    - Ariel
-  merits:    2
-
+  absent:
+    - Denise
+    - Emily
+  merits: 2
 Pink:
-  absent:    
-  merits:    3
+  absent:
+  merits: 3
 Purple:
-  absent:    
-  merits:    2
-
+  absent:
+  merits: 2
 Red:
-  absent:    
-  merits:    3
+  absent:
+  merits: 2
+White:
+  absent:
+  merits: 3
+Yellow:
+  absent:
+    - Andy
+  merits: 3
 OrangeOrange:
-  absent:    
-  merits:    2
+  absent:
+    - Fion
+  merits: 3
