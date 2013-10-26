@@ -1,45 +1,39 @@
 ---
 Chinese:
   Black: 0
+  Blue: 0
   Gray: 0
   Green: 0
-  Pink: 0
+  Orange: 0
   White: 0
-  Yellow: 0
 letters:
   Black:
-    N9661709: 9
-    T9722119: 7
-    U9714108: 9
-    U9822020: 8
-    story: connell2
+    U0018027: 7
+    U9923121: 5
+    U0122002: 6
+    story: smallwood2
+  Blue:
+    U0042012: 9
+    U0042041: 8
+    U0222133: 8
+    story: smallwood2
   Gray:
-    N9661712: 9
-    N9661748: 7
-    U9714111: 8
-    N9532037: 8
-    story: connell2
+    U0042050: 6
+    U9943019: 9
+    U0018046: 9
+    story: jackson2
   Green:
-    N9661717: 7
-    N9661742: 8
-    U9714127: 8
-    U9722143: 6
-    story: connell2
-  Pink:
-    N9661728: 5
-    N9661740: 3
-    U9714135: 5
-    U9714141: 5
-    story: roxborough2
+    U0017024: 8
+    U0043001: 8
+    U9943007: 8
+    story: jackson2
+  Orange:
+    U0043033: 9
+    U0043004: 9
+    U9917017: 5
+    story: dickson2
   White:
-    U9714104: 4
-    T9722102: 2
-    U9611024: 5
-    U9824047: 5
-    story: roxborough2
-  Yellow:
-    N9661714: 6
-    N9661725: 5
-    U9824053: 4
-    U9614044: 6
-    story: roxborough2
+    U0222228: 7
+    K220155482: 9
+    U9923120: 7
+    story: abreu2
