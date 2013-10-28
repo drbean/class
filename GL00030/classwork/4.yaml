@@ -1,37 +1,16 @@
 ---
-# topic: Marriage problems
-
-Black:
-  absent: 
-  merits: 2
 Green:
   absent: 
   merits: 3
-
-Blue:
-  absent: 
-    - Jibson
-  merits: 3
-BlackBlack:
-  absent: 
-  merits: 2
-
-# joined Blue, Pink
-BlueBlue:
-  absent:
-  merits: 2.5
-
-Orange:
-  absent: 
-  merits: 2
-White:
-  absent: 
-  merits: 3
-
 Pink:
   absent: 
-    - Yan-ting
-  merits: 2
-Yellow:
+  merits: 3
+
+BlackBlack:
+  absent: 
+    - Chen
+    - Aron
+  merits: 3
+Orange:
   absent: 
   merits: 3
