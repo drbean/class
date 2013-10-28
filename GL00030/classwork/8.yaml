@@ -1,0 +1,16 @@
+---
+Green:
+  absent:    
+    - Holly
+  merits:    3
+
+BlackBlack:
+  absent:    
+    - Chen
+    - Thena
+  merits:    0
+
+Orange:
+  absent:    
+  merits:    3
+
