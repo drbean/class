@@ -1,10 +1,29 @@
 ---
 activity:
-  0:
+  dickson:
     0:
       - 0
       - 1
       - 2
+      - 3
+  abreu:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+  smallwood:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+  jackson:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
 assistant: ~
 dispensation: ~
 divisions: ~
@@ -18,10 +37,12 @@ group:
   2:
     White: U0114037
     Black: U0010040
+  3:
+    White: U9933028
+    Black: U0214036
 late:
-  - ~
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 2
 round: 1
-text: ~
-week: ~
+text: /home/drbean/class/conversation/cards.yaml
+week: 5
