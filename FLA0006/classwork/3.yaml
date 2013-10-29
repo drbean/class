@@ -28,3 +28,12 @@ Orange:
 White:
   absent: 
   merits: 2
+
+Brown:
+  merits: 0
+
+# what happened
+Pink:
+  merits: 2
+Yellow:
+  merits: 2
