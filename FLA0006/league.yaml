@@ -13,6 +13,11 @@ hwMax: 2
 id: 021FLA0006
 league: 夜應外大學四甲
 member:
+  - Chinese: 吳千羽
+    id: V9840122
+    name: Hank
+    password: qian
+    rating: ~
   - Chinese: 劉建平
     id: V9841011
     name: Leo
@@ -183,11 +188,6 @@ out:
     id: V0141013
     name: 沈冠宇
     password: guan
-    rating: ~
-  - Chinese: 吳千羽
-    id: V9840122
-    name: Hank
-    password: qian
     rating: ~
   - Chinese: 陳昱樺
     id: V9724004
