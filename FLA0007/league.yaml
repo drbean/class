@@ -109,6 +109,11 @@ member:
     name: Hsin-Cih
     password: xin
     rating: 70
+  - Chinese: 黎彥廷
+    id: V9916050
+    name: Yan-Ting
+    password: yan
+    rating: 6
 out:
   - Chinese: 李名婷
     id: V0041032
@@ -135,11 +140,6 @@ out:
     name: Tea
     password: hao
     rating: 9
-  - Chinese: 黎彥廷
-    id: V9916050
-    name: Yan-Ting
-    password: yan
-    rating: 6
 room: A706
 session:
   1: 1
