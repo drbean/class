@@ -1,8 +1,16 @@
 ---
-Black       : 8.5
-Blue        : 8.5
-Brown       : 9
-Orange      : 9
-Pink        : 9
-Purple      : 9.5
+prepared:
+  Black       : 8
+  Blue        : 8
+  Brown       : 9
+  Orange      : 8
+  Pink        : 9
+  Purple      : 10
+impromptu:
+  Black       : 9
+  Blue        : 9
+  Brown       : 9
+  Orange      : 10
+  Pink        : 9
+  Purple      : 9
 Yan-Ting    : 9
