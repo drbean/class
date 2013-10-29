@@ -1,32 +1,48 @@
 ---
-# story: wallace, smoking
-
-1-1:
-  absent: 
-  merits: 2
-1-2:
+Black:
   absent: 
   merits: 3
-
-2-1:
-  absent: 
-  merits: 3
-2-2:
+Blue:
   absent: 
   merits: 2
 
-3-1:
+Brown:
+  absent: 
+    - Amy2
+  merits: 3
+BlueBlue:
+  absent: 
+    - Vivian
+    - Judy
+  merits: 3
+
+BlackBlack:
+  absent:
+    - Rita
+    - Brenda
+    - Yorick
+  merits: 0
+
+Green:
   absent: 
   merits: 3
-3-2:
-  absent: 
-    - Yi-Ru
+Orange:
+  absent:
   merits: 2
 
-4-1:
+Pink:
   absent: 
+    - Katty
   merits: 3
-4-2:
+Purple:
   absent: 
-    - Kori
+    - Amy1
+  merits: 3
+
+Yellow:
+  absent: 
   merits: 2
+White:
+  absent: 
+    - Yvonne
+  merits: 3
