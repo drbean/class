@@ -14,7 +14,7 @@ id: 021FLA0006
 league: 夜應外大學四甲
 member:
   - Chinese: 吳千羽
-    id: V9840122
+    id: V9841022
     name: Hank
     password: qian
     rating: ~
@@ -34,11 +34,6 @@ member:
     id: V9941060
     name: Leon
     password: li
-    rating: ~
-  - Chinese: 彭姿菁
-    id: V9941023
-    name: Rita
-    password: zi
     rating: ~
   - Chinese: 劉好英
     id: V9941067
@@ -148,11 +143,6 @@ member:
     name: Claire
     password: yi
     rating: 72
-  - Chinese: 黃宇襄
-    id: V9941045
-    name: Jill
-    password: yu
-    rating: 89
   - Chinese: 徐婉綾
     id: V9941047
     name: Emily
@@ -173,17 +163,27 @@ member:
     name: Sophia
     password: yu
     rating: 70
-  - Chinese: 楊千慧
-    id: V9941073
-    name: Yvonne
-    password: qian
-    rating: 72
   - Chinese: 林柏如
     id: V9941075
     name: Brenda
     password: bo
     rating: 37
 out:
+  - Chinese: 楊千慧
+    id: V9941073
+    name: Yvonne
+    password: qian
+    rating: 72
+  - Chinese: 彭姿菁
+    id: V9941023
+    name: Rita
+    password: zi
+    rating: ~
+  - Chinese: 黃宇襄
+    id: V9941045
+    name: Jill
+    password: yu
+    rating: 89
   - Chinese: 沈冠宇
     id: V0141013
     name: 沈冠宇
