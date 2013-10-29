@@ -1,33 +1,44 @@
 ---
-1-1:
-  - Kitty
-  - Abby
-  - Wei-Yi
-1-2:
-  - Hank
-  - Bass
-  - Amy
-2-1:
-  - Yorick
-  - Ming
-  - Carina
-2-2:
-  - Dennis
-  - Debbie
-  - Winnie
-3-1:
+Black:
+  - Leon
+  - Larry
   - Joan
-  - Stella
-  - Cathy
-3-2:
+BlackBlack:
+  - Rita
+  - Brenda
+  - Yorick
+Blue:
+  - YaTing1
+  - Claire
+  - Diana
+BlueBlue:
+  - XiangYi
+  - Vivian
+  - Judy
+Brown:
+  - Joe
+  - Amy2
+Green:
   - Leo
-  - Yi-Ru
-  - Cindy
-4-1:
-  - Dean
-  - Frances
-  - Stanley
-4-2:
+  - Jessica
+  - Henry
+Orange:
+  - Redd
+  - Emily
+  - Vicki
+Pink:
+  - Rei
   - Katty
-  - Joy
-  - Kori
+  - Ivy
+Purple:
+  - Jill
+  - Amy1
+  - Adam
+White:
+  - Yvonne
+  - Wan-Ru
+  - Sandy
+Yellow:
+  - Edward
+  - Joanna
+  - Sophia
