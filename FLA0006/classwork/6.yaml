@@ -1,33 +1,38 @@
 ---
-2-1:
+Black:
   absent: 
-    - Ming
-    - Carina
-  merits: 2
-1-1:
-  absent: 
-    - Abby
   merits: 3
-
-1-2:
+Blue:
   absent: 
   merits: 2
-2-2:
+
+Green:
+  absent: 
+  merits: 3
+BlackBlack:
+  absent:
+    - Rita
+  merits: 3
+
+Brown:
+  merits: 3
+BlueBlue:
   absent: 
   merits: 3
 
-4-1:
+Orange:
   absent: 
-    - Frances
   merits: 2
-3-1:
-  absent: 
-    - Stella
-  merits: 0
 
-3-2:
+Yellow:
+  merits: 2.5
+White:
   absent: 
-  merits: 3
-4-2:
+    - Yvonne
+  merits: 2
+
+Pink:
+  merits: 2
+Purple:
   absent: 
-  merits: 3
+  merits: 2
