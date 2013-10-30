@@ -15,6 +15,18 @@ id: 40001280
 jigsaw: exam
 league: 育達 General English
 member:
+  - Chinese: 賴俊霖
+    id: 102403201
+    name: Lai
+    password: jun 
+    rating: ~
+  
+  - Chinese: 鍾宜臻
+    id: 102405135
+    name: Jenny
+    password: yi
+    rating: ~
+
   - Chinese: 張御哲
     id: 102404202
     name: Andy
@@ -136,7 +148,7 @@ member:
     rating: ~
   - Chinese: 王教儒
     id: 102404201
-    name: Lai
+    name: Zoo
     password: jiao
     rating: ~
   - Chinese: 余櫻俊
@@ -224,11 +236,6 @@ out:
     id: 102405442
     name: Watermelon
     password: sheng
-    rating: ~
-  - Chinese: 鍾宜臻
-    id: 102405135
-    name: Jenny
-    password: yi
     rating: ~
   - Chinese: 宋芝凌
     id: 102403206
