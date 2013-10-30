@@ -1,100 +1,60 @@
 ---
-6-1:
+Black:
   absent: 
-    - Lisa
-  merits: 3
-1-1:
-  absent: 
-    - Woodstock
+    - Andy
   merits: 2
-
-1-2:
+Blue:
   absent: 
-  merits: 2
-2-1:
-  absent: 
+    - Cain
   merits: 3
 
-2-2:
+Brown:
+  absent: 
+    - Tony
+  merits: 2.5
+BrownBrown:
+  absent: 
+  merits: 2.5
+
+BlackBlack:
   absent: 
   merits: 3
-3-1:
+BlueBlue:
   absent: 
-    - Abby
-  tardy:
-    - Tina
+    - Grace
   merits: 2
 
-3-2:
+Green:
   absent: 
-  merits: 3
-4-1:
-  absent: 
+    - Vivian
   merits: 2
-
-4-2:
-  absent: 
-  merits: 3
-5-1:
-  absent: 
-  merits: 2
-
-5-2:
-  absent: 
-  merits: 3
-6-2:
-  absent: 
-  merits: 2
-
-13-1:
-  absent: 
-  merits: 3
-8-1:
-  absent: 
-  merits: 2
-
-8-2:
-  absent: 
-  merits: 2
-9-1:
-  absent: 
+Orange:
+  absent:
+    - Candy
   merits: 3
 
-9-2:
-  absent: 
-  merits: 3
-10-1:
-  absent: 
-    - Nana
-  merits: 2
-
-10-2:
+Pink:
   absent: 
   merits: 2
-11-1:
+Purple:
   absent: 
-  tardy:
-    - James
+    - GenWei
   merits: 3
 
-11-2:
+Red:
   absent: 
-    - Sen
   merits: 3
-12-1:
+OrangeOrange:
   absent: 
+    - YongXuan
   merits: 2
 
-12-2:
+White:
   absent: 
-    - Rifle
+    - Vicky
   merits: 3
-13-2:
+Yellow:
   absent: 
-  merits: 2
-
-14-1:
-# joined 10-1
-  absent: 
+    - Venus
   merits: 2
 
