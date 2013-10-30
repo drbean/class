@@ -1,68 +1,64 @@
 ---
-
 Black:
   absent: 
   merits: 2
 Blue:
   absent: 
-  merits: 2
+    - Jian-zhong
+  merits: 3
 
 Brown:
   absent: 
-    - Jack
-  merits: 2
+  merits: 3
+
 Gray:
   absent: 
-  merits: 2
-
-Green:
-  absent: 
+    - Cain
+    - MengXuan
   merits: 3
+
 BlackBlack:
   absent: 
   merits: 2
+Green:
+  absent: 
+    - GenWei
+  merits: 3
 
 BlueBlue:
   absent: 
   merits: 2
-GreenGreen:
+BrownBrown:
   absent: 
-  merits: 2
+    - Watermelon
+  merits: 3
 
 Orange:
   absent:
   merits: 2
 Pink:
   absent: 
-  merits: 2
+   - Jack1
+   - Marjorie
+  merits: 3
 
 Purple:
   absent: 
-  merits: 2
+    - Elena
+  merits: 3
 Red:
   absent: 
   merits: 2
+# Emily, Chun, Zoo, Lai, Andy
 
 White:
   absent: 
-  merits: 2
+    - Parker
+  merits: 3
 Yellow:
   absent: 
   merits: 2
 
-PinkPink:
-  absent: 
-    - Ann
-  merits: 2
-
 OrangeOrange:
-  absent:
-  merits: 2
-PurplePurple:
-  absent: 
-  merits: 2
-
-# assistants
-YellowYellow:
   absent: 
   merits: 3
