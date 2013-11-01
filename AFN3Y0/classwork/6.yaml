@@ -1,49 +1,32 @@
 ---
-Green:
-  absent:    
-  merits:    3
 Black:
   absent: 
-    - Cherry2
-    - Juby
-  merits:    2
+    - Fion
+  merits: 3
+Green:
+  absent: 
+    - Jeff
+  merits: 2
+
+Charcoal:
+  absent: 
+    - Stephen
+  merits: 2
+Pink:
+  absent: 
+  merits: 3
+
+Orange:
+  absent:
+  merits: 2
+Yellow:
+  absent: 
+    - Rena
+  merits: 3
 
 Blue:
-  absent:    
-    - Alisa
-  merits:    2
-Brown:
-  absent:    
-  merits:    3
-
-BlackBlack:
-  absent:    
-    - Alisa
-  merits:    2
-BlueBlue:
   absent:
-  merits:    3
-
-Yellow:
-  absent:    
-    - Elaine
-    - Lainey
-  merits:    3
-Orange:
-  absent:    
-    - Ariel
-  merits:    2
-
-Pink:
-  absent:    
-  merits:    3
+    - Louie
+  merits: 3
 Purple:
-  absent:    
-  merits:    2
-
-Red:
-  absent:    
-  merits:    3
-OrangeOrange:
-  absent:    
-  merits:    2
+  merits: 2
