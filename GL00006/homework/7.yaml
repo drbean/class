@@ -1,115 +1,91 @@
 ---
 cutpoints:
-  one: 50
-  two: 220
-exercise: desantis
+  one: ~
+  two: ~
+exercise: biodad
 grade:
-  N9532037: 0
-  N9661709: 1
-  N9661712: 0
-  N9661714: 2
-  N9661717: 0
-  N9661725: 0
-  N9661728: 2
-  N9661740: 0
-  N9661742: 2
-  N9661748: 2
-  T9722102: 2
-  T9722119: 2
-  U9611024: 0
-  U9614044: 0
-  U9714104: 2
-  U9714105: 2
-  U9714108: 2
-  U9714111: 2
-  U9714127: 2
-  U9714135: 2
-  U9714141: 2
-  U9722143: 2
-  U9822015: 2
-  U9822020: 2
-  U9824047: 2
-  U9824053: 0
-  U9824054: 2
+  K220155482: 2
+  U0017024: 1.9
+  U0018027: 1.96
+  U0018046: 1.98
+  U0042012: 0
+  U0042031: 1.52
+  U0042041: 1.9
+  U0042050: 1.78
+  U0043001: 2
+  U0043004: 1.66
+  U0043033: 0
+  U0122002: 2
+  U0222133: 2
+  U0222228: 2
+  U9911237: 2
+  U9911242: 2
+  U9917017: 1.88
+  U9923120: 1.84
+  U9923121: 1.98
+  U9943007: 1.92
+  U9943019: 0
 points:
-  N9532037:
-    letters: ~
-    questions: 0
-  N9661709:
-    letters: 213
-    questions: 0
-  N9661712:
-    letters: ~
-    questions: 0
-  N9661714:
-    letters: 247
-    questions: 0
-  N9661717:
-    letters: ~
-    questions: 0
-  N9661725:
-    letters: ~
-    questions: 0
-  N9661728:
-    letters: 238
-    questions: 0
-  N9661740:
-    letters: ~
-    questions: 0
-  N9661742:
-    letters: 238
-    questions: 0
-  N9661748:
-    letters: 238
-    questions: 0
-  T9722102:
-    letters: 243
-    questions: 0
-  T9722119:
-    letters: 247
-    questions: 0
-  U9611024:
-    letters: ~
-    questions: 0
-  U9614044:
-    letters: ~
-    questions: 0
-  U9714104:
-    letters: 247
-    questions: 0
-  U9714105:
-    letters: 238
-    questions: 0
-  U9714108:
-    letters: 247
-    questions: 0
-  U9714111:
-    letters: 247
-    questions: 0
-  U9714127:
-    letters: 247
-    questions: 0
-  U9714135:
-    letters: 247
-    questions: 0
-  U9714141:
-    letters: 247
-    questions: 0
-  U9722143:
-    letters: 228
-    questions: 0
-  U9822015:
-    letters: 229
-    questions: 0
-  U9822020:
-    letters: 247
-    questions: 0
-  U9824047:
+  K220155482:
+    letters: 205
+    percent: 100
+  U0017024:
+    letters: 192
+    percent: 95
+  U0018027:
+    letters: 201
+    percent: 98
+  U0018046:
+    letters: 199
+    percent: 99
+  U0042012:
+    letters: 0
+    percent: 0
+  U0042031:
+    letters: 151
+    percent: 76
+  U0042041:
+    letters: 181
+    percent: 95
+  U0042050:
+    letters: 193
+    percent: 89
+  U0043001:
+    letters: 210
+    percent: 100
+  U0043004:
+    letters: 166
+    percent: 83
+  U0043033:
+    letters: 0
+    percent: 0
+  U0122002:
+    letters: 194
+    percent: 100
+  U0222133:
     letters: 221
-    questions: 0
-  U9824053:
-    letters: ~
-    questions: 0
-  U9824054:
-    letters: 247
-    questions: 0
+    percent: 100
+  U0222228:
+    letters: 189
+    percent: 100
+  U9911237:
+    letters: 238
+    percent: 100
+  U9911242:
+    letters: 204
+    percent: 100
+  U9917017:
+    letters: 169
+    percent: 94
+  U9923120:
+    letters: 175
+    percent: 92
+  U9923121:
+    letters: 204
+    percent: 99
+  U9943007:
+    letters: 202
+    percent: 96
+  U9943019:
+    letters: 0
+    percent: 0
