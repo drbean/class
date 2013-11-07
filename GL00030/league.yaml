@@ -14,11 +14,6 @@ id: 012GL00030
 jigsaw: exam
 league: 日語文共同學制虛擬班二甲
 member:
-  - Chinese: 楊騏嘉
-    id: U9816049
-    name: Joshua
-    password: qi
-    rating: 13
   
   - Chinese: 陳?勳
     id: U9816041
@@ -40,16 +35,6 @@ member:
     name: Tim
     password: yi
     rating: 80
-  - Chinese: 陳冠廷
-    id: U0114037
-    name: Chris
-    password: guan
-    rating: 57
-  - Chinese: 張博堯
-    id: U0114045
-    name: Johnny
-    password: bo
-    rating: 65
   - Chinese: 張馨鎂
     id: U0131020
     name: Thena
@@ -61,6 +46,21 @@ member:
     password: jian
     rating: 57
 out:
+  - Chinese: 陳冠廷
+    id: U0114037
+    name: Chris
+    password: guan
+    rating: 57
+  - Chinese: 張博堯
+    id: U0114045
+    name: Johnny
+    password: bo
+    rating: 65
+  - Chinese: 楊騏嘉
+    id: U9816049
+    name: Joshua
+    password: qi
+    rating: 13
   - Chinese: 沈皓鈞
     id: U0123013
     name: Jeff
