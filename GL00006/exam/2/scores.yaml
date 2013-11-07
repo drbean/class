@@ -2,51 +2,44 @@
 Chinese:
   Black: 0
   Blue: 0
+  Brown: 0
   Gray: 0
   Green: 0
-  Pink: 0
-  Purple: 0
-  White: 0
+  Orange: 0
+  Yellow: 0
 letters:
   Black:
-    U9611024: 8
-    U9722143: 8
-    U9714108: 8
-    N9661748: 8
-    story: breakstone1
+    U9943019: 0
+    U9911237: 2
+    U0043001: 7
+    story: biodad1
   Blue:
-    U9714105: 10
-    U9822015: 10
-    U9824054: 10
-    U9824053: 10
-    story: desantis1
+    U0122002: 10
+    U9917017: 7
+    U9923120: 8
+    story: biomom4
+  Brown:
+    U0222133: 9
+    U9923121: 9
+    U0042050: 7
+    story: biomom4
   Gray:
-    U9824047: 8
-    N9661717: 8
-    U9714141: 8
-    N9532037: 7
-    story: breakstone1
+    U0018027: 10
+    U0018046: 10
+    U0043033: 10
+    story: biomom4
   Green:
-    N9661712: 9
-    N9661725: 7
-    N9661742: 7
-    U9714135: 9
-    story: schifrin1
-  Pink:
-    N9661709: 6
-    U9824053: 8
-    U9714127: 8
-    U9714111: 8
-    story: schifrin1
-  Purple:
-    T9722102: 7
-    U9614044: 7
-    U9822020: 6
-    N9661740: 7
-    story: breakstone1
-  White:
-    N9661714: 8
-    N9661728: 9
-    T9722119: 7
-    U9714104: 5
-    story: desantis1
+    U0042041: 4
+    U0017024: 4
+    U0222228: 5
+    story: emersonj2
+  Orange:
+    U0042012: 7
+    U0043004: 7
+    U9943007: 7
+    story: emersonj2
+  Yellow:
+    U9911242: 8
+    U0042031: 8
+    K220155482: 10
+    story: biodad1
