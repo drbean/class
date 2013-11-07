@@ -1,6 +1,39 @@
 ---
 activity:
-  0:
+  dickson:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+  abreu:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+  smallwood:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+  jackson:
     0:
       - 0
       - 1
@@ -42,9 +75,10 @@ group:
   8:
     White: U0017024
     Black: K220155482
+bye: U9911237
 late:
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 1
 round: 1
 text: /home/drbean/class/conversation/work/cards.yaml
 week: 5
