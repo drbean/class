@@ -1,103 +1,127 @@
 ---
 cutpoints:
-  one: 20
-  two: 80
-exercise: quizkid
+  one: ~
+  two: ~
+exercise: blair
 grade:
-  V0041039: 2
-  V0041053: 2
-  V0141013: 2
-  V9741064: 2
-  V9741065: 2
-  V9841002: 1
-  V9841006: 0
+  T9823041: 0
+  V9741044: 1.96
+  V9741064: 1.98
   V9841010: 2
-  V9841011: 0
-  V9841013: 0
-  V9841020: 2
-  V9841022: 2
-  V9841027: 2
-  V9841028: 1
-  V9841030: 2
-  V9841031: 1
-  V9841040: 2
-  V9841048: 1
-  V9841049: 2
-  V9841050: 1
-  V9841051: 1
-  V9841053: 2
-  V9841054: 1
-  V9841058: 0
+  V9841011: 1.52
+  V9841022: 0
+  V9841025: 1
+  V9841028: 0.58
+  V9841042: 0
+  V9841049: 1.84
+  V9941001: 0
+  V9941007: 0
+  V9941011: 0
+  V9941012: 1.32
+  V9941013: 0
+  V9941015: 2
+  V9941022: 2
+  V9941026: 1.92
+  V9941027: 0
+  V9941029: 1.98
+  V9941037: 1.78
+  V9941040: 0.18
+  V9941047: 2
+  V9941049: 1.72
+  V9941050: 1.56
+  V9941059: 1.92
+  V9941060: 0
+  V9941067: 1.92
+  V9941075: 0
+  V9941077: 0.14
 points:
-  V0041039:
-    letters: 304
-    percent: 100
-  V0041053:
-    letters: 319
-    percent: 100
-  V0141013:
-    letters: 240
-    percent: 82
-  V9741064:
-    letters: 274
-    percent: 95
-  V9741065:
-    letters: 300
-    percent: 100
-  V9841002:
-    letters: 159
-    percent: 54
-  V9841006:
+  T9823041:
     letters: 0
     percent: 0
+  V9741044:
+    letters: 322
+    percent: 98
+  V9741064:
+    letters: 344
+    percent: 99
   V9841010:
-    letters: 291
+    letters: 393
     percent: 100
   V9841011:
-    letters: 0
-    percent: 0
-  V9841013:
-    letters: 0
-    percent: 0
-  V9841020:
-    letters: 298
-    percent: 99
-  V9841022:
-    letters: 301
-    percent: 100
-  V9841027:
-    letters: 226
-    percent: 81
-  V9841028:
-    letters: 103
-    percent: 32
-  V9841030:
     letters: 286
-    percent: 94
-  V9841031:
-    letters: 210
-    percent: 67
-  V9841040:
-    letters: 252
-    percent: 84
-  V9841048:
-    letters: 156
-    percent: 47
+    percent: 76
+  V9841022:
+    letters: 0
+    percent: 0
+  V9841025:
+    letters: 140
+    percent: 50
+  V9841028:
+    letters: 105
+    percent: 29
+  V9841042:
+    letters: 0
+    percent: 0
   V9841049:
-    letters: 264
-    percent: 85
-  V9841050:
-    letters: 200
-    percent: 69
-  V9841051:
-    letters: 146
-    percent: 49
-  V9841053:
+    letters: 300
+    percent: 92
+  V9941001:
+    letters: 0
+    percent: 0
+  V9941007:
+    letters: 0
+    percent: 0
+  V9941011:
+    letters: 0
+    percent: 0
+  V9941012:
+    letters: 212
+    percent: 66
+  V9941013:
+    letters: 0
+    percent: 0
+  V9941015:
+    letters: 325
+    percent: 100
+  V9941022:
     letters: 285
-    percent: 93
-  V9841054:
-    letters: 206
-    percent: 70
-  V9841058:
-    letters: 34
-    percent: 11
+    percent: 100
+  V9941026:
+    letters: 364
+    percent: 96
+  V9941027:
+    letters: 0
+    percent: 0
+  V9941029:
+    letters: 314
+    percent: 99
+  V9941037:
+    letters: 291
+    percent: 89
+  V9941040:
+    letters: 28
+    percent: 9
+  V9941047:
+    letters: 308
+    percent: 100
+  V9941049:
+    letters: 269
+    percent: 86
+  V9941050:
+    letters: 268
+    percent: 78
+  V9941059:
+    letters: 320
+    percent: 96
+  V9941060:
+    letters: 0
+    percent: 0
+  V9941067:
+    letters: 304
+    percent: 96
+  V9941075:
+    letters: 0
+    percent: 0
+  V9941077:
+    letters: 24
+    percent: 7
