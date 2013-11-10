@@ -14,6 +14,11 @@ id: AFN2N0
 jigsaw: exam
 league: NAF021\_四技外二甲\_選修\_2
 member:
+  - Chinese: 江進慧
+    id: N01200045
+    name: Samantha
+    password: jin
+    rating: ~
   - Chinese: 張志?
     id: N97200035
     name: Claude
@@ -209,11 +214,6 @@ out:
     name: 賴正傑
     password: zheng
     rating: ~
-  - Chinese: 江進慧
-    id: N01200045
-    name: Samantha
-    password: jin
-    rating: ~
   - Chinese: 黃小芳
     id: N01200044
     name: Christy
@@ -279,7 +279,7 @@ out:
     name: Grace
     password: jing
     rating: ~
-room: feng_220
+room: feng-501
 school: must
 scores:
   bye: 5
