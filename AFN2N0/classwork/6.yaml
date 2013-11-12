@@ -50,4 +50,6 @@ White:
   merits: 2
 Silver:
   absent:
+    - Larry
+    - Kate
   merits: 2
