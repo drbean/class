@@ -25,7 +25,7 @@ member:
     rating: 64
   - Chinese: 劉紋君
     id: V9941037
-    name: WenJun
+    name: Vivian
     password: wen
     rating: 76
   - Chinese: 莊翌蝶
@@ -45,17 +45,17 @@ member:
     rating: 58
   - Chinese: 徐婉綾
     id: V9941047
-    name: Wan-Ling
+    name: Emily
     password: wan
     rating: 52
   - Chinese: 詹春英
     id: V9941049
-    name: Chun-Ying
+    name: Amy
     password: chun
     rating: 78
   - Chinese: 詹春華
     id: V9941050
-    name: Chun-Hua
+    name: Judy
     password: chun
     rating: 82
   - Chinese: 張鉯芸
@@ -65,7 +65,7 @@ member:
     rating: 59
   - Chinese: 黃于真
     id: V9941059
-    name: Sophia1
+    name: Sophia
     password: yu
     rating: 70
   - Chinese: 吳李龍
@@ -100,7 +100,7 @@ member:
     rating: 73
   - Chinese: 楊千慧
     id: V9941073
-    name: QianHui
+    name: Yvonne
     password: qian
     rating: 72
   - Chinese: 林柏如
@@ -115,7 +115,7 @@ member:
     rating: 49
   - Chinese: 陳韋志
     id: V9941077
-    name: 陳韋志
+    name: Joe
     password: wei
     rating: ~
 out: ~
