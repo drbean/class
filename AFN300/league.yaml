@@ -18,41 +18,41 @@ member:
     id: N98200021
     name: Neo
     password: yuan
-    rating: ~
+    rating: 0
 
   - Chinese: 葉俞萱
     id: N00200048
     name: Mei
     password: yu
-    rating: ~
+    rating: 0
   
   - Chinese: 郭駿緯 
     id: N99030033 
     name: Jerry
     password: jun
-    rating: ~
+    rating: 0
   - Chinese: 鄭瑞昇
     id: N01202105 
     name: Allen
     password: rui
-    rating: ~
+    rating: 0
             
   - Chinese: 余岱蓉 
     id: N00200045 
     name: Yuki
     password: cha
-    rating: ~
+    rating: 0
   - Chinese: Cindy
     id: N00000000
     name: Cindy
     password: ci
-    rating: ~
+    rating: 0
   
   - Chinese: 李桂英
     id: N00120056
     name: Ally
     password: guei
-    rating: ~
+    rating: 0
   
   - Chinese: 張嘉晏
     id: N00202103
@@ -64,224 +64,224 @@ member:
     id: N00200001
     name: Carlos
     password: xin
-    rating: ~
+    rating: 0
   - Chinese: 林宗賢
     id: N00200003
     name: Ben
     password: zong
-    rating: ~
+    rating: 0
   - Chinese: 江麗玲
     id: N00200006
     name: Selena
     password: li
-    rating: ~
+    rating: 0
   - Chinese: 鄒瓊瑩
     id: N00200007
     name: Joan
     password: qiong
-    rating: ~
+    rating: 0
   - Chinese: 王雅慧
     id: N00200008
     name: MiuMiu
     password: ya
-    rating: ~
+    rating: 0
   - Chinese: 劉玉慧
     id: N00200009
     name: Denise
     password: yu
-    rating: ~
+    rating: 0
   - Chinese: 陳映如
     id: N00200010
     name: Tina
     password: ying
-    rating: ~
+    rating: 0
   - Chinese: 羅莉玲
     id: N00200014
     name: Bunny
     password: li
-    rating: ~
+    rating: 0
   - Chinese: 劉啟芬
     id: N00200015
     name: Teresa
     password: qi
-    rating: ~
+    rating: 0
   - Chinese: 潘信安
     id: N00200017
     name: Andy
     password: xin
-    rating: ~
+    rating: 0
   - Chinese: 胡文瑄
     id: N00200022
     name: Sally
     password: wen
-    rating: ~
+    rating: 0
   - Chinese: 陳宣貝
     id: N00200025
     name: Neil
     password: xuan
-    rating: ~
+    rating: 0
   - Chinese: 魏羽娸
     id: N00200029
     name: Vicky
     password: yu
-    rating: ~
+    rating: 0
   - Chinese: 徐頌華
     id: N00200030
     name: Dave
     password: song
-    rating: ~
+    rating: 0
   - Chinese: 曾詩穎
     id: N00200032
     name: Dora
     password: shi
-    rating: ~
+    rating: 0
   - Chinese: 魏雪如
     id: N00200034
     name: Fion
     password: xue
-    rating: ~
+    rating: 0
   - Chinese: 彭成賓
     id: N00200036
     name: Champion
     password: cheng
-    rating: ~
+    rating: 0
   - Chinese: 林昱瑤
     id: N00200037
     name: Carol
     password: yu
-    rating: ~
+    rating: 0
   - Chinese: 馮小蓉
     id: N00200042
     name: Kelly1
     password: xiao
-    rating: ~
+    rating: 0
   - Chinese: 劉佩欣
     id: N00200043
     name: Katie
     password: pei
-    rating: ~
+    rating: 0
   - Chinese: 邱欣蘭
     id: N00200044
     name: Lanna
     password: xin
-    rating: ~
+    rating: 0
   - Chinese: 呂恩華
     id: N00200054
     name: Alex
     password: en
-    rating: ~
+    rating: 0
   - Chinese: 蔡秉倉
     id: N00200055
     name: Shane
     password: bing
-    rating: ~
+    rating: 0
   - Chinese: 徐敏華
     id: N00200056
     name: Mindy
     password: min
-    rating: ~
+    rating: 0
   - Chinese: 郭姵妤
     id: N00200058
     name: Peggy
     password: pei
-    rating: ~
+    rating: 0
   - Chinese: 蕭巧薇
     id: N01202001
     name: Eva
     password: qiao
-    rating: ~
+    rating: 0
   - Chinese: 彭雅楹
     id: N01202002
     name: Candy
     password: ya
-    rating: ~
+    rating: 0
   - Chinese: 黃冠潔
     id: N01202003
     name: Crown
     password: guan
-    rating: ~
+    rating: 0
   - Chinese: 林宜儒
     id: N01202004
     name: Louie
     password: yi
-    rating: ~
+    rating: 0
   - Chinese: 黃秀娟
     id: N01202101
     name: Emily
     password: xiu
-    rating: ~
+    rating: 0
   - Chinese: 吳振暐
     id: N01202103
     name: Jeff
     password: zhen
-    rating: ~
+    rating: 0
   - Chinese: 溫嘉翔
     id: N02203102
     name: James
     password: jia
-    rating: ~
+    rating: 0
   - Chinese: 管得成
     id: N99030025
     name: Don
     password: de
-    rating: ~
+    rating: 0
 out:
   - Chinese: 嚴佳馨
     id: N00200031
     name: 嚴佳馨
     password: jia
-    rating: ~
+    rating: 0
   - Chinese: 戴睿萱
     id: N00200051
     name: 戴睿萱
     password: rui
-    rating: ~
+    rating: 0
   - Chinese: 林雯柔
     id: N98200037
     name: 林雯柔
     password: wen
-    rating: ~
+    rating: 0
   - Chinese: 周彥伶
     id: N00200027
     name: 周彥伶
     password: yan
-    rating: ~
+    rating: 0
   - Chinese: 呂旻汶
     id: N02203101
     name: 呂旻汶
     password: min
-    rating: ~
+    rating: 0
   - Chinese: 張君鈺
     id: N99100009
     name: Claire
     password: jun
-    rating: ~
+    rating: 0
   - Chinese: 鄧茜久
     id: N97200033
     name: Kelly2
     password: qian
-    rating: ~
+    rating: 0
   - Chinese: 詹益昌
     id: N01202104
     name: 詹益昌
     password: yi
-    rating: ~
+    rating: 0
   - Chinese: 陳俊生
     id: N00200047
     name: 陳俊生
     password: jun
-    rating: ~
+    rating: 0
   - Chinese: 曾孟妍
     id: N00200018
     name: 曾孟妍
     password: meng
-    rating: ~
+    rating: 0
   - Chinese: 彭為騰
     id: N00200013
     name: 彭為騰
     password: wei
-    rating: ~
-room: feng-223
+    rating: 0
+room: feng-501
 school: must
 scores:
   bye: 5
@@ -292,6 +292,7 @@ scores:
   win: 5
 session:
   1: 1
+  2: 6
 weights:
   classwork: 40
   exams: 20
