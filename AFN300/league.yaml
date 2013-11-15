@@ -14,17 +14,38 @@ id: AFN300
 jigsaw: exam
 league: NAF031\\\_四技外三甲\\\_必修\\\_2
 member:
+  - Chinese: 葉俞萱
+    id: N00200048
+    name: Mei
+    password: yu
+    rating: 0
+  - Chinese: 余岱蓉 
+    id: N00200045 
+    name: Yuki
+    password: cha
+    rating: 0
+  - Chinese: 陳映如
+    id: N00200010
+    name: Tina
+    password: ying
+    rating: 0
+  - Chinese: 曾詩穎
+    id: N00200032
+    name: Dora
+    password: shi
+    rating: 0
+  - Chinese: 黃冠潔
+    id: N01202003
+    name: Crown
+    password: guan
+    rating: 0
+
   - Chinese: 鐘元君
     id: N98200021
     name: Neo
     password: yuan
     rating: 0
 
-  - Chinese: 葉俞萱
-    id: N00200048
-    name: Mei
-    password: yu
-    rating: 0
   
   - Chinese: 郭駿緯 
     id: N99030033 
@@ -37,11 +58,6 @@ member:
     password: rui
     rating: 0
             
-  - Chinese: 余岱蓉 
-    id: N00200045 
-    name: Yuki
-    password: cha
-    rating: 0
   - Chinese: 嚴佳馨
     id: N00200031
     name: Cindy
@@ -90,11 +106,6 @@ member:
     name: Denise
     password: yu
     rating: 0
-  - Chinese: 陳映如
-    id: N00200010
-    name: Tina
-    password: ying
-    rating: 0
   - Chinese: 羅莉玲
     id: N00200014
     name: Bunny
@@ -129,11 +140,6 @@ member:
     id: N00200030
     name: Dave
     password: song
-    rating: 0
-  - Chinese: 曾詩穎
-    id: N00200032
-    name: Dora
-    password: shi
     rating: 0
   - Chinese: 魏雪如
     id: N00200034
@@ -195,11 +201,6 @@ member:
     name: Candy
     password: ya
     rating: 0
-  - Chinese: 黃冠潔
-    id: N01202003
-    name: Crown
-    password: guan
-    rating: 0
   - Chinese: 林宜儒
     id: N01202004
     name: Louie
@@ -226,6 +227,7 @@ member:
     password: de
     rating: 0
 out:
+
   - Chinese: 戴睿萱
     id: N00200051
     name: 戴睿萱
