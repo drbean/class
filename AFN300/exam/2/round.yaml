@@ -2,79 +2,90 @@
 round: Exam 2
 week: 9
 questions:
-  - 10
-pass: 4
+  - 3
+pass: 1
 assistant:
+  - Selena
+  - Dora
 absent:
-text: /home/drbean/class/literature/cards.yaml
+  - Crown
+text: /home/drbean/class/conversation/parents/cards.yaml
 activity:
-  swiss:
-    0:
-      - OrangeOrange
-      - Yellow
-    1:
+  biomom:
+    4:
       - Blue
-      - Brown
-  frankenstein:
-    0:
-      - Orange
-      - Red
-    1:
-      - BlackBlack
-      - Green
-  twist:
-    0:
-      - Black
-      - Purple
-    1:
       - BlueBlue
+      - Brown
+      - Orange
+  biodad:
+    1:
+      - Black
+      - Gray
+      - Green
+      - Purple
+      - White
+  emersonj:
+    2:
+      - BlackBlack
+      - OrangeOrange
       - Pink
+      - Red
+      - Yellow
+
 group:
   Black:
-    - Cherry2
-    - Vickey
-    - Juby
-  Blue:
-    - Lee
-    - Zona
-    - Alisa
-  Brown:
+    - Kelly1
     - James
-    - Eve
-    - Sue
-  Green:
-    - Hulie
-    - Olivia
-    - Winnie
-  BlackBlack:
-    - Louis
-    - Nitro
-    - Tina
-  BlueBlue:
-    - Nora
-    - Vivian
-    - Carol
-  Orange:
-    - Ariel
-    - Joelle
-    - Debby
-  Pink:
-    - Betty
-    - Senna
-    - Hellen
-  Purple:
-    - Amber
+    - Ally
+  Blue:
+    - Mei
     - Peggy
-    - Kate
+    - Selena
+  Brown:
+    - MiuMiu
+    - Shane
+    - Jerry
+  Gray:
+    - Champion
+    - Ben
+    - Candy
+  Green:
+    - Eva
+    - Tina
+    - Sally
+  BlackBlack:
+    - Neil
+    - Carol
+    - Teresa
+  BlueBlue:
+    - Lanna
+    - Louie
+    - Carlos
+  Orange:
+    - Alex
+    - Emily
+    - Denise
+  Pink:
+    - Katie
+    - Selena
+    - Mindy
+  Purple:
+    - Joan
+    - Yuki
+    - Allen
   Red:
-    - Evy
-    - Sonia
-    - Michael
-  Yellow:
-    - Andy
-    - Elaine
-    - Lainey
-  OrangeOrange:
+    - Don
+    - Dora
+    - Jeff
+  White:
     - Cindy
-    - Foxy
-    - Cherry1
+    - Neo
+    - Dave
+  Yellow:
+    - Vicky
+    - Andy
+    - Bunny
+  OrangeOrange:
+    - Fion
+    - Betty
+    - Dora
