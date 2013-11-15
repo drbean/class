@@ -42,10 +42,10 @@ member:
     name: Yuki
     password: cha
     rating: 0
-  - Chinese: Cindy
-    id: N00000000
+  - Chinese: 嚴佳馨
+    id: N00200031
     name: Cindy
-    password: ci
+    password: jia
     rating: 0
   
   - Chinese: 李桂英
@@ -226,11 +226,6 @@ member:
     password: de
     rating: 0
 out:
-  - Chinese: 嚴佳馨
-    id: N00200031
-    name: 嚴佳馨
-    password: jia
-    rating: 0
   - Chinese: 戴睿萱
     id: N00200051
     name: 戴睿萱
