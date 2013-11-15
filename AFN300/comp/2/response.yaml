@@ -1,405 +1,458 @@
 ---
 free:
   1:
-    swiss:
-      0:
-        N99200025:
+    biomom:
+      4:
+        N00200034:
           point:
             1: Old
-            2: Fault
-        N99200035:
+            2: Old
+            3: Returned
+        N00200029:
           point:
-            1: Returned
-    frankenstein:
-      0:
-        N99200025:
+            1: Nil
+    biodad:
+      1:
+        N00200034:
           point:
-            1: Returned
-        N99200035:
+            1: Nil
+        N00200029:
           point:
-            1: Fault
-    twist:
-      0:
-        N99200025:
+            1: Nil
+    emersonj:
+      2:
+        N00200034:
           point:
-            1: Fault
-        N99200035:
+            1: Nil
+        N00200029:
           point:
             1: Nil
   2:
-    swiss:
-      0:
-        N99200041:
+    biomom:
+      4:
+        N00200010:
+          point:
+            1: Old
+        N01202001:
           point:
             1: Returned
-        N99200039:
-          point:
-            1: Fault
-    frankenstein:
-      0:
-        N99200041:
+    biodad:
+      1:
+        N00200010:
           point:
             1: Returned
-        N99200039:
-          point:
-            1: Returned
-    twist:
-      0:
-        N99200041:
+        N01202001:
           point:
             1: Nil
-        N99200039:
+    emersonj:
+      2:
+        N00200010:
+          point:
+            1: Old
+        N01202001:
           point:
             1: Nil
   3:
-    swiss:
-      0:
-        N00202103:
+    biomom:
+      4:
+        N01202101:
           point:
             1: Returned
-        N99200028:
+        N00200015:
           point:
             1: Nil
-    frankenstein:
-      0:
-        N00202103:
+    biodad:
+      1:
+        N01202101:
+          point:
+            1: Nil
+        N00200015:
           point:
             1: Fault
-        N99200028:
+    emersonj:
+      2:
+        N01202101:
           point:
-            1: Returned
-    twist:
-      0:
-        N00202103:
+            1: Nil
+        N00200015:
           point:
-            1: Returned
-        N99200028:
-          point:
-            1: Returned
+            1: Nil
   4:
-    swiss:
-      0:
-        N99200014:
+    biomom:
+      4:
+        N00200055:
+          point:
+            1: Returned
+        N00200032:
+          point:
+            1: Fault
+    biodad:
+      1:
+        N00200055:
+          point:
+            1: Nil
+        N00200032:
+          point:
+            1: Nil
+    emersonj:
+      2:
+        N00200055:
+          point:
+            1: Nil
+        N00200032:
+          point:
+            1: Nil
+  5:
+    biomom:
+      4:
+        N99030025:
           point:
             1: Old
             2: Returned
-        N99200012:
-          point:
-            1: Returned
-    frankenstein:
-      0:
-        N99200014:
-          point:
-            1: Returned
-        N99200012:
-          point:
-            1: Returned
-    twist:
-      0:
-        N99200014:
-          point:
-            1: Returned
-        N99200012:
-          point:
-            1: Returned
-  5:
-    swiss:
-      0:
-        N99200050:
-          point:
-            1: Returned
-        N99200010:
+        N00200006:
           point:
             1: Fault
-    frankenstein:
-      0:
-        N99200050:
-          point:
-            1: Returned
-        N99200010:
-          point:
-            1: Fault
-    twist:
-      0:
-        N99200050:
+    biodad:
+      1:
+        N99030025:
           point:
             1: Nil
-        N99200010:
+        N00200006:
+          point:
+            1: Nil
+    emersonj:
+      2:
+        N99030025:
+          point:
+            1: Nil
+        N00200006:
           point:
             1: Nil
   6:
-    swiss:
-      0:
-        N99200005:
+    biomom:
+      4:
+        N00200022:
           point:
-            1: Returned
-        N99200016:
+            1: Fault
+        N00200009:
           point:
-            1: Old
-            2: Fault
-    frankenstein:
-      0:
-        N99200005:
+            1: Nil
+    biodad:
+      1:
+        N00200022:
           point:
-            1: Returned
-        N99200016:
+            1: Nil
+        N00200009:
           point:
-            1: Returned
-    twist:
-      0:
-        N99200005:
+            1: Nil
+    emersonj:
+      2:
+        N00200022:
           point:
-            1: Returned
-        N99200016:
+            1: Nil
+        N00200009:
           point:
             1: Nil
   7:
-    swiss:
-      0:
-        N99200021:
+    biomom:
+      4:
+        N00200030:
+          point:
+            1: Returned
+        N00200058:
+          point:
+            1: Returned
+    biodad:
+      1:
+        N00200030:
+          point:
+            1: Returned
+        N00200058:
+          point:
+            1: Nil
+    emersonj:
+      2:
+        N00200030:
+          point:
+            1: Nil
+        N00200058:
+          point:
+            1: Old
+            2: Old
+            3: Fault
+  8:
+    biomom:
+      4:
+        N00200031:
+          point:
+            1: Returned
+        N00200025:
+          point:
+            1: Old
+    biodad:
+      1:
+        N00200031:
+          point:
+            1: Nil
+        N00200025:
+          point:
+            1: Old
+    emersonj:
+      2:
+        N00200031:
+          point:
+            1: Nil
+        N00200025:
+          point:
+            1: Returned
+  9:
+    biomom:
+      4:
+        N00200008:
+          point:
+            1: Returned
+        N00200036:
           point:
             1: Fault
-        N99200023:
-          point:
-            1: Returned
-    frankenstein:
-      0:
-        N99200021:
-          point:
-            1: Returned
-        N99200023:
-          point:
-            1: Returned
-    twist:
-      0:
-        N99200021:
-          point:
-            1: Returned
-        N99200023:
+    biodad:
+      1:
+        N00200008:
           point:
             1: Nil
-  8:
-    swiss:
-      0:
-        N99200047:
-          point:
-            1: Returned
-        N99200033:
-          point:
-            1: Returned
-    frankenstein:
-      0:
-        N99200047:
+        N00200036:
           point:
             1: Nil
-        N99200033:
+    emersonj:
+      2:
+        N00200008:
           point:
-            1: Nil
-    twist:
-      0:
-        N99200047:
-          point:
-            1: Nil
-        N99200033:
-          point:
-            1: Nil
-  9:
-    swiss:
-      0:
-        N99200030:
-          point:
-            1: Returned
-        N99200022:
-          point:
-            1: Returned
-    frankenstein:
-      0:
-        N99200030:
-          point:
-            1: Returned
-        N99200022:
-          point:
-            1: Returned
-    twist:
-      0:
-        N99200030:
-          point:
-            1: Nil
-        N99200022:
+            1: Old
+            2: Fault
+        N00200036:
           point:
             1: Nil
   10:
-    swiss:
-      0:
-        N99200051:
-          point:
-            1: Nil
-        N99200036:
-          point:
-            1: Nil
-    frankenstein:
-      0:
-        N99200051:
+    biomom:
+      4:
+        N00200037:
           point:
             1: Returned
-        N99200036:
+        N00200056:
           point:
             1: Returned
-    twist:
-      0:
-        N99200051:
+    biodad:
+      1:
+        N00200037:
           point:
             1: Nil
-        N99200036:
+        N00200056:
+          point:
+            1: Nil
+    emersonj:
+      2:
+        N00200037:
+          point:
+            1: Nil
+        N00200056:
           point:
             1: Nil
   11:
-    swiss:
-      0:
-        N96200019:
+    biomom:
+      4:
+        N00200048:
           point:
             1: Returned
-        N99200004:
+        N00200001:
           point:
             1: Returned
-    frankenstein:
-      0:
-        N96200019:
-          point:
-            1: Returned
-        N99200004:
+    biodad:
+      1:
+        N00200048:
           point:
             1: Nil
-    twist:
-      0:
-        N96200019:
+        N00200001:
           point:
             1: Nil
-        N99200004:
+    emersonj:
+      2:
+        N00200048:
+          point:
+            1: Nil
+        N00200001:
           point:
             1: Nil
   12:
-    swiss:
-      0:
-        N99200013:
+    biomom:
+      4:
+        N01202002:
+          point:
+            1: Nil
+        N01202004:
+          point:
+            1: Nil
+    biodad:
+      1:
+        N01202002:
+          point:
+            1: Nil
+        N01202004:
+          point:
+            1: Unreturned
+    emersonj:
+      2:
+        N01202002:
           point:
             1: Returned
-        N99200011:
+        N01202004:
           point:
-            1: Returned
-    frankenstein:
-      0:
-        N99200013:
-          point:
-            1: Returned
-        N99200011:
-          point:
-            1: Returned
-    twist:
-      0:
-        N99200013:
-          point:
-            1: Returned
-        N99200011:
-          point:
-            1: Returned
+            1: Nil
   13:
-    swiss:
-      0:
-        N99200008:
-          point:
-            1: Fault
-        N99200002:
+    biomom:
+      4:
+        N00200044:
           point:
             1: Returned
-    frankenstein:
-      0:
-        N99200008:
+        N00200014:
           point:
-            1: Returned
-        N99200002:
+            1: Nil
+    biodad:
+      1:
+        N00200044:
           point:
-            1: Returned
-    twist:
-      0:
-        N99200008:
+            1: Nil
+        N00200014:
           point:
-            1: Fault
-        N99200002:
+            1: Nil
+    emersonj:
+      2:
+        N00200044:
           point:
-            1: Returned
+            1: Nil
+        N00200014:
+          point:
+            1: Nil
   14:
-    swiss:
-      0:
-        N99200019:
+    biomom:
+      4:
+        N00200043:
+          point:
+            1: Returned
+        N00200017:
+          point:
+            1: Returned
+    biodad:
+      1:
+        N00200043:
           point:
             1: Nil
-        N99200009:
+        N00200017:
           point:
             1: Nil
-    frankenstein:
-      0:
-        N99200019:
+    emersonj:
+      2:
+        N00200043:
           point:
             1: Nil
-        N99200009:
-          point:
-            1: Nil
-    twist:
-      0:
-        N99200019:
-          point:
-            1: Nil
-        N99200009:
+        N00200017:
           point:
             1: Nil
   15:
-    swiss:
-      0:
-        N99200027:
+    biomom:
+      4:
+        N00200054:
           point:
-            1: Returned
-        N99200020:
+            1: Nil
+        N99030033:
           point:
-            1: Fault
-    frankenstein:
-      0:
-        N99200027:
+            1: Nil
+    biodad:
+      1:
+        N00200054:
           point:
-            1: Returned
-        N99200020:
+            1: Nil
+        N99030033:
           point:
-            1: Returned
-    twist:
-      0:
-        N99200027:
+            1: Nil
+    emersonj:
+      2:
+        N00200054:
           point:
-            1: Returned
-        N99200020:
+            1: Nil
+        N99030033:
           point:
-            1: Returned
+            1: Nil
   16:
-    swiss:
-      0:
-        N99200007:
+    biomom:
+      4:
+        N00200007:
           point:
             1: Fault
-        N00202003:
+        N00202103:
           point:
-            1: Fault
-    frankenstein:
-      0:
-        N99200007:
+            1: Unreturned
+    biodad:
+      1:
+        N00200007:
           point:
             1: Returned
-        N00202003:
-          point:
-            1: Fault
-    twist:
-      0:
-        N99200007:
+        N00202103:
           point:
             1: Nil
-        N00202003:
+    emersonj:
+      2:
+        N00200007:
           point:
             1: Nil
+        N00202103:
+          point:
+            1: Nil
+  17:
+    biomom:
+      4:
+        N01202103:
+          point:
+            1: Nil
+        N00200003:
+          point:
+            1: Nil
+    biodad:
+      1:
+        N01202103:
+          point:
+            1: Nil
+        N00200003:
+          point:
+            1: Nil
+    emersonj:
+      2:
+        N01202103:
+          point:
+            1: Returned
+        N00200003:
+          point:
+            1: Returned
+  18:
+    biomom:
+      4:
+        N01202105:
+          point:
+            1: Returned
+        N98200021:
+          point:
+            1: Nil
+    biodad:
+      1:
+        N01202105:
+          point:
+            1: Nil
+        N98200021:
+          point:
+            1: Nil
+    emersonj:
+      2:
+        N01202105:
+          point:
+            1: Nil
+        N98200021:
+          point:
+            1: Returned

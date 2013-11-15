@@ -5,71 +5,83 @@ Chinese:
   Blue: 0
   BlueBlue: 0
   Brown: 0
+  Gray: 0
   Green: 0
   Orange: 0
   OrangeOrange: 0
   Pink: 0
   Purple: 0
   Red: 0
+  White: 0
   Yellow: 0
 letters:
   Black:
-    N99200010: 5
-    N99200036: 5
-    N99200005: 9
-    story: twist0
+    N00200042: 3
+    N02203102: 3
+    N00120056: 3
+    story: biodad1
   BlackBlack:
-    N99200023: 8
-    N99200032: 8
-    N99200033: 8
-    story: frankenstein1
+    N00200025: 3
+    N00200037: 3
+    N00200015: 3
+    story: emersonj2
   Blue:
-    N99200025: 3
-    N00202003: 7
-    N99200051: 5
-    story: swiss1
+    N00200048: 3
+    N00200058: 3
+    N00200006: 3
+    story: biomom4
   BlueBlue:
-    N99200016: 10
-    N99200028: 10
-    N99200009: 7
-    story: twist1
+    N00200044: 1
+    N01202004: 1
+    N00200001: 3
+    story: biomom4
   Brown:
-    N99200041: 9
-    N99200022: 8
-    N99200007: 7
-    story: swiss1
+    N00200008: 3
+    N00200055: 3
+    N99030033: 3
+    story: biomom4
+  Gray:
+    N00200036: 3
+    N00200003: 3
+    N01202002: 3
+    story: biodad1
   Green:
-    N99200035: 8
-    N99200050: 8
-    N99200027: 5
-    story: frankenstein1
+    N01202001: 1
+    N00200010: 1
+    N00200022: 1
+    story: biodad1
   Orange:
-    N97080093: 10
-    N99200045: 10
-    N99200024: 8
-    story: frankenstein0
+    N00200054: 1
+    N01202101: 3
+    N00200009: 3
+    story: biomom4
   OrangeOrange:
-    N99200030: 7
-    N99200013: 7
-    N99200021: 6
-    story: swiss0
+    N00200034: 3
+    N00202103: 3
+    N00200032: 3
+    story: emersonj2
   Pink:
-    N00202103: 9
-    N99200012: 10
-    N99200002: 9
-    story: twist1
+    N00200043: 3
+    N00200006: 3
+    N00200056: 3
+    story: emersonj2
   Purple:
-    N99200019: 9
-    N99200047: 5
-    N99200011: 9
-    story: twist0
+    N00200007: 3
+    N00200045: 3
+    N01202105: 3
+    story: biodad1
   Red:
-    N99200014: 9
-    N96200019: 7
-    N99200004: 10
-    story: frankenstein0
+    N99030025: 0
+    N00200032: 0
+    N01202103: 0
+    story: emersonj2
+  White:
+    N00200031: 3
+    N98200021: 3
+    N00200030: 3
+    story: biodad1
   Yellow:
-    N99200039: 7
-    N99200008: 7
-    N99200020: 7
-    story: swiss0
+    N00200029: 3
+    N00200017: 3
+    N00200014: 3
+    story: emersonj2
