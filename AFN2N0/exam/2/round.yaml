@@ -2,79 +2,78 @@
 round: Exam 2
 week: 9
 questions:
-  - 10
-pass: 4
+  - 2
+pass: 0
 assistant:
+  - David
+  - Bill
 absent:
-text: /home/drbean/class/literature/cards.yaml
+  - Samantha
+  - Larry
+  - Kate
+  - Apple
+  - Lucia
+  - Elvira
+  - Esme
+  - Ruby
+  - Ava
+  - Fang
+  - Devon
+  - Justin
+  - Mira
+text: /home/drbean/class/business/negotiations/Webvac/cards.yaml
 activity:
-  swiss:
-    0:
-      - OrangeOrange
-      - Yellow
-    1:
-      - Blue
-      - Brown
-  frankenstein:
-    0:
-      - Orange
-      - Red
-    1:
-      - BlackBlack
-      - Green
-  twist:
-    0:
+  vacations:
+    777:
       - Black
-      - Purple
-    1:
-      - BlueBlue
+      - Orange
+
+    999:
+      - Gray
+      - Green
+      - White
+    333:
+      - Chocolate
       - Pink
+
+    444:
+      - Blue
+      - Yellow
+
 group:
   Black:
-    - Cherry2
-    - Vickey
-    - Juby
-  Blue:
-    - Lee
-    - Zona
-    - Alisa
-  Brown:
-    - James
-    - Eve
-    - Sue
-  Green:
-    - Hulie
+    - Helen1
     - Olivia
-    - Winnie
-  BlackBlack:
-    - Louis
-    - Nitro
-    - Tina
-  BlueBlue:
-    - Nora
-    - Vivian
-    - Carol
+    - Cathy
+  Gray:
+    - David
+    - Strawberry
+    - Peter
+  Blue:
+    - David
+    - Helen2
+    - Shine
+  Green:
+    - Corey
+    - Doni
+    - Penny
+  Chocolate:
+    - Wade
+    - Jim
+    - Amy1
   Orange:
-    - Ariel
-    - Joelle
-    - Debby
+    - Wayne
+    - Kelly
+    - Ted
   Pink:
-    - Betty
-    - Senna
-    - Hellen
-  Purple:
-    - Amber
-    - Peggy
-    - Kate
-  Red:
-    - Evy
-    - Sonia
-    - Michael
+    - Bill
+    - Joanne2
+    - Dave
+  White:
+    - Amy2
+    - Dara
+    - Bill
   Yellow:
-    - Andy
-    - Elaine
-    - Lainey
-  OrangeOrange:
-    - Cindy
-    - Foxy
-    - Cherry1
+    - Kate
+    - Vicky
+    - Jeff
