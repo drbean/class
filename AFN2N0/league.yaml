@@ -14,34 +14,17 @@ id: AFN2N0
 jigsaw: exam
 league: NAF021\_四技外二甲\_選修\_2
 member:
-  - Chinese: 凾登舜
-    id: N01200020
-    name: Larry
-    password: deng
+  - Chinese: 徐禹婷
+    id: N01200009
+    name: Olivia
+    password: yu
     rating: ~
+
   - Chinese: 徐瑋萱
     id: N01200008
     name: Kate
     password: wei
     rating: ~
-  - Chinese: 江進慧
-    id: N01200045
-    name: Samantha
-    password: jin
-    rating: ~
-  - Chinese: 張志?
-    id: N97200035
-    name: Claude
-    password: zhi
-    rating: ~
-  
-  - Chinese: 范思惟
-    id: B00200054
-    name: Wade
-    password: si
-    rating: ~
- 
-  
 
   - Chinese: 羅芳鋙
     id: N97120058
@@ -58,30 +41,10 @@ member:
     name: Amy2
     password: yu
     rating: ~
-  - Chinese: 劉晨宇
-    id: N99080075
-    name: Justin
-    password: chen
-    rating: ~
   - Chinese: 鄧茜文
     id: N97200033
     name: Kelly
     password: qian
-    rating: ~
-  - Chinese: 凾紫渝
-    id: N01200010
-    name: Ruby
-    password: zi
-    rating: ~
-  - Chinese: 范育芳
-    id: N01200014
-    name: Devon
-    password: yu
-    rating: ~
-  - Chinese: 許依萍
-    id: N01200016
-    name: Apple
-    password: yi
     rating: ~
   - Chinese: 王楚寒
     id: N01200018
@@ -108,11 +71,6 @@ member:
     name: Vicky
     password: yu
     rating: ~
-  - Chinese: 陳俐婷
-    id: N01200028
-    name: Mira
-    password: li
-    rating: ~
   - Chinese: 黃俞嘉
     id: N01200029
     name: Shine
@@ -138,16 +96,6 @@ member:
     name: Penny
     password: pei
     rating: ~
-  - Chinese: 陳怡真
-    id: N01200048
-    name: Ava
-    password: yi
-    rating: ~
-  - Chinese: 陳怡芳
-    id: N01200049
-    name: Fang
-    password: yi
-    rating: ~
   - Chinese: 林秀華
     id: N01200051
     name: Helen2
@@ -158,20 +106,10 @@ member:
     name: Ted
     password: sheng
     rating: ~
-  - Chinese: 張敏鈺
-    id: N01200058
-    name: Lucia
-    password: min
-    rating: ~
   - Chinese: 陳文億
     id: N02202101
     name: Dave
     password: wen
-    rating: ~
-  - Chinese: 鄭宇婷
-    id: N02202104
-    name: Esme
-    password: yu
     rating: ~
   - Chinese: 劉芳瑀
     id: N02202106
@@ -182,11 +120,6 @@ member:
     id: N02202110
     name: Wayne
     password: wei
-    rating: ~
-  - Chinese: 董翌亦
-    id: N02202111
-    name: Elvira
-    password: yi
     rating: ~
   - Chinese: 方志嘉
     id: N02202112
@@ -204,6 +137,98 @@ member:
     password: qiao
     rating: ~
 out:
+  - Chinese: 凾登舜
+    id: N01200020
+    name: Larry
+    password: deng
+    rating: ~
+
+  - Chinese: 江進慧
+    id: N01200045
+    name: Samantha
+    password: jin
+    rating: ~
+  - Chinese: 張志?
+    id: N97200035
+    name: Claude
+    password: zhi
+    rating: ~
+  
+  - Chinese: 范思惟
+    id: B00200054
+    name: Wade
+    password: si
+    rating: ~
+ 
+  
+  - Chinese: 江進慧
+    id: N01200045
+    name: Samantha
+    password: jin
+    rating: ~
+  - Chinese: 張志?
+    id: N97200035
+    name: Claude
+    password: zhi
+    rating: ~
+  
+  - Chinese: 范思惟
+    id: B00200054
+    name: Wade
+    password: si
+    rating: ~
+ 
+  
+  - Chinese: 劉晨宇
+    id: N99080075
+    name: Justin
+    password: chen
+    rating: ~
+  - Chinese: 凾紫渝
+    id: N01200010
+    name: Ruby
+    password: zi
+    rating: ~
+  - Chinese: 范育芳
+    id: N01200014
+    name: Devon
+    password: yu
+    rating: ~
+  - Chinese: 許依萍
+    id: N01200016
+    name: Apple
+    password: yi
+    rating: ~
+  - Chinese: 陳俐婷
+    id: N01200028
+    name: Mira
+    password: li
+    rating: ~
+  - Chinese: 陳怡真
+    id: N01200048
+    name: Ava
+    password: yi
+    rating: ~
+  - Chinese: 陳怡芳
+    id: N01200049
+    name: Fang
+    password: yi
+    rating: ~
+  - Chinese: 張敏鈺
+    id: N01200058
+    name: Lucia
+    password: min
+    rating: ~
+  - Chinese: 鄭宇婷
+    id: N02202104
+    name: Esme
+    password: yu
+    rating: ~
+  - Chinese: 董翌亦
+    id: N02202111
+    name: Elvira
+    password: yi
+    rating: ~
   - Chinese: 蔡承翰
     id: N01200042
     name: 蔡承翰
@@ -238,11 +263,6 @@ out:
     id: N01200026 
     name: Betty
     password: shu
-    rating: ~
-  - Chinese: 徐禹婷
-    id: N01200009
-    name: Olivia
-    password: yu
     rating: ~
   - Chinese: 范芝喬
     id: N01200002
