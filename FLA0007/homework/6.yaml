@@ -1,163 +1,24 @@
 ---
-exercise: presentation
+exercise: 3-point presentation
 criteria:
-  - title, description
-  - analysis
 grade:
-  9622299 : 2
-  N9561732: 3
-  N9661713: 3
-  N9661749: 3
-  U9616041: 3
-  V0099121_0921: 3
-  V9724004: 0
-  V9731059: 0
-  V9741009: 2
-  V9741010: 3
-  V9741014: 3
-  V9741016: 3
-  V9741018: 0
-  V9741023: 3
-  V9741024: 3
-  V9741025: 3
-  V9741029: 3
-  V9741030: 3
-  V9741032: 3
-  V9741034: 3
-  V9741036: 0
-  V9741037: 3
-  V9741040: 3
-  V9741041: 3
-  V9741042: 3
-  V9741043: 2
-  V9741047: 3
-  V9741048: 3
-  V9741049: 3
-  V9741053: 3
-  V9741055: 3
-  V9741057: 2
-  V9741059: 3
-  V9741060: 3
-  V9741061: 3
-  V9741064: 1
-  V9741065: 0
-  V9741066: 2
-  V9841014: 3
-topics:
-  Abby:
-    id: V9741055
-    topic: travel
-  Alan:
-    id: V9741009
-    topic: music
-  Amy:
-    id: V9741064
-    topic: dance
-  Andy:
-    id: V9741010
-    topic: calligraphy
-  Anita:
-    id: V9741016
-    topic: outside activity
-  Aska:
-    id: V9741048
-    topic: biking
-  Bruce:
-    id: V9741061
-    topic: facebook
-  Cathy:
-    id: V9741018
-    topic: ~
-  Chelsea:
-    id: N9661749
-    topic: pet
-  Donna:
-    id: V9741030
-    topic: travel
-  Edison:
-    id: 9622299
-    topic: psychology
-  Elly:
-    id: V9741023
-    topic: future
-  Emily1:
-    id: V9741024
-    topic: America
-  Emily2:
-    id: V9741034
-    topic: movies
-  Eva:
-    id: V9741042
-    topic: America
-  Frances:
-    id: V9741065
-    topic: ~
-  Hank:
-    id: N9561732
-    topic: cold
-  Ivy1:
-    id: V9741047
-    topic: ~
-  Ivy2:
-    id: V9741059
-    topic: music
-  Jacinta:
-    id: V9741036
-    topic: ~
-  Jessica:
-    id: V9741043
-    topic: food
-  Jimmy:
-    id: V0099121_0921
-    topic: dodgeball
-  Joe:
-    id: V9741066
-    topic: sport
-  Joey:
-    id: N9661713
-    topic: japan travel
-  Kathy:
-    id: V9741060
-    topic: novel
-  Kumiko:
-    id: V9741029
-    topic: movie
-  Luke:
-    id: V9841014
-    topic: sport
-  Maggie:
-    id: V9741032
-    topic: music
-  Melissa:
-    id: V9741014
-    topic: eating
-  Molly:
-    id: V9741053
-    topic: dancing
-  Nancy:
-    id: V9724004
-    topic: ~
-  Nina:
-    id: V9741057
-    topic: learn Japanese
-  Peggy:
-    id: V9741037
-    topic: fast food
-  Rachel:
-    id: V9741040
-    topic: learning English
-  Sophie:
-    id: V9741049
-    topic: war game
-  Tina:
-    id: V9741041
-    topic: favorite sport
-  Tracy:
-    id: V9741025
-    topic: pet
-  Vera:
-    id: U9616041
-    topic: website
-  Vivi:
-    id: V9731059
-    topic: ~
+  V9741022: 3
+  V9841025: 3
+  V9841042: 3
+  V9916050: 3
+  V9941001: 0
+  V9941005: 0
+  V9941007: 0
+  V9941010: 2
+  V9941011: 3
+  V9941012: 3
+  V9941013: 0
+  V9941014: 0
+  V9941015: 2
+  V9941022: 3
+  V9941023: 3
+  V9941025: 3
+  V9941026: 3
+  V9941027: 3
+  V9941029: 3
+  V9941031: 3
