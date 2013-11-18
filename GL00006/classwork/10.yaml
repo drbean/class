@@ -1,0 +1,28 @@
+---
+Black:
+  absent: 
+  merits: 2
+Gray:
+  absent: 
+  merits: 3
+
+Blue:
+  tardy:
+  absent: 
+  merits: 2
+Brown:
+  absent: 
+  merits: 3
+
+Orange:
+  absent: 
+  merits: 3
+Green:
+  absent: 
+  merits: 2
+
+Yellow:
+  absent: 
+    - Simon
+    - Yukin
+  merits: 2
