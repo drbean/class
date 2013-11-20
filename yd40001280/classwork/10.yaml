@@ -1,68 +1,70 @@
 ---
-
 Black:
   absent: 
-  merits: 3
+  merits: 2
 Blue:
   absent: 
-  merits: 2
+  merits: 3
 
 Brown:
   absent: 
-  merits: 2
-Gray:
-  absent: 
-    - Danny
+    - Tony
   merits: 3
+Khaki:
+  absent: 
+    - Fanny
+  merits: 2
+
+Chocolate:
+  absent: 
+  merits: 3
+Charcoal:
+  absent: 
+    - Banana
+  merits: 2
 
 Green:
   absent: 
-  merits: 3
-BlackBlack:
-  absent: 
-    - Lisa
-  merits: 2
-
-BlueBlue:
-  absent: 
-  merits: 2
-GreenGreen:
-  absent: 
-  merits: 3
-
+    - Loy
+    - Tina
+    - Vivian
+  merits: 0
 Orange:
   absent:
-    - Abby
-  merits: 2
-Pink:
-  absent: 
-    - Yvonne
+    - Hsuan
   merits: 3
 
+Pink:
+  absent: 
+    - Amy
+    - JiaRong
+  merits: 2
 Purple:
   absent: 
-    - Tina
-  merits: 2
+  merits: 3
+
 Red:
   absent: 
+    - Cindy1
+    - Rita1
+  merits: 2
+Silver:
+  absent: 
+    - YongXuan
   merits: 3
+Parker:
+  absent: 
+    - Parker
+  merits: 0
 
 White:
   absent: 
-    - Ann
-  merits: 3
+    - Jenny
+    - Vicky
+  merits: 0
 Yellow:
   absent: 
-  merits: 2
-
-PinkPink:
-  absent: 
+    - Wen-Jen
+    - Zoo
   merits: 3
-PurplePurple:
-  absent: 
-  merits: 2
 
-# assistants
-YellowYellow:
-  absent: 
-  merits: 3
