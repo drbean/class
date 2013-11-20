@@ -3,7 +3,7 @@ Black:
   - Bread
   - Will
   - Andy
-BlackBlack:
+Charcoal:
   - Chun
   - Eric
   - Banana
@@ -11,7 +11,7 @@ Blue:
   - Yu-Chen
   - James
   - Cain
-BlueBlue:
+Chocolate:
   - Grace
   - Chia-Chia
   - ZhiHong
@@ -19,7 +19,7 @@ Brown:
   - Tony
   - Lai
   - Rita2
-BrownBrown:
+Khaki:
   - Fanny
   - Elena
   - Jack2
@@ -31,10 +31,12 @@ Orange:
   - Candy
   - Emma
   - Hsuan
-OrangeOrange:
+Silver:
   - YongXuan
   - Jane
   - Emily
+Parker:
+  - Parker
 Pink:
   - Amy
   - Evonne
