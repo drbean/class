@@ -15,6 +15,12 @@ id: 40001280
 jigsaw: exam
 league: 育達 General English
 member:
+  - Chinese: 李柏宏
+    id: 102104027
+    name: Parker
+    password: bai
+    rating: ~
+
   - Chinese: 賴俊霖
     id: 102403201
     name: Lai
@@ -241,11 +247,6 @@ out:
     id: 102403206
     name: Marjorie
     password: zhi
-    rating: ~
-  - Chinese: 李柏宏
-    id: 102104027
-    name: Parker
-    password: bai
     rating: ~
   - Chinese: 黃威愷
     id: 102404328
