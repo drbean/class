@@ -12,14 +12,14 @@ Brown:
   absent: 
     - Tony
   merits: 2.5
-BrownBrown:
+Khaki:
   absent: 
   merits: 2.5
 
-BlackBlack:
+Charcoal:
   absent: 
   merits: 3
-BlueBlue:
+Chocolate:
   absent: 
     - Grace
   merits: 2
@@ -44,7 +44,7 @@ Purple:
 Red:
   absent: 
   merits: 3
-OrangeOrange:
+Silver:
   absent: 
     - YongXuan
   merits: 2
