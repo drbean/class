@@ -17,7 +17,7 @@ Gray:
     - MengXuan
   merits: 3
 
-BlackBlack:
+Charcoal:
   absent: 
   merits: 2
 Green:
@@ -25,10 +25,10 @@ Green:
     - GenWei
   merits: 3
 
-BlueBlue:
+Chocolate:
   absent: 
   merits: 2
-BrownBrown:
+Khaki:
   absent: 
     - Watermelon
   merits: 3
@@ -59,6 +59,6 @@ Yellow:
   absent: 
   merits: 2
 
-OrangeOrange:
+Silver:
   absent: 
   merits: 3
