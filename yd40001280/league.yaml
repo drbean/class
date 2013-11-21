@@ -39,11 +39,6 @@ member:
     password: yu
     rating: ~
   
-  - Chinese: 周華庭
-    id: 100406006
-    name: Cain
-    password: hua
-    rating: ~
   - Chinese: 張詠軒
     id: 102403209
     name: YongXuan
@@ -238,6 +233,11 @@ member:
     password: yi
     rating: ~
 out:
+  - Chinese: 周華庭
+    id: 100406006
+    name: Cain
+    password: hua
+    rating: ~
   - Chinese: 林聖諭
     id: 102405442
     name: Watermelon
