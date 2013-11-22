@@ -1,51 +1,39 @@
+---
+
 Black:
   absent: 
-    - Cherry2
+    - Fion
+  merits: 2
+Charcoal:
+  absent: 
+    - Alex
   merits: 3
+
 Blue:
-  absent: 
-  merits: 3
-
-Brown:
-  absent: 
-  merits: 3
-BlueBlue:
   absent:
-    - Evy
-  merits: 3
-
+    - Stephen
+    - Denise
+  merits: 2
 Green:
   absent: 
-    - Debby
-    - Tina
-  merits: 3
-BlackBlack:
-  absent: 
-    - Nora
+    - Vicky
+    - Andy
   merits: 3
 
-Orange:
-  absent: 
-    - Vickey
-  merits: 3
 Pink:
   absent: 
-    - Cherry1
   merits: 3
-
 Purple:
   absent: 
-  merits: 3
-Red:
-  absent: 
-  merits: 3
+    - Champion
+  merits: 2
 
+Orange:
+  absent:
+    - Cindy
+    - Shane
+  merits: 2
 Yellow:
   absent: 
-    - Amber
-  merits: 3
-
-OrangeOrange:
-  absent: 
-    - Joelle
+    - Rena
   merits: 3
