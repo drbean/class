@@ -14,6 +14,13 @@ id: AFN2N0
 jigsaw: exam
 league: NAF021\_四技外二甲\_選修\_2
 member:
+ 
+  - Chinese: 范思惟
+    id: B00200054
+    name: Wade
+    password: si
+    rating: ~
+  
   - Chinese: 徐禹婷
     id: N01200009
     name: Olivia
@@ -154,13 +161,6 @@ out:
     password: zhi
     rating: ~
   
-  - Chinese: 范思惟
-    id: B00200054
-    name: Wade
-    password: si
-    rating: ~
- 
-  
   - Chinese: 江進慧
     id: N01200045
     name: Samantha
@@ -171,13 +171,6 @@ out:
     name: Claude
     password: zhi
     rating: ~
-  
-  - Chinese: 范思惟
-    id: B00200054
-    name: Wade
-    password: si
-    rating: ~
- 
   
   - Chinese: 劉晨宇
     id: N99080075
