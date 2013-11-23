@@ -161,17 +161,6 @@ out:
     password: zhi
     rating: ~
   
-  - Chinese: 江進慧
-    id: N01200045
-    name: Samantha
-    password: jin
-    rating: ~
-  - Chinese: 張志?
-    id: N97200035
-    name: Claude
-    password: zhi
-    rating: ~
-  
   - Chinese: 劉晨宇
     id: N99080075
     name: Justin
