@@ -4,7 +4,7 @@ Black:
     - Ruby
     - Helen1
   merits: 3
-BlackBlack:
+Charcoal:
   absent:
     - Devon
     - Fang
@@ -16,10 +16,10 @@ Blue:
 Brown:
   absent:
   merits: 2
-BlueBlue:
+Chocolate:
   merits: 3
-BrownBrown:
-  merits: 2
+#Khaki:
+#  merits: 2
 Gray:
   absent:
   merits: 2
