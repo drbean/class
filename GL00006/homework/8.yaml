@@ -1,127 +1,91 @@
 ---
 cutpoints:
-  one: 0
-  two: 0
-exercise: schifrin
+  one: ~
+  two: ~
+exercise: emersonj
 grade:
-  N9532037: 0
-  N9661709: 2
-  N9661712: 2
-  N9661714: 2
-  N9661717: 0
-  N9661725: 0
-  N9661728: 2
-  N9661740: 2
-  N9661742: 0
-  N9661748: 2
-  T9722102: 2
-  T9722119: 0
-  T9722145: 0
-  U9611002: 0
-  U9611024: 0
-  U9614044: 2
-  U9714104: 2
-  U9714105: 2
-  U9714108: 2
-  U9714111: 2
-  U9714127: 2
-  U9714135: 2
-  U9714141: 2
-  U9722143: 2
-  U9822015: 2
-  U9822020: 2
-  U9824047: 0
-  U9824053: 2
-  U9824054: 0
-  V9741064: 0
+  K220155482: 2
+  U0017024: 1.78
+  U0018027: 2
+  U0018046: 2
+  U0042012: 0
+  U0042031: 0
+  U0042041: 0
+  U0042050: 1.94
+  U0043001: 2
+  U0043004: 1.76
+  U0043033: 0
+  U0122002: 2
+  U0222133: 2
+  U0222228: 2
+  U9911237: 2
+  U9911242: 2
+  U9917017: 1.78
+  U9923120: 1.9
+  U9923121: 1.98
+  U9943007: 2
+  U9943019: 0
 points:
-  N9532037:
-    letters: ~
-    questions: 0
-  N9661709:
-    letters: 162
-    questions: 1
-  N9661712:
-    letters: 193
-    questions: 0
-  N9661714:
-    letters: 184
-    questions: 0
-  N9661717:
-    letters: ~
-    questions: 0
-  N9661725:
-    letters: ~
-    questions: 0
-  N9661728:
-    letters: 184
-    questions: 0
-  N9661740:
-    letters: 205
-    questions: 0
-  N9661742:
-    letters: ~
-    questions: 0
-  N9661748:
-    letters: 153
-    questions: 1
-  T9722102:
-    letters: 191
-    questions: 1
-  T9722119:
-    letters: ~
-    questions: 0
-  T9722145:
-    letters: ~
-    questions: 0
-  U9611002:
-    letters: ~
-    questions: 0
-  U9611024:
-    letters: ~
-    questions: 0
-  U9614044:
-    letters: 186
-    questions: 1
-  U9714104:
-    letters: ~
-    questions: 1
-  U9714105:
-    letters: 205
-    questions: 0
-  U9714108:
-    letters: 205
-    questions: 0
-  U9714111:
-    letters: 184
-    questions: 1
-  U9714127:
-    letters: 193
-    questions: 0
-  U9714135:
-    letters: 193
-    questions: 1
-  U9714141:
-    letters: 191
-    questions: 0
-  U9722143:
-    letters: 205
-    questions: 0
-  U9822015:
-    letters: 187
-    questions: 0
-  U9822020:
-    letters: 191
-    questions: 1
-  U9824047:
-    letters: ~
-    questions: 0
-  U9824053:
-    letters: 18
-    questions: 1
-  U9824054:
-    letters: ~
-    questions: 0
-  V9741064:
-    letters: ~
-    questions: 0
+  K220155482:
+    letters: 251
+    percent: 100
+  U0017024:
+    letters: 185
+    percent: 89
+  U0018027:
+    letters: 230
+    percent: 100
+  U0018046:
+    letters: 229
+    percent: 100
+  U0042012:
+    letters: 0
+    percent: 0
+  U0042031:
+    letters: 0
+    percent: 0
+  U0042041:
+    letters: 0
+    percent: 0
+  U0042050:
+    letters: 265
+    percent: 97
+  U0043001:
+    letters: 224
+    percent: 100
+  U0043004:
+    letters: 214
+    percent: 88
+  U0043033:
+    letters: 0
+    percent: 0
+  U0122002:
+    letters: 226
+    percent: 100
+  U0222133:
+    letters: 279
+    percent: 100
+  U0222228:
+    letters: 239
+    percent: 100
+  U9911237:
+    letters: 229
+    percent: 100
+  U9911242:
+    letters: 231
+    percent: 100
+  U9917017:
+    letters: 211
+    percent: 89
+  U9923120:
+    letters: 231
+    percent: 95
+  U9923121:
+    letters: 246
+    percent: 99
+  U9943007:
+    letters: 206
+    percent: 100
+  U9943019:
+    letters: 0
+    percent: 0
