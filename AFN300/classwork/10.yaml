@@ -1,7 +1,7 @@
 ---
 Black:
   absent:
-    Jerry
+    - Jerry
   merits: 3
 Blue:
   absent:
@@ -52,9 +52,16 @@ Khaki:
   absent:
   merits: 3
 
-Silver:
+White:
   absent:
   merits: 3
 Gray:
   absent:
   merits: 3
+
+Yellow:
+  absent:
+    - Yuki
+    - Tina
+    - Crown
+  merits: 0
