@@ -1,32 +1,43 @@
----
-# story: ESPN
-
-1-1:
-  absent: 
+----
+Black:
+  absent:
+    - Leon
   merits: 2
-1-2:
-  absent: 
-    - Joy
+Blue:
+  absent:
+    - Joe
   merits: 3
 
-2-1:
-  absent: 
-  merits: 3
-2-2:
-  absent: 
+Chocolate:
+  absent:
   merits: 2
-
-3-1:
-  absent: 
-  merits: 2
-3-2:
-  absent: 
+Charcoal:
+  absent:
+    - Redd
   merits: 3
 
-4-1:
-  absent: 
+Green:
+  absent:
   merits: 3
-4-2:
-  absent: 
-    - Yorick
+Orange:
+  absent:
+    - Larry
+    - Diana
   merits: 2
+
+Pink:
+  absent:
+  merits: 2
+Purple:
+  absent:
+    - Claire
+  merits: 3
+
+Yellow:
+  absent:
+    - Vicki
+  merits: 2
+White:
+  absent:
+    - Jessica
+  merits: 3
