@@ -73,11 +73,6 @@ member:
     name: Leon
     password: li
     rating: 38
-  - Chinese: 范治偉
-    id: V9941062
-    name: Zhi-Wei
-    password: zhi
-    rating: 76
   - Chinese: 劉好英
     id: V9941067
     name: Ivy
@@ -113,12 +108,17 @@ member:
     name: MengShiung
     password: meng
     rating: 49
+out: ~
+  - Chinese: 范治偉
+    id: V9941062
+    name: Zhi-Wei
+    password: zhi
+    rating: 76
   - Chinese: 陳韋志
     id: V9941077
     name: Joe
     password: wei
     rating: ~
-out: ~
 room: A706
 session:
   1: 1
