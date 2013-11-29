@@ -1,0 +1,120 @@
+---
+
+Black:
+  absent: 
+  merits: 3
+
+Green:
+  absent: 
+  merits: 2.3
+
+Charcoal:
+  absent: 
+  merits: 2.3
+
+Pink:
+  absent: 
+  merits: 2.5
+
+Orange:
+  absent:
+  merits: 2.2
+
+Yellow:
+  absent: 
+  merits: 2.8
+
+Blue:
+  absent:
+  merits: 2.3
+
+Purple:
+  merits: 2.7
+
+#round-1:
+#  Black:
+#    absent:
+#    merits: ~
+#  Blue:
+#    absent:
+#    merits: ~
+#
+#  Charcoal:
+#    absent:
+#    merits: ~
+#  Green:
+#    absent:
+#    merits: ~
+#
+#  Orange:
+#    absent:
+#    merits: ~
+#  Pink:
+#    absent:
+#    merits: ~
+#
+#  Yellow:
+#    absent:
+#    merits: ~
+#  Purple:
+#    absent:
+#    merits: ~
+#
+#round-2:
+#  Black:
+#    absent:
+#    merits: ~
+#  Green:
+#    absent:
+#    merits: ~
+#
+#  Charcoal:
+#    absent:
+#    merits: ~
+#  Pink:
+#    absent:
+#    merits: ~
+#
+#  Yellow:
+#    absent:
+#    merits: ~
+#  Orange:
+#    absent:
+#    merits: ~
+#
+#  Purple:
+#    absent:
+#    merits: ~
+#  Blue:
+#    absent:
+#    merits: ~
+#
+#round-3:
+#  Black:
+#    absent:
+#    merits: ~
+#  Charcoal:
+#    absent:
+#    merits: ~
+#
+#  Blue:
+#    absent:
+#    merits: ~
+#  Green:
+#    absent:
+#    merits: ~
+#
+#  Pink:
+#    absent:
+#    merits: ~
+#  Purple:
+#    absent:
+#    merits: ~
+#
+#  Orange:
+#    absent:
+#    merits: ~
+#  Yellow:
+#    absent:
+#    merits: ~
+#
