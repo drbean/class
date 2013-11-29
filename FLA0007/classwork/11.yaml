@@ -1,0 +1,33 @@
+---
+# topic: debate
+
+Orange:
+  absent:
+    - MengShiung
+  merits: 2
+Blue:
+  absent:
+  merits: 3
+
+Black:
+  absent:
+    - Mary
+    - Jill
+  merits: 0
+
+Brown:
+  absent:
+    - Leon
+  merits: 3
+Red:
+  absent:
+    - Pei-Yun
+  merits: 2
+
+Purple:
+  absent:
+  merits: 2
+Pink:
+  absent:
+  merits: 3
+
