@@ -1,52 +1,45 @@
 ---
+# no debate
+# topic: valentino
+
 Green:
-  absent:    
-  merits:    3
+  absent:
+    - Amy2
+  merits: 3
 Black:
-  absent: 
-    - Cherry2
-  merits:    2
+  absent:
+     - Doni
+  merits: 3
 
 Blue:
-  absent:    
-  merits:    3
-Brown:
-  absent:    
-  merits:    2
-
-BlueBlue:
   absent:
-    - Evy
-    - Hellen
-  merits:    2
-BlackBlack:
-  absent:    
-  merits:    3
+  merits: 3
+Charcoal:
+  absent:
+    - Joanne2
+  merits: 3
+
+White:
+  absent:
+    - Olivia
+  merits: 3
+Orange:
+  absent:
+    - Helen2
+    - Dara
+  merits: 3
 
 Yellow:
-  absent:    
-  merits:    3
-Orange:
-  absent:    
-    - Nitro
-  merits:    2
-
+  absent:
+    - Helen1
+  merits: 3
 Pink:
-  absent:    
-    - Cherry1
-    - Peggy
-  merits:    2
-Purple:
-  absent:    
-    - Sonia
-  merits:    3
+  absent:
+    - Jeff
+  merits: 3
 
-Red:
-  absent:    
-    - Louis
-  merits:    3
-OrangeOrange:
-  absent:    
-    - Juby
-    - Joelle
-  merits:    2
+Purple:
+  absent:
+    - Wade
+  merits: 3
+
