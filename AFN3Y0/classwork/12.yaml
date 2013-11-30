@@ -1,50 +1,123 @@
+---
+topic: intro-dic
 Black:
-  absent: 
-    - Cherry2
-  merits: 2
+  absent:
+    - Fion
+  merits: 2.33333333333333
 Blue:
-  absent: 
-    - Kate
-  merits: 3
-
-Brown:
-  absent: 
-    - James
-  merits: 2
-BlueBlue:
+  absent:
+    - Carol
+  merits: 2.66666666666667
+Charcoal:
+  absent:
+  merits: 2.66666666666667
+Green:
+  absent:
+  merits: 2.33333333333333
+Orange:
   absent:
   merits: 3
-
-Green:
-  absent: 
-  merits: 3
-BlackBlack:
-  absent: 
-    - Nora
-    - Lee
-    - Andy
-  merits: 2
-
-Orange:
-  absent: 
-  merits: 3
 Pink:
-  absent: 
-  merits: 2
-
+  absent:
+    - MiuMiu
+  merits: 2.33333333333333
 Purple:
-  absent: 
-    - Senna
-    - Alisa
-  merits: 2
-Red:
-  absent: 
-  merits: 3
-
+  absent:
+    - Vivi
+  merits: 2.33333333333333
 Yellow:
-  absent: 
-    - Vivian
-  merits: 2
-OrangeOrange:
-  absent: 
-  merits: 2
+  absent:
+    - Rena
+  merits: 2.33333333333333
+
+round_1:
+  topic: intro-dic-1
+
+  Black:
+    absent:
+    merits: 3
+  Blue:
+    absent:
+    merits: 2
+
+  Charcoal:
+    absent:
+    merits: 3
+  Green:
+    absent:
+    merits: 2
+
+  Orange:
+    absent:
+    merits: 3
+  Pink:
+    absent:
+    merits: 2
+
+  Purple:
+    absent:
+    merits: 2
+  Yellow:
+    absent:
+    merits: 3
+
+round_2:
+  # topic: intro-dic-2
+  Green:
+    absent:
+    merits: 3
+  Black:
+    absent:
+    merits: 2
+
+  Charcoal:
+    absent:
+    merits: 2
+  Blue:
+    absent:
+    merits: 3
+
+  Yellow:
+    absent:
+    merits: 2
+  Orange:
+    absent:
+    merits: 3
+
+  Purple:
+    absent:
+    merits: 3
+  Pink:
+    absent:
+    merits: 2
+
+round_3:
+  # topic: intro-dic-3
+  Green:
+    absent:
+    merits: 2
+  Blue:
+    absent:
+    merits: 3
+
+  Charcoal:
+    absent:
+    merits: 3
+  Black:
+    absent:
+    merits: 2
+
+  Yellow:
+    absent:
+    merits: 2
+  Pink:
+    absent:
+    merits: 3
+
+  Purple:
+    absent:
+    merits: 2
+  Orange:
+    absent:
+    merits: 3
+
