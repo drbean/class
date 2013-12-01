@@ -1,64 +1,63 @@
 ---
-GreenGreen:
-  absent: 
-  merits: 3
+# topic: short-texts-p58
+
 Black:
-  absent: 
-  merits: 2
-
+  absent:
+  merits: 3
 Blue:
-  absent: 
+  absent:
+    - James
+    - Marjorie
   merits: 2
+
 Brown:
-  absent: 
+  absent:
+  merits: 3
+Khaki:
+  absent:
+  merits: 2
+
+Chocolate:
+  absent:
+    - Chia-Chia
+    - ZhiHong
+  merits: 2
+Charcoal:
+  absent:
   merits: 3
 
-Gray:
-  absent: 
-  merits: 3
 Green:
   absent:
-  merits: 2
-
-BlackBlack:
-  absent: 
+    - Tina
   merits: 3
-BlueBlue:
+Orange:
   absent:
+    - Hsuan
   merits: 2
 
 Pink:
-  absent: 
-  tardy:
-    - Tina
-  merits: 2
-Purple:
-  absent: 
+  absent:
+    - Amy
   merits: 3
+Purple:
+  absent:
+    - GenWei
+  merits: 2
 
 Red:
-  absent: 
-  merits: 2
-White:
-  absent: 
+  absent:
+    - Cindy1
   merits: 3
+Silver:
+  absent:
+  merits: 2
 
 Yellow:
-  absent: 
-  merits: 3
-PinkPink:
-  absent: 
-  merits: 2
-
-YellowYellow:
-  absent: 
-  merits: 2
-Orange:
-  absent: 
-  merits: 3
-
-# assistants
-
-PurplePurple:
   absent:
+    - Wen-Jen
   merits: 3
+White:
+  absent:
+    - Parker
+  merits: 2
+
