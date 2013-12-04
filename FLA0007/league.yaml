@@ -108,7 +108,7 @@ member:
     name: MengShiung
     password: meng
     rating: 49
-out: ~
+out:
   - Chinese: 范治偉
     id: V9941062
     name: Zhi-Wei
