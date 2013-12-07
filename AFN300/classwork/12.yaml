@@ -1,50 +1,54 @@
+---
+# topic: foreman
+
 Black:
-  absent: 
-    - Cherry2
+  absent:
   merits: 2
 Blue:
-  absent: 
-    - Kate
-  merits: 3
+  absent:
+  merits: 2.25
 
 Brown:
-  absent: 
-    - James
-  merits: 2
-BlueBlue:
   absent:
   merits: 3
 
+Gray:
+  absent:
+  merits: 2.25
+Chocolate:
+  absent:
+  merits: 2.5
+
 Green:
-  absent: 
+  absent:
   merits: 3
-BlackBlack:
-  absent: 
-    - Nora
-    - Lee
-    - Andy
-  merits: 2
+Charcoal:
+  absent:
+  merits: 3
+
+Charcoal:
+  absent:
+  merits: 3
 
 Orange:
-  absent: 
-  merits: 3
+  absent:
+  merits: 2
 Pink:
-  absent: 
+  absent:
   merits: 2
 
 Purple:
-  absent: 
-    - Senna
-    - Alisa
-  merits: 2
-Red:
-  absent: 
-  merits: 3
+  absent:
+  merits: 2.5
 
+Red:
+  absent:
+  merits: 2.5
+
+White:
+  absent:
+  merits: 2
 Yellow:
-  absent: 
-    - Vivian
-  merits: 2
-OrangeOrange:
-  absent: 
-  merits: 2
+  absent:
+  merits: 0
+
