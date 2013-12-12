@@ -121,8 +121,7 @@ out:
     rating: ~
 room: A706
 session:
-  1: 1
-  2: 6
+  3: 10
 weights:
   classwork: 40
   exams: 20
