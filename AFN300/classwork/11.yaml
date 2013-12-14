@@ -59,7 +59,6 @@ Red:
 Yellow:
   absent:
     - Yuki
-    - Tina
     - Crown
-  merits: ~
+  merits: 0
 
