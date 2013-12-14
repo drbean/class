@@ -1,210 +1,458 @@
 ---
 free:
-  0:
-    robin-hood:
-      0:
-        N99200010:
-          point:
-        N00202003:
-          point:
-    don-quixote:
-      0:
-        N99200010:
-          point:
-        N00202003:
-          point:
   1:
-    robin-hood:
-      0:
-        N99200016:
+    biomom:
+      4:
+        N00200034:
           point:
-        N99200021:
+            1: Old
+            2: Old
+            3: Returned
+        N00200029:
           point:
-    don-quixote:
-      0:
-        N99200016:
+            1: Nil
+    biodad:
+      1:
+        N00200034:
           point:
-        N99200021:
+            1: Nil
+        N00200029:
           point:
+            1: Nil
+    emersonj:
+      2:
+        N00200034:
+          point:
+            1: Nil
+        N00200029:
+          point:
+            1: Nil
   2:
-    robin-hood:
-      0:
-        N97080093:
+    biomom:
+      4:
+        N00200010:
           point:
-        N99200019:
+            1: Old
+        N01202001:
           point:
-    don-quixote:
-      0:
-        N97080093:
+            1: Returned
+    biodad:
+      1:
+        N00200010:
           point:
-        N99200019:
+            1: Returned
+        N01202001:
           point:
+            1: Nil
+    emersonj:
+      2:
+        N00200010:
+          point:
+            1: Old
+        N01202001:
+          point:
+            1: Nil
   3:
-    robin-hood:
-      0:
-        N99200036:
+    biomom:
+      4:
+        N01202101:
           point:
-        N99200027:
+            1: Returned
+        N00200015:
           point:
-    don-quixote:
-      0:
-        N99200036:
+            1: Nil
+    biodad:
+      1:
+        N01202101:
           point:
-        N99200027:
+            1: Nil
+        N00200015:
           point:
+            1: Fault
+    emersonj:
+      2:
+        N01202101:
+          point:
+            1: Nil
+        N00200015:
+          point:
+            1: Nil
   4:
-    robin-hood:
-      0:
-        N99200033:
+    biomom:
+      4:
+        N00200055:
           point:
-        N99200013:
+            1: Returned
+        N00200032:
           point:
-    don-quixote:
-      0:
-        N99200033:
+            1: Fault
+    biodad:
+      1:
+        N00200055:
           point:
-        N99200013:
+            1: Nil
+        N00200032:
           point:
+            1: Nil
+    emersonj:
+      2:
+        N00200055:
+          point:
+            1: Nil
+        N00200032:
+          point:
+            1: Nil
   5:
-    robin-hood:
-      0:
-        N99200009:
+    biomom:
+      4:
+        N99030025:
           point:
-        N99200007:
+            1: Old
+            2: Returned
+        N00200006:
           point:
-    don-quixote:
-      0:
-        N99200009:
+            1: Fault
+    biodad:
+      1:
+        N99030025:
           point:
-        N99200007:
+            1: Nil
+        N00200006:
           point:
+            1: Nil
+    emersonj:
+      2:
+        N99030025:
+          point:
+            1: Nil
+        N00200006:
+          point:
+            1: Nil
   6:
-    robin-hood:
-      0:
-        N99200004:
+    biomom:
+      4:
+        N00200022:
           point:
-        N00202103:
+            1: Fault
+        N00200009:
           point:
-    don-quixote:
-      0:
-        N99200004:
+            1: Nil
+    biodad:
+      1:
+        N00200022:
           point:
-        N00202103:
+            1: Nil
+        N00200009:
           point:
+            1: Nil
+    emersonj:
+      2:
+        N00200022:
+          point:
+            1: Nil
+        N00200009:
+          point:
+            1: Nil
   7:
-    robin-hood:
-      0:
-        N99200028:
+    biomom:
+      4:
+        N00200030:
           point:
-        N99200020:
+            1: Returned
+        N00200058:
           point:
-    don-quixote:
-      0:
-        N99200028:
+            1: Returned
+    biodad:
+      1:
+        N00200030:
           point:
-        N99200020:
+            1: Returned
+        N00200058:
           point:
+            1: Nil
+    emersonj:
+      2:
+        N00200030:
+          point:
+            1: Nil
+        N00200058:
+          point:
+            1: Old
+            2: Old
+            3: Fault
   8:
-    robin-hood:
-      0:
-        N99200011:
+    biomom:
+      4:
+        N00200031:
           point:
-        N96200019:
+            1: Returned
+        N00200025:
           point:
-    don-quixote:
-      0:
-        N99200011:
+            1: Old
+    biodad:
+      1:
+        N00200031:
           point:
-        N96200019:
+            1: Nil
+        N00200025:
           point:
+            1: Old
+    emersonj:
+      2:
+        N00200031:
+          point:
+            1: Nil
+        N00200025:
+          point:
+            1: Returned
   9:
-    robin-hood:
-      0:
-        N99200012:
+    biomom:
+      4:
+        N00200008:
           point:
-        N99200005:
+            1: Returned
+        N00200036:
           point:
-    don-quixote:
-      0:
-        N99200012:
+            1: Fault
+    biodad:
+      1:
+        N00200008:
           point:
-        N99200005:
+            1: Nil
+        N00200036:
           point:
+            1: Nil
+    emersonj:
+      2:
+        N00200008:
+          point:
+            1: Old
+            2: Fault
+        N00200036:
+          point:
+            1: Nil
   10:
-    robin-hood:
-      0:
-        N99200045:
+    biomom:
+      4:
+        N00200037:
           point:
-        N99200047:
+            1: Returned
+        N00200056:
           point:
-    don-quixote:
-      0:
-        N99200045:
+            1: Returned
+    biodad:
+      1:
+        N00200037:
           point:
-        N99200047:
+            1: Nil
+        N00200056:
           point:
+            1: Nil
+    emersonj:
+      2:
+        N00200037:
+          point:
+            1: Nil
+        N00200056:
+          point:
+            1: Nil
   11:
-    robin-hood:
-      0:
-        N99200002:
+    biomom:
+      4:
+        N00200048:
           point:
-        N99200050:
+            1: Returned
+        N00200001:
           point:
-    don-quixote:
-      0:
-        N99200002:
+            1: Returned
+    biodad:
+      1:
+        N00200048:
           point:
-        N99200050:
+            1: Nil
+        N00200001:
           point:
+            1: Nil
+    emersonj:
+      2:
+        N00200048:
+          point:
+            1: Nil
+        N00200001:
+          point:
+            1: Nil
   12:
-    robin-hood:
-      0:
-        N99200032:
+    biomom:
+      4:
+        N01202002:
           point:
-        N99200014:
+            1: Nil
+        N01202004:
           point:
-    don-quixote:
-      0:
-        N99200032:
+            1: Nil
+    biodad:
+      1:
+        N01202002:
           point:
-        N99200014:
+            1: Nil
+        N01202004:
           point:
+            1: Unreturned
+    emersonj:
+      2:
+        N01202002:
+          point:
+            1: Returned
+        N01202004:
+          point:
+            1: Nil
   13:
-    robin-hood:
-      0:
-        N99200024:
+    biomom:
+      4:
+        N00200044:
           point:
-        N99200008:
+            1: Returned
+        N00200014:
           point:
-    don-quixote:
-      0:
-        N99200024:
+            1: Nil
+    biodad:
+      1:
+        N00200044:
           point:
-        N99200008:
+            1: Nil
+        N00200014:
           point:
+            1: Nil
+    emersonj:
+      2:
+        N00200044:
+          point:
+            1: Nil
+        N00200014:
+          point:
+            1: Nil
   14:
-    robin-hood:
-      0:
-        N99200023:
+    biomom:
+      4:
+        N00200043:
           point:
-        N99200030:
+            1: Returned
+        N00200017:
           point:
-    don-quixote:
-      0:
-        N99200023:
+            1: Returned
+    biodad:
+      1:
+        N00200043:
           point:
-        N99200030:
+            1: Nil
+        N00200017:
           point:
+            1: Nil
+    emersonj:
+      2:
+        N00200043:
+          point:
+            1: Nil
+        N00200017:
+          point:
+            1: Nil
   15:
-    robin-hood:
-      0:
-        N99200022:
+    biomom:
+      4:
+        N00200054:
           point:
-        N99200051:
+            1: Nil
+        N99030033:
           point:
-    don-quixote:
-      0:
-        N99200022:
+            1: Nil
+    biodad:
+      1:
+        N00200054:
           point:
-        N99200051:
+            1: Nil
+        N99030033:
           point:
+            1: Nil
+    emersonj:
+      2:
+        N00200054:
+          point:
+            1: Nil
+        N99030033:
+          point:
+            1: Nil
+  16:
+    biomom:
+      4:
+        N00200007:
+          point:
+            1: Fault
+        N00202103:
+          point:
+            1: Unreturned
+    biodad:
+      1:
+        N00200007:
+          point:
+            1: Returned
+        N00202103:
+          point:
+            1: Nil
+    emersonj:
+      2:
+        N00200007:
+          point:
+            1: Nil
+        N00202103:
+          point:
+            1: Nil
+  17:
+    biomom:
+      4:
+        N01202103:
+          point:
+            1: Nil
+        N00200003:
+          point:
+            1: Nil
+    biodad:
+      1:
+        N01202103:
+          point:
+            1: Nil
+        N00200003:
+          point:
+            1: Nil
+    emersonj:
+      2:
+        N01202103:
+          point:
+            1: Returned
+        N00200003:
+          point:
+            1: Returned
+  18:
+    biomom:
+      4:
+        N01202105:
+          point:
+            1: Returned
+        N98200021:
+          point:
+            1: Nil
+    biodad:
+      1:
+        N01202105:
+          point:
+            1: Nil
+        N98200021:
+          point:
+            1: Nil
+    emersonj:
+      2:
+        N01202105:
+          point:
+            1: Nil
+        N98200021:
+          point:
+            1: Returned
