@@ -38,6 +38,7 @@ Gray:
 
 White:
   absent:
+    - Tina
   merits: 2
 Orange:
   absent:
