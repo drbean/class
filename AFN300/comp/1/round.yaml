@@ -1,8 +1,7 @@
 ---
 activity:
-  robin-hood:
-    0:
-      - 0
+  biomom:
+    4:
       - 1
       - 2
       - 3
@@ -18,9 +17,11 @@ activity:
       - 13
       - 14
       - 15
-  don-quixote:
-    0:
-      - 0
+      - 16
+      - 17
+      - 18
+  biodad:
+    1:
       - 1
       - 2
       - 3
@@ -36,66 +37,100 @@ activity:
       - 13
       - 14
       - 15
+      - 16
+      - 17
+      - 18
+  emersonj:
+    2:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
 assistant:
-  Orange:
-    N99200025: ~
-    N99200039: ~
-    N99200041: ~
+  Black:
+    N00200042: 5
+    N02203102: 5
+    N00120056: 5
+bye: N00200045
 dispensation: ~
 divisions: ~
 group:
-  0:
-    White: N99200010
-    Black: N00202003
   1:
-    White: N99200016
-    Black: N99200021
+    White: N00200034
+    Black: N00200029
   2:
-    White: N97080093
-    Black: N99200019
+    White: N00200010
+    Black: N01202001
   3:
-    White: N99200036
-    Black: N99200027
+    White: N01202101
+    Black: N00200015
   4:
-    White: N99200033
-    Black: N99200013
+    White: N00200055
+    Black: N00200032
   5:
-    White: N99200009
-    Black: N99200007
+    White: N99030025
+    Black: N00200006
   6:
-    White: N99200004
-    Black: N00202103
+    White: N00200022
+    Black: N00200009
   7:
-    White: N99200028
-    Black: N99200020
+    White: N00200030
+    Black: N00200058
   8:
-    White: N99200011
-    Black: N96200019
+    White: N00200031
+    Black: N00200025
   9:
-    White: N99200012
-    Black: N99200005
+    White: N00200008
+    Black: N00200036
   10:
-    White: N99200045
-    Black: N99200047
+    White: N00200037
+    Black: N00200056
   11:
-    White: N99200002
-    Black: N99200050
+    White: N00200048
+    Black: N00200001
   12:
-    White: N99200032
-    Black: N99200014
+    White: N01202002
+    Black: N01202004
   13:
-    White: N99200024
-    Black: N99200008
+    White: N00200044
+    Black: N00200014
   14:
-    White: N99200023
-    Black: N99200030
+    White: N00200043
+    Black: N00200017
   15:
-    White: N99200022
-    Black: N99200051
+    White: N00200054
+    Black: N99030033
+  16:
+    White: N00200007
+    Black: N00202103
+  17:
+    White: N01202103
+    Black: N00200003
+  18:
+    White: N01202105
+    Black: N98200021
+  
 late:
-  - ~
+  - N01202103
+  - N00200003
+  - N01202105
+  - N98200021
 pairing: swiss
-payprotocol: meritPay
-round: 1
-text: /home/drbean/class/literature/cards.yaml
-week: 4
+payprotocol: meritPay 2
+round: 2
+text: /home/drbean/class/conversation/parents/cards.yaml
+week: 9
