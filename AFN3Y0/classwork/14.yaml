@@ -1,49 +1,36 @@
 ---
-# assistants
-BlueBlue:
-  absent:
-    - Evy
-  merits: 3
+# topic: bett
 
 Black:
-  absent: 
+  absent:
   merits: 3
 Blue:
-  absent: 
-    - Andy
-  merits: 2
-
-Brown:
-  absent: 
-    - Foxy
-    - Kate
+  absent:
+    - Mindy
   merits: 3
 
+Charcoal:
+  absent:
+    - Cindy
+  merits: 3
 Green:
-  absent: 
-  merits: 3
-BlackBlack:
-  absent: 
+  absent:
+    - Jeff
   merits: 3
 
-# adjudicated
 Orange:
-  absent: 
-  merits: 2
+  absent:
+    - Vicky
+  merits: 3
 Pink:
-  absent: 
+  absent:
   merits: 3
 
 Purple:
-  absent: 
-  merits: 2
-Red:
-  absent: 
+  absent:
+  merits: 3
+Yellow:
+  absent:
+    - Stephen
   merits: 3
 
-Yellow:
-  absent: 
-  merits: 3
-OrangeOrange:
-  absent: 
-  merits: 2
