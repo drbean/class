@@ -1,64 +1,58 @@
 ---
 round: Exam 3
-week: 13
+week: 14
 questions:
   - 10
-pass: 6
+pass: 5
 assistant:
-  - Lucas
-examiners:
-  - Blue
-  - Purple
+  - Danny
+  - Li-Ting
 absent:
-text: /home/drbean/class/conversation/WorkFood/cards.yaml
+  - Chung-Wei
+  - Dave
+text: /home/drbean/class/conversation/disability/cards.yaml
 activity:
-  cronig:
+  connell:
+    55:
+      - Yellow
+  warm:
     1:
       - Black
-      - Blue
-
-  lerman:
+  foreman:
     1:
-      - Gray
       - Green
-      - Purple
-  tyson:
-    0:
-      - Pink
-      - White
+      - Orange
+  davist:
+    2:
+      - Blue
+      - Brown
+      - Gray
 group:
   Black:
-    - Allen
-    - Jay
-    - Daisy
-    - Cloud
+    - Luisa
+    - Rick
+    - Gillian
   Blue:
-    - Shanghao
-    - Jim
-    - Yu-chi
-    - Ken
+    - Chung-Wei
+    - Regina
+    - Lance
+  Brown:
+    - Danny
+    - Tracy
+    - Carolyn
   Gray:
-    - John
-    - Mico
-    - Hendy
-    - James
+    - Danny
+    - Li-Ting
+    - Peggy
   Green:
-    - Lucas
-    - Kenny
-    - Kate
-    - May
-  Pink:
-    - Chad
-    - Lily
-    - Fang-Yi
-    - Emaily
-  Purple:
-    - Steven
-    - Moto
-    - Rita
-    - Sam
-  White:
-    - Irin
-    - Peter
-    - Cindy
-    - Lucas
+    - Scotter
+    - Penny
+    - Tiffany
+  Orange:
+    - KungHsing
+    - Amy
+    - Angela
+  Yellow:
+    - Simon
+    - Yukin
+    - Mia
