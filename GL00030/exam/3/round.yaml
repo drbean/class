@@ -1,90 +1,45 @@
 ---
 round: Exam 3
-week: 13
+week: 14
 questions:
   - 10
-pass: 4
+pass: 5
 assistant:
-  - Lee
-  - Debby
-  - Hellen
-  - Winnie
+  - Holly
+  - Chen
+  - HongYi
+  - Tim
 absent:
-  - Joelle
-text: /home/drbean/class/literature/cards.yaml
+  - Thena
+  - Twenty-eight
+text: /home/drbean/class/conversation/disability/cards.yaml
 activity:
-  musketeers:
-    0:
-      - Evy
-      - Green
-      - Orange
+  connell:
+    55:
+      - connell
+  warm:
     1:
-      - Black
-      - Purple
-  20000:
-    0:
-      - BlackBlack
-      - Pink
+      - warm
+  foreman:
     1:
-      - Blue
-      - Red
-  jekyll:
-    0:
-      - BlueBlue
-      - Yellow
-    1:
-      - Brown
-      - OrangeOrange
+      - foreman
+  davist:
+    2:
+      - davist
 group:
-  Evy:
-    - Evy
-    - Hellen
-    - Winnie
-  Black:
-    - Cherry2
-    - Olivia
-    - Sue
-  BlackBlack:
-    - Lee
-    - Nora
-    - Andy
-  Blue:
-    - Betty
-    - Zona
-    - Kate
-  BlueBlue:
-    - Lee
-    - Cindy
-    - Hellen
-  Brown:
-    - Ariel
-    - James
-    - Winnie
-  Green:
-    - Tina
-    - Debby
-    - Carol
-  Orange:
-    - Nitro
-    - Vickey
-    - Eve
-  OrangeOrange:
-    - Debby
-    - Hulie
-    - Juby
-  Pink:
-    - Cherry1
-    - Elaine
-    - Peggy
-  Purple:
-    - Sonia
-    - Senna
-    - Alisa
-  Red:
-    - Foxy
-    - Louis
-    - Michael
-  Yellow:
-    - Amber
-    - Lainey
-    - Vivian
+  connell:
+    - Holly
+    - Chen
+    - HongYi
+  warm:
+    - Tim
+    - Holly
+    - Chen
+  foreman:
+    - HongYi
+    - Tim
+    - Holly
+  davist:
+    - Chen
+    - HongYi
+    - Tim
