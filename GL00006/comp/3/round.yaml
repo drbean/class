@@ -1,47 +1,74 @@
 ---
-round: 3
-week: 4
-absent:
-text: 
 activity:
-  roxborough:
-    1:
-      -
-         White: N9661714
-         Black: U9824053
-      -
-         White: N9661725
-         Black: U9614044
-      -
-         White: U9714104
-         Black: U9714108
-      -
-         White: N9661717
-         Black: U9714127
-      -
-         White: N9661742
-         Black: U9722143
-      -
-         White: T9722119
-         Black: U9822020
-      -
-         White: N9661728
-         Black: U9714135
-      -
-         White: N9661712
-         Black: U9714111
-      -
-         White: N9532037
-         Black: U9824054
-      -
-         White: T9722102
-         Black: U9824047
-      -
-         White: N9661748
-         Black: U9822015
-      -
-         White: N9661740
-         Black: U9714141
-      -
-         White: U9714105
-         Black: U9611024
+  connell:
+    0:
+      - 1
+      - 2
+      - 4
+      - 5
+      - 6
+      - 7
+      - 9
+  warm:
+    0:
+      - 1
+      - 2
+      - 4
+      - 5
+      - 6
+      - 7
+      - 9
+  foreman:
+    0:
+      - 1
+      - 2
+      - 4
+      - 5
+      - 6
+      - 7
+      - 9
+  davist:
+    0:
+      - 1
+      - 2
+      - 4
+      - 5
+      - 6
+      - 7
+      - 9
+assistant:
+  Blue:
+    U0018046: 5
+    U9923120: 5
+bye: U0042041
+dispensation: ~
+divisions: ~
+group:
+  1:
+     White: U0043004
+     Black: U9943019
+  2:
+    White: U0122002
+    Black: U9943007
+  4:
+    White: U0222228
+    Black: U0042012
+  5:
+    White: U9923121
+    Black: U0043033
+  6:
+    White: U0042050
+    Black: U0018027
+  7:
+    White: U0043001
+    Black: U9917017
+  9:
+    White: U0017024
+    Black: K220155482
+late:
+  - U0042041
+pairing: swiss
+payprotocol: meritPay 4
+round: 3
+text: /home/drbean/class/conversation/parents/cards.yaml
+week: 14

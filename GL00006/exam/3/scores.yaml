@@ -2,51 +2,44 @@
 Chinese:
   Black: 0
   Blue: 0
+  Brown: 0
   Gray: 0
   Green: 0
-  Pink: 0
-  Purple: 0
-  White: 0
+  Orange: 0
+  Yellow: 0
 letters:
   Black:
-    N9661712: 8
-    T9722102: 8
-    N9661742: 9
-    N9661748: 8
-    story: cronig1
+    U9943019: 7
+    U0017024: 6
+    U0122002: 7
+    story: warm1
   Blue:
-    U9824054: 10
-    U9614044: 10
-    U9714135: 10
-    N9661740: 9
-    story: cronig1
+    U0042031: 8
+    U0018046: 8
+    U9923120: 8
+    story: davist2
+  Brown:
+    U0042012: 8
+    U0018027: 9
+    U9943007: 7
+    story: davist2
   Gray:
-    U9611024: 10
-    N9661725: 10
-    U9824053: 10
-    T9722119: 9
-    story: lerman1
+    U0042012: 8
+    U0222228: 8
+    U0043033: 8
+    story: davist2
   Green:
-    N9661717: 9
-    U9722143: 7
-    U9714105: 9
-    U9822020: 10
-    story: lerman1
-  Pink:
-    U9824047: 9
-    U9714141: 9
-    U9714104: 9
-    U9714127: 9
-    story: tyson0
-  Purple:
-    N9661714: 6
-    N9661728: 6
-    N9532037: 7
-    U9822015: 6
-    story: lerman1
-  White:
-    N9661709: 10
-    U9714108: 9
-    U9714111: 9
-    N9661717: 9
-    story: tyson0
+    U9917017: 7
+    U9923121: 6
+    U0043001: 6
+    story: foreman1
+  Orange:
+    U0042041: 7
+    U0042050: 5
+    K220155482: 5
+    story: foreman1
+  Yellow:
+    U9911242: 6
+    U9911237: 10
+    U0043004: 10
+    story: connell55
