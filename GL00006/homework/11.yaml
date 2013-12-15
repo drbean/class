@@ -1,115 +1,91 @@
 ---
 cutpoints:
-  one: 50
-  two: 170
-exercise: lerman
+  one: ~
+  two: ~
+exercise: foreman
 grade:
-  N9532037: 0
-  N9661709: 0
-  N9661712: 1
-  N9661714: 2
-  N9661717: 0
-  N9661725: 2
-  N9661728: 2
-  N9661740: 2
-  N9661742: 0
-  N9661748: 2
-  T9722102: 2
-  T9722119: 0
-  U9611024: 0
-  U9614044: 2
-  U9714104: 2
-  U9714105: 2
-  U9714108: 2
-  U9714111: 2
-  U9714127: 2
-  U9714135: 2
-  U9714141: 2
-  U9722143: 2
-  U9822015: 2
-  U9822020: 2
-  U9824047: 0
-  U9824053: 2
-  U9824054: 2
+  K220155482: 1.92
+  U0017024: 2
+  U0018027: 2
+  U0018046: 2
+  U0042012: 0
+  U0042031: 0
+  U0042041: 0
+  U0042050: 1.9
+  U0043001: 2
+  U0043004: 1.6
+  U0043033: 1.98
+  U0122002: 2
+  U0222133: 2
+  U0222228: 2
+  U9911237: 2
+  U9911242: 2
+  U9917017: 1.76
+  U9923120: 2
+  U9923121: 1.96
+  U9943007: 1.98
+  U9943019: 0
 points:
-  N9532037:
+  K220155482:
+    letters: 151
+    percent: 96
+  U0017024:
+    letters: 151
+    percent: 100
+  U0018027:
+    letters: 142
+    percent: 100
+  U0018046:
+    letters: 143
+    percent: 100
+  U0042012:
     letters: 0
-    questions: 0
-  N9661709:
+    percent: 0
+  U0042031:
     letters: 0
-    questions: 0
-  N9661712:
-    letters: 76
-    questions: 0
-  N9661714:
-    letters: 228
-    questions: 1
-  N9661717:
+    percent: 0
+  U0042041:
     letters: 0
-    questions: 0
-  N9661725:
-    letters: 189
-    questions: 0
-  N9661728:
-    letters: 218
-    questions: 0
-  N9661740:
-    letters: 218
-    questions: 0
-  N9661742:
+    percent: 0
+  U0042050:
+    letters: 154
+    percent: 95
+  U0043001:
+    letters: 168
+    percent: 100
+  U0043004:
+    letters: 121
+    percent: 80
+  U0043033:
+    letters: 170
+    percent: 99
+  U0122002:
+    letters: 142
+    percent: 100
+  U0222133:
+    letters: 144
+    percent: 100
+  U0222228:
+    letters: 144
+    percent: 100
+  U9911237:
+    letters: 161
+    percent: 100
+  U9911242:
+    letters: 132
+    percent: 100
+  U9917017:
+    letters: 134
+    percent: 88
+  U9923120:
+    letters: 148
+    percent: 100
+  U9923121:
+    letters: 145
+    percent: 98
+  U9943007:
+    letters: 142
+    percent: 99
+  U9943019:
     letters: 0
-    questions: 0
-  N9661748:
-    letters: 217
-    questions: 1
-  T9722102:
-    letters: 204
-    questions: 1
-  T9722119:
-    letters: 0
-    questions: 0
-  U9611024:
-    letters: 0
-    questions: 0
-  U9614044:
-    letters: 180
-    questions: 0
-  U9714104:
-    letters: 228
-    questions: 0
-  U9714105:
-    letters: 199
-    questions: 1
-  U9714108:
-    letters: 228
-    questions: 0
-  U9714111:
-    letters: 199
-    questions: 1
-  U9714127:
-    letters: 204
-    questions: 1
-  U9714135:
-    letters: 231
-    questions: 1
-  U9714141:
-    letters: 0
-    questions: 1
-  U9722143:
-    letters: 204
-    questions: 1
-  U9822015:
-    letters: 199
-    questions: 0
-  U9822020:
-    letters: 228
-    questions: 1
-  U9824047:
-    letters: 0
-    questions: 0
-  U9824053:
-    letters: 201
-    questions: 0
-  U9824054:
-    letters: 201
-    questions: 1
+    percent: 0
