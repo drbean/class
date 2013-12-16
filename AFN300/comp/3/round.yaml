@@ -1,7 +1,8 @@
 ---
 activity:
-  musketeers:
+  connell:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -15,10 +16,9 @@ activity:
       - 11
       - 12
       - 13
-      - 14
-      - 15
-  20000:
+  warm:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -32,10 +32,25 @@ activity:
       - 11
       - 12
       - 13
-      - 14
-      - 15
-  jekyll:
+  foreman:
     0:
+      - 0
+      - 1
+      - 2
+      - 4
+      - 3
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+  davist:
+    0:
+      - 0
       - 1
       - 2
       - 3
@@ -49,68 +64,69 @@ activity:
       - 11
       - 12
       - 13
-      - 14
-      - 15
 assistant:
   Orange:
-    N99200032: 4
-    N99200036: 4
-    N99200022: 4
-bye: N99200025
-dispensation:
-  Orange:
-    N99200045: 1
-divisions:
+    N00200034: 4
+    N00200054: 3
+    N00200001: 4
+# bye: N00200042
+dispensation: ~
+divisions: ~
 group:
+  0:
+    White: N00200042
+    Black: N00200037
+
   1:
-    White: N99200041
-    Black: N99200024
+    White: N00120056
+    Black: N02203102
   2:
-    White: N99200039
-    Black: N97080093
+    White: N01202103
+    Black: N00200008
   3:
-    White: N99200035
-    Black: N00202103
+    White: N00200007
+    Black: N00200044
   4:
-    White: N96200019
-    Black: N99200021
+    White: N00200017
+    Black: N00200022
   5:
-    White: N99200005
-    Black: N99200013
+    White: N00200025
+    Black: N99030025
   6:
-    White: N99200020
-    Black: N99200008
+    White: N00200006
+    Black: N00200048
   7:
-    White: N99200033
-    Black: N99200051
+    White: N01202001
+    Black: N00200055
   8:
-    White: N99200010
-    Black: N99200047
+    White: N00200015
+    Black: N00200043
   9:
-    White: N99200009
-    Black: N99200050
+    White: N01202004
+    Black: N00200030
   10:
-    White: N00202003
-    Black: N99200027
+    White: N00202103
+    Black: N00200029
   11:
-    White: N99200002
-    Black: N99200019
+     White: N00200014
+     Black: N00200056
   12:
-    White: N99200011
-    Black: N99200030
+     White: N00200036
+     Black: N01202105
   13:
-    White: N99200012
-    Black: N99200007
-  14:
-    White: N99200028
-    Black: N99200016
-  15:
-    White: N99200004
-    Black: N99200023
+     White: N00200045
+     Black: N00200009
+  
 late:
-  - ~
+  - N00200037
+  - N00200014
+  - N00200056
+  - N00200036
+  - N01202105
+  - N00200045
+  - N00200009
 pairing: swiss
-payprotocol: meritPay 3
-round: 3
-text: /home/drbean/class/literature/cards.yaml
-week: 13
+payprotocol: meritPay 2
+round: 2
+text: /home/drbean/class/conversation/disability/cards.yaml
+week: 14

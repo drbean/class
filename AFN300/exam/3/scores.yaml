@@ -1,81 +1,69 @@
 ---
 Chinese:
   Black: 0
-  BlackBlack: 0
   Blue: 0
-  BlueBlue: 0
   Brown: 0
-  Evy: 0
+  Charcoal: 0
+  Chocolate: 0
+  Gray: 0
   Green: 0
+  Khaki: 0
   Orange: 0
-  OrangeOrange: 0
   Pink: 0
-  Purple: 0
   Red: 0
-  Yellow: 0
 letters:
   Black:
-    N99200010: 7
-    N99200050: 4
-    N99200007: 9
-    story: musketeers1
-  BlackBlack:
-    N99200025: 7
-    N99200016: 6
-    N99200039: 6
-    story: 200000
+    N00200029: 3
+    N00200042: 3
+    N00200015: 3
+    story: foreman1
   Blue:
-    N00202103: 6
-    N00202003: 6
-    N99200011: 8
-    story: 200001
-  BlueBlue:
-    N99200025: 7
-    N99200030: 8
-    N99200002: 6
-    story: jekyll0
+    N01202105: 3
+    N00200008: 3
+    N00200030: 3
+    story: davist2
   Brown:
-    N97080093: 7
-    N99200041: 7
-    N99200027: 4
-    story: jekyll1
-  Evy:
-    N99200014: 5
-    N99200002: 7
-    N99200027: 6
-    story: musketeers0
+    N00200030: 3
+    N00200055: 3
+    N00120056: 3
+    story: connell55
+  Charcoal:
+    N99030025: 0
+    N00200037: 1
+    N00200022: 1
+    story: foreman1
+  Chocolate:
+    N00200048: 1
+    N00200043: 1
+    N00200006: 1
+    story: davist2
+  Gray:
+    N00200030: 3
+    N00200025: 3
+    N00200044: 3
+    story: warm1
   Green:
-    N99200033: 5
-    N99200024: 5
-    N99200009: 5
-    story: musketeers0
+    N00200030: 3
+    N00200017: 3
+    N01202001: 3
+    story: connell55
+  Khaki:
+    N00200009: 1
+    N00200007: 1
+    N01202004: 1
+    story: davist2
   Orange:
-    N99200032: 7
-    N99200036: 4
-    N99200022: 10
-    story: musketeers0
-  OrangeOrange:
-    N99200024: 6
-    N99200035: 5
-    N99200005: 5
-    story: jekyll1
+    N00200034: 3
+    N00200054: 3
+    N00200001: 3
+    story: connell55
   Pink:
-    N99200021: 10
-    N99200008: 7
-    N99200047: 7
-    story: 200000
-  Purple:
-    N96200019: 6
-    N99200012: 7
-    N99200051: 3
-    story: musketeers1
+    N01202103: 3
+    N00200056: 3
+    N00202103: 3
+    story: connell55
   Red:
-    N99200013: 8
-    N99200023: 8
-    N99200004: 8
-    story: 200001
-  Yellow:
-    N99200019: 4
-    N99200020: 4
-    N99200028: 5
-    story: jekyll0
+    N00200036: 3
+    N00200014: 3
+    N02203102: 3
+    story: warm1
