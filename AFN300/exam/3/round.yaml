@@ -1,90 +1,87 @@
 ---
 round: Exam 3
-week: 13
+week: 14
 questions:
-  - 10
-pass: 4
+  - 3
+pass: 1
 assistant:
-  - Lee
-  - Debby
-  - Hellen
-  - Winnie
+  - Dave
 absent:
-  - Joelle
-text: /home/drbean/class/literature/cards.yaml
+  - Dora
+  - Tina
+  - Yuki
+  - Crown
+  - Neo
+  - Candy
+  - Cindy
+  - Emily
+  - Vicky
+  - Ben
+  - Peggy
+  - Jerry
+text: /home/drbean/class/conversation/disability/cards.yaml
 activity:
-  musketeers:
-    0:
-      - Evy
+  connell:
+    55:
+      - Brown
       - Green
       - Orange
+      - Pink
+  warm:
+    1:
+      - Gray
+      - Red
+  foreman:
     1:
       - Black
-      - Purple
-  20000:
-    0:
-      - BlackBlack
-      - Pink
-    1:
+      - Charcoal
+  davist:
+    2:
       - Blue
-      - Red
-  jekyll:
-    0:
-      - BlueBlue
-      - Yellow
-    1:
-      - Brown
-      - OrangeOrange
+      - Chocolate
+      - Khaki
 group:
-  Evy:
-    - Evy
-    - Hellen
-    - Winnie
   Black:
-    - Cherry2
-    - Olivia
-    - Sue
-  BlackBlack:
-    - Lee
-    - Nora
-    - Andy
+    - Vicky
+    - Kelly1
+    - Teresa
   Blue:
-    - Betty
-    - Zona
-    - Kate
-  BlueBlue:
-    - Lee
-    - Cindy
-    - Hellen
+    - Allen
+    - MiuMiu
+    - Dave
   Brown:
-    - Ariel
-    - James
-    - Winnie
+    - Dave
+    - Shane
+    - Ally
+  Chocolate:
+    - Mei
+    - Katie
+    - Selena
   Green:
-    - Tina
-    - Debby
+    - Dave
+    - Andy
+    - Eva
+  Charcoal:
+    - Don
     - Carol
+    - Sally
   Orange:
-    - Nitro
-    - Vickey
-    - Eve
-  OrangeOrange:
-    - Debby
-    - Hulie
-    - Juby
+    - Fion
+    - Alex
+    - Carlos
   Pink:
-    - Cherry1
-    - Elaine
-    - Peggy
-  Purple:
-    - Sonia
-    - Senna
-    - Alisa
+    - Jeff
+    - Mindy
+    - Betty
+  Gray:
+    - Dave
+    - Neil
+    - Lanna
   Red:
-    - Foxy
-    - Louis
-    - Michael
-  Yellow:
-    - Amber
-    - Lainey
-    - Vivian
+    - Champion
+    - Bunny
+    - James
+  Khaki:
+    - Denise
+    - Joan
+    - Louie
