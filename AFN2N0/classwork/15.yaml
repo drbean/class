@@ -1,43 +1,36 @@
 ---
+# topic: cars
+
 Green:
-  absent:    
-  merits:    2
+  absent:
+    - Joanne2
+    - Doni
+  merits: 3
 Black:
-  absent: 
-  merits:    3
+  absent:
+    - Dara
+  merits: 3
 
 Blue:
-  absent:    
-  merits:    3
-Brown:
-  absent:    
-  merits:    2
-
-BlueBlue:
   absent:
-    - Juby
-  merits:    3
-BlackBlack:
-  absent:    
-  merits:    2
+    - Wade
+  merits: 3
+Charcoal:
+  absent:
+    - Helen2
+  merits: 3
 
-Yellow:
-  absent:    
-  merits:    3
 Orange:
-  absent:    
-  merits:    3
-
+  absent:
+    - Kelly
+    - Amy1
+  merits: 3
 Pink:
-  absent:    
-  merits:    3
-Purple:
-  absent:    
-  merits:    2
+  absent:
+    - Vicky
+  merits: 3
 
-Red:
-  absent:    
-  merits:    2
-OrangeOrange:
-  absent:    
-  merits:    3
+Purple:
+  absent:
+  merits: 3
+
