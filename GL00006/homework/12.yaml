@@ -1,117 +1,91 @@
 ---
 cutpoints:
-  one: 50
-  two: 170
-exercise: tyson
+  one: ~
+  two: ~
+exercise: davist
 grade:
-  N9532037: 0
-  N9661709: 2
-  N9661712: 0
-  N9661714: 2
-  N9661717: 0
-  N9661725: 2
-  N9661728: 2
-  N9661740: 2
-  N9661742: 2
-  N9661748: 2
-  T9722102: 2
-  T9722119: 0
-  U9611024: 0
-  U9614044: 2
-  U9714104: 2
-  U9714105: 2
-  U9714108: 2
-  U9714111: 2
-  U9714127: 2
-  U9714135: 2
-  U9714141: 2
-  U9722143: 2
-  U9822015: 2
-  U9822020: 2
-  U9824047: 0
-  U9824053: 0
-  U9824054: 2
+  K220155482: 1.98
+  U0017024: 2
+  U0018027: 2
+  U0018046: 1.98
+  U0042012: 0
+  U0042031: 0
+  U0042041: 0.56
+  U0042050: 1.92
+  U0043001: 2
+  U0043004: 1.46
+  U0043033: 2
+  U0122002: 2
+  U0222133: 1.98
+  U0222228: 2
+  U9911237: 2
+  U9911242: 2
+  U9917017: 2
+  U9923120: 1.9
+  U9923121: 1.38
+  U9943007: 1.94
+  U9943019: 0
 points:
-  N9532037:
-    letters: 0
-    questions: 0
-  N9661709:
+  K220155482:
     letters: 185
-    questions: 0
-  N9661712:
+    percent: 99
+  U0017024:
+    letters: 180
+    percent: 100
+  U0018027:
+    letters: 178
+    percent: 100
+  U0018046:
+    letters: 159
+    percent: 99
+  U0042012:
     letters: 0
-    questions: 0
-  N9661714:
-    letters: 190
-    questions: 0
-  N9661717:
+    percent: 0
+  U0042031:
     letters: 0
-    questions: 0
-  N9661725:
-    letters: 227
-    questions: 0
-  N9661728:
-    letters: 227
-    questions: 0
-  N9661740:
-    letters: 190
-    # questions: 0 # /var/www/cgi-bin/dic/db/991qn
-    # questions: 1 # ~/dic/db/991qn
-    questions: 1
-  N9661742:
+    percent: 0
+  U0042041:
+    letters: 60
+    percent: 28
+  U0042050:
+    letters: 160
+    percent: 96
+  U0043001:
+    letters: 180
+    percent: 100
+  U0043004:
+    letters: 148
+    percent: 73
+  U0043033:
+    letters: 189
+    percent: 100
+  U0122002:
+    letters: 171
+    percent: 100
+  U0222133:
+    letters: 171
+    percent: 99
+  U0222228:
+    letters: 161
+    percent: 100
+  U9911237:
     letters: 200
-    questions: 0
-  N9661748:
-    letters: 227
-    questions: 1
-  T9722102:
-    letters: 222
-    questions: 0
-  T9722119:
+    percent: 100
+  U9911242:
+    letters: 167
+    percent: 100
+  U9917017:
+    letters: 180
+    percent: 100
+  U9923120:
+    letters: 168
+    percent: 95
+  U9923121:
+    letters: 117
+    percent: 69
+  U9943007:
+    letters: 156
+    percent: 97
+  U9943019:
     letters: 0
-    questions: 0
-  U9611024:
-    letters: 0
-    questions: 0
-  U9614044:
-    letters: 202
-    questions: 0
-  U9714104:
-    letters: 200
-    questions: 0
-  U9714105:
-    letters: 227
-    questions: 1
-  U9714108:
-    letters: 190
-    questions: 0
-  U9714111:
-    letters: 227
-    questions: 0
-  U9714127:
-    letters: 222
-    questions: 0
-  U9714135:
-    letters: 200
-    questions: 0
-  U9714141:
-    letters: 227
-    questions: 1
-  U9722143:
-    letters: 222
-    questions: 0
-  U9822015:
-    letters: 222
-    questions: 0
-  U9822020:
-    letters: 188
-    questions: 1
-  U9824047:
-    letters: 0
-    questions: 0
-  U9824053:
-    letters: 0
-    questions: 0
-  U9824054:
-    letters: 222
-    questions: 0
+    percent: 0
