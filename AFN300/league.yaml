@@ -34,11 +34,6 @@ member:
     name: Dora
     password: shi
     rating: 0
-  - Chinese: 黃冠潔
-    id: N01202003
-    name: Crown
-    password: guan
-    rating: 0
 
   - Chinese: 鐘元君
     id: N98200021
@@ -227,6 +222,11 @@ member:
     password: de
     rating: 0
 out:
+  - Chinese: 黃冠潔
+    id: N01202003
+    name: Crown
+    password: guan
+    rating: 0
 
   - Chinese: 戴睿萱
     id: N00200051
