@@ -6,6 +6,8 @@ questions:
 pass: 1
 assistant:
   - Dave
+  - Teresa
+  - Sally
 absent:
   - Dora
   - Tina
@@ -13,7 +15,6 @@ absent:
   - Crown
   - Neo
   - Candy
-  - Cindy
   - Emily
   - Vicky
   - Ben
@@ -35,12 +36,17 @@ activity:
     1:
       - Black
       - Charcoal
+      - Cindy
   davist:
     2:
       - Blue
       - Chocolate
       - Khaki
 group:
+  Cindy:
+    - Cindy
+    - Teresa
+    - Sally
   Black:
     - Vicky
     - Kelly1
