@@ -14,6 +14,21 @@ id: AFN2N0
 jigsaw: exam
 league: NAF021\_四技外二甲\_選修\_2
 member:
+  - Chinese: 吳聲均
+    id: N01200056
+    name: Ted
+    password: sheng
+    rating: ~
+  - Chinese: 李郁芬
+    id: N99080092
+    name: Amy2
+    password: yu
+    rating: ~
+  - Chinese: 陳翰境
+    id: N00082007
+    name: Jim
+    password: han
+    rating: ~
  
   - Chinese: 范思惟
     id: B00200054
@@ -21,42 +36,16 @@ member:
     password: si
     rating: ~
   
-  - Chinese: 徐禹婷
-    id: N01200009
-    name: Olivia
-    password: yu
-    rating: ~
-
   - Chinese: 徐瑋萱
     id: N01200008
     name: Kate
     password: wei
     rating: ~
 
-  - Chinese: 羅芳鋙
-    id: N97120058
-    name: Corey
-    password: fang
-    rating: ~
-  - Chinese: 陳翰境
-    id: N00082007
-    name: Jim
-    password: han
-    rating: ~
-  - Chinese: 李郁芬
-    id: N99080092
-    name: Amy2
-    password: yu
-    rating: ~
   - Chinese: 鄧茜文
     id: N97200033
     name: Kelly
     password: qian
-    rating: ~
-  - Chinese: 王楚寒
-    id: N01200018
-    name: Helen1
-    password: chu
     rating: ~
   - Chinese: 蔡雨樵
     id: N01200021
@@ -93,11 +82,6 @@ member:
     name: Dara
     password: shi
     rating: ~
-  - Chinese: 張煥翊
-    id: N01200038
-    name: David
-    password: huan
-    rating: ~
   - Chinese: 蔡佩燕
     id: N01200041
     name: Penny
@@ -107,11 +91,6 @@ member:
     id: N01200051
     name: Helen2
     password: xiu
-    rating: ~
-  - Chinese: 吳聲均
-    id: N01200056
-    name: Ted
-    password: sheng
     rating: ~
   - Chinese: 陳文億
     id: N02202101
@@ -133,17 +112,38 @@ member:
     name: Bill
     password: zhi
     rating: ~
-  - Chinese: 黃哲禹
-    id: N02202113
-    name: Jeff
-    password: zhe
-    rating: ~
   - Chinese: 鄭巧柔
     id: N02202114
     name: Amy1
     password: qiao
     rating: ~
 out:
+  - Chinese: 張煥翊
+    id: N01200038
+    name: David
+    password: huan
+    rating: ~
+  - Chinese: 王楚寒
+    id: N01200018
+    name: Helen1
+    password: chu
+    rating: ~
+  - Chinese: 黃哲禹
+    id: N02202113
+    name: Jeff
+    password: zhe
+    rating: ~
+  - Chinese: 徐禹婷
+    id: N01200009
+    name: Olivia
+    password: yu
+    rating: ~
+
+  - Chinese: 羅芳鋙
+    id: N97120058
+    name: Corey
+    password: fang
+    rating: ~
   - Chinese: 凾登舜
     id: N01200020
     name: Larry
