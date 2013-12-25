@@ -6,17 +6,17 @@ Blue:
   absent: 
   merits: 3
 
-Brown:
+Gray:
   absent: 
   merits: 3
-BlueBlue:
+Chocolate:
   absent:
   merits: 2
 
 Green:
   absent: 
   merits: 2
-BlackBlack:
+Charcoal:
   absent: 
     - Tina
   merits: 3
@@ -43,7 +43,7 @@ Yellow:
   absent: 
   merits: 3
 
-OrangeOrange:
+Silver:
   absent: 
     - Cherry1
     - Foxy
