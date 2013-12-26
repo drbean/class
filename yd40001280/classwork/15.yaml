@@ -1,102 +1,65 @@
 ---
-# Assistants: But where is emailed questions?
-6-1:
-  absent: 
-  merits: 3
+# topic: short-talks-p79 (p78)
 
-1-1:
-  absent: 
-    - E.J.
+Black:
+  absent:
+  merits: 3
+Blue:
+  absent:
+    - GenWei
+  merits: 2
+
+Brown:
+  absent:
+    - Tony
+  merits: 3
+Khaki:
+  absent:
+    - Tina
+  merits: 2
+
+Chocolate:
+  absent:
+    - Vivian
+  merits: 3
+Charcoal:
   tardy:
-    - Candy
-  merits: 1
-
-1-2:
-  absent: 
-  merits: 2
-2-1:
-  absent: 
+    - Cindy1
+  absent:
+    - Lai
   merits: 2
 
-2-2:
-  absent: 
+Green:
+  absent:
   merits: 2
-3-1:
-  absent: 
-    - Santie
-  merits: 3
-
-3-2:
-  absent: 
+Orange:
+  absent:
+    - Elena
   merits: 2
-4-1:
-  absent: 
-  merits: 3
 
-4-2:
-  absent: 
-    - Tina # arrived after Compcomp
-  merits: 2
-5-1:
-  absent: 
-  merits: 3
-
-5-2:
-  absent: 
-  merits: 2
-6-2:
-  absent: 
-  merits: 3
-
-13-1:
-  absent: 
-  merits: 2
-8-1:
-  absent: 
-    - Danny
-  merits: 3
-
-8-2:
-  absent: 
-    - Ann
-  merits: 3
-9-1:
-  absent: 
-  merits: 3
-
-9-2:
-  absent: 
-  merits: 2
-10-1:
-  absent: 
+Pink:
+  absent:
+    - YongXuan
   tardy:
-    - Tosha
+    - Andy
   merits: 3
-
-10-2:
-  absent: 
-  merits: 2
-11-1:
-  absent: 
-  tardy:
-  merits: 3
-
-11-2:
-  absent: 
-  merits: 3
-12-1:
-  absent: 
+Purple:
+  absent:
   merits: 2
 
-12-2:
-  absent: 
-  merits: 3
-13-2:
-  absent: 
+Red:
+  absent:
+    - Zoo
   merits: 2
-
-14-1:
-# joined 8-1
-  absent: 
+Silver:
+  absent:
   merits: 3
+
+Yellow:
+  absent:
+  merits: 3
+White:
+  absent:
+    - Cindy2
+  merits: 2
 
