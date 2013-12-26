@@ -15,6 +15,11 @@ id: 40001280
 jigsaw: exam
 league: 育達 General English
 member:
+  - Chinese: 宋芝凌
+    id: 102403206
+    name: Marjorie
+    password: zhi
+    rating: ~
   - Chinese: 李柏宏
     id: 102403027
     name: Parker
@@ -217,11 +222,6 @@ member:
     name: Fanny
     password: yun
     rating: ~
-  - Chinese: 李翊辰
-    id: 102405445
-    name: Peter
-    password: yi
-    rating: ~
   - Chinese: 劉于華
     id: 102405506
     name: Emily
@@ -233,6 +233,11 @@ member:
     password: yi
     rating: ~
 out:
+  - Chinese: 李翊辰
+    id: 102405445
+    name: Peter
+    password: yi
+    rating: ~
   - Chinese: 周華庭
     id: 100406006
     name: Cain
@@ -242,11 +247,6 @@ out:
     id: 102405442
     name: Watermelon
     password: sheng
-    rating: ~
-  - Chinese: 宋芝凌
-    id: 102403206
-    name: Marjorie
-    password: zhi
     rating: ~
   - Chinese: 黃威愷
     id: 102404328
