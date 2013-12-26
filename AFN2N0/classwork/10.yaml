@@ -14,12 +14,12 @@ Charcoal:
     - Joanne2
   merits: 3
 
-Chocolate:
+White:
   absent:
     - Olivia
     - Corey
   merits: 3
-Purple:
+Yellow:
   absent:
     - Helen1
     - David
@@ -35,5 +35,5 @@ Pink:
     - Jeff
     - Ted
   merits: 3
-White:
+Purple:
   merits: 3
