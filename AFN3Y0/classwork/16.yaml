@@ -1,49 +1,132 @@
 ---
+# topic: grammar_comp
 
 Black:
-  absent: 
-  merits: 3
-Blue:
-  absent: 
-    - Elaine
-    - Andy
-  merits: 2
-
-Brown:
-  absent: 
-  merits: 2
-BlueBlue:
   absent:
-  merits: 3
+    - Fion
+  merits: 2.5
+Blue:
+  absent:
+    - Rena
+  merits: 2.25
 
+Charcoal:
+  absent:
+  merits: 2.75
 Green:
-  absent: 
-    - Olivia
-  merits: 3
-BlackBlack:
-  absent: 
-    - James
-  merits: 2
+  absent:
+    - MiuMiu
+    - Carol
+  merits: 2.25
 
 Orange:
-  absent: 
-  merits: 2
+  absent:
+    - Vicky
+  merits: 2.75
 Pink:
-  absent: 
-  merits: 3
+  absent:
+  merits: 2.25
 
 Purple:
-  absent: 
-    - Amber
-    - Peggy
-  merits: 2
-Red:
-  absent: 
-  merits: 3
-
+  absent:
+    - Louie
+  merits: 2.5
 Yellow:
-  absent: 
-  merits: 3
-OrangeOrange:
-  absent: 
-  merits: 2
+  absent:
+    - Stephen
+  merits: 2.75
+
+# ---
+# # topic: grammar_comp-1
+# 
+# 
+# Black:
+#   absent:
+#   merits: 2.5
+# Blue:
+#   absent:
+#   merits: 2.5
+# 
+# Charcoal:
+#   absent:
+#   merits: 2.5
+# Green:
+#   absent:
+#   merits: 2.5
+# 
+# Orange:
+#   absent:
+#   merits: 2.5
+# Pink:
+#   absent:
+#   merits: 2.5
+# 
+# Purple:
+#   absent:
+#   merits: 2.5
+# Yellow:
+#   absent:
+#   merits: 2.5
+# 
+# ---
+# # topic: grammar-comp-2
+# Green:
+#   absent:
+#   merits: 2
+# Orange:
+#   absent:
+#   merits: 3
+# 
+# Charcoal:
+#   absent:
+#   merits: 3
+# Pink:
+#   absent:
+#   merits: 2
+# 
+# Black:
+#   absent:
+#   merits: 2.5
+# Purple:
+#   absent:
+#   merits: 2.5
+# 
+# Blue:
+#   absent:
+#   merits: 2
+# Yellow:
+#   absent:
+#   merits: 3
+# 
+# #---
+# # not run
+# #
+# ## topic: grammar-comp-3
+# #Green:
+# #  absent:
+# #  merits: ~
+# #Pink:
+# #  absent:
+# #  merits: ~
+# #
+# #Charcoal:
+# #  absent:
+# #  merits: ~
+# #Orange:
+# #  absent:
+# #  merits: ~
+# #
+# #Black:
+# #  absent:
+# #  merits: ~
+# #Yellow:
+# #  absent:
+# #  merits: ~
+# #
+# #Purple:
+# #  absent:
+# #  merits: ~
+# #Blue:
+# #  absent:
+# #  merits: ~
+# #
