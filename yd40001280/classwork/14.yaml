@@ -1,93 +1,54 @@
 ---
-1-1:
-  absent: 
+# topic: short-conversations-p76
+
+Green:
+  absent:
+    - Will
   merits: 2
-1-2:
-  absent: 
+Black:
+  absent:
   merits: 3
 
-2-1:
-  absent: 
-    - Brook
+Charcoal:
+  absent:
+    - Lai
   merits: 3
-2-2:
-  absent: 
+Blue:
+  absent:
   merits: 2
 
-3-1:
-  absent: 
-  tardy:
-  merits: 2
-3-2:
-  absent: 
-  merits: 3
+Chocolate:
+  absent:
+  merits: ~
+Brown:
+  absent:
+  merits: ~
 
-4-1:
-  absent: 
-  merits: 3
-4-2:
-  absent: 
-  merits: 2
+Khaki:
+  absent:
+  merits: ~
+Red:
+  absent:
+  merits: ~
 
-5-1:
-  absent: 
-  merits: 2
-5-2:
-  absent: 
-    - Abby
-  merits: 3
+Orange:
+  absent:
+  merits: ~
+White:
+  absent:
+  merits: ~
 
-6-1:
-  absent: 
-  merits: 3
-6-2:
-  absent: 
-  merits: 2
+Pink:
+  absent:
+  merits: ~
+Yellow:
+  absent:
+  merits: ~
 
-8-1:
-  absent: 
-  merits: 3
-8-2:
-  absent: 
-    - Frank
-  merits: 2
+Purple:
+  absent:
+  merits: ~
+Silver:
+  absent:
+  merits: ~
 
-9-1:
-  absent: 
-  merits: 2
-9-2:
-  absent: 
-  merits: 3
-
-10-1:
-  absent: 
-  merits: 2
-10-2:
-  absent: 
-  merits: 3
-
-11-1:
-  absent: 
-  merits: 3
-11-2:
-  absent: 
-  merits: 2
-
-12-1:
-  absent: 
-  merits: 2
-12-2:
-  absent: 
-  merits: 3
-  
-13-1:
-  absent: 
-  merits: 3
-13-2:
-  absent: 
-  merits: 2
-
-# Jessy:
-14-1:
-  absent: 
-  merits: 0
