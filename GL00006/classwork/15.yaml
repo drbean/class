@@ -24,7 +24,7 @@ Green:
   merits: 3
 Gray:
   absent:
-    KungHsing
+    - KungHsing
   merits: 3
 
 Brown:
