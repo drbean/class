@@ -1,64 +1,63 @@
 ---
-
-Black:
-  absent: 
-  merits: 2
-Blue:
-  absent: 
-    - Hugh
-  merits: 3
-
-Brown:
-  absent: 
-  merits: 3
-Gray:
-  absent: 
-  merits: 2
+# topic: short-conversations-p57
+# check absent Charcoal-Blue -- none absent
 
 Green:
-  absent: 
-  merits: 2
-BlackBlack:
-  absent: 
+  absent:
+    - Tina
   merits: 3
-
-BlueBlue:
-  absent: 
+Black:
+  absent:
+    - Andy
   merits: 2
-GreenGreen:
-  absent: 
+
+Charcoal:
+  absent:
+  merits: 3
+Blue:
+  absent:
+  merits: 2
+
+Chocolate:
+  absent:
+  merits: 2
+Brown:
+  absent:
+  merits: 2
+
+Khaki:
+  absent:
+    - Elena
+  merits: 2
+Red:
+  absent:
   merits: 3
 
 Orange:
   absent:
-  merits: 3
-Pink:
-  absent: 
+    - Candy
   merits: 2
+White:
+  absent:
+    - Parker
+  merits: 3
+
+Pink:
+  absent:
+  merits: 3
+Yellow:
+  absent:
+    - Wen-Jen
+    - Venus
+    - Zoo
+  merits: 0
 
 Purple:
-  absent: 
-    - Emma
+  absent:
+    - GenWei
   merits: 3
-Red:
-  absent: 
+Silver:
+  absent:
+    - Emily
   merits: 2
 
-White:
-  absent: 
-  merits: 2
-Yellow:
-  absent: 
-  merits: 3
-
-PinkPink:
-  absent: 
-  merits: 3
-YellowYellow:
-  absent: 
-  merits: 2
-
-# joined
-PurplePurple:
-  absent: 
-  merits: 2.5
