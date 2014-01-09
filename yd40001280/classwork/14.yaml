@@ -15,40 +15,51 @@ Charcoal:
   merits: 3
 Blue:
   absent:
+    - GenWei
   merits: 2
 
 Chocolate:
   absent:
-  merits: ~
+    - Marjorie
+  merits: 3
 Brown:
   absent:
-  merits: ~
+  tardy:
+    - Tony
+  merits: 2
 
 Khaki:
   absent:
-  merits: ~
+    - Tina
+  merits: 2
 Red:
   absent:
-  merits: ~
+    - Zoo
+  tardy:
+    - Jenny
+  merits: 2
 
 Orange:
   absent:
-  merits: ~
+    - Elena
+  merits: 3
 White:
   absent:
-  merits: ~
+    - Cindy2
+  merits: 2
 
 Pink:
   absent:
-  merits: ~
+  merits: 3
 Yellow:
   absent:
-  merits: ~
+    - JiaRong
+  merits: 2
 
 Purple:
   absent:
-  merits: ~
+  merits: 2
 Silver:
   absent:
-  merits: ~
+  merits: 2
 
