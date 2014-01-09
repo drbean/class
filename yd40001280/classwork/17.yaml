@@ -1,93 +1,54 @@
 ---
-6-1:
-  absent: 
+# topic: exam-prep
+# test-conversations-unit3: 2,3,1
+# test-response-3-4: 1,2
+
+Green:
+  absent:
   merits: 2
-1-1:
-  absent: 
+Blue:
+  absent:
   merits: 3
 
-1-2:
-  absent: 
+Charcoal:
+  absent:
   merits: 2
-2-1:
-  absent: 
+Black:
+  absent:
   merits: 3
 
-2-2:
-  absent: 
-  merits: 2
-3-1:
-  absent: 
-  tardy:
+Chocolate:
+  absent:
+  merits: 3
+Khaki:
+  absent:
   merits: 2
 
-3-2:
-  absent: 
+Brown:
+  absent:
   merits: 2
-4-1:
-  absent: 
+Red:
+  absent:
   merits: 3
 
-4-2:
-  absent: 
-  merits: 3
-5-1:
-  absent: 
+Orange:
+  absent:
   merits: 2
-
-5-2:
-  absent: 
-  merits: 2
-6-2:
-  absent: 
+Yellow:
+  absent:
   merits: 3
 
-13-1:
-  absent: 
-  merits: 2
-8-1:
-  absent: 
+White:
+  absent:
   merits: 3
-
-8-2:
-  absent: 
-  merits: 3
-9-1:
-  absent: 
+Purple:
+  absent:
   merits: 2
 
-9-2:
-  absent: 
-  merits: 3
-10-1:
-  absent: 
-  merits: 2
-
-10-2:
-  absent: 
-  merits: 2
-11-1:
-  absent: 
-  tardy:
-  merits: 3
-
-11-2:
-  absent: 
-  merits: 3
-12-1:
-  absent: 
-  merits: 2
-
-12-2:
-  absent: 
-  merits: 2
-13-2:
-  absent: 
-    - Rifle
-  merits: 3
-
-14-1:
-# joined 12-2
-  absent: 
-  merits: 3
+Silver:
+  absent:
+  merits: 2.5
+Pink:
+  absent:
+  merits: 2.5
 
