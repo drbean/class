@@ -1,92 +1,68 @@
 ---
-1-1:
-  absent: 
-  merits: 3
-1-2:
-  absent: 
-  merits: 2
+# topic: short-conversations-2
 
-2-1:
-  absent: 
-  merits: 3
-2-2:
-  absent: 
+Green:
+  absent:
+    - Grace
   merits: 2
+Black:
+  absent:
+  merits: 3
 
-3-1:
-  absent: 
+Charcoal:
+  absent:
   tardy:
+    - Lai
+    - Cindy1
   merits: 2
-3-2:
-  absent: 
+Blue:
+  absent:
+    - GenWei
   merits: 3
 
-4-1:
-  absent: 
-  merits: 3
-4-2:
-  absent: 
+Chocolate:
+  absent:
+    - Marjorie
+  tardy:
+    - Vivian
   merits: 2
-
-5-1:
-  absent: 
-  merits: 2
-5-2:
-  absent: 
+Brown:
+  absent:
   merits: 3
 
-6-1:
-  absent: 
-  merits: 3
-6-2:
-  absent: 
+Khaki:
+  absent:
+    - Tina
+  merits: 2
+Red:
+  absent:
+    - Zoo
   merits: 2
 
-8-1:
-  absent: 
+Orange:
+  absent:
+  tardy:
+    - Elena
   merits: 2
-8-2:
-  absent: 
-    - Wei
+White:
+  absent:
+  tardy:
+    - Cindy2
   merits: 3
 
-9-1:
-  absent: 
+Pink:
+  absent:
+    - Andy
   merits: 3
-9-2:
-  absent: 
-    - Paul
+Yellow:
+  absent:
   merits: 2
 
-10-1:
-  absent: 
+Purple:
+  absent:
+    - Loy
   merits: 2
-10-2:
-  absent: 
-  merits: 3
-
-11-1:
-  absent: 
-  merits: 2
-11-2:
-  absent: 
-  merits: 3
-
-12-1:
-  absent: 
-  merits: 2
-12-2:
-  absent: 
-  merits: 3
-  
-13-1:
-  absent: 
-  merits: 3
-13-2:
-  absent: 
+Silver:
+  absent:
   merits: 2
 
-# Teddy
-14-1:
-  absent: 
-  merits: 2
