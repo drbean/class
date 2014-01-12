@@ -2,51 +2,38 @@
 Chinese:
   Black: 0
   Blue: 0
+  Brown: 0
   Gray: 0
   Green: 0
-  Pink: 0
-  Purple: 0
-  White: 0
+  Orange: 0
 letters:
   Black:
-    N9661717: 8
-    N9661728: 8
-    T9722102: 8
-    U9714105: 8
-    story: desilvey1
+    U0018027: 9
+    U0043004: 10
+    U0122002: 9
+    story: vanbeke1
   Blue:
-    N9661709: 9
-    N9661728: 9
-    U9714141: 9
-    N9661748: 9
-    story: duplantier1
+    U9943019: 7
+    U0017024: 9
+    U9943007: 7
+    story: salazar1
+  Brown:
+    U0042012: 7
+    U9923121: 7
+    U0222228: 6
+    story: vanbeke1
   Gray:
-    N9532037: 9
-    N9661725: 9
-    U9714108: 9
-    U9714111: 9
-    story: conant1
+    U0042041: 9
+    U0042050: 9
+    U0043001: 8
+    story: salazar1
   Green:
-    U9611024: 9
-    T9722119: 9
-    U9824053: 10
-    U9714127: 9
-    story: harllee1
-  Pink:
-    N9661717: 8
-    U9714104: 10
-    U9714135: 9
-    U9614044: 10
-    story: desilvey1
-  Purple:
-    U9824047: 7
-    N9661742: 7
-    U9722143: 8
-    N9661740: 7
-    story: duplantier1
-  White:
-    N9661712: 10
-    N9661714: 10
-    U9822020: 10
-    N9661748: 10
-    story: conant1
+    K220155482: 9
+    U9917017: 8
+    U9923120: 9
+    story: vanbeke1
+  Orange:
+    U0222133: 5
+    U0043033: 5
+    U0018046: 9
+    story: rueda1
