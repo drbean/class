@@ -1,0 +1,31 @@
+---
+# topic: vanbeke
+
+Gray:
+  absent:
+  merits: 3
+Blue:
+  absent:
+  merits: 3
+
+Yellow:
+  absent:
+    - Yukin
+  merits: 3
+Green:
+  absent:
+    - Simon
+  merits: 3
+
+Orange:
+  absent:
+  merits: 3
+Brown:
+  absent:
+  merits: 3
+
+Black:
+  absent:
+    - ChungWei
+  merits: 3
+
