@@ -3,64 +3,51 @@ round: Exam 4
 week: 18
 questions:
   - 10
-pass: 6
+pass: 5
 assistant:
-  - Moto
-  - Lucas
-  - Cloud
 absent:
-  - Shanghao
-  - Sam
-text: /home/drbean/class/conversation/disasters/cards.yaml
+  - Simon
+  - Yukin
+text: /home/drbean/class/conversation/poverty/cards.yaml
 activity:
-  duplantier:
+  salazar:
     1:
       - Blue
-      - Purple
-  desilvey:
+      - Gray
+  rueda:
+    1:
+      - Orange
+  vanbeke:
     1:
       - Black
-      - Pink
-  conant:
-    1:
-      - Gray
-      - White
-  harllee:
-    1:
+      - Brown
       - Green
 group:
   Black:
-    - Lucas
-    - Moto
-    - Jay
-    - Kate
+    - Tracy
+    - Mia
+    - Gillian
   Blue:
-    - Irin
-    - Moto
-    - Lily
-    - Cloud
+    - Luisa
+    - Rick
+    - Carolyn
+  Brown:
+    - Danny
+    - Penny
+    - Li-Ting
   Gray:
-    - Rita
-    - Mico
-    - Peter
-    - Cindy
+    - KungHsing
+    - Amy
+    - Tiffany
   Green:
-    - John
-    - James
-    - Hendy
-    - Emaily
-  Pink:
-    - Lucas
-    - Fang-Yi
-    - Yu-chi
-    - Jim
-  Purple:
-    - Chad
-    - Daisy
-    - Kenny
-    - Ken
-  White:
-    - Allen
-    - Steven
-    - May
-    - Cloud
+    - Angela
+    - Scotter
+    - Lance
+  Orange:
+    - Dave
+    - Peggy
+    - Regina
+#  Yellow:
+#    - Tracy
+#    - Yukin
+#    - Angela
