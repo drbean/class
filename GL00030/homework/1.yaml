@@ -4,6 +4,8 @@ cutpoints:
   two: ~
 exercise: dickson
 grade:
+  U9816041: 0
+
   U0010040: 2
   U0114037: 0
   U0114045: 2
@@ -15,6 +17,10 @@ grade:
   U9933028: 1.7
   V9941010: 0
 points:
+  U9816041:
+    letters: 0
+    percent: 0
+
   U0010040:
     letters: 292
     percent: 100
