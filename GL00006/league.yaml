@@ -74,11 +74,6 @@ member:
     name: Scotter
     password: sheng
     rating: 40
-  - Chinese: 陳忠偉
-    id: U0042031
-    name: Chung-Wei
-    password: jung
-    rating: 13
   - Chinese: 陳柏合
     id: U9911242
     name: Simon
@@ -120,6 +115,11 @@ member:
     password: yan
     rating: 53
 out:
+  - Chinese: 陳忠偉
+    id: U0042031
+    name: Chung-Wei
+    password: jung
+    rating: 13
   - Chinese: 褚春美
     id: M0210002
     name: Moomin
