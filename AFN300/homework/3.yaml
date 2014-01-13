@@ -4,6 +4,8 @@ cutpoints:
   two: ~
 exercise: smallwood
 grade:
+  N98200021: 0
+
   N00000000: 0
   N00120056: 2
   N00200001: 2
@@ -50,6 +52,10 @@ grade:
   N99030025: 0
   N99030033: 0
 points:
+  N98200021:
+    letters: 0
+    percent: 0
+
   N00000000:
     letters: 0
     percent: 0
