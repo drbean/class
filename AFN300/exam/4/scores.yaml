@@ -1,75 +1,81 @@
 ---
 Chinese:
   Black: 0
-  BlackBlack: 0
   Blue: 0
-  BlueBlue: 0
   Brown: 0
+  Charcoal: 0
+  Chocolate: 0
+  Gray: 0
   Green: 0
+  Khaki: 0
   Orange: 0
-  OrangeOrange: 0
   Pink: 0
   Purple: 0
   Red: 0
   Yellow: 0
 letters:
   Black:
-    N99200010: 8
-    N99200028: 6
-    N99200007: 7
-    story: phantom1
-  BlackBlack:
-    N99200025: 6
-    N99200041: 6
-    N99200009: 7
-    story: mowgli1
+    N99030025: 10
+    N00200029: 10
+    N00200030: 10
+    story: vanbeke1
   Blue:
-    N99200045: 6
-    N99200008: 9
-    N99200039: 5
-    story: mowgli0
-  BlueBlue:
-    N99200014: 8
-    N99200005: 4
-    N99200027: 8
-    story: time1
+    N00120056: 10
+    N00200036: 10
+    N00200015: 10
+    story: salazar1
   Brown:
-    N99200021: 5
-    N99200013: 8
-    N99200011: 8
-    story: mowgli0
+    N00200048: 3
+    N00200037: 3
+    N01202001: 3
+    story: rueda1
+  Charcoal:
+    N00200045: 10
+    N00200042: 10
+    N00200001: 10
+    story: rueda1
+  Chocolate:
+    N00200001: 10
+    N00200055: 10
+    N00200022: 10
+    story: rueda1
+  Gray:
+    N00200043: 6
+    N00200008: 8
+    N00200006: 8
+    story: vanbeke1
   Green:
-    N99200033: 6
-    N99200050: 6
-    N99200022: 9
-    story: mowgli1
+    N00200031: 10
+    N00200009: 10
+    N00202103: 9
+    story: vanbeke1
+  Khaki:
+    N01202103: 10
+    N00200054: 10
+    N01202004: 10
+    story: salazar1
   Orange:
-    N97080093: 9
-    N99200024: 10
-    N99200002: 10
-    story: phantom1
-  OrangeOrange:
-    N99200016: 6
-    N99200035: 8
-    N99200004: 8
-    story: anne2
+    N98200021: 10
+    N00200032: 10
+    N02203102: 10
+    story: rueda1
   Pink:
-    N99200032: 8
-    N99200023: 9
-    N00202003: 6
-    story: time1
+    N00200010: 8
+    N00200017: 8
+    N00200025: 8
+    story: salazar1
   Purple:
-    N99200019: 9
-    N99200047: 7
-    N99200030: 6
-    story: anne1
+    N01202002: 7
+    N00200003: 7
+    N00200007: 7
+    story: salazar1
   Red:
-    N96200019: 7
-    N99200036: 6
-    N99200020: 8
-    story: anne1
+    N00200034: 7
+    N00200056: 7
+    N00200044: 7
+    story: rueda1
   Yellow:
-    N00202103: 5
-    N99200012: 7
-    N99200051: 6
-    story: anne2
+    N01202105: 7
+    N99030033: 8
+    N00200014: 7
+    story: rueda1
