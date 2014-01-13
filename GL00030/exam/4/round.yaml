@@ -3,79 +3,45 @@ round: Exam 4
 week: 18
 questions:
   - 10
-pass: 4
+pass: 5
 assistant:
 absent:
-text: /home/drbean/class/literature/cards.yaml
+text: /home/drbean/class/conversation/poverty/cards.yaml
 activity:
-  mowgli:
-    0:
-      - Blue
-      - Brown
+  salazar:
     1:
-      - BlackBlack
-      - Green
-  time:
+      - 2
+      - 5
+  rueda:
     1:
-      - BlueBlue
-      - Pink
-  anne:
+      - 3
+      - 6
+  vanbeke:
     1:
-      - Purple
-      - Red
-    2:
-      - OrangeOrange
-      - Yellow
-  phantom:
-    1:
-      - Black
-      - Orange
+      - 1
+      - 4
 group:
-  Black:
-    - Cherry2
-    - Vivian
-    - Sue
-  BlackBlack:
-    - Lee
-    - James
-    - Carol
-  Blue:
-    - Joelle
-    - Elaine
-    - Andy
-  BlueBlue:
-    - Evy
-    - Juby
-    - Winnie
-  Brown:
-    - Cherry1
-    - Foxy
-    - Kate
-  Green:
-    - Tina
-    - Olivia
-    - Eve
-  Orange:
-    - Ariel
-    - Debby
-    - Hellen
-  OrangeOrange:
-    - Nora
-    - Hulie
-    - Michael
-  Pink:
-    - Nitro
-    - Louis
-    - Zona
-  Purple:
-    - Amber
-    - Peggy
-    - Cindy
-  Red:
-    - Sonia
-    - Vickey
-    - Lainey
-  Yellow:
-    - Betty
-    - Senna
-    - Alisa
+  1:
+    - Twenty-eight
+    - Holly
+    - Thena
+  2:
+    - Chen
+    - Tim
+    - Twenty-eight
+  3:
+    - HongYi
+    - Chen
+    - Tim
+  4:
+    - Thena
+    - HongYi
+    - Chen
+  5:
+    - Holly
+    - Thena
+    - HongYi
+  6:
+    - Tim
+    - Twenty-eight
+    - Holly
