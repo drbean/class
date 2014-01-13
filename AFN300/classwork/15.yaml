@@ -43,7 +43,6 @@ Chocolate:
 
 White:
   absent:
-    - Bunny
     - Katie
   # merits: 0
   merits: 0
@@ -69,6 +68,7 @@ Red:
   merits: 2.75
 Yellow:
   absent:
+    - Bunny
     - Allen
     - Jerry
   # merits: 0
