@@ -4,7 +4,6 @@ cutpoints:
   two: ~
 exercise: biomom
 grade:
-  N00000000: 0
   N00120056: 2
   N00200001: 2
   N00200003: 0.64
@@ -20,6 +19,7 @@ grade:
   N00200025: 2
   N00200029: 0
   N00200030: 2
+  N00200031: 1.4
   N00200032: 1.96
   N00200034: 0
   N00200036: 0
@@ -36,7 +36,6 @@ grade:
   N00202103: 2
   N01202001: 2
   N01202002: 0
-  N01202003: 0
   N01202004: 2
   N01202101: 0
   N01202103: 0
@@ -46,9 +45,6 @@ grade:
   N99030025: 1.7
   N99030033: 0
 points:
-  N00000000:
-    letters: 0
-    percent: 0
   N00120056:
     letters: 144
     percent: 100
@@ -94,6 +90,9 @@ points:
   N00200030:
     letters: 156
     percent: 100
+  N00200031:
+    letters: 92
+    percent: 70
   N00200032:
     letters: 156
     percent: 98
@@ -140,9 +139,6 @@ points:
     letters: 161
     percent: 100
   N01202002:
-    letters: 0
-    percent: 0
-  N01202003:
     letters: 0
     percent: 0
   N01202004:
