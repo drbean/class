@@ -58,5 +58,6 @@ White:
   merits: 3
 Yellow:
   absent:
+    - Katie
   merits: 0
 
