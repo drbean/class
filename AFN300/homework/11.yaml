@@ -10,7 +10,7 @@ grade:
   N00200006: 2
   N00200007: 2
   N00200008: 2
-  N00200009: 1.38
+  N00200009: 1.46
   N00200010: 2
   N00200014: 1.9
   N00200015: 2
@@ -21,7 +21,7 @@ grade:
   N00200030: 2
   N00200031: 1.96
   N00200032: 2
-  N00200034: 1.94
+  N00200034: 1.96
   N00200036: 2
   N00200037: 2
   N00200042: 1.82
@@ -36,7 +36,6 @@ grade:
   N00202103: 2
   N01202001: 2
   N01202002: 2
-  N01202003: 0
   N01202004: 2
   N01202101: 0
   N01202103: 0
@@ -65,8 +64,8 @@ points:
     letters: 141
     percent: 100
   N00200009:
-    letters: 102
-    percent: 69
+    letters: 107
+    percent: 73
   N00200010:
     letters: 148
     percent: 100
@@ -98,8 +97,8 @@ points:
     letters: 143
     percent: 100
   N00200034:
-    letters: 157
-    percent: 97
+    letters: 159
+    percent: 98
   N00200036:
     letters: 143
     percent: 100
@@ -142,9 +141,6 @@ points:
   N01202002:
     letters: 153
     percent: 100
-  N01202003:
-    letters: 0
-    percent: 0
   N01202004:
     letters: 130
     percent: 100
