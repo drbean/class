@@ -3,79 +3,85 @@ round: Exam 4
 week: 18
 questions:
   - 10
-pass: 4
+pass: 5
 assistant:
+  - Carlos
 absent:
-text: /home/drbean/class/literature/cards.yaml
+  - Peggy
+  - Emily
+text: /home/drbean/class/conversation/poverty/cards.yaml
 activity:
-  mowgli:
-    0:
+  salazar:
+    1:
       - Blue
-      - Brown
-    1:
-      - BlackBlack
-      - Green
-  time:
-    1:
-      - BlueBlue
+      - Khaki
       - Pink
-  anne:
-    1:
       - Purple
+  rueda:
+    1:
+      - Brown
+      - Charcoal
+      - Chocolate
+      - Orange
       - Red
-    2:
-      - OrangeOrange
       - Yellow
-  phantom:
+  vanbeke:
     1:
       - Black
-      - Orange
+      - Gray
+      - Green
 group:
   Black:
-    - Cherry2
-    - Vivian
-    - Sue
-  BlackBlack:
-    - Lee
-    - James
-    - Carol
+    - Don
+    - Vicky
+    - Dave
   Blue:
-    - Joelle
-    - Elaine
-    - Andy
-  BlueBlue:
-    - Evy
-    - Juby
-    - Winnie
+    - Ally
+    - Champion
+    - Teresa
   Brown:
-    - Cherry1
-    - Foxy
-    - Kate
+    - Mei
+    - Carol
+    - Eva
+  Charcoal:
+    - Yuki
+    - Kelly1
+    - Carlos
+  Chocolate:
+    - Carlos
+    - Shane
+    - Sally
+  Gray:
+    - Katie
+    - MiuMiu
+    - Selena
   Green:
-    - Tina
-    - Olivia
-    - Eve
-  Orange:
-    - Ariel
-    - Debby
-    - Hellen
-  OrangeOrange:
-    - Nora
-    - Hulie
-    - Michael
-  Pink:
-    - Nitro
-    - Louis
-    - Zona
-  Purple:
-    - Amber
-    - Peggy
     - Cindy
-  Red:
-    - Sonia
-    - Vickey
-    - Lainey
-  Yellow:
+    - Denise
     - Betty
-    - Senna
-    - Alisa
+  Khaki:
+    - Jeff
+    - Alex
+    - Louie
+  Orange:
+    - Neo
+    - Dora
+    - James
+  Pink:
+    - Tina
+    - Andy
+    - Neil
+  Purple:
+    - Candy
+    - Ben
+    - Joan
+  Red:
+    - Fion
+    - Mindy
+    - Lanna
+  #White:
+  #  - Katie
+  Yellow:
+    - Allen
+    - Jerry
+    - Bunny
