@@ -7,7 +7,7 @@ grade:
   U0010040: 2
   U0131020: 1.92
   U0131034: 1.9
-  U0214036: 0
+  U0214036: 1.82
   U9816041: 1.58
   U9933028: 0
 points:
@@ -21,8 +21,8 @@ points:
     letters: 136
     percent: 95
   U0214036:
-    letters: 0
-    percent: 0
+    letters: 117
+    percent: 91
   U9816041:
     letters: 108
     percent: 79
