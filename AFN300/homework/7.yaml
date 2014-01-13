@@ -4,7 +4,6 @@ cutpoints:
   two: ~
 exercise: biodad
 grade:
-  N00000000: 0
   N00120056: 2
   N00200001: 2
   N00200003: 2
@@ -20,6 +19,7 @@ grade:
   N00200025: 0.8
   N00200029: 1.98
   N00200030: 2
+  N00200031: 1.74
   N00200032: 0
   N00200034: 0
   N00200036: 1.9
@@ -36,7 +36,6 @@ grade:
   N00202103: 2
   N01202001: 1.98
   N01202002: 0
-  N01202003: 0
   N01202004: 1.98
   N01202101: 0
   N01202103: 0
@@ -46,9 +45,6 @@ grade:
   N99030025: 0
   N99030033: 0
 points:
-  N00000000:
-    letters: 0
-    percent: 0
   N00120056:
     letters: 216
     percent: 100
@@ -94,6 +90,9 @@ points:
   N00200030:
     letters: 221
     percent: 100
+  N00200031:
+    letters: 168
+    percent: 87
   N00200032:
     letters: 0
     percent: 0
@@ -140,9 +139,6 @@ points:
     letters: 172
     percent: 99
   N01202002:
-    letters: 0
-    percent: 0
-  N01202003:
     letters: 0
     percent: 0
   N01202004:
