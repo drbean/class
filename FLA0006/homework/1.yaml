@@ -4,6 +4,9 @@ cutpoints:
   two: ~
 exercise: hacking
 grade:
+  V9841022: 0
+  V9841011: 0
+
   T9823041: 0
   V9741044: 0
   V9741064: 1.86
@@ -35,6 +38,13 @@ grade:
   V9941073: 0
   V9941075: 0
 points:
+  V9841022:
+    letters: 0
+    percent: 0
+  V9841011:
+    letters: 0
+    percent: 0
+
   T9823041:
     letters: 0
     percent: 0
