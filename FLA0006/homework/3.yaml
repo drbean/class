@@ -4,6 +4,8 @@ cutpoints:
   two: ~
 exercise: illegals
 grade:
+  V9841022: 0
+
   T9823041: 0
   V9741044: 1.98
   V9741064: 2
@@ -37,6 +39,10 @@ grade:
   V9941075: 0
   V9941077: 0
 points:
+  V9841022:
+    letters: 0
+    percent: 0
+
   T9823041:
     letters: 0
     percent: 0

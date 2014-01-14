@@ -4,6 +4,8 @@ cutpoints:
   two: ~
 exercise: wallace-oreilly
 grade:
+  V9841022: 0
+
   T9823041: 1.6
   V9741044: 1.66
   V9741064: 1.94
@@ -37,6 +39,10 @@ grade:
   V9941075: 0
   V9941077: 1.36
 points:
+  V9841022:
+    letters: 0
+    percent: 0
+
   T9823041:
     letters: 197
     percent: 80
