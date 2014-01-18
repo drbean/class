@@ -1,0 +1,32 @@
+---
+# topic: relative-clause
+# my RoundRobin module not useful
+
+Yellow:
+  absent:
+  merits: 2.5
+Black:
+  absent:
+  merits: 2.5
+
+Purple:
+  absent:
+  merits: 2.5
+Blue:
+  absent:
+  merits: 2.5
+
+Pink:
+  absent:
+  merits: 2
+Green:
+  absent:
+  merits: 3
+
+Orange:
+  absent:
+  merits: 2.5
+Charcoal:
+  absent:
+  merits: 2.5
+
