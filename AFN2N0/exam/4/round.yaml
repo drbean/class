@@ -6,12 +6,6 @@ questions:
 pass: 0
 assistant:
 absent:
-    - Penny
-    - Jim
-    - Jeff
-    - Kelly
-    - Ted
-    - David
 text: /home/drbean/class/business/greatideas/cards.yaml
 activity:
   fourconcepts:
