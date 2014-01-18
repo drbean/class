@@ -14,6 +14,12 @@ id: AFN2N0
 jigsaw: exam
 league: NAF021\_四技外二甲\_選修\_2
 member:
+  - Chinese: 羅芳鋙
+    id: N97120058
+    name: Corey
+    password: fang
+    rating: ~
+
   - Chinese: 吳聲均
     id: N01200056
     name: Ted
@@ -139,11 +145,6 @@ out:
     password: yu
     rating: ~
 
-  - Chinese: 羅芳鋙
-    id: N97120058
-    name: Corey
-    password: fang
-    rating: ~
   - Chinese: 凾登舜
     id: N01200020
     name: Larry
