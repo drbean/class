@@ -1,75 +1,45 @@
 ---
 Chinese:
   Black: 0
-  BlackBlack: 0
   Blue: 0
-  BlueBlue: 0
-  Brown: 0
+  Charcoal: 0
   Green: 0
   Orange: 0
-  OrangeOrange: 0
   Pink: 0
   Purple: 0
-  Red: 0
-  Yellow: 0
 letters:
   Black:
-    N99200010: 8
-    N99200028: 6
-    N99200007: 7
-    story: phantom1
-  BlackBlack:
-    N99200025: 6
-    N99200041: 6
-    N99200009: 7
-    story: mowgli1
+    N01200024: 1
+    N01200035: 1
+    N02202101: 4
+    story: fourconcepts01
   Blue:
-    N99200045: 6
-    N99200008: 9
-    N99200039: 5
-    story: mowgli0
-  BlueBlue:
-    N99200014: 8
-    N99200005: 4
-    N99200027: 8
-    story: time1
-  Brown:
-    N99200021: 5
-    N99200013: 8
-    N99200011: 8
-    story: mowgli0
+    N01200033: 1
+    N01200023: 2
+    B00200054: 1
+    story: fourconcepts01
+  Charcoal:
+    N01200051: 0
+    N02202112: 0
+    N02202110: 0
+    story: fourconcepts05
   Green:
-    N99200033: 6
-    N99200050: 6
-    N99200022: 9
-    story: mowgli1
+    N01200021: 3
+    N02202106: 3
+    N01200041: 3
+    story: fourconcepts04
   Orange:
-    N97080093: 9
-    N99200024: 10
-    N99200002: 10
-    story: phantom1
-  OrangeOrange:
-    N99200016: 6
-    N99200035: 8
-    N99200004: 8
-    story: anne2
+    N01200008: 1
+    N97200033: 2
+    N02202114: 1
+    story: fourconcepts01
   Pink:
-    N99200032: 8
-    N99200023: 9
-    N00202003: 6
-    story: time1
+    N01200025: 2
+    N01200029: 1
+    N97120058: 1
+    story: fourconcepts04
   Purple:
-    N99200019: 9
-    N99200047: 7
-    N99200030: 6
-    story: anne1
-  Red:
-    N96200019: 7
-    N99200036: 6
-    N99200020: 8
-    story: anne1
-  Yellow:
-    N00202103: 5
-    N99200012: 7
-    N99200051: 6
-    story: anne2
+    N01200056: 2
+    N00082007: 0
+    N99080092: 0
+    story: fourconcepts05

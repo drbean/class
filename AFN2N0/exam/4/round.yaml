@@ -2,80 +2,55 @@
 round: Exam 4
 week: 18
 questions:
-  - 10
-pass: 4
+  - 4
+pass: 0
 assistant:
 absent:
-text: /home/drbean/class/literature/cards.yaml
+    - Penny
+    - Jim
+    - Jeff
+    - Kelly
+    - Ted
+    - David
+text: /home/drbean/class/business/greatideas/cards.yaml
 activity:
-  mowgli:
-    0:
-      - Blue
-      - Brown
-    1:
-      - BlackBlack
-      - Green
-  time:
-    1:
-      - BlueBlue
-      - Pink
-  anne:
-    1:
-      - Purple
-      - Red
-    2:
-      - OrangeOrange
-      - Yellow
-  phantom:
-    1:
+  fourconcepts:
+    01:
       - Black
+      - Blue
       - Orange
+    04:
+      - Green
+      - Pink
+    05:
+      - Charcoal
+      - Purple
 group:
   Black:
-    - Cherry2
-    - Vivian
-    - Sue
-  BlackBlack:
-    - Lee
-    - James
-    - Carol
+    - Strawberry
+    - Dara
+    - Dave
   Blue:
-    - Joelle
-    - Elaine
-    - Andy
-  BlueBlue:
-    - Evy
-    - Juby
-    - Winnie
-  Brown:
-    - Cherry1
-    - Foxy
-    - Kate
+    - Peter
+    - Cathy
+    - Wade
   Green:
-    - Tina
-    - Olivia
-    - Eve
+    - Joanne2
+    - Doni
+    - Penny
+  Charcoal:
+    - Helen2
+    - Bill
+    - Wayne
   Orange:
-    - Ariel
-    - Debby
-    - Hellen
-  OrangeOrange:
-    - Nora
-    - Hulie
-    - Michael
+    - Kate
+    - Kelly
+    - Amy1
   Pink:
-    - Nitro
-    - Louis
-    - Zona
+    - Vicky
+    - Shine
+    - Corey
   Purple:
-    - Amber
-    - Peggy
-    - Cindy
-  Red:
-    - Sonia
-    - Vickey
-    - Lainey
-  Yellow:
-    - Betty
-    - Senna
-    - Alisa
+    - Ted
+    - Jim
+    - Amy2
