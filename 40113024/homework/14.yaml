@@ -1,0 +1,91 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: salazar
+grade:
+  K220155482: 1.92
+  U0017024: 2
+  U0018027: 2
+  U0018046: 2
+  U0042012: 0
+  U0042031: 0
+  U0042041: 0
+  U0042050: 1.82
+  U0043001: 2
+  U0043004: 1.32
+  U0043033: 2
+  U0122002: 2
+  U0222133: 2
+  U0222228: 2
+  U9911237: 2
+  U9911242: 2
+  U9917017: 2
+  U9923120: 2
+  U9923121: 0.76
+  U9943007: 1.94
+  U9943019: 0
+points:
+  K220155482:
+    letters: 209
+    percent: 96
+  U0017024:
+    letters: 221
+    percent: 100
+  U0018027:
+    letters: 234
+    percent: 100
+  U0018046:
+    letters: 229
+    percent: 100
+  U0042012:
+    letters: 0
+    percent: 0
+  U0042031:
+    letters: 0
+    percent: 0
+  U0042041:
+    letters: 0
+    percent: 0
+  U0042050:
+    letters: 192
+    percent: 91
+  U0043001:
+    letters: 189
+    percent: 100
+  U0043004:
+    letters: 153
+    percent: 66
+  U0043033:
+    letters: 203
+    percent: 100
+  U0122002:
+    letters: 216
+    percent: 100
+  U0222133:
+    letters: 215
+    percent: 100
+  U0222228:
+    letters: 233
+    percent: 100
+  U9911237:
+    letters: 241
+    percent: 100
+  U9911242:
+    letters: 184
+    percent: 100
+  U9917017:
+    letters: 206
+    percent: 100
+  U9923120:
+    letters: 205
+    percent: 100
+  U9923121:
+    letters: 83
+    percent: 38
+  U9943007:
+    letters: 191
+    percent: 97
+  U9943019:
+    letters: 0
+    percent: 0

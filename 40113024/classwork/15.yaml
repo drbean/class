@@ -1,0 +1,34 @@
+---
+# topic: salazar
+
+Yellow:
+  absent:
+    - Yukin
+  merits: 3
+Black:
+  absent:
+    - Chung-Wei
+  merits: 3
+
+Blue:
+  absent:
+    - Luisa
+  merits: 3
+Orange:
+  absent:
+  merits: 3
+
+Green:
+  absent:
+    - Simon
+  merits: 3
+Gray:
+  absent:
+    - KungHsing
+  merits: 3
+
+Brown:
+  absent:
+    - Danny
+  merits: 3
+

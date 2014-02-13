@@ -1,0 +1,267 @@
+---
+absent: ~
+anterior: 021GL00006
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 中級英語會話
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 40112040
+jigsaw: exam
+league: 應英(四技日)2E
+member:
+  - Chinese: 謝建達
+    id: 100410915
+    name: 謝建達
+    password: jian
+    rating: ~
+  - Chinese: 陳詩函
+    id: 101405301
+    name: 陳詩函
+    password: shi
+    rating: ~
+  - Chinese: 林佳欣
+    id: 101405302
+    name: 林佳欣
+    password: jia
+    rating: ~
+  - Chinese: 梁芮雲
+    id: 101405304
+    name: 梁芮雲
+    password: rui
+    rating: ~
+  - Chinese: 丁奕
+    id: 101405307
+    name: 丁奕
+    password: yi
+    rating: ~
+  - Chinese: 田佩樺
+    id: 101405308
+    name: 田佩樺
+    password: pei
+    rating: ~
+  - Chinese: 彭麗傑
+    id: 101405315
+    name: 彭麗傑
+    password: li
+    rating: ~
+  - Chinese: 林志縯
+    id: 101405316
+    name: 林志縯
+    password: zhi
+    rating: ~
+  - Chinese: 李祥慈
+    id: 101405317
+    name: 李祥慈
+    password: xiang
+    rating: ~
+  - Chinese: 薛晴方
+    id: 101405321
+    name: 薛晴方
+    password: qing
+    rating: ~
+  - Chinese: 陳微雯
+    id: 101405324
+    name: 陳微雯
+    password: wei
+    rating: ~
+  - Chinese: 倪靈杰
+    id: 101405327
+    name: 倪靈杰
+    password: ling
+    rating: ~
+  - Chinese: 陳弘翊
+    id: 101405332
+    name: 陳弘翊
+    password: hong
+    rating: ~
+  - Chinese: 羅碧盈
+    id: 101405334
+    name: 羅碧盈
+    password: bi
+    rating: ~
+  - Chinese: 蔡敏靖
+    id: 101405339
+    name: 蔡敏靖
+    password: min
+    rating: ~
+  - Chinese: 羅允勝
+    id: 101405341
+    name: 羅允勝
+    password: yun
+    rating: ~
+  - Chinese: 林佳潼
+    id: 101405343
+    name: 林佳潼
+    password: jia
+    rating: ~
+  - Chinese: 林佾鋒
+    id: 101405344
+    name: 林佾鋒
+    password: yi
+    rating: ~
+  - Chinese: 張元銘
+    id: 101405349
+    name: 張元銘
+    password: yuan
+    rating: ~
+  - Chinese: 彭梓育
+    id: 101405351
+    name: 彭梓育
+    password: zi
+    rating: ~
+  - Chinese: 謝采嬛
+    id: 101405352
+    name: 謝采嬛
+    password: cai
+    rating: ~
+  - Chinese: 陳奕廷
+    id: 101405354
+    name: 陳奕廷
+    password: yi
+    rating: ~
+  - Chinese: 鄭怡清
+    id: 101405401
+    name: 鄭怡清
+    password: yi
+    rating: ~
+  - Chinese: 范嘉熒
+    id: 101405405
+    name: 范嘉熒
+    password: jia
+    rating: ~
+  - Chinese: 古瑋婷
+    id: 101405406
+    name: 古瑋婷
+    password: wei
+    rating: ~
+  - Chinese: 鍾正宏
+    id: 101405407
+    name: 鍾正宏
+    password: zheng
+    rating: ~
+  - Chinese: 呂瑋
+    id: 101405408
+    name: 呂瑋
+    password: wei
+    rating: ~
+  - Chinese: 顏韶谷
+    id: 101405410
+    name: 顏韶谷
+    password: shao
+    rating: ~
+  - Chinese: 楊紫筠
+    id: 101405411
+    name: 楊紫筠
+    password: zi
+    rating: ~
+  - Chinese: 廖婕云
+    id: 101405414
+    name: 廖婕云
+    password: jie
+    rating: ~
+  - Chinese: 王茹慧
+    id: 101405415
+    name: 王茹慧
+    password: ru
+    rating: ~
+  - Chinese: 賴品睿
+    id: 101405417
+    name: 賴品睿
+    password: pin
+    rating: ~
+  - Chinese: 陳子傑
+    id: 101405419
+    name: 陳子傑
+    password: zi
+    rating: ~
+  - Chinese: 莊婉蓉
+    id: 101405423
+    name: 莊婉蓉
+    password: wan
+    rating: ~
+  - Chinese: 陳甄
+    id: 101405435
+    name: 陳甄
+    password: zhen
+    rating: ~
+  - Chinese: 林竹君
+    id: 101405438
+    name: 林竹君
+    password: zhu
+    rating: ~
+  - Chinese: 陳玟樺
+    id: 101405444
+    name: 陳玟樺
+    password: wen
+    rating: ~
+  - Chinese: 李漢寧
+    id: 101405447
+    name: 李漢寧
+    password: han
+    rating: ~
+  - Chinese: 西原良治
+    id: 101405456
+    name: 西原良治
+    password: yuan
+    rating: ~
+  - Chinese: 吳正瀚
+    id: 101406959
+    name: 吳正瀚
+    password: zheng
+    rating: ~
+  - Chinese: 黃欣萍
+    id: 101406960
+    name: 黃欣萍
+    password: xin
+    rating: ~
+  - Chinese: 徐國祐
+    id: 101406961
+    name: 徐國祐
+    password: guo
+    rating: ~
+  - Chinese: 張簡志偉
+    id: 101406962
+    name: 張簡志偉
+    password: jian
+    rating: ~
+  - Chinese: 陳胤蓉
+    id: 101406963
+    name: 陳胤蓉
+    password: yin
+    rating: ~
+  - Chinese: 楊岱昀
+    id: 99405120
+    name: 楊岱昀
+    password: dai
+    rating: ~
+  - Chinese: 歐宜欣
+    id: 99407073
+    name: 歐宜欣
+    password: yi
+    rating: ~
+  - Chinese: 駱建樺
+    id: 99408213
+    name: 駱建樺
+    password: jian
+    rating: ~
+out:
+room: 2110
+school: ydu
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 1
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
