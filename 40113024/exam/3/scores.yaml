@@ -1,0 +1,45 @@
+---
+Chinese:
+  Black: 0
+  Blue: 0
+  Brown: 0
+  Gray: 0
+  Green: 0
+  Orange: 0
+  Yellow: 0
+letters:
+  Black:
+    U9943019: 7
+    U0017024: 6
+    U0122002: 7
+    story: warm1
+  Blue:
+    U0042031: 8
+    U0018046: 8
+    U9923120: 8
+    story: davist2
+  Brown:
+    U0042012: 8
+    U0018027: 9
+    U9943007: 7
+    story: davist2
+  Gray:
+    U0042012: 8
+    U0222228: 8
+    U0043033: 8
+    story: davist2
+  Green:
+    U9917017: 7
+    U9923121: 6
+    U0043001: 6
+    story: foreman1
+  Orange:
+    U0042041: 7
+    U0042050: 5
+    K220155482: 5
+    story: foreman1
+  Yellow:
+    U9911242: 6
+    U9911237: 10
+    U0043004: 10
+    story: connell55

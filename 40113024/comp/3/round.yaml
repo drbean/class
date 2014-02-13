@@ -1,0 +1,74 @@
+---
+activity:
+  connell:
+    0:
+      - 1
+      - 2
+      - 4
+      - 5
+      - 6
+      - 7
+      - 9
+  warm:
+    0:
+      - 1
+      - 2
+      - 4
+      - 5
+      - 6
+      - 7
+      - 9
+  foreman:
+    0:
+      - 1
+      - 2
+      - 4
+      - 5
+      - 6
+      - 7
+      - 9
+  davist:
+    0:
+      - 1
+      - 2
+      - 4
+      - 5
+      - 6
+      - 7
+      - 9
+assistant:
+  Blue:
+    U0018046: 5
+    U9923120: 5
+bye: U0042041
+dispensation: ~
+divisions: ~
+group:
+  1:
+     White: U0043004
+     Black: U9943019
+  2:
+    White: U0122002
+    Black: U9943007
+  4:
+    White: U0222228
+    Black: U0042012
+  5:
+    White: U9923121
+    Black: U0043033
+  6:
+    White: U0042050
+    Black: U0018027
+  7:
+    White: U0043001
+    Black: U9917017
+  9:
+    White: U0017024
+    Black: K220155482
+late:
+  - U0042041
+pairing: swiss
+payprotocol: meritPay 4
+round: 3
+text: /home/drbean/class/conversation/parents/cards.yaml
+week: 14

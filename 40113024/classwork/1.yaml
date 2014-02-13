@@ -1,0 +1,36 @@
+---
+
+Black:
+  absent: 
+    - Penny
+  merits: 3
+Gray:
+  absent: 
+  merits: 3
+
+Blue:
+  absent: 
+  merits: 0
+Brown:
+  absent: 
+  merits: 0
+
+Pink:
+  absent: 
+  merits: 0
+
+Orange:
+  absent: 
+    - Scotter
+  merits: 3
+Green:
+  absent: 
+  merits: 3
+
+White:
+  absent: 
+    - Liting
+  merits: 3
+Yellow:
+  absent: 
+  merits: 3

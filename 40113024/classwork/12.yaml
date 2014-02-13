@@ -1,0 +1,29 @@
+---
+Black:
+  absent:
+  merits: 3
+Gray:
+  absent:
+  merits: 2
+
+Orange:
+  absent:
+    - Angela
+  merits: 3
+Green:
+  absent:
+  merits: 2
+Yellow:
+  absent:
+    - Mia
+    - Simon
+  merits: 3
+
+Blue:
+  absent:
+    - Chung-Wei
+  merits: 3
+Brown:
+  absent:
+  merits: 2
+
