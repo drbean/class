@@ -1,18 +1,18 @@
 ---
 absent: ~
-anterior: 021AFN3Y0
+anterior: 022AFN300
 approach: GroupworkNoFault
 classMax: 3
 compcomp: comp
 examMax: 5
 exams: exam
-field: 高階英語聽力
+field: 進階英語聽力(二)
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: AFN300
+id: AFBB32
 jigsaw: exam
-league: NAF031\\\_四技外三甲\\\_必修\\\_2
+league: BAF021_四技應外二甲
 member:
   - Chinese: 周誠
     id: B98200021
@@ -295,61 +295,6 @@ member:
     password: ya
     rating: ~
 out:
-  - Chinese: 黃冠潔
-    id: N01202003
-    name: Crown
-    password: guan
-    rating: 0
-  - Chinese: 戴睿萱
-    id: N00200051
-    name: 戴睿萱
-    password: rui
-    rating: 0
-  - Chinese: 林雯柔
-    id: N98200037
-    name: 林雯柔
-    password: wen
-    rating: 0
-  - Chinese: 周彥伶
-    id: N00200027
-    name: 周彥伶
-    password: yan
-    rating: 0
-  - Chinese: 呂旻汶
-    id: N02203101
-    name: 呂旻汶
-    password: min
-    rating: 0
-  - Chinese: 張君鈺
-    id: N99100009
-    name: Claire
-    password: jun
-    rating: 0
-  - Chinese: 鄧茜久
-    id: N97200033
-    name: Kelly2
-    password: qian
-    rating: 0
-  - Chinese: 詹益昌
-    id: N01202104
-    name: 詹益昌
-    password: yi
-    rating: 0
-  - Chinese: 陳俊生
-    id: N00200047
-    name: 陳俊生
-    password: jun
-    rating: 0
-  - Chinese: 曾孟妍
-    id: N00200018
-    name: 曾孟妍
-    password: meng
-    rating: 0
-  - Chinese: 彭為騰
-    id: N00200013
-    name: 彭為騰
-    password: wei
-    rating: 0
 room: feng-501
 school: must
 scores:
@@ -361,9 +306,6 @@ scores:
   win: 5
 session:
   1: 1
-  2: 6
-  3: 10
-  4: 15
 weights:
   classwork: 40
   exams: 20
