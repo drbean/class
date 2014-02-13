@@ -1,0 +1,330 @@
+---
+cutpoints:
+  loser: 1
+  quitter: 3
+  winner: 2
+exercise: q-and-a-3
+grade:
+  N00200001: 2
+  N00200008: 1
+  N00200009: 0
+  N00200017: 2
+  N00200025: 0
+  N00200029: 2
+  N00200030: 2
+  N00200031: 0
+  N00200034: 2
+  N00200036: 2
+  N00200037: 1
+  N00200042: 2
+  N00200043: 2
+  N00200051: 0
+  N00200054: 0
+  N00200055: 0
+  N00200056: 2
+  N00203002: 0
+  N01202001: 0
+  N01202004: 2
+  N01203003: 2
+  N02202113: 0
+  N96200030: 2
+points:
+  N00200001:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 6
+      questions: 6
+      attempts: 9
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N00200008:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 2
+      questions: 2
+      attempts: 8
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N00200009:
+    Wh:
+      answers: 0
+      questions: -792
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: -594
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: -594
+      attempts: 0
+  N00200017:
+    Wh:
+      answers: 1
+      questions: 1
+      attempts: 2
+    Yn:
+      answers: 6
+      questions: 6
+      attempts: 6
+    Tag:
+      answers: 1
+      questions: 1
+      attempts: 1
+  N00200025:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N00200029:
+    Wh:
+      answers: 5
+      questions: 5
+      attempts: 6
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N00200030:
+    Wh:
+      answers: 5
+      questions: 5
+      attempts: 4
+    Yn:
+      answers: 2
+      questions: 3
+      attempts: 2
+    Tag:
+      answers: 7
+      questions: 7
+      attempts: 7
+  N00200031:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N00200034:
+    Wh:
+      answers: 1
+      questions: 1
+      attempts: 1
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 6
+      questions: 6
+      attempts: 6
+  N00200036:
+    Wh:
+      answers: 2
+      questions: 2
+      attempts: 2
+    Yn:
+      answers: 6
+      questions: 8
+      attempts: 15
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N00200037:
+    Wh:
+      answers: 0
+      questions: -792
+      attempts: 0
+    Yn:
+      answers: 1
+      questions: -588
+      attempts: 9
+    Tag:
+      answers: 0
+      questions: -594
+      attempts: 0
+  N00200042:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 6
+      questions: 6
+      attempts: 8
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N00200043:
+    Wh:
+      answers: 3
+      questions: 3
+      attempts: 10
+    Yn:
+      answers: 6
+      questions: 7
+      attempts: 8
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N00200051:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  N00200054:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  N00200055:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  N00200056:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 6
+      questions: 6
+      attempts: 8
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N00203002:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  N01202001:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  N01202004:
+    Wh:
+      answers: 5
+      questions: 5
+      attempts: 6
+    Yn:
+      answers: 1
+      questions: 1
+      attempts: 2
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N01203003:
+    Wh:
+      answers: 1
+      questions: 1
+      attempts: 1
+    Yn:
+      answers: 6
+      questions: 7
+      attempts: 12
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 1
+  N02202113:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  N96200030:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 6
+      questions: 7
+      attempts: 8
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0

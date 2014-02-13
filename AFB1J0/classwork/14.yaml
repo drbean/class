@@ -1,0 +1,36 @@
+---
+# topic: bett
+
+Black:
+  absent:
+  merits: 3
+Blue:
+  absent:
+    - Mindy
+  merits: 3
+
+Charcoal:
+  absent:
+    - Cindy
+  merits: 3
+Green:
+  absent:
+    - Jeff
+  merits: 3
+
+Orange:
+  absent:
+    - Vicky
+  merits: 3
+Pink:
+  absent:
+  merits: 3
+
+Purple:
+  absent:
+  merits: 3
+Yellow:
+  absent:
+    - Stephen
+  merits: 3
+

@@ -1,0 +1,33 @@
+---
+# topic: Dictation
+
+Black:
+  absent: 
+    - Andy
+  merits: 3
+Green:
+  absent: 
+  merits: 2
+
+Blue:
+  absent: 
+  merits: 2
+BlackBlack:
+  absent: 
+  merits: 3
+
+# no card
+Orange:
+  absent: 
+    - MiuMiu
+  merits: 2
+Yellow:
+  absent: 
+  merits: 2
+
+Purple:
+  absent: 
+  merits: 2
+Pink:
+  absent: 
+  merits: 3

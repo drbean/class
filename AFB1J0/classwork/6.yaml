@@ -1,0 +1,32 @@
+---
+Black:
+  absent: 
+    - Fion
+  merits: 3
+Green:
+  absent: 
+    - Jeff
+  merits: 2
+
+Charcoal:
+  absent: 
+    - Stephen
+  merits: 2
+Pink:
+  absent: 
+  merits: 3
+
+Orange:
+  absent:
+  merits: 2
+Yellow:
+  absent: 
+    - Rena
+  merits: 3
+
+Blue:
+  absent:
+    - Louie
+  merits: 3
+Purple:
+  merits: 2

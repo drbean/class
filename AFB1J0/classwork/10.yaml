@@ -1,0 +1,39 @@
+---
+
+Black:
+  absent: 
+    - Fion
+  merits: 2
+Charcoal:
+  absent: 
+    - Alex
+  merits: 3
+
+Blue:
+  absent:
+    - Stephen
+    - Denise
+  merits: 2
+Green:
+  absent: 
+    - Vicky
+    - Andy
+  merits: 3
+
+Pink:
+  absent: 
+  merits: 3
+Purple:
+  absent: 
+    - Champion
+  merits: 2
+
+Orange:
+  absent:
+    - Cindy
+    - Shane
+  merits: 2
+Yellow:
+  absent: 
+    - Rena
+  merits: 3

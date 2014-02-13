@@ -1,0 +1,33 @@
+---
+Black:
+  absent: 
+    - Fion
+    - Kelly
+    - Mindy
+  merits: 0
+Blue:
+  absent:
+    - Stephen
+  merits: 3
+
+Green:
+  absent: 
+  merits: 2
+Charcoal:
+  absent: 
+  merits: 3
+
+Orange:
+  absent:
+  merits: 3
+Pink:
+  absent: 
+    - MiuMiu
+  merits: 2
+
+Yellow:
+  absent: 
+    - Rena
+  merits: 3
+Purple:
+  merits: 2
