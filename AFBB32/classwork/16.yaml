@@ -1,0 +1,64 @@
+---
+# topic: rueda
+
+Black:
+  absent:
+    - Don
+  merits: 2
+Blue:
+  absent:
+  merits: 3
+
+Brown:
+  absent:
+    - Mei
+  merits: 2
+Gray:
+  absent:
+    - Peggy
+    - MiuMiu
+  merits: 3
+
+Green:
+  absent:
+    - Denise
+  merits: 2
+Charcoal:
+  absent:
+  merits: 3
+
+Chocolate:
+  absent:
+    - Emily
+  merits: 3
+Khaki:
+  absent:
+  merits: 2
+
+Orange:
+  absent:
+    - James
+  merits: 3
+Pink:
+  absent:
+    - Neil
+  merits: 2
+
+Purple:
+  absent:
+    - Candy
+  merits: 2
+Red:
+  absent:
+    - Fion
+    - Mindy
+  merits: 3
+
+White:
+  absent:
+    - Katie
+  merits: 2
+Yellow:
+  absent:
+  merits: 3
+

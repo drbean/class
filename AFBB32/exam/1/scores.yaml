@@ -1,0 +1,81 @@
+---
+Chinese:
+  Black: 0
+  BlackBlack: 0
+  Blue: 0
+  Brown: 0
+  Gray: 0
+  Green: 0
+  Orange: 0
+  OrangeOrange: 0
+  PinkPink: 0
+  Purple: 0
+  Red: 0
+  White: 0
+  Yellow: 0
+letters:
+  Black:
+    N98200021: 9
+    N01202001: 9
+    N00202103: 8
+    story: smallwood2
+  BlackBlack:
+    N00200006: 2
+    N99030033: 4
+    N01202105: 6
+    story: jackson2
+  Blue:
+    N00200022: 7
+    N00200056: 5
+    N00200042: 5
+    story: jackson2
+  Brown:
+    N01202002: 8
+    N00200008: 6
+    N00200001: 10
+    story: abreu2
+  Gray:
+    N00200015: 9
+    N01202004: 9
+    N00200001: 7
+    story: dickson2
+  Green:
+    N00120056: 5
+    N00200055: 4
+    N00200009: 1
+    story: smallwood2
+  Orange:
+    N00200017: 7
+    N02203102: 8
+    N00200025: 7
+    story: jackson2
+  OrangeOrange:
+    N99030025: 5
+    N00200036: 5
+    N00200058: 6
+    story: dickson2
+  PinkPink:
+    N01202101: 9
+    N00200014: 9
+    N00200045: 10
+    story: abreu2
+  Purple:
+    N01202103: 4
+    N00200054: 4
+    N00200043: 3
+    story: dickson2
+  Red:
+    N00200037: 6
+    N00200029: 7
+    N00200030: 9
+    story: abreu2
+  White:
+    N00200044: 6
+    N00200003: 7
+    N00200007: 5
+    story: dickson2
+  Yellow:
+    N00120056: 5
+    N00200044: 6
+    N00200034: 2
+    story: smallwood2

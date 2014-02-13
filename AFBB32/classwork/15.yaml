@@ -1,0 +1,75 @@
+---
+# topic: salazar
+
+Green:
+  absent:
+    - Denise
+  # merits: 2+2
+  merits: 3
+Black:
+  absent:
+    # merits: 2+1
+  merits: 2.75
+
+Blue:
+  absent:
+    # merits: 2+1
+  merits: 2.75
+Brown:
+  absent:
+    - Carol
+  # merits: 2+0
+  merits: 2.5
+
+Gray:
+  absent:
+    - Peggy
+  # merits: 2+1
+  merits: 2.75
+Khaki:
+  absent:
+    # merits: 2+0
+  merits: 2.5
+
+Charcoal:
+  absent:
+    # merits: 2+2
+  merits: 3
+Chocolate:
+  absent:
+    - Emily
+  # merits: 2+0
+  merits: 2.5
+
+White:
+  absent:
+    - Katie
+  # merits: 0
+  merits: 0
+Orange:
+  absent:
+    - James
+  # merits: 2+0
+  merits: 2.5
+
+Pink:
+  absent:
+    # merits: 1+0
+  merits: 2
+Purple:
+  absent:
+    # merits: 2+0
+  merits: 2.5
+
+Red:
+  absent:
+    - Mindy
+  # merits: 2+1
+  merits: 2.75
+Yellow:
+  absent:
+    - Bunny
+    - Allen
+    - Jerry
+  # merits: 0
+  merits: 0

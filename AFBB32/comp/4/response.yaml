@@ -1,0 +1,414 @@
+---
+free:
+  0:
+    salazar:
+      0:
+        N00200003:
+          point:
+            1: Returned
+            2: Returned
+        N01202105:
+          point:
+            1: Returned
+    rueda:
+      0:
+        N00200003:
+          point:
+            1: Nil
+        N01202105:
+          point:
+            1: Nil
+    vanbeke:
+      0:
+        N00200003:
+          point:
+            1: Nil
+        N01202105:
+          point:
+            1: Nil
+  1:
+    salazar:
+      0:
+        N01202002:
+          point:
+            1: Returned
+        N00200034:
+          point:
+            1: Nil
+    rueda:
+      0:
+        N01202002:
+          point:
+            1: Nil
+        N00200034:
+          point:
+            1: Old
+            2: Returned
+    vanbeke:
+      0:
+        N01202002:
+          point:
+            1: Fault
+        N00200034:
+          point:
+            1: Nil
+  2:
+    salazar:
+      0:
+        N00200010:
+          point:
+            1: Returned
+        N00200054:
+          point:
+            1: Nil
+    rueda:
+      0:
+        N00200010:
+          point:
+            1: Nil
+        N00200054:
+          point:
+            1: Returned
+    vanbeke:
+      0:
+        N00200010:
+          point:
+            1: Returned
+        N00200054:
+          point:
+            1: Fault
+  3:
+    salazar:
+      0:
+        N00200001:
+          point:
+            1: Returned
+        N00200031:
+          point:
+            1: Returned
+    rueda:
+      0:
+        N00200001:
+          point:
+            1: Fault
+        N00200031:
+          point:
+            1: Returned
+    vanbeke:
+      0:
+        N00200001:
+          point:
+            1: Nil
+        N00200031:
+          point:
+            1: Nil
+  4:
+    salazar:
+      0:
+        N99030033:
+          point:
+            1: Old
+        N00120056:
+          point:
+            1: Nil
+    rueda:
+      0:
+        N99030033:
+          point:
+            1: Unreturned
+        N00120056:
+          point:
+            1: Nil
+    vanbeke:
+      0:
+        N99030033:
+          point:
+            1: Fault
+        N00120056:
+          point:
+            1: Returned
+  5:
+    salazar:
+      0:
+        N00200037:
+          point:
+            1: Nil
+        N01202103:
+          point:
+            1: Nil
+    rueda:
+      0:
+        N00200037:
+          point:
+            1: Old
+            2: Fault
+        N01202103:
+          point:
+            1: Returned
+    vanbeke:
+      0:
+        N00200037:
+          point:
+            1: Returned
+        N01202103:
+          point:
+            1: Returned
+  6:
+    salazar:
+      0:
+        N00200056:
+          point:
+            1: Nil
+        N00200042:
+          point:
+            1: Nil
+    rueda:
+      0:
+        N00200056:
+          point:
+            1: Returned
+        N00200042:
+          point:
+            1: Returned
+    vanbeke:
+      0:
+        N00200056:
+          point:
+            1: Returned
+        N00200042:
+          point:
+            1: Returned
+            2: Old
+  7:
+    salazar:
+      0:
+        N00200009:
+          point:
+            1: Old
+        N00200014:
+          point:
+            1: Nil
+    rueda:
+      0:
+        N00200009:
+          point:
+            1: Fault
+        N00200014:
+          point:
+            1: Nil
+    vanbeke:
+      0:
+        N00200009:
+          point:
+            1: Nil
+        N00200014:
+          point:
+            1: Returned
+  8:
+    salazar:
+      0:
+        N00200036:
+          point:
+            1: Returned
+        N00200045:
+          point:
+            1: Fault
+    rueda:
+      0:
+        N00200036:
+          point:
+            1: Nil
+        N00200045:
+          point:
+            1: Nil
+    vanbeke:
+      0:
+        N00200036:
+          point:
+            1: Fault
+        N00200045:
+          point:
+            1: Old
+            2: Returned
+  9:
+    salazar:
+      0:
+        N00200008:
+          point:
+            1: Returned
+        N00200025:
+          point:
+            1: Nil
+    rueda:
+      0:
+        N00200008:
+          point:
+            1: Nil
+        N00200025:
+          point:
+            1: Returned
+    vanbeke:
+      0:
+        N00200008:
+          point:
+            1: Fault
+        N00200025:
+          point:
+            1: Fault
+  10:
+    salazar:
+      0:
+        N00200022:
+          point:
+            1: Old
+            2: Old
+        N00200007:
+          point:
+            1: Nil
+    rueda:
+      0:
+        N00200022:
+          point:
+            1: Old
+            2: Returned
+        N00200007:
+          point:
+            1: Returned
+    vanbeke:
+      0:
+        N00200022:
+          point:
+            1: Nil
+        N00200007:
+          point:
+            1: Returned
+  11:
+    salazar:
+      0:
+        N00200044:
+          point:
+            1: Nil
+        N00200015:
+          point:
+            1: Nil
+    rueda:
+      0:
+        N00200044:
+          point:
+            1: Returned
+        N00200015:
+          point:
+            1: Old
+            2: Unreturned
+    vanbeke:
+      0:
+        N00200044:
+          point:
+            1: Old
+            2: Returned
+        N00200015:
+          point:
+            1: Returned
+  12:
+    salazar:
+      0:
+        N00200048:
+          point:
+            1: Fault
+        N00200017:
+          point:
+            1: Returned
+            2: Returned
+    rueda:
+      0:
+        N00200048:
+          point:
+            1: Nil
+        N00200017:
+          point:
+            1: Nil
+    vanbeke:
+      0:
+        N00200048:
+          point:
+            1: Returned
+        N00200017:
+          point:
+            1: Nil
+  13:
+    salazar:
+      0:
+        N00200055:
+          point:
+            1: Returned
+        N00200006:
+          point:
+            1: Returned
+    rueda:
+      0:
+        N00200055:
+          point:
+            1: Returned
+        N00200006:
+          point:
+            1: Returned
+    vanbeke:
+      0:
+        N00200055:
+          point:
+            1: Nil
+        N00200006:
+          point:
+            1: Nil
+  14:
+    salazar:
+      0:
+        N01202001:
+          point:
+            1: Nil
+        N01202004:
+          point:
+            1: Nil
+    rueda:
+      0:
+        N01202001:
+          point:
+            1: Nil
+        N01202004:
+          point:
+            1: Returned
+    vanbeke:
+      0:
+        N01202001:
+          point:
+            1: Fault
+        N01202004:
+          point:
+            1: Nil
+  15:
+    salazar:
+      0:
+        N00200043:
+          point:
+            1: Returned
+        N00202103:
+          point:
+            1: Old
+            2: Nil
+    rueda:
+      0:
+        N00200043:
+          point:
+            1: Unreturned
+        N00202103:
+          point:
+            1: Returned
+    vanbeke:
+      0:
+        N00200043:
+          point:
+            1: Nil
+        N00202103:
+          point:
+            1: Fault
+            2: Old

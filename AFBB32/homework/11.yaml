@@ -1,0 +1,167 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: foreman
+grade:
+  N00120056: 2
+  N00200001: 2
+  N00200003: 0
+  N00200006: 2
+  N00200007: 2
+  N00200008: 2
+  N00200009: 1.46
+  N00200010: 2
+  N00200014: 1.9
+  N00200015: 2
+  N00200017: 1.84
+  N00200022: 2
+  N00200025: 2
+  N00200029: 2
+  N00200030: 2
+  N00200031: 1.96
+  N00200032: 2
+  N00200034: 1.96
+  N00200036: 2
+  N00200037: 2
+  N00200042: 1.82
+  N00200043: 1.64
+  N00200044: 2
+  N00200045: 0
+  N00200048: 0
+  N00200054: 2
+  N00200055: 0
+  N00200056: 2
+  N00200058: 2
+  N00202103: 2
+  N01202001: 2
+  N01202002: 2
+  N01202004: 2
+  N01202101: 0
+  N01202103: 0
+  N01202105: 0
+  N02203102: 2
+  N98200021: 1.94
+  N99030025: 1.94
+  N99030033: 2
+points:
+  N00120056:
+    letters: 159
+    percent: 100
+  N00200001:
+    letters: 147
+    percent: 100
+  N00200003:
+    letters: 0
+    percent: 0
+  N00200006:
+    letters: 142
+    percent: 100
+  N00200007:
+    letters: 134
+    percent: 100
+  N00200008:
+    letters: 141
+    percent: 100
+  N00200009:
+    letters: 107
+    percent: 73
+  N00200010:
+    letters: 148
+    percent: 100
+  N00200014:
+    letters: 145
+    percent: 95
+  N00200015:
+    letters: 157
+    percent: 100
+  N00200017:
+    letters: 133
+    percent: 92
+  N00200022:
+    letters: 165
+    percent: 100
+  N00200025:
+    letters: 140
+    percent: 100
+  N00200029:
+    letters: 137
+    percent: 100
+  N00200030:
+    letters: 139
+    percent: 100
+  N00200031:
+    letters: 138
+    percent: 98
+  N00200032:
+    letters: 143
+    percent: 100
+  N00200034:
+    letters: 159
+    percent: 98
+  N00200036:
+    letters: 143
+    percent: 100
+  N00200037:
+    letters: 136
+    percent: 100
+  N00200042:
+    letters: 136
+    percent: 91
+  N00200043:
+    letters: 116
+    percent: 82
+  N00200044:
+    letters: 160
+    percent: 100
+  N00200045:
+    letters: 0
+    percent: 0
+  N00200048:
+    letters: 0
+    percent: 0
+  N00200054:
+    letters: 168
+    percent: 100
+  N00200055:
+    letters: 0
+    percent: 0
+  N00200056:
+    letters: 140
+    percent: 100
+  N00200058:
+    letters: 137
+    percent: 100
+  N00202103:
+    letters: 137
+    percent: 100
+  N01202001:
+    letters: 131
+    percent: 100
+  N01202002:
+    letters: 153
+    percent: 100
+  N01202004:
+    letters: 130
+    percent: 100
+  N01202101:
+    letters: 0
+    percent: 0
+  N01202103:
+    letters: 0
+    percent: 0
+  N01202105:
+    letters: 0
+    percent: 0
+  N02203102:
+    letters: 138
+    percent: 100
+  N98200021:
+    letters: 138
+    percent: 97
+  N99030025:
+    letters: 132
+    percent: 97
+  N99030033:
+    letters: 149
+    percent: 100

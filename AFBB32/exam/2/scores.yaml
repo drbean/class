@@ -1,0 +1,87 @@
+---
+Chinese:
+  Black: 0
+  BlackBlack: 0
+  Blue: 0
+  BlueBlue: 0
+  Brown: 0
+  Gray: 0
+  Green: 0
+  Orange: 0
+  OrangeOrange: 0
+  Pink: 0
+  Purple: 0
+  Red: 0
+  White: 0
+  Yellow: 0
+letters:
+  Black:
+    N00200042: 3
+    N02203102: 3
+    N00120056: 3
+    story: biodad1
+  BlackBlack:
+    N00200025: 3
+    N00200037: 3
+    N00200015: 3
+    story: emersonj2
+  Blue:
+    N00200048: 3
+    N00200058: 3
+    N00200006: 3
+    story: biomom4
+  BlueBlue:
+    N00200044: 1
+    N01202004: 1
+    N00200001: 3
+    story: biomom4
+  Brown:
+    N00200008: 3
+    N00200055: 3
+    N99030033: 3
+    story: biomom4
+  Gray:
+    N00200036: 3
+    N00200003: 3
+    N01202002: 3
+    story: biodad1
+  Green:
+    N01202001: 1
+    N00200010: 1
+    N00200022: 1
+    story: biodad1
+  Orange:
+    N00200054: 1
+    N01202101: 3
+    N00200009: 3
+    story: biomom4
+  OrangeOrange:
+    N00200034: 3
+    N00202103: 3
+    N00200032: 3
+    story: emersonj2
+  Pink:
+    N00200043: 3
+    N00200006: 3
+    N00200056: 3
+    story: emersonj2
+  Purple:
+    N00200007: 3
+    N00200045: 3
+    N01202105: 3
+    story: biodad1
+  Red:
+    N99030025: 0
+    N00200032: 0
+    N01202103: 0
+    story: emersonj2
+  White:
+    N00200031: 3
+    N98200021: 3
+    N00200030: 3
+    story: biodad1
+  Yellow:
+    N00200029: 3
+    N00200017: 3
+    N00200014: 3
+    story: emersonj2

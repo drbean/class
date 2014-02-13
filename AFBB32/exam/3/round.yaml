@@ -1,0 +1,93 @@
+---
+round: Exam 3
+week: 14
+questions:
+  - 3
+pass: 1
+assistant:
+  - Dave
+  - Teresa
+  - Sally
+absent:
+  - Dora
+  - Tina
+  - Yuki
+  - Crown
+  - Neo
+  - Candy
+  - Emily
+  - Vicky
+  - Ben
+  - Peggy
+  - Jerry
+text: /home/drbean/class/conversation/disability/cards.yaml
+activity:
+  connell:
+    55:
+      - Brown
+      - Green
+      - Orange
+      - Pink
+  warm:
+    1:
+      - Gray
+      - Red
+  foreman:
+    1:
+      - Black
+      - Charcoal
+      - Cindy
+  davist:
+    2:
+      - Blue
+      - Chocolate
+      - Khaki
+group:
+  Cindy:
+    - Cindy
+    - Teresa
+    - Sally
+  Black:
+    - Vicky
+    - Kelly1
+    - Teresa
+  Blue:
+    - Allen
+    - MiuMiu
+    - Dave
+  Brown:
+    - Dave
+    - Shane
+    - Ally
+  Chocolate:
+    - Mei
+    - Katie
+    - Selena
+  Green:
+    - Dave
+    - Andy
+    - Eva
+  Charcoal:
+    - Don
+    - Carol
+    - Sally
+  Orange:
+    - Fion
+    - Alex
+    - Carlos
+  Pink:
+    - Jeff
+    - Mindy
+    - Betty
+  Gray:
+    - Dave
+    - Neil
+    - Lanna
+  Red:
+    - Champion
+    - Bunny
+    - James
+  Khaki:
+    - Denise
+    - Joan
+    - Louie

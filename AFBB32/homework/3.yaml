@@ -1,0 +1,193 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: smallwood
+grade:
+  N98200021: 0
+
+  N00000000: 0
+  N00120056: 2
+  N00200001: 2
+  N00200003: 2
+  N00200006: 2
+  N00200007: 1.98
+  N00200008: 1.96
+  N00200009: 1.88
+  N00200010: 0
+  N00200014: 2
+  N00200015: 2
+  N00200017: 2
+  N00200022: 1.88
+  N00200025: 1.96
+  N00200027: 0
+  N00200029: 2
+  N00200030: 2
+  N00200031: 1.44
+  N00200032: 1.38
+  N00200034: 0
+  N00200036: 2
+  N00200037: 1.46
+  N00200042: 2
+  N00200043: 1.32
+  N00200044: 1.82
+  N00200045: 0
+  N00200048: 0
+  N00200051: 0
+  N00200054: 1.5
+  N00200055: 1.98
+  N00200056: 2
+  N00200058: 0
+  N00202103: 2
+  N01202001: 1.7
+  N01202002: 1.9
+  N01202003: 0
+  N01202004: 1.98
+  N01202101: 0.3
+  N01202103: 0
+  N01202105: 0
+  N02203101: 0
+  N02203102: 1.96
+  N98200037: 0
+  N99030025: 0
+  N99030033: 0
+points:
+  N98200021:
+    letters: 0
+    percent: 0
+
+  N00000000:
+    letters: 0
+    percent: 0
+  N00120056:
+    letters: 308
+    percent: 100
+  N00200001:
+    letters: 306
+    percent: 100
+  N00200003:
+    letters: 316
+    percent: 100
+  N00200006:
+    letters: 335
+    percent: 100
+  N00200007:
+    letters: 339
+    percent: 99
+  N00200008:
+    letters: 331
+    percent: 98
+  N00200009:
+    letters: 306
+    percent: 94
+  N00200010:
+    letters: 0
+    percent: 0
+  N00200014:
+    letters: 302
+    percent: 100
+  N00200015:
+    letters: 298
+    percent: 100
+  N00200017:
+    letters: 324
+    percent: 100
+  N00200022:
+    letters: 298
+    percent: 94
+  N00200025:
+    letters: 325
+    percent: 98
+  N00200027:
+    letters: 0
+    percent: 0
+  N00200029:
+    letters: 306
+    percent: 100
+  N00200030:
+    letters: 312
+    percent: 100
+  N00200031:
+    letters: 221
+    percent: 72
+  N00200032:
+    letters: 226
+    percent: 69
+  N00200034:
+    letters: 0
+    percent: 0
+  N00200036:
+    letters: 313
+    percent: 100
+  N00200037:
+    letters: 235
+    percent: 73
+  N00200042:
+    letters: 317
+    percent: 100
+  N00200043:
+    letters: 211
+    percent: 66
+  N00200044:
+    letters: 281
+    percent: 91
+  N00200045:
+    letters: 0
+    percent: 0
+  N00200048:
+    letters: 0
+    percent: 0
+  N00200051:
+    letters: 0
+    percent: 0
+  N00200054:
+    letters: 231
+    percent: 75
+  N00200055:
+    letters: 313
+    percent: 99
+  N00200056:
+    letters: 329
+    percent: 100
+  N00200058:
+    letters: 0
+    percent: 0
+  N00202103:
+    letters: 283
+    percent: 100
+  N01202001:
+    letters: 258
+    percent: 85
+  N01202002:
+    letters: 283
+    percent: 95
+  N01202003:
+    letters: 0
+    percent: 0
+  N01202004:
+    letters: 293
+    percent: 99
+  N01202101:
+    letters: 46
+    percent: 15
+  N01202103:
+    letters: 0
+    percent: 0
+  N01202105:
+    letters: 0
+    percent: 0
+  N02203101:
+    letters: 0
+    percent: 0
+  N02203102:
+    letters: 278
+    percent: 98
+  N98200037:
+    letters: 0
+    percent: 0
+  N99030025:
+    letters: 0
+    percent: 0
+  N99030033:
+    letters: 0
+    percent: 0
