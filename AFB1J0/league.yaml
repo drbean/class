@@ -1,18 +1,18 @@
 ---
 absent: ~
-anterior: 021AFN2N0
+anterior: 021AFN3Y0
 approach: GroupworkNoFault
 classMax: 3
 compcomp: comp
 examMax: 5
 exams: exam
-field: 電腦多媒體語言教學
+field: 網路英文
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: AFN3Y0
+id: AFB1J0
 jigsaw: exam
-league: NAF031_四技外三甲_選修_2
+league: BAF011_四技應外一甲
 member:
   - Chinese: 張翊萱
     id: B02200001
@@ -135,91 +135,6 @@ member:
     password: han
     rating: ~
 out:
-  - Chinese: 邱欣蘭
-    id: N00200044
-    name: Lanna
-    password: xin
-    rating: ~
-  - Chinese: 陳映如
-    id: N00200010
-    name: Tina
-    password: ying
-    rating: ~
-  - Chinese: 江麗玲
-    id: N00200006
-    name: 江麗玲
-    password: li
-    rating: ~
-  - Chinese: 彭為騰
-    id: N00200013
-    name: 彭為騰
-    password: wei
-    rating: ~
-  - Chinese: 羅莉玲
-    id: N00200014
-    name: 羅莉玲
-    password: li
-    rating: ~
-  - Chinese: 曾詩穎
-    id: N00200032
-    name: 曾詩穎
-    password: shi
-    rating: ~
-  - Chinese: 彭成賓
-    id: N00200036
-    name: 彭成賓
-    password: cheng
-    rating: ~
-  - Chinese: 劉佩欣
-    id: N00200043
-    name: 劉佩欣
-    password: pei
-    rating: ~
-  - Chinese: 陳俊生
-    id: N00200047
-    name: 陳俊生
-    password: jun
-    rating: ~
-  - Chinese: 葉俞萱
-    id: N00200048
-    name: Meimei
-    password: yu
-    rating: ~
-  - Chinese: 郭姵妤
-    id: N00200058
-    name: Peggy
-    password: pei
-    rating: ~
-  - Chinese: 彭雅楹
-    id: N01202002
-    name: 彭雅楹
-    password: ya
-    rating: ~
-  - Chinese: 黃秀娟
-    id: N01202101
-    name: 黃秀娟
-    password: xiu
-    rating: ~
-  - Chinese: 吳振暐
-    id: N01202103
-    name: 吳振暐
-    password: zhen
-    rating: ~
-  - Chinese: 詹益昌
-    id: N01202104
-    name: 詹益昌
-    password: yi
-    rating: ~
-  - Chinese: 鄭瑞昇
-    id: N01202105
-    name: 鄭瑞昇
-    password: rui
-    rating: ~
-  - Chinese: 管得成
-    id: N99030025
-    name: 管得成
-    password: de
-    rating: ~
 room: feng-501
 school: must
 scores:
@@ -231,9 +146,6 @@ scores:
   win: 5
 session:
   1: 1
-  2: 5
-  3: 9
-  4: 14
 weights:
   classwork: 40
   exams: 20
