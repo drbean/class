@@ -1,0 +1,240 @@
+---
+absent: ~
+anterior: 012GL00030
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 中級英文聽說訓練
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 012GL00006
+jigsaw: exam
+league: 日語文共同學制虛擬班二甲
+member:
+  - Chinese: 林珈羽
+    id: U0018027
+    name: Tracy
+    password: jia
+    rating: 40
+  - Chinese: 向垣蓉
+    id: U0042050
+    name: Amy
+    password: yuan
+    rating: 72
+  - Chinese: 王志睿
+    id: U0017024
+    name: Rick
+    password: zhi
+    rating: 49
+  - Chinese: 陳佩暄
+    id: U0043033
+    name: Peggy
+    password: pei
+    rating: 64
+  - Chinese: 林沂慧
+    id: K220155482
+    name: Angela
+    password: yi
+    rating: 80
+  - Chinese: 湯光煜
+    id: U9911237
+    name: Yukin
+    password: guang
+    rating: 56
+  - Chinese: 辛昆星
+    id: U0042041
+    name: KungHsing
+    password: kun
+    rating: 27
+  - Chinese: 將玉華
+    id: U9943019
+    name: Luisa
+    password: yu
+    rating: 13
+  - Chinese: 張雅芬
+    id: U0043001
+    name: Tiffany
+    password: ya
+    rating: 78
+  - Chinese: 洪崇洺
+    id: U0222133
+    name: Dave
+    password: chong
+    rating: 22
+  - Chinese: 吳冠甫
+    id: U9923120
+    name: Lance
+    password: guan
+    rating: 76
+  - Chinese: 楊聖
+    id: U9917017
+    name: Scotter
+    password: sheng
+    rating: 40
+  - Chinese: 陳柏合
+    id: U9911242
+    name: Simon
+    password: bo
+    rating: 56
+  - Chinese: 楊佳宜
+    id: U0018046
+    name: Regina
+    password: jia
+    rating: 52
+  - Chinese: 林芳瑩
+    id: U9943007
+    name: Carolyn
+    password: fang
+    rating: 60
+  - Chinese: 洪珮其
+    id: U9923121
+    name: Penny
+    password: pei
+    rating: 39
+  - Chinese: 林立婷
+    id: U0222228
+    name: Li-Ting
+    password: li
+    rating: 62
+  - Chinese: 陳紹順
+    id: U0042012
+    name: Danny
+    password: shao
+    rating: 27
+  - Chinese: 陳蓉萱
+    id: U0122002
+    name: Gillian
+    password: rong
+    rating: 60
+  - Chinese: 陳嬿羽
+    id: U0043004
+    name: Mia
+    password: yan
+    rating: 53
+out:
+  - Chinese: 陳忠偉
+    id: U0042031
+    name: Chung-Wei
+    password: jung
+    rating: 13
+  - Chinese: 褚春美
+    id: M0210002
+    name: Moomin
+    password: chun
+    rating: 56
+  - Chinese: 吳肇茗
+    id: U0031213
+    name: Maddy
+    password: zhao
+    rating: 36
+  - Chinese: 張琪?
+    id: U0142030
+    name: Elizabeth
+    password: qi
+    rating: 13
+  - Chinese: 劉又嘉
+    id: U9842014
+    name: Sunny
+    password: you
+    rating: 13
+  - Chinese: 羅仁德
+    id: U0016008
+    name: Kevin
+    password: ren
+    rating: 13
+  - Chinese: 陳靖宜
+    id: U0042039
+    name: Gina
+    password: jing
+    rating: ~
+  - Chinese: 胡亞微
+    id: U0016051
+    name: Wei
+    password: ya
+    rating: ~
+  - Chinese: 蔡欣儒
+    id: U0016030
+    name: Emily
+    password: xin
+    rating: ~
+  - Chinese: 楊苑羚
+    id: U0142036
+    name: Phoebe
+    password: yuan
+    rating: ~
+  - Chinese: 黃理偉
+    id: U0142042
+    name: Kim
+    password: li
+    rating: ~
+  - Chinese: 許富強
+    id: U9914113
+    name: 許富強
+    password: fu
+    rating: ~
+  - Chinese: 蕭伊晴
+    id: U0042018
+    name: 蕭伊晴
+    password: yi
+    rating: ~
+  - Chinese: 林禹丞
+    id: U9921214
+    name: 林禹丞
+    password: yu
+    rating: ~
+  - Chinese: 廖顯旻
+    id: U9921230
+    name: 廖顯旻
+    password: xian
+    rating: ~
+  - Chinese: 楊孟勳
+    id: U9913037
+    name: 楊孟勳
+    password: meng
+    rating: ~
+  - Chinese: 郭巧勻
+    id: U0033112
+    name: 郭巧勻
+    password: qiao
+    rating: ~
+  - Chinese: 徐銘均
+    id: U0141060
+    name: Ming-chun
+    password: ming
+    rating: ~
+  - Chinese: 何宇正
+    id: U9917024
+    name: Tim
+    password: yu
+    rating: ~
+  - Chinese: 李翎
+    id: U0042004
+    name: Lily
+    password: ling
+    rating: ~
+  - Chinese: 葉俊豪
+    id: U0143002
+    name: 葉俊豪
+    password: jun
+    rating: ~
+room: 2110
+school: nuu
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 1
+  2: 5
+  3: 9
+  4: 14
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40

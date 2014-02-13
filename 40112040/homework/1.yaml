@@ -1,0 +1,117 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: dickson
+grade:
+  U9943019: 0
+
+  K220155482: 2
+  M0210002: 2
+  U0016030: 0
+  U0016051: 0
+  U0017024: 0.92
+  U0018027: 0
+  U0018046: 1.68
+  U0031213: 0
+  U0042012: 0
+  U0042031: 0
+  U0042039: 0
+  U0042041: 0
+  U0042050: 1.7
+  U0043001: 2
+  U0043004: 1.6
+  U0043033: 1.96
+  U0122002: 2
+  U0142036: 0
+  U0142042: 0
+  U0222133: 0
+  U0222228: 0.16
+  U9911237: 2
+  U9911242: 2
+  U9917017: 0
+  U9923120: 1.82
+  U9923121: 0
+  U9943007: 1.98
+points:
+  K220155482:
+    letters: 310
+    percent: 100
+  M0210002:
+    letters: 285
+    percent: 100
+  U0016030:
+    letters: 0
+    percent: 0
+  U0016051:
+    letters: 0
+    percent: 0
+  U0017024:
+    letters: 131
+    percent: 46
+  U0018027:
+    letters: 0
+    percent: 0
+  U0018046:
+    letters: 225
+    percent: 84
+  U0031213:
+    letters: 0
+    percent: 0
+  U0042012:
+    letters: 0
+    percent: 0
+  U0042031:
+    letters: 0
+    percent: 0
+  U0042039:
+    letters: 0
+    percent: 0
+  U0042041:
+    letters: 0
+    percent: 0
+  U0042050:
+    letters: 259
+    percent: 85
+  U0043001:
+    letters: 281
+    percent: 100
+  U0043004:
+    letters: 233
+    percent: 80
+  U0043033:
+    letters: 273
+    percent: 98
+  U0122002:
+    letters: 283
+    percent: 100
+  U0142036:
+    letters: 0
+    percent: 0
+  U0142042:
+    letters: 0
+    percent: 0
+  U0222133:
+    letters: 0
+    percent: 0
+  U0222228:
+    letters: 22
+    percent: 8
+  U9911237:
+    letters: 287
+    percent: 100
+  U9911242:
+    letters: 284
+    percent: 100
+  U9917017:
+    letters: 0
+    percent: 0
+  U9923120:
+    letters: 265
+    percent: 91
+  U9923121:
+    letters: 0
+    percent: 0
+  U9943007:
+    letters: 299
+    percent: 99

@@ -1,0 +1,37 @@
+---
+
+Black:
+  absent: 
+  merits: 3
+Blue:
+  tardy:
+    - Danny
+    - KungHsing
+  absent: 
+    - Chung-Wei
+  merits: 3
+Pink:
+  absent: 
+  merits: 3
+
+Gray:
+  absent: 
+  merits: 3
+White:
+  absent: 
+  merits: 3
+
+Brown:
+  absent: 
+  merits: 3
+Orange:
+  absent: 
+  merits: 3
+
+Green:
+  absent: 
+  merits: 3
+
+Yellow:
+  absent: 
+  merits: 3
