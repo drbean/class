@@ -1,18 +1,18 @@
 ---
 absent: ~
-anterior: 021GL00006
+anterior: 02240112040
 approach: GroupworkNoFault
 classMax: 3
 compcomp: comp
 examMax: 5
 exams: exam
-field: 中級英語會話
+field: 進階英語會話
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 40112040
+id: 40113024
 jigsaw: exam
-league: 應英(四技日)2E
+league: 應英(四技日)3E
 member:
   - Chinese: 林純懿
     id: 100405401
