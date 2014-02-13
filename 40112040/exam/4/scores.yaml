@@ -1,0 +1,39 @@
+---
+Chinese:
+  Black: 0
+  Blue: 0
+  Brown: 0
+  Gray: 0
+  Green: 0
+  Orange: 0
+letters:
+  Black:
+    U0018027: 9
+    U0043004: 10
+    U0122002: 9
+    story: vanbeke1
+  Blue:
+    U9943019: 7
+    U0017024: 9
+    U9943007: 7
+    story: salazar1
+  Brown:
+    U0042012: 7
+    U9923121: 7
+    U0222228: 6
+    story: vanbeke1
+  Gray:
+    U0042041: 9
+    U0042050: 9
+    U0043001: 8
+    story: salazar1
+  Green:
+    K220155482: 9
+    U9917017: 8
+    U9923120: 9
+    story: vanbeke1
+  Orange:
+    U0222133: 5
+    U0043033: 5
+    U0018046: 9
+    story: rueda1

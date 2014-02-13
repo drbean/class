@@ -1,0 +1,53 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 5
+assistant:
+absent:
+  - Simon
+  - Yukin
+text: /home/drbean/class/conversation/poverty/cards.yaml
+activity:
+  salazar:
+    1:
+      - Blue
+      - Gray
+  rueda:
+    1:
+      - Orange
+  vanbeke:
+    1:
+      - Black
+      - Brown
+      - Green
+group:
+  Black:
+    - Tracy
+    - Mia
+    - Gillian
+  Blue:
+    - Luisa
+    - Rick
+    - Carolyn
+  Brown:
+    - Danny
+    - Penny
+    - Li-Ting
+  Gray:
+    - KungHsing
+    - Amy
+    - Tiffany
+  Green:
+    - Angela
+    - Scotter
+    - Lance
+  Orange:
+    - Dave
+    - Peggy
+    - Regina
+#  Yellow:
+#    - Tracy
+#    - Yukin
+#    - Angela

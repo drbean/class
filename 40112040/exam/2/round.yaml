@@ -1,0 +1,57 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 5
+assistant:
+absent:
+  - Maddy
+  - Moomin
+  - Chung-Wei
+  - Yukin
+  - Simon
+text: /home/drbean/class/conversation/parents/cards.yaml
+activity:
+  biomom:
+    4:
+      - Blue
+      - Brown
+      - Gray
+  biodad:
+    1:
+      - Black
+      - Yellow
+  emersonj:
+    2:
+      - Green
+      - Orange
+group:
+  Black:
+    - Luisa
+    - Yukin
+    - Tiffany
+  Blue:
+    - Gillian
+    - Scotter
+    - Lance
+  Brown:
+    - Dave
+    - Penny
+    - Amy
+  Gray:
+    - Tracy
+    - Regina
+    - Peggy
+  Green:
+    - KungHsing
+    - Rick
+    - Li-Ting
+  Orange:
+    - Danny
+    - Mia
+    - Carolyn
+  Yellow:
+    - Simon
+    - Chung-Wei
+    - Angela

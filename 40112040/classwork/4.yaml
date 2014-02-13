@@ -1,0 +1,43 @@
+---
+
+Black:
+  absent: 
+    - Tracy
+  merits: 3
+Gray:
+  absent: 
+    - Yukin
+  merits: 3
+
+Blue:
+  absent: 
+  tardy:
+    - KungHsing
+    - Chung-Wei
+  merits: 3
+Brown:
+  absent: 
+    - Elizabeth
+  merits: 3
+
+Pink:
+  absent: 
+    - Sunny
+  merits: 3
+
+Orange:
+  absent: 
+    - Simon
+  merits: 3
+Green:
+  absent: 
+    - Rick
+  merits: 3
+
+White:
+  absent: 
+  merits: 3
+Yellow:
+  absent: 
+    - Moomin
+  merits: 3
