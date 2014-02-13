@@ -1,0 +1,94 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 10
+pass: 5
+assistant:
+  - Ally
+  - Lanna
+  - Carlos
+  - Andy
+absent:
+  - Claire
+  - Crown
+  - Cindy
+  - Tina
+  - Dora
+  - Mei
+text: /home/drbean/class/conversation/work/cards.yaml
+activity:
+  dickson:
+    2:
+      - Gray
+      - OrangeOrange
+      - Purple
+      - White
+  abreu:
+    2:
+      - Brown
+      - PinkPink
+      - Red
+  smallwood:
+    2:
+      - Black
+      - Green
+      - Yellow
+  jackson:
+    2:
+      - BlackBlack
+      - Blue
+      - Orange
+group:
+  Black:
+    - Neo
+    - Eva
+    - Betty
+  Blue:
+    - Sally
+    - Mindy
+    - Kelly1
+  Brown:
+    - Candy
+    - MiuMiu
+    - Carlos
+  Gray:
+    - Teresa
+    - Louie
+    - Carlos
+  Green:
+    - Ally
+    - Shane
+    - Denise
+  BlackBlack:
+    - Selena
+    - Jerry
+    - Allen
+  Orange:
+    - Andy
+    - James
+    - Neil
+  Purple:
+    - Jeff
+    - Alex
+    - Katie
+  Red:
+    - Carol
+    - Vicky
+    - Dave
+  White:
+    - Lanna
+    - Ben
+    - Joan
+  Yellow:
+    - Ally
+    - Lanna
+    - Fion
+  OrangeOrange:
+    - Don
+    - Champion
+    - Peggy
+  PinkPink:
+    - Emily
+    - Bunny
+    - Yuki

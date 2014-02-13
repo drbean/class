@@ -1,0 +1,132 @@
+---
+activity:
+  connell:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+  warm:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+  foreman:
+    0:
+      - 0
+      - 1
+      - 2
+      - 4
+      - 3
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+  davist:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+assistant:
+  Orange:
+    N00200034: 4
+    N00200054: 3
+    N00200001: 4
+# bye: N00200042
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: N00200042
+    Black: N00200037
+
+  1:
+    White: N00120056
+    Black: N02203102
+  2:
+    White: N01202103
+    Black: N00200008
+  3:
+    White: N00200007
+    Black: N00200044
+  4:
+    White: N00200017
+    Black: N00200022
+  5:
+    White: N00200025
+    Black: N99030025
+  6:
+    White: N00200006
+    Black: N00200048
+  7:
+    White: N01202001
+    Black: N00200055
+  8:
+    White: N00200015
+    Black: N00200043
+  9:
+    White: N01202004
+    Black: N00200030
+  10:
+    White: N00202103
+    Black: N00200029
+  11:
+     White: N00200014
+     Black: N00200056
+  12:
+     White: N00200036
+     Black: N01202105
+  13:
+     White: N00200045
+     Black: N00200009
+  
+late:
+  - N00200037
+  - N00200014
+  - N00200056
+  - N00200036
+  - N01202105
+  - N00200045
+  - N00200009
+pairing: swiss
+payprotocol: meritPay 2
+round: 2
+text: /home/drbean/class/conversation/disability/cards.yaml
+week: 14

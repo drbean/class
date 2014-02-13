@@ -1,0 +1,167 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: salazar
+grade:
+  N00120056: 2
+  N00200001: 2
+  N00200003: 0
+  N00200006: 2
+  N00200007: 0.5
+  N00200008: 2
+  N00200009: 1.78
+  N00200010: 2
+  N00200014: 0
+  N00200015: 2
+  N00200017: 1.9
+  N00200022: 2
+  N00200025: 2
+  N00200029: 2
+  N00200030: 2
+  N00200031: 1.66
+  N00200032: 2
+  N00200034: 1.34
+  N00200036: 2
+  N00200037: 2
+  N00200042: 1.96
+  N00200043: 2
+  N00200044: 2
+  N00200045: 0
+  N00200048: 0
+  N00200054: 2
+  N00200055: 0.04
+  N00200056: 1.62
+  N00200058: 0
+  N00202103: 2
+  N01202001: 2
+  N01202002: 1.14
+  N01202004: 2
+  N01202101: 0
+  N01202103: 0
+  N01202105: 0
+  N02203102: 2
+  N98200021: 2
+  N99030025: 2
+  N99030033: 0
+points:
+  N00120056:
+    letters: 217
+    percent: 100
+  N00200001:
+    letters: 204
+    percent: 100
+  N00200003:
+    letters: 0
+    percent: 0
+  N00200006:
+    letters: 230
+    percent: 100
+  N00200007:
+    letters: 49
+    percent: 25
+  N00200008:
+    letters: 168
+    percent: 100
+  N00200009:
+    letters: 188
+    percent: 89
+  N00200010:
+    letters: 216
+    percent: 100
+  N00200014:
+    letters: 0
+    percent: 0
+  N00200015:
+    letters: 214
+    percent: 100
+  N00200017:
+    letters: 167
+    percent: 95
+  N00200022:
+    letters: 217
+    percent: 100
+  N00200025:
+    letters: 209
+    percent: 100
+  N00200029:
+    letters: 204
+    percent: 100
+  N00200030:
+    letters: 169
+    percent: 100
+  N00200031:
+    letters: 182
+    percent: 83
+  N00200032:
+    letters: 230
+    percent: 100
+  N00200034:
+    letters: 129
+    percent: 67
+  N00200036:
+    letters: 210
+    percent: 100
+  N00200037:
+    letters: 189
+    percent: 100
+  N00200042:
+    letters: 198
+    percent: 98
+  N00200043:
+    letters: 223
+    percent: 100
+  N00200044:
+    letters: 199
+    percent: 100
+  N00200045:
+    letters: 0
+    percent: 0
+  N00200048:
+    letters: 0
+    percent: 0
+  N00200054:
+    letters: 200
+    percent: 100
+  N00200055:
+    letters: 4
+    percent: 2
+  N00200056:
+    letters: 173
+    percent: 81
+  N00200058:
+    letters: 0
+    percent: 0
+  N00202103:
+    letters: 196
+    percent: 100
+  N01202001:
+    letters: 206
+    percent: 100
+  N01202002:
+    letters: 112
+    percent: 57
+  N01202004:
+    letters: 213
+    percent: 100
+  N01202101:
+    letters: 0
+    percent: 0
+  N01202103:
+    letters: 0
+    percent: 0
+  N01202105:
+    letters: 0
+    percent: 0
+  N02203102:
+    letters: 215
+    percent: 100
+  N98200021:
+    letters: 234
+    percent: 100
+  N99030025:
+    letters: 219
+    percent: 100
+  N99030033:
+    letters: 0
+    percent: 0

@@ -1,0 +1,121 @@
+---
+activity:
+  salazar:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+  rueda:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+  vanbeke:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+assistant:
+  Black:
+    N99030025: 4
+    N00200029: 4
+    N00200030: 4
+  Orange:
+    N98200021: 4
+    N00200032: 4
+    N02203102: 4
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: N00200003
+    Black: N01202105
+  1:
+    White: N01202002
+    Black: N00200034
+  2:
+    White: N00200010
+    Black: N00200054
+  3:
+    White: N00200001
+    Black: N00200031
+  4:
+    White: N99030033
+    Black: N00120056
+  5:
+    White: N00200037
+    Black: N01202103
+  6:
+    White: N00200056
+    Black: N00200042
+  7:
+    White: N00200009
+    Black: N00200014
+  8:
+    White: N00200036
+    Black: N00200045
+  9:
+    White: N00200008
+    Black: N00200025
+  10:
+    White: N00200022
+    Black: N00200007
+  11:
+    White: N00200044
+    Black: N00200015
+  12:
+    White: N00200048
+    Black: N00200017
+  13:
+    White: N00200055
+    Black: N00200006
+  14:
+    White: N01202001
+    Black: N01202004
+  15:
+    White: N00200043
+    Black: N00202103
+late:
+pairing: swiss
+payprotocol: meritPay 2
+round: 3
+text: /home/drbean/class/conversation/poverty/cards.yaml

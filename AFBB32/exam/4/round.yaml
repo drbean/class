@@ -1,0 +1,87 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 5
+assistant:
+  - Carlos
+absent:
+  - Peggy
+  - Emily
+text: /home/drbean/class/conversation/poverty/cards.yaml
+activity:
+  salazar:
+    1:
+      - Blue
+      - Khaki
+      - Pink
+      - Purple
+  rueda:
+    1:
+      - Brown
+      - Charcoal
+      - Chocolate
+      - Orange
+      - Red
+      - Yellow
+  vanbeke:
+    1:
+      - Black
+      - Gray
+      - Green
+group:
+  Black:
+    - Don
+    - Vicky
+    - Dave
+  Blue:
+    - Ally
+    - Champion
+    - Teresa
+  Brown:
+    - Mei
+    - Carol
+    - Eva
+  Charcoal:
+    - Yuki
+    - Kelly1
+    - Carlos
+  Chocolate:
+    - Carlos
+    - Shane
+    - Sally
+  Gray:
+    - Katie
+    - MiuMiu
+    - Selena
+  Green:
+    - Cindy
+    - Denise
+    - Betty
+  Khaki:
+    - Jeff
+    - Alex
+    - Louie
+  Orange:
+    - Neo
+    - Dora
+    - James
+  Pink:
+    - Tina
+    - Andy
+    - Neil
+  Purple:
+    - Candy
+    - Ben
+    - Joan
+  Red:
+    - Fion
+    - Mindy
+    - Lanna
+  #White:
+  #  - Katie
+  Yellow:
+    - Allen
+    - Jerry
+    - Bunny

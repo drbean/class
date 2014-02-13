@@ -1,0 +1,466 @@
+---
+free:
+  0:
+    connell:
+      0:
+        N00200042:
+          point:
+            1: Unreturned
+        N00200037:
+          point:
+            1: Nil
+    warm:
+      0:
+        N00200042:
+          point:
+            1: Returned
+        N00200037:
+          point:
+            1: Nil
+    foreman:
+      0:
+        N00200042:
+          point:
+            1: Nil
+        N00200037:
+          point:
+            1: Returned
+    davist:
+      0:
+        N00200042:
+          point:
+            1: Nil
+        N00200037:
+          point:
+            1: Nil
+  1:
+    connell:
+      0:
+        N00120056:
+          point:
+            1: Fault
+        N02203102:
+          point:
+            1: Fault
+    warm:
+      0:
+        N00120056:
+          point:
+            1: Nil
+        N02203102:
+          point:
+            1: Nil
+    foreman:
+      0:
+        N00120056:
+          point:
+            1: Nil
+        N02203102:
+          point:
+            1: Nil
+    davist:
+      0:
+        N00120056:
+          point:
+            1: Nil
+        N02203102:
+          point:
+            1: Nil
+  2:
+    connell:
+      0:
+        N01202103:
+          point:
+            1: Nil
+        N00200008:
+          point:
+            1: Nil
+    warm:
+      0:
+        N01202103:
+          point:
+            1: Nil
+        N00200008:
+          point:
+            1: Nil
+    foreman:
+      0:
+        N01202103:
+          point:
+            1: Returned
+        N00200008:
+          point:
+            1: Returned
+    davist:
+      0:
+        N01202103:
+          point:
+            1: Returned
+        N00200008:
+          point:
+            1: Returned
+  3:
+    connell:
+      0:
+        N00200007:
+          point:
+            1: Returned
+        N00200044:
+          point:
+            1: Old
+    warm:
+      0:
+        N00200007:
+          point:
+            1: Nil
+        N00200044:
+          point:
+            1: Returned
+    foreman:
+      0:
+        N00200007:
+          point:
+            1: Nil
+        N00200044:
+          point:
+            1: Nil
+    davist:
+      0:
+        N00200007:
+          point:
+            1: Nil
+        N00200044:
+          point:
+            1: Nil
+  4:
+    connell:
+      0:
+        N00200017:
+          point:
+            1: Returned
+        N00200022:
+          point:
+            1: Returned
+    warm:
+      0:
+        N00200017:
+          point:
+            1: Returned
+        N00200022:
+          point:
+            1: Fault
+    foreman:
+      0:
+        N00200017:
+          point:
+            1: Nil
+        N00200022:
+          point:
+            1: Nil
+    davist:
+      0:
+        N00200017:
+          point:
+            1: Nil
+        N00200022:
+          point:
+            1: Nil
+  5:
+    connell:
+      0:
+        N00200025:
+          point:
+            1: Fault
+        N99030025:
+          point:
+            1: Nil
+    warm:
+      0:
+        N00200025:
+          point:
+            1: Fault
+        N99030025:
+          point:
+            1: Returned
+    foreman:
+      0:
+        N00200025:
+          point:
+            1: Returned
+        N99030025:
+          point:
+            1: Old
+    davist:
+      0:
+        N00200025:
+          point:
+            1: Nil
+        N99030025:
+          point:
+            1: Nil
+  6:
+    connell:
+      0:
+        N00200006:
+          point:
+            1: Fault
+        N00200048:
+          point:
+            1: Fault
+    warm:
+      0:
+        N00200006:
+          point:
+            1: Fault
+        N00200048:
+          point:
+            1: Returned
+    foreman:
+      0:
+        N00200006:
+          point:
+            1: Nil
+        N00200048:
+          point:
+            1: Nil
+    davist:
+      0:
+        N00200006:
+          point:
+            1: Nil
+        N00200048:
+          point:
+            1: Nil
+  7:
+    connell:
+      0:
+        N01202001:
+          point:
+            1: Old
+            2: Fault
+        N00200055:
+          point:
+            1: Old
+    warm:
+      0:
+        N01202001:
+          point:
+            1: Old
+            2: Returned
+        N00200055:
+          point:
+            1: Returned
+    foreman:
+      0:
+        N01202001:
+          point:
+            1: Nil
+        N00200055:
+          point:
+            1: Nil
+    davist:
+      0:
+        N01202001:
+          point:
+            1: Nil
+        N00200055:
+          point:
+            1: Fault
+  8:
+    connell:
+      0:
+        N00200015:
+          point:
+            1: Returned
+        N00200043:
+          point:
+            1: Returned
+    warm:
+      0:
+        N00200015:
+          point:
+            1: Fault
+        N00200043:
+          point:
+            1: Nil
+    foreman:
+      0:
+        N00200015:
+          point:
+            1: Nil
+        N00200043:
+          point:
+            1: Nil
+    davist:
+      0:
+        N00200015:
+          point:
+            1: Nil
+        N00200043:
+          point:
+            1: Nil
+  9:
+    connell:
+      0:
+        N01202004:
+          point:
+            1: Returned
+        N00200030:
+          point:
+            1: Returned
+    warm:
+      0:
+        N01202004:
+          point:
+            1: Returned
+        N00200030:
+          point:
+            1: Returned
+    foreman:
+      0:
+        N01202004:
+          point:
+            1: Nil
+        N00200030:
+          point:
+            1: Nil
+    davist:
+      0:
+        N01202004:
+          point:
+            1: Nil
+        N00200030:
+          point:
+            1: Nil
+  10:
+    connell:
+      0:
+        N00202103:
+          point:
+            1: Returned
+        N00200029:
+          point:
+            1: Returned
+    warm:
+      0:
+        N00202103:
+          point:
+            1: Returned
+        N00200029:
+          point:
+            1: Fault
+    foreman:
+      0:
+        N00202103:
+          point:
+            1: Nil
+        N00200029:
+          point:
+            1: Nil
+    davist:
+      0:
+        N00202103:
+          point:
+            1: Nil
+        N00200029:
+          point:
+            1: Nil
+  11:
+    connell:
+      0:
+        N00200014:
+          point:
+            1: Nil
+        N00200056:
+          point:
+            1: Nil
+    warm:
+      0:
+        N00200014:
+          point:
+            1: Nil
+        N00200056:
+          point:
+            1: Nil
+    foreman:
+      0:
+        N00200014:
+          point:
+            1: Nil
+        N00200056:
+          point:
+            1: Nil
+    davist:
+      0:
+        N00200014:
+          point:
+            1: Returned
+        N00200056:
+          point:
+            1: Returned
+  12:
+    connell:
+      0:
+        N00200036:
+          point:
+            1: Fault
+        N01202105:
+          point:
+            1: Returned
+    warm:
+      0:
+        N00200036:
+          point:
+            1: Nil
+        N01202105:
+          point:
+            1: Nil
+    foreman:
+      0:
+        N00200036:
+          point:
+            1: Nil
+        N01202105:
+          point:
+            1: Nil
+    davist:
+      0:
+        N00200036:
+          point:
+            1: Nil
+        N01202105:
+          point:
+            1: Nil
+  13:
+    connell:
+      0:
+        N00200045:
+          point:
+            1: Returned
+        N00200009:
+          point:
+            1: Fault
+    warm:
+      0:
+        N00200045:
+          point:
+            1: Nil
+        N00200009:
+          point:
+            1: Nil
+    foreman:
+      0:
+        N00200045:
+          point:
+            1: Nil
+        N00200009:
+          point:
+            1: Nil
+    davist:
+      0:
+        N00200045:
+          point:
+            1: Nil
+        N00200009:
+          point:
+            1: Nil
