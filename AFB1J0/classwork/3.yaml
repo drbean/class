@@ -1,0 +1,29 @@
+---
+Black:
+  absent: 
+    - Kelly
+  merits:    3
+Green:
+  absent:    
+  merits:    3
+
+BlackBlack:
+  absent:    
+  merits:    3
+Pink:
+  absent:    
+  merits:    3
+
+Purple:
+  absent:    
+  merits:    3
+Blue:
+  absent:    
+  merits:    3
+
+Yellow:
+  absent:    
+  merits:    3
+Orange:
+  absent:    
+  merits:    3

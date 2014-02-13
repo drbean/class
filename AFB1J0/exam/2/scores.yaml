@@ -1,0 +1,235 @@
+---
+exam_maximum: 115
+exercise: test
+grade:
+  N00200001: 5
+  N00200008: 3.4
+  N00200009: 3.05217391304348
+  N00200017: 3.71304347826087
+  N00200025: 4.33913043478261
+  N00200029: 3
+  N00200030: 4.6695652173913
+  N00200031: 3.12173913043478
+  N00200034: 3
+  N00200036: 3
+  N00200037: 3.19130434782609
+  N00200042: 3.12173913043478
+  N00200043: 3.36521739130435
+  N00200051: 3
+  N00200054: 3.01739130434783
+  N00200055: 3.38260869565217
+  N00200056: 4.06086956521739
+  N00203002: 3
+  N01202001: 4.30434782608696
+  N01202004: 3.64347826086957
+  N01203003: 3.13913043478261
+  N02202113: 3.13913043478261
+  N96200030: 3.60869565217391
+points:
+  N00200001:
+    pre_test:
+      attempted: 179
+      correct: 51
+    post_test:
+      attempted: 179
+      correct: 164
+      improvement: 115
+      targeted: 128
+  N00200008:
+    pre_test:
+      attempted: 179
+      correct: 61
+    post_test:
+      attempted: 166
+      correct: 60
+      improvement: 23
+      targeted: 118
+  N00200009:
+    pre_test:
+      attempted: 12
+      correct: 3
+    post_test:
+      attempted: 123
+      correct: 99
+      improvement: 3
+      targeted: 9
+  N00200017:
+    pre_test:
+      attempted: 179
+      correct: 18
+    post_test:
+      attempted: 180
+      correct: 56
+      improvement: 41
+      targeted: 161
+  N00200025:
+    pre_test:
+      attempted: 179
+      correct: 83
+    post_test:
+      attempted: 179
+      correct: 155
+      improvement: 77
+      targeted: 96
+  N00200029:
+    pre_test:
+      attempted: 0
+      correct: 0
+    post_test:
+      attempted: 142
+      correct: 43
+      improvement: 0
+      targeted: 0
+  N00200030:
+    pre_test:
+      attempted: 179
+      correct: 41
+    post_test:
+      attempted: 172
+      correct: 130
+      improvement: 96
+      targeted: 138
+  N00200031:
+    pre_test:
+      attempted: 77
+      correct: 22
+    post_test:
+      attempted: 135
+      correct: 44
+      improvement: 7
+      targeted: 55
+  N00200034:
+    pre_test:
+      attempted: 0
+      correct: 0
+    post_test:
+      attempted: 83
+      correct: 65
+      improvement: 0
+      targeted: 0
+  N00200036:
+    pre_test:
+      attempted: 0
+      correct: 0
+    post_test:
+      attempted: 115
+      correct: 33
+      improvement: 0
+      targeted: 0
+  N00200037:
+    pre_test:
+      attempted: 179
+      correct: 137
+    post_test:
+      attempted: 172
+      correct: 125
+      improvement: 11
+      targeted: 42
+  N00200042:
+    pre_test:
+      attempted: 179
+      correct: 148
+    post_test:
+      attempted: 108
+      correct: 78
+      improvement: 7
+      targeted: 31
+  N00200043:
+    pre_test:
+      attempted: 179
+      correct: 55
+    post_test:
+      attempted: 98
+      correct: 60
+      improvement: 21
+      targeted: 124
+  N00200051:
+    pre_test:
+      attempted: 0
+      correct: 0
+    post_test:
+      attempted: 179
+      correct: 117
+      improvement: 0
+      targeted: 0
+  N00200054:
+    pre_test:
+      attempted: 179
+      correct: 146
+    post_test:
+      attempted: 171
+      correct: 136
+      improvement: 1
+      targeted: 33
+  N00200055:
+    pre_test:
+      attempted: 93
+      correct: 26
+    post_test:
+      attempted: 117
+      correct: 76
+      improvement: 22
+      targeted: 67
+  N00200056:
+    pre_test:
+      attempted: 177
+      correct: 70
+    post_test:
+      attempted: 147
+      correct: 118
+      improvement: 61
+      targeted: 107
+  N00203002:
+    pre_test:
+      attempted: 0
+      correct: 0
+    post_test:
+      attempted: 118
+      correct: 24
+      improvement: 0
+      targeted: 0
+  N01202001:
+    pre_test:
+      attempted: 179
+      correct: 18
+    post_test:
+      attempted: 172
+      correct: 92
+      improvement: 75
+      targeted: 161
+  N01202004:
+    pre_test:
+      attempted: 73
+      correct: 24
+    post_test:
+      attempted: 179
+      correct: 139
+      improvement: 37
+      targeted: 49
+  N01203003:
+    pre_test:
+      attempted: 168
+      correct: 53
+    post_test:
+      attempted: 179
+      correct: 34
+      improvement: 8
+      targeted: 115
+  N02202113:
+    pre_test:
+      attempted: 96
+      correct: 37
+    post_test:
+      attempted: 171
+      correct: 74
+      improvement: 8
+      targeted: 59
+  N96200030:
+    pre_test:
+      attempted: 179
+      correct: 54
+    post_test:
+      attempted: 89
+      correct: 54
+      improvement: 35
+      targeted: 125
