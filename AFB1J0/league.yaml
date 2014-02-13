@@ -14,122 +14,125 @@ id: AFN3Y0
 jigsaw: exam
 league: NAF031_四技外三甲_選修_2
 member:
-  - Chinese: 戴睿萱
-    id: N00200051
-    name: Rena
-    password: rui
-    rating: ~
-  - Chinese: 魏雪如
-    id: N00200034
-    name: Fion
-    password: xue
-    rating: ~
-  - Chinese: 劉佩欣
-    id: N00200043
-    name: Katie
-    password: pei
-    rating: ~
-  - Chinese: 彭成賓
-    id: N00200036
-    name: Champion
-    password: cheng
-    rating: ~
-  - Chinese: 魏羽娸
-    id: N00200029
-    name: Vicky
-    password: yu
-    rating: ~
-  - Chinese: 黃哲禹
-    id: N02202113
-    name: Jeff
-    password: zhe
-    rating: ~
-  - Chinese: 盧廷杰
-    id: N00203002
-    name: Stephen
-    password: ting
-    rating: ~
-  - Chinese: 嚴佳馨
-    id: N00200031
-    name: Cindy
-    password: jia
-    rating: ~
-  
-  - Chinese: 王安妤
-    id: N96200030
-    name: Vivi
-    password: an
-    rating: ~
-  - Chinese: 吳紫彤
-    id: N01203003 
-    name: Esther
-    password: zi
-    rating: ~
-  
-  - Chinese: 王雅慧
-    id: N00200008
-    name: MiuMiu
-    password: ya
-    rating: ~
-  - Chinese: 林昱瑤
-    id: N00200037
-    name: Carol
-    password: yu
-    rating: ~
-  - Chinese: 呂恩華
-    id: N00200054
-    name: Alex
-    password: en
-    rating: ~
-  - Chinese: 陳宣貝
-    id: N00200025
-    name: Neil
-    password: xuan
-    rating: ~
-  - Chinese: 蔡秉倉
-    id: N00200055
-    name: Shane
-    password: bing
-    rating: ~
-  - Chinese: 徐頌華
-    id: N00200030
-    name: Dave
-    password: song
-    rating: ~
-  - Chinese: 蕭巧薇
-    id: N01202001
-    name: Eva
-    password: qiao
-    rating: ~
-  - Chinese: 徐敏華
-    id: N00200056
-    name: Mindy
-    password: min
-    rating: ~
-  - Chinese: 張芯瑀
-    id: N00200001
-    name: Carlos
-    password: xin
-    rating: ~
-  - Chinese: 林宜儒
-    id: N01202004
-    name: Louie
+  - Chinese: 張翊萱
+    id: B02200001
+    name: 張翊萱
     password: yi
     rating: ~
-  - Chinese: 潘信安
-    id: N00200017
-    name: Andy
-    password: xin
+  - Chinese: 徐子硯
+    id: B02200012
+    name: 徐子硯
+    password: zi
     rating: ~
-  - Chinese: 劉玉慧
-    id: N00200009
-    name: Denise
+  - Chinese: 武祖旋
+    id: B02200014
+    name: 武祖旋
+    password: zu
+    rating: ~
+  - Chinese: 張巧儒
+    id: B02200018
+    name: 張巧儒
+    password: qiao
+    rating: ~
+  - Chinese: 吳映葶
+    id: B02200024
+    name: 吳映葶
+    password: ying
+    rating: ~
+  - Chinese: 林玉玲
+    id: B02200026
+    name: 林玉玲
     password: yu
     rating: ~
-  - Chinese: 馮小蓉
-    id: N00200042
-    name: Kelly
+  - Chinese: 謝玉蘿
+    id: B02200030
+    name: 謝玉蘿
+    password: yu
+    rating: ~
+  - Chinese: 曾怡玲
+    id: B02200036
+    name: 曾怡玲
+    password: yi
+    rating: ~
+  - Chinese: 顏夢萱
+    id: B02200043
+    name: 顏夢萱
+    password: meng
+    rating: ~
+  - Chinese: 鄭佑展
+    id: B02200047
+    name: 鄭佑展
+    password: you
+    rating: ~
+  - Chinese: 游孟燕
+    id: B02200061
+    name: 游孟燕
+    password: meng
+    rating: ~
+  - Chinese: 古欣翎
+    id: B02200095
+    name: 古欣翎
+    password: xin
+    rating: ~
+  - Chinese: 李浩維
+    id: B02200003
+    name: 李浩維
+    password: hao
+    rating: ~
+  - Chinese: 賴蕭生
+    id: B02200005
+    name: 賴蕭生
     password: xiao
+    rating: ~
+  - Chinese: 鍾易儒
+    id: B02200019
+    name: 鍾易儒
+    password: yi
+    rating: ~
+  - Chinese: 蔡浤圳
+    id: B02200023
+    name: 蔡浤圳
+    password: hong
+    rating: ~
+  - Chinese: 賴偉誠
+    id: B02200027
+    name: 賴偉誠
+    password: wei
+    rating: ~
+  - Chinese: 江丞凱
+    id: B02200031
+    name: 江丞凱
+    password: cheng
+    rating: ~
+  - Chinese: 易睦淮
+    id: B02200060
+    name: 易睦淮
+    password: mu
+    rating: ~
+  - Chinese: 黃士軒
+    id: B02200066
+    name: 黃士軒
+    password: shi
+    rating: ~
+  - Chinese: 李錄源
+    id: B02200070
+    name: 李錄源
+    password: lu
+    rating: ~
+  - Chinese: 林羽涵
+    id: B02200074
+    name: 林羽涵
+    password: yu
+    rating: ~
+  - Chinese: 吳思穎
+    id: B02200084
+    name: 吳思穎
+    password: si
+    rating: ~
+  - Chinese: 姜瀚威
+    id: B02200098
+    name: 姜瀚威
+    password: han
     rating: ~
 out:
   - Chinese: 邱欣蘭
