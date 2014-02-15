@@ -1,17 +1,17 @@
 ---
 absent: ~
 active: ~
-anterior: 021FLA0006
+anterior: 022FLA0021
 approach: GroupworkNoFault
 classMax: 3
 examMax: 5
 exams: exam
-field: 職場英語
+field: 科技英文
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 022FLA0021
-league: 夜應外大學三甲
+id: 022FLA0027
+league: 夜應外大學四甲
 member:
   - Chinese: 劉茹芬
     id: N9661749
