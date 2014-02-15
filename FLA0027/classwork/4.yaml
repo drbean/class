@@ -1,0 +1,45 @@
+---
+Black:
+  absent: 
+  merits: 3
+Blue:
+  absent: 
+  merits: 2
+
+BlueBlue:
+  absent: 
+    - Jessica
+    - Vicki
+  merits: 3
+Brown:
+  absent: 
+  merits: 3
+
+Green:
+  absent: 
+  merits: 3
+BlackBlack:
+  absent:
+    - Rita
+  merits: 2
+
+Orange:
+  absent:
+    - Brenda
+    - Yvonne
+  merits: 2
+
+Pink:
+  absent: 
+  merits: 2
+Purple:
+  absent: 
+  merits: 3
+
+Yellow:
+  absent: 
+    - Leon
+  merits: 3
+White:
+  absent: 
+  merits: 2
