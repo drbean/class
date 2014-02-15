@@ -1,0 +1,70 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 10
+pass: 5
+assistant:
+    - Sophia
+absent:
+    - Rita
+    - Leon
+text: /home/drbean/class/media/cards.yaml
+activity:
+  hacking:
+    1:
+      - BlueBlue
+      - Purple
+      - Yellow
+  illegals:
+    1:
+      - BlackBlack
+      - Blue
+      - Pink
+      - White
+  espn:
+    0:
+      - Black
+      - Green
+      - Orange
+group:
+  Black:
+    - Yorick
+    - Andy
+    - Judy
+  BlackBlack:
+    - Leo
+    - Sandy
+    - Amy1
+  Blue:
+    - Katty
+    - Henry
+    - Vivian
+  BlueBlue:
+    - Jessica
+    - Vicki
+    - Diana
+  Green:
+    - Larry
+    - Adam
+    - Claire
+  Orange:
+    - Joan
+    - Brenda
+    - Sophia
+  Pink:
+    - Joanna
+    - Rei
+    - Sophia
+  Purple:
+    - Redd
+    - Wan-Ru
+    - YaTing1
+  White:
+    - Edward
+    - Joe
+    - Emily
+  Yellow:
+    - Amy2
+    - Ivy
+    - Hank
