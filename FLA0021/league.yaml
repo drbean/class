@@ -1,17 +1,17 @@
 ---
 absent: ~
 active: ~
-anterior: 012FLA0037
+anterior: 021FLA0006
 approach: GroupworkNoFault
 classMax: 3
 examMax: 5
 exams: exam
-field: 新聞英語
+field: 職場英語
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 021FLA0006
-league: 夜應外大學四甲
+id: 022FLA0021
+league: 夜應外大學三甲
 member:
   - Chinese: 劉茹芬
     id: N9661749
@@ -284,38 +284,10 @@ member:
     password: bai
     rating: ~
 out:
-  - Chinese: 楊千慧
-    id: V9941073
-    name: Yvonne
-    password: qian
-    rating: 72
-  - Chinese: 彭姿菁
-    id: V9941023
-    name: Rita
-    password: zi
-    rating: ~
-  - Chinese: 黃宇襄
-    id: V9941045
-    name: Jill
-    password: yu
-    rating: 89
-  - Chinese: 沈冠宇
-    id: V0141013
-    name: 沈冠宇
-    password: guan
-    rating: ~
-  - Chinese: 陳昱樺
-    id: V9724004
-    name: Nancy
-    password: yu
-    rating: 16
 room: A705
 school: nuu
 session:
   1: 1
-  2: 5
-  3: 10
-  4: 14
 weights:
   classwork: 40
   exams: 20
