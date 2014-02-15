@@ -20,7 +20,7 @@ member:
     rating: ~
   - Chinese: 李秉霖
     id: T9823041
-    name: 李秉霖
+    name: Larry
     password: bing
     rating: ~
   - Chinese: 蔣宜芸
@@ -65,8 +65,8 @@ member:
     rating: ~
   - Chinese: 王律予
     id: V0041039
-    name: 王律予
-    password: lÇ
+    name: Cindy
+    password: lu
     rating: ~
   - Chinese: 施彥菁
     id: V0041040
@@ -95,7 +95,7 @@ member:
     rating: ~
   - Chinese: 李葦唯
     id: V0041053
-    name: 李葦唯
+    name: Stella
     password: wei
     rating: ~
   - Chinese: 林詩庭
@@ -110,17 +110,17 @@ member:
     rating: ~
   - Chinese: 吳千羽
     id: V9841022
-    name: 吳千羽
+    name: Hank
     password: qian
     rating: ~
   - Chinese: 葉瓊惠
     id: V9841025
-    name: 葉瓊惠
+    name: Sandy
     password: qiong
     rating: ~
   - Chinese: 彭怡靜
     id: V9841028
-    name: 彭怡靜
+    name: Katty
     password: yi
     rating: ~
   - Chinese: 王國權
@@ -135,57 +135,57 @@ member:
     rating: ~
   - Chinese: 吳仰婷
     id: V9941001
-    name: 吳仰婷
+    name: Rei
     password: yang
     rating: ~
   - Chinese: 朱文章
     id: V9941007
-    name: 朱文章
+    name: Redd
     password: wen
     rating: ~
   - Chinese: 湯明勳
     id: V9941010
-    name: 湯明勳
+    name: Robert
     password: ming
     rating: ~
   - Chinese: 鍾興科
     id: V9941011
-    name: 鍾興科
+    name: Adam
     password: xing
     rating: ~
   - Chinese: '?翔義'
     id: V9941012
-    name: '?翔義'
+    name: Andy
     password: xiang
     rating: ~
   - Chinese: 洪詠舜
     id: V9941013
-    name: 洪詠舜
+    name: Edward
     password: yong
     rating: ~
   - Chinese: 涂為智
     id: V9941015
-    name: 涂為智
+    name: Henry
     password: wei
     rating: ~
   - Chinese: 彭姿菁
     id: V9941023
-    name: 彭姿菁
+    name: Rita
     password: zi
     rating: ~
   - Chinese: 陳乙瑄
     id: V9941025
-    name: 陳乙瑄
+    name: Sharon
     password: yi
     rating: ~
   - Chinese: 張真黛
     id: V9941026
-    name: 張真黛
+    name: Diana
     password: zhen
     rating: ~
   - Chinese: 楊琬茹
     id: V9941027
-    name: 楊琬茹
+    name: Wan-Ru
     password: wan
     rating: ~
   - Chinese: 古雅萱
@@ -195,57 +195,57 @@ member:
     rating: ~
   - Chinese: 張雅婷
     id: V9941029
-    name: 張雅婷
+    name: YaTing1
     password: ya
     rating: ~
   - Chinese: 洪欣慈
     id: V9941031
-    name: 洪欣慈
+    name: Hsin-Cih
     password: xin
     rating: ~
   - Chinese: 陳采玲
     id: V9941036
-    name: 陳采玲
+    name: Cai-ling
     password: cai
     rating: ~
   - Chinese: 劉紋君
     id: V9941037
-    name: 劉紋君
+    name: Vivian
     password: wen
     rating: ~
   - Chinese: 莊翌蝶
     id: V9941040
-    name: 莊翌蝶
+    name: Claire
     password: yi
     rating: ~
   - Chinese: 黃宇襄
     id: V9941045
-    name: 黃宇襄
+    name: Jill
     password: yu
     rating: ~
   - Chinese: 蕭莉娟
     id: V9941046
-    name: 蕭莉娟
+    name: LiJuan
     password: li
     rating: ~
   - Chinese: 徐婉綾
     id: V9941047
-    name: 徐婉綾
+    name: Emily
     password: wan
     rating: ~
   - Chinese: 詹春英
     id: V9941049
-    name: 詹春英
+    name: Amy
     password: chun
     rating: ~
   - Chinese: 詹春華
     id: V9941050
-    name: 詹春華
+    name: Judy
     password: chun
     rating: ~
   - Chinese: 張鉯芸
     id: V9941057
-    name: 張鉯芸
+    name: David
     password: yi
     rating: ~
   - Chinese: 沈子鈞
@@ -255,37 +255,37 @@ member:
     rating: ~
   - Chinese: 劉好英
     id: V9941067
-    name: 劉好英
+    name: Ivy
     password: hao
     rating: ~
   - Chinese: 徐艷昀
     id: V9941068
-    name: 徐艷昀
+    name: Yan-Yun
     password: yan
     rating: ~
   - Chinese: 蔡佩芸
     id: V9941069
-    name: 蔡佩芸
+    name: Pei-Yun
     password: pei
     rating: ~
   - Chinese: 陳雅婷
     id: V9941071
-    name: 陳雅婷
+    name: YaTing2
     password: ya
     rating: ~
   - Chinese: 楊千慧
     id: V9941073
-    name: 楊千慧
+    name: Yvonne
     password: qian
     rating: ~
   - Chinese: 林柏如
     id: V9941075
-    name: 林柏如
+    name: Brenda
     password: bai
     rating: ~
   - Chinese: 謝孟璇
     id: V9941076
-    name: 謝孟璇
+    name: MengShiung
     password: meng
     rating: ~
 out: ~
