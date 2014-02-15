@@ -1,0 +1,127 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: pope
+grade:
+  T9823041: 2
+  V9741044: 2
+  V9741064: 1.84
+  V9841010: 2
+  V9841011: 2
+  V9841022: 0
+  V9841025: 1.34
+  V9841028: 0.98
+  V9841042: 0
+  V9841049: 2
+  V9941001: 0
+  V9941007: 0
+  V9941011: 0
+  V9941012: 0
+  V9941013: 0
+  V9941015: 0
+  V9941022: 0
+  V9941026: 0
+  V9941027: 0
+  V9941029: 1.84
+  V9941037: 2
+  V9941040: 0
+  V9941047: 2
+  V9941049: 2
+  V9941050: 2
+  V9941059: 1.14
+  V9941060: 0
+  V9941067: 2
+  V9941075: 0
+  V9941077: 0
+points:
+  T9823041:
+    letters: 922
+    percent: 171
+  V9741044:
+    letters: 215
+    percent: 100
+  V9741064:
+    letters: 178
+    percent: 92
+  V9841010:
+    letters: 190
+    percent: 100
+  V9841011:
+    letters: 203
+    percent: 100
+  V9841022:
+    letters: 0
+    percent: 0
+  V9841025:
+    letters: 137
+    percent: 67
+  V9841028:
+    letters: 108
+    percent: 49
+  V9841042:
+    letters: 0
+    percent: 0
+  V9841049:
+    letters: 242
+    percent: 100
+  V9941001:
+    letters: 0
+    percent: 0
+  V9941007:
+    letters: 0
+    percent: 0
+  V9941011:
+    letters: 0
+    percent: 0
+  V9941012:
+    letters: 0
+    percent: 0
+  V9941013:
+    letters: 0
+    percent: 0
+  V9941015:
+    letters: 0
+    percent: 0
+  V9941022:
+    letters: 0
+    percent: 0
+  V9941026:
+    letters: 0
+    percent: 0
+  V9941027:
+    letters: 0
+    percent: 0
+  V9941029:
+    letters: 195
+    percent: 92
+  V9941037:
+    letters: 219
+    percent: 100
+  V9941040:
+    letters: 0
+    percent: 0
+  V9941047:
+    letters: 193
+    percent: 100
+  V9941049:
+    letters: 214
+    percent: 100
+  V9941050:
+    letters: 242
+    percent: 100
+  V9941059:
+    letters: 120
+    percent: 57
+  V9941060:
+    letters: 0
+    percent: 0
+  V9941067:
+    letters: 209
+    percent: 100
+  V9941075:
+    letters: 0
+    percent: 0
+  V9941077:
+    letters: 0
+    percent: 0
