@@ -1,0 +1,91 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: warm
+grade:
+  K220155482: 1.98
+  U0017024: 2
+  U0018027: 0
+  U0018046: 2
+  U0042012: 0
+  U0042031: 0
+  U0042041: 1.3
+  U0042050: 1.8
+  U0043001: 2
+  U0043004: 0
+  U0043033: 0
+  U0122002: 2
+  U0222133: 1.98
+  U0222228: 2
+  U9911237: 1.88
+  U9911242: 0
+  U9917017: 1.74
+  U9923120: 0
+  U9923121: 1.46
+  U9943007: 1.92
+  U9943019: 0
+points:
+  K220155482:
+    letters: 768
+    percent: 99
+  U0017024:
+    letters: 791
+    percent: 100
+  U0018027:
+    letters: 0
+    percent: 0
+  U0018046:
+    letters: 788
+    percent: 100
+  U0042012:
+    letters: 0
+    percent: 0
+  U0042031:
+    letters: 0
+    percent: 0
+  U0042041:
+    letters: 519
+    percent: 65
+  U0042050:
+    letters: 700
+    percent: 90
+  U0043001:
+    letters: 792
+    percent: 100
+  U0043004:
+    letters: 0
+    percent: 0
+  U0043033:
+    letters: 0
+    percent: 0
+  U0122002:
+    letters: 779
+    percent: 100
+  U0222133:
+    letters: 780
+    percent: 99
+  U0222228:
+    letters: 783
+    percent: 100
+  U9911237:
+    letters: 741
+    percent: 94
+  U9911242:
+    letters: 0
+    percent: 0
+  U9917017:
+    letters: 671
+    percent: 87
+  U9923120:
+    letters: 0
+    percent: 0
+  U9923121:
+    letters: 576
+    percent: 73
+  U9943007:
+    letters: 746
+    percent: 96
+  U9943019:
+    letters: 0
+    percent: 0
