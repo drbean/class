@@ -1,0 +1,117 @@
+---
+absent: ~
+anterior: 021GL00006
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 中級英文聽說訓練
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 022GL00005
+jigsaw: exam
+league: GL00005_日語文共同學制虛擬班二甲
+member:
+  - Chinese: 黃秉彰
+    id: U0010011
+    name: 黃秉彰
+    password: bing
+    rating: ~
+  - Chinese: 楊定融
+    id: U0021143
+    name: 楊定融
+    password: ding
+    rating: ~
+  - Chinese: 黃儀辰
+    id: U0023122
+    name: 黃儀辰
+    password: yi
+    rating: ~
+  - Chinese: 吳俊諺
+    id: U0023130
+    name: 吳俊諺
+    password: jun
+    rating: ~
+  - Chinese: 張瑜閔
+    id: U0031104
+    name: 張瑜閔
+    password: yu
+    rating: ~
+  - Chinese: 劉彥亨
+    id: U0042054
+    name: 劉彥亨
+    password: yan
+    rating: ~
+  - Chinese: 黃家輝
+    id: U0131109
+    name: 黃家輝
+    password: jia
+    rating: ~
+  - Chinese: 洪偉翔
+    id: U0131123
+    name: 洪偉翔
+    password: wei
+    rating: ~
+  - Chinese: 彭青億
+    id: U0134001
+    name: 彭青億
+    password: qing
+    rating: ~
+  - Chinese: 楊佳彬
+    id: U9816021
+    name: 楊佳彬
+    password: jia
+    rating: ~
+  - Chinese: 黃瀚毅
+    id: U9918027
+    name: 黃瀚毅
+    password: han
+    rating: ~
+  - Chinese: 林禹丞
+    id: U9921214
+    name: 林禹丞
+    password: yu
+    rating: ~
+  - Chinese: 廖顯旻
+    id: U9921230
+    name: 廖顯旻
+    password: xian
+    rating: ~
+  - Chinese: 陳彥銘
+    id: U9921240
+    name: 陳彥銘
+    password: yan
+    rating: ~
+  - Chinese: 吳啟平
+    id: U9924058
+    name: 吳啟平
+    password: qi
+    rating: ~
+  - Chinese: 廖雪惠
+    id: U9943044
+    name: 廖雪惠
+    password: xue
+    rating: ~
+  - Chinese: 李淯瑋
+    id: U9943053
+    name: 李淯瑋
+    password: yu
+    rating: ~
+out:
+room: 2110
+school: nuu
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 1
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
