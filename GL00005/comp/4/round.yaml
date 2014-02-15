@@ -1,0 +1,69 @@
+---
+activity:
+  salazar:
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  rueda:
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  vanbeke:
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+assistant:
+  Black:
+    U0043004: 5
+    U0122002: 5
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: U0018046
+    Black: U9917017
+  1:
+    White: U0018027
+    Black: U0042041
+  2:
+    White: U0043033
+    Black: U0222133
+  3:
+    White: U0042012
+    Black: U9923120
+  4:
+    White: U0017024
+    Black: U9923121
+  5:
+    White: U9943019
+    Black: U0043001
+  6:
+    White: K220155482
+    Black: U0222228
+  7:
+    White: U9943007
+    Black: U0042050
+late:
+pairing: swiss
+payprotocol: meritPay 4
+round: 4
+text: /home/drbean/class/conversation/poverty/cards.yaml
+week: 18

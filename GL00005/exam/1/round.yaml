@@ -1,0 +1,54 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 10
+pass: 5
+assistant:
+absent:
+  - Maddy
+  - Moomin
+  - Chung-Wei
+  - Yukin
+  - Simon
+text: /home/drbean/class/conversation/work/cards.yaml
+activity:
+  dickson:
+    2:
+      - Orange
+  abreu:
+    2:
+      - White
+  smallwood:
+    2:
+      - Blue
+      - Black
+  jackson:
+    2:
+      - Gray
+      - Green
+group:
+  Black:
+    - Tracy
+    - Penny
+    - Gillian
+  Blue:
+    - Danny
+    - KungHsing
+    - Dave
+  Gray:
+    - Amy
+    - Luisa
+    - Regina
+  Green:
+    - Rick
+    - Tiffany
+    - Carolyn
+  Orange:
+    - Peggy
+    - Mia
+    - Scotter
+  White:
+    - Li-Ting
+    - Angela
+    - Lance
