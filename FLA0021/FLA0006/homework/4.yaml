@@ -1,0 +1,141 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: espn
+grade:
+  V9841022: 0
+
+  T9823041: 2
+  V9741044: 0
+  V9741064: 1.42
+  V9841010: 2
+  V9841011: 1.96
+  V9841025: 1.88
+  V9841028: 0.74
+  V9841042: 1.54
+  V9841049: 2
+  V9941001: 0
+  V9941007: 0
+  V9941011: 0
+  V9941012: 2
+  V9941013: 0
+  V9941015: 2
+  V9941022: 1.6
+  V9941023: 0
+  V9941026: 2
+  V9941027: 1.1
+  V9941029: 1.96
+  V9941037: 0
+  V9941040: 0.28
+  V9941045: 0
+  V9941047: 1.52
+  V9941049: 2
+  V9941050: 2
+  V9941059: 1.88
+  V9941060: 0
+  V9941067: 2
+  V9941073: 0
+  V9941075: 0.98
+  V9941077: 1.56
+points:
+  V9841022:
+    letters: 0
+    percent: 0
+
+  T9823041:
+    letters: 277
+    percent: 100
+  V9741044:
+    letters: 0
+    percent: 0
+  V9741064:
+    letters: 212
+    percent: 71
+  V9841010:
+    letters: 337
+    percent: 100
+  V9841011:
+    letters: 293
+    percent: 98
+  V9841025:
+    letters: 296
+    percent: 94
+  V9841028:
+    letters: 105
+    percent: 37
+  V9841042:
+    letters: 219
+    percent: 77
+  V9841049:
+    letters: 254
+    percent: 100
+  V9941001:
+    letters: 0
+    percent: 0
+  V9941007:
+    letters: 0
+    percent: 0
+  V9941011:
+    letters: 0
+    percent: 0
+  V9941012:
+    letters: 297
+    percent: 100
+  V9941013:
+    letters: 0
+    percent: 0
+  V9941015:
+    letters: 285
+    percent: 100
+  V9941022:
+    letters: 233
+    percent: 80
+  V9941023:
+    letters: 0
+    percent: 0
+  V9941026:
+    letters: 278
+    percent: 100
+  V9941027:
+    letters: 184
+    percent: 55
+  V9941029:
+    letters: 300
+    percent: 98
+  V9941037:
+    letters: 0
+    percent: 0
+  V9941040:
+    letters: 41
+    percent: 14
+  V9941045:
+    letters: 0
+    percent: 0
+  V9941047:
+    letters: 208
+    percent: 76
+  V9941049:
+    letters: 317
+    percent: 100
+  V9941050:
+    letters: 298
+    percent: 100
+  V9941059:
+    letters: 282
+    percent: 94
+  V9941060:
+    letters: 0
+    percent: 0
+  V9941067:
+    letters: 314
+    percent: 100
+  V9941073:
+    letters: 0
+    percent: 0
+  V9941075:
+    letters: 151
+    percent: 49
+  V9941077:
+    letters: 247
+    percent: 78
