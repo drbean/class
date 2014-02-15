@@ -1,6 +1,6 @@
 ---
 absent: ~
-anterior: 021GL00006
+anterior: 022GL00005
 approach: GroupworkNoFault
 classMax: 3
 compcomp: comp
@@ -10,9 +10,9 @@ field: 中級英文聽說訓練
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 022GL00005
+id: 022GL00019
 jigsaw: exam
-league: GL00005_日語文共同學制虛擬班二甲
+league: GL00019_日語文共同學制虛擬班二甲
 member:
   - Chinese: 侯妙穎
     id: U0016044
@@ -80,7 +80,7 @@ member:
     password: zong
     rating: ~
 out: ~
-room: 2110
+room: A705
 school: nuu
 scores:
   bye: 5
