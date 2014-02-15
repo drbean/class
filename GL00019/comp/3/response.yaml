@@ -1,0 +1,240 @@
+---
+free:
+  1:
+    connell:
+      0:
+        U0043004:
+          point:
+            1: Returned
+        U9943019:
+          point:
+            1: Returned
+    warm:
+      0:
+        U0043004:
+          point:
+            1: Returned
+        U9943019:
+          point:
+            1: Nil
+    foreman:
+      0:
+        U0043004:
+          point:
+            1: Nil
+        U9943019:
+          point:
+            1: Returned
+    davist:
+      0:
+        U0043004:
+          point:
+            1: Returned
+        U9943019:
+          point:
+            1: Returned
+  2:
+    connell:
+      0:
+        U0122002:
+          point:
+            1: Nil
+        U9943007:
+          point:
+            1: Nil
+    warm:
+      0:
+        U0122002:
+          point:
+            1: Returned
+        U9943007:
+          point:
+            1: Returned
+    foreman:
+      0:
+        U0122002:
+          point:
+            1: Returned
+        U9943007:
+          point:
+            1: Returned
+    davist:
+      0:
+        U0122002:
+          point:
+            1: Returned
+            2: Returned
+        U9943007:
+          point:
+            1: Returned
+            2: Returned
+  4:
+    connell:
+      0:
+        U0222228:
+          point:
+            1: Returned
+            2: Returned
+        U0042012:
+          point:
+            1: Returned
+            2: Returned
+    warm:
+      0:
+        U0222228:
+          point:
+            1: Returned
+            2: Returned
+        U0042012:
+          point:
+            1: Returned
+            2: Returned
+    foreman:
+      0:
+        U0222228:
+          point:
+            1: Nil
+        U0042012:
+          point:
+            1: Nil
+    davist:
+      0:
+        U0222228:
+          point:
+            1: Nil
+        U0042012:
+          point:
+            1: Nil
+  5:
+    connell:
+      0:
+        U9923121:
+          point:
+            1: Unreturned
+        U0043033:
+          point:
+            1: Unreturned
+    warm:
+      0:
+        U9923121:
+          point:
+            1: Returned
+        U0043033:
+          point:
+            1: Old
+    foreman:
+      0:
+        U9923121:
+          point:
+            1: Returned
+        U0043033:
+          point:
+            1: Fault
+    davist:
+      0:
+        U9923121:
+          point:
+            1: Nil
+        U0043033:
+          point:
+            1: Fault
+  6:
+    connell:
+      0:
+        U0042050:
+          point:
+            1: Nil
+        U0018027:
+          point:
+            1: Nil
+    warm:
+      0:
+        U0042050:
+          point:
+            1: Nil
+        U0018027:
+          point:
+            1: Nil
+    foreman:
+      0:
+        U0042050:
+          point:
+            1: Returned
+        U0018027:
+          point:
+            1: Returned
+    davist:
+      0:
+        U0042050:
+          point:
+            1: Fault
+        U0018027:
+          point:
+            1: Returned
+  7:
+    connell:
+      0:
+        U0043001:
+          point:
+            1: Returned
+        U9917017:
+          point:
+            1: Returned
+    warm:
+      0:
+        U0043001:
+          point:
+            1: Old
+            2: Returned
+        U9917017:
+          point:
+            1: Returned
+    foreman:
+      0:
+        U0043001:
+          point:
+            1: Returned
+        U9917017:
+          point:
+            1: Returned
+    davist:
+      0:
+        U0043001:
+          point:
+            1: Returned
+        U9917017:
+          point:
+            1: Returned
+  9:
+    connell:
+      0:
+        U0017024:
+          point:
+            1: Returned
+        K220155482:
+          point:
+            1: Nil
+    warm:
+      0:
+        U0017024:
+          point:
+            1: Nil
+        K220155482:
+          point:
+            1: Returned
+    foreman:
+      0:
+        U0017024:
+          point:
+            1: Returned
+        K220155482:
+          point:
+            1: Nil
+    davist:
+      0:
+        U0017024:
+          point:
+            1: Nil
+        K220155482:
+          point:
+            1: Returned
