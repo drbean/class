@@ -1,0 +1,50 @@
+---
+# topic: news
+
+Green:
+  absent:
+    - Larry
+  merits: 2
+Black:
+  absent:
+    - Joe
+  merits: 3
+
+Blue:
+  absent:
+    - Redd
+  merits: 2
+Charcoal:
+  absent:
+    - Leon
+  merits: 3
+
+Chocolate:
+  absent:
+    - Edward
+  merits: 2
+Purple:
+  absent:
+    - Vicki
+    - Leo
+  merits: 3
+
+White:
+  absent:
+    - Wan-Ru
+  merits: 2
+Orange:
+  absent:
+    - Claire
+    - Yorick
+  merits: 3
+
+Pink:
+  absent:
+    - Jessica
+  merits: 2
+Yellow:
+  absent:
+    - Andy
+  merits: 3
+
