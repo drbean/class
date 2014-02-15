@@ -14,92 +14,72 @@ id: 022GL00005
 jigsaw: exam
 league: GL00005_日語文共同學制虛擬班二甲
 member:
-  - Chinese: 黃秉彰
-    id: U0010011
-    name: 黃秉彰
-    password: bing
+  - Chinese: 侯妙穎
+    id: U0016044
+    name: 侯妙穎
+    password: miao
     rating: ~
-  - Chinese: 楊定融
-    id: U0021143
-    name: 楊定融
-    password: ding
+  - Chinese: 黃德倫
+    id: U0022342
+    name: 黃德倫
+    password: de
     rating: ~
-  - Chinese: 黃儀辰
-    id: U0023122
-    name: 黃儀辰
+  - Chinese: 溫兆貫
+    id: U0022343
+    name: 溫兆貫
+    password: zhao
+    rating: ~
+  - Chinese: 蕭伊晴
+    id: U0042018
+    name: 蕭伊晴
     password: yi
     rating: ~
-  - Chinese: 吳俊諺
-    id: U0023130
-    name: 吳俊諺
-    password: jun
+  - Chinese: 龔鉉傑
+    id: U0110031
+    name: 龔鉉傑
+    password: xuan
     rating: ~
-  - Chinese: 張瑜閔
-    id: U0031104
-    name: 張瑜閔
-    password: yu
+  - Chinese: 林文裕
+    id: U0114114
+    name: 林文裕
+    password: wen
     rating: ~
-  - Chinese: 劉彥亨
-    id: U0042054
-    name: 劉彥亨
-    password: yan
+  - Chinese: 邱致豪
+    id: U9816034
+    name: 邱致豪
+    password: zhi
     rating: ~
-  - Chinese: 黃家輝
-    id: U0131109
-    name: 黃家輝
-    password: jia
+  - Chinese: 林治廷
+    id: U9911202
+    name: 林治廷
+    password: zhi
     rating: ~
-  - Chinese: 洪偉翔
-    id: U0131123
-    name: 洪偉翔
+  - Chinese: 周宏偉
+    id: U9911220
+    name: 周宏偉
+    password: hong
+    rating: ~
+  - Chinese: 楊柏輝
+    id: U9921226
+    name: 楊柏輝
+    password: bai
+    rating: ~
+  - Chinese: 朱偉德
+    id: U9921307
+    name: 朱偉德
     password: wei
     rating: ~
-  - Chinese: 彭青億
-    id: U0134001
-    name: 彭青億
-    password: qing
-    rating: ~
-  - Chinese: 楊佳彬
-    id: U9816021
-    name: 楊佳彬
-    password: jia
-    rating: ~
-  - Chinese: 黃瀚毅
-    id: U9918027
-    name: 黃瀚毅
-    password: han
-    rating: ~
-  - Chinese: 林禹丞
-    id: U9921214
-    name: 林禹丞
-    password: yu
-    rating: ~
-  - Chinese: 廖顯旻
-    id: U9921230
-    name: 廖顯旻
-    password: xian
-    rating: ~
-  - Chinese: 陳彥銘
-    id: U9921240
-    name: 陳彥銘
-    password: yan
-    rating: ~
-  - Chinese: 吳啟平
-    id: U9924058
-    name: 吳啟平
+  - Chinese: 江啟帆
+    id: U9921330
+    name: 江啟帆
     password: qi
     rating: ~
-  - Chinese: 廖雪惠
-    id: U9943044
-    name: 廖雪惠
-    password: xue
+  - Chinese: 呂宗憲
+    id: U9922008
+    name: 呂宗憲
+    password: zong
     rating: ~
-  - Chinese: 李淯瑋
-    id: U9943053
-    name: 李淯瑋
-    password: yu
-    rating: ~
-out:
+out: ~
 room: 2110
 school: nuu
 scores:
