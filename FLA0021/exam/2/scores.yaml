@@ -1,0 +1,63 @@
+---
+Chinese:
+  Black: 0
+  Blue: 0
+  BlueBlue: 0
+  Brown: 0
+  Green: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
+  White: 0
+  Yellow: 0
+letters:
+  Black:
+    V9941029: 5
+    T9823041: 6
+    V9841049: 5
+    story: wallace-oreilly0
+  Blue:
+    V9941029: 8
+    V9941040: 8
+    V9941026: 8
+    story: blair0
+  BlueBlue:
+    V9941012: 9
+    V9941037: 9
+    V9941050: 9
+    story: blair0
+  Brown:
+    V9741044: 6
+    V9741064: 6
+    V9841022: 6
+    story: blair0
+  Green:
+    V9841011: 5
+    V9741044: 5
+    V9941015: 5
+    story: wallace-oreilly0
+  Orange:
+    V9941007: 4
+    V9941047: 6
+    V9941022: 5
+    story: wallace-oreilly0
+  Pink:
+    V9941001: 8
+    V9841028: 8
+    V9941067: 8
+    story: blair0
+  Purple:
+    V9941075: 9
+    V9941049: 9
+    V9941011: 9
+    story: blair0
+  White:
+    V9841010: 7
+    V9941027: 7
+    V9841025: 8
+    story: wallace-oreilly0
+  Yellow:
+    V9941013: 5
+    V9841042: 5
+    V9941059: 7
+    story: wallace-oreilly0
