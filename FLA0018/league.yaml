@@ -28,11 +28,6 @@ member:
     name: 羅以翔
     password: yi
     rating: ~
-  - Chinese: 林志軍
-    id: V0041002
-    name: Brock
-    password: zhi
-    rating: ~
   - Chinese: 何嘉仁
     id: V0041005
     name: 何嘉仁
@@ -43,25 +38,10 @@ member:
     name: Oscar
     password: sheng
     rating: ~
-  - Chinese: 蔣宜芸
-    id: V0041008
-    name: I-Yun
-    password: yi
-    rating: ~
   - Chinese: 吳明勳
     id: V0041009
     name: MingShung
     password: ming
-    rating: ~
-  - Chinese: 劉信雄
-    id: V0041010
-    name: 劉信雄
-    password: xin
-    rating: ~
-  - Chinese: 王仁浩
-    id: V0041012
-    name: 王仁浩
-    password: ren
     rating: ~
   - Chinese: 段禹辰
     id: V0041015
@@ -83,75 +63,25 @@ member:
     name: 陳孟君
     password: meng
     rating: ~
-  - Chinese: 杜珮瑜
-    id: V0041028
-    name: 杜珮瑜
-    password: pei
-    rating: ~
-  - Chinese: 彭芷萱
-    id: V0041030
-    name: Jessie
-    password: zhi
-    rating: ~
-  - Chinese: 李名婷
-    id: V0041032
-    name: 李名婷
-    password: ming
-    rating: ~
   - Chinese: 徐己雁
     id: V0041033
     name: Eva
     password: ji
-    rating: ~
-  - Chinese: 古佩軒
-    id: V0041034
-    name: 古佩軒
-    password: pei
     rating: ~
   - Chinese: 劉詩吟
     id: V0041035
     name: Lucy
     password: shi
     rating: ~
-  - Chinese: 彭佳瑩
-    id: V0041036
-    name: 彭佳瑩
-    password: jia
-    rating: ~
-  - Chinese: 謝秀汾
-    id: V0041038
-    name: Show
-    password: xiu
-    rating: ~
   - Chinese: 王律予
     id: V0041039
     name: Cindy
     password: lu
     rating: ~
-  - Chinese: 施彥菁
-    id: V0041040
-    name: YanJing
-    password: yan
-    rating: ~
-  - Chinese: 賴于雯
-    id: V0041042
-    name: Yu-Wen
-    password: yu
-    rating: ~
-  - Chinese: 陳奐臻
-    id: V0041044
-    name: Amy2
-    password: huan
-    rating: ~
   - Chinese: 李昭儀
     id: V0041045
     name: JhaoYi
     password: zhao
-    rating: ~
-  - Chinese: 吳宛
-    id: V0041046
-    name: 吳宛
-    password: wan
     rating: ~
   - Chinese: 賴意穎
     id: V0041047
@@ -162,16 +92,6 @@ member:
     id: V0041049
     name: Nora
     password: zhi
-    rating: ~
-  - Chinese: 陳慶隆
-    id: V0041050
-    name: Charlie
-    password: qing
-    rating: ~
-  - Chinese: 李玉嘉
-    id: V0041052
-    name: 李玉嘉
-    password: yu
     rating: ~
   - Chinese: 李葦唯
     id: V0041053
@@ -188,35 +108,15 @@ member:
     name: Nina
     password: shi
     rating: ~
-  - Chinese: 陳煜楓
-    id: V0041058
-    name: 陳煜楓
-    password: yu
-    rating: ~
-  - Chinese: 張雅筑
-    id: V0041062
-    name: 張雅筑
-    password: ya
-    rating: ~
   - Chinese: 劉立強
     id: V0041065
     name: 劉立強
     password: li
     rating: ~
-  - Chinese: 馮永碇
-    id: V0041066
-    name: 馮永碇
-    password: yong
-    rating: ~
   - Chinese: 邱珞媺
     id: V0041067
     name: 邱珞媺
     password: luo
-    rating: ~
-  - Chinese: 古雅萱
-    id: V9941028
-    name: 古雅萱
-    password: ya
     rating: ~
   - Chinese: 沈子鈞
     id: V9941065
