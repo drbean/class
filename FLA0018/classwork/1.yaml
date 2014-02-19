@@ -1,0 +1,34 @@
+---
+Black:
+  absent: 
+  merits: 2
+Blue:
+  absent: 
+    - Innocent
+  merits: 3
+
+Brown:
+  absent: 
+  merits: 3
+Gray:
+  absent: 
+  merits: 2
+
+Orange:
+  absent: 
+    - Vicki
+  merits: 3
+Pink:
+  absent: 
+  merits: 2
+
+Purple:
+  absent:
+  merits: 2
+Red:
+  absent: 
+  merits: 3
+ 
+Yan-Ting:
+  absent: 
+  merits: 0
