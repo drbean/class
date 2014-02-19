@@ -1,0 +1,32 @@
+---
+# topic: interview
+
+# Black to Orange and Pink
+
+Black:
+  absent:
+  merits: 2.5
+
+Blue:
+  absent:
+  merits: 3
+Brown:
+  absent:
+  merits: 2
+
+Red:
+  absent:
+  merits: 3
+Purple:
+  absent:
+    - YaTing2
+  merits: 2
+
+Orange:
+  absent:
+    - Vivian
+  merits: 3
+Pink:
+  absent:
+  merits: 2
+
