@@ -219,7 +219,7 @@ member:
     name: MengShiung
     password: meng
     rating: ~
-out:
+
   - Chinese: 蔡佩芸
     id: V9941069
     name: Pei-Yun
@@ -295,6 +295,7 @@ out:
     name: Larry
     password: bing
     rating: ~
+out: ~
 room: A705
 school: nuu
 session:
