@@ -1,127 +1,59 @@
 ---
-cutpoints:
-  one: ~
-  two: ~
-exercise: hacking
-grade:
-  T9823041: 0
-  V9741044: 0
-  V9741064: 1.86
-  V9841010: 2
-  V9841025: 1.74
-  V9841028: 0.64
-  V9841042: 1.36
-  V9841049: 1.86
-  V9941001: 0
-  V9941007: 0
-  V9941011: 2
-  V9941012: 2
-  V9941013: 0
-  V9941015: 2
-  V9941022: 2
-  V9941023: 0
-  V9941026: 2
-  V9941027: 0.44
-  V9941029: 2
-  V9941037: 2
-  V9941040: 0
-  V9941045: 0
-  V9941047: 1.2
-  V9941049: 2
-  V9941050: 2
-  V9941059: 1.48
-  V9941060: 0
-  V9941067: 2
-  V9941073: 0
-  V9941075: 0
-points:
-  T9823041:
-    letters: 0
-    percent: 0
-  V9741044:
-    letters: 0
-    percent: 0
-  V9741064:
-    letters: 615
-    percent: 93
-  V9841010:
-    letters: 681
-    percent: 100
-  V9841025:
-    letters: 619
-    percent: 87
-  V9841028:
-    letters: 218
-    percent: 32
-  V9841042:
-    letters: 485
-    percent: 68
-  V9841049:
-    letters: 620
-    percent: 93
-  V9941001:
-    letters: 0
-    percent: 0
-  V9941007:
-    letters: 0
-    percent: 0
-  V9941011:
-    letters: 699
-    percent: 100
-  V9941012:
-    letters: 629
-    percent: 100
-  V9941013:
-    letters: 0
-    percent: 0
-  V9941015:
-    letters: 671
-    percent: 100
-  V9941022:
-    letters: 661
-    percent: 100
-  V9941023:
-    letters: 0
-    percent: 0
-  V9941026:
-    letters: 682
-    percent: 100
-  V9941027:
-    letters: 148
-    percent: 22
-  V9941029:
-    letters: 705
-    percent: 100
-  V9941037:
-    letters: 676
-    percent: 100
-  V9941040:
-    letters: 0
-    percent: 0
-  V9941045:
-    letters: 0
-    percent: 0
-  V9941047:
-    letters: 421
-    percent: 60
-  V9941049:
-    letters: 665
-    percent: 100
-  V9941050:
-    letters: 666
-    percent: 100
-  V9941059:
-    letters: 486
-    percent: 74
-  V9941060:
-    letters: 0
-    percent: 0
-  V9941067:
-    letters: 680
-    percent: 100
-  V9941073:
-    letters: 0
-    percent: 0
-  V9941075:
-    letters: 0
-    percent: 0
+Black:
+  absent:
+  merits: 3
+Blue:
+  absent:
+  merits: 3
+Brown:
+  absent:
+  merits: 3
+Gray:
+  absent:
+  merits: 3
+Green:
+  absent:
+  merits: 3
+Charcoal:
+  absent:
+  merits: 3
+Chocolate:
+  absent:
+  merits: 3
+Khaki:
+  absent:
+  merits: 3
+Orange:
+  absent:
+  merits: 3
+Pink:
+  absent:
+  merits: 3
+Purple:
+  absent:
+  merits: 3
+Red:
+  absent:
+  merits: 3
+White:
+  absent:
+  merits: 3
+Yellow:
+  absent:
+  merits: 3
+Silver:
+  absent:
+  merits: 3
+Violet:
+  absent:
+  merits: 3
+Golden:
+  absent:
+  merits: 0
+Beige:
+  absent:
+  merits: 0
+Turquoise:
+  absent:
+  merits: 0
+ungrouped:
