@@ -16,37 +16,37 @@ league: GL00019_日語文共同學制虛擬班二甲
 member:
   - Chinese: 侯妙穎
     id: U0016044
-    name: 侯妙穎
+    name: Mandy
     password: miao
     rating: ~
   - Chinese: 黃德倫
     id: U0022342
-    name: 黃德倫
+    name: Allan
     password: de
     rating: ~
   - Chinese: 溫兆貫
     id: U0022343
-    name: 溫兆貫
+    name: Kevin
     password: zhao
     rating: ~
   - Chinese: 蕭伊晴
     id: U0042018
-    name: 蕭伊晴
+    name: Christina
     password: yi
     rating: ~
   - Chinese: 龔鉉傑
     id: U0110031
-    name: 龔鉉傑
+    name: Jay
     password: xuan
     rating: ~
   - Chinese: 林文裕
     id: U0114114
-    name: 林文裕
+    name: Willie
     password: wen
     rating: ~
   - Chinese: 邱致豪
     id: U9816034
-    name: 邱致豪
+    name: Jeff
     password: zhi
     rating: ~
   - Chinese: 林治廷
@@ -66,7 +66,7 @@ member:
     rating: ~
   - Chinese: 朱偉德
     id: U9921307
-    name: 朱偉德
+    name: Wade
     password: wei
     rating: ~
   - Chinese: 江啟帆
