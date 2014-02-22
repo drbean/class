@@ -22,12 +22,12 @@ member:
   
   - Chinese: 黃秉彰
     id: U0010011
-    name: 黃秉彰
+    name: Fero
     password: bing
     rating: ~
   - Chinese: 楊定融
     id: U0021143
-    name: 楊定融
+    name: Jeff
     password: ding
     rating: ~
   - Chinese: 黃儀辰
@@ -37,12 +37,12 @@ member:
     rating: ~
   - Chinese: 吳俊諺
     id: U0023130
-    name: 吳俊諺
+    name: James
     password: jun
     rating: ~
   - Chinese: 張瑜閔
     id: U0031104
-    name: 張瑜閔
+    name: Angela
     password: yu
     rating: ~
   - Chinese: 劉彥亨
@@ -52,17 +52,17 @@ member:
     rating: ~
   - Chinese: 黃家輝
     id: U0131109
-    name: 黃家輝
+    name: Jack
     password: jia
     rating: ~
   - Chinese: 洪偉翔
     id: U0131123
-    name: 洪偉翔
+    name: Willy
     password: wei
     rating: ~
   - Chinese: 彭青億
     id: U0134001
-    name: 彭青億
+    name: Ann
     password: qing
     rating: ~
   - Chinese: 楊佳彬
@@ -82,22 +82,22 @@ member:
     rating: ~
   - Chinese: 廖顯旻
     id: U9921230
-    name: 廖顯旻
+    name: Jay
     password: xian
     rating: ~
   - Chinese: 陳彥銘
     id: U9921240
-    name: 陳彥銘
+    name: Richard
     password: yan
     rating: ~
   - Chinese: 吳啟平
     id: U9924058
-    name: 吳啟平
+    name: Lanker
     password: qi
     rating: ~
   - Chinese: 廖雪惠
     id: U9943044
-    name: 廖雪惠
+    name: Roseanne
     password: xue
     rating: ~
   - Chinese: 李淯瑋
