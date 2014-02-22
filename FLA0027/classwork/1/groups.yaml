@@ -1,44 +1,75 @@
 ---
 Black:
-  - Yorick
-  - Andy
-  - Judy
-BlackBlack:
-  - Rita
-  - Sandy
-  - Amy1
-Blue:
-  - Katty
-  - Henry
-  - Vivian
-BlueBlue:
-  - Jessica
-  - Vicki
-  - Diana
-Green:
-  - Larry
-  - Adam
-  - Claire
-Orange:
-  - Joan
-  - Brenda
-  - Yvonne
-Pink:
-  - Joanna
-  - Rei
-  - Sophia
-Purple:
-  - Redd
   - Wan-Ru
-  - YaTing1
-White:
+  - Brenda
+  - Vivian
+Blue:
+  - Jill
   - Edward
-  - Joe
-  - Emily
-Yellow:
-  - Amy2
-  - Ivy
-  - Leon
+  - Stella
 Brown:
-  - Leo
+  - Judy
+  - Robert
+  - 賴意穎
+Gray:
   - Hank
+  - Larry
+Green:
+  - 張馨方
+  - Amy
+Charcoal:
+  - Ivy
+  - 林詩庭
+  - Katty
+Chocolate:
+  - Redd
+  - YaTing1
+  - 鄭稚庭
+Khaki:
+  - Sharon
+  - Emily
+  - 李玉嘉
+Orange:
+  - Hsin-Cih
+  - Diana
+  - LiJuan
+Pink:
+  - 彭佳瑩
+  - 沈子鈞
+  - Adam
+Purple:
+  - 吳明勳
+  - Pei-Yun
+  - Cindy
+Red:
+  - 李澤爵
+  - Yan-Yun
+  - 謝秀汾
+White:
+  - YaTing2
+  - Cai-ling
+  - Yvonne
+Yellow:
+  - 劉茹芬
+  - 李名婷
+  - Andy
+Silver:
+  - 王國權
+  - Henry
+  - MengShiung
+Violet:
+  - 李昭儀
+  - 彭芷萱
+  - Rei
+Golden:
+  - Claire
+  - David
+  - Rita
+Beige:
+  - Sandy
+  - 施彥菁
+  - 蔣宜芸
+9-2:
+  - 徐己雁
+  - 古雅萱
+  - 杜珮瑜
