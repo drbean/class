@@ -14,6 +14,12 @@ id: 022GL00005
 jigsaw: exam
 league: GL00005_日語文共同學制虛擬班二甲
 member:
+  - Chinese: 李俊賢
+    id: U9911051
+    name: Vic
+    password: jun
+    rating: ~
+  
   - Chinese: 黃秉彰
     id: U0010011
     name: 黃秉彰
