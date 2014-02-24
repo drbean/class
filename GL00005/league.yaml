@@ -14,6 +14,17 @@ id: 022GL00005
 jigsaw: exam
 league: GL00005_日語文共同學制虛擬班二甲
 member:
+  - Chinese: 盧苑怡
+    id: U0014010
+    name: Lu
+    password: yuan
+    rating: ~
+  - Chinese: 陳思羽
+    id: U013411
+    name: Susan
+    password: si
+    rating: ~
+  
   - Chinese: 李俊賢
     id: U9911051
     name: Vic
@@ -72,7 +83,7 @@ member:
     rating: ~
   - Chinese: 黃瀚毅
     id: U9918027
-    name: 黃瀚毅
+    name: Argo
     password: han
     rating: ~
   - Chinese: 林禹丞
