@@ -14,6 +14,47 @@ id: AFB1J0
 jigsaw: exam
 league: BAF011_四技應外一甲
 member:
+  - Chinese: 黃歆璃
+    id: B02200045
+    name: Cynthia
+    password: xin
+    rating: ~
+  - Chinese: 陳采莉
+    id: B0220052
+    name: Cherry
+    password: cai
+    rating: ~
+  - Chinese: 廖婉廷
+    id: B02200064
+    name: Anita
+    password: wan
+    rating: ~
+  - Chinese: 陳君媛
+    id: B02200067
+    name: Iris
+    password: jun
+    rating: ~
+  - Chinese: 潘彥旻
+    id: B02200069
+    name: Oliver
+    password: yan
+    rating: ~
+  - Chinese: 林鈺雯
+    id: B02200088
+    name: Emily2
+    password: yu
+    rating: ~
+  - Chinese: 廖美芳
+    id: B02200089
+    name: Carol
+    password: mei
+    rating: ~
+  - Chinese: 邱亦萱
+    id: B02200097
+    name: Rene
+    password: yi
+    rating: ~
+  
   - Chinese: 張翊萱
     id: B02200001
     name: 張翊萱
