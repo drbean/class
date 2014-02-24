@@ -1,35 +1,20 @@
 ---
+# topic: 
+
 
 Black:
-  absent: 
+  absent:
   merits: 3
-Gray:
-  absent: 
-  merits: 2
-
 Blue:
-  absent: 
-  merits: 3
-Brown:
-  absent: 
-    - Kevin
-    - Elizabeth
+  absent:
   merits: 2
-
-Pink:
-  absent: 
-  merits: 0
-
-Orange:
-  absent: 
-  merits: 2
-Green:
-  absent: 
-  merits: 3
 
 White:
-  absent: 
+  absent:
   merits: 3
 Yellow:
-  absent: 
+  absent:
+  merits: 2
+
+Brown:
   merits: 2
