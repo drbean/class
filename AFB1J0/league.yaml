@@ -21,7 +21,7 @@ member:
     rating: ~
   - Chinese: 徐子硯
     id: B02200012
-    name: 徐子硯
+    name: Emily1
     password: zi
     rating: ~
   - Chinese: 武祖旋
@@ -31,7 +31,7 @@ member:
     rating: ~
   - Chinese: 張巧儒
     id: B02200018
-    name: 張巧儒
+    name: Alice
     password: qiao
     rating: ~
   - Chinese: 吳映葶
@@ -41,12 +41,12 @@ member:
     rating: ~
   - Chinese: 林玉玲
     id: B02200026
-    name: 林玉玲
+    name: Nikki
     password: yu
     rating: ~
   - Chinese: 謝玉蘿
     id: B02200030
-    name: 謝玉蘿
+    name: Doris
     password: yu
     rating: ~
   - Chinese: 曾怡玲
@@ -56,32 +56,32 @@ member:
     rating: ~
   - Chinese: 顏夢萱
     id: B02200043
-    name: 顏夢萱
+    name: May
     password: meng
     rating: ~
   - Chinese: 鄭佑展
     id: B02200047
-    name: 鄭佑展
+    name: Jeremy
     password: you
     rating: ~
   - Chinese: 游孟燕
     id: B02200061
-    name: 游孟燕
+    name: Silvi
     password: meng
     rating: ~
   - Chinese: 古欣翎
     id: B02200095
-    name: 古欣翎
+    name: Mila
     password: xin
     rating: ~
   - Chinese: 李浩維
     id: B02200003
-    name: 李浩維
+    name: Rice
     password: hao
     rating: ~
   - Chinese: 賴蕭生
     id: B02200005
-    name: 賴蕭生
+    name: Davis
     password: xiao
     rating: ~
   - Chinese: 鍾易儒
@@ -91,7 +91,7 @@ member:
     rating: ~
   - Chinese: 蔡浤圳
     id: B02200023
-    name: 蔡浤圳
+    name: Bruce
     password: hong
     rating: ~
   - Chinese: 賴偉誠
@@ -101,17 +101,17 @@ member:
     rating: ~
   - Chinese: 江丞凱
     id: B02200031
-    name: 江丞凱
+    name: Pizza
     password: cheng
     rating: ~
   - Chinese: 易睦淮
     id: B02200060
-    name: 易睦淮
+    name: Zack
     password: mu
     rating: ~
   - Chinese: 黃士軒
     id: B02200066
-    name: 黃士軒
+    name: Roger
     password: shi
     rating: ~
   - Chinese: 李錄源
@@ -131,7 +131,7 @@ member:
     rating: ~
   - Chinese: 姜瀚威
     id: B02200098
-    name: 姜瀚威
+    name: Wade
     password: han
     rating: ~
 out:
