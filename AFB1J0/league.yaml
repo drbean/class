@@ -55,30 +55,15 @@ member:
     password: yi
     rating: ~
   
-  - Chinese: 張翊萱
-    id: B02200001
-    name: 張翊萱
-    password: yi
-    rating: ~
   - Chinese: 徐子硯
     id: B02200012
     name: Emily1
     password: zi
     rating: ~
-  - Chinese: 武祖旋
-    id: B02200014
-    name: 武祖旋
-    password: zu
-    rating: ~
   - Chinese: 張巧儒
     id: B02200018
     name: Alice
     password: qiao
-    rating: ~
-  - Chinese: 吳映葶
-    id: B02200024
-    name: 吳映葶
-    password: ying
     rating: ~
   - Chinese: 林玉玲
     id: B02200026
@@ -89,11 +74,6 @@ member:
     id: B02200030
     name: Doris
     password: yu
-    rating: ~
-  - Chinese: 曾怡玲
-    id: B02200036
-    name: 曾怡玲
-    password: yi
     rating: ~
   - Chinese: 顏夢萱
     id: B02200043
@@ -125,20 +105,10 @@ member:
     name: Davis
     password: xiao
     rating: ~
-  - Chinese: 鍾易儒
-    id: B02200019
-    name: 鍾易儒
-    password: yi
-    rating: ~
   - Chinese: 蔡浤圳
     id: B02200023
     name: Bruce
     password: hong
-    rating: ~
-  - Chinese: 賴偉誠
-    id: B02200027
-    name: 賴偉誠
-    password: wei
     rating: ~
   - Chinese: 江丞凱
     id: B02200031
@@ -155,6 +125,42 @@ member:
     name: Roger
     password: shi
     rating: ~
+  - Chinese: 姜瀚威
+    id: B02200098
+    name: Wade
+    password: han
+    rating: ~
+out:
+  - Chinese: 張翊萱
+    id: B02200001
+    name: 張翊萱
+    password: yi
+    rating: ~
+  - Chinese: 武祖旋
+    id: B02200014
+    name: 武祖旋
+    password: zu
+    rating: ~
+  - Chinese: 吳映葶
+    id: B02200024
+    name: 吳映葶
+    password: ying
+    rating: ~
+  - Chinese: 曾怡玲
+    id: B02200036
+    name: 曾怡玲
+    password: yi
+    rating: ~
+  - Chinese: 鍾易儒
+    id: B02200019
+    name: 鍾易儒
+    password: yi
+    rating: ~
+  - Chinese: 賴偉誠
+    id: B02200027
+    name: 賴偉誠
+    password: wei
+    rating: ~
   - Chinese: 李錄源
     id: B02200070
     name: 李錄源
@@ -170,12 +176,6 @@ member:
     name: 吳思穎
     password: si
     rating: ~
-  - Chinese: 姜瀚威
-    id: B02200098
-    name: Wade
-    password: han
-    rating: ~
-out:
 room: feng-501
 school: must
 scores:
