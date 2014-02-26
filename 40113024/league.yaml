@@ -14,9 +14,15 @@ id: 40113024
 jigsaw: exam
 league: 應英(四技日)3E
 member:
+  - Chinese: 柳霞霞
+    id: 102500005
+    name: Cathy
+    password: xia
+    rating: ~
+  
   - Chinese: 林純懿
     id: 100405401
-    name: 林純懿
+    name: ChunYi
     password: chun
     rating: ~
   - Chinese: 廖啟翔
@@ -26,7 +32,7 @@ member:
     rating: ~
   - Chinese: 彭昱人
     id: 100405408
-    name: 彭昱人
+    name: YuRen
     password: yu
     rating: ~
   - Chinese: 陳奕璇
@@ -36,7 +42,7 @@ member:
     rating: ~
   - Chinese: 錢瑜靜
     id: 100405413
-    name: 錢瑜靜
+    name: YuChing
     password: yu
     rating: ~
   - Chinese: 張乃云
@@ -46,17 +52,17 @@ member:
     rating: ~
   - Chinese: 蔡瑄玲
     id: 100405425
-    name: 蔡瑄玲
+    name: HsuanLing
     password: xuan
     rating: ~
   - Chinese: 江家如
     id: 100405432
-    name: 江家如
+    name: JiaRu
     password: jia
     rating: ~
   - Chinese: 張惠雯
     id: 100405437
-    name: 張惠雯
+    name: Rita
     password: hui
     rating: ~
   - Chinese: 胡家昕
@@ -66,12 +72,12 @@ member:
     rating: ~
   - Chinese: 劉世脩
     id: 100405442
-    name: 劉世脩
+    name: Liu
     password: shi
     rating: ~
   - Chinese: 陳卉秈
     id: 100405444
-    name: 陳卉秈
+    name: Sherry
     password: hui
     rating: ~
   - Chinese: 賴伊婕
@@ -81,17 +87,17 @@ member:
     rating: ~
   - Chinese: 李若綺
     id: 100405507
-    name: 李若綺
+    name: Ina
     password: ruo
     rating: ~
   - Chinese: 王宇靚
     id: 100405508
-    name: 王宇靚
+    name: Anna
     password: yu
     rating: ~
   - Chinese: 陳昱臻
     id: 100405509
-    name: 陳昱臻
+    name: YuChen
     password: yu
     rating: ~
   - Chinese: 沈瑀潔
@@ -101,12 +107,12 @@ member:
     rating: ~
   - Chinese: 楊智鈞
     id: 100405514
-    name: 楊智鈞
+    name: Kim
     password: zhi
     rating: ~
   - Chinese: 曾琦茹
     id: 100405528
-    name: 曾琦茹
+    name: KiRu
     password: qi
     rating: ~
   - Chinese: 沈其威
@@ -116,27 +122,27 @@ member:
     rating: ~
   - Chinese: 黃若瑜
     id: 100405531
-    name: 黃若瑜
+    name: RoYu
     password: ruo
     rating: ~
   - Chinese: 廖若涵
     id: 100405536
-    name: 廖若涵
+    name: RoHang
     password: ruo
     rating: ~
   - Chinese: 黃婕琳
     id: 100405537
-    name: 黃婕琳
+    name: JieLin
     password: jie
     rating: ~
   - Chinese: 林客每
     id: 100405540
-    name: 林客每
+    name: KeMei
     password: ke
     rating: ~
   - Chinese: 林俐璇
     id: 100405541
-    name: 林俐璇
+    name: LinLi
     password: li
     rating: ~
   - Chinese: 王偉婷
@@ -146,27 +152,27 @@ member:
     rating: ~
   - Chinese: 陳衍任
     id: 100405545
-    name: 陳衍任
+    name: YanRen
     password: yan
     rating: ~
   - Chinese: 黃威評
     id: 100406863
-    name: 黃威評
+    name: WeiPing
     password: wei
     rating: ~
   - Chinese: 鄭紹洲
     id: 100406866
-    name: 鄭紹洲
+    name: Cheng
     password: shao
     rating: ~
   - Chinese: 劉惠文
     id: 100406867
-    name: 劉惠文
+    name: HuiWen
     password: hui
     rating: ~
   - Chinese: 黃敬家
     id: 100407024
-    name: 黃敬家
+    name: JingJia
     password: jing
     rating: ~
   - Chinese: 古佳佳
@@ -175,7 +181,7 @@ member:
     password: jia
     rating: ~
 out: ~
-room: 2110
+room: A705
 school: ydu
 scores:
   bye: 5
