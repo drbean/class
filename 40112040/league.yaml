@@ -16,32 +16,32 @@ league: 應英(四技日)2E
 member:
   - Chinese: 謝建達
     id: 100410915
-    name: 謝建達
+    name: 謝建iGAry
     password: jian
     rating: ~
   - Chinese: 陳詩函
     id: 101405301
-    name: 陳詩函
+    name: Angela1
     password: shi
     rating: ~
   - Chinese: 林佳欣
     id: 101405302
-    name: 林佳欣
+    name: Abby
     password: jia
     rating: ~
   - Chinese: 梁芮雲
     id: 101405304
-    name: 梁芮雲
+    name: Ann
     password: rui
     rating: ~
   - Chinese: 丁奕
     id: 101405307
-    name: 丁奕
+    name: Tommy
     password: yi
     rating: ~
   - Chinese: 田佩樺
     id: 101405308
-    name: 田佩樺
+    name: Christina
     password: pei
     rating: ~
   - Chinese: 彭麗傑
@@ -51,22 +51,22 @@ member:
     rating: ~
   - Chinese: 林志縯
     id: 101405316
-    name: 林志縯
+    name: Stanley
     password: zhi
     rating: ~
   - Chinese: 李祥慈
     id: 101405317
-    name: 李祥慈
+    name: Sharon
     password: xiang
     rating: ~
   - Chinese: 薛晴方
     id: 101405321
-    name: 薛晴方
+    name: Ariel
     password: qing
     rating: ~
   - Chinese: 陳微雯
     id: 101405324
-    name: 陳微雯
+    name: Vivian
     password: wei
     rating: ~
   - Chinese: 倪靈杰
@@ -81,7 +81,7 @@ member:
     rating: ~
   - Chinese: 羅碧盈
     id: 101405334
-    name: 羅碧盈
+    name: Rose
     password: bi
     rating: ~
   - Chinese: 蔡敏靖
@@ -91,57 +91,57 @@ member:
     rating: ~
   - Chinese: 羅允勝
     id: 101405341
-    name: 羅允勝
+    name: Fernando
     password: yun
     rating: ~
   - Chinese: 林佳潼
     id: 101405343
-    name: 林佳潼
+    name: 林佳iZoe
     password: jia
     rating: ~
   - Chinese: 林佾鋒
     id: 101405344
-    name: 林佾鋒
+    name: Todd
     password: yi
     rating: ~
   - Chinese: 張元銘
     id: 101405349
-    name: 張元銘
+    name: Jeff
     password: yuan
     rating: ~
   - Chinese: 彭梓育
     id: 101405351
-    name: 彭梓育
+    name: Tony
     password: zi
     rating: ~
   - Chinese: 謝采嬛
     id: 101405352
-    name: 謝采嬛
+    name: Liz
     password: cai
     rating: ~
   - Chinese: 陳奕廷
     id: 101405354
-    name: 陳奕廷
+    name: Larry
     password: yi
     rating: ~
   - Chinese: 鄭怡清
     id: 101405401
-    name: 鄭怡清
+    name: Sandy
     password: yi
     rating: ~
   - Chinese: 范嘉熒
     id: 101405405
-    name: 范嘉熒
+    name: Jessie
     password: jia
     rating: ~
   - Chinese: 古瑋婷
     id: 101405406
-    name: 古瑋婷
+    name: Tina
     password: wei
     rating: ~
   - Chinese: 鍾正宏
     id: 101405407
-    name: 鍾正宏
+    name: Bryan
     password: zheng
     rating: ~
   - Chinese: 呂瑋
@@ -151,22 +151,22 @@ member:
     rating: ~
   - Chinese: 顏韶谷
     id: 101405410
-    name: 顏韶谷
+    name: Mark
     password: shao
     rating: ~
   - Chinese: 楊紫筠
     id: 101405411
-    name: 楊紫筠
+    name: Joy
     password: zi
     rating: ~
   - Chinese: 廖婕云
     id: 101405414
-    name: 廖婕云
+    name: Cindy
     password: jie
     rating: ~
   - Chinese: 王茹慧
     id: 101405415
-    name: 王茹慧
+    name: Linda
     password: ru
     rating: ~
   - Chinese: 賴品睿
@@ -176,12 +176,12 @@ member:
     rating: ~
   - Chinese: 陳子傑
     id: 101405419
-    name: 陳子傑
+    name: Jack
     password: zi
     rating: ~
   - Chinese: 莊婉蓉
     id: 101405423
-    name: 莊婉蓉
+    name: Jhaung
     password: wan
     rating: ~
   - Chinese: 陳甄
@@ -196,12 +196,12 @@ member:
     rating: ~
   - Chinese: 陳玟樺
     id: 101405444
-    name: 陳玟樺
+    name: Nina
     password: wen
     rating: ~
   - Chinese: 李漢寧
     id: 101405447
-    name: 李漢寧
+    name: Kevin
     password: han
     rating: ~
   - Chinese: 西原良治
@@ -211,17 +211,17 @@ member:
     rating: ~
   - Chinese: 吳正瀚
     id: 101406959
-    name: 吳正瀚
+    name: Julien
     password: zheng
     rating: ~
   - Chinese: 黃欣萍
     id: 101406960
-    name: 黃欣萍
+    name: Claire
     password: xin
     rating: ~
   - Chinese: 徐國祐
     id: 101406961
-    name: 徐國祐
+    name: Elton
     password: guo
     rating: ~
   - Chinese: 張簡志偉
@@ -231,17 +231,17 @@ member:
     rating: ~
   - Chinese: 陳胤蓉
     id: 101406963
-    name: 陳胤蓉
+    name: Irene
     password: yin
     rating: ~
   - Chinese: 楊岱昀
     id: 99405120
-    name: 楊岱昀
+    name: Angela2
     password: dai
     rating: ~
   - Chinese: 歐宜欣
     id: 99407073
-    name: 歐宜欣
+    name: Lucy
     password: yi
     rating: ~
   - Chinese: 駱建樺
@@ -250,7 +250,7 @@ member:
     password: jian
     rating: ~
 out:
-room: 2110
+room: A705
 school: ydu
 scores:
   bye: 5
