@@ -15,7 +15,7 @@ league: 夜應外大學三甲
 member:
   - Chinese: 劉奕杞
     id: U0043041
-    name: 劉奕杞
+    name: Yvonne
     password: yi
     rating: ~
   - Chinese: 林志軍
@@ -30,7 +30,7 @@ member:
     rating: ~
   - Chinese: 吳明勳
     id: V0041009
-    name: MingShung
+    name: Jack
     password: ming
     rating: ~
   - Chinese: 王仁浩
@@ -40,7 +40,7 @@ member:
     rating: ~
   - Chinese: 邱國維
     id: V0041017
-    name: 邱國維
+    name: William
     password: guo
     rating: ~
   - Chinese: 陳孟君
@@ -70,7 +70,7 @@ member:
     rating: ~
   - Chinese: 施彥菁
     id: V0041040
-    name: YanJing
+    name: Sherry
     password: yan
     rating: ~
   - Chinese: 陳奐臻
@@ -80,7 +80,7 @@ member:
     rating: ~
   - Chinese: 吳宛
     id: V0041046
-    name: 吳宛
+    name: Camuel
     password: wan
     rating: ~
   - Chinese: 鄭稚庭
@@ -90,7 +90,7 @@ member:
     rating: ~
   - Chinese: 李玉嘉
     id: V0041052
-    name: 李玉嘉
+    name: Una
     password: yu
     rating: ~
   - Chinese: 王維君
@@ -100,13 +100,8 @@ member:
     rating: ~
   - Chinese: 陳煜楓
     id: V0041058
-    name: 陳煜楓
+    name: Vera
     password: yu
-    rating: ~
-  - Chinese: 劉立強
-    id: V0041065
-    name: 劉立強
-    password: li
     rating: ~
   - Chinese: 邱珞媺
     id: V0041067
@@ -115,7 +110,7 @@ member:
     rating: ~
   - Chinese: 沈子鈞
     id: V9941065
-    name: 沈子鈞
+    name: Bruce
     password: zi
     rating: ~
 out:
