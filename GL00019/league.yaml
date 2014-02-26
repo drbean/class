@@ -14,6 +14,17 @@ id: 022GL00019
 jigsaw: exam
 league: GL00019_日語文共同學制虛擬班二甲
 member:
+  - Chinese: 林奕嘉
+    id: U9918042
+    name: Popo
+    password: yi
+    rating: ~
+  - Chinese: 陳致浩
+    id: V9911001
+    name: Roger
+    password: zhi
+    rating: ~
+  
   - Chinese: 侯妙穎
     id: U0016044
     name: Mandy
