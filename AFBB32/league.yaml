@@ -14,16 +14,30 @@ id: AFBB32
 jigsaw: exam
 league: BAF021_四技應外二甲
 member:
-  - Chinese: 鍾佳君
-    id: B00200016
-    name: Rita
-    password: jia
+  - Chinese: 林鈺芸
+    id: B99100040
+    name: 林鈺芸
+    password: yu
     rating: ~
-
+  - Chinese: 鍾尚軒
+    id: B00232205
+    name: 鍾尚軒
+    password: shang
+    rating: ~
   - Chinese: 周誠
     id: B98200021
     name: 周誠
     password: cheng
+    rating: ~
+  - Chinese: 謝如晴
+    id: B99110055
+    name: 謝如晴
+    password: ru
+    rating: ~
+  - Chinese: 鍾佳君
+    id: B00200016
+    name: 鍾佳君
+    password: jia
     rating: ~
   - Chinese: 謝清丰
     id: B00170085
@@ -300,7 +314,7 @@ member:
     name: 林雅琴
     password: ya
     rating: ~
-out:
+out: ~
 room: A705
 school: must
 scores:
