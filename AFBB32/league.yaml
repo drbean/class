@@ -14,6 +14,12 @@ id: AFBB32
 jigsaw: exam
 league: BAF021_四技應外二甲
 member:
+  - Chinese: 鍾佳君
+    id: B00200016
+    name: Rita
+    password: jia
+    rating: ~
+
   - Chinese: 周誠
     id: B98200021
     name: 周誠
@@ -295,7 +301,7 @@ member:
     password: ya
     rating: ~
 out:
-room: feng-501
+room: A705
 school: must
 scores:
   bye: 5
