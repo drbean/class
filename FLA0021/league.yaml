@@ -13,6 +13,22 @@ hwMax: 2
 id: 022FLA0021
 league: 夜應外大學三甲
 member:
+  - Chinese: 邱珞媺
+    id: V0041067
+    name: Louise
+    password: luo
+    rating: ~
+  - Chinese: 洪欣慈
+    id: V9941031
+    name: HsinCih
+    password: xin
+    rating: ~
+  - Chinese: 李名婷
+    id: V0041032
+    name: Stephanie
+    password: ming
+    rating: ~
+  
   - Chinese: 劉茹芬
     id: N9661749
     name: Chelsea
