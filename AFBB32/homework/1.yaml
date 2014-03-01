@@ -4,208 +4,244 @@ cutpoints:
   two: ~
 exercise: dickson
 grade:
-  N00120056: 2
-  N00200001: 2
-  N00200003: 1.84
-  N00200006: 2
-  N00200007: 0
-  N00200008: 0
-  N00200009: 0
-  N00200010: 1.6
-  N00200013: 0
-  N00200014: 0
-  N00200015: 2
-  N00200017: 1.74
-  N00200018: 0
-  N00200022: 1.86
-  N00200025: 1.2
-  N00200027: 0
-  N00200029: 1.98
-  N00200030: 1.94
-  N00200031: 0
-  N00200032: 1.78
-  N00200034: 0.02
-  N00200036: 1.98
-  N00200037: 0
-  N00200042: 0
-  N00200043: 1.8
-  N00200044: 2
-  N00200045: 0
-  N00200047: 0
-  N00200048: 1.58
-  N00200051: 0
-  N00200054: 1.4
-  N00200055: 1.38
-  N00200056: 2
-  N00200058: 1.66
-  N00202103: 2
-  N01202001: 1.96
-  N01202002: 2
-  N01202003: 2
-  N01202004: 1.72
-  N01202101: 0
-  N01202103: 2
-  N01202104: 0
-  N01202105: 0
-  N02203101: 0
-  N02203102: 0
-  N97200033: 0
-  N98200021: 1.66
-  N98200037: 0
-  N99030025: 1.32
-  N99030033: 0
-  N99100009: 0
+  B00170085: 1.96
+  B00200016: 2
+  B00232205: 0
+  B01200001: 1.9
+  B01200002: 0.36
+  B01200003: 2
+  B01200006: 2
+  B01200008: 2
+  B01200012: 0
+  B01200014: 2
+  B01200016: 1.84
+  B01200018: 1.74
+  B01200020: 1.88
+  B01200022: 1.98
+  B01200024: 0
+  B01200026: 2
+  B01200028: 1.96
+  B01200030: 2
+  B01200032: 2
+  B01200034: 2
+  B01200036: 1.52
+  B01200038: 2
+  B01200040: 0
+  B01200042: 1.98
+  B01200045: 0
+  B01200047: 2
+  B01200049: 0
+  B01200051: 2
+  B01200053: 2
+  B01200055: 1.9
+  B01200057: 2
+  B01200059: 2
+  B01200061: 1.7
+  B01200063: 2
+  B01200065: 2
+  B01200067: 2
+  B01200069: 1.58
+  B01200071: 2
+  B01200073: 2
+  B01200075: 1.98
+  B01200077: 2
+  B01200081: 2
+  B01200083: 2
+  B01200085: 2
+  B01200089: 2
+  B01200093: 1.12
+  B01200095: 0
+  B01200097: 1.96
+  B01200101: 2
+  B01200103: 0
+  B01200107: 1.78
+  B01200113: 1.32
+  B01200115: 0
+  B02202101: 0
+  B02202104: 2
+  B02202106: 2
+  B98200021: 0
+  B99100040: 0
+  B99110055: 0
+  B99200063: 2
 points:
-  N00120056:
-    letters: 269
+  B00170085:
+    letters: 287
+    percent: 98
+  B00200016:
+    letters: 265
     percent: 100
-  N00200001:
-    letters: 285
+  B00232205:
+    letters: 0
+    percent: 0
+  B01200001:
+    letters: 280
+    percent: 95
+  B01200002:
+    letters: 52
+    percent: 18
+  B01200003:
+    letters: 296
     percent: 100
-  N00200003:
-    letters: 272
+  B01200006:
+    letters: 302
+    percent: 100
+  B01200008:
+    letters: 292
+    percent: 100
+  B01200012:
+    letters: 0
+    percent: 0
+  B01200014:
+    letters: 282
+    percent: 100
+  B01200016:
+    letters: 257
     percent: 92
-  N00200006:
-    letters: 273
+  B01200018:
+    letters: 248
+    percent: 87
+  B01200020:
+    letters: 302
+    percent: 94
+  B01200022:
+    letters: 305
+    percent: 99
+  B01200024:
+    letters: 0
+    percent: 0
+  B01200026:
+    letters: 255
     percent: 100
-  N00200007:
-    letters: 0
-    percent: 0
-  N00200008:
-    letters: 0
-    percent: 0
-  N00200009:
-    letters: 0
-    percent: 0
-  N00200010:
-    letters: 223
-    percent: 80
-  N00200013:
-    letters: 0
-    percent: 0
-  N00200014:
-    letters: 0
-    percent: 0
-  N00200015:
+  B01200028:
+    letters: 289
+    percent: 98
+  B01200030:
+    letters: 274
+    percent: 100
+  B01200032:
+    letters: 280
+    percent: 100
+  B01200034:
+    letters: 314
+    percent: 100
+  B01200036:
+    letters: 201
+    percent: 76
+  B01200038:
     letters: 308
     percent: 100
-  N00200017:
-    letters: 236
-    percent: 87
-  N00200018:
+  B01200040:
     letters: 0
     percent: 0
-  N00200022:
-    letters: 260
-    percent: 93
-  N00200025:
-    letters: 186
-    percent: 60
-  N00200027:
-    letters: 0
-    percent: 0
-  N00200029:
-    letters: 278
+  B01200042:
+    letters: 309
     percent: 99
-  N00200030:
-    letters: 303
-    percent: 97
-  N00200031:
+  B01200045:
     letters: 0
     percent: 0
-  N00200032:
-    letters: 239
-    percent: 89
-  N00200034:
-    letters: 3
-    percent: 1
-  N00200036:
-    letters: 276
-    percent: 99
-  N00200037:
-    letters: 0
-    percent: 0
-  N00200042:
-    letters: 0
-    percent: 0
-  N00200043:
-    letters: 266
-    percent: 90
-  N00200044:
-    letters: 268
+  B01200047:
+    letters: 286
     percent: 100
-  N00200045:
+  B01200049:
     letters: 0
     percent: 0
-  N00200047:
-    letters: 0
-    percent: 0
-  N00200048:
-    letters: 230
+  B01200051:
+    letters: 304
+    percent: 100
+  B01200053:
+    letters: 303
+    percent: 100
+  B01200055:
+    letters: 273
+    percent: 95
+  B01200057:
+    letters: 287
+    percent: 100
+  B01200059:
+    letters: 297
+    percent: 100
+  B01200061:
+    letters: 258
+    percent: 85
+  B01200063:
+    letters: 275
+    percent: 100
+  B01200065:
+    letters: 309
+    percent: 100
+  B01200067:
+    letters: 283
+    percent: 100
+  B01200069:
+    letters: 215
     percent: 79
-  N00200051:
-    letters: 0
-    percent: 0
-  N00200054:
-    letters: 205
-    percent: 70
-  N00200055:
-    letters: 220
-    percent: 69
-  N00200056:
+  B01200071:
+    letters: 284
+    percent: 100
+  B01200073:
+    letters: 282
+    percent: 100
+  B01200075:
+    letters: 271
+    percent: 99
+  B01200077:
+    letters: 266
+    percent: 100
+  B01200081:
+    letters: 280
+    percent: 100
+  B01200083:
     letters: 285
     percent: 100
-  N00200058:
-    letters: 246
-    percent: 83
-  N00202103:
-    letters: 319
+  B01200085:
+    letters: 284
     percent: 100
-  N01202001:
-    letters: 293
+  B01200089:
+    letters: 282
+    percent: 100
+  B01200093:
+    letters: 149
+    percent: 56
+  B01200095:
+    letters: 0
+    percent: 0
+  B01200097:
+    letters: 275
     percent: 98
-  N01202002:
-    letters: 277
+  B01200101:
+    letters: 257
     percent: 100
-  N01202003:
-    letters: 299
-    percent: 100
-  N01202004:
-    letters: 254
-    percent: 86
-  N01202101:
+  B01200103:
     letters: 0
     percent: 0
-  N01202103:
-    letters: 319
-    percent: 100
-  N01202104:
-    letters: 0
-    percent: 0
-  N01202105:
-    letters: 0
-    percent: 0
-  N02203101:
-    letters: 0
-    percent: 0
-  N02203102:
-    letters: 0
-    percent: 0
-  N97200033:
-    letters: 0
-    percent: 0
-  N98200021:
-    letters: 253
-    percent: 83
-  N98200037:
-    letters: 0
-    percent: 0
-  N99030025:
-    letters: 173
+  B01200107:
+    letters: 271
+    percent: 89
+  B01200113:
+    letters: 189
     percent: 66
-  N99030033:
+  B01200115:
     letters: 0
     percent: 0
-  N99100009:
+  B02202101:
     letters: 0
     percent: 0
+  B02202104:
+    letters: 280
+    percent: 100
+  B02202106:
+    letters: 305
+    percent: 100
+  B98200021:
+    letters: 0
+    percent: 0
+  B99100040:
+    letters: 0
+    percent: 0
+  B99110055:
+    letters: 0
+    percent: 0
+  B99200063:
+    letters: 316
+    percent: 100
