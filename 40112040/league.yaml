@@ -122,7 +122,7 @@ member:
     rating: ~
   - Chinese: 彭梓育
     id: 101405351
-    name: Tony
+    name: Tony1
     password: zi
     rating: ~
   - Chinese: 謝采嬛
@@ -252,7 +252,7 @@ member:
     rating: ~
   - Chinese: 駱建樺
     id: 99408213
-    name: Tony
+    name: Tony2
     password: jian
     rating: ~
 out:
