@@ -67,7 +67,7 @@ member:
     rating: ~
   - Chinese: 彭麗傑
     id: 101405315
-    name: 彭麗傑
+    name: Bella
     password: li
     rating: ~
   - Chinese: 林志縯
@@ -142,7 +142,7 @@ member:
     rating: ~
   - Chinese: 陳奕廷
     id: 101405354
-    name: Larry
+    name: Larry1
     password: yi
     rating: ~
   - Chinese: 鄭怡清
@@ -192,7 +192,7 @@ member:
     rating: ~
   - Chinese: 賴品睿
     id: 101405417
-    name: 賴品睿
+    name: Larry2
     password: pin
     rating: ~
   - Chinese: 陳子傑
@@ -207,7 +207,7 @@ member:
     rating: ~
   - Chinese: 陳甄
     id: 101405435
-    name: 陳甄
+    name: Alisa
     password: zhen
     rating: ~
   - Chinese: 林竹君
@@ -247,7 +247,7 @@ member:
     rating: ~
   - Chinese: 張簡志偉
     id: 101406962
-    name: 張簡志偉
+    name: Paul
     password: jian
     rating: ~
   - Chinese: 陳胤蓉
@@ -267,7 +267,7 @@ member:
     rating: ~
   - Chinese: 駱建樺
     id: 99408213
-    name: 駱建樺
+    name: Tony
     password: jian
     rating: ~
 out:
