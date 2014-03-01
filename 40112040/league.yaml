@@ -105,11 +105,6 @@ member:
     name: Rose
     password: bi
     rating: ~
-  - Chinese: 蔡敏靖
-    id: 101405339
-    name: 蔡敏靖
-    password: min
-    rating: ~
   - Chinese: 羅允勝
     id: 101405341
     name: Fernando
@@ -119,11 +114,6 @@ member:
     id: 101405343
     name: Zoe
     password: jia
-    rating: ~
-  - Chinese: 林佾鋒
-    id: 101405344
-    name: Todd
-    password: yi
     rating: ~
   - Chinese: 張元銘
     id: 101405349
@@ -139,11 +129,6 @@ member:
     id: 101405352
     name: Liz
     password: cai
-    rating: ~
-  - Chinese: 陳奕廷
-    id: 101405354
-    name: Larry1
-    password: yi
     rating: ~
   - Chinese: 鄭怡清
     id: 101405401
@@ -271,6 +256,21 @@ member:
     password: jian
     rating: ~
 out:
+  - Chinese: 陳奕廷
+    id: 101405354
+    name: Larry1
+    password: yi
+    rating: ~
+  - Chinese: 林佾鋒
+    id: 101405344
+    name: Todd
+    password: yi
+    rating: ~
+  - Chinese: 蔡敏靖
+    id: 101405339
+    name: 蔡敏靖
+    password: min
+    rating: ~
 room: A705
 school: ydu
 scores:
