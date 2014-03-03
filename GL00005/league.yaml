@@ -14,13 +14,29 @@ id: 022GL00005
 jigsaw: exam
 league: GL00005_日語文共同學制虛擬班二甲
 member:
+  - Chinese: 莊京曜
+    id: U9918035
+    name: Gavin
+    password: jing
+    rating: ~
+  - Chinese: 吳承威
+    id: U0134035
+    name: Weil
+    password: cheng
+    rating: ~
+  - Chinese: 葉慧慈
+    id: U0014136
+    name: Sharon
+    password: hui
+    rating: ~
+  
   - Chinese: 盧苑怡
     id: U0014010
     name: Lu
     password: yuan
     rating: ~
   - Chinese: 陳思羽
-    id: U013411
+    id: U0134011
     name: Susan
     password: si
     rating: ~
