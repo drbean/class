@@ -19,56 +19,55 @@ member:
     name: Cynthia
     password: xin
     rating: ~
-  - Chinese: 陳采莉
-    id: B02200052
-    name: Cherry
-    password: cai
+  - Chinese: 林鼎堯
+    id: B99020078
+    name: 林鼎堯
+    password: ding
     rating: ~
-  - Chinese: 廖婉廷
-    id: B02200064
-    name: Anita
-    password: wan
+  - Chinese: 李政賢
+    id: B99020001
+    name: 李政賢
+    password: zheng
     rating: ~
-  - Chinese: 陳君媛
-    id: B02200067
-    name: Iris
-    password: jun
-    rating: ~
-  - Chinese: 潘彥旻
-    id: B02200069
-    name: Oliver
-    password: yan
-    rating: ~
-  - Chinese: 林鈺雯
-    id: B02200088
-    name: Emily2
+  - Chinese: 蘇雨柔
+    id: B01203102
+    name: Betty
     password: yu
     rating: ~
-  - Chinese: 廖美芳
-    id: B02200089
-    name: Carol
-    password: mei
+  - Chinese: 羅宇淳
+    id: B01203103
+    name: Peggy
+    password: yu
     rating: ~
-  - Chinese: 邱亦萱
-    id: B02200097
-    name: Rene
+  - Chinese: 郭思瑩
+    id: B00200101
+    name: 郭思瑩
+    password: si
+    rating: ~
+  - Chinese: 徐毅騰
+    id: B02202201
+    name: Eaton
     password: yi
     rating: ~
-  
+  - Chinese: 李羽宣
+    id: B02202202
+    name: Sherry
+    password: yu
+    rating: ~
+  - Chinese: 吳珮君
+    id: B02202203
+    name: Vicky
+    password: pei
+    rating: ~
   - Chinese: 徐子硯
     id: B02200012
     name: Emily1
     password: zi
     rating: ~
-  - Chinese: 張巧儒
-    id: B02200018
-    name: Alice
-    password: qiao
-    rating: ~
-  - Chinese: 林玉玲
-    id: B02200026
-    name: Nikki
-    password: yu
+  - Chinese: 武祖旋
+    id: B02200014
+    name: Sam
+    password: zu
     rating: ~
   - Chinese: 謝玉蘿
     id: B02200030
@@ -90,47 +89,112 @@ member:
     name: Silvi
     password: meng
     rating: ~
-  - Chinese: 古欣翎
-    id: B02200095
-    name: Mila
-    password: xin
+  - Chinese: 潘彥旻
+    id: B02200069
+    name: Oliver
+    password: yan
+    rating: ~
+  - Chinese: 王宇
+    id: B02200093
+    name: Bruce2
+    password: yu
     rating: ~
   - Chinese: 李浩維
     id: B02200003
     name: Rice
     password: hao
     rating: ~
-  - Chinese: 賴蕭生
-    id: B02200005
-    name: Davis
-    password: xiao
-    rating: ~
-  - Chinese: 蔡浤圳
-    id: B02200023
-    name: Bruce
-    password: hong
+  - Chinese: 張乃心
+    id: B02200025
+    name: Mina
+    password: nai
     rating: ~
   - Chinese: 江丞凱
     id: B02200031
     name: Pizza
     password: cheng
     rating: ~
-  - Chinese: 易睦淮
-    id: B02200060
-    name: Zack
-    password: mu
+  - Chinese: 陳采莉
+    id: B02200052
+    name: Cherry
+    password: cai
+    rating: ~
+  - Chinese: 廖婉廷
+    id: B02200064
+    name: Anita
+    password: wan
     rating: ~
   - Chinese: 黃士軒
     id: B02200066
     name: Roger
     password: shi
     rating: ~
+  - Chinese: 陳君媛
+    id: B02200067
+    name: Iris
+    password: jun
+    rating: ~
+  - Chinese: 吳思穎
+    id: B02200084
+    name: Avis
+    password: si
+    rating: ~
+  - Chinese: 林鈺雯
+    id: B02200088
+    name: Emily2
+    password: yu
+    rating: ~
   - Chinese: 姜瀚威
     id: B02200098
     name: Wade
     password: han
     rating: ~
+  - Chinese: 楊欣憶
+    id: B02200106
+    name: Veronica
+    password: xin
+    rating: ~
 out:
+  - Chinese: 易睦淮
+    id: B02200060
+    name: Zack
+    password: mu
+    rating: ~
+  - Chinese: 蔡浤圳
+    id: B02200023
+    name: Bruce1
+    password: hong
+    rating: ~
+  - Chinese: 賴蕭生
+    id: B02200005
+    name: Davis
+    password: xiao
+    rating: ~
+  - Chinese: 古欣翎
+    id: B02200095
+    name: Mila
+    password: xin
+    rating: ~
+  - Chinese: 林玉玲
+    id: B02200026
+    name: Nikki
+    password: yu
+    rating: ~
+  - Chinese: 張巧儒
+    id: B02200018
+    name: Alice
+    password: qiao
+    rating: ~
+  - Chinese: 邱亦萱
+    id: B02200097
+    name: Rene
+    password: yi
+    rating: ~
+  - Chinese: 廖美芳
+    id: B02200089
+    name: Carol
+    password: mei
+    rating: ~
   - Chinese: 張翊萱
     id: B02200001
     name: 張翊萱
