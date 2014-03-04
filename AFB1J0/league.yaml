@@ -14,11 +14,6 @@ id: AFB1J0
 jigsaw: exam
 league: BAF011_四技應外一甲
 member:
-  - Chinese: 黃歆璃
-    id: B02200045
-    name: Cynthia
-    password: xin
-    rating: ~
   - Chinese: 林鼎堯
     id: B99020078
     name: 林鼎堯
@@ -155,6 +150,11 @@ member:
     password: xin
     rating: ~
 out:
+  - Chinese: 黃歆璃
+    id: B02200045
+    name: Cynthia
+    password: xin
+    rating: ~
   - Chinese: 易睦淮
     id: B02200060
     name: Zack
