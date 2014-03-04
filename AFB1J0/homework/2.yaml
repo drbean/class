@@ -2,98 +2,33 @@
 cutpoints:
   one: ~
   two: ~
-exercise: courseintro
+exercise: selfintro2
 grade:
-  N00200001: 2
-  N00200008: 0
-  N00200009: 1.3
-  N00200017: 0
-  N00200025: 0
-  N00200029: 0.54
-  N00200030: 1.88
-  N00200031: 0
-  N00200034: 0
-  N00200036: 0
-  N00200037: 1.46
-  N00200042: 0
-  N00200051: 0
-  N00200054: 1.46
-  N00200055: 0
-  N00200056: 2
-  N00203002: 0
-  N01202001: 0
-  N01202004: 0
-  N01203003: 0
-  N00200043: 0
-  N02202113: 0
-  N96200030: 0
+  B00200101: 0
+  B01203102: 0
+  B01203103: 2
+  B02200003: 0
+  B02200012: 2
+  B02200014: 0
+  B02200025: 0
+  B02200030: 0
+  B02200031: 0
+  B02200043: 0
+  B02200047: 0
+  B02200052: 0
+  B02200061: 2
+  B02200064: 0
+  B02200066: 0
+  B02200067: 2
+  B02200069: 2
+  B02200084: 2
+  B02200088: 0
+  B02200093: 2
+  B02200098: 0
+  B02200106: 0
+  B02202201: 2
+  B02202202: 2
+  B02202203: 0
+  B99020001: 0
+  B99020078: 0
 points:
-  N00200001:
-    letters: 300
-    percent: 100
-  N00200008:
-    letters: 0
-    percent: 0
-  N00200009:
-    letters: 185
-    percent: 65
-  N00200017:
-    letters: 0
-    percent: 0
-  N00200025:
-    letters: 0
-    percent: 0
-  N00200029:
-    letters: 85
-    percent: 27
-  N00200030:
-    letters: 271
-    percent: 94
-  N00200031:
-    letters: 0
-    percent: 0
-  N00200034:
-    letters: 0
-    percent: 0
-  N00200036:
-    letters: 0
-    percent: 0
-  N00200037:
-    letters: 212
-    percent: 73
-  N00200042:
-    letters: 0
-    percent: 0
-  N00200051:
-    letters: 0
-    percent: 0
-  N00200054:
-    letters: 227
-    percent: 73
-  N00200055:
-    letters: 0
-    percent: 0
-  N00200056:
-    letters: 323
-    percent: 100
-  N00203002:
-    letters: 0
-    percent: 0
-  N01202001:
-    letters: 0
-    percent: 0
-  N01202004:
-    letters: 0
-    percent: 0
-  N01203003:
-    letters: 0
-    percent: 0
-  N0200043:
-    letters: 0
-    percent: 0
-  N02202113:
-    letters: 0
-    percent: 0
-  N96200030:
-    letters: 0
-    percent: 0
