@@ -73,7 +73,7 @@ member:
     rating: ~
   - Chinese: 胡家昕
     id: 100405440
-    name: 胡家昕
+    name: Claire
     password: jia
     rating: ~
   - Chinese: 劉世脩
@@ -88,7 +88,7 @@ member:
     rating: ~
   - Chinese: 賴伊婕
     id: 100405501
-    name: 賴伊婕
+    name: Jenny
     password: yi
     rating: ~
   - Chinese: 李若綺
@@ -108,7 +108,7 @@ member:
     rating: ~
   - Chinese: 沈瑀潔
     id: 100405510
-    name: 沈瑀潔
+    name: Ariel
     password: yu
     rating: ~
   - Chinese: 楊智鈞
@@ -123,7 +123,7 @@ member:
     rating: ~
   - Chinese: 沈其威
     id: 100405529
-    name: 沈其威
+    name: Chris
     password: qi
     rating: ~
   - Chinese: 黃若瑜
@@ -183,7 +183,7 @@ member:
     rating: ~
   - Chinese: 古佳佳
     id: 101405311
-    name: 古佳佳
+    name: ChiaChia
     password: jia
     rating: ~
 out: ~
