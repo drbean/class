@@ -1,36 +1,48 @@
 ---
+# topic: 
 
 Black:
-  absent: 
-    - Penny
+  absent:
+    - Claire
   merits: 3
-Gray:
-  absent: 
-  merits: 3
-
 Blue:
-  absent: 
-  merits: 0
+  absent:
+  merits: 3
+
 Brown:
-  absent: 
-  merits: 0
+  absent:
+  merits: 3
+Chocolate:
+  absent:
+  merits: 3
 
-Pink:
-  absent: 
-  merits: 0
-
-Orange:
-  absent: 
-    - Scotter
+Charcoal:
+  absent:
   merits: 3
 Green:
-  absent: 
+  absent:
+    - ChiaChia
+  merits: 3
+
+Orange:
+  absent:
+  merits: 3
+Pink:
+  absent:
+    - Ariel
+  merits: 3
+
+Purple:
+  absent:
+    - Nei
+  merits: 3
+Yellow:
+  absent:
+    - Jenny
   merits: 3
 
 White:
-  absent: 
-    - Liting
+  absent:
+    - Chris
   merits: 3
-Yellow:
-  absent: 
-  merits: 3
+
