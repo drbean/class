@@ -13,6 +13,17 @@ hwMax: 2
 id: 022FLA0018
 league: 夜應外大學三甲
 member:
+  - Chinese: 余季平
+    id: V0041042
+    name: Joanne
+    password: ji
+    rating: ~
+  - Chinese: 王維君
+    id: V0041055
+    name: Vam
+    password: wei
+    rating: ~
+  
   - Chinese: 劉奕杞
     id: U0043041
     name: Yvonne
