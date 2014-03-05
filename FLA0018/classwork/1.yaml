@@ -1,34 +1,35 @@
 ---
+# topic: Dee
+
 Black:
-  absent: 
-  merits: 2
+  absent:
+  merits: 3
 Blue:
-  absent: 
-    - Innocent
+  absent:
   merits: 3
 
 Brown:
-  absent: 
+  absent:
   merits: 3
 Gray:
-  absent: 
-  merits: 2
+  absent:
+  merits: 3
 
 Orange:
-  absent: 
-    - Vicki
+  absent:
   merits: 3
 Pink:
-  absent: 
-  merits: 2
+  absent:
+  merits: 3
 
 Purple:
   absent:
-  merits: 2
-Red:
-  absent: 
+    - Joyce
+    - Louise
   merits: 3
- 
-Yan-Ting:
-  absent: 
-  merits: 0
+Red:
+  absent:
+    - Joanne
+    - Vam
+  merits: 3
+
