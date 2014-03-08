@@ -6,6 +6,7 @@ exercise: dickson
 grade:
   U0010011: 0.02
   U0014010: 0
+  U0014136: 2
   U0021143: 0
   U0023122: 0
   U0023130: 2
@@ -14,10 +15,12 @@ grade:
   U0131109: 0
   U0131123: 0
   U0134001: 0
-  U013411: 0
+  U0134011: 2
+  U0134035: 0
   U9816021: 0
   U9911051: 2
   U9918027: 0
+  U9918035: 0
   U9921214: 2
   U9921230: 2
   U9921240: 2
@@ -31,6 +34,9 @@ points:
   U0014010:
     letters: 0
     percent: 0
+  U0014136:
+    letters: 290
+    percent: 100
   U0021143:
     letters: 0
     percent: 0
@@ -55,7 +61,10 @@ points:
   U0134001:
     letters: 0
     percent: 0
-  U013411:
+  U0134011:
+    letters: 290
+    percent: 100
+  U0134035:
     letters: 0
     percent: 0
   U9816021:
@@ -65,6 +74,9 @@ points:
     letters: 292
     percent: 100
   U9918027:
+    letters: 0
+    percent: 0
+  U9918035:
     letters: 0
     percent: 0
   U9921214:
