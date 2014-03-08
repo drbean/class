@@ -1,42 +1,91 @@
 ---
-exercise: thoughts about speaking
+cutpoints:
+  one: ~
+  two: ~
+exercise: abreu
 grade:
-  9622299 : 0
-  N9561732: 3
-  N9661713: 3
-  N9661749: 3
-  U9616041: 3
-  V0099121_0921: 2
-  V9724004: 3
-  V9731059: 3
-  V9741009: 0
-  V9741010: 3
-  V9741014: 3
-  V9741016: 2
-  V9741018: 3
-  V9741023: 3
-  V9741024: 0
-  V9741025: 3
-  V9741029: 2
-  V9741030: 2
-  V9741032: 3
-  V9741034: 3
-  V9741036: 3
-  V9741037: 3
-  V9741040: 3
-  V9741041: 3
-  V9741042: 0
-  V9741043: 3
-  V9741047: 3
-  V9741048: 2
-  V9741049: 3
-  V9741053: 2
-  V9741055: 3
-  V9741057: 3
-  V9741059: 0
-  V9741060: 3
-  V9741061: 3
-  V9741064: 0
-  V9741065: 3
-  V9741066: 3
-  V9841014: 3
+  U0043041: 0
+  V0041002: 2
+  V0041007: 2
+  V0041009: 2
+  V0041012: 1.92
+  V0041017: 0
+  V0041025: 0
+  V0041030: 2
+  V0041033: 1.76
+  V0041035: 2
+  V0041038: 2
+  V0041040: 0
+  V0041042: 0
+  V0041044: 0
+  V0041046: 2
+  V0041049: 2
+  V0041052: 0
+  V0041055: 0
+  V0041058: 0
+  V0041067: 0
+  V9941065: 1.92
+points:
+  U0043041:
+    letters: 0
+    percent: 0
+  V0041002:
+    letters: 294
+    percent: 100
+  V0041007:
+    letters: 295
+    percent: 100
+  V0041009:
+    letters: 268
+    percent: 100
+  V0041012:
+    letters: 266
+    percent: 96
+  V0041017:
+    letters: 0
+    percent: 0
+  V0041025:
+    letters: 0
+    percent: 0
+  V0041030:
+    letters: 297
+    percent: 100
+  V0041033:
+    letters: 252
+    percent: 88
+  V0041035:
+    letters: 279
+    percent: 100
+  V0041038:
+    letters: 281
+    percent: 100
+  V0041040:
+    letters: 0
+    percent: 0
+  V0041042:
+    letters: 0
+    percent: 0
+  V0041044:
+    letters: 0
+    percent: 0
+  V0041046:
+    letters: 277
+    percent: 100
+  V0041049:
+    letters: 276
+    percent: 100
+  V0041052:
+    letters: 0
+    percent: 0
+  V0041055:
+    letters: 0
+    percent: 0
+  V0041058:
+    letters: 0
+    percent: 0
+  V0041067:
+    letters: 0
+    percent: 0
+  V9941065:
+    letters: 262
+    percent: 96
