@@ -1,36 +1,74 @@
 ---
 
 Black:
-  absent: 
-    - Penny
+  absent:
+    - 倪靈杰
+  merits: 3
+Blue:
+  absent:
+  tardy:
+    - Julien
+  merits: 3
+
+Brown:
+  tardy:
+    - Gary
+  absent:
   merits: 3
 Gray:
-  absent: 
+  absent:
+    - Shuai
   merits: 3
 
-Blue:
-  absent: 
-  merits: 0
-Brown:
-  absent: 
-  merits: 0
+Khaki:
+  absent:
+  merits: 3
+Chocolate:
+  absent:
+  merits: 3
 
-Pink:
-  absent: 
-  merits: 0
-
-Orange:
-  absent: 
-    - Scotter
+Charcoal:
+  absent:
   merits: 3
 Green:
-  absent: 
+  absent:
+    - Larry1
   merits: 3
 
-White:
-  absent: 
-    - Liting
+Orange:
+  absent:
+    - 呂瑋
   merits: 3
+Pink:
+  absent:
+    - 陳弘翊
+  merits: 3
+
+Purple:
+  tardy:
+    - Ann
+  absent:
+    - Alisa
+    - 林竹君
+  merits: 3
+Red:
+  absent:
+  merits: 3
+
+Violet:
+  absent:
+    - 西原良治
+  merits: 3
+Silver:
+  absent:
+  merits: 3
+
 Yellow:
-  absent: 
+  absent:
+    - Tony2
   merits: 3
+White:
+  absent:
+    - Paul
+  merits: 3
+
