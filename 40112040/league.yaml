@@ -14,6 +14,17 @@ id: 40112040
 jigsaw: exam
 league: 應英(四技日)2E
 member:
+  - Chinese: 陳奕廷
+    id: 101405354
+    name: Larry1
+    password: yi
+    rating: ~
+  - Chinese: 林佾鋒
+    id: 101405344
+    name: Todd
+    password: yi
+    rating: ~
+
   - Chinese: 楊淳旭
     id: 99406128
     name: Lawrence
@@ -195,11 +206,6 @@ member:
     name: Alisa
     password: zhen
     rating: ~
-  - Chinese: 林竹君
-    id: 101405438
-    name: 林竹君
-    password: zhu
-    rating: ~
   - Chinese: 陳玟樺
     id: 101405444
     name: Nina
@@ -209,11 +215,6 @@ member:
     id: 101405447
     name: Kevin
     password: han
-    rating: ~
-  - Chinese: 西原良治
-    id: 101405456
-    name: 西原良治
-    password: yuan
     rating: ~
   - Chinese: 吳正瀚
     id: 101406959
@@ -256,15 +257,20 @@ member:
     password: jian
     rating: ~
 out:
-  - Chinese: 陳奕廷
-    id: 101405354
-    name: Larry1
-    password: yi
+  - Chinese: 林竹君
+    id: 101405438
+    name: 林竹君
+    password: zhu
     rating: ~
-  - Chinese: 林佾鋒
-    id: 101405344
-    name: Todd
-    password: yi
+  - Chinese: 倪靈杰
+    id: 101405327
+    name: 倪靈杰
+    password: ling
+    rating: ~
+  - Chinese: 西原良治
+    id: 101405456
+    name: 西原良治
+    password: yuan
     rating: ~
   - Chinese: 蔡敏靖
     id: 101405339
