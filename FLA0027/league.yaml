@@ -13,6 +13,12 @@ hwMax: 2
 id: 022FLA0027
 league: 夜應外大學四甲
 member:
+  - Chinese: 郭芳萱
+    id: V9841033
+    name: Amber
+    password: fang
+    rating: ~
+  
   - Chinese: 李名婷
     id: V0041032
     name: Stephanie
