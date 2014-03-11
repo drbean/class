@@ -2,98 +2,33 @@
 cutpoints:
   one: ~
   two: ~
-exercise: mnemosyne
+exercise: selfintro transcription
 grade:
-  N00200001: 2
-  N00200008: 1.92
-  N00200009: 1.3
-  N00200017: 1.8
-  N00200025: 1.84
-  N00200029: 1.72
-  N00200030: 1.96
-  N00200031: 1.32
-  N00200034: 0
-  N00200036: 0
-  N00200037: 1.8
-  N00200042: 2
-  N00200051: 0
-  N00200054: 1.18
-  N00200055: 1.58
-  N00200056: 2
-  N00203002: 0
-  N01202001: 1.64
-  N01202004: 0.98
-  N01203003: 1.98
-  N00200043: 0
-  N02202113: 0
-  N96200030: 1.76
+  B00200101: 0
+  B01203102: 2
+  B01203103: 1
+  B02200003: 0
+  B02200012: 2
+  B02200014: 0
+  B02200025: 0
+  B02200030: 0
+  B02200031: 0
+  B02200043: 1
+  B02200047: 1
+  B02200052: 0
+  B02200061: 2
+  B02200064: 0
+  B02200066: 0
+  B02200067: 2
+  B02200069: 2
+  B02200084: 0
+  B02200088: 0
+  B02200093: 2
+  B02200098: 0
+  B02200106: 0
+  B02202201: 0
+  B02202202: 0
+  B02202203: 0
+  B99020001: 0
+  B99020078: 0
 points:
-  N00200001:
-    letters: 280
-    percent: 100
-  N00200008:
-    letters: 240
-    percent: 96
-  N00200009:
-    letters: 173
-    percent: 65
-  N00200017:
-    letters: 200
-    percent: 90
-  N00200025:
-    letters: 242
-    percent: 92
-  N00200029:
-    letters: 214
-    percent: 86
-  N00200030:
-    letters: 233
-    percent: 98
-  N00200031:
-    letters: 153
-    percent: 66
-  N00200034:
-    letters: 0
-    percent: 0
-  N00200036:
-    letters: 0
-    percent: 0
-  N00200037:
-    letters: 207
-    percent: 90
-  N00200042:
-    letters: 290
-    percent: 100
-  N00200051:
-    letters: 0
-    percent: 0
-  N00200054:
-    letters: 166
-    percent: 59
-  N00200055:
-    letters: 223
-    percent: 79
-  N00200056:
-    letters: 187
-    percent: 100
-  N00203002:
-    letters: 0
-    percent: 0
-  N01202001:
-    letters: 224
-    percent: 82
-  N01202004:
-    letters: 118
-    percent: 49
-  N01203003:
-    letters: 225
-    percent: 99
-  N0200043:
-    letters: 0
-    percent: 0
-  N02202113:
-    letters: 0
-    percent: 0
-  N96200030:
-    letters: 246
-    percent: 88
