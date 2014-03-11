@@ -16,7 +16,7 @@ league: BAF021_四技應外二甲
 member:
   - Chinese: 林鈺芸
     id: B99100040
-    name: 林鈺芸
+    name: Phoebe
     password: yu
     rating: ~
   - Chinese: 鍾尚軒
@@ -26,7 +26,7 @@ member:
     rating: ~
   - Chinese: 周誠
     id: B98200021
-    name: 周誠
+    name: Luke
     password: cheng
     rating: ~
   - Chinese: 謝如晴
@@ -36,7 +36,7 @@ member:
     rating: ~
   - Chinese: 鍾佳君
     id: B00200016
-    name: 鍾佳君
+    name: Rita
     password: jia
     rating: ~
   - Chinese: 謝清丰
@@ -101,7 +101,7 @@ member:
     rating: ~
   - Chinese: 鄭又瑋
     id: B01200024
-    name: 鄭又瑋
+    name: Roc
     password: you
     rating: ~
   - Chinese: 鄭珮珊
@@ -131,7 +131,7 @@ member:
     rating: ~
   - Chinese: 周楷軒
     id: B01200036
-    name: 周楷軒
+    name: Lorry
     password: kai
     rating: ~
   - Chinese: 陳思妤
@@ -196,7 +196,7 @@ member:
     rating: ~
   - Chinese: 李筠婷
     id: B01200063
-    name: 李筠婷
+    name: Penny
     password: yun
     rating: ~
   - Chinese: 張育芳
@@ -246,7 +246,7 @@ member:
     rating: ~
   - Chinese: 汪柍圻
     id: B01200085
-    name: 汪柍圻
+    name: Hola
     password: yang
     rating: ~
   - Chinese: 徐鈞屏
@@ -286,7 +286,7 @@ member:
     rating: ~
   - Chinese: 許翊萱
     id: B01200113
-    name: 許翊萱
+    name: Della
     password: yi
     rating: ~
   - Chinese: 呂承韓(外)
