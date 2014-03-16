@@ -2,98 +2,206 @@
 cutpoints:
   one: ~
   two: ~
-exercise: smallwood
+exercise: seixas
 grade:
-  K220155482: 1.96
-  M0210002: 0
-  U0017024: 1.88
-  U0018027: 0
-  U0018046: 2
-  U0031213: 0
-  U0042012: 0.16
-  U0042031: 0
-  U0042041: 1.9
-  U0042050: 1.92
-  U0043001: 2
-  U0043004: 2
-  U0043033: 1.96
-  U0122002: 2
-  U0222133: 1.78
-  U0222228: 2
-  U9911237: 2
-  U9911242: 2
-  U9917017: 1.74
-  U9923120: 1.82
-  U9923121: 1.8
-  U9943007: 1.76
-  U9943019: 0
+  100410260: 0
+  100410915: 0
+  100500262: 0
+  101405301: 0
+  101405302: 0
+  101405304: 0.12
+  101405307: 0
+  101405308: 0.06
+  101405311: 0
+  101405315: 0
+  101405316: 0.6
+  101405317: 0
+  101405321: 0.1
+  101405324: 0
+  101405332: 0
+  101405334: 0
+  101405341: 2
+  101405343: 0.5
+  101405344: 0
+  101405349: 2
+  101405351: 0
+  101405352: 2
+  101405354: 0
+  101405401: 0
+  101405405: 0
+  101405406: 0
+  101405407: 0.7
+  101405408: 0
+  101405410: 0
+  101405411: 0.06
+  101405414: 0.32
+  101405415: 0
+  101405417: 0
+  101405419: 0
+  101405423: 0
+  101405435: 0
+  101405444: 1.2
+  101405447: 1.3
+  101405658: 0
+  101406959: 0
+  101406960: 0.6
+  101406961: 0
+  101406962: 0
+  101406963: 0
+  101500124: 0
+  102500016: 0
+  99405120: 0
+  99406128: 0
+  99407073: 0
+  99408213: 0
 points:
-  K220155482:
-    letters: 290
-    percent: 98
-  M0210002:
+  100410260:
     letters: 0
     percent: 0
-  U0017024:
-    letters: 299
-    percent: 94
-  U0018027:
+  100410915:
     letters: 0
     percent: 0
-  U0018046:
-    letters: 317
-    percent: 100
-  U0031213:
+  100500262:
     letters: 0
     percent: 0
-  U0042012:
-    letters: 24
-    percent: 8
-  U0042031:
+  101405301:
     letters: 0
     percent: 0
-  U0042041:
-    letters: 331
-    percent: 95
-  U0042050:
-    letters: 302
-    percent: 96
-  U0043001:
-    letters: 334
+  101405302:
+    letters: 0
+    percent: 0
+  101405304:
+    letters: 12
+    percent: 6
+  101405307:
+    letters: 0
+    percent: 0
+  101405308:
+    letters: 5
+    percent: 3
+  101405311:
+    letters: 0
+    percent: 0
+  101405315:
+    letters: 0
+    percent: 0
+  101405316:
+    letters: 62
+    percent: 30
+  101405317:
+    letters: 0
+    percent: 0
+  101405321:
+    letters: 10
+    percent: 5
+  101405324:
+    letters: 0
+    percent: 0
+  101405332:
+    letters: 0
+    percent: 0
+  101405334:
+    letters: 0
+    percent: 0
+  101405341:
+    letters: 196
     percent: 100
-  U0043004:
-    letters: 346
+  101405343:
+    letters: 51
+    percent: 25
+  101405344:
+    letters: 0
+    percent: 0
+  101405349:
+    letters: 198
     percent: 100
-  U0043033:
-    letters: 323
-    percent: 98
-  U0122002:
-    letters: 294
+  101405351:
+    letters: 0
+    percent: 0
+  101405352:
+    letters: 191
     percent: 100
-  U0222133:
-    letters: 305
-    percent: 89
-  U0222228:
-    letters: 315
-    percent: 100
-  U9911237:
-    letters: 335
-    percent: 100
-  U9911242:
-    letters: 310
-    percent: 100
-  U9917017:
-    letters: 288
-    percent: 87
-  U9923120:
-    letters: 324
-    percent: 91
-  U9923121:
-    letters: 244
-    percent: 90
-  U9943007:
-    letters: 279
-    percent: 88
-  U9943019:
+  101405354:
+    letters: 0
+    percent: 0
+  101405401:
+    letters: 0
+    percent: 0
+  101405405:
+    letters: 0
+    percent: 0
+  101405406:
+    letters: 0
+    percent: 0
+  101405407:
+    letters: 72
+    percent: 35
+  101405408:
+    letters: 0
+    percent: 0
+  101405410:
+    letters: 0
+    percent: 0
+  101405411:
+    letters: 6
+    percent: 3
+  101405414:
+    letters: 31
+    percent: 16
+  101405415:
+    letters: 0
+    percent: 0
+  101405417:
+    letters: 0
+    percent: 0
+  101405419:
+    letters: 0
+    percent: 0
+  101405423:
+    letters: 0
+    percent: 0
+  101405435:
+    letters: 0
+    percent: 0
+  101405444:
+    letters: 122
+    percent: 60
+  101405447:
+    letters: 129
+    percent: 65
+  101405658:
+    letters: 0
+    percent: 0
+  101406959:
+    letters: 0
+    percent: 0
+  101406960:
+    letters: 59
+    percent: 30
+  101406961:
+    letters: 0
+    percent: 0
+  101406962:
+    letters: 0
+    percent: 0
+  101406963:
+    letters: 0
+    percent: 0
+  101500124:
+    letters: 0
+    percent: 0
+  102500016:
+    letters: 0
+    percent: 0
+  99405120:
+    letters: 0
+    percent: 0
+  99406128:
+    letters: 0
+    percent: 0
+  99407073:
+    letters: 0
+    percent: 0
+  99408213:
     letters: 0
     percent: 0
