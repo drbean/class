@@ -1,0 +1,207 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: douglas
+grade:
+  100410260: 0
+  100410915: 0
+  100500262: 0
+  101405301: 1.54
+  101405302: 0
+  101405304: 2
+  101405307: 0
+  101405308: 2
+  101405311: 0
+  101405315: 0
+  101405316: 2
+  101405317: 0
+  101405321: 2
+  101405324: 1.96
+  101405332: 0
+  101405334: 2
+  101405341: 2
+  101405343: 0.48
+  101405344: 0
+  101405349: 2
+  101405351: 0
+  101405352: 2
+  101405354: 0
+  101405401: 0
+  101405405: 2
+  101405406: 0.66
+  101405407: 1.28
+  101405408: 0
+  101405410: 0
+  101405411: 1.5
+  101405414: 1.82
+  101405415: 0.8
+  101405417: 1.06
+  101405419: 2
+  101405423: 0
+  101405435: 0
+  101405444: 1.98
+  101405447: 1.98
+  101405658: 0
+  101406959: 0
+  101406960: 1.82
+  101406961: 2
+  101406962: 0
+  101406963: 0
+  101500124: 0
+  102500016: 0
+  99405120: 0
+  99406128: 0
+  99407073: 0
+  99408213: 0
+points:
+  100410260:
+    letters: 0
+    percent: 0
+  100410915:
+    letters: 0
+    percent: 0
+  100500262:
+    letters: 0
+    percent: 0
+  101405301:
+    letters: 157
+    percent: 77
+  101405302:
+    letters: 0
+    percent: 0
+  101405304:
+    letters: 202
+    percent: 100
+  101405307:
+    letters: 0
+    percent: 0
+  101405308:
+    letters: 186
+    percent: 100
+  101405311:
+    letters: 0
+    percent: 0
+  101405315:
+    letters: 0
+    percent: 0
+  101405316:
+    letters: 183
+    percent: 100
+  101405317:
+    letters: 0
+    percent: 0
+  101405321:
+    letters: 154
+    percent: 100
+  101405324:
+    letters: 183
+    percent: 98
+  101405332:
+    letters: 0
+    percent: 0
+  101405334:
+    letters: 193
+    percent: 100
+  101405341:
+    letters: 213
+    percent: 100
+  101405343:
+    letters: 56
+    percent: 24
+  101405344:
+    letters: 0
+    percent: 0
+  101405349:
+    letters: 214
+    percent: 100
+  101405351:
+    letters: 0
+    percent: 0
+  101405352:
+    letters: 184
+    percent: 100
+  101405354:
+    letters: 0
+    percent: 0
+  101405401:
+    letters: 0
+    percent: 0
+  101405405:
+    letters: 180
+    percent: 100
+  101405406:
+    letters: 67
+    percent: 33
+  101405407:
+    letters: 137
+    percent: 64
+  101405408:
+    letters: 0
+    percent: 0
+  101405410:
+    letters: 0
+    percent: 0
+  101405411:
+    letters: 147
+    percent: 75
+  101405414:
+    letters: 172
+    percent: 91
+  101405415:
+    letters: 74
+    percent: 40
+  101405417:
+    letters: 100
+    percent: 53
+  101405419:
+    letters: 194
+    percent: 100
+  101405423:
+    letters: 0
+    percent: 0
+  101405435:
+    letters: 0
+    percent: 0
+  101405444:
+    letters: 186
+    percent: 99
+  101405447:
+    letters: 189
+    percent: 99
+  101405658:
+    letters: 0
+    percent: 0
+  101406959:
+    letters: 0
+    percent: 0
+  101406960:
+    letters: 177
+    percent: 91
+  101406961:
+    letters: 187
+    percent: 100
+  101406962:
+    letters: 0
+    percent: 0
+  101406963:
+    letters: 0
+    percent: 0
+  101500124:
+    letters: 0
+    percent: 0
+  102500016:
+    letters: 0
+    percent: 0
+  99405120:
+    letters: 0
+    percent: 0
+  99406128:
+    letters: 0
+    percent: 0
+  99407073:
+    letters: 0
+    percent: 0
+  99408213:
+    letters: 0
+    percent: 0
