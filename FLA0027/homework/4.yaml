@@ -1,141 +1,293 @@
 ---
-cutpoints:
-  one: ~
-  two: ~
-exercise: espn
 grade:
-  V9841022: 0
-
-  T9823041: 2
-  V9741044: 0
-  V9741064: 1.42
-  V9841010: 2
-  V9841011: 1.96
-  V9841025: 1.88
-  V9841028: 0.74
-  V9841042: 1.54
-  V9841049: 2
-  V9941001: 0
-  V9941007: 0
-  V9941011: 0
-  V9941012: 2
-  V9941013: 0
-  V9941015: 2
-  V9941022: 1.6
-  V9941023: 0
-  V9941026: 2
-  V9941027: 1.1
-  V9941029: 1.96
-  V9941037: 0
-  V9941040: 0.28
-  V9941045: 0
-  V9941047: 1.52
-  V9941049: 2
-  V9941050: 2
-  V9941059: 1.88
-  V9941060: 0
-  V9941067: 2
-  V9941073: 0
-  V9941075: 0.98
-  V9941077: 1.56
+  N9661749:   ~
+  T9823041:   ~
+  V0041008:   ~
+  V0041009:   ~
+  V0041028:   ~
+  V0041030:   ~
+  V0041032:   ~
+  V0041033:   ~
+  V0041036:   ~
+  V0041038:   ~
+  V0041039:   ~
+  V0041040:   ~
+  V0041045:   ~
+  V0041047:   ~
+  V0041049:   ~
+  V0041052:   ~
+  V0041053:   ~
+  V0041057:   ~
+  V0141042:   ~
+  V9841017:   ~
+  V9841022:   ~
+  V9841025:   ~
+  V9841028:   ~
+  V9841033:   ~
+  V9841051:   ~
+  V9841069:   ~
+  V9841071:   ~
+  V9941001:   ~
+  V9941007:   ~
+  V9941010:   ~
+  V9941011:   ~
+  V9941012:   ~
+  V9941013:   ~
+  V9941015:   ~
+  V9941023:   ~
+  V9941025:   ~
+  V9941026:   ~
+  V9941027:   ~
+  V9941028:   ~
+  V9941029:   ~
+  V9941031:   ~
+  V9941036:   ~
+  V9941037:   ~
+  V9941040:   ~
+  V9941045:   ~
+  V9941046:   ~
+  V9941047:   ~
+  V9941049:   ~
+  V9941050:   ~
+  V9941057:   ~
+  V9941065:   ~
+  V9941067:   ~
+  V9941068:   ~
+  V9941069:   ~
+  V9941071:   ~
+  V9941073:   ~
+  V9941075:   ~
+  V9941076:   ~
 points:
-  V9841022:
-    letters: 0
-    percent: 0
-
+  N9661749:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   T9823041:
-    letters: 277
-    percent: 100
-  V9741044:
-    letters: 0
-    percent: 0
-  V9741064:
-    letters: 212
-    percent: 71
-  V9841010:
-    letters: 337
-    percent: 100
-  V9841011:
-    letters: 293
-    percent: 98
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0041008:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0041009:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0041028:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0041030:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0041032:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0041033:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0041036:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0041038:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0041039:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0041040:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0041045:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0041047:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0041049:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0041052:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0041053:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0041057:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V0141042:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9841017:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9841022:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9841025:
-    letters: 296
-    percent: 94
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9841028:
-    letters: 105
-    percent: 37
-  V9841042:
-    letters: 219
-    percent: 77
-  V9841049:
-    letters: 254
-    percent: 100
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9841033:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9841051:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9841069:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9841071:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941001:
-    letters: 0
-    percent: 0
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941007:
-    letters: 0
-    percent: 0
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9941010:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941011:
-    letters: 0
-    percent: 0
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941012:
-    letters: 297
-    percent: 100
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941013:
-    letters: 0
-    percent: 0
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941015:
-    letters: 285
-    percent: 100
-  V9941022:
-    letters: 233
-    percent: 80
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941023:
-    letters: 0
-    percent: 0
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9941025:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941026:
-    letters: 278
-    percent: 100
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941027:
-    letters: 184
-    percent: 55
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9941028:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941029:
-    letters: 300
-    percent: 98
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9941031:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9941036:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941037:
-    letters: 0
-    percent: 0
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941040:
-    letters: 41
-    percent: 14
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941045:
-    letters: 0
-    percent: 0
+    sunday:   1
+    tuesday:   ~
+    thursday:   ~
+  V9941046:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941047:
-    letters: 208
-    percent: 76
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941049:
-    letters: 317
-    percent: 100
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941050:
-    letters: 298
-    percent: 100
-  V9941059:
-    letters: 282
-    percent: 94
-  V9941060:
-    letters: 0
-    percent: 0
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9941057:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9941065:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941067:
-    letters: 314
-    percent: 100
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9941068:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9941069:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9941071:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941073:
-    letters: 0
-    percent: 0
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
   V9941075:
-    letters: 151
-    percent: 49
-  V9941077:
-    letters: 247
-    percent: 78
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
+  V9941076:
+    sunday:   0
+    tuesday:   ~
+    thursday:   ~
