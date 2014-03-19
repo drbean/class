@@ -114,17 +114,17 @@ member:
     name: Vera
     password: yu
     rating: ~
-  - Chinese: 邱珞媺
-    id: V0041067
-    name: 邱珞媺
-    password: luo
-    rating: ~
   - Chinese: 沈子鈞
     id: V9941065
     name: Bruce
     password: zi
     rating: ~
 out:
+  - Chinese: 邱珞媺
+    id: V0041067
+    name: Louise
+    password: luo
+    rating: ~
 room: A706
 school: nuu
 session:
