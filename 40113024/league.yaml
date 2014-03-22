@@ -14,6 +14,12 @@ id: 40113024
 jigsaw: exam
 league: 應英(四技日)3E
 member:
+  - Chinese: 張賢銘
+    id: 101500122
+    name: Martin
+    password: xian
+    rating: ~
+
   - Chinese: 張乃云
     id: 100405417
     name: Nei
@@ -50,11 +56,6 @@ member:
     id: 100405413
     name: YuChing
     password: yu
-    rating: ~
-  - Chinese: 張乃云
-    id: 100405417
-    name: 張乃云
-    password: nai
     rating: ~
   - Chinese: 蔡瑄玲
     id: 100405425
