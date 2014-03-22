@@ -1,37 +1,50 @@
 ---
-
-Black:
-  absent: 
-  merits: 3
-Blue:
-  tardy:
-    - Danny
-    - KungHsing
-  absent: 
-    - Chung-Wei
-  merits: 3
-Pink:
-  absent: 
-  merits: 3
-
-Gray:
-  absent: 
-  merits: 3
-White:
-  absent: 
-  merits: 3
-
-Brown:
-  absent: 
-  merits: 3
-Orange:
-  absent: 
-  merits: 3
+# topic: oliver
 
 Green:
-  absent: 
+  absent:
+  merits: 2
+Black:
+  absent:
+    - Liu
   merits: 3
 
-Yellow:
-  absent: 
+Charcoal:
+  absent:
+    - JingJia
   merits: 3
+Blue:
+  absent:
+  merits: 2
+
+Chocolate:
+  absent:
+  merits: 3
+Brown:
+  absent:
+    - Sherry
+    - Cheng
+  merits: 2
+
+Orange:
+  absent:
+    - 王偉婷
+  merits: 2
+White:
+  absent:
+  merits: 3
+
+Pink:
+  absent:
+    - Ariel
+  merits: 2
+Yellow:
+  absent:
+  merits: 3
+
+Purple:
+  absent:
+    - Anna
+    - YuRen
+  merits: 3
+
