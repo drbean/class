@@ -1,0 +1,143 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: jackson
+grade:
+  100405401: 1.96
+  100405402: 1.98
+  100405408: 1.98
+  100405411: 0
+  100405413: 0
+  100405417: 0
+  100405425: 2
+  100405432: 0
+  100405437: 2
+  100405440: 0.42
+  100405442: 0
+  100405444: 0
+  100405501: 0
+  100405507: 0
+  100405508: 1.98
+  100405509: 1.7
+  100405510: 0
+  100405514: 0
+  100405528: 0
+  100405529: 0
+  100405531: 0
+  100405536: 0
+  100405537: 0
+  100405540: 2
+  100405541: 0
+  100405543: 0
+  100405545: 0.32
+  100406863: 2
+  100406866: 0
+  100406867: 1.12
+  100407024: 0
+  101405311: 0
+  101500122: 0
+  102500005: 0.02
+points:
+  100405401:
+    letters: 328
+    percent: 98
+  100405402:
+    letters: 356
+    percent: 99
+  100405408:
+    letters: 365
+    percent: 99
+  100405411:
+    letters: 0
+    percent: 0
+  100405413:
+    letters: 0
+    percent: 0
+  100405417:
+    letters: 0
+    percent: 0
+  100405425:
+    letters: 341
+    percent: 100
+  100405432:
+    letters: 0
+    percent: 0
+  100405437:
+    letters: 366
+    percent: 100
+  100405440:
+    letters: 73
+    percent: 21
+  100405442:
+    letters: 0
+    percent: 0
+  100405444:
+    letters: 0
+    percent: 0
+  100405501:
+    letters: 0
+    percent: 0
+  100405507:
+    letters: 0
+    percent: 0
+  100405508:
+    letters: 327
+    percent: 99
+  100405509:
+    letters: 292
+    percent: 85
+  100405510:
+    letters: 0
+    percent: 0
+  100405514:
+    letters: 0
+    percent: 0
+  100405528:
+    letters: 0
+    percent: 0
+  100405529:
+    letters: 0
+    percent: 0
+  100405531:
+    letters: 0
+    percent: 0
+  100405536:
+    letters: 0
+    percent: 0
+  100405537:
+    letters: 0
+    percent: 0
+  100405540:
+    letters: 327
+    percent: 100
+  100405541:
+    letters: 0
+    percent: 0
+  100405543:
+    letters: 0
+    percent: 0
+  100405545:
+    letters: 54
+    percent: 16
+  100406863:
+    letters: 382
+    percent: 100
+  100406866:
+    letters: 0
+    percent: 0
+  100406867:
+    letters: 190
+    percent: 56
+  100407024:
+    letters: 0
+    percent: 0
+  101405311:
+    letters: 0
+    percent: 0
+  101500122:
+    letters: 0
+    percent: 0
+  102500005:
+    letters: 2
+    percent: 1
