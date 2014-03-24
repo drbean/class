@@ -1,63 +1,117 @@
 ---
 Chinese:
+  Beige: 0
   Black: 0
-  BlackBlack: 0
   Blue: 0
-  BlueBlue: 0
+  Brown: 0
+  Charcoal: 0
+  Chocolate: 0
+  David: 0
+  Golden: 0
+  Gray: 0
   Green: 0
+  Khaki: 0
   Orange: 0
   Pink: 0
   Purple: 0
+  Red: 0
+  Silver: 0
+  Turquoise: 0
+  Violet: 0
   White: 0
-  Yellow: 0
 letters:
+  Beige:
+    V0041002: 100
+    V9941040: 100
+    V0041042: 100
+    story: tips9
   Black:
-    V9841010: 6
-    V9941012: 8
-    V9941050: 8
-    story: espn0
-  BlackBlack:
-    V9841011: 4
-    V9841025: 4
-    V9941049: 6
-    story: illegals1
+    V0041032: 66.6666666666667
+    V0241030: 66.6666666666667
+    V9941023: 66.6666666666667
+    story: tips5
   Blue:
-    V9841028: 8
-    V9941015: 8
-    V9941037: 9
-    story: illegals1
-  BlueBlue:
-    V9741044: 9
-    V9941022: 9
-    V9941026: 9
-    story: hacking1
+    V0041009: 0
+    V0041008: 0
+    V9941029: 0
+    story: tips11
+  Brown:
+    V0041044: 0
+    V0041049: 0
+    V9941067: 0
+    story: tips11
+  Charcoal:
+    V0041033: 0
+    V9941013: 0
+    V9941047: 0
+    story: tips9
+  Chocolate:
+    V0041040: 0
+    V0041010: 0
+    V9941037: 0
+    story: tips13
+  David:
+    V9941057: 100
+    V9941036: 100
+    V9941059: 100
+    story: tips4
+  Golden:
+    V0041053: 100
+    V9941001: 33.3333333333333
+    V9941059: 66.6666666666667
+    story: tips4
+  Gray:
+    N9661749: 66.6666666666667
+    V9941023: 66.6666666666667
+    V9941025: 33.3333333333333
+    story: tips4
   Green:
-    T9823041: 8
-    V9941011: 7
-    V9941040: 8
-    story: espn0
+    V0041045: 0
+    V9941046: 0
+    V9941026: 0
+    story: tips9
+  Khaki:
+    V0041042: 100
+    V9941022: 100
+    V9941050: 100
+    story: tips4
   Orange:
-    V9841049: 9
-    V9941075: 9
-    V9941059: 10
-    story: espn0
+    V0041030: 50
+    V0041038: 0
+    V9941049: 0
+    story: tips11
   Pink:
-    V9841042: 8
-    V9941001: 7
-    V9941059: 8
-    story: illegals1
+    V9941068: 66.6666666666667
+    V9941075: 66.6666666666667
+    V9941010: 66.6666666666667
+    story: tips5
   Purple:
-    V9941007: 8
-    V9941027: 9
-    V9941029: 7
-    story: hacking1
+    V0041035: 0
+    V9941073: 0
+    V9941012: 0
+    story: tips9
+  Red:
+    V0041057: 66.6666666666667
+    V9841025: 100
+    V9941001: 100
+    story: tips4
+  Silver:
+    V9941036: 66.6666666666667
+    V0041050: 66.6666666666667
+    V9841028: 66.6666666666667
+    story: tips5
+  Turquoise:
+    V0041039: 100
+    V0041067: 100
+    V9941031: 100
+    story: tips5
+  Violet:
+    V9941011: 0
+    V9841028: 0
+    V0041019: 0
+    story: tips13
   White:
-    V9941013: 8
-    V9941077: 7
-    V9941047: 9
-    story: illegals1
-  Yellow:
-    V9741064: 9
-    V9941067: 9
-    V9841022: 9
-    story: hacking1
+    V9941069: 0
+    V0041007: 0
+    V9741022: 0
+    story: tips9
