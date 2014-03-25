@@ -13,6 +13,12 @@ hwMax: 2
 id: 022FLA0027
 league: 夜應外大學四甲
 member:
+  - Chinese: 張馨卿
+    id: V9741044 
+    name: Jessica
+    password: xin
+    rating: ~
+  
   - Chinese: 郭芳萱
     id: V9841033
     name: Amber
