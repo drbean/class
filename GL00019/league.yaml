@@ -14,11 +14,6 @@ id: 022GL00019
 jigsaw: exam
 league: GL00019\_日語文共同學制虛擬班二甲
 member:
-  - Chinese: 林奕嘉
-    id: U9918042
-    name: Popo
-    password: yi
-    rating: ~
   - Chinese: 陳致浩
     id: U9911001
     name: Roye
@@ -40,20 +35,10 @@ member:
     name: Kevin
     password: zhao
     rating: ~
-  - Chinese: 蕭伊晴
-    id: U0042018
-    name: Christina
-    password: yi
-    rating: ~
   - Chinese: 龔鉉傑
     id: U0110031
     name: Jay
     password: xuan
-    rating: ~
-  - Chinese: 林文裕
-    id: U0114114
-    name: Willie
-    password: wen
     rating: ~
   - Chinese: 邱致豪
     id: U9816034
@@ -70,27 +55,42 @@ member:
     name: Wen
     password: hong
     rating: ~
-  - Chinese: 楊柏輝
-    id: U9921226
-    name: 楊柏輝
-    password: bai
-    rating: ~
   - Chinese: 朱偉德
     id: U9921307
     name: Wade
     password: wei
+    rating: ~
+out:
+  - Chinese: 呂宗憲
+    id: U9922008
+    name: 呂宗憲
+    password: zong
     rating: ~
   - Chinese: 江啟帆
     id: U9921330
     name: 江啟帆
     password: qi
     rating: ~
-  - Chinese: 呂宗憲
-    id: U9922008
-    name: 呂宗憲
-    password: zong
+  - Chinese: 楊柏輝
+    id: U9921226
+    name: 楊柏輝
+    password: bai
     rating: ~
-out: ~
+  - Chinese: 林文裕
+    id: U0114114
+    name: Willie
+    password: wen
+    rating: ~
+  - Chinese: 蕭伊晴
+    id: U0042018
+    name: Christina
+    password: yi
+    rating: ~
+  - Chinese: 林奕嘉
+    id: U9918042
+    name: Popo
+    password: yi
+    rating: ~
 room: A705
 school: nuu
 scores:
