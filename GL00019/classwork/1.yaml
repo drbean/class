@@ -12,6 +12,7 @@ Green:
 
 Charcoal:
   absent:
+    - Wen
   merits: 0
 
 Orange:
@@ -20,5 +21,9 @@ Orange:
 
 Pink:
   absent:
+    - Lan
+    - Roye
   merits: 0
 
+Popo:
+  merits: 0

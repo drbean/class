@@ -12,7 +12,7 @@ hw: homework
 hwMax: 2
 id: 022GL00019
 jigsaw: exam
-league: GL00019_日語文共同學制虛擬班二甲
+league: GL00019\_日語文共同學制虛擬班二甲
 member:
   - Chinese: 林奕嘉
     id: U9918042
@@ -62,12 +62,12 @@ member:
     rating: ~
   - Chinese: 林治廷
     id: U9911202
-    name: 林治廷
+    name: Lan
     password: zhi
     rating: ~
   - Chinese: 周宏偉
     id: U9911220
-    name: 周宏偉
+    name: Wen
     password: hong
     rating: ~
   - Chinese: 楊柏輝
