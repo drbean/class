@@ -14,16 +14,6 @@ id: AFB1J0
 jigsaw: exam
 league: BAF011_四技應外一甲
 member:
-  - Chinese: 林鼎堯
-    id: B99020078
-    name: 林鼎堯
-    password: ding
-    rating: ~
-  - Chinese: 李政賢
-    id: B99020001
-    name: 李政賢
-    password: zheng
-    rating: ~
   - Chinese: 蘇雨柔
     id: B01203102
     name: Betty
@@ -58,11 +48,6 @@ member:
     id: B02200012
     name: Emily1
     password: zi
-    rating: ~
-  - Chinese: 武祖旋
-    id: B02200014
-    name: Sam
-    password: zu
     rating: ~
   - Chinese: 謝玉蘿
     id: B02200030
@@ -150,6 +135,21 @@ member:
     password: xin
     rating: ~
 out:
+  - Chinese: 武祖旋
+    id: B02200014
+    name: Sam
+    password: zu
+    rating: ~
+  - Chinese: 林鼎堯
+    id: B99020078
+    name: 林鼎堯
+    password: ding
+    rating: ~
+  - Chinese: 李政賢
+    id: B99020001
+    name: 李政賢
+    password: zheng
+    rating: ~
   - Chinese: 黃歆璃
     id: B02200045
     name: Cynthia
