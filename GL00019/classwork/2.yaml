@@ -1,35 +1,22 @@
 ---
+# topic: dickson
 
 Black:
-  absent: 
+  absent:
   merits: 3
-Gray:
-  absent: 
-  merits: 2
-
-Blue:
-  absent: 
+Green:
+  absent:
   merits: 3
-Brown:
-  absent: 
-    - Kevin
-    - Elizabeth
-  merits: 2
-
-Pink:
-  absent: 
-  merits: 0
 
 Orange:
-  absent: 
-  merits: 2
-Green:
-  absent: 
+  absent:
+    - Jay
+  merits: 3
+Charcoal:
+  absent:
   merits: 3
 
-White:
-  absent: 
+Pink:
+  absent:
   merits: 3
-Yellow:
-  absent: 
-  merits: 2
+
