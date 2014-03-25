@@ -1,33 +1,386 @@
 ---
-# topic: Dictation
-
-Black:
-  absent: 
-    - Andy
-  merits: 3
-Green:
-  absent: 
-  merits: 2
-
-Blue:
-  absent: 
-  merits: 2
-BlackBlack:
-  absent: 
-  merits: 3
-
-# no card
-Orange:
-  absent: 
-    - MiuMiu
-  merits: 2
-Yellow:
-  absent: 
-  merits: 2
-
-Purple:
-  absent: 
-  merits: 2
-Pink:
-  absent: 
-  merits: 3
+cutpoints:
+  loser: ~
+  quitter: ~
+  winner: ~
+exercise: q-and-a-exam
+grade:
+  B00200101: 0
+  B01203102: ~
+  B01203103: ~
+  B02200003: 0
+  B02200012: ~
+  B02200014: 0
+  B02200025: 0
+  B02200030: ~
+  B02200031: 0
+  B02200043: ~
+  B02200047: 0
+  B02200052: ~
+  B02200061: ~
+  B02200064: 0
+  B02200066: 0
+  B02200067: ~
+  B02200069: 0
+  B02200084: 0
+  B02200088: ~
+  B02200093: ~
+  B02200098: ~
+  B02200106: 0
+  B02202201: 0
+  B02202202: ~
+  B02202203: 0
+  B99020001: 0
+  B99020078: 0
+points:
+  B00200101:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  B01203102:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 2
+      questions: 2
+      attempts: 2
+    Tag:
+      answers: 2
+      questions: 2
+      attempts: 3
+  B01203103:
+    Wh:
+      answers: 5
+      questions: 5
+      attempts: 5
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  B02200003:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  B02200012:
+    Wh:
+      answers: 1
+      questions: 2
+      attempts: 3
+    Yn:
+      answers: 6
+      questions: 6
+      attempts: 6
+    Tag:
+      answers: 1
+      questions: 1
+      attempts: 2
+  B02200014:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  B02200025:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  B02200030:
+    Wh:
+      answers: 5
+      questions: 5
+      attempts: 8
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  B02200031:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  B02200043:
+    Wh:
+      answers: 10
+      questions: 10
+      attempts: 13
+    Yn:
+      answers: 2
+      questions: 2
+      attempts: 2
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  B02200047:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  B02200052:
+    Wh:
+      answers: 3
+      questions: 3
+      attempts: 6
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  B02200061:
+    Wh:
+      answers: 5
+      questions: 5
+      attempts: 7
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  B02200064:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  B02200066:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  B02200067:
+    Wh:
+      answers: 5
+      questions: 5
+      attempts: 6
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  B02200069:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  B02200084:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  B02200088:
+    Wh:
+      answers: 6
+      questions: 6
+      attempts: 9
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 1
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  B02200093:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 6
+      questions: 11
+      attempts: 13
+    Tag:
+      answers: 2
+      questions: 2
+      attempts: 3
+  B02200098:
+    Wh:
+      answers: 8
+      questions: 8
+      attempts: 8
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  B02200106:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  B02202201:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  B02202202:
+    Wh:
+      answers: 2
+      questions: 2
+      attempts: 2
+    Yn:
+      answers: 6
+      questions: 6
+      attempts: 9
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  B02202203:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  B99020001:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  B99020078:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
