@@ -1,11 +1,6 @@
 ---
 # topic: 
 
-Black:
-  absent:
-    - 江啟帆
-  merits: 3
-
 Green:
   absent:
   merits: 3
@@ -13,17 +8,10 @@ Green:
 Charcoal:
   absent:
     - Wen
-  merits: 0
+  merits: 3
 
 Orange:
   absent:
-  merits: 3
-
-Pink:
-  absent:
     - Lan
     - Roye
-  merits: 0
-
-Popo:
-  merits: 0
+  merits: 3
