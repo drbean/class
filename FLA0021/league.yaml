@@ -70,11 +70,6 @@ member:
     name: YanSan
     password: yan
     rating: ~
-  - Chinese: 杜珮瑜
-    id: V0041028
-    name: 杜珮瑜
-    password: pei
-    rating: ~
   - Chinese: 彭芷萱
     id: V0041030
     name: Jessie
@@ -175,11 +170,6 @@ member:
     name: Redd
     password: wen
     rating: 23
-  - Chinese: 湯明勳
-    id: V9941010
-    name: Robert
-    password: ming
-    rating: 73
   - Chinese: 鍾興科
     id: V9941011
     name: Adam
@@ -240,11 +230,6 @@ member:
     name: Claire
     password: yi
     rating: 50
-  - Chinese: 黃宇襄
-    id: V9941045
-    name: Jill
-    password: yu
-    rating: ~
   - Chinese: 蕭莉娟
     id: V9941046
     name: LiJuan
@@ -300,7 +285,22 @@ member:
     name: Brenda
     password: bo
     rating: 47
-out: ~
+out:
+  - Chinese: 湯明勳
+    id: V9941010
+    name: Robert
+    password: ming
+    rating: 73
+  - Chinese: 杜珮瑜
+    id: V0041028
+    name: 杜珮瑜
+    password: pei
+    rating: ~
+  - Chinese: 黃宇襄
+    id: V9941045
+    name: Jill
+    password: yu
+    rating: ~
 room: A705
 school: nuu
 session:
