@@ -1,22 +1,14 @@
 ---
 # topic: dickson
 
-Black:
-  absent:
-  merits: 3
 Green:
   absent:
   merits: 3
 
 Orange:
   absent:
-    - Jay
   merits: 3
 Charcoal:
   absent:
+    - Jay
   merits: 3
-
-Pink:
-  absent:
-  merits: 3
-
