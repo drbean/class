@@ -1,43 +1,13 @@
 ---
-
-Black:
-  absent: 
-    - Tracy
-  merits: 3
-Gray:
-  absent: 
-    - Yukin
-  merits: 3
-
-Blue:
-  absent: 
-  tardy:
-    - KungHsing
-    - Chung-Wei
-  merits: 3
-Brown:
-  absent: 
-    - Elizabeth
-  merits: 3
-
-Pink:
-  absent: 
-    - Sunny
-  merits: 3
+# topic: jackson
 
 Orange:
-  absent: 
-    - Simon
+  absent:
   merits: 3
 Green:
-  absent: 
-    - Rick
+  absent:
   merits: 3
 
-White:
-  absent: 
-  merits: 3
-Yellow:
-  absent: 
-    - Moomin
+Charcoal:
+  absent:
   merits: 3
