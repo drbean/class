@@ -3,52 +3,91 @@ round: Exam 1
 week: 5
 questions:
   - 10
-pass: 5
+pass: 3
 assistant:
+  - Christina
+  - Liz
 absent:
-  - Maddy
-  - Moomin
-  - Chung-Wei
-  - Yukin
-  - Simon
-text: /home/drbean/class/conversation/work/cards.yaml
+  - Monique
+  - Julien
+  - Tommy
+  - Gary
+  - Larry2
+  - Zoe
+  - Angela1
+  - Angela2
+  - Linda
+  - Sharon
+  - Ann
+  - Alisa
+  - Todd
+  - Ariel
+  - Jhaung
+  - Lawrence
+  - Nina
+  - Mia
+text: /home/drbean/class/conversation/food/cards.yaml
 activity:
-  dickson:
-    2:
-      - Orange
-  abreu:
-    2:
-      - White
-  smallwood:
-    2:
-      - Blue
+  lerman:
+    1:
       - Black
-  jackson:
-    2:
+      - Brown
+      - Chocolate
+      - Pink
+  seixas:
+    0:
       - Gray
       - Green
+      - Khaki
+      - White
+  douglas:
+    2:
+      - Orange
+      - Red
+      - Silver
+
 group:
   Black:
-    - Tracy
-    - Penny
-    - Gillian
-  Blue:
-    - Danny
-    - KungHsing
-    - Dave
+    - Lucy
+    - Larry1
+    - Tina
+  Brown:
+    - Claire
+    - Irene
+    - Shuai
   Gray:
-    - Amy
-    - Luisa
-    - Regina
+    - Bella
+    - Jack
+    - Kevin
   Green:
-    - Rick
-    - Tiffany
-    - Carolyn
+    - Sandy
+    - Bryan
+    - Rose
+  Chocolate:
+    - Christina
+    - Tony1
+    - Stanley
+  Khaki:
+    - Liz
+    - Cindy
+    - Vivian
   Orange:
-    - Peggy
-    - Mia
-    - Scotter
+    - Tony2
+    - Joy
+    - Stephy
+  Pink:
+    - Abby
+    - Winnie
+    - Fernando
+  Red:
+    - Christina
+    - Jessie
+    - Liz
   White:
-    - Li-Ting
-    - Angela
-    - Lance
+    - Jeff
+    - Paul
+    - Elton
+  Silver:
+    - Mark
+    - Sara
+    - Samantha
