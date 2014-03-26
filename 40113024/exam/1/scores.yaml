@@ -2,38 +2,54 @@
 Chinese:
   Black: 0
   Blue: 0
-  Gray: 0
+  Brown: 0
+  Chocolate: 0
   Green: 0
-  Orange: 0
+  Pink: 0
+  Purple: 0
   White: 0
+  Yellow: 0
 letters:
   Black:
-    U0018027: 7
-    U9923121: 5
-    U0122002: 6
-    story: smallwood2
+    100405440: 5
+    100405401: 6
+    100405545: 3
+    story: abreu1
   Blue:
-    U0042012: 9
-    U0042041: 8
-    U0222133: 8
-    story: smallwood2
-  Gray:
-    U0042050: 6
-    U9943019: 9
-    U0018046: 9
-    story: jackson2
+    100405425: 3
+    102500005: 4
+    100406867: 1
+    story: dickson1
+  Brown:
+    100405531: 3
+    100405507: 1
+    100406866: 4
+    story: dickson1
+  Chocolate:
+    100405411: 4
+    100405509: 3
+    100405402: 4
+    story: jackson0
   Green:
-    U0017024: 8
-    U0043001: 8
-    U9943007: 8
-    story: jackson2
-  Orange:
-    U0043033: 9
-    U0043004: 9
-    U9917017: 5
-    story: dickson2
+    101405311: 2
+    100405413: 7
+    100405540: 4
+    story: abreu1
+  Pink:
+    100405437: 7
+    100405537: 6
+    100405510: 4
+    story: jackson0
+  Purple:
+    100405508: 0
+    100405408: 0
+    story: jackson0
   White:
-    U0222228: 7
-    K220155482: 9
-    U9923120: 7
-    story: abreu2
+    100405432: 0
+    100405529: 0
+    100406863: 0
+    story: jackson0
+  Yellow:
+    100405541: 0
+    100405536: 0
+    story: jackson0

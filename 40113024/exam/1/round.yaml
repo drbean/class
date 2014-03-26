@@ -3,52 +3,70 @@ round: Exam 1
 week: 5
 questions:
   - 10
-pass: 5
+pass: 6
 assistant:
 absent:
-  - Maddy
-  - Moomin
-  - Chung-Wei
-  - Yukin
-  - Simon
+  - Sherry
+  - Liu
+  - KiRu
+  - JingJia
+  - Kim
+  - Tina
+  - Martin
+  - Nei
+  - Jenny
 text: /home/drbean/class/conversation/work/cards.yaml
 activity:
   dickson:
-    2:
-      - Orange
-  abreu:
-    2:
-      - White
-  smallwood:
-    2:
+    1:
       - Blue
+      - Brown
+  abreu:
+    1:
       - Black
-  jackson:
-    2:
-      - Gray
       - Green
+  jackson:
+    0:
+      - Chocolate
+      - Pink
+
+      - Charcoal
+      - Orange
+      - Purple
+      - White
+      - Yellow
 group:
   Black:
-    - Tracy
-    - Penny
-    - Gillian
+    - Claire
+    - ChunYi
+    - YanRen
   Blue:
-    - Danny
-    - KungHsing
-    - Dave
-  Gray:
-    - Amy
-    - Luisa
-    - Regina
+    - HsuanLing
+    - Cathy
+    - HuiWen
+  Brown:
+    - RoYu
+    - Ina
+    - Cheng
   Green:
-    - Rick
-    - Tiffany
-    - Carolyn
-  Orange:
-    - Peggy
-    - Mia
-    - Scotter
+    - ChiaChia
+    - YuChing
+    - KeMei
+  Chocolate:
+    - YiShyuan
+    - YuChen
+    - QiXiang
+  Pink:
+    - Rita
+    - JieLin
+    - Ariel
+  Purple:
+    - Anna
+    - YuRen
   White:
-    - Li-Ting
-    - Angela
-    - Lance
+    - JiaRu
+    - Chris
+    - WeiPing
+  Yellow:
+    - LinLi
+    - RoHang
