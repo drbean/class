@@ -1,39 +1,69 @@
 ---
 Chinese:
   Black: 0
-  Blue: 0
+  Brown: 0
+  Chocolate: 0
   Gray: 0
   Green: 0
+  Khaki: 0
   Orange: 0
+  Pink: 0
+  Red: 0
+  Silver: 0
   White: 0
 letters:
   Black:
-    U0018027: 7
-    U9923121: 5
-    U0122002: 6
-    story: smallwood2
-  Blue:
-    U0042012: 9
-    U0042041: 8
-    U0222133: 8
-    story: smallwood2
+    99407073: 4
+    101405354: 3
+    101405406: 3
+    story: lerman1
+  Brown:
+    101406960: 6
+    101406963: 8
+    100500262: 4
+    story: lerman1
+  Chocolate:
+    101405308: 4
+    101405351: 4
+    101405316: 4
+    story: lerman1
   Gray:
-    U0042050: 6
-    U9943019: 9
-    U0018046: 9
-    story: jackson2
+    101405315: 2
+    101405419: 5
+    101405447: 3
+    story: seixas0
   Green:
-    U0017024: 8
-    U0043001: 8
-    U9943007: 8
-    story: jackson2
+    101405401: 0
+    101405407: 7
+    101405334: 6
+    story: seixas0
+  Khaki:
+    101405352: 6
+    101405414: 6
+    101405324: 6
+    story: seixas0
   Orange:
-    U0043033: 9
-    U0043004: 9
-    U9917017: 5
-    story: dickson2
+    99408213: 4
+    101405411: 5
+    101500124: 6
+    story: douglas2
+  Pink:
+    101405302: 0
+    102500016: 3
+    101405341: 5
+    story: lerman1
+  Red:
+    101405308: 5
+    101405405: 4
+    101405352: 4
+    story: douglas2
+  Silver:
+    101405410: 2
+    101405311: 5
+    100410260: 3
+    story: douglas2
   White:
-    U0222228: 7
-    K220155482: 9
-    U9923120: 7
-    story: abreu2
+    101405349: 5
+    101406962: 6
+    101406961: 6
+    story: seixas0
