@@ -13,6 +13,10 @@ hwMax: 2
 id: 022FLA0027
 league: 夜應外大學四甲
 member:
+  - Chinese: 劉茹芬
+    id: N9661749
+    name: Chelsea
+    password: ru
   - Chinese: 張馨卿
     id: V9741044 
     name: Jessica
@@ -258,11 +262,6 @@ member:
     name: Hsin-Cih
     password: xin
     rating: ~
-  - Chinese: 古雅萱
-    id: V9941028
-    name: 古雅萱
-    password: ya
-    rating: ~
   - Chinese: 彭姿菁
     id: V9941023
     name: Rita
@@ -283,20 +282,10 @@ member:
     name: Sandy
     password: qiong
     rating: ~
-  - Chinese: 李澤爵
-    id: V9841017
-    name: 李澤爵
-    password: ze
-    rating: ~
   - Chinese: 賴意穎
     id: V0041047
     name: Ada
     password: yi
-    rating: ~
-  - Chinese: 徐己雁
-    id: V0041033
-    name: 徐己雁
-    password: ji
     rating: ~
   - Chinese: 李名婷
     id: V0041032
@@ -318,7 +307,22 @@ member:
     name: Larry
     password: bing
     rating: ~
-out: ~
+out:
+  - Chinese: 古雅萱
+    id: V9941028
+    name: 古雅萱
+    password: ya
+    rating: ~
+  - Chinese: 徐己雁
+    id: V0041033
+    name: 徐己雁
+    password: ji
+    rating: ~
+  - Chinese: 李澤爵
+    id: V9841017
+    name: 李澤爵
+    password: ze
+    rating: ~
 room: A705
 school: nuu
 session:
