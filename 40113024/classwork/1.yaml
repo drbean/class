@@ -12,20 +12,24 @@ Blue:
 Brown:
   absent:
   merits: 3
-Chocolate:
-  absent:
-  merits: 3
 
-Charcoal:
-  absent:
-  merits: 3
 Green:
   absent:
     - ChiaChia
   merits: 3
 
+Charcoal:
+  absent:
+  merits: 3
+
+Chocolate:
+  absent:
+    - YiShyuan
+  merits: 3
+
 Orange:
   absent:
+    - Tina
   merits: 3
 Pink:
   absent:
@@ -46,3 +50,7 @@ White:
     - Chris
   merits: 3
 
+Martin:
+  absent:
+    - Martin
+  merits: 0
