@@ -13,6 +13,7 @@ Brown:
   merits: 3
 Chocolate:
   absent:
+    - YiShyuan
   merits: 2
 
 Charcoal:
@@ -25,6 +26,7 @@ Green:
 
 Orange:
   absent:
+    - Tina
   merits: 2
 Pink:
   absent:
@@ -41,3 +43,7 @@ White:
   absent:
   merits: 2
 
+Martin:
+  absent:
+    - Martin
+  merits: 0
