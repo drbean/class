@@ -4,6 +4,7 @@ active: ~
 anterior: 021FLA0007
 approach: GroupworkNoFault
 classMax: 3
+compcomp: comp
 examMax: 5
 exams: exam
 field: 英語會話(四)
@@ -103,11 +104,6 @@ member:
     id: V0041052
     name: Una
     password: yu
-    rating: ~
-  - Chinese: 王維君
-    id: V0041055
-    name: 王維君
-    password: wei
     rating: ~
   - Chinese: 陳煜楓
     id: V0041058
