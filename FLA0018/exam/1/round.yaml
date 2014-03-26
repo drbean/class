@@ -1,0 +1,51 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 10
+pass: 6
+assistant:
+  - Amy2
+absent:
+  - William
+  - Sherry
+  - Vam
+text: /home/drbean/class/conversation/work/cards.yaml
+activity:
+  dickson:
+    1:
+      - Black
+      - Blue
+  abreu:
+    1:
+      - Brown
+      - Orange
+  jackson:
+    0:
+      - Pink
+      - Purple
+group:
+  Black:
+    - Vera
+    - Yvonne
+    - Amy2
+  Blue:
+    - Camuel
+    - Amy2
+    - Lucy
+  Brown:
+    - Jack
+    - Eva
+    - Brock
+  Orange:
+    - Bruce
+    - Show
+    - Una
+  Pink:
+    - Oscar
+    - Jessie
+    - Nora
+  Purple:
+    - Joyce
+    - Joanne
+    - Sing
