@@ -1,0 +1,39 @@
+---
+Chinese:
+  Black: 0
+  Blue: 0
+  Brown: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
+letters:
+  Black:
+    V0041058: 8
+    U0043041: 9
+    V0041044: 9
+    story: dickson1
+  Blue:
+    V0041046: 7
+    V0041044: 6
+    V0041035: 3
+    story: dickson1
+  Brown:
+    V0041009: 8
+    V0041033: 8
+    V0041002: 4
+    story: abreu1
+  Orange:
+    V9941065: 4
+    V0041038: 9
+    V0041052: 8
+    story: abreu1
+  Pink:
+    V0041007: 8
+    V0041030: 7
+    V0041049: 6
+    story: jackson0
+  Purple:
+    V0041025: 7
+    V0299140: 7
+    V0041012: 10
+    story: jackson0

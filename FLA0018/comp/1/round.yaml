@@ -1,0 +1,68 @@
+---
+activity:
+  dickson:
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 5
+      - 6
+      - 7
+      - 9
+  abreu:
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 5
+      - 6
+      - 7
+      - 9
+  jackson:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 5
+      - 6
+      - 7
+      - 9
+#absent:
+#  - V0041040
+#  - V0041017
+#  - V0041055
+
+bye: V0041002
+group:
+  0:
+    White: V0041025
+    Black: V0041049
+  1:
+    White: V0041035
+    Black: U0043041
+  2:
+    White: V0299140
+    Black: V0041009
+  3:
+    White: V0041030
+    Black: V0041058
+  5:
+    White: V0041033
+    Black: V0041052
+  6:
+    White: V0041012
+    Black: V0041046
+  7:
+    White: V9941065
+    Black: V0041038
+  9:
+    White: V0041044
+    Black: V0041007
+pairing: swiss
+payprotocol: meritPay 2
+round: 1
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 5
