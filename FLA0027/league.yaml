@@ -13,6 +13,11 @@ hwMax: 2
 id: 022FLA0027
 league: 夜應外大學四甲
 member:
+  - Chinese: 陳俞靜
+    id: V9941022
+    name: Vicki
+    password: yu
+    rating: ~
   - Chinese: 劉茹芬
     id: N9661749
     name: Chelsea
