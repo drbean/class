@@ -111,11 +111,6 @@ member:
     name: Nina
     password: shi
     rating: ~
-  - Chinese: 吳千羽
-    id: V9841022
-    name: Hank
-    password: qian
-    rating: ~
   - Chinese: 彭怡靜
     id: V9841028
     name: Katty
@@ -308,6 +303,11 @@ member:
     password: bing
     rating: ~
 out:
+  - Chinese: 吳千羽
+    id: V9841022
+    name: Hank
+    password: qian
+    rating: ~
   - Chinese: 古雅萱
     id: V9941028
     name: 古雅萱
