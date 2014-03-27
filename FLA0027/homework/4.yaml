@@ -1,293 +1,293 @@
 ---
 grade:
-  N9661749:   ~
-  T9823041:   ~
-  V0041008:   ~
-  V0041009:   ~
-  V0041028:   ~
-  V0041030:   ~
-  V0041032:   ~
-  V0041033:   ~
-  V0041036:   ~
-  V0041038:   ~
-  V0041039:   ~
-  V0041040:   ~
-  V0041045:   ~
-  V0041047:   ~
-  V0041049:   ~
-  V0041052:   ~
-  V0041053:   ~
-  V0041057:   ~
-  V0141042:   ~
-  V9841017:   ~
-  V9841022:   ~
-  V9841025:   ~
-  V9841028:   ~
-  V9841033:   ~
-  V9841051:   ~
-  V9841069:   ~
-  V9841071:   ~
-  V9941001:   ~
-  V9941007:   ~
-  V9941010:   ~
-  V9941011:   ~
-  V9941012:   ~
-  V9941013:   ~
-  V9941015:   ~
-  V9941023:   ~
-  V9941025:   ~
-  V9941026:   ~
-  V9941027:   ~
-  V9941028:   ~
-  V9941029:   ~
-  V9941031:   ~
-  V9941036:   ~
-  V9941037:   ~
-  V9941040:   ~
-  V9941045:   ~
-  V9941046:   ~
-  V9941047:   ~
-  V9941049:   ~
-  V9941050:   ~
-  V9941057:   ~
-  V9941065:   ~
-  V9941067:   ~
-  V9941068:   ~
-  V9941069:   ~
-  V9941071:   ~
-  V9941073:   ~
-  V9941075:   ~
-  V9941076:   ~
+  N9661749:   0
+  T9823041:   0
+  V0041008:   0
+  V0041009:   0.75
+  V0041028:   0
+  V0041030:   1
+  V0041032:   0
+  V0041033:   0
+  V0041036:   0
+  V0041038:   0
+  V0041039:   1
+  V0041040:   0
+  V0041045:   0
+  V0041047:   0
+  V0041049:   0
+  V0041052:   0
+  V0041053:   0
+  V0041057:   0
+  V0141042:   0
+  V9841017:   0
+  V9841022:   0
+  V9841025:   0
+  V9841028:   0
+  V9841033:   0
+  V9841051:   0
+  V9841069:   0
+  V9841071:   0
+  V9941001:   0
+  V9941007:   0
+  V9941010:   0
+  V9941011:   0
+  V9941012:   0
+  V9941013:   0
+  V9941015:   0
+  V9941023:   0
+  V9941025:   0
+  V9941026:   0
+  V9941027:   0
+  V9941028:   0
+  V9941029:   1
+  V9941031:   0
+  V9941036:   0
+  V9941037:   0
+  V9941040:   0
+  V9941045:   1
+  V9941046:   0
+  V9941047:   0
+  V9941049:   1
+  V9941050:   1
+  V9941057:   0
+  V9941065:   0
+  V9941067:   0
+  V9941068:   0
+  V9941069:   0
+  V9941071:   0
+  V9941073:   0
+  V9941075:   0
+  V9941076:   0
 points:
   N9661749:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   T9823041:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V0041008:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V0041009:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0.75
   V0041028:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V0041030:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   1
   V0041032:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V0041033:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V0041036:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V0041038:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V0041039:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   1
   V0041040:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V0041045:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V0041047:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V0041049:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V0041052:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V0041053:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V0041057:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V0141042:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9841017:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9841022:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9841025:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9841028:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9841033:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9841051:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9841069:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9841071:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941001:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941007:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941010:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941011:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941012:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941013:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941015:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941023:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941025:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941026:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941027:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941028:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941029:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   1
   V9941031:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941036:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941037:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941040:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941045:
     sunday:   1
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941046:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941047:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941049:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   1
   V9941050:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   1
   V9941057:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941065:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941067:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941068:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941069:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941071:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941073:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941075:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
   V9941076:
     sunday:   0
-    tuesday:   ~
-    thursday:   ~
+    tuesday:   0
+    thursday:   0
