@@ -13,6 +13,12 @@ hwMax: 2
 id: 022FLA0027
 league: 夜應外大學四甲
 member:
+  - Chinese: 古雅萱
+    id: V9941028
+    name: Alice
+    password: ya
+    rating: ~
+
   - Chinese: 陳俞靜
     id: V9941022
     name: Vicki
@@ -307,11 +313,6 @@ out:
     id: V9841022
     name: Hank
     password: qian
-    rating: ~
-  - Chinese: 古雅萱
-    id: V9941028
-    name: 古雅萱
-    password: ya
     rating: ~
   - Chinese: 徐己雁
     id: V0041033
