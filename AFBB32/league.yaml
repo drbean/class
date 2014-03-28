@@ -14,6 +14,17 @@ id: AFBB32
 jigsaw: exam
 league: BAF021_四技應外二甲
 member:
+  - Chinese: Emma
+    id: B99110055
+    name: Emma
+    password: ru
+    rating: ~
+  - Chinese: Sean
+    id: B01200115
+    name: Sean
+    password: cheng
+    rating: ~
+
   - Chinese: 林鈺芸
     id: B99100040
     name: Phoebe
