@@ -12,14 +12,14 @@ hw: homework
 hwMax: 2
 id: AFBB32
 jigsaw: exam
-league: BAF021_四技應外二甲
+league: BAF021\_四技應外二甲
 member:
-  - Chinese: Emma
+  - Chinese: 謝如晴
     id: B99110055
     name: Emma
     password: ru
     rating: ~
-  - Chinese: Sean
+  - Chinese: 呂承韓(外)
     id: B01200115
     name: Sean
     password: cheng
@@ -39,11 +39,6 @@ member:
     id: B98200021
     name: Luke
     password: cheng
-    rating: ~
-  - Chinese: 謝如晴
-    id: B99110055
-    name: 謝如晴
-    password: ru
     rating: ~
   - Chinese: 鍾佳君
     id: B00200016
@@ -299,11 +294,6 @@ member:
     id: B01200113
     name: Della
     password: yi
-    rating: ~
-  - Chinese: 呂承韓(外)
-    id: B01200115
-    name: 呂承韓(外)
-    password: cheng
     rating: ~
   - Chinese: 張薏婷
     id: B02202101
