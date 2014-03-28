@@ -3,92 +3,119 @@ round: Exam 1
 week: 5
 questions:
   - 10
-pass: 5
+pass: 6
 assistant:
-  - Ally
-  - Lanna
-  - Carlos
-  - Andy
+  - Scott
+  - Luke
 absent:
-  - Claire
-  - Crown
-  - Cindy
-  - Tina
-  - Dora
-  - Mei
+  - Rita
 text: /home/drbean/class/conversation/work/cards.yaml
 activity:
   dickson:
-    2:
+    1:
+      - Black
       - Gray
-      - OrangeOrange
+      - Charcoal
+      - Pink
+      - Turquoise
+      - Violet
+  abreu:
+    1:
+      - Beige
+      - Blue
+      - Chocolate
+      - Golden
       - Purple
       - White
-  abreu:
-    2:
-      - Brown
-      - PinkPink
-      - Red
-  smallwood:
-    2:
-      - Black
-      - Green
       - Yellow
   jackson:
-    2:
-      - BlackBlack
-      - Blue
+    0:
+      - Brown
+      - Green
+      - Khaki
       - Orange
+      - Red
+      - Silver
+      - Window
+
 group:
+  Beige:
+    - Joe
+    - Jason
+    - Scott
   Black:
-    - Neo
-    - Eva
-    - Betty
+    - Roc
+    - Caroline
+    - Nancy
   Blue:
-    - Sally
-    - Mindy
-    - Kelly1
+    - Wayne
+    - Tammy
+    - Jasmine
   Brown:
-    - Candy
-    - MiuMiu
-    - Carlos
-  Gray:
-    - Teresa
-    - Louie
-    - Carlos
-  Green:
-    - Ally
-    - Shane
-    - Denise
-  BlackBlack:
-    - Selena
-    - Jerry
-    - Allen
-  Orange:
-    - Andy
-    - James
-    - Neil
-  Purple:
-    - Jeff
-    - Alex
-    - Katie
-  Red:
-    - Carol
-    - Vicky
-    - Dave
-  White:
-    - Lanna
-    - Ben
-    - Joan
-  Yellow:
-    - Ally
-    - Lanna
-    - Fion
-  OrangeOrange:
-    - Don
-    - Champion
+    - Ashley
+    - Betty
     - Peggy
-  PinkPink:
-    - Emily
-    - Bunny
-    - Yuki
+  Charcoal:
+    - Sean
+    - Josh
+    - Winnie
+  Chocolate:
+    - Judy
+    - Ennis
+    - Della
+  Golden:
+    - Cindy
+    - Claire
+    - Nicole
+  Gray:
+    - Christy
+    - Riccia
+    - Momo
+  Green:
+    - Abby
+    - Vicky2
+    - Cora
+  Khaki:
+    - Allen
+    - Sarah
+    - Linda
+  Turquoise:
+    - Rosa
+    - Ellen
+    - Eric
+  Orange:
+    - Chloe
+    - Penny
+    - Hannah
+  Pink:
+    - Dona
+    - Alicia
+    - Jane
+  Purple:
+    - Pancy
+    - Sandy
+    - Alina
+  Red:
+    - Scott
+    - Hedy
+    - Ruby
+  Silver:
+    - Charlene
+    - Wenny
+    - Jessie
+  Violet:
+    - Hola
+    - Lorry
+    - Vicky1
+  White:
+    - Will
+    - Zarita
+    - Luke
+  Yellow:
+    - Eileen
+    - Jean
+    - Eva
+  Window:
+    - Luke
+    - Phoebe
+    - Emma

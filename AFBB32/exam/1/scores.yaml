@@ -1,81 +1,123 @@
 ---
 Chinese:
+  Beige: 0
   Black: 0
-  BlackBlack: 0
   Blue: 0
   Brown: 0
+  Charcoal: 0
+  Chocolate: 0
+  Golden: 0
   Gray: 0
   Green: 0
+  Khaki: 0
   Orange: 0
-  OrangeOrange: 0
-  PinkPink: 0
+  Pink: 0
   Purple: 0
   Red: 0
+  Silver: 0
+  Turquoise: 0
+  Violet: 0
   White: 0
+  Window: 0
   Yellow: 0
 letters:
+  Beige:
+    B01200001: 8
+    B01200003: 9
+    B01200016: 6
+    story: abreu1
   Black:
-    N98200021: 9
-    N01202001: 9
-    N00202103: 8
-    story: smallwood2
-  BlackBlack:
-    N00200006: 2
-    N99030033: 4
-    N01202105: 6
-    story: jackson2
+    B01200024: 9
+    B01200101: 9
+    B01200065: 9
+    story: dickson1
   Blue:
-    N00200022: 7
-    N00200056: 5
-    N00200042: 5
-    story: jackson2
+    B01200002: 6
+    B01200095: 5
+    B01200057: 6
+    story: abreu1
   Brown:
-    N01202002: 8
-    N00200008: 6
-    N00200001: 10
-    story: abreu2
+    B01200034: 4
+    B99200063: 4
+    B01200045: 6
+    story: jackson0
+  Charcoal:
+    B01200115: 4
+    B02202106: 3
+    B01200077: 7
+    story: dickson1
+  Chocolate:
+    B01200067: 4
+    B01200107: 7
+    B01200113: 8
+    story: abreu1
+  Golden:
+    B01200026: 8
+    B01200032: 8
+    B01200093: 8
+    story: abreu1
   Gray:
-    N00200015: 9
-    N01202004: 9
-    N00200001: 7
-    story: dickson2
+    B01200059: 3
+    B01200012: 2
+    B01200103: 3
+    story: dickson1
   Green:
-    N00120056: 5
-    N00200055: 4
-    N00200009: 1
-    story: smallwood2
+    B01200083: 9
+    B01200081: 2
+    B01200051: 7
+    story: jackson0
+  Khaki:
+    B00170085: 10
+    B01200073: 8
+    B01200049: 5
+    story: jackson0
   Orange:
-    N00200017: 7
-    N02203102: 8
-    N00200025: 7
-    story: jackson2
-  OrangeOrange:
-    N99030025: 5
-    N00200036: 5
-    N00200058: 6
-    story: dickson2
-  PinkPink:
-    N01202101: 9
-    N00200014: 9
-    N00200045: 10
-    story: abreu2
+    B01200053: 6
+    B01200063: 9
+    B01200022: 7
+    story: jackson0
+  Pink:
+    B01200018: 7
+    B01200089: 4
+    B01200028: 6
+    story: dickson1
   Purple:
-    N01202103: 4
-    N00200054: 4
-    N00200043: 3
-    story: dickson2
+    B01200055: 9
+    B01200071: 7
+    B01200047: 7
+    story: abreu1
   Red:
-    N00200037: 6
-    N00200029: 7
-    N00200030: 9
-    story: abreu2
+    B01200016: 8
+    B01200030: 8
+    B01200069: 4
+    story: jackson0
+  Silver:
+    B01200020: 5
+    B02202104: 5
+    B01200042: 1
+    story: jackson0
+  Turquoise:
+    B01200006: 3
+    B01200097: 3
+    B01200014: 3
+    story: dickson1
+  Violet:
+    B01200085: 6
+    B01200036: 4
+    B01200038: 6
+    story: dickson1
   White:
-    N00200044: 6
-    N00200003: 7
-    N00200007: 5
-    story: dickson2
+    B01200061: 10
+    B01200040: 10
+    B98200021: 9
+    story: abreu1
+  Window:
+    B98200021: 7
+    B99100040: 8
+    B99110055: 8
+    story: jackson0
   Yellow:
-    N00120056: 5
-    N00200044: 6
-    N00200034: 2
-    story: smallwood2
+    B02202101: 2
+    B01200075: 5
+    B01200008: 6
+    story: abreu1
