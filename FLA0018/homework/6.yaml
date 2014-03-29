@@ -1,24 +1,87 @@
 ---
-exercise: 3-point presentation
-criteria:
+cutpoints:
+  one: ~
+  two: ~
+exercise: biomom
 grade:
-  V9741022: 3
-  V9841025: 3
-  V9841042: 3
-  V9916050: 3
-  V9941001: 0
-  V9941005: 0
-  V9941007: 0
-  V9941010: 2
-  V9941011: 3
-  V9941012: 3
-  V9941013: 0
-  V9941014: 0
-  V9941015: 2
-  V9941022: 3
-  V9941023: 3
-  V9941025: 3
-  V9941026: 3
-  V9941027: 3
-  V9941029: 3
-  V9941031: 3
+  U0043041: 1.98
+  V0041002: 2
+  V0041007: 0
+  V0041009: 2
+  V0041012: 2
+  V0041017: 2
+  V0041025: 0
+  V0041030: 2
+  V0041033: 0
+  V0041035: 1.54
+  V0041038: 2
+  V0041040: 0
+  V0041044: 0
+  V0041046: 2
+  V0041049: 2
+  V0041052: 0
+  V0041055: 0
+  V0041058: 0
+  V0299140: 0
+  V9941065: 0
+points:
+  U0043041:
+    letters: 141
+    percent: 99
+  V0041002:
+    letters: 152
+    percent: 100
+  V0041007:
+    letters: 0
+    percent: 0
+  V0041009:
+    letters: 136
+    percent: 100
+  V0041012:
+    letters: 161
+    percent: 100
+  V0041017:
+    letters: 139
+    percent: 100
+  V0041025:
+    letters: 0
+    percent: 0
+  V0041030:
+    letters: 131
+    percent: 100
+  V0041033:
+    letters: 0
+    percent: 0
+  V0041035:
+    letters: 108
+    percent: 77
+  V0041038:
+    letters: 142
+    percent: 100
+  V0041040:
+    letters: 0
+    percent: 0
+  V0041044:
+    letters: 0
+    percent: 0
+  V0041046:
+    letters: 148
+    percent: 100
+  V0041049:
+    letters: 146
+    percent: 100
+  V0041052:
+    letters: 0
+    percent: 0
+  V0041055:
+    letters: 0
+    percent: 0
+  V0041058:
+    letters: 0
+    percent: 0
+  V0299140:
+    letters: 0
+    percent: 0
+  V9941065:
+    letters: 0
+    percent: 0
