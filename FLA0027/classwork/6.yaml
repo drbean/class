@@ -1,38 +1,77 @@
 ---
+# topic: sports vocab yachting
+
+# moved up: Ada, Chelsea, IYun, XinFang, Henry, Andy
+# moved back: Rei, Brenda, Louanna, Stephanie
 Black:
-  absent: 
+  absent:
   merits: 3
 Blue:
-  absent: 
-  merits: 2
-
-Green:
-  absent: 
-  merits: 3
-BlackBlack:
   absent:
-    - Rita
+    - Stella
   merits: 3
 
 Brown:
+  absent:
+    - YaTing2
+  merits: 2
+Gray:
+  absent:
   merits: 3
-BlueBlue:
-  absent: 
-  merits: 3
+
+Green:
+  absent:
+  merits: 2
+Charcoal:
+  absent:
+  merits: 2
+
+Chocolate:
+  absent:
+    - Redd
+  merits: 2
+Khaki:
+  absent:
+  merits: 2
+
 
 Orange:
-  absent: 
+  absent:
   merits: 2
-
-Yellow:
-  merits: 2.5
-White:
-  absent: 
-    - Yvonne
-  merits: 2
-
 Pink:
-  merits: 2
+  absent:
+  merits: 3
+
 Purple:
-  absent: 
+  absent:
+    - MengShiung
   merits: 2
+Red:
+  absent:
+  merits: 3
+
+White:
+  absent:
+  merits: 2
+Yellow:
+  absent:
+  merits: 3
+
+Silver:
+  absent:
+  merits: 2
+Violet:
+  absent:
+  merits: 2
+
+Beige:
+  absent:
+    - Edward
+  merits: 2
+Golden:
+  absent:
+    - 
+  merits: 0
+
+Turquoise:
+  merits: 3
