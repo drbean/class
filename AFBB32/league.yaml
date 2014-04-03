@@ -30,11 +30,6 @@ member:
     name: Phoebe
     password: yu
     rating: ~
-  - Chinese: 鍾尚軒
-    id: B00232205
-    name: 鍾尚軒
-    password: shang
-    rating: ~
   - Chinese: 周誠
     id: B98200021
     name: Luke
@@ -315,7 +310,12 @@ member:
     name: Betty
     password: ya
     rating: ~
-out: ~
+out:
+  - Chinese: 鍾尚軒
+    id: B00232205
+    name: 鍾尚軒
+    password: shang
+    rating: ~
 room: A705
 school: must
 scores:
