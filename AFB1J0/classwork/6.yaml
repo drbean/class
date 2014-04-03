@@ -1,32 +1,50 @@
 ---
+# topic: twitter
+
+
 Black:
-  absent: 
-    - Fion
-  merits: 3
-Green:
-  absent: 
-    - Jeff
+  absent:
+    - Roger
   merits: 2
+Blue:
+  absent:
+  merits: 3
 
 Charcoal:
-  absent: 
-    - Stephen
+  absent:
+    - Wade
   merits: 2
-Pink:
-  absent: 
+Green:
+  absent:
+    - Mila
+    - Vicky
   merits: 3
 
 Orange:
   absent:
+  merits: 3
+Pink:
+  absent:
+  merits: 2
+
+White:
+  absent:
+    - Rice
+    - Anita
   merits: 2
 Yellow:
-  absent: 
-    - Rena
+  absent:
   merits: 3
 
-Blue:
-  absent:
-    - Louie
-  merits: 3
-Purple:
-  merits: 2
+
+
+
+points:
+  Black: 5
+  Blue: 12
+  Charcoal: 9
+  Green: 14
+  Orange: 25
+  Pink: 7
+  White: 2
+  Yellow: 16
