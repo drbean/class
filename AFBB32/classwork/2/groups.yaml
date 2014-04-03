@@ -1,56 +1,80 @@
 ---
+Beige:
+  - Emma
+  - Josh
+  - Caroline
 Black:
-  - Kelly1
-  - James
-  - Ally
-Blue:
-  - Mei
-  - Peggy
-  - Crown
-Brown:
-  - MiuMiu
-  - Shane
-  - Jerry
-Gray:
-  - Champion
-  - Ben
-  - Candy
-Green:
-  - Eva
-  - Tina
-  - Sally
-BlackBlack:
-  - Neil
-  - Carol
-  - Teresa
-BlueBlue:
-  - Lanna
-  - Louie
-  - Carlos
-Orange:
-  - Alex
-  - Emily
-  - Denise
-Pink:
-  - Katie
-  - Selena
-  - Mindy
-Purple:
-  - Joan
-  - Yuki
-  - Allen
-Red:
-  - Don
-  - Dora
-  - Jeff
-White:
-  - Cindy
-  - Neo
-  - Dave
-Yellow:
-  - Vicky
-  - Andy
-  - Bunny
-OrangeOrange:
-  - Fion
+  - Riccia
   - Betty
+  - Claire
+Blue:
+  - Luke
+  - Eva
+  - Cindy
+Brown:
+  - Wayne
+  - Winnie
+  - Jason
+Charcoal:
+  - Hannah
+  - Ashley
+  - Alina
+Chocolate:
+  - Phoebe
+  - Vicky1
+  - Sandy
+Golden:
+  - Roc
+  - Jean
+  - Penny
+Gray:
+  - Lorry
+  - Hola
+  - Sarah
+Green:
+  - Eileen
+  - Ruby
+  - Pancy
+Khaki:
+  - Peggy
+  - Alicia
+  - Chloe
+Orange:
+  - Nicole
+  - Ennis
+  - Allen
+Pink:
+  - Rita
+  - Tammy
+  - Linda
+Purple:
+  - Charlene
+  - Jessie
+  - Will
+Red:
+  - Zarita
+  - Jane
+  - Joe
+Silver:
+  - Momo
+  - Wenny
+  - Hedy
+Turquoise:
+  - Christy
+  - Jasmine
+  - Scott
+Violet:
+  - Ellen
+  - Dona
+  - Judy
+White:
+  - Sean
+  - Nancy
+Window:
+  - Della
+  - Abby
+  - Cora
+Yellow:
+  - Rosa
+  - Eric
+  - Vicky2
