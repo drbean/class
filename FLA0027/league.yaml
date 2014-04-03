@@ -293,11 +293,6 @@ member:
     name: Ada
     password: yi
     rating: ~
-  - Chinese: 杜珮瑜
-    id: V0041028
-    name: 杜珮瑜
-    password: pei
-    rating: ~
   - Chinese: 劉茹芬
     id: N9661749
     name: Sophia
@@ -309,6 +304,11 @@ member:
     password: bing
     rating: ~
 out:
+  - Chinese: 杜珮瑜
+    id: V0041028
+    name: 杜珮瑜
+    password: pei
+    rating: ~
   - Chinese: 吳千羽
     id: V9841022
     name: Hank
