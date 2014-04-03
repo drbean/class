@@ -1,43 +1,59 @@
 ---
+# topic: douglas
 
 Black:
-  absent: 
-    - Tracy
-  merits: 3
-Gray:
-  absent: 
-    - Yukin
-  merits: 3
-
+  absent:
+  merits: ~
 Blue:
-  absent: 
-  tardy:
-    - KungHsing
-    - Chung-Wei
-  merits: 3
-Brown:
-  absent: 
-    - Elizabeth
-  merits: 3
+  absent:
+  merits: ~
 
-Pink:
-  absent: 
-    - Sunny
-  merits: 3
+Brown:
+  absent:
+  merits: ~
+Gray:
+  absent:
+  merits: ~
+
+Khaki:
+  absent:
+  merits: ~
+Chocolate:
+  absent:
+  merits: ~
+
+Charcoal:
+  absent:
+  merits: ~
+Green:
+  absent:
+  merits: ~
 
 Orange:
-  absent: 
-    - Simon
-  merits: 3
-Green:
-  absent: 
-    - Rick
-  merits: 3
+  absent:
+  merits: ~
+Pink:
+  absent:
+  merits: ~
 
-White:
-  absent: 
-  merits: 3
+Purple:
+  absent:
+  merits: ~
+Red:
+  absent:
+  merits: ~
+
+Violet:
+  absent:
+  merits: ~
+Silver:
+  absent:
+  merits: ~
+
 Yellow:
-  absent: 
-    - Moomin
-  merits: 3
+  absent:
+  merits: ~
+White:
+  absent:
+  merits: ~
+
