@@ -117,11 +117,6 @@ member:
     name: Vivian
     password: wei
     rating: ~
-  - Chinese: 陳弘翊
-    id: 101405332
-    name: 陳弘翊
-    password: hong
-    rating: ~
   - Chinese: 羅碧盈
     id: 101405334
     name: Rose
@@ -268,6 +263,11 @@ member:
     password: jian
     rating: ~
 out:
+  - Chinese: 陳弘翊
+    id: 101405332
+    name: 陳弘翊
+    password: hong
+    rating: ~
   - Chinese: 林竹君
     id: 101405438
     name: 林竹君
