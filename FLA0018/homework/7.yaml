@@ -1,26 +1,87 @@
 ---
-exercise: reaction to debate in week 6
-criteria:
-  - recognition of differences in opinion
-  - recognition of reasonableness of an opinion one disagrees with
+cutpoints:
+  one: ~
+  two: ~
+exercise: biodad
 grade:
-  V9741022: 0
-  V9841025: 3
-  V9841042: 0
-  V9916050: 0
-  V9941001: 0
-  V9941005: 0
-  V9941007: 0
-  V9941010: 3
-  V9941011: 0
-  V9941012: 3
-  V9941013: 0
-  V9941014: 0
-  V9941015: 3
-  V9941022: 3
-  V9941023: 3
-  V9941025: 3
-  V9941026: 0
-  V9941027: 3
-  V9941029: 3
-  V9941031: 0
+  U0043041: 0
+  V0041002: 2
+  V0041007: 2
+  V0041009: 2
+  V0041012: 1.94
+  V0041017: 0
+  V0041025: 0
+  V0041030: 2
+  V0041033: 1.66
+  V0041035: 1.86
+  V0041038: 2
+  V0041040: 2
+  V0041044: 0
+  V0041046: 2
+  V0041049: 2
+  V0041052: 2
+  V0041055: 0
+  V0041058: 1.76
+  V0299140: 0
+  V9941065: 0
+points:
+  U0043041:
+    letters: 0
+    percent: 0
+  V0041002:
+    letters: 201
+    percent: 100
+  V0041007:
+    letters: 211
+    percent: 100
+  V0041009:
+    letters: 188
+    percent: 100
+  V0041012:
+    letters: 191
+    percent: 97
+  V0041017:
+    letters: 0
+    percent: 0
+  V0041025:
+    letters: 0
+    percent: 0
+  V0041030:
+    letters: 203
+    percent: 100
+  V0041033:
+    letters: 156
+    percent: 83
+  V0041035:
+    letters: 189
+    percent: 93
+  V0041038:
+    letters: 208
+    percent: 100
+  V0041040:
+    letters: 217
+    percent: 100
+  V0041044:
+    letters: 0
+    percent: 0
+  V0041046:
+    letters: 207
+    percent: 100
+  V0041049:
+    letters: 219
+    percent: 100
+  V0041052:
+    letters: 198
+    percent: 100
+  V0041055:
+    letters: 0
+    percent: 0
+  V0041058:
+    letters: 158
+    percent: 88
+  V0299140:
+    letters: 0
+    percent: 0
+  V9941065:
+    letters: 0
+    percent: 0
