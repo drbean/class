@@ -1,143 +1,30 @@
 ---
-exercise: base
+cutpoints:
+  one: 0
+  two: 0
+exercise: copy to internet_english@groups.gmail.com of Internet post
 grade:
-  N00200034: 0
-  N00203002: 0
-  N00200051: 0
-  N00200036: 0
-  N00200029: 0
-
-  N00200001: 2
-  N00200008: 2
-  N00200009: 0.134078212290503
-  N00200017: 2
-  N00200025: 2
-  N00200030: 2
-  N00200031: 0.860335195530726
-  N00200037: 2
-  N00200042: 2
-  N00200043: 2
-  N00200054: 2
-  N00200055: 1.0391061452514
-  N00200056: 1.97765363128492
-  N01202001: 2
-  N01202004: 0.815642458100559
-  N01203003: 1.87709497206704
-  N02202113: 1.07262569832402
-  N96200030: 2
-points:
-  N00200001:
-    tries: ~
-    answers: 179
-    correct: 51
-    exam_maximum_score: '( 179 - 51 )/ 161'
-  N00200008:
-    tries: ~
-    answers: 179
-    correct: 61
-    exam_maximum_score: '( 179 - 61 )/ 161'
-  N00200009:
-    tries: ~
-    answers: 12
-    correct: 3
-    exam_maximum_score: '( 12 - 3 )/ 161'
-  N00200017:
-    tries: ~
-    answers: 179
-    correct: 18
-    exam_maximum_score: '( 179 - 18 )/ 161'
-  N00200025:
-    tries: ~
-    answers: 179
-    correct: 83
-    exam_maximum_score: '( 179 - 83 )/ 161'
-  N00200029:
-    tries: 0
-    answers: 0
-    correct: 0
-    exam_maximum_score: '( 0 - 0 )/ 161'
-  N00200030:
-    tries: ~
-    answers: 179
-    correct: 41
-    exam_maximum_score: '( 179 - 41 )/ 161'
-  N00200031:
-    tries: ~
-    answers: 77
-    correct: 22
-    exam_maximum_score: '( 77 - 22 )/ 161'
-  N00200034:
-    tries: 0
-    answers: 0
-    correct: 0
-    exam_maximum_score: '( 0 - 0 )/ 161'
-  N00200036:
-    tries: 0
-    answers: 0
-    correct: 0
-    exam_maximum_score: '( 0 - 0 )/ 161'
-  N00200037:
-    tries: ~
-    answers: 179
-    correct: 137
-    exam_maximum_score: '( 179 - 137 )/ 161'
-  N00200042:
-    tries: ~
-    answers: 179
-    correct: 148
-    exam_maximum_score: '( 179 - 148 )/ 161'
-  N00200043:
-    tries: ~
-    answers: 179
-    correct: 55
-    exam_maximum_score: '( 179 - 55 )/ 161'
-  N00200051:
-    tries: 0
-    answers: 0
-    correct: 0
-    exam_maximum_score: '( 0 - 0 )/ 161'
-  N00200054:
-    tries: ~
-    answers: 179
-    correct: 146
-    exam_maximum_score: '( 179 - 146 )/ 161'
-  N00200055:
-    tries: ~
-    answers: 93
-    correct: 26
-    exam_maximum_score: '( 93 - 26 )/ 161'
-  N00200056:
-    tries: ~
-    answers: 177
-    correct: 70
-    exam_maximum_score: '( 177 - 70 )/ 161'
-  N00203002:
-    tries: 0
-    answers: 0
-    correct: 0
-    exam_maximum_score: '( 0 - 0 )/ 161'
-  N01202001:
-    tries: ~
-    answers: 179
-    correct: 18
-    exam_maximum_score: '( 179 - 18 )/ 161'
-  N01202004:
-    tries: ~
-    answers: 73
-    correct: 24
-    exam_maximum_score: '( 73 - 24 )/ 161'
-  N01203003:
-    tries: ~
-    answers: 168
-    correct: 53
-    exam_maximum_score: '( 168 - 53 )/ 161'
-  N02202113:
-    tries: ~
-    answers: 96
-    correct: 37
-    exam_maximum_score: '( 96 - 37 )/ 161'
-  N96200030:
-    tries: ~
-    answers: 179
-    correct: 54
-    exam_maximum_score: '( 179 - 54 )/ 161'
+B00200101: ~
+B01203102: ~
+B01203103: ~
+B02200003: ~
+B02200012: ~
+B02200025: 1
+B02200030: ~
+B02200031: ~
+B02200043: ~
+B02200047: 0.5
+B02200052: ~
+B02200061: ~
+B02200064: 0.5
+B02200066: ~
+B02200067: ~
+B02200069: ~
+B02200084: ~
+B02200088: ~
+B02200093: ~
+B02200098: ~
+B02200106: ~
+B02202201: ~
+B02202202: ~
+B02202203: ~
