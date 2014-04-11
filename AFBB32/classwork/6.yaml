@@ -1,50 +1,81 @@
 ---
+# topic: biomom,biodad
+# no week 7
+
 Black:
   absent:
+    - Riccia
   merits: 3
 Blue:
   absent:
-    - Peggy
-    - Crown
+    - Luke
   merits: 2
+
 Brown:
   absent:
   merits: 2
 Gray:
   absent:
-    - Ben
+    - Lorry
   merits: 3
+
 Green:
   absent:
-  merits: 3
-BlackBlack:
+  merits: 2
+Charcoal:
   absent:
   merits: 3
-BlueBlue:
+
+Chocolate:
   absent:
+    - Vicky1
   merits: 3
+Khaki:
+  absent:
+  merits: 2
+
 Orange:
   absent:
-    - Denise
-    - Emily
-  merits: 2
+  merits: 3
 Pink:
   absent:
-  merits: 3
+  merits: 2
+
 Purple:
   absent:
-  merits: 2
+    - Will
+  merits: 3
 Red:
   absent:
+    - Zarita
   merits: 2
+
 White:
   absent:
-  merits: 3
+  merits: 2
 Yellow:
   absent:
-    - Andy
   merits: 3
-OrangeOrange:
+
+Beige:
   absent:
-    - Fion
+    - Caroline
+  merits: 2
+Golden:
+  absent:
+    - Roc
   merits: 3
+
+Turquoise:
+  absent:
+  merits: 3
+Window:
+  absent:
+  merits: 3
+
+Violet:
+  absent:
+  merits: 3
+Silver:
+  absent:
+  merits: 2
