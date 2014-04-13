@@ -1,56 +1,80 @@
 ---
-# topic: biodad,biomom
-# forgot attendance check
-# 3 questions
-Black:
-  absent: 
-  merits: 3
-Blue:
-  absent: 
-  merits: 2
-
-Brown:
-  absent: 
-  merits: 2.5
-
-Gray:
-  absent: 
-  merits: 3
+# topic: emersonj. forgot file
 
 Green:
-  absent: 
+  absent:
   merits: 3
-BlackBlack:
-  absent: 
+Black:
+  absent:
   merits: 3
 
-BlueBlue:
-  absent: 
-  merits: 2.5
+Blue:
+  absent:
+    - Luke
+  merits: 3
+Brown:
+  absent:
+  merits: 3
 
+Gray:
+  absent:
+    - Hola
+  merits: 3
+Beige:
+  absent:
+    - Caroline
+  merits: 3
+
+Turquoise:
+  absent:
+  merits: 3
+Khaki:
+  absent:
+  merits: 3
+
+Chocolate:
+  absent:
+  merits: 3
+Charcoal:
+  absent:
+  merits: 3
+
+White:
+  absent:
+    - Sean
+  merits: 3
 Orange:
-  absent: 
-  merits: 3
-Pink:
-  absent: 
+  absent:
   merits: 3
 
+Pink:
+  absent:
+    - Rita
+    - Linda
+  merits: 3
 Purple:
-  absent: 
+  absent:
   merits: 3
 
 Red:
-  absent: 
-  merits: 2.5
-
-White:
-  absent: 
-  merits: 2.5
-
-Yellow:
-  absent: 
-  merits: 2.5
-
-OrangeOrange:
-  absent: 
+  absent:
   merits: 3
+Golden:
+  absent:
+  merits: 3
+
+Violet:
+  absent:
+  merits: 3
+Window:
+  absent:
+  merits: 3
+
+Silver:
+  absent:
+  merits: 3
+Yellow:
+  absent:
+    - Eric
+  merits: 3
+
