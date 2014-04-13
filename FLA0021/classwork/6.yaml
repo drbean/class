@@ -1,38 +1,76 @@
 ---
+# topic: stress
+
 Black:
-  absent: 
+  absent:
   merits: 3
 Blue:
-  absent: 
+  absent:
   merits: 2
 
-Green:
-  absent: 
-  merits: 3
-BlackBlack:
+Brown:
   absent:
-    - Rita
+  merits: 3
+Gray:
+  absent:
+    - Claire
+  merits: 2
+
+Khaki:
+  absent:
+    - Eva
+    - Redd
+  merits: 2
+Chocolate:
+  absent:
   merits: 3
 
-Brown:
+Charcoal:
+  absent:
+    - Chelsea
   merits: 3
-BlueBlue:
-  absent: 
-  merits: 3
+Green:
+  absent:
+  merits: 2
 
 Orange:
-  absent: 
+  absent:
+  merits: 3
+Pink:
+  absent:
+    - YanJing
+  merits: 2
+
+Purple:
+  absent:
+  merits: 3
+Red:
+  absent:
+    - Vicki
+  merits: 2
+
+Violet:
+  absent:
+  merits: 3
+Silver:
+  absent:
   merits: 2
 
 Yellow:
-  merits: 2.5
+  absent:
+    - Brenda
+  merits: 2
 White:
-  absent: 
-    - Yvonne
-  merits: 2
+  absent:
+    - Oscar
+  merits: 3
 
-Pink:
+Beige:
+  absent:
+    - Welkin
   merits: 2
-Purple:
-  absent: 
-  merits: 2
+Golden:
+  absent:
+    - Stella
+  merits: 3
+
