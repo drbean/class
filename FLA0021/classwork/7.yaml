@@ -1,48 +1,75 @@
 ---
-Black:
-  absent: 
-  merits: 3
-Blue:
-  absent: 
-  merits: 2
-
-Brown:
-  absent: 
-    - Amy2
-  merits: 3
-BlueBlue:
-  absent: 
-    - Vivian
-    - Judy
-  merits: 3
-
-BlackBlack:
-  absent:
-    - Rita
-    - Brenda
-    - Yorick
-  merits: 0
+# topic: cusp
 
 Green:
-  absent: 
+  absent:
+  merits: 2
+Black:
+  absent:
+    - HsinCih
+  merits: 3
+
+Blue:
+  absent:
+  merits: 2
+Brown:
+  absent:
+  merits: 3
+
+Gray:
+  absent:
+  merits: 2
+Beige:
+  absent:
+    - Welkin
+  merits: 3
+
+Charcoal:
+  absent:
+    - Chelsea
+  merits: 2
+Chocolate:
+  absent:
+  merits: 3
+
+White:
+  absent:
   merits: 3
 Orange:
   absent:
   merits: 2
 
 Pink:
-  absent: 
-    - Katty
+  absent:
   merits: 3
 Purple:
-  absent: 
-    - Amy1
-  merits: 3
-
-Yellow:
-  absent: 
+  absent:
   merits: 2
-White:
-  absent: 
-    - Yvonne
+
+Golden:
+  absent:
+    - Stella
+  merits: 2
+Violet:
+  absent:
+    - Pei-Yun
+    - Katty
+  merits: 2
+
+Silver:
+  absent:
+    - Nini
+    - Charlie
   merits: 3
+Yellow:
+  absent:
+    - Brenda
+  merits: 2
+
+Khaki:
+  absent:
+  merits: 3
+Red:
+  absent:
+  merits: 2
+
