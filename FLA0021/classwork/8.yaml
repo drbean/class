@@ -1,50 +1,77 @@
 ---
-# plagiarism hunt
-Black:
-  absent: 
-  merits: 2.5
+# topic: adventure
 
+Black:
+  absent:
+    - Rita
+  merits: 2
 Blue:
-  absent: 
-    - Claire
+  absent:
+    - Louise
   merits: 3
 
 Brown:
-  absent: 
-    - Joe
-  merits: 2.5
-
-Green:
-  absent: 
-    - Jessica
+  absent:
+    I-Yun
+  merits: 3
+Gray:
+  absent:
+    - Claire
   merits: 2
 
-BlueBlue:
-  absent: 
-  merits: 2.5
-
-BlackBlack:
+Khaki:
   absent:
-    - Rita
+    - Eva
+  merits: 2
+Chocolate:
+  absent:
+  merits: 3
+
+Charcoal:
+  absent:
+    - RueiYen
+  merits: 2
+Green:
+  absent:
   merits: 3
 
 Orange:
   absent:
-    - Vicki
   merits: 2
-
 Pink:
-  absent: 
+  absent:
+    - Edward
   merits: 3
 
 Purple:
-  absent: 
+  absent:
+    - Stephanie
+  merits: 3
+Red:
+  absent:
+    - Vicki
+  merits: 2
+
+Violet:
+  absent:
+  merits: 2
+Silver:
+  absent:
   merits: 3
 
 Yellow:
-  absent: 
-  merits: 2.5
-White:
-  absent: 
-    - Yvonne
+  absent:
+    - Nini
   merits: 2
+White:
+  absent:
+  merits: 3
+
+Beige:
+  absent:
+  merits: 3
+Golden:
+  absent:
+    - Welkin
+  merits: 2
+
