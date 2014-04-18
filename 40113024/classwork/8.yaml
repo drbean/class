@@ -1,0 +1,53 @@
+---
+# topic: self-intro
+
+Green:
+  absent:
+    - Tina
+  merits: 2
+Black:
+  absent:
+  merits: 3
+
+Charcoal:
+  absent:
+    - KiRu
+    - Liu
+    - JingJia
+  merits: 0
+Blue:
+  absent:
+  merits: 3
+
+Chocolate:
+  absent:
+    - YiShyuan
+  merits: 2
+Brown:
+  absent:
+    - ChiaChia
+  merits: 3
+
+Orange:
+  absent:
+  merits: 2.5
+White:
+  absent:
+    - Martin
+  merits: 2.5
+
+Pink:
+  absent:
+  merits: 2
+Yellow:
+  absent:
+  merits: 3
+
+Purple:
+  absent:
+  merits: 3
+Silver:
+  absent:
+    - Anna
+  merits: 2
+
