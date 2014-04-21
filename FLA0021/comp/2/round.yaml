@@ -135,7 +135,7 @@ late:
   - V9741022
   - V9841028
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 1
 round: 2
 text: /home/drbean/class/business/stress/cards.yaml
 week: 9
