@@ -1,25 +1,87 @@
 ---
-exercise: interview 1 week ahead of midterm exam interviews, but by A<-B<-C<-D. Here, interviewER gets grade.
-criteria:
-  - title, question points
+cutpoints:
+  one: ~
+  two: ~
+exercise: emersonj
 grade:
-  V9741022: 2
-  V9841025: 0
-  V9841042: 3
-  V9916050: 0
-  V9941001: 3
-  V9941005: 0
-  V9941007: 2
-  V9941010: 3
-  V9941011: 2
-  V9941012: 3
-  V9941013: 0
-  V9941014: 3
-  V9941015: 3
-  V9941022: 3
-  V9941023: 2
-  V9941025: 3
-  V9941026: 0
-  V9941027: 2
-  V9941029: 3
-  V9941031: 0
+  U0043041: 2
+  V0041002: 2
+  V0041007: 1.68
+  V0041009: 2
+  V0041012: 2
+  V0041017: 0
+  V0041025: 0
+  V0041030: 2
+  V0041033: 0
+  V0041035: 1.18
+  V0041038: 2
+  V0041040: 2
+  V0041044: 0
+  V0041046: 2
+  V0041049: 2
+  V0041052: 2
+  V0041055: 0
+  V0041058: 2
+  V0299140: 0
+  V9941065: 1.98
+points:
+  U0043041:
+    letters: 244
+    percent: 100
+  V0041002:
+    letters: 232
+    percent: 100
+  V0041007:
+    letters: 203
+    percent: 84
+  V0041009:
+    letters: 264
+    percent: 100
+  V0041012:
+    letters: 232
+    percent: 100
+  V0041017:
+    letters: 0
+    percent: 0
+  V0041025:
+    letters: 0
+    percent: 0
+  V0041030:
+    letters: 265
+    percent: 100
+  V0041033:
+    letters: 0
+    percent: 0
+  V0041035:
+    letters: 155
+    percent: 59
+  V0041038:
+    letters: 259
+    percent: 100
+  V0041040:
+    letters: 242
+    percent: 100
+  V0041044:
+    letters: 0
+    percent: 0
+  V0041046:
+    letters: 248
+    percent: 100
+  V0041049:
+    letters: 232
+    percent: 100
+  V0041052:
+    letters: 240
+    percent: 100
+  V0041055:
+    letters: 0
+    percent: 0
+  V0041058:
+    letters: 215
+    percent: 100
+  V0299140:
+    letters: 0
+    percent: 0
+  V9941065:
+    letters: 203
+    percent: 99
