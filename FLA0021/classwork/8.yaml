@@ -12,7 +12,7 @@ Blue:
 
 Brown:
   absent:
-    I-Yun
+    - I-Yun
   merits: 3
 Gray:
   absent:
