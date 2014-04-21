@@ -74,3 +74,8 @@ Golden:
     - Sophia1
   merits: 3
 
+Turquoise:
+  absent:
+    - HsinCih
+    - Louise
+  merits: 0
