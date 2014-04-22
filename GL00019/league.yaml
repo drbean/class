@@ -55,12 +55,12 @@ member:
     name: Wen
     password: hong
     rating: ~
+out:
   - Chinese: 朱偉德
     id: U9921307
     name: Wade
     password: wei
     rating: ~
-out:
   - Chinese: 呂宗憲
     id: U9922008
     name: 呂宗憲
@@ -102,6 +102,7 @@ scores:
   win: 5
 session:
   1: 1
+  2: 6
 weights:
   classwork: 40
   exams: 20
