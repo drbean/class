@@ -3,189 +3,108 @@ free:
   0:
     biomom:
       0:
-        U9943019:
+        U0016044:
           point:
             1: Returned
-        U0042050:
+        U9911001:
           point:
-            1: Returned
+            1: Returned on 2nd chance
     biodad:
       0:
-        U9943019:
+        U0016044:
           point:
-            1: Nil
-        U0042050:
+            1: Returned
+        U9911001:
           point:
-            1: Nil
+            1: Returned
     emersonj:
       0:
-        U9943019:
+        U0016044:
           point:
             1: Returned
-        U0042050:
+            2: Returned
+        U9911001:
           point:
             1: Returned
+            2: Returned
   1:
     biomom:
       0:
-        U9911237:
+        U9816034:
           point:
             1: Returned
-        U0043004:
+        U0110031:
           point:
-            1: Returned
+            1: Returned on 2nd chance
     biodad:
       0:
-        U9911237:
+        U9816034:
           point:
-            1: Returned
-            2: Returned
-        U0043004:
+            1: Returned on 2nd chance
+        U0110031:
           point:
             1: Returned
     emersonj:
       0:
-        U9911237:
+        U9816034:
           point:
             1: Returned
-        U0043004:
+        U0110031:
           point:
-            1: Returned
-            2: Returned
+            1: Nil
   2:
     biomom:
       0:
-        U0043001:
+        U9911220:
           point:
             1: Returned
-            2: Returned
-        U0222228:
+        U0022342:
           point:
-            1: Returned
+            1: Returned on 2nd chance
     biodad:
       0:
-        U0043001:
+        U9911220:
           point:
-            1: Nil
-        U0222228:
+            1: Old
+        U0022342:
           point:
             1: Returned
     emersonj:
       0:
-        U0043001:
+        U9911220:
+          point:
+            1: Returned on 2nd chance
+            2: Fault
+        U0022342:
           point:
             1: Returned
-            2: Returned
-        U0222228:
-          point:
-            1: Returned
-            2: Returned
   3:
     biomom:
       0:
-        U9923120:
+        U9911202:
           point:
             1: Returned
-        U0017024:
+        U0022343:
           point:
             1: Returned
-            2: Returned
-    biodad:
-      0:
-        U9923120:
-          point:
-            1: Returned
-            2: Fault
-        U0017024:
-          point:
-            1: Nil
-    emersonj:
-      0:
-        U9923120:
-          point:
-            1: Returned
-        U0017024:
-          point:
-            1: Returned
-            2: Returned
-  4:
-    biomom:
-      0:
-        U0122002:
-          point:
-            1: Returned
-            2: Returned
-        U9943007:
-          point:
-            1: Nil
-    biodad:
-      0:
-        U0122002:
-          point:
-            1: Returned
-        U9943007:
-          point:
-            1: Returned
-    emersonj:
-      0:
-        U0122002:
-          point:
-            1: Returned
-        U9943007:
-          point:
-            1: Returned
-            2: Returned
-            3: Returned
-  6:
-    biomom:
-      0:
-        U0222133:
-          point:
-            1: Nil
-        K220155482:
-          point:
-            1: Nil
-    biodad:
-      0:
-        U0222133:
-          point:
-            1: Returned
-        K220155482:
-          point:
-            1: Fault
-    emersonj:
-      0:
-        U0222133:
-          point:
-            1: Returned
-        K220155482:
-          point:
-            1: Returned
-  7:
-    biomom:
-      0:
-        U9923121:
-          point:
-            1: Returned
-        U9911242:
-          point:
-            1: Nil
-    biodad:
-      0:
-        U9923121:
-          point:
-            1: Returned
-        U9911242:
-          point:
-            1: Fault
             2: Unreturned
+    biodad:
+      0:
+        U9911202:
+          point:
+            1: Returned on 2nd chance
+        U0022343:
+          point:
+            1: Old
+            2: Old
             3: Returned
     emersonj:
       0:
-        U9923121:
+        U9911202:
           point:
-            1: Returned
+            1: Fault on 2nd chance
+            2: Fault
+        U0022343:
+          point:
+            1: Old
             2: Returned
-        U9911242:
-          point:
-            1: Unreturned
