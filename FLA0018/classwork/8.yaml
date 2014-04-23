@@ -1,75 +1,30 @@
 ---
-Black:
-  absent: 
-  merits: 2.5
+# topic: emersonj
+
 Orange:
-  absent: 
+  absent:
+  merits: 2
+Black:
+  absent:
+    - Amy2
   merits: 3
 
 Blue:
-  absent: 
+  absent:
+    - Sing
   merits: 2
 Brown:
-  absent: 
+  absent:
   merits: 3
 
-Pink:
-  absent: 
-    - Vicki
-  merits: 2
 Purple:
   absent:
-  merits: 2.5
-Red:
-  absent: 
-    - Nini
-    - Diana
-  merits: 2.5
- 
-Yan-Ting:
-  absent: 
-  merits: 0
+  merits: 3
+Pink:
+  absent:
+  merits: 2
 
-#round_1:
-#  Black:
-#    absent: 
-#    merits: 2
-#  Orange:
-#    absent: 
-#    merits: 3
-#
-#  Blue:
-#    absent: 
-#    merits: 2
-#  Brown:
-#    absent: 
-#    merits: 3
-#
-#  Pink:
-#    absent: 
-#    merits: 2
-#  Purple:
-#    absent:
-#    merits: 3
-#
-#round_2:
-#  Black:
-#    absent: 
-#    merits: 3
-#  Blue:
-#    absent: 
-#    merits: 2
-#
-#  Purple:
-#    absent: 
-#    merits: 2
-#  Brown:
-#    absent: 
-#    merits: 3
-#
-#  Pink:
-#    absent: 
-#    merits: 2
-#  Orange:
-#    absent:
-#    merits: 3
+Red:
+  absent:
+  merits: 3
+
