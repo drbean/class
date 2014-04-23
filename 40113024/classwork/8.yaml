@@ -30,11 +30,12 @@ Brown:
 
 Orange:
   absent:
-  merits: 2.5
+    - Ariel
+  merits: 3
 White:
   absent:
     - Martin
-  merits: 2.5
+  merits: 2
 
 Pink:
   absent:
