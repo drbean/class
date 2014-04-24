@@ -3,43 +3,73 @@ Chinese:
   Black: 0
   Blue: 0
   Brown: 0
-  Gray: 0
+  Charcoal: 0
+  Chocolate: 0
   Green: 0
   Orange: 0
+  Pink: 0
+  Purple: 0
+  Silver: 0
+  White: 0
   Yellow: 0
 letters:
   Black:
-    U9943019: 0
-    U9911237: 2
-    U0043001: 7
-    story: biodad1
+    100405425: 5
+    102500005: 5
+    100406867: 5
+    story: emersonj2
   Blue:
-    U0122002: 10
-    U9917017: 7
-    U9923120: 8
-    story: biomom4
-  Brown:
-    U0222133: 9
-    U9923121: 9
-    U0042050: 7
-    story: biomom4
-  Gray:
-    U0018027: 10
-    U0018046: 10
-    U0043033: 10
-    story: biomom4
-  Green:
-    U0042041: 4
-    U0017024: 4
-    U0222228: 5
-    story: emersonj2
-  Orange:
-    U0042012: 7
-    U0043004: 7
-    U9943007: 7
-    story: emersonj2
-  Yellow:
-    U9911242: 8
-    U0042031: 8
-    K220155482: 10
+    100405531: 7
+    100405417: 7
+    100406866: 6
     story: biodad1
+  Brown:
+    101405311: 8
+    100405444: 6
+    100405540: 4
+    story: emersonj2
+  Charcoal:
+    100405528: 4
+    100405402: 5
+    100407024: 7
+    story: emersonj2
+  Chocolate:
+    100405411: 4
+    100405401: 2
+    100405402: 8
+    story: biodad1
+  Green:
+    100405514: 6
+    100405440: 9
+    100405417: 7
+    story: biomom4
+  Orange:
+    100405437: 7
+    100405507: 9
+    100405510: 9
+    story: biomom4
+  Pink:
+    100405541: 8
+    100405413: 7
+    100405501: 2
+    story: biodad1
+  Purple:
+    100405432: 6
+    100405536: 8
+    100406863: 7
+    story: biomom4
+  Silver:
+    100405508: 7
+    100405408: 3
+    100405545: 6
+    story: biodad1
+  White:
+    101500122: 5
+    100405537: 5
+    100405529: 0
+    story: biomom4
+  Yellow:
+    100405509: 5
+    100405545: 5
+    100405508: 5
+    story: emersonj2
