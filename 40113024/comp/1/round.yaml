@@ -1,84 +1,101 @@
 ---
 activity:
-  dickson:
+  biomom:
     0:
       - 0
       - 1
       - 2
-      - 3
       - 4
-      - 5
       - 6
       - 7
       - 8
-  abreu:
+      - 9
+      - 10
+      - 11
+      - 13
+  biodad:
     0:
       - 0
       - 1
       - 2
-      - 3
       - 4
-      - 5
       - 6
       - 7
       - 8
-  smallwood:
+      - 9
+      - 10
+      - 11
+      - 13
+  emersonj:
     0:
       - 0
       - 1
       - 2
-      - 3
       - 4
-      - 5
       - 6
       - 7
       - 8
-  jackson:
-    0:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-assistant: ~
-dispensation: ~
+      - 9
+      - 10
+      - 11
+      - 13
+assistant:
+  Brown:
+    101405311: 3
+    100405444: 5
+    100405540: 4
+  Orange:
+    100405437: 5
+    100405507: 5
+    100405510: 5
+dispensation:
+ 3:
+  100405537: 4
+  100405413: 4
+ 5:
+  100405501: 4
+  100405545: 4
 divisions: ~
+absent:
+  - 100405543
+  - 100405442
+
 group:
   0:
-    White: U0043004
-    Black: U9943019
+    White: 100405514
+    Black: 100405411
   1:
-    White: U0122002
-    Black: U0222133
+    White: 102500005
+    Black: 100405528
   2:
-    White: U0042041
-    Black: U9943007
-  3:
-    White: U0222228
-    Black: U0042012
+    White: 100405408
+    Black: 100407024
   4:
-    White: U9923121
-    Black: U0043033
-  5:
-    White: U0042050
-    Black: U0018027
+    White: 100405509
+    Black: 100405432
   6:
-    White: U9917017
-    Black: U9923120
+    White: 100406867
+    Black: 100406863
   7:
-    White: U0043001
-    Black: U0018046
+    White: 100405531
+    Black: 100405425
   8:
-    White: U0017024
-    Black: K220155482
-bye: U9911237
-late:
-pairing: swiss
+    White: 100405440
+    Black: 100405536
+  9:
+    White: 100405402
+    Black: 100405401
+  10:
+    White: 100405529
+    Black: 100405417
+  11:
+    White: 101500122
+    Black: 100406866
+  13:
+    White: 100405508
+    Black: 100405541
+pairing: swiss (adjusted)
 payprotocol: meritPay 1
 round: 1
-text: /home/drbean/class/conversation/work/cards.yaml
-week: 5
+text: /home/drbean/class/conversation/parents/cards.yaml
+week: 9

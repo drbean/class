@@ -15,6 +15,7 @@ absent:
   - Martin
   - Nei
   - Jenny
+  - Chris
 text: /home/drbean/class/conversation/work/cards.yaml
 activity:
   dickson:
@@ -25,16 +26,13 @@ activity:
     1:
       - Black
       - Green
+      - Purple
   jackson:
     0:
       - Chocolate
       - Pink
-
-      - Charcoal
-      - Orange
-      - Purple
       - White
-      - Yellow
+
 group:
   Black:
     - Claire
@@ -63,10 +61,8 @@ group:
   Purple:
     - Anna
     - YuRen
+    - RoHang
   White:
     - JiaRu
-    - Chris
-    - WeiPing
-  Yellow:
     - LinLi
-    - RoHang
+    - WeiPing

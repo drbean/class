@@ -1,0 +1,277 @@
+---
+free:
+  0:
+    biomom:
+      0:
+        100405514:
+          point:
+            1: Nil
+        100405411:
+          point:
+            1: Nil
+    biodad:
+      0:
+        100405514:
+          point:
+            1: Nil
+        100405411:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        100405514:
+          point:
+            1: Nil
+        100405411:
+          point:
+            1: Nil
+  1:
+    biomom:
+      0:
+        102500005:
+          point:
+            1: Nil
+        100405528:
+          point:
+            1: Nil
+    biodad:
+      0:
+        102500005:
+          point:
+            1: Nil
+        100405528:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        102500005:
+          point:
+            1: Nil
+        100405528:
+          point:
+            1: Nil
+  2:
+    biomom:
+      0:
+        100405408:
+          point:
+            1: Returned
+        100407024:
+          point:
+            1: Nil
+    biodad:
+      0:
+        100405408:
+          point:
+            1: Nil
+        100407024:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        100405408:
+          point:
+            1: Nil
+        100407024:
+          point:
+            1: Nil
+  4:
+    biomom:
+      0:
+        100405509:
+          point:
+            1: Nil
+        100405432:
+          point:
+            1: Returned
+    biodad:
+      0:
+        100405509:
+          point:
+            1: Nil
+        100405432:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        100405509:
+          point:
+            1: Returned
+        100405432:
+          point:
+            1: Nil
+  6:
+    biomom:
+      0:
+        100406867:
+          point:
+            1: Returned
+        100406863:
+          point:
+            1: Nil
+    biodad:
+      0:
+        100406867:
+          point:
+            1: Nil
+        100406863:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        100406867:
+          point:
+            1: Nil
+        100406863:
+          point:
+            1: Nil
+  7:
+    biomom:
+      0:
+        100405531:
+          point:
+            1: Returned
+        100405425:
+          point:
+            1: Nil
+    biodad:
+      0:
+        100405531:
+          point:
+            1: Nil
+        100405425:
+          point:
+            1: Returned
+    emersonj:
+      0:
+        100405531:
+          point:
+            1: Nil
+        100405425:
+          point:
+            1: Nil
+  8:
+    biomom:
+      0:
+        100405440:
+          point:
+            1: Returned
+        100405536:
+          point:
+            1: Nil
+    biodad:
+      0:
+        100405440:
+          point:
+            1: Nil
+        100405536:
+          point:
+            1: Unreturned on 2nd chance
+    emersonj:
+      0:
+        100405440:
+          point:
+            1: Nil
+        100405536:
+          point:
+            1: Returned
+  9:
+    biomom:
+      0:
+        100405402:
+          point:
+            1: Fault on 2nd chance
+        100405401:
+          point:
+            1: Nil
+    biodad:
+      0:
+        100405402:
+          point:
+            1: Nil
+        100405401:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        100405402:
+          point:
+            1: Nil
+        100405401:
+          point:
+            1: Nil
+  10:
+    biomom:
+      0:
+        100405529:
+          point:
+            1: Nil
+        100405417:
+          point:
+            1: Nil
+    biodad:
+      0:
+        100405529:
+          point:
+            1: Nil
+        100405417:
+          point:
+            1: Returned
+    emersonj:
+      0:
+        100405529:
+          point:
+            1: Returned on 2nd chance
+        100405417:
+          point:
+            1: Nil
+  11:
+    biomom:
+      0:
+        101500122:
+          point:
+            1: Returned
+        100406866:
+          point:
+            1: Nil
+    biodad:
+      0:
+        101500122:
+          point:
+            1: Nil
+        100406866:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        101500122:
+          point:
+            1: Nil
+        100406866:
+          point:
+            1: Nil
+  13:
+    biomom:
+      0:
+        100405508:
+          point:
+            1: Returned
+        100405541:
+          point:
+            1: Nil
+    biodad:
+      0:
+        100405508:
+          point:
+            1: Nil
+        100405541:
+          point:
+            1: Unreturned
+    emersonj:
+      0:
+        100405508:
+          point:
+            1: Nil
+        100405541:
+          point:
+            1: Nil
