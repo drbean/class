@@ -3,55 +3,99 @@ round: Exam 2
 week: 9
 questions:
   - 10
-pass: 5
+pass: 1
 assistant:
 absent:
-  - Maddy
-  - Moomin
-  - Chung-Wei
-  - Yukin
-  - Simon
+  - Henry
+  - Julien
+  - Angela2
 text: /home/drbean/class/conversation/parents/cards.yaml
 activity:
-  biomom:
-    4:
-      - Blue
-      - Brown
-      - Gray
-  biodad:
-    1:
-      - Black
-      - Yellow
   emersonj:
     2:
+      - Brown
+      - Khaki
       - Green
+      - Violet
+  biomom:
+    4:
+      - Charcoal
+      - Gray
       - Orange
+      - Purple
+      - Red
+      - Silver
+      - White
+  biodad:
+    1:
+      - Beige
+      - Blue
+      - Chocolate
+      - Pink
+      - Yellow
+
 group:
-  Black:
-    - Luisa
-    - Yukin
-    - Tiffany
+  Beige:
+    - Monique
+    - Cindy
+    - Vivian
   Blue:
-    - Gillian
-    - Scotter
-    - Lance
+    - Sara
+    - Irene
+    - Sara
   Brown:
-    - Dave
-    - Penny
-    - Amy
+    - Bella
+    - Stephy
+    - Tommy
+  Charcoal:
+    - Sandy
+    - Kevin
+    - Larry2
+  Chocolate:
+    - Jack
+    - Rose
+    - Bryan
   Gray:
-    - Tracy
-    - Regina
-    - Peggy
-  Green:
-    - KungHsing
-    - Rick
-    - Li-Ting
-  Orange:
-    - Danny
     - Mia
-    - Carolyn
+    - Zoe
+    - Angela1
+  Green:
+    - Tina
+    - Tony1
+    - Gary
+  Khaki:
+    - Linda
+    - Samantha
+    - Stanley
+  Orange:
+    - Sharon
+    - Joy
+    - Lucy
+  Pink:
+    - Abby
+    - Lawrence
+    - Shuai
+  Purple:
+    - Christina
+    - Alisa
+    - Fernando
+  Red:
+    - Ann
+    - Jessie
+    - Liz
+  Silver:
+    - Jeff
+    - Paul
+    - Elton
+  Violet:
+    - Tony2
+    - Ariel
+    - Jhaung
+  White:
+    - Nina
+    - Mark
+    - Todd
   Yellow:
-    - Simon
-    - Chung-Wei
-    - Angela
+    - Claire
+    - Winnie
+    - Larry1
