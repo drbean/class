@@ -1,10 +1,8 @@
 ---
 activity:
-  0:
+  biomom:
     0:
-      - 0
       - 1
-      - 2
       - 3
       - 4
       - 5
@@ -24,19 +22,75 @@ activity:
       - 19
       - 20
       - 21
-assistant: ~
-dispensation: ~
+  biodad:
+    0:
+      - 1
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+  emersonj:
+    0:
+      - 1
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+assistant:
+  Black:
+    101405311: 5
+  Blue:
+    101405406: 5
+  White:
+    101405444: 5
+    101405410: 5
+    101405344: 5
+dispensation:
+  0:
+    101405354: 4
+  2:
+    102500016: 4
+absent:
+  - 101405332
+  - 101406959
+  - 99405120
+late:
+  - 101406963
 divisions: ~
 group:
-  0:
-    White: 101405332
-    Black: 101405354
   1:
     White: 101405447
     Black: 101405343
-  2:
-    White: 102500016
-    Black: 101406959
   3:
     White: 101405411
     Black: 101405324
@@ -83,8 +137,8 @@ group:
     White: 99407073
     Black: 101405304
   18:
-    White: 99405120
-    Black: 101405352
+    White: 101405352
+    Black: 101406963
   19:
     White: 101405415
     Black: 101405301
@@ -94,10 +148,8 @@ group:
   21:
     White: 101405417
     Black: 101405302
-late:
-  - ~
-pairing: swiss
-payprotocol: meritPay
+pairing: swiss (adjusted)
+payprotocol: meritPay 1
 round: 1
-text: ~
-week: ~
+text: /home/drbean/class/conversation/parents/cards.yaml
+week: 9
