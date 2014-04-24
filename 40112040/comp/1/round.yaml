@@ -1,84 +1,152 @@
 ---
 activity:
-  dickson:
+  biomom:
     0:
-      - 0
       - 1
-      - 2
       - 3
       - 4
       - 5
       - 6
       - 7
       - 8
-  abreu:
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 19
+      - 20
+      - 21
+  biodad:
     0:
-      - 0
       - 1
-      - 2
       - 3
       - 4
       - 5
       - 6
       - 7
       - 8
-  smallwood:
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 19
+      - 20
+      - 21
+  emersonj:
     0:
-      - 0
       - 1
-      - 2
       - 3
       - 4
       - 5
       - 6
       - 7
       - 8
-  jackson:
-    0:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-assistant: ~
-dispensation: ~
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 19
+      - 20
+      - 21
+assistant:
+  Black:
+    101405311: 5
+  Blue:
+    101405406: 5
+  White:
+    101405444: 5
+    101405410: 5
+    101405344: 5
+dispensation:
+  0:
+    101405354: 4
+  2:
+    102500016: 4
+absent:
+  - 101405332
+  - 101406959
+  - 99405120
+late:
+  - 101406963
 divisions: ~
 group:
-  0:
-    White: U0043004
-    Black: U9943019
   1:
-    White: U0122002
-    Black: U0222133
-  2:
-    White: U0042041
-    Black: U9943007
+    White: 101405447
+    Black: 101405343
   3:
-    White: U0222228
-    Black: U0042012
+    White: 101405411
+    Black: 101405324
   4:
-    White: U9923121
-    Black: U0043033
+    White: 99408213
+    Black: 101405423
   5:
-    White: U0042050
-    Black: U0018027
+    White: 101405405
+    Black: 101405351
   6:
-    White: U9917017
-    Black: U9923120
+    White: 101405307
+    Black: 101405349
   7:
-    White: U0043001
-    Black: U0018046
+    White: 101405419
+    Black: 101500124
   8:
-    White: U0017024
-    Black: K220155482
-bye: U9911237
-late:
-pairing: swiss
+    White: 100410915
+    Black: 101405316
+  9:
+    White: 100500262
+    Black: 101405341
+  10:
+    White: 101406961
+    Black: 101405317
+  11:
+    White: 101405401
+    Black: 101406960
+  12:
+    White: 101405414
+    Black: 100410260
+  13:
+    White: 101405334
+    Black: 101405308
+  14:
+    White: 101405407
+    Black: 101406962
+  15:
+    White: 101405408
+    Black: 101405315
+  16:
+    White: 101405321
+    Black: 101405658
+  17:
+    White: 99407073
+    Black: 101405304
+  18:
+    White: 101405352
+    Black: 101406963
+  19:
+    White: 101405415
+    Black: 101405301
+  20:
+    White: 101405435
+    Black: 99406128
+  21:
+    White: 101405417
+    Black: 101405302
+pairing: swiss (adjusted)
 payprotocol: meritPay 1
 round: 1
-text: /home/drbean/class/conversation/work/cards.yaml
-week: 5
+text: /home/drbean/class/conversation/parents/cards.yaml
+week: 9
