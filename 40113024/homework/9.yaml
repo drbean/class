@@ -2,90 +2,142 @@
 cutpoints:
   one: ~
   two: ~
-exercise: connell
+exercise: 3-parents
 grade:
-  K220155482: 2
-  U0017024: 1.86
-  U0018027: 1.8
-  U0018046: 0
-  U0042012: 0
-  U0042031: 0
-  U0042041: 0
-  U0042050: 1.74
-  U0043001: 2
-  U0043004: 1.2
-  U0043033: 1.74
-  U0122002: 2
-  U0222133: 1.98
-  U0222228: 2
-  U9911237: 2
-  U9911242: 2
-  U9917017: 1.64
-  U9923120: 1.8
-  U9923121: 0.54
-  U9943007: 1.8
-  U9943019: 0
+  100405401: 0.06
+  100405402: 1.9
+  100405408: 0
+  100405411: 0
+  100405413: 1.88
+  100405417: 0
+  100405425: 2
+  100405432: 1.92
+  100405437: 2
+  100405440: 0.56
+  100405442: 0
+  100405444: 2
+  100405501: 2
+  100405507: 1.36
+  100405508: 0
+  100405509: 0.4
+  100405510: 0
+  100405514: 2
+  100405528: 1.8
+  100405529: 0
+  100405531: 0
+  100405536: 1.84
+  100405537: 0
+  100405540: 1.96
+  100405541: 1.76
+  100405543: 0
+  100405545: 1.56
+  100406863: 2
+  100406866: 0
+  100406867: 1.96
+  100407024: 0
+  101405311: 0
+  101500122: 0
+  102500005: 0
 points:
-  K220155482:
-    letters: 224
-    percent: 100
-  U0017024:
-    letters: 228
-    percent: 93
-  U0018027:
-    letters: 174
-    percent: 90
-  U0018046:
+  100405401:
+    letters: 4
+    percent: 3
+  100405402:
+    letters: 126
+    percent: 95
+  100405408:
     letters: 0
     percent: 0
-  U0042012:
+  100405411:
     letters: 0
     percent: 0
-  U0042031:
+  100405413:
+    letters: 135
+    percent: 94
+  100405417:
     letters: 0
     percent: 0
-  U0042041:
+  100405425:
+    letters: 139
+    percent: 100
+  100405432:
+    letters: 151
+    percent: 96
+  100405437:
+    letters: 146
+    percent: 100
+  100405440:
+    letters: 39
+    percent: 28
+  100405442:
     letters: 0
     percent: 0
-  U0042050:
-    letters: 181
-    percent: 87
-  U0043001:
-    letters: 208
+  100405444:
+    letters: 139
     percent: 100
-  U0043004:
-    letters: 106
-    percent: 60
-  U0043033:
-    letters: 170
-    percent: 87
-  U0122002:
-    letters: 182
+  100405501:
+    letters: 130
     percent: 100
-  U0222133:
-    letters: 200
-    percent: 99
-  U0222228:
-    letters: 203
-    percent: 100
-  U9911237:
-    letters: 193
-    percent: 100
-  U9911242:
-    letters: 178
-    percent: 100
-  U9917017:
+  100405507:
+    letters: 94
+    percent: 68
+  100405508:
+    letters: 0
+    percent: 0
+  100405509:
+    letters: 26
+    percent: 20
+  100405510:
+    letters: 0
+    percent: 0
+  100405514:
     letters: 159
-    percent: 82
-  U9923120:
-    letters: 185
+    percent: 100
+  100405528:
+    letters: 140
     percent: 90
-  U9923121:
-    letters: 52
-    percent: 27
-  U9943007:
-    letters: 181
-    percent: 90
-  U9943019:
+  100405529:
+    letters: 0
+    percent: 0
+  100405531:
+    letters: 0
+    percent: 0
+  100405536:
+    letters: 145
+    percent: 92
+  100405537:
+    letters: 0
+    percent: 0
+  100405540:
+    letters: 140
+    percent: 98
+  100405541:
+    letters: 128
+    percent: 88
+  100405543:
+    letters: 0
+    percent: 0
+  100405545:
+    letters: 101
+    percent: 78
+  100406863:
+    letters: 142
+    percent: 100
+  100406866:
+    letters: 0
+    percent: 0
+  100406867:
+    letters: 148
+    percent: 98
+  100407024:
+    letters: 0
+    percent: 0
+  101405311:
+    letters: 0
+    percent: 0
+  101500122:
+    letters: 0
+    percent: 0
+  102500005:
     letters: 0
     percent: 0
