@@ -2,457 +2,651 @@
 free:
   1:
     biomom:
-      4:
-        N00200034:
+      0:
+        B02202106:
           point:
-            1: Old
-            2: Old
-            3: Returned
-        N00200029:
+            1: Nil
+        B01200115:
           point:
             1: Nil
     biodad:
-      1:
-        N00200034:
+      0:
+        B02202106:
           point:
             1: Nil
-        N00200029:
+        B01200115:
           point:
             1: Nil
     emersonj:
-      2:
-        N00200034:
+      0:
+        B02202106:
           point:
             1: Nil
-        N00200029:
+        B01200115:
           point:
             1: Nil
   2:
     biomom:
-      4:
-        N00200010:
+      0:
+        B01200040:
           point:
-            1: Old
-        N01202001:
+            1: Nil
+        B01200042:
           point:
-            1: Returned
+            1: Nil
     biodad:
-      1:
-        N00200010:
+      0:
+        B01200040:
           point:
-            1: Returned
-        N01202001:
+            1: Nil
+        B01200042:
           point:
             1: Nil
     emersonj:
-      2:
-        N00200010:
+      0:
+        B01200040:
           point:
-            1: Old
-        N01202001:
+            1: Returned
+        B01200042:
           point:
-            1: Nil
+            1: Returned
   3:
     biomom:
-      4:
-        N01202101:
+      0:
+        B01200077:
+          point:
+            1: Nil
+        B01200003:
           point:
             1: Returned
-        N00200015:
-          point:
-            1: Nil
     biodad:
-      1:
-        N01202101:
+      0:
+        B01200077:
           point:
             1: Nil
-        N00200015:
+        B01200003:
           point:
-            1: Fault
+            1: Nil
     emersonj:
-      2:
-        N01202101:
+      0:
+        B01200077:
           point:
             1: Nil
-        N00200015:
+        B01200003:
           point:
-            1: Nil
+            1: Fault on 2nd chance
   4:
     biomom:
-      4:
-        N00200055:
+      0:
+        B01200057:
+          point:
+            1: Nil
+        B01200061:
+          point:
+            1: Nil
+    biodad:
+      0:
+        B01200057:
+          point:
+            1: Nil
+        B01200061:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        B01200057:
           point:
             1: Returned
-        N00200032:
+        B01200061:
           point:
-            1: Fault
-    biodad:
-      1:
-        N00200055:
-          point:
-            1: Nil
-        N00200032:
-          point:
-            1: Nil
-    emersonj:
-      2:
-        N00200055:
-          point:
-            1: Nil
-        N00200032:
-          point:
-            1: Nil
+            1: Unreturned
   5:
     biomom:
-      4:
-        N99030025:
+      0:
+        B02202104:
+          point:
+            1: Nil
+        B01200028:
+          point:
+            1: Returned
+    biodad:
+      0:
+        B02202104:
+          point:
+            1: Returned on 2nd chance
+        B01200028:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        B02202104:
+          point:
+            1: Nil
+        B01200028:
           point:
             1: Old
-            2: Returned
-        N00200006:
-          point:
-            1: Fault
-    biodad:
-      1:
-        N99030025:
-          point:
-            1: Nil
-        N00200006:
-          point:
-            1: Nil
-    emersonj:
-      2:
-        N99030025:
-          point:
-            1: Nil
-        N00200006:
-          point:
-            1: Nil
   6:
     biomom:
-      4:
-        N00200022:
+      0:
+        B01200085:
           point:
-            1: Fault
-        N00200009:
+            1: Fault on 2nd chance
+        B01200002:
           point:
             1: Nil
     biodad:
-      1:
-        N00200022:
+      0:
+        B01200085:
           point:
             1: Nil
-        N00200009:
+        B01200002:
           point:
             1: Nil
     emersonj:
-      2:
-        N00200022:
+      0:
+        B01200085:
           point:
             1: Nil
-        N00200009:
+        B01200002:
           point:
             1: Nil
   7:
     biomom:
-      4:
-        N00200030:
+      0:
+        B01200081:
           point:
-            1: Returned
-        N00200058:
+            1: Nil
+        B01200030:
           point:
             1: Returned
     biodad:
-      1:
-        N00200030:
+      0:
+        B01200081:
           point:
-            1: Returned
-        N00200058:
+            1: Returned on 2nd chance
+        B01200030:
           point:
             1: Nil
     emersonj:
-      2:
-        N00200030:
+      0:
+        B01200081:
           point:
             1: Nil
-        N00200058:
+        B01200030:
           point:
-            1: Old
-            2: Old
-            3: Fault
+            1: Nil
   8:
     biomom:
-      4:
-        N00200031:
+      0:
+        B01200022:
           point:
-            1: Returned
-        N00200025:
+            1: Nil
+        B01200038:
           point:
             1: Old
     biodad:
-      1:
-        N00200031:
+      0:
+        B01200022:
           point:
             1: Nil
-        N00200025:
-          point:
-            1: Old
-    emersonj:
-      2:
-        N00200031:
-          point:
-            1: Nil
-        N00200025:
+        B01200038:
           point:
             1: Returned
+    emersonj:
+      0:
+        B01200022:
+          point:
+            1: Returned
+        B01200038:
+          point:
+            1: Nil
   9:
     biomom:
-      4:
-        N00200008:
+      0:
+        B01200095:
+          point:
+            1: Nil
+        B01200008:
+          point:
+            1: Nil
+    biodad:
+      0:
+        B01200095:
+          point:
+            1: Nil
+        B01200008:
           point:
             1: Returned
-        N00200036:
-          point:
-            1: Fault
-    biodad:
-      1:
-        N00200008:
-          point:
-            1: Nil
-        N00200036:
-          point:
-            1: Nil
     emersonj:
-      2:
-        N00200008:
+      0:
+        B01200095:
           point:
-            1: Old
-            2: Fault
-        N00200036:
+            1: Returned on 2nd chance
+        B01200008:
           point:
             1: Nil
   10:
     biomom:
-      4:
-        N00200037:
-          point:
-            1: Returned
-        N00200056:
-          point:
-            1: Returned
-    biodad:
-      1:
-        N00200037:
+      0:
+        B01200014:
           point:
             1: Nil
-        N00200056:
+        B01200016:
+          point:
+            1: Nil
+    biodad:
+      0:
+        B01200014:
+          point:
+            1: Nil
+        B01200016:
           point:
             1: Nil
     emersonj:
-      2:
-        N00200037:
+      0:
+        B01200014:
           point:
             1: Nil
-        N00200056:
+        B01200016:
           point:
             1: Nil
   11:
     biomom:
-      4:
-        N00200048:
+      0:
+        B01200073:
           point:
-            1: Returned
-        N00200001:
+            1: Nil
+        B01200107:
           point:
-            1: Returned
+            1: Nil
     biodad:
-      1:
-        N00200048:
+      0:
+        B01200073:
           point:
             1: Nil
-        N00200001:
+        B01200107:
           point:
-            1: Nil
+            1: Returned
     emersonj:
-      2:
-        N00200048:
+      0:
+        B01200073:
           point:
-            1: Nil
-        N00200001:
+            1: Returned
+        B01200107:
           point:
             1: Nil
   12:
     biomom:
-      4:
-        N01202002:
+      0:
+        B01200097:
           point:
             1: Nil
-        N01202004:
+        B01200071:
           point:
             1: Nil
     biodad:
-      1:
-        N01202002:
+      0:
+        B01200097:
+          point:
+            1: Returned on 2nd chance
+        B01200071:
           point:
             1: Nil
-        N01202004:
-          point:
-            1: Unreturned
     emersonj:
-      2:
-        N01202002:
-          point:
-            1: Returned
-        N01202004:
+      0:
+        B01200097:
           point:
             1: Nil
+        B01200071:
+          point:
+            1: Returned on 2nd chance
   13:
     biomom:
-      4:
-        N00200044:
+      0:
+        B01200069:
           point:
-            1: Returned
-        N00200014:
+            1: Nil
+        B02202101:
           point:
             1: Nil
     biodad:
-      1:
-        N00200044:
+      0:
+        B01200069:
           point:
             1: Nil
-        N00200014:
+        B02202101:
           point:
-            1: Nil
+            1: Fault on 2nd chance
     emersonj:
-      2:
-        N00200044:
+      0:
+        B01200069:
           point:
-            1: Nil
-        N00200014:
+            1: Returned on 2nd chance
+        B02202101:
           point:
             1: Nil
   14:
     biomom:
-      4:
-        N00200043:
+      0:
+        B01200018:
           point:
             1: Returned
-        N00200017:
-          point:
-            1: Returned
-    biodad:
-      1:
-        N00200043:
+        B01200006:
           point:
             1: Nil
-        N00200017:
+    biodad:
+      0:
+        B01200018:
+          point:
+            1: Nil
+        B01200006:
           point:
             1: Nil
     emersonj:
-      2:
-        N00200043:
+      0:
+        B01200018:
           point:
             1: Nil
-        N00200017:
+        B01200006:
           point:
             1: Nil
   15:
     biomom:
-      4:
-        N00200054:
+      0:
+        B00200016:
           point:
-            1: Nil
-        N99030033:
+            1: Returned
+        B01200113:
           point:
             1: Nil
     biodad:
-      1:
-        N00200054:
+      0:
+        B00200016:
           point:
             1: Nil
-        N99030033:
+        B01200113:
           point:
             1: Nil
     emersonj:
-      2:
-        N00200054:
+      0:
+        B00200016:
           point:
             1: Nil
-        N99030033:
+        B01200113:
           point:
             1: Nil
   16:
     biomom:
-      4:
-        N00200007:
+      0:
+        B01200051:
           point:
-            1: Fault
-        N00202103:
+            1: Fault on 2nd chance
+        B99100040:
           point:
-            1: Unreturned
+            1: Nil
     biodad:
-      1:
-        N00200007:
+      0:
+        B01200051:
+          point:
+            1: Nil
+        B99100040:
           point:
             1: Returned
-        N00202103:
-          point:
-            1: Nil
     emersonj:
-      2:
-        N00200007:
+      0:
+        B01200051:
           point:
             1: Nil
-        N00202103:
+        B99100040:
           point:
             1: Nil
   17:
     biomom:
-      4:
-        N01202103:
+      0:
+        B01200026:
           point:
             1: Nil
-        N00200003:
+        B01200045:
           point:
             1: Nil
     biodad:
-      1:
-        N01202103:
+      0:
+        B01200026:
           point:
-            1: Nil
-        N00200003:
+            1: Fault on 2nd chance
+        B01200045:
           point:
             1: Nil
     emersonj:
-      2:
-        N01202103:
+      0:
+        B01200026:
           point:
-            1: Returned
-        N00200003:
+            1: Nil
+        B01200045:
           point:
             1: Returned
   18:
     biomom:
-      4:
-        N01202105:
+      0:
+        B01200055:
           point:
-            1: Returned
-        N98200021:
+            1: Nil
+        B01200059:
           point:
             1: Nil
     biodad:
-      1:
-        N01202105:
+      0:
+        B01200055:
           point:
             1: Nil
-        N98200021:
+        B01200059:
+          point:
+            1: Returned on 2nd chance
+    emersonj:
+      0:
+        B01200055:
+          point:
+            1: Fault on 2nd chance
+        B01200059:
+          point:
+            1: Nil
+  19:
+    biomom:
+      0:
+        B01200053:
+          point:
+            1: Nil
+        B01200093:
+          point:
+            1: Nil
+    biodad:
+      0:
+        B01200053:
+          point:
+            1: Nil
+        B01200093:
           point:
             1: Nil
     emersonj:
-      2:
-        N01202105:
-          point:
-            1: Nil
-        N98200021:
+      0:
+        B01200053:
           point:
             1: Returned
+        B01200093:
+          point:
+            1: Nil
+  20:
+    biomom:
+      0:
+        B01200065:
+          point:
+            1: Nil
+        B01200020:
+          point:
+            1: Nil
+    biodad:
+      0:
+        B01200065:
+          point:
+            1: Returned
+        B01200020:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        B01200065:
+          point:
+            1: Nil
+        B01200020:
+          point:
+            1: Returned
+  21:
+    biomom:
+      0:
+        B01200101:
+          point:
+            1: Fault on 2nd chance
+        B01200103:
+          point:
+            1: Nil
+    biodad:
+      0:
+        B01200101:
+          point:
+            1: Nil
+        B01200103:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        B01200101:
+          point:
+            1: Nil
+        B01200103:
+          point:
+            1: Nil
+  22:
+    biomom:
+      0:
+        B01200034:
+          point:
+            1: Nil
+        B98200021:
+          point:
+            1: Nil
+    biodad:
+      0:
+        B01200034:
+          point:
+            1: Fault on 2nd chance
+        B98200021:
+          point:
+            1: Fault
+    emersonj:
+      0:
+        B01200034:
+          point:
+            1: Nil
+        B98200021:
+          point:
+            1: Nil
+  23:
+    biomom:
+      0:
+        B01200036:
+          point:
+            1: Nil
+        B00170085:
+          point:
+            1: Nil
+    biodad:
+      0:
+        B01200036:
+          point:
+            1: Returned
+        B00170085:
+          point:
+            1: Returned on 2nd chance
+    emersonj:
+      0:
+        B01200036:
+          point:
+            1: Nil
+        B00170085:
+          point:
+            1: Nil
+  24:
+    biomom:
+      0:
+        B01200047:
+          point:
+            1: Returned on 2nd chance
+        B01200049:
+          point:
+            1: Old
+    biodad:
+      0:
+        B01200047:
+          point:
+            1: Nil
+        B01200049:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        B01200047:
+          point:
+            1: Nil
+        B01200049:
+          point:
+            1: Returned
+  25:
+    biomom:
+      0:
+        B01200067:
+          point:
+            1: Nil
+        B01200089:
+          point:
+            1: Returned
+    biodad:
+      0:
+        B01200067:
+          point:
+            1: Fault on 2nd chance
+        B01200089:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        B01200067:
+          point:
+            1: Nil
+        B01200089:
+          point:
+            1: Nil
+  26:
+    biomom:
+      0:
+        B01200083:
+          point:
+            1: Nil
+        B01200001:
+          point:
+            1: Nil
+    biodad:
+      0:
+        B01200083:
+          point:
+            1: Fault on 2nd chance
+        B01200001:
+          point:
+            1: Returned on 2nd chance
+    emersonj:
+      0:
+        B01200083:
+          point:
+            1: Nil
+        B01200001:
+          point:
+            1: Nil
