@@ -2,90 +2,119 @@
 round: Exam 2
 week: 9
 questions:
-  - 3
-pass: 1
+  - 10
+pass: 6
 assistant:
-  - Selena
-  - Dora
+  - Eric
 absent:
-  - Crown
 text: /home/drbean/class/conversation/parents/cards.yaml
 activity:
+  emersonj:
+    2:
+      - Beige
+      - Brown
+      - Charcoal
+      - Purple
+      - White
+      - Yellow
   biomom:
     4:
-      - Blue
-      - BlueBlue
-      - Brown
-      - Orange
+      - Golden
+      - Khaki
+      - Pink
+      - Silver
+      - Turquoise
+      - Window
   biodad:
     1:
       - Black
+      - Blue
+      - Chocolate
       - Gray
       - Green
-      - Purple
-      - White
-  emersonj:
-    2:
-      - BlackBlack
-      - OrangeOrange
-      - Pink
+      - Orange
       - Red
-      - Yellow
+      - Violet
+
 
 group:
+  Beige:
+    - Emma
+    - Josh
+    - Caroline
   Black:
-    - Kelly1
-    - James
-    - Ally
-  Blue:
-    - Mei
-    - Peggy
-    - Selena
-  Brown:
-    - MiuMiu
-    - Shane
-    - Jerry
-  Gray:
-    - Champion
-    - Ben
-    - Candy
-  Green:
-    - Eva
-    - Tina
-    - Sally
-  BlackBlack:
-    - Neil
-    - Carol
-    - Teresa
-  BlueBlue:
-    - Lanna
-    - Louie
-    - Carlos
-  Orange:
-    - Alex
-    - Emily
-    - Denise
-  Pink:
-    - Katie
-    - Selena
-    - Mindy
-  Purple:
-    - Joan
-    - Yuki
-    - Allen
-  Red:
-    - Don
-    - Dora
-    - Jeff
-  White:
-    - Cindy
-    - Neo
-    - Dave
-  Yellow:
-    - Vicky
-    - Andy
-    - Bunny
-  OrangeOrange:
-    - Fion
+    - Riccia
     - Betty
-    - Dora
+    - Claire
+  Blue:
+    - Luke
+    - Cindy
+    - Eva
+  Brown:
+    - Winnie
+    - Wayne
+    - Jason
+  Charcoal:
+    - Hannah
+    - Ashley
+    - Alina
+  Chocolate:
+    - Phoebe
+    - Vicky1
+    - Sandy
+  Golden:
+    - Roc
+    - Jean
+    - Penny
+  Gray:
+    - Lorry
+    - Hola
+    - Sarah
+  Green:
+    - Eileen
+    - Ruby
+    - Pancy
+  Khaki:
+    - Peggy
+    - Alicia
+    - Chloe
+  Orange:
+    - Nicole
+    - Ennis
+    - Allen
+  Pink:
+    - Rita
+    - Tammy
+    - Linda
+  Purple:
+    - Charlene
+    - Jessie
+    - Will
+  Red:
+    - Zarita
+    - Jane
+    - Joe
+  Silver:
+    - Momo
+    - Wenny
+    - Hedy
+  Turquoise:
+    - Christy
+    - Jasmine
+    - Scott
+  Violet:
+    - Ellen
+    - Dona
+    - Judy
+  White:
+    - Sean
+    - Nancy
+    - Eric
+  Window:
+    - Della
+    - Abby
+    - Cora
+  Yellow:
+    - Rosa
+    - Eric
+    - Vicky2
