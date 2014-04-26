@@ -2,69 +2,147 @@
 cutpoints:
   one: ~
   two: ~
-exercise: scalia
+exercise: motivating
 grade:
-  T9823041: 0
-  V9741044: 0
-  V9741064: 1.7
-  V9841010: 2
-  V9841011: 2
-  V9841022: 0
-  V9841025: 1.2
-  V9841028: 0.82
+  N9661749: 0
+  V0041001: 0
+  V0041002: 2
+  V0041007: 0
+  V0041008: 0
+  V0041009: 2
+  V0041010: 0
+  V0041019: 1.92
+  V0041030: 2
+  V0041032: 0
+  V0041033: 1.7
+  V0041035: 2
+  V0041038: 2
+  V0041039: 1.36
+  V0041040: 2
+  V0041042: 0
+  V0041044: 0
+  V0041045: 0
+  V0041049: 0
+  V0041050: 2
+  V0041053: 2
+  V0041057: 0
+  V0041067: 0
+  V0241030: 0
+  V9741022: 2
+  V9841025: 0
+  V9841028: 1.14
   V9841042: 0
-  V9841049: 1.98
   V9941001: 0
   V9941007: 0
-  V9941011: 0
-  V9941012: 0
+  V9941011: 2
+  V9941012: 2
   V9941013: 0
-  V9941015: 2
-  V9941022: 1.4
-  V9941026: 2
+  V9941022: 0
+  V9941023: 2
+  V9941025: 2
+  V9941026: 0.16
   V9941027: 0
-  V9941029: 1.98
-  V9941037: 0.74
+  V9941029: 1.7
+  V9941031: 2
+  V9941036: 0
+  V9941037: 0
   V9941040: 0
-  V9941047: 1.96
+  V9941046: 0
+  V9941047: 1.58
   V9941049: 2
   V9941050: 2
-  V9941059: 0
-  V9941060: 0
-  V9941067: 1.38
+  V9941057: 0
+  V9941059: 1.94
+  V9941067: 1.98
+  V9941068: 0
+  V9941069: 0
+  V9941073: 1.96
   V9941075: 0
-  V9941077: 0
 points:
-  T9823041:
+  N9661749:
     letters: 0
     percent: 0
-  V9741044:
+  V0041001:
     letters: 0
     percent: 0
-  V9741064:
-    letters: 279
+  V0041002:
+    letters: 304
+    percent: 100
+  V0041007:
+    letters: 0
+    percent: 0
+  V0041008:
+    letters: 0
+    percent: 0
+  V0041009:
+    letters: 300
+    percent: 100
+  V0041010:
+    letters: 0
+    percent: 0
+  V0041019:
+    letters: 291
+    percent: 96
+  V0041030:
+    letters: 293
+    percent: 100
+  V0041032:
+    letters: 0
+    percent: 0
+  V0041033:
+    letters: 242
     percent: 85
-  V9841010:
-    letters: 350
+  V0041035:
+    letters: 304
     percent: 100
-  V9841011:
-    letters: 298
+  V0041038:
+    letters: 300
     percent: 100
-  V9841022:
+  V0041039:
+    letters: 203
+    percent: 68
+  V0041040:
+    letters: 297
+    percent: 100
+  V0041042:
     letters: 0
     percent: 0
+  V0041044:
+    letters: 0
+    percent: 0
+  V0041045:
+    letters: 0
+    percent: 0
+  V0041049:
+    letters: 0
+    percent: 0
+  V0041050:
+    letters: 302
+    percent: 100
+  V0041053:
+    letters: 304
+    percent: 100
+  V0041057:
+    letters: 0
+    percent: 0
+  V0041067:
+    letters: 0
+    percent: 0
+  V0241030:
+    letters: 0
+    percent: 0
+  V9741022:
+    letters: 287
+    percent: 100
   V9841025:
-    letters: 202
-    percent: 60
+    letters: 0
+    percent: 0
   V9841028:
-    letters: 133
-    percent: 41
+    letters: 165
+    percent: 57
   V9841042:
     letters: 0
     percent: 0
-  V9841049:
-    letters: 307
-    percent: 99
   V9941001:
     letters: 0
     percent: 0
@@ -72,56 +150,74 @@ points:
     letters: 0
     percent: 0
   V9941011:
-    letters: 0
-    percent: 0
+    letters: 288
+    percent: 100
   V9941012:
-    letters: 0
-    percent: 0
+    letters: 304
+    percent: 100
   V9941013:
     letters: 0
     percent: 0
-  V9941015:
-    letters: 292
-    percent: 100
   V9941022:
-    letters: 232
-    percent: 70
-  V9941026:
-    letters: 379
+    letters: 0
+    percent: 0
+  V9941023:
+    letters: 299
     percent: 100
+  V9941025:
+    letters: 295
+    percent: 100
+  V9941026:
+    letters: 23
+    percent: 8
   V9941027:
     letters: 0
     percent: 0
   V9941029:
-    letters: 333
-    percent: 99
+    letters: 250
+    percent: 85
+  V9941031:
+    letters: 301
+    percent: 100
+  V9941036:
+    letters: 0
+    percent: 0
   V9941037:
-    letters: 124
-    percent: 37
+    letters: 0
+    percent: 0
   V9941040:
     letters: 0
     percent: 0
+  V9941046:
+    letters: 0
+    percent: 0
   V9941047:
-    letters: 341
-    percent: 98
+    letters: 235
+    percent: 79
   V9941049:
-    letters: 353
+    letters: 302
     percent: 100
   V9941050:
-    letters: 353
+    letters: 299
     percent: 100
+  V9941057:
+    letters: 0
+    percent: 0
   V9941059:
-    letters: 0
-    percent: 0
-  V9941060:
-    letters: 0
-    percent: 0
+    letters: 296
+    percent: 97
   V9941067:
-    letters: 205
-    percent: 69
-  V9941075:
+    letters: 297
+    percent: 99
+  V9941068:
     letters: 0
     percent: 0
-  V9941077:
+  V9941069:
+    letters: 0
+    percent: 0
+  V9941073:
+    letters: 297
+    percent: 98
+  V9941075:
     letters: 0
     percent: 0
