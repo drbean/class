@@ -1,24 +1,91 @@
 ---
-exercise: self-intro
+cutpoints:
+  one: ~
+  two: ~
+exercise: connell
 grade:
-  V9941032: 0
-  V9941036: 3
-  V9941037: 2
-  V9941040: 0
-  V9941045: 3
-  V9941046: 3
-  V9941047: 3
-  V9941049: 3
-  V9941050: 3
-  V9941057: 3
-  V9941059: 1
-  V9941060: 0
-  V9941062: 0
-  V9941067: 3
-  V9941068: 3
-  V9941069: 3
-  V9941071: 3
-  V9941073: 3
-  V9941075: 3
-  V9941076: 3
-  V9941077: 0
+  U0043021: 0
+  V0041001: 0
+  V0041005: 0
+  V0041008: 2
+  V0041010: 0
+  V0041015: 1.94
+  V0041019: 1.88
+  V0041028: 0
+  V0041032: 0
+  V0041034: 0
+  V0041036: 0
+  V0041039: 0
+  V0041042: 0.56
+  V0041045: 0
+  V0041047: 0
+  V0041050: 1.06
+  V0041053: 0
+  V0041057: 0
+  V0041062: 1.8
+  V0041066: 0
+  V9941028: 1.58
+points:
+  U0043021:
+    letters: 0
+    percent: 0
+  V0041001:
+    letters: 0
+    percent: 0
+  V0041005:
+    letters: 0
+    percent: 0
+  V0041008:
+    letters: 192
+    percent: 100
+  V0041010:
+    letters: 0
+    percent: 0
+  V0041015:
+    letters: 181
+    percent: 97
+  V0041019:
+    letters: 190
+    percent: 94
+  V0041028:
+    letters: 0
+    percent: 0
+  V0041032:
+    letters: 0
+    percent: 0
+  V0041034:
+    letters: 0
+    percent: 0
+  V0041036:
+    letters: 0
+    percent: 0
+  V0041039:
+    letters: 0
+    percent: 0
+  V0041042:
+    letters: 63
+    percent: 28
+  V0041045:
+    letters: 0
+    percent: 0
+  V0041047:
+    letters: 0
+    percent: 0
+  V0041050:
+    letters: 112
+    percent: 53
+  V0041053:
+    letters: 0
+    percent: 0
+  V0041057:
+    letters: 0
+    percent: 0
+  V0041062:
+    letters: 179
+    percent: 90
+  V0041066:
+    letters: 0
+    percent: 0
+  V9941028:
+    letters: 151
+    percent: 79
