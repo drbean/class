@@ -1,67 +1,79 @@
 ---
+# topic: connell
+# DrBean adjudicated Beige, Black, etc
+
 Black:
   absent:
-    - Jerry
-  merits: 3
+  merits: 2
 Blue:
   absent:
-    - Allen
   merits: 3
 
 Brown:
   absent:
-    - Peggy
-  merits: 3
-Chocolate:
+  merits: 2
+Gray:
   absent:
-    - Emily
+    - Hola
   merits: 3
 
 Green:
   absent:
-    - Cindy
-    - Andy
-  merits: 3
+  merits: 2
 Charcoal:
   absent:
-    - Carol
   merits: 3
 
-Orange:
+Chocolate:
   absent:
-    - Fion
-  merits: 3
-Pink:
-  absent:
-    - Jeff
-    - Betty
-  merits: 3
-
-Purple:
-  absent:
-    - Neo
-    - Candy
-    - Vicky
-  merits: 0
-
-Red:
-  absent:
-    - Bunny
-  merits: 3
+  merits: 2
 Khaki:
   absent:
   merits: 3
 
+Orange:
+  absent:
+  merits: 2
+Pink:
+  absent:
+  merits: 2
+
+Purple:
+  absent:
+  merits: 3
+Red:
+  absent:
+  merits: 2
+
 White:
   absent:
-    - Tina
-  merits: 3
-Gray:
+  merits: 2
+Yellow:
   absent:
   merits: 3
 
-Yellow:
+Silver:
   absent:
-    - Yuki
-    - Crown
-  merits: 0
+    - Rita
+  merits: 3
+Violet:
+  absent:
+  merits: 2
+
+Beige:
+  absent:
+  merits: 2
+Golden:
+  absent:
+    - Pancy
+    - Phoebe
+  merits: 3
+
+Turquoise:
+  absent:
+    - Josh
+  merits: 2
+Window:
+  absent:
+  merits: 3
+
