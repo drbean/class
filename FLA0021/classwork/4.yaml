@@ -1,45 +1,80 @@
 ---
-Black:
-  absent: 
-  merits: 3
-Blue:
-  absent: 
-  merits: 2
-
-BlueBlue:
-  absent: 
-    - Jessica
-    - Vicki
-  merits: 3
-Brown:
-  absent: 
-  merits: 3
+# topic: 3-tips
 
 Green:
-  absent: 
-  merits: 3
-BlackBlack:
   absent:
-    - Rita
   merits: 2
+Black:
+  absent:
+  merits: 3
 
+Blue:
+  absent:
+  merits: 2
+Brown:
+  absent:
+    - Amy2
+  merits: 3
+
+Gray:
+  absent:
+  merits: 2
+Beige:
+  absent:
+    - Claire
+  merits: 3
+
+Charcoal:
+  absent:
+    - Eva
+  merits: 2
+Chocolate:
+  absent:
+  merits: 3
+
+White:
+  absent:
+    - Nini
+    - Pei-Yun
+  merits: 2
 Orange:
   absent:
-    - Brenda
-    - Yvonne
-  merits: 2
+  merits: 3
 
 Pink:
-  absent: 
+  absent:
+    - Robert
   merits: 2
 Purple:
-  absent: 
+  absent:
   merits: 3
 
-Yellow:
-  absent: 
-    - Leon
+Golden:
+  absent:
+    - Welkin
+    - Stella
   merits: 3
-White:
-  absent: 
+Violet:
+  absent:
   merits: 2
+
+Turquoise:
+  merits: 2.5
+
+Silver:
+  absent:
+    - Louanna
+    - Charlie
+  merits: 2
+Yellow:
+  absent:
+  merits: 2
+
+Khaki:
+  absent:
+    - Yu-Wen
+  merits: 3
+Red:
+  absent:
+  merits: 2
+
