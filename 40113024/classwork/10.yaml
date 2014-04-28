@@ -1,29 +1,59 @@
 ---
+# topic: connell
+
+# 0 questions: 2
+# 1 questions: 2.5
+# 2+ questions: 3
+
 Black:
-  absent: 
-  merits: 2
-Gray:
-  absent: 
+  absent:
+  merits: 3
+Blue:
+  absent:
+  merits: 2.5
+
+Brown:
+  absent:
+  merits: 3
+Chocolate:
+  absent:
   merits: 3
 
-Blue:
-  tardy:
-  absent: 
-    - Chung-Wei
+Charcoal:
+  absent:
   merits: 2
-Brown:
-  absent: 
-  merits: 3
+Green:
+  absent:
+    - KiRu
+    - Cheng
+  merits: 2.5
 
 Orange:
-  absent: 
+  absent:
+    - Sherry
+  merits: 2.5
+Pink:
+  absent:
+    - LinLi
   merits: 3
-Green:
-  absent: 
-  merits: 2
+
+Purple:
+  absent:
+  merits: 3
+Silver:
+  absent:
+    - Martin
+    - Liu
+  merits: 0
 
 Yellow:
-  absent: 
-    - Simon
-    - Yukin
-  merits: 2
+  absent:
+    - Ariel
+    - Tina
+  merits: 0
+White:
+  absent:
+    - Martin
+    - Liu
+  merits: 0
+
