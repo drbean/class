@@ -1,39 +1,40 @@
 ---
+# topic: flash, memrise.com
 
 Black:
-  absent: 
-    - Fion
-  merits: 2
-Charcoal:
-  absent: 
-    - Alex
+  absent:
+    - Doris
+    - Veronica
   merits: 3
-
 Blue:
   absent:
-    - Stephen
-    - Denise
+    - Rice
   merits: 2
-Green:
-  absent: 
-    - Vicky
-    - Andy
-  merits: 3
 
-Pink:
-  absent: 
+Charcoal:
+  absent:
+    - Mila
+    - Silvi
   merits: 3
-Purple:
-  absent: 
-    - Champion
+Green:
+  absent:
+    - Vicky
   merits: 2
 
 Orange:
   absent:
-    - Cindy
-    - Shane
+    - Roger
   merits: 2
-Yellow:
-  absent: 
-    - Rena
+Pink:
+  absent:
+    - Wade
+  merits: 2
+
+White:
+  absent:
+    - Mina
   merits: 3
+Yellow:
+  absent:
+  merits: 3
+
