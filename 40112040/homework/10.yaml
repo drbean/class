@@ -2,90 +2,206 @@
 cutpoints:
   one: ~
   two: ~
-exercise: warm
+exercise: connell-ydu
 grade:
-  K220155482: 1.98
-  U0017024: 2
-  U0018027: 0
-  U0018046: 2
-  U0042012: 0
-  U0042031: 0
-  U0042041: 1.3
-  U0042050: 1.8
-  U0043001: 2
-  U0043004: 0
-  U0043033: 0
-  U0122002: 2
-  U0222133: 1.98
-  U0222228: 2
-  U9911237: 1.88
-  U9911242: 0
-  U9917017: 1.74
-  U9923120: 0
-  U9923121: 1.46
-  U9943007: 1.92
-  U9943019: 0
+  100410260: 0
+  100410915: 0
+  100500262: 0
+  101405301: 0
+  101405302: 0.28
+  101405304: 1.98
+  101405307: 0
+  101405308: 1.96
+  101405311: 1.22
+  101405315: 0
+  101405316: 0
+  101405317: 0
+  101405321: 1.84
+  101405324: 0
+  101405332: 0
+  101405334: 0
+  101405341: 2
+  101405343: 1.5
+  101405344: 0
+  101405349: 1.86
+  101405351: 0
+  101405352: 2
+  101405354: 0
+  101405401: 0
+  101405405: 0
+  101405406: 0
+  101405407: 0
+  101405408: 1.2
+  101405410: 0
+  101405411: 0.34
+  101405414: 1.16
+  101405415: 1.22
+  101405417: 0.98
+  101405419: 0
+  101405423: 1.84
+  101405435: 0
+  101405444: 0
+  101405447: 0
+  101405658: 2
+  101406959: 0
+  101406960: 1.36
+  101406961: 0
+  101406962: 0
+  101406963: 0
+  101500124: 0
+  102500016: 0
+  99405120: 0
+  99406128: 0
+  99407073: 0
+  99408213: 0
 points:
-  K220155482:
-    letters: 768
+  100410260:
+    letters: 0
+    percent: 0
+  100410915:
+    letters: 0
+    percent: 0
+  100500262:
+    letters: 0
+    percent: 0
+  101405301:
+    letters: 0
+    percent: 0
+  101405302:
+    letters: 20
+    percent: 14
+  101405304:
+    letters: 158
     percent: 99
-  U0017024:
-    letters: 791
+  101405307:
+    letters: 0
+    percent: 0
+  101405308:
+    letters: 130
+    percent: 98
+  101405311:
+    letters: 96
+    percent: 61
+  101405315:
+    letters: 0
+    percent: 0
+  101405316:
+    letters: 0
+    percent: 0
+  101405317:
+    letters: 0
+    percent: 0
+  101405321:
+    letters: 146
+    percent: 92
+  101405324:
+    letters: 0
+    percent: 0
+  101405332:
+    letters: 0
+    percent: 0
+  101405334:
+    letters: 0
+    percent: 0
+  101405341:
+    letters: 152
     percent: 100
-  U0018027:
+  101405343:
+    letters: 109
+    percent: 75
+  101405344:
     letters: 0
     percent: 0
-  U0018046:
-    letters: 788
+  101405349:
+    letters: 122
+    percent: 93
+  101405351:
+    letters: 0
+    percent: 0
+  101405352:
+    letters: 150
     percent: 100
-  U0042012:
+  101405354:
     letters: 0
     percent: 0
-  U0042031:
+  101405401:
     letters: 0
     percent: 0
-  U0042041:
-    letters: 519
-    percent: 65
-  U0042050:
-    letters: 700
-    percent: 90
-  U0043001:
-    letters: 792
+  101405405:
+    letters: 0
+    percent: 0
+  101405406:
+    letters: 0
+    percent: 0
+  101405407:
+    letters: 0
+    percent: 0
+  101405408:
+    letters: 80
+    percent: 60
+  101405410:
+    letters: 0
+    percent: 0
+  101405411:
+    letters: 26
+    percent: 17
+  101405414:
+    letters: 81
+    percent: 58
+  101405415:
+    letters: 82
+    percent: 61
+  101405417:
+    letters: 61
+    percent: 49
+  101405419:
+    letters: 0
+    percent: 0
+  101405423:
+    letters: 119
+    percent: 92
+  101405435:
+    letters: 0
+    percent: 0
+  101405444:
+    letters: 0
+    percent: 0
+  101405447:
+    letters: 0
+    percent: 0
+  101405658:
+    letters: 161
     percent: 100
-  U0043004:
+  101406959:
     letters: 0
     percent: 0
-  U0043033:
+  101406960:
+    letters: 86
+    percent: 68
+  101406961:
     letters: 0
     percent: 0
-  U0122002:
-    letters: 779
-    percent: 100
-  U0222133:
-    letters: 780
-    percent: 99
-  U0222228:
-    letters: 783
-    percent: 100
-  U9911237:
-    letters: 741
-    percent: 94
-  U9911242:
+  101406962:
     letters: 0
     percent: 0
-  U9917017:
-    letters: 671
-    percent: 87
-  U9923120:
+  101406963:
     letters: 0
     percent: 0
-  U9923121:
-    letters: 576
-    percent: 73
-  U9943007:
-    letters: 746
-    percent: 96
-  U9943019:
+  101500124:
+    letters: 0
+    percent: 0
+  102500016:
+    letters: 0
+    percent: 0
+  99405120:
+    letters: 0
+    percent: 0
+  99406128:
+    letters: 0
+    percent: 0
+  99407073:
+    letters: 0
+    percent: 0
+  99408213:
     letters: 0
     percent: 0
