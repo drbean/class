@@ -13,6 +13,12 @@ hwMax: 2
 id: 022FLA0018
 league: 夜應外大學三甲
 member:
+  - Chinese: 劉立
+    id: V0041065
+    name: Mark
+    password: li
+    rating: ~
+  
   - Chinese: 張依宸
     id: U0043021
     name: 張依宸
