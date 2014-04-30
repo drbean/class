@@ -37,7 +37,7 @@ member:
     rating: ~
   - Chinese: 何嘉仁
     id: V0041005
-    name: 何嘉仁
+    name: Darnell
     password: jia
     rating: ~
   - Chinese: 蔣宜芸
@@ -47,12 +47,12 @@ member:
     rating: ~
   - Chinese: 劉信雄
     id: V0041010
-    name: 劉信雄
+    name: Charles
     password: xin
     rating: ~
   - Chinese: 段禹辰
     id: V0041015
-    name: 段禹辰
+    name: Willy
     password: yu
     rating: ~
   - Chinese: 胡硯絃
@@ -77,7 +77,7 @@ member:
     rating: ~
   - Chinese: 彭佳瑩
     id: V0041036
-    name: 彭佳瑩
+    name: May
     password: jia
     rating: ~
   - Chinese: 王律予
@@ -117,12 +117,12 @@ member:
     rating: ~
   - Chinese: 張雅筑
     id: V0041062
-    name: 張雅筑
+    name: Iris
     password: ya
     rating: ~
   - Chinese: 馮永碇
     id: V0041066
-    name: 馮永碇
+    name: Danny
     password: yong
     rating: ~
   - Chinese: 古雅萱
