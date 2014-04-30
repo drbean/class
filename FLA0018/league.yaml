@@ -13,6 +13,12 @@ hwMax: 2
 id: 022FLA0018
 league: 夜應外大學三甲
 member:
+  - Chinese: 劉晏秀
+    id: V0140142
+    name: Christy
+    password: yan
+    rating: ~
+  
   - Chinese: 劉立
     id: V0041065
     name: Mark
@@ -21,7 +27,7 @@ member:
   
   - Chinese: 張依宸
     id: U0043021
-    name: 張依宸
+    name: Ling
     password: yi
     rating: ~
   - Chinese: 羅以翔
@@ -66,7 +72,7 @@ member:
     rating: ~
   - Chinese: 古佩軒
     id: V0041034
-    name: 古佩軒
+    name: Penny
     password: pei
     rating: ~
   - Chinese: 彭佳瑩
@@ -91,7 +97,7 @@ member:
     rating: ~
   - Chinese: 賴意穎
     id: V0041047
-    name: 賴意穎
+    name: Ada
     password: yi
     rating: ~
   - Chinese: 陳慶隆
