@@ -1,24 +1,99 @@
 ---
-exercise: interview
+cutpoints:
+  one: ~
+  two: ~
+exercise: spano
 grade:
-  V9941032: 3
-  V9941036: 2
-  V9941037: 2
-  V9941040: 2
-  V9941045: 3
-  V9941046: 2
-  V9941047: 2
-  V9941049: 3
-  V9941050: 3
-  V9941057: 2
-  V9941059: 1
-  V9941060: 2
-  V9941062: 0
-  V9941067: 2
-  V9941068: 2
-  V9941069: 1
-  V9941071: 2
-  V9941073: 1
-  V9941075: 0
-  V9941076: 3
-  V9941077: 0
+  U0043021: 0
+  V0041001: 0
+  V0041005: 1.1
+  V0041008: 0
+  V0041010: 0.62
+  V0041015: 1.82
+  V0041019: 1.98
+  V0041028: 0
+  V0041032: 0
+  V0041034: 0
+  V0041036: 0.78
+  V0041039: 2
+  V0041042: 0
+  V0041045: 1.26
+  V0041047: 0.86
+  V0041050: 0
+  V0041053: 2
+  V0041057: 0.36
+  V0041062: 1.96
+  V0041065: 0
+  V0041066: 2
+  V0140142: 0
+  V9941028: 0
+points:
+  U0043021:
+    letters: 0
+    percent: 0
+  V0041001:
+    letters: 0
+    percent: 0
+  V0041005:
+    letters: 108
+    percent: 55
+  V0041008:
+    letters: 0
+    percent: 0
+  V0041010:
+    letters: 69
+    percent: 31
+  V0041015:
+    letters: 195
+    percent: 91
+  V0041019:
+    letters: 215
+    percent: 99
+  V0041028:
+    letters: 0
+    percent: 0
+  V0041032:
+    letters: 0
+    percent: 0
+  V0041034:
+    letters: 0
+    percent: 0
+  V0041036:
+    letters: 84
+    percent: 39
+  V0041039:
+    letters: 205
+    percent: 100
+  V0041042:
+    letters: 0
+    percent: 0
+  V0041045:
+    letters: 129
+    percent: 63
+  V0041047:
+    letters: 83
+    percent: 43
+  V0041050:
+    letters: 0
+    percent: 0
+  V0041053:
+    letters: 201
+    percent: 100
+  V0041057:
+    letters: 36
+    percent: 18
+  V0041062:
+    letters: 199
+    percent: 98
+  V0041065:
+    letters: 0
+    percent: 0
+  V0041066:
+    letters: 199
+    percent: 100
+  V0140142:
+    letters: 0
+    percent: 0
+  V9941028:
+    letters: 0
+    percent: 0
