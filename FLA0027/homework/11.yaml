@@ -1,127 +1,500 @@
 ---
-cutpoints:
-  one: ~
-  two: ~
-exercise: trial
+exercise: computing
 grade:
-  T9823041: 0
-  V9741044: 2
-  V9741064: 1.48
-  V9841010: 2
-  V9841011: 2
-  V9841022: 0
-  V9841025: 1.36
-  V9841028: 0.4
-  V9841042: 0
-  V9841049: 2
-  V9941001: 0
-  V9941007: 0
-  V9941011: 0
-  V9941012: 0
-  V9941013: 0
-  V9941015: 0
-  V9941022: 0
-  V9941026: 2
-  V9941027: 0.76
-  V9941029: 1.92
-  V9941037: 2
-  V9941040: 2
-  V9941047: 2
-  V9941049: 2
-  V9941050: 1.8
-  V9941059: 1.88
-  V9941060: 0
-  V9941067: 2
-  V9941075: 0
-  V9941077: 0
+  N9661749: 0.00
+  T9823041: 1.81
+  V0041008: 2.00
+  V0041009: 0.45
+  V0041030: 1.83
+  V0041032: 0.00
+  V0041036: 1.71
+  V0041038: 2.00
+  V0041039: 2.00
+  V0041040: 2.00
+  V0041045: 1.74
+  V0041047: 1.15
+  V0041049: 2.00
+  V0041052: 0.91
+  V0041053: 2.00
+  V0041057: 0.22
+  V0141042: 1.81
+  V9741044: 1.18
+  V9841025: 2.00
+  V9841028: 1.05
+  V9841033: 1.94
+  V9841051: 0.00
+  V9841069: 2.00
+  V9841071: 1.93
+  V9941001: 0.00
+  V9941007: 0.00
+  V9941011: 1.86
+  V9941012: 1.96
+  V9941013: 0.00
+  V9941015: 2.00
+  V9941022: 1.51
+  V9941023: 2.00
+  V9941025: 1.84
+  V9941026: 1.87
+  V9941027: 1.44
+  V9941028: 2.00
+  V9941029: 0.99
+  V9941031: 2.00
+  V9941036: 0.00
+  V9941037: 0.00
+  V9941040: 2.00
+  V9941045: 2.00
+  V9941046: 1.94
+  V9941047: 1.87
+  V9941049: 0.60
+  V9941050: 0.60
+  V9941057: 2.00
+  V9941065: 2.00
+  V9941067: 1.06
+  V9941068: 2.00
+  V9941069: 2.00
+  V9941071: 0.00
+  V9941073: 1.96
+  V9941075: 0.50
+  V9941076: 1.22
 points:
+  N9661749:
+    pre_test: {}
+    post_test: {}
   T9823041:
-    letters: 0
-    percent: 0
+    pre_test:
+      attempted: 126
+      correct: 29
+    post_test:
+      attempted: <= 97
+      correct: '??'
+      improvement: '??'
+      targeted: 97
+  V0041008:
+    pre_test:
+      attempted: 139
+      correct: 110
+    post_test:
+      attempted: <= 29
+      correct: '??'
+      improvement: '??'
+      targeted: 29
+  V0041009:
+    pre_test:
+      attempted: 31
+      correct: 6
+    post_test:
+      attempted: <= 25
+      correct: '??'
+      improvement: '??'
+      targeted: 25
+  V0041030:
+    pre_test:
+      attempted: 127
+      correct: 14
+    post_test:
+      attempted: <= 113
+      correct: '??'
+      improvement: '??'
+      targeted: 113
+  V0041032:
+    pre_test: {}
+    post_test: {}
+  V0041036:
+    pre_test:
+      attempted: 119
+      correct: 80
+    post_test:
+      attempted: <= 39
+      correct: '??'
+      improvement: '??'
+      targeted: 39
+  V0041038:
+    pre_test:
+      attempted: 139
+      correct: 77
+    post_test:
+      attempted: <= 62
+      correct: '??'
+      improvement: '??'
+      targeted: 62
+  V0041039:
+    pre_test:
+      attempted: 139
+      correct: 45
+    post_test:
+      attempted: <= 94
+      correct: '??'
+      improvement: '??'
+      targeted: 94
+  V0041040:
+    pre_test:
+      attempted: 139
+      correct: 53
+    post_test:
+      attempted: <= 86
+      correct: '??'
+      improvement: '??'
+      targeted: 86
+  V0041045:
+    pre_test:
+      attempted: 121
+      correct: 88
+    post_test:
+      attempted: <= 33
+      correct: '??'
+      improvement: '??'
+      targeted: 33
+  V0041047:
+    pre_test:
+      attempted: 80
+      correct: 30
+    post_test:
+      attempted: <= 50
+      correct: '??'
+      improvement: '??'
+      targeted: 50
+  V0041049:
+    pre_test:
+      attempted: 139
+      correct: 1
+    post_test:
+      attempted: <= 138
+      correct: '??'
+      improvement: '??'
+      targeted: 138
+  V0041052:
+    pre_test:
+      attempted: 63
+      correct: 12
+    post_test:
+      attempted: <= 51
+      correct: '??'
+      improvement: '??'
+      targeted: 51
+  V0041053:
+    pre_test:
+      attempted: 139
+      correct: 77
+    post_test:
+      attempted: <= 62
+      correct: '??'
+      improvement: '??'
+      targeted: 62
+  V0041057:
+    pre_test:
+      attempted: 15
+      correct: 3
+    post_test:
+      attempted: <= 12
+      correct: '??'
+      improvement: '??'
+      targeted: 12
+  V0141042:
+    pre_test:
+      attempted: 126
+      correct: 21
+    post_test:
+      attempted: <= 105
+      correct: '??'
+      improvement: '??'
+      targeted: 105
   V9741044:
-    letters: 345
-    percent: 100
-  V9741064:
-    letters: 242
-    percent: 74
-  V9841010:
-    letters: 342
-    percent: 100
-  V9841011:
-    letters: 320
-    percent: 100
-  V9841022:
-    letters: 0
-    percent: 0
+    pre_test:
+      attempted: 82
+      correct: 64
+    post_test:
+      attempted: <= 18
+      correct: '??'
+      improvement: '??'
+      targeted: 18
   V9841025:
-    letters: 229
-    percent: 68
+    pre_test:
+      attempted: 139
+      correct: 5
+    post_test:
+      attempted: <= 134
+      correct: '??'
+      improvement: '??'
+      targeted: 134
   V9841028:
-    letters: 70
-    percent: 20
-  V9841042:
-    letters: 0
-    percent: 0
-  V9841049:
-    letters: 351
-    percent: 100
+    pre_test:
+      attempted: 73
+      correct: 9
+    post_test:
+      attempted: <= 64
+      correct: '??'
+      improvement: '??'
+      targeted: 64
+  V9841033:
+    pre_test:
+      attempted: 135
+      correct: 25
+    post_test:
+      attempted: <= 110
+      correct: '??'
+      improvement: '??'
+      targeted: 110
+  V9841051:
+    pre_test: {}
+    post_test: {}
+  V9841069:
+    pre_test:
+      attempted: 139
+      correct: 40
+    post_test:
+      attempted: <= 99
+      correct: '??'
+      improvement: '??'
+      targeted: 99
+  V9841071:
+    pre_test:
+      attempted: 134
+      correct: 118
+    post_test:
+      attempted: <= 16
+      correct: '??'
+      improvement: '??'
+      targeted: 16
   V9941001:
-    letters: 0
-    percent: 0
+    pre_test: {}
+    post_test: {}
   V9941007:
-    letters: 0
-    percent: 0
+    pre_test: {}
+    post_test: {}
   V9941011:
-    letters: 0
-    percent: 0
+    pre_test:
+      attempted: 129
+      correct: 81
+    post_test:
+      attempted: <= 48
+      correct: '??'
+      improvement: '??'
+      targeted: 48
   V9941012:
-    letters: 0
-    percent: 0
+    pre_test:
+      attempted: 136
+      correct: 115
+    post_test:
+      attempted: <= 21
+      correct: '??'
+      improvement: '??'
+      targeted: 21
   V9941013:
-    letters: 0
-    percent: 0
+    pre_test: {}
+    post_test: {}
   V9941015:
-    letters: 0
-    percent: 0
+    pre_test:
+      attempted: 139
+      correct: 113
+    post_test:
+      attempted: <= 26
+      correct: '??'
+      improvement: '??'
+      targeted: 26
   V9941022:
-    letters: 0
-    percent: 0
+    pre_test:
+      attempted: 105
+      correct: 13
+    post_test:
+      attempted: <= 92
+      correct: '??'
+      improvement: '??'
+      targeted: 92
+  V9941023:
+    pre_test:
+      attempted: 139
+      correct: 120
+    post_test:
+      attempted: <= 19
+      correct: '??'
+      improvement: '??'
+      targeted: 19
+  V9941025:
+    pre_test:
+      attempted: 128
+      correct: 112
+    post_test:
+      attempted: <= 16
+      correct: '??'
+      improvement: '??'
+      targeted: 16
   V9941026:
-    letters: 324
-    percent: 100
+    pre_test:
+      attempted: 130
+      correct: 118
+    post_test:
+      attempted: <= 12
+      correct: '??'
+      improvement: '??'
+      targeted: 12
   V9941027:
-    letters: 113
-    percent: 38
+    pre_test:
+      attempted: 100
+      correct: 54
+    post_test:
+      attempted: <= 46
+      correct: '??'
+      improvement: '??'
+      targeted: 46
+  V9941028:
+    pre_test:
+      attempted: 139
+      correct: 84
+    post_test:
+      attempted: <= 55
+      correct: '??'
+      improvement: '??'
+      targeted: 55
   V9941029:
-    letters: 331
-    percent: 96
+    pre_test:
+      attempted: 69
+      correct: 45
+    post_test:
+      attempted: <= 24
+      correct: '??'
+      improvement: '??'
+      targeted: 24
+  V9941031:
+    pre_test:
+      attempted: 139
+      correct: 114
+    post_test:
+      attempted: <= 25
+      correct: '??'
+      improvement: '??'
+      targeted: 25
+  V9941036:
+    pre_test: {}
+    post_test: {}
   V9941037:
-    letters: 333
-    percent: 100
+    pre_test: {}
+    post_test: {}
   V9941040:
-    letters: 333
-    percent: 100
+    pre_test:
+      attempted: 139
+      correct: 20
+    post_test:
+      attempted: <= 119
+      correct: '??'
+      improvement: '??'
+      targeted: 119
+  V9941045:
+    pre_test:
+      attempted: 139
+      correct: 114
+    post_test:
+      attempted: <= 25
+      correct: '??'
+      improvement: '??'
+      targeted: 25
+  V9941046:
+    pre_test:
+      attempted: 135
+      correct: 47
+    post_test:
+      attempted: <= 88
+      correct: '??'
+      improvement: '??'
+      targeted: 88
   V9941047:
-    letters: 321
-    percent: 100
+    pre_test:
+      attempted: 130
+      correct: 116
+    post_test:
+      attempted: <= 14
+      correct: '??'
+      improvement: '??'
+      targeted: 14
   V9941049:
-    letters: 314
-    percent: 100
+    pre_test:
+      attempted: 42
+      correct: 9
+    post_test:
+      attempted: <= 33
+      correct: '??'
+      improvement: '??'
+      targeted: 33
   V9941050:
-    letters: 311
-    percent: 90
-  V9941059:
-    letters: 317
-    percent: 94
-  V9941060:
-    letters: 0
-    percent: 0
+    pre_test:
+      attempted: 42
+      correct: 10
+    post_test:
+      attempted: <= 32
+      correct: '??'
+      improvement: '??'
+      targeted: 32
+  V9941057:
+    pre_test:
+      attempted: 139
+      correct: 46
+    post_test:
+      attempted: <= 93
+      correct: '??'
+      improvement: '??'
+      targeted: 93
+  V9941065:
+    pre_test:
+      attempted: 139
+      correct: 7
+    post_test:
+      attempted: <= 132
+      correct: '??'
+      improvement: '??'
+      targeted: 132
   V9941067:
-    letters: 296
-    percent: 100
+    pre_test:
+      attempted: 74
+      correct: 12
+    post_test:
+      attempted: <= 62
+      correct: '??'
+      improvement: '??'
+      targeted: 62
+  V9941068:
+    pre_test:
+      attempted: 139
+      correct: 96
+    post_test:
+      attempted: <= 43
+      correct: '??'
+      improvement: '??'
+      targeted: 43
+  V9941069:
+    pre_test:
+      attempted: 139
+      correct: 110
+    post_test:
+      attempted: <= 29
+      correct: '??'
+      improvement: '??'
+      targeted: 29
+  V9941071:
+    pre_test: {}
+    post_test: {}
+  V9941073:
+    pre_test:
+      attempted: 136
+      correct: 21
+    post_test:
+      attempted: <= 115
+      correct: '??'
+      improvement: '??'
+      targeted: 115
   V9941075:
-    letters: 0
-    percent: 0
-  V9941077:
-    letters: 0
-    percent: 0
+    pre_test:
+      attempted: 35
+      correct: 22
+    post_test:
+      attempted: <= 13
+      correct: '??'
+      improvement: '??'
+      targeted: 13
+  V9941076:
+    pre_test:
+      attempted: 85
+      correct: 43
+    post_test:
+      attempted: <= 42
+      correct: '??'
+      improvement: '??'
+      targeted: 42
