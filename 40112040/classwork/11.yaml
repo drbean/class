@@ -1,29 +1,62 @@
 ---
+# topic: spano
+# questions about spano? + any criticism, reservation, doubt in spano comments, reviews
+# less than 3 points: 2
+# 3 points: 2.5
+# more than 3 points: 3
 Black:
   absent:
-    - Luisa
+  merits: 2.5
+Blue:
+  absent:
   merits: 2
+
+Brown:
+  absent:
+  merits: 2.5
 Gray:
   absent:
-  merits: 3
+  merits: 2.5
 
-Yellow:
+Khaki:
+  absent:
+  merits: 2.5
+Chocolate:
   absent:
   merits: 2
+
+Charcoal:
+  absent:
+  merits: 3
 Green:
   absent:
   merits: 3
 
 Orange:
   absent:
+  merits: 3
+Pink:
+  absent:
   merits: 2
-Brown:
+
+Purple:
   absent:
-    - Tracy
-  merits: 3
-Blue:
+  merits: 2
+Red:
   absent:
-    - Chung-Wei
-    - Lance
   merits: 3
+
+Violet:
+  absent:
+  merits: 2
+Silver:
+  absent:
+  merits: 2
+
+Yellow:
+  absent:
+  merits: 3
+White:
+  absent:
+  merits: 2.5
 
