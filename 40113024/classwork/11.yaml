@@ -1,29 +1,63 @@
 ---
+# topic: spano
+# questions about spano? + any criticism, reservation, doubt in spano comments, reviews
+# 5 points: 3
+# less than 5 points: 2
+
+
 Black:
   absent:
-    - Luisa
-  merits: 2
-Gray:
-  absent:
-  merits: 3
-
-Yellow:
-  absent:
-  merits: 2
-Green:
-  absent:
-  merits: 3
-
-Orange:
-  absent:
-  merits: 2
-Brown:
-  absent:
-    - Tracy
+    - JingJia
   merits: 3
 Blue:
   absent:
-    - Chung-Wei
-    - Lance
+  merits: 3
+
+Brown:
+  absent:
+    - Tina
+    - Ariel
+  merits: 0
+Chocolate:
+  absent:
+    - Chris
+    - Kim
+  merits: 2
+
+Charcoal:
+  tardy:
+    - ChiaChia
+  absent:
+    - HuiWen
+  merits: 2
+Green:
+  absent:
+    - Kiru
+  merits: 2
+
+Orange:
+  absent:
+    - Sherry
+  merits: 2
+Pink:
+  absent:
+    - YiShyuan
+  merits: 3
+
+Purple:
+  absent:
+    - Jenny
+  merits: 2
+Silver:
+  absent:
+    - Martin
+    - Liu
+  merits: 0
+
+Yellow:
+  absent:
+  merits: 3
+White:
+  absent:
   merits: 3
 
