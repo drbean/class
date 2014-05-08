@@ -2,90 +2,142 @@
 cutpoints:
   one: ~
   two: ~
-exercise: foreman
+exercise: spano-ydu
 grade:
-  K220155482: 1.92
-  U0017024: 2
-  U0018027: 2
-  U0018046: 2
-  U0042012: 0
-  U0042031: 0
-  U0042041: 0
-  U0042050: 1.9
-  U0043001: 2
-  U0043004: 1.6
-  U0043033: 1.98
-  U0122002: 2
-  U0222133: 2
-  U0222228: 2
-  U9911237: 2
-  U9911242: 2
-  U9917017: 1.76
-  U9923120: 2
-  U9923121: 1.96
-  U9943007: 1.98
-  U9943019: 0
+  100405401: 0
+  100405402: 2
+  100405408: 0
+  100405411: 0
+  100405413: 0
+  100405417: 0
+  100405425: 2
+  100405432: 0
+  100405437: 2
+  100405440: 0.36
+  100405442: 0
+  100405444: 2
+  100405501: 2
+  100405507: 0
+  100405508: 0
+  100405509: 1
+  100405510: 0
+  100405514: 2
+  100405528: 0
+  100405529: 0
+  100405531: 0.08
+  100405536: 0
+  100405537: 0
+  100405540: 0
+  100405541: 1.72
+  100405543: 0
+  100405545: 0
+  100406863: 2
+  100406866: 0
+  100406867: 1.12
+  100407024: 0
+  101405311: 0
+  101500122: 0
+  102500005: 0
 points:
-  K220155482:
-    letters: 151
-    percent: 96
-  U0017024:
-    letters: 151
-    percent: 100
-  U0018027:
-    letters: 142
-    percent: 100
-  U0018046:
-    letters: 143
-    percent: 100
-  U0042012:
+  100405401:
     letters: 0
     percent: 0
-  U0042031:
+  100405402:
+    letters: 180
+    percent: 100
+  100405408:
     letters: 0
     percent: 0
-  U0042041:
+  100405411:
     letters: 0
     percent: 0
-  U0042050:
-    letters: 154
-    percent: 95
-  U0043001:
-    letters: 168
+  100405413:
+    letters: 0
+    percent: 0
+  100405417:
+    letters: 0
+    percent: 0
+  100405425:
+    letters: 222
     percent: 100
-  U0043004:
-    letters: 121
-    percent: 80
-  U0043033:
-    letters: 170
-    percent: 99
-  U0122002:
-    letters: 142
+  100405432:
+    letters: 0
+    percent: 0
+  100405437:
+    letters: 221
     percent: 100
-  U0222133:
-    letters: 144
+  100405440:
+    letters: 39
+    percent: 18
+  100405442:
+    letters: 0
+    percent: 0
+  100405444:
+    letters: 212
     percent: 100
-  U0222228:
-    letters: 144
+  100405501:
+    letters: 228
     percent: 100
-  U9911237:
-    letters: 161
+  100405507:
+    letters: 0
+    percent: 0
+  100405508:
+    letters: 0
+    percent: 0
+  100405509:
+    letters: 109
+    percent: 50
+  100405510:
+    letters: 0
+    percent: 0
+  100405514:
+    letters: 221
     percent: 100
-  U9911242:
-    letters: 132
+  100405528:
+    letters: 0
+    percent: 0
+  100405529:
+    letters: 0
+    percent: 0
+  100405531:
+    letters: 9
+    percent: 4
+  100405536:
+    letters: 0
+    percent: 0
+  100405537:
+    letters: 0
+    percent: 0
+  100405540:
+    letters: 0
+    percent: 0
+  100405541:
+    letters: 183
+    percent: 86
+  100405543:
+    letters: 0
+    percent: 0
+  100405545:
+    letters: 0
+    percent: 0
+  100406863:
+    letters: 190
     percent: 100
-  U9917017:
-    letters: 134
-    percent: 88
-  U9923120:
-    letters: 148
-    percent: 100
-  U9923121:
-    letters: 145
-    percent: 98
-  U9943007:
-    letters: 142
-    percent: 99
-  U9943019:
+  100406866:
+    letters: 0
+    percent: 0
+  100406867:
+    letters: 131
+    percent: 56
+  100407024:
+    letters: 0
+    percent: 0
+  101405311:
+    letters: 0
+    percent: 0
+  101500122:
+    letters: 0
+    percent: 0
+  102500005:
     letters: 0
     percent: 0
