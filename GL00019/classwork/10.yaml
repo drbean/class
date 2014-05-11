@@ -1,29 +1,20 @@
 ---
-Black:
-  absent: 
-  merits: 2
-Gray:
-  absent: 
-  merits: 3
+# topic: connell
 
-Blue:
-  tardy:
-  absent: 
-    - Chung-Wei
-  merits: 2
-Brown:
-  absent: 
+2-1:
+  absent:
+    - Wen
   merits: 3
-
-Orange:
-  absent: 
-  merits: 3
-Green:
-  absent: 
+2-2:
+  absent:
   merits: 2
 
-Yellow:
-  absent: 
-    - Simon
-    - Yukin
+3-1:
+  absent:
+    - Lan
+  merits: 3
+3-2:
+  absent:
+    - Lan
   merits: 2
+
