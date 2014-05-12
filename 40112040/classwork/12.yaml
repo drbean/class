@@ -1,29 +1,170 @@
 ---
+# diaz, poor man's meal
+# one-on-one
+# no cards, seating chart
+
+Beige:
+  absent:
+    - Julien
+    - Angela2
+    - Henry
+  merits: 1.6
 Black:
   absent:
-  merits: 3
-Gray:
-  absent:
-  merits: 2
-
-Orange:
-  absent:
-    - Angela
-  merits: 3
-Green:
-  absent:
-  merits: 2
-Yellow:
-  absent:
-    - Mia
-    - Simon
-  merits: 3
-
+    - Garry
+  merits: 2.6
 Blue:
   absent:
-    - Chung-Wei
-  merits: 3
+  merits: 2.4
 Brown:
   absent:
-  merits: 2
-
+    - Cindy
+  merits: 2.2
+Charcoal:
+  absent:
+  merits: 2.4
+Chocolate:
+  absent:
+    - Jhaung
+  merits: 2.6
+Gray:
+  absent:
+    - Tommy
+  merits: 2.6
+Green:
+  absent:
+    - Sharon
+  merits: 2.8
+Khaki:
+  tardy:
+    - Bryan
+  merits: 2.6
+Orange:
+  absent:
+    - Sandy
+    - Nina
+  merits: 2.0
+Pink:
+  absent:
+    - Lawrence
+    - Claire
+  merits: 2.0
+Purple:
+  absent:
+  merits: 3.0
+Red:
+  absent:
+    - Tina
+  merits: 2.6
+Silver:
+  absent:
+    - Todd
+  tardy:
+    - Ann
+  merits: 2.0
+Violet:
+  absent:
+  merits: 3.0
+White:
+  absent:
+    - Mia
+    - Joy
+  merits: 2.0
+Yellow:
+  absent:
+    - Ariel
+    - Larry2
+  merits: 2.2
+a:
+  Black:
+    Zoe: 2
+  Blue:
+    Mark: 2
+  Brown:
+    Winnie: 3
+  Charcoal:
+    Tony2: 2
+  Chocolate:
+    Kevin: 3
+  Gray:
+    Stanley: 3
+  Green:
+    Vivian: 3
+  Khaki:
+    Liz: 2
+  Orange:
+    Alisa: 2
+  Pink:
+    Christina: 2
+  Purple:
+    Jessie: 3
+    Lucy: 2
+  Red:
+    Abby: 3
+  Violet:
+    Larry1: 2
+  White:
+    Angela1: 2
+  Yellow:
+    Stephy: 3
+b:
+  Charcoal:
+    Samantha: 2
+  Chocolate:
+    Paul: 2
+  Gray:
+    Bella: 2
+  Green:
+    Sara: 3
+  Khaki:
+    Shuai: 3
+  Purple:
+    Irene: 2
+  Red:
+    Tony1: 2
+  Violet:
+    Linda: 3
+c:
+  Black:
+    Jeff: 3
+  Blue:
+    Fernando: 2
+  Silver:
+    Rose: 2
+  Violet:
+    Jack: 2
+points:
+  Black: 5
+  Blue: 4
+  Brown: 3
+  Charcoal: 4
+  Chocolate: 5
+  Gray: 5
+  Green: 6
+  Khaki: 5
+  Orange: 2
+  Pink: 2
+  Purple: 7
+  Red: 5
+  Silver: 2
+  Violet: 7
+  White: 2
+  Yellow: 3
+score:
+  Beige: 1.6
+  Black: 2.6
+  Blue: 2.4
+  Brown: 2.2
+  Charcoal: 2.4
+  Chocolate: 2.6
+  Gray: 2.6
+  Green: 2.8
+  Khaki: 2.6
+  Orange: 2.0
+  Pink: 2.0
+  Purple: 3.0
+  Red: 2.6
+  Silver: 2.0
+  Violet: 3.0
+  White: 2.0
+  Yellow: 2.2
