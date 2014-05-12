@@ -1,33 +1,34 @@
 ---
-# topic: debate
+# topic: spano
 
 Orange:
   absent:
-    - MengShiung
-  merits: 2
-Blue:
-  absent:
-  merits: 3
-
+  merits: ~
 Black:
   absent:
-    - Mary
-    - Jill
-  merits: 0
+    - Penny
+  merits: ~
 
+Blue:
+  absent:
+    - Mark
+  merits: ~
 Brown:
   absent:
-    - Leon
-  merits: 3
+  merits: ~
+
+Gray:
+  absent:
+  merits: ~
 Red:
   absent:
-    - Pei-Yun
-  merits: 2
+    - I-Yun
+  merits: ~
 
 Purple:
   absent:
-  merits: 2
+  merits: ~
 Pink:
   absent:
-  merits: 3
+  merits: ~
 
