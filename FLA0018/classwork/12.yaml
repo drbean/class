@@ -1,30 +1,86 @@
 ---
-# topic: no debate
+# diaz, poorman-meal
 
 Black:
-  absent:
-  merits: 3
-
+  absent: 
+  merits: 2.8
 Blue:
   absent:
-    - Brenda
-  merits: 3
+    - Mark
+  merits: 2.2
 Brown:
-  absent:
-  merits: 3
-
+  absent: 
+  merits: 2.6
+Orange:
+  absent: 
+  merits: 3.0
+Pink:
+  absent: 
+  merits: 2.5
+Purple:
+  absent: 
+  merits: 2.8
 Red:
   absent:
-  merits: 3
-Purple:
-  absent:
-    - Claire
-  merits: 3
-
-Orange:
-  absent:
-  merits: 3
-Pink:
-  absent:
-  merits: 3
-
+    - I-Yun
+  merits: 2.0
+a:
+  Black:
+    Charlie: 2
+  Blue:
+    YanSan: 2
+  Brown:
+    Christy: 3
+  Orange:
+    Nina: 3
+  Pink:
+    Yu-Wen: 2
+  Purple:
+    Darnell: 3
+b:
+  Black:
+    李名婷: 3
+  Blue:
+    Ada: 3
+  Brown:
+    Cindy: 2
+  Orange:
+    Iris: 3
+  Pink:
+    May: 2
+  Purple:
+    Charles: 2
+c:
+  Black:
+    Penny: 3
+  Blue:
+    Mark: 0
+  Brown:
+    Alice: 2
+  Orange:
+    Willy: 3
+  Pink:
+    Ling: 2.5
+  Purple:
+    JhaoYi: 3
+  Red:
+    Danny: 2
+    Stella: 2
+points:
+  '': 0
+  Black: 8
+  Blue: 5
+  Brown: 7
+  Orange: 9
+  Pink: 6.5
+  Purple: 8
+  Red: 4
+score:
+  '': 1.2
+  Black: 2.8
+  Blue: 2.2
+  Brown: 2.6
+  Orange: 3.0
+  Pink: 2.5
+  Purple: 2.8
+  Red: 2.0
