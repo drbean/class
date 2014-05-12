@@ -6,9 +6,11 @@
 # more than 3 points: 3
 Black:
   absent:
+    - Gary
   merits: 2.5
 Blue:
   absent:
+    - Mark
   merits: 2
 
 Brown:
@@ -23,6 +25,7 @@ Khaki:
   merits: 2.5
 Chocolate:
   absent:
+    - Paul
   merits: 2
 
 Charcoal:
@@ -30,6 +33,8 @@ Charcoal:
   merits: 3
 Green:
   absent:
+  tardy:
+    - Sharon
   merits: 3
 
 Orange:
@@ -37,6 +42,7 @@ Orange:
   merits: 3
 Pink:
   absent:
+    - Lawrence
   merits: 2
 
 Purple:
@@ -48,15 +54,27 @@ Red:
 
 Violet:
   absent:
+    - Linda
   merits: 2
 Silver:
   absent:
+    - Todd
+    - Ann
   merits: 2
 
 Yellow:
   absent:
+    - Ariel
   merits: 3
 White:
   absent:
+    - Angela1
+    - Mia
+  merits: 2.5
+
+Beige:
+  absent:
+    - Julien
+    - Angela2
   merits: 2.5
 
