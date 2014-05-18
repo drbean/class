@@ -2,90 +2,38 @@
 cutpoints:
   one: ~
   two: ~
-exercise: davist
+exercise: diaz
 grade:
-  K220155482: 1.98
-  U0017024: 2
-  U0018027: 2
-  U0018046: 1.98
-  U0042012: 0
-  U0042031: 0
-  U0042041: 0.56
-  U0042050: 1.92
-  U0043001: 2
-  U0043004: 1.46
-  U0043033: 2
-  U0122002: 2
-  U0222133: 1.98
-  U0222228: 2
-  U9911237: 2
-  U9911242: 2
-  U9917017: 2
-  U9923120: 1.9
-  U9923121: 1.38
-  U9943007: 1.94
-  U9943019: 0
+  U0016044: 2
+  U0022342: 2
+  U0022343: 2
+  U0110031: 2
+  U9816034: 2
+  U9911001: 0
+  U9911202: 0
+  U9911220: 2
 points:
-  K220155482:
-    letters: 185
-    percent: 99
-  U0017024:
-    letters: 180
+  U0016044:
+    letters: 216
     percent: 100
-  U0018027:
-    letters: 178
+  U0022342:
+    letters: 224
     percent: 100
-  U0018046:
-    letters: 159
-    percent: 99
-  U0042012:
+  U0022343:
+    letters: 218
+    percent: 100
+  U0110031:
+    letters: 221
+    percent: 100
+  U9816034:
+    letters: 238
+    percent: 100
+  U9911001:
     letters: 0
     percent: 0
-  U0042031:
+  U9911202:
     letters: 0
     percent: 0
-  U0042041:
-    letters: 60
-    percent: 28
-  U0042050:
-    letters: 160
-    percent: 96
-  U0043001:
-    letters: 180
+  U9911220:
+    letters: 202
     percent: 100
-  U0043004:
-    letters: 148
-    percent: 73
-  U0043033:
-    letters: 189
-    percent: 100
-  U0122002:
-    letters: 171
-    percent: 100
-  U0222133:
-    letters: 171
-    percent: 99
-  U0222228:
-    letters: 161
-    percent: 100
-  U9911237:
-    letters: 200
-    percent: 100
-  U9911242:
-    letters: 167
-    percent: 100
-  U9917017:
-    letters: 180
-    percent: 100
-  U9923120:
-    letters: 168
-    percent: 95
-  U9923121:
-    letters: 117
-    percent: 69
-  U9943007:
-    letters: 156
-    percent: 97
-  U9943019:
-    letters: 0
-    percent: 0
