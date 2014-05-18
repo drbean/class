@@ -35,11 +35,6 @@ member:
     name: Chelsea
     password: ru
     rating: ~
-  - Chinese: 羅以翔
-    id: V0041001
-    name: Welkin
-    password: yi
-    rating: ~
   - Chinese: 林志軍
     id: V0041002
     name: Brock
@@ -286,6 +281,11 @@ member:
     password: bo
     rating: 47
 out:
+  - Chinese: 羅以翔
+    id: V0041001
+    name: Welkin
+    password: yi
+    rating: ~
   - Chinese: 湯明勳
     id: V9941010
     name: Robert
