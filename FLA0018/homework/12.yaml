@@ -1,22 +1,99 @@
 ---
-exercise: group topic
+cutpoints:
+  one: ~
+  two: ~
+exercise: diaz
 grade:
-  V9941032: 0
-  V9941036: 3
-  V9941037: 3
-  V9941040: 3
-  V9941045: 3
-  V9941046: 3
-  V9941047: 3
-  V9941049: 3
-  V9941050: 3
-  V9941057: 3
-  V9941059: 3
-  V9941060: 0
-  V9941067: 3
-  V9941068: 3
-  V9941069: 3
-  V9941071: 0
-  V9941073: 3
-  V9941075: 1
-  V9941076: 3
+  U0043021: 2
+  V0041001: 0
+  V0041005: 0.34
+  V0041008: 1.7
+  V0041010: 0.88
+  V0041015: 1.82
+  V0041019: 2
+  V0041028: 2
+  V0041032: 0
+  V0041034: 0
+  V0041036: 0.8
+  V0041039: 2
+  V0041042: 0.76
+  V0041045: 1
+  V0041047: 0.88
+  V0041050: 1.76
+  V0041053: 2
+  V0041057: 0.38
+  V0041062: 1.86
+  V0041065: 0
+  V0041066: 2
+  V0140142: 0
+  V9941028: 0.72
+points:
+  U0043021:
+    letters: 215
+    percent: 100
+  V0041001:
+    letters: 0
+    percent: 0
+  V0041005:
+    letters: 33
+    percent: 17
+  V0041008:
+    letters: 181
+    percent: 85
+  V0041010:
+    letters: 96
+    percent: 44
+  V0041015:
+    letters: 190
+    percent: 91
+  V0041019:
+    letters: 225
+    percent: 100
+  V0041028:
+    letters: 233
+    percent: 100
+  V0041032:
+    letters: 0
+    percent: 0
+  V0041034:
+    letters: 0
+    percent: 0
+  V0041036:
+    letters: 78
+    percent: 40
+  V0041039:
+    letters: 188
+    percent: 100
+  V0041042:
+    letters: 76
+    percent: 38
+  V0041045:
+    letters: 104
+    percent: 50
+  V0041047:
+    letters: 83
+    percent: 44
+  V0041050:
+    letters: 187
+    percent: 88
+  V0041053:
+    letters: 218
+    percent: 100
+  V0041057:
+    letters: 39
+    percent: 19
+  V0041062:
+    letters: 208
+    percent: 93
+  V0041065:
+    letters: 0
+    percent: 0
+  V0041066:
+    letters: 232
+    percent: 100
+  V0140142:
+    letters: 0
+    percent: 0
+  V9941028:
+    letters: 78
+    percent: 36
