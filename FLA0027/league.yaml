@@ -137,11 +137,6 @@ member:
     name: Rei
     password: yang
     rating: ~
-  - Chinese: 湯明勳
-    id: V9941010
-    name: Robert
-    password: ming
-    rating: ~
   - Chinese: 鍾興科
     id: V9941011
     name: Adam
@@ -304,6 +299,11 @@ member:
     password: bing
     rating: ~
 out:
+  - Chinese: 湯明勳
+    id: V9941010
+    name: Robert
+    password: ming
+    rating: ~
   - Chinese: 杜珮瑜
     id: V0041028
     name: 杜珮瑜
