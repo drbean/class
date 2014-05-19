@@ -1,46 +1,85 @@
 ---
-Green:
-  absent:
-    - Brenda
-    - Sandy
-  merits: 3
+# topic: TheoryX,Y
+
 Black:
   absent:
-    - Leon
-    - Sophia
+    - Chelsea
+  tardy:
+    - Stephanie
   merits: 2
-
 Blue:
   absent:
-    - Joe
-    - Edward
-  merits: 2
-Charcoal:
-  absent:
-    - Redd
+    - Stella
   merits: 3
 
+Brown:
+  absent:
+  merits: 3
+Gray:
+  absent:
+    - Amy2
+  merits: 2
+
+Khaki:
+  absent:
+    - Edward
+  merits: 2
 Chocolate:
   absent:
   merits: 3
-Purple:
+
+Charcoal:
   absent:
-    - Claire
+    - Nini
+  merits: 3
+Green:
+  absent:
   merits: 2
 
-White:
-  absent:
-  merits: 2
 Orange:
   absent:
-    - Katty
-  merits: 3
-
+    - Eva
+  merits: 2
 Pink:
   absent:
-    - Joanna
+  merits: 3
+
+Purple:
+  absent:
+    - Redd
+  tardy:
+    - Yvonne
+  merits: 3
+Red:
+  absent:
   merits: 2
+
+Violet:
+  absent:
+  tardy:
+    - Angela
+  merits: 3
+Silver:
+  absent:
+  merits: 2
+
 Yellow:
   absent:
-    - Vicki
+  tardy:
+    - Sophia1
   merits: 3
+White:
+  absent:
+    - Yu-Wen
+  merits: 2
+
+Beige:
+  absent:
+    - I-Yun
+    - Katty
+  merits: 3
+Golden:
+  absent:
+    - Welkin
+  merits: 2
+
