@@ -1,7 +1,8 @@
 ---
 activity:
-  0:
+  theory-x-y:
     0:
+      - 0
       - 1
       - 2
       - 3
@@ -20,11 +21,69 @@ activity:
       - 16
       - 17
       - 18
-assistant: ~
-bye: V0041053
-dispensation: ~
-divisions: ~
+  nicholson:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+  drbean:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+assistant: 
+  Beige:
+    V9941026: 3
+  Gray:
+    V9941046: 4
+    V0041019: 4
+  Golden:
+    V0041008: 4
+    V9841028: 4
+    V9941047: 4
+  White:
+    V0041042: 4
+    V0041009: 4
+
+
+bye: V9941059
 group:
+  0:
+    White: V0041053
+    Black: V0241030
+    
   1:
     White: V0041039
     Black: V9941057
@@ -80,9 +139,10 @@ group:
     White: V0041057
     Black: V9941012
 late:
-  - ~
+  - V0241030
+  - V9941059
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 2
 round: 3
-text: ~
-week: ~
+text: /home/drbean/class/business/managing/cards.yaml
+week: 13
