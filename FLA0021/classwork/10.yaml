@@ -1,43 +1,72 @@
 ---
+# topic: Theory_X,Y
+# perhaps Week 11
+# questions on board, probably number, 0-3
+# 0: 2
+# 1: 2.3
+# 2: 2.6
+# 3: 3
+
 Black:
   absent:
-    - Leon
-  merits: 2
+  merits: 2.6
 Blue:
   absent:
-    - Joe
-  merits: 3
+  merits: 2.6
 
+Brown:
+  absent:
+  merits: 2
+Gray:
+  absent:
+  merits: 2.3
+
+Khaki:
+  absent:
+  merits: 2.6
 Chocolate:
   absent:
-  merits: 2
+  merits: 2.6
+
 Charcoal:
   absent:
-    - Redd
   merits: 3
-
 Green:
   absent:
-  merits: 3
+  merits: 2.6
+
 Orange:
   absent:
-    - Larry
-    - Diana
-  merits: 2
-
+  merits: 3
 Pink:
   absent:
   merits: 2
+
 Purple:
   absent:
-    - Claire
+  merits: 2
+Red:
+  absent:
+  merits: 2.3
+
+Violet:
+  absent:
+  merits: 2.3
+Silver:
+  absent:
   merits: 3
 
 Yellow:
   absent:
-    - Vicki
-  merits: 2
+  merits: 2.3
 White:
   absent:
-    - Jessica
-  merits: 3
+  merits: 2.3
+
+Beige:
+  absent:
+  merits: 2
+Golden:
+  absent:
+  merits: 2
+
