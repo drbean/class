@@ -1,36 +1,48 @@
 ---
-# topic: news-12
+# topic: drbean
 
+Green:
+  absent:
+  tardy:
+    - David
+  merits: 3
 Black:
   absent:
-  merits: 3
-Yellow:
+    - Chelsea
+  merits: 2
+
+Blue:
   absent:
-    - Vicki
+    - Stella
+  tardy:
+    - Stephanie
+  merits: 3
+Brown:
+  absent:
+    - Brenda
+  merits: 2
+
+Gray:
+  absent:
+    - Amy2
+  merits: 3
+Beige:
+  absent:
+    - Claire
+    - Welkin
+  merits: 2
+
+Charcoal:
+  absent:
+    - Nini
+  merits: 3
+Chocolate:
+  absent:
   merits: 2
 
 White:
   absent:
-    - Jessica
-    - Leo
-  merits: 2
-Blue:
-  absent:
-    - Joe
-    - Edward
-    - Joan
-  merits: 0
-
-Chocolate:
-  absent:
-  merits: 3
-Charcoal:
-  absent:
-    - Redd
-  merits: 2
-
-Green:
-  absent:
+    - Louise
   merits: 3
 Orange:
   absent:
@@ -38,7 +50,31 @@ Orange:
 
 Pink:
   absent:
-  merits: 3
+    - Eva
+  merits: 2
 Purple:
   absent:
+  merits: 3
+
+Golden:
+  absent:
+  merits: 3
+Violet:
+  absent:
   merits: 2
+
+Silver:
+  absent:
+  merits: 2
+Yellow:
+  absent:
+  merits: 3
+
+Khaki:
+  absent:
+    - Edward
+  merits: 3
+Red:
+  absent:
+  merits: 2
+
