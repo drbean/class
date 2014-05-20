@@ -24,11 +24,6 @@ member:
     name: Peggy
     password: yu
     rating: ~
-  - Chinese: 郭思瑩
-    id: B00200101
-    name: Mila
-    password: si
-    rating: ~
   - Chinese: 徐毅騰
     id: B02202201
     name: Eaton
@@ -39,20 +34,10 @@ member:
     name: Sherry
     password: yu
     rating: ~
-  - Chinese: 吳珮君
-    id: B02202203
-    name: Vicky
-    password: pei
-    rating: ~
   - Chinese: 徐子硯
     id: B02200012
     name: Emily1
     password: zi
-    rating: ~
-  - Chinese: 謝玉蘿
-    id: B02200030
-    name: Doris
-    password: yu
     rating: ~
   - Chinese: 顏夢萱
     id: B02200043
@@ -79,35 +64,10 @@ member:
     name: Bruce2
     password: yu
     rating: ~
-  - Chinese: 李浩維
-    id: B02200003
-    name: Rice
-    password: hao
-    rating: ~
-  - Chinese: 張乃心
-    id: B02200025
-    name: Mina
-    password: nai
-    rating: ~
-  - Chinese: 江丞凱
-    id: B02200031
-    name: Pizza
-    password: cheng
-    rating: ~
   - Chinese: 陳采莉
     id: B02200052
     name: Cherry
     password: cai
-    rating: ~
-  - Chinese: 廖婉廷
-    id: B02200064
-    name: Anita
-    password: wan
-    rating: ~
-  - Chinese: 黃士軒
-    id: B02200066
-    name: Roger
-    password: shi
     rating: ~
   - Chinese: 陳君媛
     id: B02200067
@@ -124,6 +84,47 @@ member:
     name: Emily2
     password: yu
     rating: ~
+  - Chinese: 廖婉廷
+    id: B02200064
+    name: Anita
+    password: wan
+    rating: ~
+out:
+  - Chinese: 謝玉蘿
+    id: B02200030
+    name: Doris
+    password: yu
+    rating: ~
+  - Chinese: 吳珮君
+    id: B02202203
+    name: Vicky
+    password: pei
+    rating: ~
+  - Chinese: 李浩維
+    id: B02200003
+    name: Rice
+    password: hao
+    rating: ~
+  - Chinese: 張乃心
+    id: B02200025
+    name: Mina
+    password: nai
+    rating: ~
+  - Chinese: 江丞凱
+    id: B02200031
+    name: Pizza
+    password: cheng
+    rating: ~
+  - Chinese: 郭思瑩
+    id: B00200101
+    name: Mila
+    password: si
+    rating: ~
+  - Chinese: 黃士軒
+    id: B02200066
+    name: Roger
+    password: shi
+    rating: ~
   - Chinese: 姜瀚威
     id: B02200098
     name: Wade
@@ -134,7 +135,6 @@ member:
     name: Veronica
     password: xin
     rating: ~
-out:
   - Chinese: 武祖旋
     id: B02200014
     name: Sam
