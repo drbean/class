@@ -1,64 +1,259 @@
 ---
-# topic: warm
+# questions, spano reviews
 
-Green:
-  absent:
-  merits: 3
+Beige:
+  absent: ~
+  merits: 2.6
+  tardy: ~
 Black:
   absent:
-    - Jerry
-  merits: 2
-
-Charcoal:
-  absent:
-    - Don
-    - Carol
-  merits: 2
+    - Emma
+  merits: 2.6
+  tardy: ~
 Blue:
-  absent:
-    - Allen
-    - MiuMiu
+  absent: ~
   merits: 3
-
-Chocolate:
-  absent:
-  merits: 2
+  tardy: ~
 Brown:
   absent:
-    - Peggy
-  merits: 3
-
+    - Hola
+  merits: 2.6
+  tardy: ~
+Charcoal:
+  absent:
+    - Scott
+  merits: 2
+  tardy: ~
+Chocolate:
+  absent: ~
+  merits: 2.6
+  tardy:
+    - Jasmine
+Golden:
+  absent: ~
+  merits: 2.8
+  tardy: ~
+Gray:
+  absent: ~
+  merits: 2.6
+  tardy: ~
+Green:
+  absent: ~
+  merits: 2.6
+  tardy: ~
 Khaki:
   absent:
-  merits: 3
-Gray:
-  absent:
-    - Ben
-  merits: 2
-
-White:
-  absent:
-    - Tina
-  merits: 2
+    - Caroline
+  merits: 2.2
+  tardy: ~
 Orange:
   absent:
+    - Alicia
   merits: 3
-
+  tardy:
+    - Roc
 Pink:
-  absent:
-    - Mindy
-  merits: 3
-Purple:
-  absent:
+  absent: ~
   merits: 2
-
+  tardy:
+    - Nicole
+Purple:
+  absent: ~
+  merits: 2.2
+  tardy: ~
 Red:
+  absent: ~
+  merits: 2.8
+  tardy: ~
+Silver:
   absent:
-    - Bunny
-  merits: 3
+    - Rita
+  merits: 2.6
+  tardy: ~
+Turquoise:
+  absent:
+    - Josh
+  merits: 2.4
+  tardy: ~
+Violet:
+  absent: ~
+  merits: 2.6
+  tardy: ~
+White:
+  absent: ~
+  merits: 2.8
+  tardy: ~
+Window:
+  absent: ~
+  merits: 2.6
+  tardy: ~
 Yellow:
   absent:
-    - Yuki
-    - Crown
-  merits: 0
-
+    - Ennis
+  merits: 2.6
+  tardy: ~
+absent:
+grade:
+  Beige: 2.6
+  Black: 2.6
+  Blue: 3
+  Brown: 2.6
+  Charcoal: 2
+  Chocolate: 2.6
+  Golden: 2.8
+  Gray: 2.6
+  Green: 2.6
+  Khaki: 2.2
+  Orange: 3
+  Pink: 2
+  Purple: 2.2
+  Red: 2.8
+  Silver: 2.6
+  Turquoise: 2.4
+  Violet: 2.6
+  White: 2.8
+  Window: 2.6
+  Yellow: 2.6
+points:
+  Beige: 6
+  Black: 6
+  Blue: 8
+  Brown: 6
+  Charcoal: 3
+  Chocolate: 6
+  Golden: 7
+  Gray: 6
+  Green: 6
+  Khaki: 4
+  Orange: 8
+  Pink: 3
+  Purple: 4
+  Red: 7
+  Silver: 6
+  Turquoise: 5
+  Violet: 6
+  White: 7
+  Window: 6
+  Yellow: 6
+questions:
+  Beige:
+    absent: ~
+    merits: 2
+  Black:
+    absent: ~
+    merits: 2
+  Blue:
+    absent: ~
+    merits: 3
+  Brown:
+    absent: ~
+    merits: 2
+  Charcoal:
+    absent: ~
+    merits: 0
+  Chocolate:
+    absent: ~
+    merits: 2
+  Golden:
+    absent: ~
+    merits: 3
+  Gray:
+    absent: ~
+    merits: 2
+  Green:
+    absent: ~
+    merits: 2
+  Khaki:
+    absent: ~
+    merits: 0
+  Orange:
+    absent: ~
+    merits: 3
+  Pink:
+    absent: ~
+    merits: 0
+  Purple:
+    absent: ~
+    merits: 1
+  Red:
+    absent: ~
+    merits: 3
+  Silver:
+    absent: ~
+    merits: 2
+  Turquoise:
+    absent: ~
+    merits: 2
+  Violet:
+    absent: ~
+    merits: 2
+  White:
+    absent: ~
+    merits: 3
+  Window:
+    absent: ~
+    merits: 2
+  Yellow:
+    absent: ~
+    merits: 2
+reviews:
+  Beige:
+    absent: ~
+    merits: 4
+  Black:
+    absent: ~
+    merits: 4
+  Blue:
+    absent: ~
+    merits: 5
+  Brown:
+    absent: ~
+    merits: 4
+  Charcoal:
+    absent: ~
+    merits: 3
+  Chocolate:
+    absent: ~
+    merits: 4
+  Golden:
+    absent: ~
+    merits: 4
+  Gray:
+    absent: ~
+    merits: 4
+  Green:
+    absent: ~
+    merits: 4
+  Khaki:
+    absent: ~
+    merits: 4
+  Orange:
+    absent: ~
+    merits: 5
+  Pink:
+    absent: ~
+    merits: 3
+  Purple:
+    absent: ~
+    merits: 3
+  Red:
+    absent: ~
+    merits: 4
+  Silver:
+    absent: ~
+    merits: 4
+  Turquoise:
+    absent: ~
+    merits: 3
+  Violet:
+    absent: ~
+    merits: 4
+  White:
+    absent: ~
+    merits: 4
+  Window:
+    absent: ~
+    merits: 4
+  Yellow:
+    absent: ~
+    merits: 4
