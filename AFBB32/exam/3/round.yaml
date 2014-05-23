@@ -1,93 +1,115 @@
 ---
 round: Exam 3
-week: 14
+week: 13
 questions:
-  - 3
-pass: 1
+  - 10
+pass: 6
 assistant:
-  - Dave
-  - Teresa
-  - Sally
 absent:
-  - Dora
-  - Tina
-  - Yuki
-  - Crown
-  - Neo
-  - Candy
-  - Emily
-  - Vicky
-  - Ben
-  - Peggy
-  - Jerry
+  - Luke
+  - Rita
+  - Scott
+  - Momo
+  - Penny
 text: /home/drbean/class/conversation/disability/cards.yaml
 activity:
   connell:
     55:
+      - Beige
+      - Black
       - Brown
+      - Golden
+      - Khaki
+      - Pink
+      - Silver
+  spano:
+    0:
+      - Blue
       - Green
       - Orange
-      - Pink
-  warm:
-    1:
-      - Gray
       - Red
-  foreman:
-    1:
-      - Black
-      - Charcoal
-      - Cindy
-  davist:
-    2:
-      - Blue
+      - Turquoise
+      - Violet
+      - Window
+
+  diaz:
+    0:
       - Chocolate
-      - Khaki
+      - Gray
+      - Purple
+      - Yellow
+
+
 group:
-  Cindy:
-    - Cindy
-    - Teresa
-    - Sally
+  Beige:
+    - Sean
+    - Jean
+    - Judy
   Black:
-    - Vicky
-    - Kelly1
-    - Teresa
+    - Emma
+    - Vicky2
+    - Alina
   Blue:
+    - Riccia
+    - Abby
     - Allen
-    - MiuMiu
-    - Dave
   Brown:
-    - Dave
-    - Shane
-    - Ally
+    - Lorry
+    - Ruby
+    - Nancy
   Chocolate:
-    - Mei
-    - Katie
-    - Selena
-  Green:
-    - Dave
-    - Andy
-    - Eva
-  Charcoal:
-    - Don
-    - Carol
-    - Sally
-  Orange:
-    - Fion
-    - Alex
-    - Carlos
-  Pink:
-    - Jeff
-    - Mindy
+    - Eileen
+    - Jasmine
+    - Cora
+  Golden:
+    - Phoebe
+    - Pancy
     - Betty
   Gray:
-    - Dave
-    - Neil
-    - Lanna
-  Red:
-    - Champion
-    - Bunny
-    - James
+    - Hola
+    - Winnie
+    - Hedy
+  Green:
+    - Hannah
+    - Jessie
+    - Ashley
   Khaki:
-    - Denise
-    - Joan
-    - Louie
+    - Caroline
+    - Dona
+    - Cindy
+  Orange:
+    - Roc
+    - Alicia
+    - Christy
+  Pink:
+    - Nicole
+    - Joe
+    - Tammy
+  Purple:
+    - Zarita
+    - Della
+    - Ellen
+  Red:
+    - Peggy
+    - Sandy
+    - Sarah
+  Silver:
+    - Charlene
+    - Chloe
+    - Claire
+  Turquoise:
+    - Josh
+    - Eva
+    - Rosa
+  Violet:
+    - Will
+    - Vicky1
+    - Wenny
+  Window:
+    - Eric
+    - Jason
+    - Wayne
+  Yellow:
+    - Linda
+    - Ennis
+    - Jane
