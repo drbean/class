@@ -1,7 +1,7 @@
 ---
 activity:
-  biomom:
-    4:
+  connell:
+    55:
       - 1
       - 2
       - 3
@@ -20,8 +20,14 @@ activity:
       - 16
       - 17
       - 18
-  biodad:
-    1:
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+      - 24
+  spano:
+    0:
       - 1
       - 2
       - 3
@@ -40,8 +46,14 @@ activity:
       - 16
       - 17
       - 18
-  emersonj:
-    2:
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+      - 24
+  diaz:
+    0:
       - 1
       - 2
       - 3
@@ -60,77 +72,102 @@ activity:
       - 16
       - 17
       - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+      - 24
 assistant:
   Black:
-    N00200042: 5
-    N02203102: 5
-    N00120056: 5
-bye: N00200045
-dispensation: ~
-divisions: ~
+    B99110055: 3
+    B01200081: 4
+    B01200047: 4
+  Window:
+    B01200014: 5
+    B01200003: 5
+    B01200063: 0
+
+bye: B01200028
 group:
   1:
-    White: N00200034
-    Black: N00200029
+    White: B01200085
+    Black: B01200115
   2:
-    White: N00200010
-    Black: N01202001
+    White: B01200012
+    Black: B01200036
   3:
-    White: N01202101
-    Black: N00200015
+    White: B01200101
+    Black: B02202106
   4:
-    White: N00200055
-    Black: N00200032
+    White: B01200002
+    Black: B02202101
   5:
-    White: N99030025
-    Black: N00200006
+    White: B01200022
+    Black: B01200024
   6:
-    White: N00200022
-    Black: N00200009
+    White: B01200093
+    Black: B01200040
   7:
-    White: N00200030
-    Black: N00200058
+    White: B99100040
+    Black: B01200045
   8:
-    White: N00200031
-    Black: N00200025
-  9:
-    White: N00200008
-    Black: N00200036
-  10:
-    White: N00200037
-    Black: N00200056
-  11:
-    White: N00200048
-    Black: N00200001
-  12:
-    White: N01202002
-    Black: N01202004
-  13:
-    White: N00200044
-    Black: N00200014
-  14:
-    White: N00200043
-    Black: N00200017
-  15:
-    White: N00200054
-    Black: N99030033
-  16:
-    White: N00200007
-    Black: N00202103
-  17:
-    White: N01202103
-    Black: N00200003
-  18:
-    White: N01202105
-    Black: N98200021
+    White: B01200061
+    Black: B01200049
   
-late:
-  - N01202103
-  - N00200003
-  - N01202105
-  - N98200021
-pairing: swiss
+  9:
+    White: B01200083
+    Black: B01200069
+  10:
+    White: B01200077
+    Black: B01200075
+  11:
+    White: B01200018
+    Black: B01200008
+  12:
+    White: B01200057
+    Black: B01200051
+  13:
+    White: B01200042
+    Black: B01200089
+  14:
+    White: B01200001
+    Black: B01200113
+  15:
+    White: B01200055
+    Black: B01200071
+  16:
+    White: B01200038
+    Black: B01200020
+  17:
+    White: B01200032
+    Black: B01200107
+  
+  18:
+    White: B00170085
+    Black: B01200065
+  19:
+    White: B01200030
+    Black: B01200067
+  20:
+    White: B01200026
+    Black: B01200006
+  21:
+    White: B01200034
+    Black: B01200059
+  22:
+    White: B01200095
+    Black: B01200097
+  23:
+    White: B01200073
+    Black: B99200063
+  24:
+    White: B02202104
+    Black: B01200053
+  
+                
+pairing: Blue::Brown,Gray::Beige,Turquoise::Khaki,Chocolate::Charcoal,Green::Orange,Pink::Purple,Red::Golden,Silver::Violet,Yellow::White A, B and C
 payprotocol: meritPay 2
 round: 2
-text: /home/drbean/class/conversation/parents/cards.yaml
-week: 9
+text: /home/drbean/class/conversation/disability/cards.yaml
+week: 13

@@ -1,75 +1,111 @@
 ---
 Chinese:
+  Beige: 0
   Black: 0
   Blue: 0
   Brown: 0
-  Charcoal: 0
   Chocolate: 0
-  Cindy: 0
+  Golden: 0
   Gray: 0
   Green: 0
   Khaki: 0
   Orange: 0
   Pink: 0
+  Purple: 0
   Red: 0
+  Silver: 0
+  Turquoise: 0
+  Violet: 0
+  Window: 0
+  Yellow: 0
 letters:
+  Beige:
+    B01200115: 7
+    B01200075: 8
+    B01200067: 9
+    story: connell55
   Black:
-    N00200029: 3
-    N00200042: 3
-    N00200015: 3
-    story: foreman1
+    B99110055: 10
+    B01200081: 10
+    B01200047: 10
+    story: connell55
   Blue:
-    N01202105: 3
-    N00200008: 3
-    N00200030: 3
-    story: davist2
+    B01200012: 9
+    B01200083: 7
+    B00170085: 6
+    story: spano0
   Brown:
-    N00200030: 3
-    N00200055: 3
-    N00120056: 3
+    B01200036: 8
+    B01200069: 8
+    B01200065: 7
     story: connell55
-  Charcoal:
-    N99030025: 0
-    N00200037: 1
-    N00200022: 1
-    story: foreman1
   Chocolate:
-    N00200048: 1
-    N00200043: 1
-    N00200006: 1
-    story: davist2
-  Cindy:
-    N00200031: 1
-    N00200015: 0
-    N00200022: 1
-    story: foreman1
+    B02202101: 9
+    B01200057: 9
+    B01200051: 9
+    story: diaz0
+  Golden:
+    B99100040: 6
+    B01200055: 9
+    B99200063: 8
+    story: connell55
   Gray:
-    N00200030: 3
-    N00200025: 3
-    N00200044: 3
-    story: warm1
+    B01200085: 8
+    B01200077: 8
+    B01200030: 8
+    story: diaz0
   Green:
-    N00200030: 3
-    N00200017: 3
-    N01202001: 3
-    story: connell55
+    B01200022: 9
+    B01200042: 9
+    B01200034: 9
+    story: spano0
   Khaki:
-    N00200009: 1
-    N00200007: 1
-    N01202004: 1
-    story: davist2
+    B01200101: 8
+    B01200018: 8
+    B01200026: 8
+    story: connell55
   Orange:
-    N00200034: 3
-    N00200054: 3
-    N00200001: 3
-    story: connell55
+    B01200024: 5
+    B01200089: 8
+    B01200059: 5
+    story: spano0
   Pink:
-    N01202103: 3
-    N00200056: 3
-    N00202103: 3
+    B01200093: 9
+    B01200001: 9
+    B01200095: 5
     story: connell55
+  Purple:
+    B01200040: 9
+    B01200113: 9
+    B01200097: 8
+    story: diaz0
   Red:
-    N00200036: 3
-    N00200014: 3
-    N02203102: 3
-    story: warm1
+    B01200045: 6
+    B01200071: 7
+    B01200073: 8
+    story: spano0
+  Silver:
+    B01200020: 9
+    B01200053: 9
+    B01200032: 8
+    story: connell55
+  Turquoise:
+    B02202106: 5
+    B01200008: 6
+    B01200006: 6
+    story: spano0
+  Violet:
+    B01200061: 5
+    B01200038: 8
+    B02202104: 9
+    story: spano0
+  Window:
+    B01200014: 7
+    B01200003: 7
+    B01200002: 7
+    story: spano0
+  Yellow:
+    B01200049: 7
+    B01200107: 7
+    B01200028: 7
+    story: diaz0
