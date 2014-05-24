@@ -2,90 +2,142 @@
 cutpoints:
   one: ~
   two: ~
-exercise: davist
+exercise: diaz-ydu
 grade:
-  K220155482: 1.98
-  U0017024: 2
-  U0018027: 2
-  U0018046: 1.98
-  U0042012: 0
-  U0042031: 0
-  U0042041: 0.56
-  U0042050: 1.92
-  U0043001: 2
-  U0043004: 1.46
-  U0043033: 2
-  U0122002: 2
-  U0222133: 1.98
-  U0222228: 2
-  U9911237: 2
-  U9911242: 2
-  U9917017: 2
-  U9923120: 1.9
-  U9923121: 1.38
-  U9943007: 1.94
-  U9943019: 0
+  100405401: 1.84
+  100405402: 1.98
+  100405408: 2
+  100405411: 0
+  100405413: 2
+  100405417: 1.2
+  100405425: 2
+  100405432: 0
+  100405437: 2
+  100405440: 0.48
+  100405442: 0
+  100405444: 0
+  100405501: 2
+  100405507: 0.9
+  100405508: 2
+  100405509: 0.28
+  100405510: 0
+  100405514: 2
+  100405528: 0
+  100405529: 0
+  100405531: 2
+  100405536: 2
+  100405537: 0.48
+  100405540: 2
+  100405541: 0
+  100405543: 0
+  100405545: 2
+  100406863: 2
+  100406866: 0.1
+  100406867: 2
+  100407024: 0
+  101405311: 0
+  101500122: 0
+  102500005: 0
 points:
-  K220155482:
-    letters: 185
+  100405401:
+    letters: 218
+    percent: 92
+  100405402:
+    letters: 227
     percent: 99
-  U0017024:
-    letters: 180
+  100405408:
+    letters: 204
     percent: 100
-  U0018027:
-    letters: 178
-    percent: 100
-  U0018046:
-    letters: 159
-    percent: 99
-  U0042012:
+  100405411:
     letters: 0
     percent: 0
-  U0042031:
+  100405413:
+    letters: 221
+    percent: 100
+  100405417:
+    letters: 125
+    percent: 60
+  100405425:
+    letters: 177
+    percent: 100
+  100405432:
     letters: 0
     percent: 0
-  U0042041:
-    letters: 60
-    percent: 28
-  U0042050:
-    letters: 160
-    percent: 96
-  U0043001:
-    letters: 180
+  100405437:
+    letters: 244
     percent: 100
-  U0043004:
-    letters: 148
-    percent: 73
-  U0043033:
-    letters: 189
+  100405440:
+    letters: 50
+    percent: 24
+  100405442:
+    letters: 0
+    percent: 0
+  100405444:
+    letters: 0
+    percent: 0
+  100405501:
+    letters: 225
     percent: 100
-  U0122002:
-    letters: 171
+  100405507:
+    letters: 85
+    percent: 45
+  100405508:
+    letters: 218
     percent: 100
-  U0222133:
-    letters: 171
-    percent: 99
-  U0222228:
-    letters: 161
+  100405509:
+    letters: 31
+    percent: 14
+  100405510:
+    letters: 0
+    percent: 0
+  100405514:
+    letters: 208
     percent: 100
-  U9911237:
-    letters: 200
+  100405528:
+    letters: 0
+    percent: 0
+  100405529:
+    letters: 0
+    percent: 0
+  100405531:
+    letters: 217
     percent: 100
-  U9911242:
-    letters: 167
+  100405536:
+    letters: 218
     percent: 100
-  U9917017:
-    letters: 180
+  100405537:
+    letters: 40
+    percent: 24
+  100405540:
+    letters: 223
     percent: 100
-  U9923120:
-    letters: 168
-    percent: 95
-  U9923121:
-    letters: 117
-    percent: 69
-  U9943007:
-    letters: 156
-    percent: 97
-  U9943019:
+  100405541:
+    letters: 0
+    percent: 0
+  100405543:
+    letters: 0
+    percent: 0
+  100405545:
+    letters: 214
+    percent: 100
+  100406863:
+    letters: 222
+    percent: 100
+  100406866:
+    letters: 10
+    percent: 5
+  100406867:
+    letters: 211
+    percent: 100
+  100407024:
+    letters: 0
+    percent: 0
+  101405311:
+    letters: 0
+    percent: 0
+  101500122:
+    letters: 0
+    percent: 0
+  102500005:
     letters: 0
     percent: 0
