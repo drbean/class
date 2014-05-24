@@ -1,0 +1,99 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: trinka
+grade:
+  U0043021: 0
+  V0041001: 0
+  V0041005: 0.86
+  V0041008: 0
+  V0041010: 0.76
+  V0041015: 0
+  V0041019: 2
+  V0041028: 1.98
+  V0041032: 2
+  V0041034: 0
+  V0041036: 0.9
+  V0041039: 2
+  V0041042: 0.52
+  V0041045: 0
+  V0041047: 0.64
+  V0041050: 2
+  V0041053: 2
+  V0041057: 0.22
+  V0041062: 1.32
+  V0041065: 1.88
+  V0041066: 0
+  V0140142: 0
+  V9941028: 1.34
+points:
+  U0043021:
+    letters: 0
+    percent: 0
+  V0041001:
+    letters: 0
+    percent: 0
+  V0041005:
+    letters: 82
+    percent: 43
+  V0041008:
+    letters: 0
+    percent: 0
+  V0041010:
+    letters: 78
+    percent: 38
+  V0041015:
+    letters: 0
+    percent: 0
+  V0041019:
+    letters: 200
+    percent: 100
+  V0041028:
+    letters: 188
+    percent: 99
+  V0041032:
+    letters: 186
+    percent: 100
+  V0041034:
+    letters: 0
+    percent: 0
+  V0041036:
+    letters: 94
+    percent: 45
+  V0041039:
+    letters: 190
+    percent: 100
+  V0041042:
+    letters: 52
+    percent: 26
+  V0041045:
+    letters: 0
+    percent: 0
+  V0041047:
+    letters: 65
+    percent: 32
+  V0041050:
+    letters: 182
+    percent: 100
+  V0041053:
+    letters: 207
+    percent: 100
+  V0041057:
+    letters: 23
+    percent: 11
+  V0041062:
+    letters: 144
+    percent: 66
+  V0041065:
+    letters: 171
+    percent: 94
+  V0041066:
+    letters: 0
+    percent: 0
+  V0140142:
+    letters: 0
+    percent: 0
+  V9941028:
+    letters: 104
+    percent: 67
