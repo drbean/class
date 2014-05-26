@@ -268,11 +268,6 @@ member:
     name: Rita
     password: zi
     rating: ~
-  - Chinese: 洪詠舜
-    id: V9941013
-    name: Edward
-    password: yong
-    rating: ~
   - Chinese: 朱文章
     id: V9941007
     name: Redd
@@ -294,6 +289,11 @@ member:
     password: bing
     rating: ~
 out:
+  - Chinese: 洪詠舜
+    id: V9941013
+    name: Edward
+    password: yong
+    rating: ~
   - Chinese: 劉茹芬
     id: N9661749
     name: Sophia
