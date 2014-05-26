@@ -1,46 +1,84 @@
 ---
-Green:
-  absent:
-    - Brenda
-    - Sandy
-  merits: 3
+# topic: computing
+
 Black:
   absent:
-    - Leon
-    - Sophia
-  merits: 2
-
+  merits: 3
 Blue:
   absent:
-    - Joe
-    - Edward
-  merits: 2
-Charcoal:
-  absent:
-    - Redd
   merits: 3
 
+Brown:
+  absent:
+    - Stephanie
+  merits: 3
+Gray:
+  absent:
+  merits: 3
+
+Khaki:
+  absent:
+  merits: 2
 Chocolate:
   absent:
   merits: 3
-Purple:
-  absent:
-    - Claire
-  merits: 2
 
-White:
+Charcoal:
   absent:
-  merits: 2
+  merits: 3
+Green:
+  absent:
+    - Sophia
+    - Redd
+    - YanJing
+  merits: 0
+
 Orange:
   absent:
-    - Katty
+    - Sandy
   merits: 3
-
 Pink:
   absent:
-    - Joanna
+    - David
+    - Hsin-Cih
   merits: 2
+
+Purple:
+  absent:
+    - Pei-Yun
+  merits: 2
+Red:
+  absent:
+    - Diana
+  merits: 3
+
+Violet:
+  absent:
+    - Amber
+    - Rita
+    - Katty
+  merits: 0
+Silver:
+  absent:
+    - YaTing2
+  merits: 3
+
 Yellow:
   absent:
-    - Vicki
+    - Stella
+  merits: 2
+White:
+  absent:
+    - Rei
   merits: 3
+
+Beige:
+  absent:
+    - Vicki
+    - XinFang
+  merits: 3
+Golden:
+  absent:
+    - IYun
+  merits: 3
+
