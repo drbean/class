@@ -331,6 +331,6 @@ session:
   2: 5
   3: 10
 weights:
-  classwork: 40
-  exams: 20
+  classwork: 20
+  exams: 40
   homework: 40
