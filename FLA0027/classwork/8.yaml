@@ -1,50 +1,71 @@
 ---
-# plagiarism hunt
-Black:
-  absent: 
-  merits: 2.5
+# topic: sport
 
+Black:
+  absent:
+    - Chelsea
+  merits: 2
 Blue:
-  absent: 
-    - Claire
-  merits: 3
+  absent:
+  merits: 5
 
 Brown:
-  absent: 
-    - Joe
-  merits: 2.5
-
-Green:
-  absent: 
-    - Jessica
-  merits: 2
-
-BlueBlue:
-  absent: 
-  merits: 2.5
-
-BlackBlack:
   absent:
-    - Rita
-  merits: 3
+  merits: 4
+Gray:
+  absent:
+  merits: 5
+
+Khaki:
+  absent:
+  merits: 5
+Chocolate:
+  absent:
+  merits: 5
+
+Charcoal:
+  absent:
+  merits: 5
+Green:
+  absent:
+  merits: 4
 
 Orange:
   absent:
-    - Vicki
+  merits: 5
+Pink:
+  absent:
   merits: 2
 
-Pink:
-  absent: 
-  merits: 3
-
 Purple:
-  absent: 
+  absent:
+  merits: 5
+Red:
+  absent:
+  merits: 5
+
+Violet:
+  absent:
+  merits: 3
+Silver:
+  absent:
   merits: 3
 
 Yellow:
-  absent: 
-  merits: 2.5
+  absent:
+  merits: 3
 White:
-  absent: 
-    - Yvonne
+  absent:
   merits: 2
+
+Beige:
+  absent:
+  merits: 4
+Golden:
+  absent:
+  merits: 3
+
+Turquoise:
+  absent:
+  merits: 0
+
