@@ -65,6 +65,7 @@ Beige:
   merits: 3
 Golden:
   absent:
+    - Stephanie
   merits: 2
 
 points:
