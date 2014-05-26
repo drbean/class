@@ -1,31 +1,556 @@
 ---
-T9823041: 5
-V9741044: 4.44074074074074
-V9741064: 4.32222222222222
-V9841010: 4
-V9841011: 4.25555555555555
-V9841022: 4.5074074074074
-V9841025: 4.4
-V9841028: 5
-V9841042: 4.5074074074074
-V9841049: 4.09629629629629
-V9941001: 3.47777777777778
+exercise: computing-test
+grade:
+  N9661749: 0
+  T9823041: 3.21
+  V0041008: 3.23
+  V0041009: 3.38
+  V0041030: 4.85
+  V0041032: 0
+  V0041036: 3.23
+  V0041038: 4.02
+  V0041039: 4.45
+  V0041040: 3.62
+  V0041045: 3.47
+  V0041047: 3.36
+  V0041049: 5.00
+  V0041052: 3.60
+  V0041053: 4.17
+  V0041057: 3.00
+  V0141042: 4.55
+  V9741044: 3.30
+  V9841025: 4.70
+  V9841028: 4.28
+  V9841033: 4.02
+  V9841051: 0
+  V9841069: 4.89
+  V9841071: 3.11
+  V9941001: 0
+  V9941007: 0
+  V9941011: 3.34
+  V9941012: 3.19
+  V9941013: 0
+  V9941015: 3.34
+  V9941022: 3.49
+  V9941023: 3.06
+  V9941025: 3.15
+  V9941026: 3.06
+  V9941027: 3.51
+  V9941028: 3.62
+  V9941029: 3.09
+  V9941031: 3.19
+  V9941036: 0
+  V9941037: 0
+  V9941040: 4.66
+  V9941045: 3.43
+  V9941046: 3.74
+  V9941047: 3.06
+  V9941049: 3.57
+  V9941050: 3.55
+  V9941057: 4.55
+  V9941065: 4.89
+  V9941067: 3.00
+  V9941068: 3.28
+  V9941069: 3.13
+  V9941071: 0
+  V9941073: 4.94
+  V9941075: 3.00
+  V9941076: 3.26
+points:
+  N9661749:
+    pre_test: ~
+    post_test: {}
+  T9823041:
+    pre_test:
+      attempted: 126
+      correct: 30
+    post_test:
+      attempted: 96
+      correct: 10
+      improvement: 10
+      targeted: 96
+  V0041008:
+    pre_test:
+      attempted: 139
+      correct: 111
+    post_test:
+      attempted: 28
+      correct: 11
+      improvement: 11
+      targeted: 28
+  V0041009:
+    pre_test:
+      attempted: 31
+      correct: 6
+    post_test:
+      attempted: 25
+      correct: 18
+      improvement: 18
+      targeted: 25
+  V0041030:
+    pre_test:
+      attempted: 127
+      correct: 14
+    post_test:
+      attempted: 113
+      correct: 87
+      improvement: 87
+      targeted: 113
+  V0041032:
+    pre_test: ~
+    post_test: {}
+  V0041036:
+    pre_test:
+      attempted: 119
+      correct: 80
+    post_test:
+      attempted: 39
+      correct: 11
+      improvement: 11
+      targeted: 39
+  V0041038:
+    pre_test:
+      attempted: 139
+      correct: 79
+    post_test:
+      attempted: 60
+      correct: 48
+      improvement: 48
+      targeted: 60
+  V0041039:
+    pre_test:
+      attempted: 139
+      correct: 46
+    post_test:
+      attempted: 93
+      correct: 68
+      improvement: 68
+      targeted: 93
+  V0041040:
+    pre_test:
+      attempted: 139
+      correct: 54
+    post_test:
+      attempted: 85
+      correct: 29
+      improvement: 29
+      targeted: 85
+  V0041045:
+    pre_test:
+      attempted: 121
+      correct: 90
+    post_test:
+      attempted: 31
+      correct: 22
+      improvement: 22
+      targeted: 31
+  V0041047:
+    pre_test:
+      attempted: 80
+      correct: 30
+    post_test:
+      attempted: 50
+      correct: 17
+      improvement: 17
+      targeted: 50
+  V0041049:
+    pre_test:
+      attempted: 139
+      correct: 1
+    post_test:
+      attempted: 138
+      correct: 94
+      improvement: 94
+      targeted: 138
+  V0041052:
+    pre_test:
+      attempted: 63
+      correct: 12
+    post_test:
+      attempted: 51
+      correct: 28
+      improvement: 28
+      targeted: 51
+  V0041053:
+    pre_test:
+      attempted: 139
+      correct: 79
+    post_test:
+      attempted: 60
+      correct: 55
+      improvement: 55
+      targeted: 60
+  V0041057:
+    pre_test:
+      attempted: 15
+      correct: 3
+    post_test:
+      attempted: 12
+      correct: 0
+      improvement: 0
+      targeted: 12
+  V0141042:
+    pre_test:
+      attempted: 126
+      correct: 22
+    post_test:
+      attempted: 104
+      correct: 73
+      improvement: 73
+      targeted: 104
+  V9741044:
+    pre_test:
+      attempted: 82
+      correct: 64
+    post_test:
+      attempted: 18
+      correct: 14
+      improvement: 14
+      targeted: 18
+  V9841025:
+    pre_test:
+      attempted: 139
+      correct: 6
+    post_test:
+      attempted: 133
+      correct: 80
+      improvement: 80
+      targeted: 133
+  V9841028:
+    pre_test:
+      attempted: 73
+      correct: 9
+    post_test:
+      attempted: 64
+      correct: 60
+      improvement: 60
+      targeted: 64
+  V9841033:
+    pre_test:
+      attempted: 135
+      correct: 26
+    post_test:
+      attempted: 109
+      correct: 48
+      improvement: 48
+      targeted: 109
+  V9841051:
+    pre_test: ~
+    post_test: {}
+  V9841069:
+    pre_test:
+      attempted: 139
+      correct: 40
+    post_test:
+      attempted: 99
+      correct: 89
+      improvement: 89
+      targeted: 99
+  V9841071:
+    pre_test:
+      attempted: 134
+      correct: 119
+    post_test:
+      attempted: 15
+      correct: 5
+      improvement: 5
+      targeted: 15
+  V9941001:
+    pre_test: ~
+    post_test: {}
+  V9941007:
+    pre_test: ~
+    post_test: {}
+  V9941011:
+    pre_test:
+      attempted: 129
+      correct: 81
+    post_test:
+      attempted: 48
+      correct: 16
+      improvement: 16
+      targeted: 48
+  V9941012:
+    pre_test:
+      attempted: 136
+      correct: 117
+    post_test:
+      attempted: 19
+      correct: 9
+      improvement: 9
+      targeted: 19
+  V9941013:
+    pre_test: ~
+    post_test: {}
+  V9941015:
+    pre_test:
+      attempted: 139
+      correct: 115
+    post_test:
+      attempted: 24
+      correct: 16
+      improvement: 16
+      targeted: 24
+  V9941022:
+    pre_test:
+      attempted: 105
+      correct: 13
+    post_test:
+      attempted: 92
+      correct: 23
+      improvement: 23
+      targeted: 92
+  V9941023:
+    pre_test:
+      attempted: 139
+      correct: 122
+    post_test:
+      attempted: 17
+      correct: 3
+      improvement: 3
+      targeted: 17
+  V9941025:
+    pre_test:
+      attempted: 128
+      correct: 114
+    post_test:
+      attempted: 14
+      correct: 7
+      improvement: 7
+      targeted: 14
+  V9941026:
+    pre_test:
+      attempted: 130
+      correct: 120
+    post_test:
+      attempted: 10
+      correct: 3
+      improvement: 3
+      targeted: 10
+  V9941027:
+    pre_test:
+      attempted: 100
+      correct: 54
+    post_test:
+      attempted: 46
+      correct: 24
+      improvement: 24
+      targeted: 46
+  V9941028:
+    pre_test:
+      attempted: 139
+      correct: 84
+    post_test:
+      attempted: 55
+      correct: 29
+      improvement: 29
+      targeted: 55
+  V9941029:
+    pre_test:
+      attempted: 69
+      correct: 45
+    post_test:
+      attempted: 24
+      correct: 4
+      improvement: 4
+      targeted: 24
+  V9941031:
+    pre_test:
+      attempted: 139
+      correct: 115
+    post_test:
+      attempted: 24
+      correct: 9
+      improvement: 9
+      targeted: 24
+  V9941036:
+    pre_test: ~
+    post_test: {}
+  V9941037:
+    pre_test: ~
+    post_test: {}
+  V9941040:
+    pre_test:
+      attempted: 139
+      correct: 21
+    post_test:
+      attempted: 118
+      correct: 78
+      improvement: 78
+      targeted: 118
+  V9941045:
+    pre_test:
+      attempted: 139
+      correct: 116
+    post_test:
+      attempted: 23
+      correct: 20
+      improvement: 20
+      targeted: 23
+  V9941046:
+    pre_test:
+      attempted: 135
+      correct: 47
+    post_test:
+      attempted: 88
+      correct: 35
+      improvement: 35
+      targeted: 88
+  V9941047:
+    pre_test:
+      attempted: 130
+      correct: 118
+    post_test:
+      attempted: 12
+      correct: 3
+      improvement: 3
+      targeted: 12
+  V9941049:
+    pre_test:
+      attempted: 42
+      correct: 9
+    post_test:
+      attempted: 33
+      correct: 27
+      improvement: 27
+      targeted: 33
+  V9941050:
+    pre_test:
+      attempted: 42
+      correct: 10
+    post_test:
+      attempted: 32
+      correct: 26
+      improvement: 26
+      targeted: 32
+  V9941057:
+    pre_test:
+      attempted: 139
+      correct: 46
+    post_test:
+      attempted: 93
+      correct: 73
+      improvement: 73
+      targeted: 93
+  V9941065:
+    pre_test:
+      attempted: 139
+      correct: 7
+    post_test:
+      attempted: 132
+      correct: 89
+      improvement: 89
+      targeted: 132
+  V9941067:
+    pre_test:
+      attempted: 74
+      correct: 12
+    post_test:
+      attempted: 62
+      correct: 0
+      improvement: 0
+      targeted: 62
+  V9941068:
+    pre_test:
+      attempted: 139
+      correct: 97
+    post_test:
+      attempted: 42
+      correct: 13
+      improvement: 13
+      targeted: 42
+  V9941069:
+    pre_test:
+      attempted: 139
+      correct: 111
+    post_test:
+      attempted: 28
+      correct: 6
+      improvement: 6
+      targeted: 28
+  V9941071:
+    pre_test: ~
+    post_test: {}
+  V9941073:
+    pre_test:
+      attempted: 136
+      correct: 22
+    post_test:
+      attempted: 114
+      correct: 91
+      improvement: 91
+      targeted: 114
+  V9941075:
+    pre_test:
+      attempted: 35
+      correct: 22
+    post_test:
+      attempted: 13
+      correct: 0
+      improvement: 0
+      targeted: 13
+  V9941076:
+    pre_test:
+      attempted: 85
+      correct: 43
+    post_test:
+      attempted: 42
+      correct: 12
+      improvement: 12
+      targeted: 42
+---
+N9661749: 0
+T9823041: 3.21
+V0041008: 3.23
+V0041009: 3.38
+V0041030: 4.85
+V0041032: 0
+V0041036: 3.23
+V0041038: 4.02
+V0041039: 4.45
+V0041040: 3.62
+V0041045: 3.47
+V0041047: 3.36
+V0041049: 5.00
+V0041052: 3.60
+V0041053: 4.17
+V0041057: 3.00
+V0141042: 4.55
+V9741044: 3.30
+V9841025: 4.70
+V9841028: 4.28
+V9841033: 4.02
+V9841051: 0
+V9841069: 4.89
+V9841071: 3.11
+V9941001: 0
 V9941007: 0
-V9941011: 4.2
-V9941012: 4.47037037037037
+V9941011: 3.34
+V9941012: 3.19
 V9941013: 0
-V9941015: 3.94074074074074
-V9941022: 0
-V9941026: 4.62962962962963
-V9941027: 4.53333333333333
-V9941029: 4.30740740740741
-V9941037: 4.37407407407407
-V9941040: 3.53703703703703
-V9941047: 3.9074074074074
-V9941049: 3.29259259259259
-V9941050: 2.81111111111111
-V9941059: 4.93333333333334
-V9941060: 4.56296296296297
-V9941067: 4.18888888888888
-V9941075: 4.4
-V9941077: 0
+V9941015: 3.34
+V9941022: 3.49
+V9941023: 3.06
+V9941025: 3.15
+V9941026: 3.06
+V9941027: 3.51
+V9941028: 3.62
+V9941029: 3.09
+V9941031: 3.19
+V9941036: 0
+V9941037: 0
+V9941040: 4.66
+V9941045: 3.43
+V9941046: 3.74
+V9941047: 3.06
+V9941049: 3.57
+V9941050: 3.55
+V9941057: 4.55
+V9941065: 4.89
+V9941067: 3.00
+V9941068: 3.28
+V9941069: 3.13
+V9941071: 0
+V9941073: 4.94
+V9941075: 3.00
+V9941076: 3.26
