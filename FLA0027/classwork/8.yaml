@@ -5,7 +5,6 @@
 
 Black:
   absent:
-    - Chelsea
   merits: 2
 Blue:
   absent:
@@ -13,6 +12,7 @@ Blue:
 
 Brown:
   absent:
+    - YaTing2
   merits: 3
 Gray:
   absent:
@@ -55,6 +55,7 @@ Silver:
 
 Yellow:
   absent:
+    - Vicki
   merits: 2
 White:
   absent:
