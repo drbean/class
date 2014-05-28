@@ -1,44 +1,131 @@
 ---
-# topic: news-12
+# topic: computing
 
+# points: 3: 3, 2: 2.5, 1: 2.25, 0: 2
 Black:
   absent:
-  merits: 3
-Yellow:
-  absent:
-    - Vicki
-  merits: 2
-
-White:
-  absent:
-    - Jessica
-    - Leo
-  merits: 2
+  merits: 2.5
 Blue:
   absent:
-    - Joe
-    - Edward
-    - Joan
-  merits: 0
+  merits: 2.5
 
+Brown:
+  absent:
+  merits: 2.5
+Gray:
+  absent:
+  merits: 2.5
+
+Khaki:
+  absent:
+  merits: 2.5
 Chocolate:
   absent:
   merits: 3
+
 Charcoal:
   absent:
-    - Redd
-  merits: 2
-
+  merits: 2.5
 Green:
   absent:
-  merits: 3
-Orange:
-  absent:
   merits: 2
 
-Pink:
+Orange:
   absent:
   merits: 3
+Pink:
+  absent:
+  merits: 2.25
+
 Purple:
   absent:
-  merits: 2
+  merits: 2.5
+Red:
+  absent:
+  merits: 2.5
+
+Violet:
+  absent:
+  merits: 3
+Silver:
+  absent:
+  merits: 2.25
+
+Yellow:
+  absent:
+  merits: 2.5
+White:
+  absent:
+  merits: 3
+
+Beige:
+  absent:
+  merits: 2.5
+Golden:
+  absent:
+  merits: 2.5
+
+points:
+  Black:
+    absent:
+    merits: 2
+  Blue:
+    absent:
+    merits: 2
+
+  Brown:
+    absent:
+    merits: 2
+  Gray:
+    absent:
+    merits: 2
+
+  Khaki:
+    absent:
+    merits: 2
+  Chocolate:
+    absent:
+    merits: 3
+
+  Charcoal:
+    absent:
+    merits: 2
+  Green:
+    absent:
+    merits: 0
+
+  Orange:
+    absent:
+    merits: 3
+  Pink:
+    absent:
+    merits: 1
+
+  Purple:
+    absent:
+    merits: 2
+  Red:
+    absent:
+    merits: 2
+
+  Violet:
+    absent:
+    merits: 3
+  Silver:
+    absent:
+    merits: 1
+
+  Yellow:
+    absent:
+    merits: 2
+  White:
+    absent:
+    merits: 3
+
+  Beige:
+    absent:
+    merits: 2
+  Golden:
+    absent:
+    merits: 2
+
