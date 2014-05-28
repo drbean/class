@@ -62,7 +62,7 @@ member:
     rating: ~
   - Chinese: 杜珮瑜
     id: V0041028
-    name: 杜珮瑜
+    name: Sharon
     password: pei
     rating: ~
   - Chinese: 李名婷
@@ -134,7 +134,7 @@ out:
 room: A706
 school: nuu
 session:
-  1: 1
+  3: 10
 weights:
   classwork: 40
   exams: 20
