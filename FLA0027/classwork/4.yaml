@@ -59,19 +59,24 @@ Silver:
 Yellow:
   absent:
     - Sophia
-  merits: ~
+  merits: 2
 White:
   absent:
-  merits: ~
+  merits: 3
 
 Beige:
   absent:
-  merits: ~
+    - Redd
+  merits: 2
 Golden:
   absent:
-  merits: ~
+    - Edward
+    - Rita
+  merits: 3
 
 Turquoise:
   absent:
-  merits: ~
+    - Chelsea
+    - YaTing2
+  merits: 3
 
