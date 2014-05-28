@@ -1,5 +1,11 @@
 ---
-Black::Blue,
+Black:
+  absent:
+  merits: 3
+Blue:
+  absent:
+  merits: 3
+
 
 Brown:
   absent:
