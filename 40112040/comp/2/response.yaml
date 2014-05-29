@@ -257,7 +257,7 @@ free:
         101405658:
           point:
             1: Nil
-        101405447:
+        101405343:
           point:
             1: Nil
     spano:
@@ -265,7 +265,7 @@ free:
         101405658:
           point:
             1: Returned on 2nd chance
-        101405447:
+        101405343:
           point:
             1: Returned on 2nd chance
     diaz:
@@ -273,7 +273,7 @@ free:
         101405658:
           point:
             1: Returned
-        101405447:
+        101405343:
           point:
             1: Old
             2: Returned
