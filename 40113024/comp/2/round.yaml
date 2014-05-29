@@ -1,65 +1,99 @@
 ---
 activity:
-  biomom:
+  connell:
+    55:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+  spano:
     0:
       - 0
       - 1
       - 2
       - 3
       - 4
+      - 5
       - 6
       - 7
-  biodad:
+      - 8
+      - 9
+      - 10
+      - 11
+  diaz:
     0:
       - 0
       - 1
       - 2
       - 3
       - 4
+      - 5
       - 6
       - 7
-  emersonj:
-    0:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 6
-      - 7
-assistant:
-  Gray:
-    U0018027: 5
-    U0018046: 5
-    U0043033: 5
+      - 8
+      - 9
+      - 10
+      - 11
+assistant: 
+  Black:
+    100405425: 4
+    100405540: 4
 dispensation: ~
 divisions: ~
 group:
   0:
-     White: U9943019
-     Black: U0042050
+    White: 100405507
+    Black: 100405545
   1:
-     White: U9911237
-     Black: U0043004
+    White: 100405510
+    Black: 100405444
   2:
-     White: U0043001
-     Black: U0222228
+    White: 100405537
+    Black: 100405540
   3:
-     White: U9923120
-     Black: U0017024
+    White: 100405437
+    Black: 100405508
   4:
-     White: U0122002
-     Black: U9943007
+    White: 100405408
+    Black: 100406867
+  5:
+    White: 100405411
+    Black: 100405402
   6:
-     White: U0222133
-     Black: K220155482
+    White: 100405417
+    Black: 102500005
   7:
-     White: U9923121
-     Black: U9911242
-# 2 cards missing: tardy KungHsing, ChungWei, one other  
+    White: 100405432
+    Black: 100405529
+  8:
+    White: 100405401
+    Black: 100405509
+  9:
+    White: 100406863
+    Black: 100405541
+  10:
+    White: 100405536
+    Black: 100405543
+  11:
+    White: 101405311
+    Black: 100405531
+  
 late:
-pairing: swiss
-payprotocol: meritPay 4
+  - 100405531
+  - 101405311
+  - 100405510
+  - 100405536
+  - 100405543
+pairing: swiss adjusted
+payprotocol: meritPay 3
 round: 2
-text: /home/drbean/class/conversation/parents/cards.yaml
-week: 9
+text: /home/drbean/class/conversation/disability/cards.yaml
+week: 14

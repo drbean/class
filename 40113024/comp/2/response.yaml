@@ -1,191 +1,305 @@
 ---
 free:
   0:
-    biomom:
-      0:
-        U9943019:
+    connell:
+      55:
+        100405507:
           point:
             1: Returned
-        U0042050:
-          point:
-            1: Returned
-    biodad:
-      0:
-        U9943019:
+        100405545:
           point:
             1: Nil
-        U0042050:
+    spano:
+      0:
+        100405507:
           point:
             1: Nil
-    emersonj:
+        100405545:
+          point:
+            1: Nil
+    diaz:
       0:
-        U9943019:
+        100405507:
           point:
-            1: Returned
-        U0042050:
+            1: Nil
+        100405545:
           point:
-            1: Returned
+            1: Nil
   1:
-    biomom:
+    connell:
+      55:
+        100405510:
+          point:
+            1: Nil
+        100405444:
+          point:
+            1: Nil
+    spano:
       0:
-        U9911237:
+        100405510:
           point:
-            1: Returned
-        U0043004:
+            1: Nil
+        100405444:
           point:
-            1: Returned
-    biodad:
+            1: Nil
+    diaz:
       0:
-        U9911237:
+        100405510:
           point:
-            1: Returned
-            2: Returned
-        U0043004:
+            1: Nil
+        100405444:
           point:
-            1: Returned
-    emersonj:
-      0:
-        U9911237:
-          point:
-            1: Returned
-        U0043004:
-          point:
-            1: Returned
-            2: Returned
+            1: Nil
   2:
-    biomom:
-      0:
-        U0043001:
+    connell:
+      55:
+        100405537:
           point:
             1: Returned
-            2: Returned
-        U0222228:
-          point:
-            1: Returned
-    biodad:
-      0:
-        U0043001:
+        100405540:
           point:
             1: Nil
-        U0222228:
-          point:
-            1: Returned
-    emersonj:
+    spano:
       0:
-        U0043001:
+        100405537:
+          point:
+            1: Nil
+        100405540:
           point:
             1: Returned
-            2: Returned
-        U0222228:
+    diaz:
+      0:
+        100405537:
           point:
-            1: Returned
-            2: Returned
+            1: Nil
+        100405540:
+          point:
+            1: Nil
   3:
-    biomom:
+    connell:
+      55:
+        100405437:
+          point:
+            1: Returned
+        100405508:
+          point:
+            1: Returned
+    spano:
       0:
-        U9923120:
+        100405437:
           point:
             1: Returned
-        U0017024:
+        100405508:
           point:
             1: Returned
-            2: Returned
-    biodad:
+    diaz:
       0:
-        U9923120:
+        100405437:
           point:
             1: Returned
-            2: Fault
-        U0017024:
-          point:
-            1: Nil
-    emersonj:
-      0:
-        U9923120:
+        100405508:
           point:
             1: Returned
-        U0017024:
-          point:
-            1: Returned
-            2: Returned
   4:
-    biomom:
-      0:
-        U0122002:
+    connell:
+      55:
+        100405408:
           point:
-            1: Returned
-            2: Returned
-        U9943007:
+            1: Returned on 2nd chance
+        100406867:
           point:
-            1: Nil
-    biodad:
-      0:
-        U0122002:
-          point:
-            1: Returned
-        U9943007:
-          point:
-            1: Returned
-    emersonj:
-      0:
-        U0122002:
-          point:
-            1: Returned
-        U9943007:
-          point:
-            1: Returned
-            2: Returned
+            1: Old
+            2: Old
             3: Returned
+    spano:
+      0:
+        100405408:
+          point:
+            1: Nil
+        100406867:
+          point:
+            1: Nil
+    diaz:
+      0:
+        100405408:
+          point:
+            1: Nil
+        100406867:
+          point:
+            1: Nil
+  5:
+    connell:
+      55:
+        100405411:
+          point:
+            1: Nil
+        100405402:
+          point:
+            1: Nil
+    spano:
+      0:
+        100405411:
+          point:
+            1: Nil
+        100405402:
+          point:
+            1: Nil
+    diaz:
+      0:
+        100405411:
+          point:
+            1: Nil
+        100405402:
+          point:
+            1: Nil
   6:
-    biomom:
-      0:
-        U0222133:
+    connell:
+      55:
+        100405417:
           point:
-            1: Nil
-        K220155482:
+            1: Old
+        102500005:
           point:
-            1: Nil
-    biodad:
+            1: Old
+            2: Returned
+    spano:
       0:
-        U0222133:
+        100405417:
           point:
             1: Returned
-        K220155482:
+        102500005:
           point:
-            1: Fault
-    emersonj:
+            1: Nil
+    diaz:
       0:
-        U0222133:
+        100405417:
           point:
-            1: Returned
-        K220155482:
+            1: Nil
+        102500005:
           point:
             1: Returned
   7:
-    biomom:
-      0:
-        U9923121:
+    connell:
+      55:
+        100405432:
           point:
             1: Returned
-        U9911242:
+        100405529:
+          point:
+            1: Returned
+    spano:
+      0:
+        100405432:
+          point:
+            1: Returned
+        100405529:
+          point:
+            1: Returned on 2nd chance
+    diaz:
+      0:
+        100405432:
+          point:
+            1: Returned
+        100405529:
+          point:
+            1: Unreturned on 2nd chance
+  8:
+    connell:
+      55:
+        100405401:
           point:
             1: Nil
-    biodad:
+        100405509:
+          point:
+            1: Nil
+    spano:
       0:
-        U9923121:
+        100405401:
+          point:
+            1: Nil
+        100405509:
+          point:
+            1: Nil
+    diaz:
+      0:
+        100405401:
+          point:
+            1: Nil
+        100405509:
+          point:
+            1: Nil
+  9:
+    connell:
+      55:
+        100406863:
+          point:
+            1: Old
+        100405541:
+          point:
+            1: Old
+    spano:
+      0:
+        100406863:
           point:
             1: Returned
-        U9911242:
+        100405541:
           point:
-            1: Fault
-            2: Unreturned
-            3: Returned
-    emersonj:
+            1: Nil
+    diaz:
       0:
-        U9923121:
+        100406863:
+          point:
+            1: Nil
+        100405541:
+          point:
+            1: Fault on 2nd chance
+  10:
+    connell:
+      55:
+        100405536:
+          point:
+            1: Old
+        100405543:
+          point:
+            1: Old
+    spano:
+      0:
+        100405536:
           point:
             1: Returned
-            2: Returned
-        U9911242:
+        100405543:
           point:
             1: Unreturned
+    diaz:
+      0:
+        100405536:
+          point:
+            1: Nil
+        100405543:
+          point:
+            1: Nil
+  11:
+    connell:
+      55:
+        101405311:
+          point:
+            1: Old
+        100405531:
+          point:
+            1: Nil
+    spano:
+      0:
+        101405311:
+          point:
+            1: Nil
+        100405531:
+          point:
+            1: Nil
+    diaz:
+      0:
+        101405311:
+          point:
+            1: Nil
+        100405531:
+          point:
+            1: Nil
