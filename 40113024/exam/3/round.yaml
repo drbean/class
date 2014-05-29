@@ -1,58 +1,71 @@
 ---
 round: Exam 3
-week: 14
+week: 13
 questions:
   - 10
-pass: 5
+pass: 6
 assistant:
-  - Danny
-  - Li-Ting
 absent:
-  - Chung-Wei
-  - Dave
+  - JingJia
+  - KiRu
+  - Kim
+  - YuChing
+  - Jenny
+  - Martin
+  - Liu
 text: /home/drbean/class/conversation/disability/cards.yaml
 activity:
   connell:
     55:
-      - Yellow
-  warm:
-    1:
+      - Chocolate
+      - White
+  spano:
+    0:
       - Black
-  foreman:
-    1:
-      - Green
+      - Charcoal
       - Orange
-  davist:
-    2:
+      - Pink
+      - Yellow
+  diaz:
+    0:
       - Blue
       - Brown
-      - Gray
+
 group:
   Black:
-    - Luisa
-    - Rick
-    - Gillian
+    - Ina
+    - Claire
+    - HsuanLing
   Blue:
-    - Chung-Wei
-    - Regina
-    - Lance
-  Brown:
-    - Danny
-    - Tracy
-    - Carolyn
-  Gray:
-    - Danny
-    - Li-Ting
-    - Peggy
-  Green:
-    - Scotter
-    - Penny
-    - Tiffany
-  Orange:
-    - KungHsing
-    - Amy
-    - Angela
+    - KeMei
+    - Anna
+    - YuChen
   Yellow:
-    - Simon
-    - Yukin
-    - Mia
+    - Rita
+    - Nei
+    - ChunYi
+  Charcoal:
+    - ChiaChia
+    - HuiWen
+    - WeiPing
+  Chocolate:
+    - Chris
+    - YuRen
+    - QiXiang
+  Brown:
+    - Tina
+    - Ariel
+    - Cheng
+  Orange:
+    - Sherry
+    - YanRen
+    - RoYu
+  Pink:
+    - YiShyuan
+    - LinLi
+    - JieLin
+  White:
+    - RoHang
+    - JiaRu
+    - Cathy
+  

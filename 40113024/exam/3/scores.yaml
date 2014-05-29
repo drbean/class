@@ -3,43 +3,55 @@ Chinese:
   Black: 0
   Blue: 0
   Brown: 0
-  Gray: 0
-  Green: 0
+  Charcoal: 0
+  Chocolate: 0
   Orange: 0
+  Pink: 0
+  White: 0
   Yellow: 0
 letters:
   Black:
-    U9943019: 7
-    U0017024: 6
-    U0122002: 7
-    story: warm1
+    100405507: 3
+    100405440: 5
+    100405425: 4
+    story: spano0
   Blue:
-    U0042031: 8
-    U0018046: 8
-    U9923120: 8
-    story: davist2
+    100405540: 6
+    100405508: 3
+    100405509: 4
+    story: diaz0
   Brown:
-    U0042012: 8
-    U0018027: 9
-    U9943007: 7
-    story: davist2
-  Gray:
-    U0042012: 8
-    U0222228: 8
-    U0043033: 8
-    story: davist2
-  Green:
-    U9917017: 7
-    U9923121: 6
-    U0043001: 6
-    story: foreman1
-  Orange:
-    U0042041: 7
-    U0042050: 5
-    K220155482: 5
-    story: foreman1
-  Yellow:
-    U9911242: 6
-    U9911237: 10
-    U0043004: 10
+    100405543: 5
+    100405510: 8
+    100406866: 8
+    story: diaz0
+  Charcoal:
+    101405311: 7
+    100406867: 6
+    100406863: 5
+    story: spano0
+  Chocolate:
+    100405529: 6
+    100405408: 9
+    100405402: 8
     story: connell55
+  Orange:
+    100405444: 7
+    100405545: 4
+    100405531: 4
+    story: spano0
+  Pink:
+    100405411: 6
+    100405541: 8
+    100405537: 5
+    story: spano0
+  White:
+    100405536: 9
+    100405432: 7
+    102500005: 8
+    story: connell55
+  Yellow:
+    100405437: 10
+    100405417: 10
+    100405401: 6
+    story: spano0
