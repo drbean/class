@@ -1,65 +1,140 @@
 ---
 activity:
-  biomom:
+  connell:
+    55:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+  spano:
     0:
       - 0
       - 1
       - 2
       - 3
       - 4
+      - 5
       - 6
       - 7
-  biodad:
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+  diaz:
     0:
       - 0
       - 1
       - 2
       - 3
       - 4
+      - 5
       - 6
       - 7
-  emersonj:
-    0:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 6
-      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
 assistant:
-  Gray:
-    U0018027: 5
-    U0018046: 5
-    U0043033: 5
+  Green:
+    101405317: 4
+    101405311: 4
+    101405324: 4
+  Red:
+    101405302: 4
+    101405351: 3
+    101405406: 5
 dispensation: ~
 divisions: ~
 group:
   0:
-     White: U9943019
-     Black: U0042050
+    White: 101405332
+    Black: 101405354
   1:
-     White: U9911237
-     Black: U0043004
+    White: 102500016
+    Black: 101405444
   2:
-     White: U0043001
-     Black: U0222228
+    White: 101406963
+    Black: 99408213
   3:
-     White: U9923120
-     Black: U0017024
+    White: 101405417
+    Black: 101405407
   4:
-     White: U0122002
-     Black: U9943007
+    White: 101405307
+    Black: 101405411
+  5:
+    White: 101405316
+    Black: 101405401
   6:
-     White: U0222133
-     Black: K220155482
+    White: 101406960
+    Black: 99407073
   7:
-     White: U9923121
-     Black: U9911242
-# 2 cards missing: tardy KungHsing, ChungWei, one other  
+    White: 101405321
+    Black: 101405405
+  8:
+    White: 101405301
+    Black: 101406961
+  9:
+    White: 101405308
+    Black: 100500262
+  10:
+    White: 101405658
+    Black: 101405343
+  11:
+    White: 101500124
+    Black: 101405414
+  12:
+    White: 101405349
+    Black: 101405334
+  13:
+    White: 101405304
+    Black: 101405352
+  14:
+    White: 101405341
+    Black: 101405419
+  15:
+    White: 101405315
+    Black: 101406962
+  16:
+    White: 101405408
+    Black: 101405435
+  17:
+    White: 101405423
+    Black: 101405415
+  
 late:
-pairing: swiss
-payprotocol: meritPay 4
+  - 101405423
+  - 101405415
+  - 101405408
+  - 101405435
+  - 101405343
+pairing: swiss adjusted
+payprotocol: meritPay 2
 round: 2
-text: /home/drbean/class/conversation/parents/cards.yaml
-week: 9
+text: /home/drbean/class/conversation/disability/cards.yaml
+week: 14
