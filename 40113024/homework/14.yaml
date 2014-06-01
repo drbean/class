@@ -2,90 +2,142 @@
 cutpoints:
   one: ~
   two: ~
-exercise: salazar
+exercise: trinka-ydu
 grade:
-  K220155482: 1.92
-  U0017024: 2
-  U0018027: 2
-  U0018046: 2
-  U0042012: 0
-  U0042031: 0
-  U0042041: 0
-  U0042050: 1.82
-  U0043001: 2
-  U0043004: 1.32
-  U0043033: 2
-  U0122002: 2
-  U0222133: 2
-  U0222228: 2
-  U9911237: 2
-  U9911242: 2
-  U9917017: 2
-  U9923120: 2
-  U9923121: 0.76
-  U9943007: 1.94
-  U9943019: 0
+  100405401: 0
+  100405402: 0
+  100405408: 2
+  100405411: 0
+  100405413: 2
+  100405417: 0
+  100405425: 2
+  100405432: 1.96
+  100405437: 2
+  100405440: 0
+  100405442: 0
+  100405444: 0
+  100405501: 1.48
+  100405507: 0
+  100405508: 2
+  100405509: 0.76
+  100405510: 0
+  100405514: 1.04
+  100405528: 0
+  100405529: 0
+  100405531: 2
+  100405536: 2
+  100405537: 0.18
+  100405540: 2
+  100405541: 0
+  100405543: 0
+  100405545: 0
+  100406863: 2
+  100406866: 0
+  100406867: 1.86
+  100407024: 0
+  101405311: 1.98
+  101500122: 0
+  102500005: 0
 points:
-  K220155482:
-    letters: 209
-    percent: 96
-  U0017024:
-    letters: 221
-    percent: 100
-  U0018027:
-    letters: 234
-    percent: 100
-  U0018046:
-    letters: 229
-    percent: 100
-  U0042012:
+  100405401:
     letters: 0
     percent: 0
-  U0042031:
+  100405402:
     letters: 0
     percent: 0
-  U0042041:
+  100405408:
+    letters: 210
+    percent: 100
+  100405411:
     letters: 0
     percent: 0
-  U0042050:
-    letters: 192
-    percent: 91
-  U0043001:
+  100405413:
     letters: 189
     percent: 100
-  U0043004:
-    letters: 153
-    percent: 66
-  U0043033:
-    letters: 203
+  100405417:
+    letters: 0
+    percent: 0
+  100405425:
+    letters: 196
     percent: 100
-  U0122002:
-    letters: 216
-    percent: 100
-  U0222133:
+  100405432:
+    letters: 165
+    percent: 98
+  100405437:
     letters: 215
     percent: 100
-  U0222228:
-    letters: 233
+  100405440:
+    letters: 0
+    percent: 0
+  100405442:
+    letters: 0
+    percent: 0
+  100405444:
+    letters: 0
+    percent: 0
+  100405501:
+    letters: 147
+    percent: 74
+  100405507:
+    letters: 0
+    percent: 0
+  100405508:
+    letters: 211
     percent: 100
-  U9911237:
-    letters: 241
+  100405509:
+    letters: 74
+    percent: 38
+  100405510:
+    letters: 0
+    percent: 0
+  100405514:
+    letters: 97
+    percent: 52
+  100405528:
+    letters: 0
+    percent: 0
+  100405529:
+    letters: 0
+    percent: 0
+  100405531:
+    letters: 177
     percent: 100
-  U9911242:
-    letters: 184
-    percent: 100
-  U9917017:
+  100405536:
     letters: 206
     percent: 100
-  U9923120:
-    letters: 205
+  100405537:
+    letters: 19
+    percent: 9
+  100405540:
+    letters: 192
     percent: 100
-  U9923121:
-    letters: 83
-    percent: 38
-  U9943007:
-    letters: 191
-    percent: 97
-  U9943019:
+  100405541:
+    letters: 0
+    percent: 0
+  100405543:
+    letters: 0
+    percent: 0
+  100405545:
+    letters: 0
+    percent: 0
+  100406863:
+    letters: 194
+    percent: 100
+  100406866:
+    letters: 0
+    percent: 0
+  100406867:
+    letters: 164
+    percent: 93
+  100407024:
+    letters: 0
+    percent: 0
+  101405311:
+    letters: 188
+    percent: 99
+  101500122:
+    letters: 0
+    percent: 0
+  102500005:
     letters: 0
     percent: 0
