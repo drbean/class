@@ -1,132 +1,40 @@
 ---
-# topic: grammar_comp
+# topic: discussion question competition
 
-Black:
-  absent:
-    - Fion
-  merits: 2.5
-Blue:
-  absent:
-    - Rena
-  merits: 2.25
+2-1:
+	absent:
+	merits: 3
+2-2:
+	absent:
+	merits: 3
 
-Charcoal:
-  absent:
-  merits: 2.75
-Green:
-  absent:
-    - MiuMiu
-    - Carol
-  merits: 2.25
+3-1:
+	absent:
+	merits: 2
+3-2:
+	absent:
+	merits: 2
 
-Orange:
-  absent:
-    - Vicky
-  merits: 2.75
-Pink:
-  absent:
-  merits: 2.25
+4-1:
+	absent:
+	merits: 2
 
-Purple:
-  absent:
-    - Louie
-  merits: 2.5
-Yellow:
-  absent:
-    - Stephen
-  merits: 2.75
+points:
+  2-1:
+    absent:
+    merits: 3
+  2-2:
+    absent:
+    merits: 5
 
-# ---
-# # topic: grammar_comp-1
-# 
-# 
-# Black:
-#   absent:
-#   merits: 2.5
-# Blue:
-#   absent:
-#   merits: 2.5
-# 
-# Charcoal:
-#   absent:
-#   merits: 2.5
-# Green:
-#   absent:
-#   merits: 2.5
-# 
-# Orange:
-#   absent:
-#   merits: 2.5
-# Pink:
-#   absent:
-#   merits: 2.5
-# 
-# Purple:
-#   absent:
-#   merits: 2.5
-# Yellow:
-#   absent:
-#   merits: 2.5
-# 
-# ---
-# # topic: grammar-comp-2
-# Green:
-#   absent:
-#   merits: 2
-# Orange:
-#   absent:
-#   merits: 3
-# 
-# Charcoal:
-#   absent:
-#   merits: 3
-# Pink:
-#   absent:
-#   merits: 2
-# 
-# Black:
-#   absent:
-#   merits: 2.5
-# Purple:
-#   absent:
-#   merits: 2.5
-# 
-# Blue:
-#   absent:
-#   merits: 2
-# Yellow:
-#   absent:
-#   merits: 3
-# 
-# #---
-# # not run
-# #
-# ## topic: grammar-comp-3
-# #Green:
-# #  absent:
-# #  merits: ~
-# #Pink:
-# #  absent:
-# #  merits: ~
-# #
-# #Charcoal:
-# #  absent:
-# #  merits: ~
-# #Orange:
-# #  absent:
-# #  merits: ~
-# #
-# #Black:
-# #  absent:
-# #  merits: ~
-# #Yellow:
-# #  absent:
-# #  merits: ~
-# #
-# #Purple:
-# #  absent:
-# #  merits: ~
-# #Blue:
-# #  absent:
-# #  merits: ~
-# #
+  3-1:
+    absent:
+    merits: 2
+  3-2:
+    absent:
+    merits: 2
+
+  4-1:
+    absent:
+    merits: 2
+
