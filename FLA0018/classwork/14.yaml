@@ -1,29 +1,36 @@
 ---
-# topic: exam
+# topic: doorman
 
-Black:
+1-1:
   absent:
-  merits: 2
-Blue:
+  merits: 3
+1-2:
   absent:
   merits: 3
 
-Brown:
+2-1:
+  absent:
+    - I-Yun
+  merits: 2
+2-2:
   absent:
   merits: 2
-Purple:
-  absent:
-    - YaTing2
-  merits: 3
 
-Orange:
+3-1:
   absent:
   merits: 2
-Pink:
+3-2:
   absent:
+    - Iris
+    - Stella
   merits: 3
 
-Red:
+4-1:
   absent:
-    - Cai-ling
-  merits: 2.5
+    - Willy
+  merits: 2
+4-2:
+  absent:
+    - Danny
+  merits: 3
+
