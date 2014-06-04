@@ -1,30 +1,75 @@
 ---
-# topic: debate
+# topic: doorman
+# report of pair conversations
 
-Orange:
+2-1:
   absent:
-  merits: 3
-Black:
-  absent:
+    - Darnell
+    - Ling
   merits: 2
-
-Blue:
-  absent:
-    - Ivy
-  merits: 2
-Brown:
+1-1:
   absent:
   merits: 3
 
-Red:
+1-2:
   absent:
-    - Cai-ling
+    - Sharon
   merits: 2
-Purple:
+2-2:
+  absent:
+    - Penny
+  merits: 2
+
+4-1:
+  absent:
+  merits: 3
+3-1:
   absent:
   merits: 3
 
-Pink:
+3-2:
   absent:
-    - Brenda
   merits: 2
+4-2:
+  absent:
+  merits: 3
+
+pairs:
+  I-Yun: 2
+  May: 3
+
+  Nina: 3
+  Charles: 2
+
+  YanSan: 3
+  Charlie: 2
+  Iris: 3
+
+  Willy: 3
+  Ada: 2
+
+  Danny: 3
+  Mark: 2
+
+  YuWen: 3
+  Christy: 2
+
+  Stella: 3
+  JhaoYi: 2
+
+  Cindy: 3
+  Alice: 3
+
+points:
+  2-1: 2
+  1-1: 8
+  
+  1-2: 4
+  2-2: 5
+  
+  4-1: 6
+  3-1: 8
+
+  3-2: 5
+  4-2: 6
+  
