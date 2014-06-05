@@ -1,99 +1,100 @@
 ---
-# topic: doorman
-
-Green:
+# points: 9-6, score: 3
+# other: 2
+Beige:
   absent:
   merits: 0
 Black:
-  absent:
-  merits: 0
-
+  absent: ~
+  merits: 3
 Blue:
   absent:
-  merits: 0
+    - Angela2
+  merits: 2
 Brown:
-  absent:
-  merits: 0
-
-Gray:
-  absent:
-  merits: 0
-Khaki:
-  absent:
-  merits: 0
-
+  absent: ~
+  merits: 3
+Charcoal:
+  absent: ~
+  merits: 3
 Chocolate:
   absent:
-  merits: 0
-Charcoal:
+    - Ariel
+  merits: 3
+Gray:
+  absent: ~
+  merits: 3
+Green:
   absent:
-  merits: 0
-
-White:
-  absent:
-  merits: 0
+    - Monique
+  merits: 2
+Khaki:
+  absent: ~
+  merits: 3
 Orange:
   absent:
-  merits: 0
-
+    - Alisa
+  merits: 2
 Pink:
-  absent:
-  merits: 0
+  absent: ~
+  merits: 3
 Purple:
-  absent:
-  merits: 0
-
+  absent: ~
+  merits: 2
 Red:
   absent:
-  merits: 0
-Violet:
-  absent:
-  merits: 0
-
+    - Sandy
+  merits: 2
 Silver:
   absent:
-  merits: 0
+    - Irene
+  merits: 2
+Violet:
+  absent: ~
+  merits: 3
+White:
+  absent: ~
+  merits: 2
 Yellow:
   absent:
-  merits: 0
-
+    - Linda
+  merits: 2
 points:
-  Vivian: 2
-  Christina: 3
+  Abby: 3
   Angela1: 3
-  Larry2: 2
-  Jhaung: 3
-  Jack: 2
-  Tommy: 3
-  Tony2: 2
-  Lawrence: 3
-  Nina: 2
-  Jessie: 3
-  Elton: 2
-  Paul: 2
-  Lucy: 3
-  Jeff: 2
+  Ann: 2
   Bella: 3
   Bryan: 2
-  Stanley: 3
-  Shuai: 2
-  Joy: 3
-  Abby: 3
-  Tony1: 2
-  Stephy: 2
-  Rose: 2
-  Mia: 3
-  Kevin: 2
-  Tina: 3
-  Larry1: 2
-  Fernando: 3
-  Ann: 2
-  Zoe: 3
-  Sara: 2
-  Liz: 3
+  Christina: 3
   Cindy: 2
-  Samantha: 2
-  Henry: 3
   Claire: 2
+  Elton: 2
+  Fernando: 3
+  Henry: 3
+  Jack: 2
+  Jeff: 2
+  Jessie: 3
+  Jhaung: 3
+  Joy: 3
+  Kevin: 2
+  Larry1: 2
+  Larry2: 2
+  Lawrence: 3
+  Liz: 3
+  Lucy: 3
+  Mia: 3
+  Nina: 2
+  Paul: 2
+  Rose: 2
+  Samantha: 2
+  Sara: 2
+  Shuai: 2
+  Stanley: 3
+  Stephy: 2
+  Tina: 3
+  Tommy: 3
+  Tony1: 2
+  Tony2: 2
+  Vivian: 2
   Winnie: 3
-
+  Zoe: 3
