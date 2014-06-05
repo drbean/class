@@ -1,45 +1,87 @@
 ---
 Chinese:
+  Beige: 0
   Black: 0
   Blue: 0
-  Brown: 0
+  Charcoal: 0
   Gray: 0
   Green: 0
+  Khaki: 0
   Orange: 0
+  Pink: 0
+  Purple: 0
+  Red: 0
+  Violet: 0
+  White: 0
   Yellow: 0
 letters:
+  Beige:
+    101405332: 4
+    101405435: 2
+    101405423: 2
+    story: diaz0
   Black:
-    U9943019: 7
-    U0017024: 6
-    U0122002: 7
-    story: warm1
+    102500016: 9
+    101405343: 7
+    101405349: 9
+    story: diaz0
   Blue:
-    U0042031: 8
-    U0018046: 8
-    U9923120: 8
-    story: davist2
-  Brown:
-    U0042012: 8
-    U0018027: 9
-    U9943007: 7
-    story: davist2
+    101405414: 4
+    101405408: 8
+    101405341: 7
+    story: spano0
+  Charcoal:
+    99408213: 3
+    101406962: 8
+    101406961: 9
+    story: spano0
   Gray:
-    U0042012: 8
-    U0222228: 8
-    U0043033: 8
-    story: davist2
+    101405307: 5
+    101405315: 1
+    101405316: 5
+    story: diaz0
   Green:
-    U9917017: 7
-    U9923121: 6
-    U0043001: 6
-    story: foreman1
-  Orange:
-    U0042041: 7
-    U0042050: 5
-    K220155482: 5
-    story: foreman1
-  Yellow:
-    U9911242: 6
-    U9911237: 10
-    U0043004: 10
+    101405317: 4
+    101405311: 6
+    101405324: 5
+    story: spano0
+  Khaki:
+    101405352: 9
+    100500262: 4
+    101405407: 7
     story: connell55
+  Orange:
+    101405304: 8
+    101405401: 4
+    101405444: 8
+    story: spano0
+  Pink:
+    101405334: 5
+    101405308: 5
+    101406960: 5
+    story: diaz0
+  Purple:
+    99407073: 7
+    101406963: 7
+    101405405: 6
+    story: connell55
+  Red:
+    101405302: 5
+    101405351: 4
+    101405406: 4
+    story: connell55
+  Violet:
+    101405354: 3
+    101405415: 6
+    101405419: 7
+    story: connell55
+  White:
+    101405301: 2
+    101405658: 4
+    101405411: 4
+    story: spano0
+  Yellow:
+    101405321: 5
+    101405417: 4
+    101500124: 6
+    story: diaz0

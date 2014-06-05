@@ -1,28 +1,68 @@
 ---
+Beige:
+  - Gary
+  - Todd
+  - Julien
 Black:
+  - Abby
+  - Jeff
   - Mia
-  - Gillian
 Blue:
-  - Luisa
-  - Rick
-  - Carolyn
+  - Angela2
+  - Larry1
+  - Cindy
 Brown:
-  - Danny
-  - Penny
-  - Li-Ting
+  - Fernando
+  - Tina
+  - Liz
+Charcoal:
+  - Tony1
+  - Vivian
+  - Jack
+Chocolate:
+  - Ariel
+  - Christina
+  - Jhaung
 Gray:
-  - KungHsing
-  - Amy
-  - Tiffany
+  - Tommy
+  - Angela1
+  - Elton
 Green:
-  - Simon
-  - Scotter
-  - Lance
+  - Monique
+  - Bella
+  - Kevin
+Khaki:
+  - Tony2
+  - Larry2
+  - Jessie
 Orange:
-  - Dave
-  - Peggy
-  - Regina
+  - Paul
+  - Alisa
+  - Bryan
+Pink:
+  - Sharon
+  - Joy
+  - Zoe
+Purple:
+  - Mark
+  - Shuai
+  - Sara
+Red:
+  - Sandy
+  - Nina
+  - Ann
+Silver:
+  - Irene
+  - Rose
+  - Claire
+Violet:
+  - Henry
+  - Lawrence
+White:
+  - Lucy
+  - Winnie
+  - Stanley
 Yellow:
-  - Tracy
-  - Yukin
-  - Angela
+  - Samantha
+  - Stephy
+  - Linda

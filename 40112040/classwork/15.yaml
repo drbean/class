@@ -1,34 +1,99 @@
 ---
-# topic: salazar
-
-Yellow:
-  absent:
-    - Yukin
-  merits: 3
-Black:
-  absent:
-    - Chung-Wei
-  merits: 3
-
-Blue:
-  absent:
-    - Luisa
-  merits: 3
-Orange:
-  absent:
-  merits: 3
+# topic: doorman
 
 Green:
   absent:
-    - Simon
-  merits: 3
-Gray:
+  merits: 0
+Black:
   absent:
-    - KungHsing
-  merits: 3
+  merits: 0
 
+Blue:
+  absent:
+  merits: 0
 Brown:
   absent:
-    - Danny
-  merits: 3
+  merits: 0
+
+Gray:
+  absent:
+  merits: 0
+Khaki:
+  absent:
+  merits: 0
+
+Chocolate:
+  absent:
+  merits: 0
+Charcoal:
+  absent:
+  merits: 0
+
+White:
+  absent:
+  merits: 0
+Orange:
+  absent:
+  merits: 0
+
+Pink:
+  absent:
+  merits: 0
+Purple:
+  absent:
+  merits: 0
+
+Red:
+  absent:
+  merits: 0
+Violet:
+  absent:
+  merits: 0
+
+Silver:
+  absent:
+  merits: 0
+Yellow:
+  absent:
+  merits: 0
+
+points:
+  Vivian: 2
+  Christina: 3
+  Angela1: 3
+  Larry2: 2
+  Jhaung: 3
+  Jack: 2
+  Tommy: 3
+  Tony2: 2
+  Lawrence: 3
+  Nina: 2
+  Jessie: 3
+  Elton: 2
+  Paul: 2
+  Lucy: 3
+  Jeff: 2
+  Bella: 3
+  Bryan: 2
+  Stanley: 3
+  Shuai: 2
+  Joy: 3
+  Abby: 3
+  Tony1: 2
+  Stephy: 2
+  Rose: 2
+  Mia: 3
+  Kevin: 2
+  Tina: 3
+  Larry1: 2
+  Fernando: 3
+  Ann: 2
+  Zoe: 3
+  Sara: 2
+  Liz: 3
+  Cindy: 2
+  Samantha: 2
+  Henry: 3
+  Claire: 2
+  Winnie: 3
 
