@@ -1,36 +1,59 @@
 ---
-# topic: rueda
-# no comp
+# topic: garbageman
+
 
 Black:
   absent:
-    - Mia
   merits: 3
-Gray:
+Blue:
   absent:
-    - KungHsing
+    - JingJia
+  merits: 3
+
+Charcoal:
+  absent:
+    - YiShyuan
+  merits: 3
+Green:
+  absent:
   merits: 3
 
 Orange:
   absent:
-    - Peggy
-    - Dave
+    - HuiWen
   merits: 3
-Green:
+Pink:
   absent:
-    - Simon
+    - YuChing
   merits: 3
 
-Blue:
+Purple:
   absent:
-    - Carolyn
+    - RoYu
   merits: 3
-Brown:
+Chocolate:
   absent:
-  merits: 3
+    - KiRu
+    - YanRen
+    - JieLin
+  merits: 0
 
 Yellow:
   absent:
-    - Yukin
+  merits: 3
+White:
+  absent:
+    - Anna
+    - YuRen
   merits: 3
 
+Brown:
+  absent:
+    - Martin
+    - Tina
+  merits: 0
+Silver:
+  absent:
+    - Ariel
+    - Liu
+  merits: 0
