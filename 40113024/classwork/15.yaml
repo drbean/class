@@ -1,34 +1,67 @@
 ---
-# topic: salazar
+# topic: trinka
+# points: 6-8, score: 3, else 2
 
-Yellow:
-  absent:
-    - Yukin
-  merits: 3
 Black:
-  absent:
-    - Chung-Wei
+  absent: ~
   merits: 3
-
 Blue:
   absent:
-    - Luisa
-  merits: 3
-Orange:
-  absent:
-  merits: 3
-
-Green:
-  absent:
-    - Simon
-  merits: 3
-Gray:
-  absent:
-    - KungHsing
-  merits: 3
-
+    - KeMei
+    - Cathy
+    - JingJia
+  merits: 0
 Brown:
   absent:
-    - Danny
+  merits: 0
+Charcoal:
+  absent: ~
+  merits: 2
+Chocolate:
+  absent: ~
+  merits: 2
+Green:
+  absent: ~
   merits: 3
-
+Orange:
+  absent: ~
+  merits: 3
+Pink:
+  absent: ~
+  merits: 2
+Purple:
+  absent: ~
+  merits: 3
+Silver:
+  absent:
+  merits: 0
+White:
+  absent:
+    - Jenny
+  merits: 3
+Yellow:
+  absent:
+    - Sherry
+  merits: 2
+points:
+  Anna: 3
+  Cheng: 3
+  ChiaChia: 3
+  Chris: 2
+  ChunYi: 2
+  Claire: 3
+  HsuanLing: 3
+  HuiWen: 2
+  Ina: 2
+  JiaRu: 2
+  JieLin: 3
+  LinLi: 2
+  QiXiang: 2
+  Rita: 2
+  RoHang: 2
+  RoYu: 3
+  WeiPing: 2
+  YanRen: 2
+  YuChen: 3
+  YuChing: 2
+  YuRen: 3
