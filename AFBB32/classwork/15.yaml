@@ -1,75 +1,218 @@
 ---
-# topic: salazar
+topic: doorman
 
-Green:
+Beige:
   absent:
-    - Denise
-  # merits: 2+2
-  merits: 3
+    - Josh
+    - Della
+  merits: 2.00
 Black:
-  absent:
-    # merits: 2+1
-  merits: 2.75
-
+  absent: ~
+  merits: 2.33
 Blue:
   absent:
-    # merits: 2+1
-  merits: 2.75
+    - Momo
+  merits: 2.33
 Brown:
-  absent:
-    - Carol
-  # merits: 2+0
-  merits: 2.5
-
-Gray:
-  absent:
-    - Peggy
-  # merits: 2+1
-  merits: 2.75
-Khaki:
-  absent:
-    # merits: 2+0
-  merits: 2.5
-
+  absent: ~
+  merits: 2.33
 Charcoal:
   absent:
-    # merits: 2+2
-  merits: 3
+    - Hola
+  merits: 2.33
 Chocolate:
   absent:
-    - Emily
-  # merits: 2+0
-  merits: 2.5
-
-White:
+    - Eileen
+  merits: 2.33
+Golden:
   absent:
-    - Katie
-  # merits: 0
-  merits: 0
+    - Rita
+    - Jessie
+  merits: 2.00
+Gray:
+  absent: ~
+  merits: 2.33
+Green:
+  absent: ~
+  merits: 2.33
+Khaki:
+  absent:
+    - Hannah
+  merits: 2.00
 Orange:
-  absent:
-    - James
-  # merits: 2+0
-  merits: 2.5
-
+  absent: ~
+  merits: 2.67
 Pink:
   absent:
-    # merits: 1+0
-  merits: 2
+    - Caroline
+  merits: 2.00
 Purple:
   absent:
-    # merits: 2+0
-  merits: 2.5
-
+    - Phoebe
+  merits: 2.33
 Red:
   absent:
-    - Mindy
-  # merits: 2+1
-  merits: 2.75
+    - Lorry
+  merits: 2.33
+Silver:
+  absent: ~
+  merits: 2.33
+Turquoise:
+  absent: ~
+  merits: 2.33
+Violet:
+  absent:
+    - Alicia
+  merits: 2.67
+White:
+  absent:
+    - Luke
+  merits: 2.00
+Window:
+  absent: ~
+  merits: 2.67
 Yellow:
   absent:
-    - Bunny
-    - Allen
-    - Jerry
-  # merits: 0
-  merits: 0
+    - Penny
+  merits: 2.67
+report:
+  A:
+    Table 1:
+      1: 'Black: Riccia'
+      2: 'Blue: Emma'
+      winner: Blue
+    Table 10:
+      19: 'Turquoise: Zarita'
+      20: 'Window: Will'
+      winner: Window
+    Table 2:
+      3: 'Brown: Sean'
+      4: 'Gray: Nicole'
+      winner: None
+    Table 3:
+      5: 'Green: Wayne'
+      6: 'Charcoal: Hola'
+      winner: Unplayed
+    Table 4:
+      7: 'Chocolate: Eileen'
+      8: 'Khaki: Hannah'
+      winner: Unplayed
+    Table 5:
+      10: 'Pink: Caroline'
+      9: 'Orange: Roc'
+      winner: Unplayed
+    Table 6:
+      11: 'Purple: Phoebe'
+      12: 'Red: Lorry'
+      winner: Unplayed
+    Table 7:
+      13: 'White: Luke'
+      14: 'Yellow: Ennis'
+      winner: Unplayed
+    Table 8:
+      15: 'Silver: Peggy'
+      16: 'Violet: Charlene'
+      winner: Violet
+    Table 9:
+      17: 'Beige: Josh'
+      18: 'Golden: Rita'
+      winner: Unplayed
+  B:
+    Table 1:
+      1: 'Black: Linda'
+      2: 'Blue: Momo'
+      winner: Unplayed
+    Table 10:
+      19: 'Turquoise: Sarah'
+      20: 'Window: Vicky2'
+      winner: Window
+    Table 2:
+      3: 'Brown: Eric'
+      4: 'Gray: Tammy'
+      winner: Gray
+    Table 3:
+      5: 'Green: Scott'
+      6: 'Charcoal: Vicky1'
+      winner: Charcoal
+    Table 4:
+      7: 'Chocolate: Jasmine'
+      8: 'Khaki: Ruby'
+      winner: Chocolate
+    Table 5:
+      10: 'Pink: Eva'
+      9: 'Orange: Joe'
+      winner: None
+    Table 6:
+      11: 'Purple: Pancy'
+      12: 'Red: Rosa'
+      winner: Purple
+    Table 7:
+      13: 'White: Betty'
+      14: 'Yellow: Penny'
+      winner: Unplayed
+    Table 8:
+      15: 'Silver: Jean'
+      16: 'Violet: Alicia'
+      winner: Unplayed
+    Table 9:
+      17: 'Beige: Della'
+      18: 'Golden: Jessie'
+      winner: Unplayed
+  C:
+    Table 1:
+      1: 'Black: Judy'
+      2: 'Blue: Claire'
+      winner: Black
+    Table 10:
+      19: 'Turquoise: Winnie'
+      20: 'Window: Dona'
+      winner: Turquoise
+    Table 2:
+      3: 'Brown: Allen'
+      4: 'Gray: Cora'
+      winner: Brown
+    Table 3:
+      5: 'Green: Hedy'
+      6: 'Charcoal: Jane'
+      winner: Green
+    Table 4:
+      7: 'Chocolate: Jason'
+      8: 'Khaki: Ellen'
+      winner: Unplayed
+    Table 5:
+      10: 'Pink: Cindy'
+      9: 'Orange: Chloe'
+      winner: Orange
+    Table 6:
+      11: 'Purple: Christy'
+      12: 'Red: Ashley'
+      winner: Red
+    Table 7:
+      13: 'White: Luke'
+      14: 'Yellow: Wenny'
+      winner: Unplayed
+    Table 8:
+      15: 'Silver: Sandy'
+      16: 'Violet: Abby'
+      winner: Violet
+    Table 9:
+      17: 'Beige: Alina'
+      18: 'Golden: Nancy'
+      winner: None
+  Other:
+    Table 126:
+      winner: Silver
+      x: 'Black: Linda'
+      y: 'Silver: Jean'
+    Table 155:
+      winner: Orange
+      x: 'Green: Wayne'
+      y: 'Orange: Roc'
+    Table 184:
+      winner: Yellow
+      x: 'White: Betty'
+      y: 'Yellow: Wenny'
+    Table 227:
+      winner: Yellow
+      x: 'Yellow: Ennis'
+      y: 'Khaki: Ellen'
