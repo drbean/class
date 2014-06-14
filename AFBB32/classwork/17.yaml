@@ -1,63 +1,288 @@
 ---
-# # topic: vanbeke-A
-# Black::Charcoal,Green::Blue,Brown::Khaki,Chocolate::Gray,Orange::Red,Pink::Purple,White::Yellow
-# topic: vanbeke-B
-
-Green:
-  absent:
-  merits: 3
+Beige:
+  absent: ~
+  merits: 2.67
 Black:
   absent:
-    - Vicky
-  merits: 2
-
-Charcoal:
-  absent:
-  merits: 2
+    - Black
+  merits: 2.00
 Blue:
   absent:
-  merits: 3
-
-Chocolate:
-  absent:
-    - Emily
-  merits: 3
+    - Emma
+  merits: 2.67
 Brown:
   absent:
-    - Carol
-  merits: 2
-
-Khaki:
+    - Sean
+  merits: 2.00
+Charcoal:
+  absent: ~
+  merits: 3.00
+Chocolate:
   absent:
-    - Louie
-  merits: 3
+    - Jason
+  merits: 2.33
+Golden:
+  absent:
+    - Rita
+  merits: 2.00
 Gray:
-  absent:
-    - Peggy
-  merits: 2
-
+  absent: ~
+  merits: 2.67
+Green:
+  absent: ~
+  merits: 2.00
+Khaki:
+  absent: ~
+  merits: 2.67
 Orange:
   absent:
-  merits: 3
-Purple:
-  absent:
-    - Ben
-    - Candy
-  merits: 2
-
+    - Roc
+  merits: 2.00
 Pink:
-  absent:
-  merits: 3
+  absent: ~
+  merits: 3.00
+Purple:
+  absent: ~
+  merits: 2.67
 Red:
-  absent:
-  merits: 2
-
+  absent: ~
+  merits: 2.33
+Silver:
+  absent: ~
+  merits: 2.67
+Turquoise:
+  absent: ~
+  merits: 2.67
+Violet:
+  absent: ~
+  merits: 2.33
 White:
   absent:
-    - Jerry
-  merits: 3
+    - Luke
+  merits: 2.50
+Window:
+  absent: ~
+  merits: 2.33
 Yellow:
-  absent:
-    - Katie
-  merits: 0
-
+  absent: ~
+  merits: 2.33
+report:
+  Table 1:
+    A:
+      1:
+        Black: Riccia
+      2:
+        Blue: Emma
+      winner: Unplayed
+    B:
+      1:
+        Black: Linda
+      2:
+        Blue: Momo
+      winner: Unplayed
+    C:
+      1:
+        Black: Judy
+      2:
+        Blue: Claire
+      winner: Blue
+  Table 10:
+    A:
+      19:
+        Turquoise: Zarita
+      20:
+        Window: Will
+      winner: Turquoise
+    B:
+      19:
+        Turquoise: Sarah
+      20:
+        Window: Vicky2
+      winner: Turquoise
+    C:
+      19:
+        Turquoise: Winnie
+      20:
+        Window: Dona
+      winner: Window
+  Table 2:
+    A:
+      3:
+        Brown: Sean
+      4:
+        Gray: Nicole
+      winner: Unplayed
+    B:
+      3:
+        Brown: Eric
+      4:
+        Gray: Tammy
+      winner: Gray
+    C:
+      3:
+        Brown: Allen
+      4:
+        Gray: Cora
+      winner: Gray
+  Table 3:
+    A:
+      5:
+        Green: Wayne
+      6:
+        Charcoal: Hola
+      winner: Charcoal
+    B:
+      5:
+        Green: Scott
+      6:
+        Charcoal: Vicky1
+      winner: Charcoal
+    C:
+      5:
+        Green: Hedy
+      6:
+        Charcoal: Jane
+      winner: Charcoal
+  Table 4:
+    A:
+      7:
+        Chocolate: Eileen
+      8:
+        Khaki: Hannah
+      winner: Khaki
+    B:
+      7:
+        Chocolate: Jasmine
+      8:
+        Khaki: Ruby
+      winner: Chocolate
+    C:
+      7:
+        Chocolate: Jason
+      8:
+        Khaki: Ellen
+      winner: Unplayed
+  Table 499:
+    X:
+      winner: Pink
+      x:
+        Black: Riccia
+      y:
+        Pink: Caroline
+  Table 5:
+    A:
+      10:
+        Pink: Caroline
+      9:
+        Orange: Roc
+      winner: Unplayed
+    B:
+      10:
+        Pink: Eva
+      9:
+        Orange: Joe
+      winner: Pink
+    C:
+      10:
+        Pink: Cindy
+      9:
+        Orange: Chloe
+      winner: Pink
+  Table 535:
+    X:
+      winner: Blue
+      x:
+        Gray: Nicole
+      y:
+        Blue: Momo
+  Table 563:
+    X:
+      winner: Khaki
+      x:
+        Beige: Josh
+      y:
+        Khaki: Ellen
+  Table 6:
+    A:
+      11:
+        Purple: Phoebe
+      12:
+        Red: Lorry
+      winner: Purple
+    B:
+      11:
+        Purple: Pancy
+      12:
+        Red: Rosa
+      winner: Red
+    C:
+      11:
+        Purple: Christy
+      12:
+        Red: Ashley
+      winner: Purple
+  Table 601:
+    X:
+      winner: Yellow
+      x:
+        Yellow: Ennis
+      y:
+        Yellow: Wenny
+  Table 7:
+    A:
+      13:
+        White: Luke
+      14:
+        Yellow: Ennis
+      winner: Unplayed
+    B:
+      13:
+        White: Betty
+      14:
+        Yellow: Penny
+      winner: White
+    C:
+      13:
+        White: Luke
+      14:
+        Yellow: Wenny
+      winner: Unplayed
+  Table 8:
+    A:
+      15:
+        Silver: Peggy
+      16:
+        Violet: Charlene
+      winner: Silver
+    B:
+      15:
+        Silver: Jean
+      16:
+        Violet: Alicia
+      winner: Violet
+    C:
+      15:
+        Silver: Sandy
+      16:
+        Violet: Abby
+      winner: Silver
+  Table 9:
+    A:
+      17:
+        Beige: Josh
+      18:
+        Golden: Rita
+      winner: Unplayed
+    B:
+      17:
+        Beige: Della
+      18:
+        Golden: Jessie
+      winner: Beige
+    C:
+      17:
+        Beige: Alina
+      18:
+        Golden: Nancy
+      winner: Beige
+topic: bruno
