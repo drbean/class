@@ -1,64 +1,308 @@
 ---
-# topic: rueda
+topic: garbage man
 
+Beige:
+  absent:
+    - Josh
+  merits: 2.33
 Black:
   absent:
-    - Don
-  merits: 2
+    - Linda
+    - Riccia
+  merits: 2.00
 Blue:
   absent:
-  merits: 3
-
+    - Emma
+  merits: 2.67
 Brown:
   absent:
-    - Mei
-  merits: 2
-Gray:
-  absent:
-    - Peggy
-    - MiuMiu
-  merits: 3
-
-Green:
-  absent:
-    - Denise
-  merits: 2
+    - Sean
+  merits: 2.00
 Charcoal:
   absent:
-  merits: 3
-
+    - Hola
+  merits: 2.33
 Chocolate:
   absent:
-    - Emily
-  merits: 3
+    - Jason
+  merits: 2.33
+Golden:
+  absent:
+    - Rita
+  merits: 2.67
+Gray:
+  absent: ~
+  merits: 2.67
+Green:
+  absent:
+    - Scott
+  merits: 2.33
 Khaki:
-  absent:
-  merits: 2
-
+  absent: ~
+  merits: 2.33
 Orange:
-  absent:
-    - James
-  merits: 3
+  absent: ~
+  merits: 2.33
 Pink:
   absent:
-    - Neil
-  merits: 2
-
+    - Caroline
+  merits: 2.00
 Purple:
-  absent:
-    - Candy
-  merits: 2
+  absent: ~
+  merits: 3.00
 Red:
-  absent:
-    - Fion
-    - Mindy
-  merits: 3
-
+  absent: ~
+  merits: 2.00
+Silver:
+  absent: ~
+  merits: 2.33
+Turquoise:
+  absent: ~
+  merits: 2.33
+Violet:
+  absent: ~
+  merits: 2.33
 White:
-  absent:
-    - Katie
-  merits: 2
+  absent: ~
+  merits: 3.00
+Window:
+  absent: ~
+  merits: 2.67
 Yellow:
   absent:
-  merits: 3
-
+    - Penny
+    - Ennis
+  merits: 2.33
+report:
+  A:
+    Table 1:
+      1:
+        Green: Wayne
+      2:
+        Black: Riccia
+      winner: Unplayed
+    Table 10:
+      19:
+        Silver: Peggy
+      20:
+        Yellow: Ennis
+      winner: Unplayed
+    Table 2:
+      3:
+        Blue: Emma
+      4:
+        Brown: Sean
+      winner: Unplayed
+    Table 3:
+      5:
+        Gray: Nicole
+      6:
+        Beige: Josh
+      winner: Unplayed
+    Table 4:
+      7:
+        Turquoise: Zarita
+      8:
+        Khaki: Hannah
+      winner: Unplayed
+    Table 5:
+      10:
+        Charcoal: Hola
+      9:
+        Chocolate: Eileen
+      winner: Unplayed
+    Table 6:
+      11:
+        White: Luke
+      12:
+        Orange: Roc
+      winner: White
+    Table 7:
+      13:
+        Pink: Caroline
+      14:
+        Purple: Phoebe
+      winner: Unplayed
+    Table 8:
+      15:
+        Red: Lorry
+      16:
+        Golden: Rita
+      winner: Unplayed
+    Table 9:
+      17:
+        Violet: Charlene
+      18:
+        Window: Will
+      winner: Unplayed
+  B:
+    Table 1:
+      1:
+        Green: Scott
+      2:
+        Black: Linda
+      winner: Unplayed
+    Table 10:
+      19:
+        Silver: Jean
+      20:
+        Yellow: Penny
+      winner: Unplayed
+    Table 2:
+      3:
+        Blue: Momo
+      4:
+        Brown: Eric
+      winner: Blue
+    Table 3:
+      5:
+        Gray: Tammy
+      6:
+        Beige: Della
+      winner: Gray
+    Table 4:
+      7:
+        Turquoise: Sarah
+      8:
+        Khaki: Ruby
+      winner: Turquoise
+    Table 5:
+      10:
+        Charcoal: Vicky1
+      9:
+        Chocolate: Jasmine
+      winner: Charcoal
+    Table 6:
+      11:
+        White: Betty
+      12:
+        Orange: Joe
+      winner: White
+    Table 7:
+      13:
+        Pink: Eva
+      14:
+        Purple: Pancy
+      winner: Purple
+    Table 8:
+      15:
+        Red: Rosa
+      16:
+        Golden: Jessie
+      winner: Golden
+    Table 9:
+      17:
+        Violet: Alicia
+      18:
+        Window: Vicky2
+      winner: Unplayed
+  C:
+    Table 1:
+      1:
+        Green: Hedy
+      2:
+        Black: Judy
+      winner: Green
+    Table 10:
+      19:
+        Silver: Sandy
+      20:
+        Yellow: Wenny
+      winner: Yellow
+    Table 2:
+      3:
+        Blue: Claire
+      4:
+        Brown: Allen
+      winner: Blue
+    Table 3:
+      5:
+        Gray: Cora
+      6:
+        Beige: Alina
+      winner: Beige
+    Table 4:
+      7:
+        Turquoise: Winnie
+      8:
+        Khaki: Ellen
+      winner: Khaki
+    Table 5:
+      10:
+        Charcoal: Jane
+      9:
+        Chocolate: Jason
+      winner: Unplayed
+    Table 6:
+      11:
+        White: Luke
+      12:
+        Orange: Chloe
+      winner: Unplayed
+    Table 7:
+      13:
+        Pink: Cindy
+      14:
+        Purple: Christy
+      winner: Purple
+    Table 8:
+      15:
+        Red: Ashley
+      16:
+        Golden: Nancy
+      winner: Golden
+    Table 9:
+      17:
+        Violet: Abby
+      18:
+        Window: Dona
+      winner: Unplayed
+  Other:
+    Table 127:
+      winner: Violet
+      x:
+        Window: Will
+      y:
+        Violet: Abby
+    Table 307:
+      winner: Window
+      x:
+        Window: Dona
+      y:
+        Violet: Alicia
+    Table 308:
+      winner: Window
+      x:
+        Window: Vicky2
+      y:
+        Violet: Charlene
+    Table 340:
+      winner: Orange
+      x:
+        Green: Wayne
+      y:
+        Orange: Chloe
+    Table 349:
+      winner: Gray
+      x:
+        Gray: Nicole
+      y:
+        None: Bye
+    Table 389:
+      winner: Silver
+      x:
+        Turquoise: Zarita
+      y:
+        Silver: Jean
+    Table 429:
+      winner: Chocolate
+      x:
+        Charcoal: Jane
+      y:
+        Chocolate: Eileen
+    Table 465:
+      winner: Purple
+      x:
+        Purple: Phoebe
+      y:
+        Silver: Peggy
