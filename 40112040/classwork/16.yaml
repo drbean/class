@@ -1,36 +1,204 @@
 ---
-# topic: rueda
-# no comp
+# topic: garbageman
+
 
 Black:
   absent:
-    - Mia
-  merits: 3
+    - Jeff
+  merits: ~
+Blue:
+  absent:
+    - Angela2
+    - Larry1
+  merits: ~
+
+Brown:
+  absent:
+  merits: ~
 Gray:
   absent:
-    - KungHsing
-  merits: 3
+    - Tommy
+    - Elton
+  merits: ~
+
+Beige:
+  absent:
+    - Julien
+    - Gary
+  merits: 0
+
+Khaki:
+  absent:
+    - Larry2
+  merits: ~
+Chocolate:
+  absent:
+  merits: ~
+
+Charcoal:
+  absent:
+  merits: ~
+Green:
+  absent:
+  merits: ~
 
 Orange:
   absent:
-    - Peggy
-    - Dave
-  merits: 3
-Green:
+  merits: ~
+Pink:
   absent:
-    - Simon
-  merits: 3
+    - Zoe
+  merits: ~
 
-Blue:
+Purple:
   absent:
-    - Carolyn
-  merits: 3
-Brown:
+    - Mark
+  merits: ~
+Red:
   absent:
-  merits: 3
+    - Irene
+  merits: ~
+
+Violet:
+  absent:
+    - Lawrence
+    - Henry
+  merits: ~
+Silver:
+  absent:
+  merits: ~
 
 Yellow:
   absent:
-    - Yukin
-  merits: 3
+  merits: ~
+White:
+  absent:
+    - Stanley
+  merits: ~
 
+report:
+  B:
+    Table 1:
+      1: Black: Jeff
+      2: Blue: Larry1
+      winner: Unplayed
+    Table 2:
+      3: Brown: Tina
+      4: Gray: Angela1
+      winner: Gray
+    Table 3:
+      5: Khaki: Larry2
+      6: Chocolate: Christina
+      winner: Unplayed
+    Table 4:
+      7: Charcoal: Vivian
+      8: Green: Bella
+      winner: Charcoal
+    Table 5:
+      9: Orange: Alisa
+      10: Pink: Joy
+      winner: Pink
+    Table 6:
+      11: Purple: Shuai
+      12: Red: Nina
+      winner: Purple
+    Table 7:
+      13: Violet: Lawrence
+      14: Silver: Rose
+      winner: Unplayed
+    Table 8:
+      15: Yellow: Stephy
+      16: White: Winnie
+      winner: Yellow
+  C:
+    Table 1:
+      1: Black: Mia
+      2: Blue: Cindy
+      winner: Black
+    Table 2:
+      3: Brown: Liz
+      4: Gray: Elton
+      winner: Unplayed
+    Table 3:
+      5: Khaki: Jessie
+      6: Chocolate: Jhaung
+      winner: Khaki
+    Table 4:
+      7: Charcoal: Jack
+      8: Green: Kevin
+      winner: Unplayed
+    Table 5:
+      9: Orange: Bryan
+      10: Pink: Zoe
+      winner: Unplayed
+    Table 6:
+      11: Purple: Sara
+      12: Red: Ann
+      winner: Purple
+    Table 7:
+      13: Violet: Henry
+      14: Silver: Claire
+      winner: Unplayed
+    Table 8:
+      15: Yellow: Linda
+      16: White: Stanley
+      winner: Unplayed
+  A:
+    Table 1:
+      1: Black: Abby
+      2: Blue: Angela2
+      winner: Unplayed
+    Table 2:
+      3: Brown: Fernando
+      4: Gray: Tommy
+      winner: Unplayed
+    Table 3:
+      5: Khaki: Tony2
+      6: Chocolate: Ariel
+      winner: Chocolate
+    Table 4:
+      7: Charcoal: Tony1
+      8: Green: Monique
+      winner: Unplayed
+    Table 5:
+      9: Orange: Paul
+      10: Pink: Sharon
+      winner: Unplayed
+    Table 6:
+      11: Purple: Mark
+      12: Red: Sandy
+      winner: Unplayed
+    Table 7:
+      13: Violet: Henry
+      14: Silver: Irene
+      winner: Unplayed
+    Table 8:
+      15: Yellow: Samantha
+      16: White: Lucy
+      winner: Unplayed
+  Other:
+    Table 292:
+      x: Brown: Fernando
+      y: Orange: Bryan
+      winner: Brown
+    Table 293:
+      x: Brown: Liz
+      y: Silver: Claire
+      winner: Brown
+    Table 294:
+      x: Green: Monique
+      y: Silver: Irene
+      winner: Green
+   Table 342:
+     x: Yellow: Samantha
+     y: White: Lucy
+     winner: Yellow
+   Table 384:
+     x: Yellow: Linda
+     y: Silver: Rose
+     winner: Silver
+    Table 431:
+      x: Chocolate: Christina
+      y: Nopartner: Nopartner
+      winner: Chocolate
+    
