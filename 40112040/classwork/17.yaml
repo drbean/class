@@ -1,31 +1,262 @@
 ---
-# topic: vanbeke
-
-Gray:
+Beige:
   absent:
-  merits: 3
-Blue:
-  absent:
-  merits: 3
-
-Yellow:
-  absent:
-    - Yukin
-  merits: 3
-Green:
-  absent:
-    - Simon
-  merits: 3
-
-Orange:
-  absent:
-  merits: 3
-Brown:
-  absent:
-  merits: 3
-
+    - Julien
+  merits: 2.00
 Black:
   absent:
-    - ChungWei
-  merits: 3
-
+    - Mia
+  merits: 2.67
+Blue:
+  absent:
+    - Angela2
+  merits: 2.67
+Brown:
+  absent: ~
+  merits: 2.33
+Charcoal:
+  absent:
+    - Tony1
+  merits: 2.67
+Chocolate:
+  absent:
+    - Ariel
+    - Jhaung
+  merits: 2.00
+Gray:
+  absent:
+    - Elton
+  merits: 2.67
+Green:
+  absent:
+    - Monique
+  merits: 2.33
+Khaki:
+  absent: ~
+  merits: 2.00
+Orange:
+  absent:
+    - Alisa
+    - Paul
+  merits: 2.00
+Pink:
+  absent:
+    - Zoe
+  merits: 2.00
+Purple:
+  absent:
+    - Purple
+  merits: 2.33
+Red:
+  absent: ~
+  merits: 2.67
+Silver:
+  absent:
+    - Irene
+  merits: 2.33
+Violet:
+  absent: ~
+  merits: 2.00
+White:
+  absent: ~
+  merits: 2.67
+Yellow:
+  absent:
+    - Linda
+  merits: 2.33
+report:
+  Table 1:
+    A:
+      1:
+        Green: Monique
+      2:
+        Black: Abby
+      winner: Unplayed
+    B:
+      1:
+        Green: Bella
+      2:
+        Black: Jeff
+      winner: Black
+    C:
+      1:
+        Green: Kevin
+      2:
+        Black: Mia
+      winner: Unplayed
+  Table 2:
+    A:
+      3:
+        Blue: Angela2
+      4:
+        Brown: Fernando
+      winner: Unplayed
+    B:
+      3:
+        Blue: Larry1
+      4:
+        Brown: Tina
+      winner: Blue
+    C:
+      3:
+        Blue: Cindy
+      4:
+        Brown: Liz
+      winner: Blue
+  Table 3:
+    A:
+      5:
+        Gray: Tommy
+      6:
+        Khaki: Tony2
+      winner: Gray
+    B:
+      5:
+        Gray: Angela1
+      6:
+        Khaki: Larry2
+      winner: Gray
+    C:
+      5:
+        Gray: Elton
+      6:
+        Khaki: Jessie
+      winner: Unplayed
+  Table 4:
+    A:
+      7:
+        Chocolate: Ariel
+      8:
+        Charcoal: Tony1
+      winner: Unplayed
+    B:
+      7:
+        Chocolate: Christina
+      8:
+        Charcoal: Vivian
+      winner: Charcoal
+    C:
+      7:
+        Chocolate: Jhaung
+      8:
+        Charcoal: Jack
+      winner: Unplayed
+  Table 5:
+    A:
+      10:
+        Orange: Paul
+      9:
+        White: Lucy
+      winner: Unplayed
+    B:
+      10:
+        Orange: Alisa
+      9:
+        White: Winnie
+      winner: Unplayed
+    C:
+      10:
+        Orange: Bryan
+      9:
+        White: Stanley
+      winner: White
+  Table 6:
+    A:
+      11:
+        Pink: Sharon
+      12:
+        Purple: Mark
+      winner: Purple
+    B:
+      11:
+        Pink: Joy
+      12:
+        Purple: Shuai
+      winner: Unplayed
+    C:
+      11:
+        Pink: Zoe
+      12:
+        Purple: Sara
+      winner: Unplayed
+  Table 7:
+    A:
+      13:
+        Red: Sandy
+      14:
+        Violet: Henry
+      winner: Red
+    B:
+      13:
+        Red: Nina
+      14:
+        Violet: Lawrence
+      winner: Red
+    C:
+      13:
+        Red: Ann
+      14:
+        Violet: Henry
+      winner: Unplayed
+  Table 8:
+    A:
+      15:
+        Silver: Irene
+      16:
+        Yellow: Samantha
+      winner: Unplayed
+    B:
+      15:
+        Silver: Rose
+      16:
+        Yellow: Stephy
+      winner: Silver
+    C:
+      15:
+        Silver: Claire
+      16:
+        Yellow: Linda
+      winner: Unplayed
+  Table 9133:
+    X:
+      winner: Black
+      x:
+        Purple: Sara
+      y:
+        Black: Abby
+  Table 9171:
+    X:
+      winner: Brown
+      x:
+        Pink: Joy
+      y:
+        Brown: Fernando
+  Table 9199:
+    X:
+      winner: Green
+      x:
+        Green: Kevin
+      y:
+        Khaki: Jessie
+  Table 9232:
+    X:
+      winner: Charcoal
+      x:
+        White: Lucy
+      y:
+        Charcoal: Jack
+  Table 9267:
+    X:
+      winner: White
+      x:
+        White: Winnie
+      y:
+        Beige: Gary
+  Table 9293:
+    X:
+      winner: Yellow
+      x:
+        Silver: Claire
+      y:
+        Yellow: Samantha
+topic: bruno
