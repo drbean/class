@@ -2,6 +2,8 @@
 # topic: lerman
 
 Beige:
+  absent:
+    - Henry
   merits: 0
 
 Black:
