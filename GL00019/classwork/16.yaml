@@ -1,36 +1,20 @@
 ---
-# topic: rueda
-# no comp
+# topic: bruno
 
-Black:
+2-1:
   absent:
-    - Mia
+    - Roye
   merits: 3
-Gray:
+2-2:
   absent:
-    - KungHsing
-  merits: 3
+    - Wen
+  merits: 2
 
-Orange:
+3-1:
   absent:
-    - Peggy
-    - Dave
-  merits: 3
-Green:
+  merits: 2.5
+3-2:
   absent:
-    - Simon
-  merits: 3
-
-Blue:
-  absent:
-    - Carolyn
-  merits: 3
-Brown:
-  absent:
-  merits: 3
-
-Yellow:
-  absent:
-    - Yukin
+    - Mandy
   merits: 3
 
