@@ -1,213 +1,71 @@
 ---
 free:
   0:
-    salazar:
-      1:
-        U0018046:
+    trinka:
+      0:
+        U0022343:
           point:
-            1: Fault
-        U9917017:
-          point:
-            1: Returned
-    rueda:
-      1:
-        U0018046:
-          point:
-            1: Fault
-        U9917017:
-          point:
-            1: Returned
-    vanbeke:
-      1:
-        U0018046:
-          point:
-            1: Returned
-        U9917017:
-          point:
-            1: Returned
-  1:
-    salazar:
-      1:
-        U0018027:
-          point:
-            1: Returned
-        U0042041:
-          point:
-            1: Returned
-    rueda:
-      1:
-        U0018027:
-          point:
-            1: Returned
-        U0042041:
-          point:
-            1: Returned
-    vanbeke:
-      1:
-        U0018027:
-          point:
-            1: Returned
-        U0042041:
-          point:
-            1: Returned
-  2:
-    salazar:
-      1:
-        U0043033:
-          point:
-            1: Returned
-        U0222133:
-          point:
-            1: Fault
-    rueda:
-      1:
-        U0043033:
-          point:
-            1: Fault
-            2: Returned
-        U0222133:
-          point:
-            1: Returned
-            2: Returned
-    vanbeke:
-      1:
-        U0043033:
-          point:
-            1: Returned
-        U0222133:
-          point:
-            1: Returned
-  3:
-    salazar:
-      1:
-        U0042012:
-          point:
-            1: Returned
-        U9923120:
-          point:
-            1: Returned
-    rueda:
-      1:
-        U0042012:
-          point:
-            1: Returned
-        U9923120:
-          point:
-            1: Returned
-    vanbeke:
-      1:
-        U0042012:
-          point:
-            1: Returned
-        U9923120:
-          point:
-            1: Returned
-  4:
-    salazar:
-      1:
-        U0017024:
-          point:
-            1: Returned
-        U9923121:
-          point:
-            1: Returned
-    rueda:
-      1:
-        U0017024:
-          point:
-            1: Fault
-        U9923121:
-          point:
-            1: Fault
-    vanbeke:
-      1:
-        U0017024:
-          point:
-            1: Returned
-        U9923121:
-          point:
-            1: Unreturned
-  5:
-    salazar:
-      1:
-        U9943019:
-          point:
-            1: Returned
-        U0043001:
-          point:
-            1: Returned
-    rueda:
-      1:
-        U9943019:
-          point:
-            1: Returned
-        U0043001:
-          point:
-            1: Returned
-    vanbeke:
-      1:
-        U9943019:
-          point:
-            1: Returned
-            2: Returned
-        U0043001:
-          point:
-            1: Returned
-            2: Returned
-  6:
-    salazar:
-      1:
-        K220155482:
-          point:
-            1: Returned
-        U0222228:
-          point:
-            1: Fault
-            2: Returned
-    rueda:
-      1:
-        K220155482:
-          point:
-            1: Returned
-            2: Returned
-        U0222228:
-          point:
-            1: Fault
-            2: Returned
-    vanbeke:
-      1:
-        K220155482:
-          point:
-            1: Returned
-        U0222228:
-          point:
-            1: Nil
-  7:
-    salazar:
-      1:
-        U9943007:
-          point:
-            1: Returned
-            2: Returned
-        U0042050:
-          point:
-            1: Old
-            2: Returned
-    rueda:
-      1:
-        U9943007:
-          point:
-            1: Nil
-        U0042050:
-          point:
-            1: Returned
-    vanbeke:
-      1:
-        U9943007:
-          point:
-            1: Returned
-            2: Returned
-        U0042050:
+            1: Returned on 2nd chance
+            2: Returned on 2nd chance
+            3: Unreturned
+        U0110031:
           point:
             1: Returned
             2: Unreturned
+            3: Unreturned
+            4: Returned
+    bruno:
+      0:
+        U0022343:
+          point:
+            1: Returned on 2nd chance
+            2: Unreturned
+        U0110031:
+          point:
+            1: Returned
+  1:
+    trinka:
+      0:
+        U9816034:
+          point:
+            1: Unreturned
+            2: Returned
+        U0022342:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+    bruno:
+      0:
+        U9816034:
+          point:
+            1: Returned
+            2: Fault on 2nd chance
+            3: Fault
+        U0022342:
+          point:
+            1: Returned
+            2: Returned
+  2:
+    trinka:
+      0:
+        U0016044:
+          point:
+            1: Returned
+            2: Fault on 2nd chance
+            3: Returned
+        U9911202:
+          point:
+            1: Returned
+            2: Returned
+            3: Fault on 2nd chance
+    bruno:
+      0:
+        U0016044:
+          point:
+            1: Returned
+            2: Returned
+        U9911202:
+          point:
+            1: Returned
+            2: Returned
