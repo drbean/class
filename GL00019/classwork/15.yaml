@@ -1,34 +1,25 @@
 ---
-# topic: salazar
+# topic: white
+# free talking with Mandy--only one student
 
-Yellow:
+2-1:
   absent:
-    - Yukin
-  merits: 3
-Black:
+    - Roye
+    - Kevin
+  merits: 0
+2-2:
   absent:
-    - Chung-Wei
-  merits: 3
+    - Wen
+    - Allan
+  merits: 0
 
-Blue:
+3-1:
   absent:
-    - Luisa
-  merits: 3
-Orange:
+    - Lan
+    - Jeff
+  merits: 0
+3-2:
   absent:
-  merits: 3
-
-Green:
-  absent:
-    - Simon
-  merits: 3
-Gray:
-  absent:
-    - KungHsing
-  merits: 3
-
-Brown:
-  absent:
-    - Danny
+    - Jay
   merits: 3
 
