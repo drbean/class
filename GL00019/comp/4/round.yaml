@@ -1,14 +1,23 @@
 ---
 activity:
-  2:
+  trinka:
     0:
+      - 0
+      - 1
+      - 2
+  bruno:
+    0:
+      - 0
       - 1
       - 2
 assistant: ~
-bye: U0022343
 dispensation: ~
 divisions: ~
 group:
+  0:
+    White: U0022343
+    Black: U0110031
+    
   1:
     White: U9816034
     Black: U0022342
@@ -16,9 +25,9 @@ group:
     White: U0016044
     Black: U9911202
 late:
-  - ~
+  - U0110031
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 5
 round: 4
-text: ~
-week: ~
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 18

@@ -3,51 +3,28 @@ round: Exam 4
 week: 18
 questions:
   - 10
-pass: 5
+pass: 6
 assistant:
 absent:
-  - Simon
-  - Yukin
-text: /home/drbean/class/conversation/poverty/cards.yaml
+  - Wen
+  - Roye
+text: /home/drbean/class/conversation/work/cards.yaml
 activity:
-  salazar:
+  trinka:
     1:
-      - Blue
-      - Gray
-  rueda:
-    1:
-      - Orange
-  vanbeke:
-    1:
-      - Black
-      - Brown
-      - Green
+      - Two
+  bruno:
+    3:
+      - One
+
+
+
 group:
-  Black:
-    - Tracy
-    - Mia
-    - Gillian
-  Blue:
-    - Luisa
-    - Rick
-    - Carolyn
-  Brown:
-    - Danny
-    - Penny
-    - Li-Ting
-  Gray:
-    - KungHsing
-    - Amy
-    - Tiffany
-  Green:
-    - Angela
-    - Scotter
-    - Lance
-  Orange:
-    - Dave
-    - Peggy
-    - Regina
-#  Yellow:
-#    - Tracy
-#    - Yukin
-#    - Angela
+  One:
+    - Kevin
+    - Jeff
+    - Lan
+  Two:
+    - Mandy
+    - Jay
+    - Allan
