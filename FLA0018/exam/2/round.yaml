@@ -1,0 +1,56 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+  - Brock
+  - Jessie
+absent:
+  - Joyce
+text: /home/drbean/class/conversation/parents/cards.yaml
+activity:
+  emersonj:
+    2:
+      - Brown
+      - Purple
+  biomom:
+    4:
+      - Black
+      - Orange
+      - Red
+  biodad:
+    1:
+      - Blue
+      - Pink
+
+group:
+  Black:
+    - William
+    - Amy2
+    - Jack
+  Blue:
+    - Joanne
+    - Bruce
+    - Sing
+  Brown:
+    - Brock
+    - Yvonne
+    - Jessie
+  Orange:
+    - Sherry
+    - Lucy
+    - Show
+  Pink:
+    - Eva
+    - Una
+    - Oscar
+  Purple:
+    - Vera
+    - Nora
+    - Camuel
+  Red:
+    - Vam
+    - Brock
+    - Jessie
