@@ -1,32 +1,122 @@
 ---
-# topic: interview
-
-# Black to Orange and Pink
-
-Black:
+1-1:
+  absent: ~
+  merits: 2.33
+1-2:
+  absent: ~
+  merits: 2.67
+2-1:
   absent:
-  merits: 2.5
-
-Blue:
+    - Darnell
+    - Ling
+  merits: 2.00
+2-2:
+  absent: ~
+  merits: 2.67
+3-1:
   absent:
-  merits: 3
-Brown:
+    - Stella
+  merits: 2.00
+3-2:
   absent:
-  merits: 2
-
-Red:
+    - Mark
+  merits: 2.33
+4-1:
   absent:
-  merits: 3
-Purple:
-  absent:
-    - YaTing2
-  merits: 2
-
-Orange:
-  absent:
-    - Vivian
-  merits: 3
-Pink:
-  absent:
-  merits: 2
-
+    - 羅以翔
+  merits: 2.00
+4-2:
+  absent: ~
+  merits: 3.00
+report:
+  Table 1:
+    A:
+      1:
+        1-1: May
+      2:
+        1-2: Charles
+      winner: 1-2
+    B:
+      1:
+        1-1: Alice
+      2:
+        1-2: Charlie
+      winner: 1-2
+    C:
+      1:
+        1-1: Christy
+      2:
+        1-2: Sharon
+      winner: 1-1
+  Table 2:
+    A:
+      3:
+        2-1: I-Yun
+      4:
+        2-2: Nina
+      winner: 2-2
+    B:
+      3:
+        2-1: Darnell
+      4:
+        2-2: Penny
+      winner: Unplayed
+    C:
+      3:
+        2-1: Ling
+      4:
+        2-2: JhaoYi
+      winner: Unplayed
+  Table 3:
+    A:
+      5:
+        3-1: Iris
+      6:
+        3-2: Stephanie
+      winner: 3-2
+    B:
+      5:
+        3-1: Stella
+      6:
+        3-2: Mark
+      winner: Unplayed
+    C:
+      5:
+        3-1: Ada
+      6:
+        3-2: Yu-Wen
+      winner: None
+  Table 4:
+    A:
+      7:
+        4-1: YanSan
+      8:
+        4-2: Cindy
+      winner: 4-2
+    B:
+      7:
+        4-1: 羅以翔
+      8:
+        4-2: Danny
+      winner: Unplayed
+    C:
+      7:
+        4-1: Willy
+      8:
+        4-2: Cindy
+      winner: Unplayed
+  Table 924:
+    X:
+      winner: 2-2
+      x:
+        2-2: Penny
+      y:
+        4-1: Willy
+  Table 957:
+    X:
+      winner: 4-2
+      x:
+        4-2: Danny
+      y:
+        2-2: JhaoYi
+topic: garbageman
