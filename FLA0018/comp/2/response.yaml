@@ -1,0 +1,211 @@
+---
+free:
+  0:
+    biomom:
+      0:
+        V0041040:
+          point:
+            1: Fault on 2nd chance
+        V0041055:
+          point:
+            1: Nil
+    biodad:
+      0:
+        V0041040:
+          point:
+            1: Nil
+        V0041055:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        V0041040:
+          point:
+            1: Nil
+        V0041055:
+          point:
+            1: Nil
+  1:
+    biomom:
+      0:
+        V0041002:
+          point:
+            1: Returned
+        V0041012:
+          point:
+            1: Returned
+            2: Returned
+    biodad:
+      0:
+        V0041002:
+          point:
+            1: Returned
+            2: Returned
+        V0041012:
+          point:
+            1: Returned
+    emersonj:
+      0:
+        V0041002:
+          point:
+            1: Returned
+        V0041012:
+          point:
+            1: Returned
+  2:
+    biomom:
+      0:
+        U0043041:
+          point:
+            1: Returned
+            2: Unreturned
+        V0041033:
+          point:
+            1: Returned
+            2: Unreturned
+    biodad:
+      0:
+        U0043041:
+          point:
+            1: Returned
+        V0041033:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        U0043041:
+          point:
+            1: Nil
+        V0041033:
+          point:
+            1: Nil
+  3:
+    biomom:
+      0:
+        V0041007:
+          point:
+            1: Returned
+        V9941065:
+          point:
+            1: Old
+            2: Fault on 2nd chance
+    biodad:
+      0:
+        V0041007:
+          point:
+            1: Fault
+        V9941065:
+          point:
+            1: Fault
+    emersonj:
+      0:
+        V0041007:
+          point:
+            1: Returned
+        V9941065:
+          point:
+            1: Fault
+  4:
+    biomom:
+      0:
+        V0041049:
+          point:
+            1: Returned on 2nd chance
+        V0041058:
+          point:
+            1: Fault on 2nd chance
+    biodad:
+      0:
+        V0041049:
+          point:
+            1: Old
+            2: Returned
+        V0041058:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        V0041049:
+          point:
+            1: Nil
+        V0041058:
+          point:
+            1: Nil
+  5:
+    biomom:
+      0:
+        V0041052:
+          point:
+            1: Returned
+            2: Returned
+        V0041030:
+          point:
+            1: Returned
+            2: Returned
+    biodad:
+      0:
+        V0041052:
+          point:
+            1: Returned
+        V0041030:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        V0041052:
+          point:
+            1: Fault on 2nd chance
+        V0041030:
+          point:
+            1: Returned
+  6:
+    biomom:
+      0:
+        V0041038:
+          point:
+            1: Returned on 2nd chance
+        V0299140:
+          point:
+            1: Unreturned on 2nd chance
+    biodad:
+      0:
+        V0041038:
+          point:
+            1: Nil
+        V0299140:
+          point:
+            1: Nil
+    emersonj:
+      0:
+        V0041038:
+          point:
+            1: Unreturned
+        V0299140:
+          point:
+            1: Returned
+  7:
+    biomom:
+      0:
+        V0041046:
+          point:
+            1: Unreturned
+        V0041035:
+          point:
+            1: Old
+            2: Fault
+    biodad:
+      0:
+        V0041046:
+          point:
+            1: Unreturned
+        V0041035:
+          point:
+            1: Returned
+    emersonj:
+      0:
+        V0041046:
+          point:
+            1: Returned
+        V0041035:
+          point:
+            2: Nil

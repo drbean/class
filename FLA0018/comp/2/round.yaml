@@ -1,0 +1,71 @@
+---
+activity:
+  biomom:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  biodad:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  emersonj:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+assistant:
+  Black:
+    V0041017: 5
+    V0041044: 5
+    V0041009: 5
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: V0041040
+    Black: V0041055
+  1:
+    White: V0041002
+    Black: V0041012
+  2:
+    White: U0043041
+    Black: V0041033
+  3:
+    White: V0041007
+    Black: V9941065
+  4:
+    White: V0041049
+    Black: V0041058
+  5:
+    White: V0041052
+    Black: V0041030
+  6:
+    White: V0041038
+    Black: V0299140
+  7:
+    White: V0041046
+    Black: V0041035
+late:
+  - ~
+pairing: swiss
+payprotocol: meritPay 3
+round: 2
+text: /home/drbean/class/conversation/disability/cards.yaml
+week: 9
