@@ -1,0 +1,166 @@
+---
+free:
+  1:
+    trinka:
+      0:
+        V0041034:
+          point:
+            1: Old
+        V0041008:
+          point:
+            1: Returned on 2nd chance
+    bruno:
+      0:
+        V0041034:
+          point:
+            1: Returned on 2nd chance
+        V0041008:
+          point:
+            1: Returned
+  2:
+    trinka:
+      0:
+        V0041032:
+          point:
+            1: Fault on 2nd chance
+        V0041065:
+          point:
+            1: Returned
+            2: Fault on 2nd chance
+    bruno:
+      0:
+        V0041032:
+          point:
+            1: Returned
+        V0041065:
+          point:
+            1: Fault on 2nd chance
+  3:
+    trinka:
+      0:
+        V0041005:
+          point:
+            1: Returned on 2nd chance
+            2: Returned on 2nd chance
+        V0041057:
+          point:
+            1: Returned
+            2: Old
+    bruno:
+      0:
+        V0041005:
+          point:
+            1: Fault on 2nd chance
+        V0041057:
+          point:
+            1: Returned
+  4:
+    trinka:
+      0:
+        V0041045:
+          point:
+            1: Fault on 2nd chance
+        V0041047:
+          point:
+            1: Fault on 2nd chance
+    bruno:
+      0:
+        V0041045:
+          point:
+            1: Nil
+        V0041047:
+          point:
+            1: Nil
+  5:
+    trinka:
+      0:
+        V0041028:
+          point:
+            1: Returned
+            2: Old
+            3: Returned
+        V0041042:
+          point:
+            1: Fault on 2nd chance
+            2: Fault on 2nd chance
+    bruno:
+      0:
+        V0041028:
+          point:
+            1: Returned
+        V0041042:
+          point:
+            1: Returned
+  6:
+    trinka:
+      0:
+        V0041066:
+          point:
+            1: Returned
+        V0041010:
+          point:
+            1: Returned
+    bruno:
+      0:
+        V0041066:
+          point:
+            1: Returned
+        V0041010:
+          point:
+            1: Returned on 2nd chance
+  7:
+    trinka:
+      0:
+        V0041050:
+          point:
+            1: Returned
+            2: Returned
+        V0041015:
+          point:
+            1: Old
+            2: Fault on 2nd chance
+    bruno:
+      0:
+        V0041050:
+          point:
+            1: Nil
+        V0041015:
+          point:
+            1: Returned on 2nd chance
+  8:
+    trinka:
+      0:
+        V0041053:
+          point:
+            1: Fault on 2nd chance
+        V0041062:
+          point:
+            1: Returned
+    bruno:
+      0:
+        V0041053:
+          point:
+            1: Fault on 2nd chance
+            2: Returned
+        V0041062:
+          point:
+            1: Returned
+  9:
+    trinka:
+      0:
+        V0041039:
+          point:
+            1: Returned
+            2: Fault on 2nd chance
+        V0041019:
+          point:
+            1: Returned
+            2: Returned on 2nd chance
+    bruno:
+      0:
+        V0041039:
+          point:
+            1: Fault on 2nd chance
+        V0041019:
+          point:
+            1: Returned
