@@ -1,0 +1,65 @@
+---
+activity:
+  trinka:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+  bruno:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+assistant:
+  Black:
+    V0041036: 5
+    V9941028: 5
+    V0140142: 5
+dispensation:
+divisions:
+group:
+  1:
+    White: V0041034
+    Black: V0041008
+  2:
+    White: V0041032
+    Black: V0041065
+  3:
+    White: V0041005
+    Black: V0041057
+  4:
+    White: V0041045
+    Black: V0041047
+  5:
+    White: V0041028
+    Black: V0041042
+  6:
+    White: V0041066
+    Black: V0041010
+  7:
+    White: V0041050
+    Black: V0041015
+  8:
+    White: V0041053
+    Black: V0041062
+  9:
+    White: V0041039
+    Black: V0041019
+   
+pairing: grades.sorted.txt
+payprotocol: meritPay 3
+round: 4
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 18

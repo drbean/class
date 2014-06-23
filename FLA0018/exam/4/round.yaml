@@ -1,0 +1,55 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 6
+assistant:
+absent:
+  - Ling
+  - 羅以翔
+text: /home/drbean/class/conversation/work/cards.yaml
+activity:
+  trinka:
+    1:
+      - 1-2
+      - 3-2
+    2:
+      - 1-1
+      - 2-1
+      - 4-1
+  bruno:
+    2:
+      - 2-2
+    3:
+      - 3-1
+
+group:
+  1-1:
+    - May
+    - Alice
+    - Christy
+  1-2:
+    - Charles
+    - Charlie
+    - Sharon
+  2-1:
+    - I-Yun
+    - Darnell
+    - YanSan
+  2-2:
+    - Nina
+    - Penny
+    - JhaoYi
+  3-1:
+    - Iris
+    - Stella
+    - Ada
+  3-2:
+    - Stephanie
+    - Mark
+    - Yu-Wen
+  4-1:
+    - Willy
+    - Cindy
+    - Danny
