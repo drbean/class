@@ -4,6 +4,8 @@ cutpoints:
   two: ~
 exercise: bruno
 grade:
+  V0141042: 0
+
   U0043021: 1.84
   V0041001: 0
   V0041005: 0.8
