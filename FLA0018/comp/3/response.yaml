@@ -1,0 +1,229 @@
+---
+free:
+  1:
+    connell:
+      0:
+        V0041019:
+          point:
+            1: Nil
+        V0141042:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0041019:
+          point:
+            1: Returned
+        V0141042:
+          point:
+            1: Returned
+            2: Returned on 2nd chance
+    diaz:
+      0:
+        V0041019:
+          point:
+            1: Returned
+        V0141042:
+          point:
+            1: Nil
+  2:
+    connell:
+      0:
+        V0041047:
+          point:
+            1: Nil
+        V9941028:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0041047:
+          point:
+            1: Nil
+        V9941028:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0041047:
+          point:
+            1: Nil
+        V9941028:
+          point:
+            1: Nil
+  3:
+    connell:
+      0:
+        V0041065:
+          point:
+            1: Old
+        V0041039:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0041065:
+          point:
+            1: Nil
+        V0041039:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0041065:
+          point:
+            1: Returned on 2nd chance
+        V0041039:
+          point:
+            1: Returned on 2nd chance
+  4:
+    connell:
+      0:
+        V0041015:
+          point:
+            1: Returned
+        V0041042:
+          point:
+            1: Returned
+    spano:
+      0:
+        V0041015:
+          point:
+            1: Returned
+        V0041042:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0041015:
+          point:
+            1: Nil
+        V0041042:
+          point:
+            1: Nil
+  5:
+    connell:
+      0:
+        V0041062:
+          point:
+            1: Fault on 2nd chance
+            2: Returned
+        V0041036:
+          point:
+            1: Returned
+    spano:
+      0:
+        V0041062:
+          point:
+            1: Nil
+        V0041036:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0041062:
+          point:
+            1: Nil
+        V0041036:
+          point:
+            1: Nil
+  6:
+    connell:
+      0:
+        V0041057:
+          point:
+            1: Returned
+        U0043021:
+          point:
+            1: Fault on 2nd chance
+    spano:
+      0:
+        V0041057:
+          point:
+            1: Nil
+        U0043021:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0041057:
+          point:
+            1: Nil
+        U0043021:
+          point:
+            1: Nil
+  7:
+    connell:
+      0:
+        V0041008:
+          point:
+            1: Nil
+        V0041028:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0041008:
+          point:
+            1: Nil
+        V0041028:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0041008:
+          point:
+            1: Nil
+        V0041028:
+          point:
+            1: Nil
+  8:
+    connell:
+      0:
+        V0041010:
+          point:
+            1: Returned on 2nd chance
+        V0041053:
+          point:
+            1: Returned on 2nd chance
+    spano:
+      0:
+        V0041010:
+          point:
+            1: Nil
+        V0041053:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0041010:
+          point:
+            1: Nil
+        V0041053:
+          point:
+            1: Nil
+  9:
+    connell:
+      0:
+        V0041045:
+          point:
+            1: Returned on 2nd chance
+        V0041066:
+          point:
+            1: Returned on 2nd chance
+    spano:
+      0:
+        V0041045:
+          point:
+            1: Nil
+        V0041066:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0041045:
+          point:
+            1: Nil
+        V0041066:
+          point:
+            1: Nil
