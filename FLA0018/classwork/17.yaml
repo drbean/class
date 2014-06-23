@@ -1,128 +1,34 @@
 ---
-# topic: debates
-# nightmarket food, money on Mother's Day, public transport rather than car in city
-# Pei-Yun to Black, Leon to Brown
-# Black::Blue,Brown::Red,Orange::Pink
-# 
-# 2 3 2 3 2 3
+topic: bruno
 
-Black:
-  absent:
-  merits: 2
-Blue:
-  absent:
-  merits: 3
+1-1:
+	absent:
+	merits: 3
 
-Brown:
-  absent:
-  merits: 2
-Red:
-  absent:
-  merits: 3
+1-2:
+	absent:
+	merits: 2
 
-Purple:
-  absent:
-    - YaTing2
-  merits: 2
+2-1:
+	absent:
+	merits: 2
+2-2:
+	absent:
+	merits: 3
 
-Orange:
-  absent:
-  merits: 3
-Pink:
-  absent:
-  merits: 2
+3-1:
+	absent:
+	merits: 2
 
----
-# topic: debates
-# students should own cars, chocolate is good for health, being single is better than being married
-# Pei-Yun to Black, Leon to Brown
-# Orange::Brown,Black::Red,Blue::Pink
-# 
-# 3 2 2 3  2 3 
+3-2:
+	absent:
+	merits: 3
 
-Orange:
-  absent:
-  merits: 3
-Brown:
-  absent:
-  merits: 2
-
-Black:
-  absent:
-  merits: 2
-Red:
-  absent:
-  merits: 3
-
-Blue:
-  absent:
-  merits: 2
-Pink:
-  absent:
-  merits: 3
-
-Purple:
-  absent:
-    - YaTing2
-  merits: 2
-
----
-# topic: debates
-# should drink coffee everyday, should travel to Japan now, should not wear high heels
-# Yvonne to Purple, Judy to Brown 
-# Orange::Purple,Blue::Red,Brown::Pink
-# 
-# 2 3 3 2 2 3
-
-Black:
-  absent:
-  merits: 2.5
-
-Orange:
-  absent:
-  merits: 2
-Purple:
-  absent:
-    - YaTing2
-  merits: 3
-
-Blue:
-  absent:
-  merits: 3
-Red:
-  absent:
-  merits: 2
-
-Brown:
-  absent:
-  merits: 2
-Pink:
-  absent:
-  merits: 3
-
----
-# topic: debates
-# average of 3 rounds
-Black:
-  absent: ~
-  merits: 2.16666666666667
-Blue:
-  absent: ~
-  merits: 2.66666666666667
-Brown:
-  absent: ~
-  merits: 2
-Orange:
-  absent: ~
-  merits: 2.66666666666667
-Pink:
-  absent: ~
-  merits: 2.66666666666667
-Purple:
-  absent: 
-    - YaTing2
-  merits: 2.33333333333333
-Red:
-  absent: ~
-  merits: 2.66666666666667
+4-1:
+	absent:
+          - 羅以翔
+	merits: 2
+4-2:
+	absent:
+	merits: 3
 
