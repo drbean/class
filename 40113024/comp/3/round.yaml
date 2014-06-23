@@ -1,74 +1,60 @@
 ---
 activity:
-  connell:
+  trinka:
     0:
       - 1
       - 2
+      - 3
       - 4
       - 5
       - 6
       - 7
+      - 8
       - 9
-  warm:
-    0:
-      - 1
-      - 2
-      - 4
-      - 5
-      - 6
-      - 7
-      - 9
-  foreman:
-    0:
-      - 1
-      - 2
-      - 4
-      - 5
-      - 6
-      - 7
-      - 9
-  davist:
-    0:
-      - 1
-      - 2
-      - 4
-      - 5
-      - 6
-      - 7
-      - 9
+      - 10
+      - 11
 assistant:
-  Blue:
-    U0018046: 5
-    U9923120: 5
-bye: U0042041
+bye: 100405501
 dispensation: ~
 divisions: ~
 group:
   1:
-     White: U0043004
-     Black: U9943019
+    White: 100405413
+    Black: 101405311
   2:
-    White: U0122002
-    Black: U9943007
+    White: 100405440
+    Black: 100405507
+  3:
+    White: 100405540
+    Black: 100405514
   4:
-    White: U0222228
-    Black: U0042012
+    White: 100405444
+    Black: 100405437
   5:
-    White: U9923121
-    Black: U0043033
+    White: 100405545
+    Black: 100406866
   6:
-    White: U0042050
-    Black: U0018027
+    White: 102500005
+    Black: 100405531
   7:
-    White: U0043001
-    Black: U9917017
+    White: 100405508
+    Black: 100405432
+  8:
+    White: 100405402
+    Black: 100405408
   9:
-    White: U0017024
-    Black: K220155482
+    White: 100405509
+    Black: 100406867
+  10:
+    White: 100405529
+    Black: 100405411
+  11:
+    White: 100405541
+    Black: 100405401
 late:
-  - U0042041
+  - ~
 pairing: swiss
-payprotocol: meritPay 4
+payprotocol: meritPay
 round: 3
-text: /home/drbean/class/conversation/parents/cards.yaml
-week: 14
+text: ~
+week: ~
