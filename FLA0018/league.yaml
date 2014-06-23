@@ -4,6 +4,7 @@ active: ~
 anterior: 021FLA0007
 approach: GroupworkNoFault
 classMax: 3
+compcomp: comp
 examMax: 5
 exams: exam
 field: 英語會話(四)
@@ -130,11 +131,12 @@ member:
     name: Alice
     password: ya
     rating: ~
-out:
+out: []
 room: A705
 school: nuu
 session:
   3: 10
+  4: 14
 weights:
   classwork: 40
   exams: 20
