@@ -1,74 +1,124 @@
 ---
 activity:
-  connell:
+  trinka:
     0:
+      - 0
       - 1
       - 2
+      - 3
       - 4
       - 5
       - 6
       - 7
+      - 8
       - 9
-  warm:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+  bruno:
     0:
+      - 0
       - 1
       - 2
+      - 3
       - 4
       - 5
       - 6
       - 7
+      - 8
       - 9
-  foreman:
-    0:
-      - 1
-      - 2
-      - 4
-      - 5
-      - 6
-      - 7
-      - 9
-  davist:
-    0:
-      - 1
-      - 2
-      - 4
-      - 5
-      - 6
-      - 7
-      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
 assistant:
-  Blue:
-    U0018046: 5
-    U9923120: 5
-bye: U0042041
+  Black:
+    101405302: 4
+    101405349: 4
+    101405658: 4
+  Red:
+    101405401: 4
+    101405444: 4
+    101405304: 4
 dispensation: ~
 divisions: ~
 group:
+  0:
+    White: 101405406
+    Black: 101405410
   1:
-     White: U0043004
-     Black: U9943019
+    White: 99406128
+    Black: 101405311
   2:
-    White: U0122002
-    Black: U9943007
+    White: 101405317
+    Black: 102500016
+  3:
+    White: 101405354
+    Black: 100410915
   4:
-    White: U0222228
-    Black: U0042012
+    White: 101405351
+    Black: 101405332
   5:
-    White: U9923121
-    Black: U0043033
+    White: 100410260
+    Black: 101405447
   6:
-    White: U0042050
-    Black: U0018027
+    White: 101405324
+    Black: 101405408
   7:
-    White: U0043001
-    Black: U9917017
+    White: 101405415
+    Black: 101405435
+  8:
+    White: 101405343
+    Black: 101405423
   9:
-    White: U0017024
-    Black: K220155482
+    White: 101405334
+    Black: 101405417
+  10:
+    White: 101405407
+    Black: 101406960
+  11:
+    White: 100500262
+    Black: 101500124
+  12:
+    White: 101405411
+    Black: 101405321
+  13:
+    White: 101406961
+    Black: 101405307
+  14:
+    White: 101405419
+    Black: 101405315
+  15:
+    White: 101405405
+    Black: 101405316
+  16:
+    White: 99408213
+    Black: 101405308
+  17:
+    White: 101405352
+    Black: 101405301
+  18:
+    White: 101405414
+    Black: 101405341
+  19:
+    White: 101406962
+    Black: 99407073
 late:
-  - U0042041
+  - ~
 pairing: swiss
-payprotocol: meritPay 4
+payprotocol: meritPay 2
 round: 3
-text: /home/drbean/class/conversation/parents/cards.yaml
-week: 14
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 18

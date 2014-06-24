@@ -2,52 +2,111 @@
 round: Exam 4
 week: 18
 questions:
-  - 10
-pass: 5
+  - 3
+pass: 0
 assistant:
+  - Fernando
+  - Lawrence
+  - Tony1
+  - Samantha
 absent:
-  - Simon
-  - Yukin
-text: /home/drbean/class/conversation/poverty/cards.yaml
+  - Angela2
+  - Todd
+  - Julien
+  - Irene
+text: /home/drbean/class/conversation/work/cards.yaml
 activity:
-  salazar:
+  trinka:
     1:
-      - Blue
-      - Gray
-  rueda:
-    1:
-      - Orange
-  vanbeke:
-    1:
-      - Black
-      - Brown
+      - Chocolate
       - Green
+      - Purple
+    2:
+      - Black
+      - Charcoal
+      - Gray
+      - Pink
+      - Violet
+      - Yellow
+  bruno:
+    2:
+      - Brown
+      - Khaki
+      - White
+    3:
+      - Beige
+      - Blue
+      - Orange
+      - Red
+      - Silver
+
+
 group:
+  Beige:
+    - Gary
+    - Samantha
+    - Lawrence
   Black:
-    - Tracy
+    - Abby
+    - Jeff
     - Mia
-    - Gillian
   Blue:
-    - Luisa
-    - Rick
-    - Carolyn
+    - Fernando
+    - Cindy
+    - Larry1
   Brown:
-    - Danny
-    - Penny
-    - Li-Ting
+    - Fernando
+    - Tina
+    - Liz
+  Charcoal:
+    - Tony1
+    - Vivian
+    - Jack
+  Chocolate:
+    - Ariel
+    - Christina
+    - Jhaung
   Gray:
-    - KungHsing
-    - Amy
-    - Tiffany
+    - Tommy
+    - Angela1
+    - Elton
   Green:
-    - Angela
-    - Scotter
-    - Lance
+    - Monique
+    - Bella
+    - Kevin
+  Khaki:
+    - Tony2
+    - Larry2
+    - Jessie
   Orange:
-    - Dave
-    - Peggy
-    - Regina
-#  Yellow:
-#    - Tracy
-#    - Yukin
-#    - Angela
+    - Paul
+    - Alisa
+    - Bryan
+  Pink:
+    - Sharon
+    - Joy
+    - Zoe
+  Purple:
+    - Mark
+    - Lawrence
+    - Sara
+  Red:
+    - Sandy
+    - Lawrence
+    - Ann
+  Silver:
+    - Nina
+    - Rose
+    - Claire
+  Violet:
+    - Henry
+    - Tony1
+    - Shuai
+  White:
+    - Lucy
+    - Winnie
+    - Stanley
+  Yellow:
+    - Samantha
+    - Stephy
+    - Linda
