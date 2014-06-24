@@ -1,27 +1,246 @@
 ---
-# topic: davist, no debate
-
+Beige:
+  absent:
+    - Julien
+    - Angela2
+    - Henry
+  merits: 2.00
 Black:
   absent:
-    - Rick
-  merits: 3
-Gray:
-  absent:
-  merits: 3
-Orange:
-  absent:
-    - Amy
-  merits: 3
-Yellow:
-  absent:
-  merits: 3
+    - Gary
+  merits: 2.00
 Blue:
   absent:
-    - Chung-Wei
-  merits: 3
+    - Fernando
+  merits: 2.00
 Brown:
+  absent: ~
+  merits: 3.00
+Charcoal:
   absent:
-  merits: 3
+    - Tony2
+    - Samantha
+  merits: 2.33
+Chocolate:
+  absent:
+    - Jhaung
+    - Paul
+  merits: 2.00
+Gray:
+  absent: ~
+  merits: 2.67
 Green:
   absent:
-  merits: 3
+    - Sharon
+  merits: 2.67
+Khaki:
+  absent: ~
+  merits: 2.67
+Orange:
+  absent:
+    - Alisa
+  merits: 2.33
+Pink:
+  absent:
+    - Lawrence
+  merits: 2.67
+Purple:
+  absent:
+    - Lucy
+  merits: 2.00
+Red:
+  absent:
+    - Tony1
+  merits: 2.00
+Silver:
+  absent:
+    - Todd
+    - Ann
+  merits: 2.33
+Violet:
+  absent: ~
+  merits: 2.67
+White:
+  absent:
+    - Mia
+  merits: 2.33
+Yellow:
+  absent:
+    - Ariel
+    - Larry2
+  merits: 2.00
+report:
+  Table 1:
+    A:
+      1:
+        Green: Sharon
+      2:
+        Black: Gary
+      winner: Unplayed
+    B:
+      1:
+        Green: Sara
+      2:
+        Black: Zoe
+      winner: Green
+    C:
+      1:
+        Green: Vivian
+      2:
+        Black: Jeff
+      winner: Green
+  Table 2:
+    A:
+      3:
+        Blue: Mark
+      4:
+        Brown: Winnie
+      winner: Brown
+    B:
+      3:
+        Blue: Monique
+      4:
+        Brown: Cindy
+      winner: Brown
+    C:
+      3:
+        Blue: Fernando
+      4:
+        Brown: Winnie
+      winner: Unplayed
+  Table 3:
+    A:
+      5:
+        Gray: Tommy
+      6:
+        Khaki: Liz
+      winner: Khaki
+    B:
+      5:
+        Gray: Bella
+      6:
+        Khaki: Shuai
+      winner: Unplayed
+    C:
+      5:
+        Gray: Stanley
+      6:
+        Khaki: Bryan
+      winner: Gray
+  Table 4:
+    A:
+      7:
+        Chocolate: Jhaung
+      8:
+        Charcoal: Tony2
+      winner: Unplayed
+    B:
+      7:
+        Chocolate: Paul
+      8:
+        Charcoal: Samantha
+      winner: Unplayed
+    C:
+      7:
+        Chocolate: Kevin
+      8:
+        Charcoal: Elton
+      winner: Charcoal
+  Table 5:
+    A:
+      10:
+        Orange: Alisa
+      9:
+        White: Angela1
+      winner: Unplayed
+    B:
+      10:
+        Orange: Sandy
+      9:
+        White: Mia
+      winner: Unplayed
+    C:
+      10:
+        Orange: Nina
+      9:
+        White: Joy
+      winner: Orange
+  Table 6:
+    A:
+      11:
+        Pink: Lawrence
+      12:
+        Purple: Lucy
+      winner: Unplayed
+    B:
+      11:
+        Pink: Christina
+      12:
+        Purple: Irene
+      winner: Pink
+    C:
+      11:
+        Pink: Claire
+      12:
+        Purple: Jessie
+      winner: Pink
+  Table 7:
+    A:
+      13:
+        Red: Abby
+      14:
+        Violet: Larry1
+      winner: Violet
+    B:
+      13:
+        Red: Tony1
+      14:
+        Violet: Linda
+      winner: Unplayed
+    C:
+      13:
+        Red: Tina
+      14:
+        Violet: Jack
+      winner: Violet
+  Table 8:
+    A:
+      15:
+        Silver: Todd
+      16:
+        Yellow: Ariel
+      winner: Unplayed
+    B:
+      15:
+        Silver: Ann
+      16:
+        Yellow: Larry2
+      winner: Unplayed
+    C:
+      15:
+        Silver: Rose
+      16:
+        Yellow: Stephy
+      winner: Silver
+  Table 9105:
+    X:
+      winner: White
+      x:
+        White: Angela1
+      y:
+        Orange: Sandy
+  Table 926:
+    X:
+      winner: Khaki
+      x:
+        Khaki: Shuai
+      y:
+        Khaki: Shuai
+  Table 971:
+    X:
+      winner: Gray
+      x:
+        Violet: Linda
+      y:
+        Gray: Bella
+topic: cindy dictation
