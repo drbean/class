@@ -1,39 +1,105 @@
 ---
 Chinese:
+  Beige: 0
   Black: 0
   Blue: 0
   Brown: 0
+  Charcoal: 0
+  Chocolate: 0
   Gray: 0
   Green: 0
+  Khaki: 0
   Orange: 0
+  Pink: 0
+  Purple: 0
+  Red: 0
+  Silver: 0
+  Violet: 0
+  White: 0
+  Yellow: 0
 letters:
+  Beige:
+    100410915: 1
+    100410260: 1
+    99406128: 1
+    story: bruno3
   Black:
-    U0018027: 9
-    U0043004: 10
-    U0122002: 9
-    story: vanbeke1
+    101405302: 3
+    101405349: 3
+    101405658: 3
+    story: trinka2
   Blue:
-    U9943019: 7
-    U0017024: 9
-    U9943007: 7
-    story: salazar1
+    101405341: 0
+    101405414: 0
+    101405354: 0
+    story: bruno3
   Brown:
-    U0042012: 7
-    U9923121: 7
-    U0222228: 6
-    story: vanbeke1
+    101405341: 3
+    101405406: 3
+    101405352: 1
+    story: bruno2
+  Charcoal:
+    101405351: 1
+    101405324: 1
+    101405419: 1
+    story: trinka2
+  Chocolate:
+    101405321: 0
+    101405308: 0
+    101405423: 0
+    story: trinka1
   Gray:
-    U0042041: 9
-    U0042050: 9
-    U0043001: 8
-    story: salazar1
+    101405307: 0
+    101405301: 0
+    101406961: 0
+    story: trinka2
   Green:
-    K220155482: 9
-    U9917017: 8
-    U9923120: 9
-    story: vanbeke1
+    101405408: 1
+    101405315: 1
+    101405447: 1
+    story: trinka1
+  Khaki:
+    99408213: 0
+    101405417: 0
+    101405405: 0
+    story: bruno2
   Orange:
-    U0222133: 5
-    U0043033: 5
-    U0018046: 9
-    story: rueda1
+    101406962: 3
+    101405435: 3
+    101405407: 3
+    story: bruno3
+  Pink:
+    101405317: 1
+    101405411: 1
+    101405343: 1
+    story: trinka2
+  Purple:
+    101405410: 0
+    99406128: 0
+    101405311: 0
+    story: trinka1
+  Red:
+    101405401: 1
+    99406128: 1
+    101405304: 1
+    story: bruno3
+  Silver:
+    101405444: 1
+    101405334: 1
+    101406960: 1
+    story: bruno3
+  Violet:
+    101405332: 1
+    101405351: 1
+    100500262: 2
+    story: trinka2
+  White:
+    99407073: 3
+    102500016: 3
+    101405316: 3
+    story: bruno2
+  Yellow:
+    100410260: 3
+    101500124: 3
+    101405415: 3
+    story: trinka2
