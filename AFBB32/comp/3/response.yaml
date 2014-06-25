@@ -1,466 +1,414 @@
 ---
 free:
-  0:
-    connell:
-      0:
-        N00200042:
-          point:
-            1: Unreturned
-        N00200037:
-          point:
-            1: Nil
-    warm:
-      0:
-        N00200042:
-          point:
-            1: Returned
-        N00200037:
-          point:
-            1: Nil
-    foreman:
-      0:
-        N00200042:
-          point:
-            1: Nil
-        N00200037:
-          point:
-            1: Returned
-    davist:
-      0:
-        N00200042:
-          point:
-            1: Nil
-        N00200037:
-          point:
-            1: Nil
   1:
-    connell:
+    trinka:
       0:
-        N00120056:
+        B01200024:
           point:
             1: Fault
-        N02203102:
+        B01200045:
           point:
-            1: Fault
-    warm:
+            1: Nil
+    bruno:
       0:
-        N00120056:
+        B01200024:
           point:
             1: Nil
-        N02203102:
+        B01200045:
           point:
-            1: Nil
-    foreman:
-      0:
-        N00120056:
-          point:
-            1: Nil
-        N02203102:
-          point:
-            1: Nil
-    davist:
-      0:
-        N00120056:
-          point:
-            1: Nil
-        N02203102:
-          point:
-            1: Nil
+            1: Returned
   2:
-    connell:
+    trinka:
       0:
-        N01202103:
+        B01200075:
           point:
-            1: Nil
-        N00200008:
+            1: Returned on 2nd chance
+        B01200063:
           point:
-            1: Nil
-    warm:
+            1: Returned on 2nd chance
+    bruno:
       0:
-        N01202103:
+        B01200075:
           point:
-            1: Nil
-        N00200008:
-          point:
-            1: Nil
-    foreman:
-      0:
-        N01202103:
-          point:
-            1: Returned
-        N00200008:
-          point:
-            1: Returned
-    davist:
-      0:
-        N01202103:
-          point:
-            1: Returned
-        N00200008:
-          point:
-            1: Returned
-  3:
-    connell:
-      0:
-        N00200007:
-          point:
-            1: Returned
-        N00200044:
+            1: Fault
+        B01200063:
           point:
             1: Old
-    warm:
+  3:
+    trinka:
       0:
-        N00200007:
+        B01200032:
+          point:
+            1: Returned on 2nd chance
+        B01200085:
           point:
             1: Nil
-        N00200044:
+    bruno:
+      0:
+        B01200032:
+          point:
+            1: Nil
+        B01200085:
           point:
             1: Returned
-    foreman:
-      0:
-        N00200007:
-          point:
-            1: Nil
-        N00200044:
-          point:
-            1: Nil
-    davist:
-      0:
-        N00200007:
-          point:
-            1: Nil
-        N00200044:
-          point:
-            1: Nil
   4:
-    connell:
+    trinka:
       0:
-        N00200017:
+        B01200101:
           point:
-            1: Returned
-        N00200022:
+            1: Returned on 2nd chance
+        B01200057:
           point:
-            1: Returned
-    warm:
+            1: Fault on 2nd chance
+    bruno:
       0:
-        N00200017:
-          point:
-            1: Returned
-        N00200022:
-          point:
-            1: Fault
-    foreman:
-      0:
-        N00200017:
+        B01200101:
           point:
             1: Nil
-        N00200022:
-          point:
-            1: Nil
-    davist:
-      0:
-        N00200017:
-          point:
-            1: Nil
-        N00200022:
+        B01200057:
           point:
             1: Nil
   5:
-    connell:
+    trinka:
       0:
-        N00200025:
-          point:
-            1: Fault
-        N99030025:
-          point:
-            1: Nil
-    warm:
-      0:
-        N00200025:
-          point:
-            1: Fault
-        N99030025:
+        B01200003:
           point:
             1: Returned
-    foreman:
-      0:
-        N00200025:
+        B01200018:
           point:
             1: Returned
-        N99030025:
-          point:
-            1: Old
-    davist:
+    bruno:
       0:
-        N00200025:
+        B01200003:
           point:
             1: Nil
-        N99030025:
+        B01200018:
           point:
             1: Nil
   6:
-    connell:
+    trinka:
       0:
-        N00200006:
+        B01200053:
           point:
-            1: Fault
-        N00200048:
-          point:
-            1: Fault
-    warm:
-      0:
-        N00200006:
-          point:
-            1: Fault
-        N00200048:
-          point:
-            1: Returned
-    foreman:
-      0:
-        N00200006:
-          point:
-            1: Nil
-        N00200048:
-          point:
-            1: Nil
-    davist:
-      0:
-        N00200006:
-          point:
-            1: Nil
-        N00200048:
-          point:
-            1: Nil
-  7:
-    connell:
-      0:
-        N01202001:
-          point:
-            1: Old
+            1: Returned on 2nd chance
             2: Fault
-        N00200055:
-          point:
-            1: Old
-    warm:
-      0:
-        N01202001:
-          point:
-            1: Old
-            2: Returned
-        N00200055:
-          point:
-            1: Returned
-    foreman:
-      0:
-        N01202001:
+        B02202106:
           point:
             1: Nil
-        N00200055:
-          point:
-            1: Nil
-    davist:
+    bruno:
       0:
-        N01202001:
+        B01200053:
           point:
             1: Nil
-        N00200055:
+        B02202106:
           point:
             1: Fault
-  8:
-    connell:
+  7:
+    trinka:
       0:
-        N00200015:
+        B98200021:
+          point:
+            1: Fault on 2nd chance
+        B01200069:
+          point:
+            1: Nil
+    bruno:
+      0:
+        B98200021:
+          point:
+            1: Nil
+        B01200069:
           point:
             1: Returned
-        N00200043:
-          point:
-            1: Returned
-    warm:
-      0:
-        N00200015:
-          point:
-            1: Fault
-        N00200043:
-          point:
-            1: Nil
-    foreman:
-      0:
-        N00200015:
-          point:
-            1: Nil
-        N00200043:
-          point:
-            1: Nil
-    davist:
-      0:
-        N00200015:
-          point:
-            1: Nil
-        N00200043:
-          point:
-            1: Nil
   9:
-    connell:
+    trinka:
       0:
-        N01202004:
+        B02202101:
           point:
             1: Returned
-        N00200030:
+        B01200095:
           point:
             1: Returned
-    warm:
+    bruno:
       0:
-        N01202004:
-          point:
-            1: Returned
-        N00200030:
-          point:
-            1: Returned
-    foreman:
-      0:
-        N01202004:
+        B02202101:
           point:
             1: Nil
-        N00200030:
-          point:
-            1: Nil
-    davist:
-      0:
-        N01202004:
-          point:
-            1: Nil
-        N00200030:
+        B01200095:
           point:
             1: Nil
   10:
-    connell:
+    trinka:
       0:
-        N00202103:
+        B99100040:
           point:
             1: Returned
-        N00200029:
+        B01200073:
           point:
             1: Returned
-    warm:
+    bruno:
       0:
-        N00202103:
+        B99100040:
+          point:
+            1: Returned on 2nd chance
+        B01200073:
           point:
             1: Returned
-        N00200029:
-          point:
-            1: Fault
-    foreman:
-      0:
-        N00202103:
-          point:
-            1: Nil
-        N00200029:
-          point:
-            1: Nil
-    davist:
-      0:
-        N00202103:
-          point:
-            1: Nil
-        N00200029:
-          point:
-            1: Nil
   11:
-    connell:
+    trinka:
       0:
-        N00200014:
-          point:
-            1: Nil
-        N00200056:
-          point:
-            1: Nil
-    warm:
-      0:
-        N00200014:
-          point:
-            1: Nil
-        N00200056:
-          point:
-            1: Nil
-    foreman:
-      0:
-        N00200014:
-          point:
-            1: Nil
-        N00200056:
-          point:
-            1: Nil
-    davist:
-      0:
-        N00200014:
+        B01200008:
           point:
             1: Returned
-        N00200056:
+        B01200036:
+          point:
+            1: Returned on 2nd chance
+    bruno:
+      0:
+        B01200008:
           point:
             1: Returned
-  12:
-    connell:
-      0:
-        N00200036:
-          point:
-            1: Fault
-        N01202105:
+        B01200036:
           point:
             1: Returned
-    warm:
-      0:
-        N00200036:
-          point:
-            1: Nil
-        N01202105:
-          point:
-            1: Nil
-    foreman:
-      0:
-        N00200036:
-          point:
-            1: Nil
-        N01202105:
-          point:
-            1: Nil
-    davist:
-      0:
-        N00200036:
-          point:
-            1: Nil
-        N01202105:
-          point:
-            1: Nil
   13:
-    connell:
+    trinka:
       0:
-        N00200045:
+        B01200020:
           point:
-            1: Returned
-        N00200009:
+            1: Fault on 2nd chance
+        B01200081:
+          point:
+            1: Old
+            2: Fault
+    bruno:
+      0:
+        B01200020:
           point:
             1: Fault
-    warm:
+        B01200081:
+          point:
+            1: Returned
+  14:
+    trinka:
       0:
-        N00200045:
+        B00170085:
           point:
-            1: Nil
-        N00200009:
+            1: Old
+            2: Returned
+        B01200022:
           point:
-            1: Nil
-    foreman:
+            1: Returned
+    bruno:
       0:
-        N00200045:
+        B00170085:
           point:
-            1: Nil
-        N00200009:
+            1: Fault on 2nd chance
+        B01200022:
           point:
-            1: Nil
-    davist:
+            1: Returned
+  15:
+    trinka:
       0:
-        N00200045:
+        B01200083:
+          point:
+            1: Fault on 2nd chance
+        B01200107:
+          point:
+            1: Returned on 2nd chance
+    bruno:
+      0:
+        B01200083:
+          point:
+            1: Returned
+        B01200107:
+          point:
+            1: Returned on 2nd chance
+  16:
+    trinka:
+      0:
+        B01200071:
+          point:
+            1: Returned on 2nd chance
+        B01200055:
+          point:
+            1: Returned
+    bruno:
+      0:
+        B01200071:
           point:
             1: Nil
-        N00200009:
+        B01200055:
+          point:
+            1: Nil
+  17:
+    trinka:
+      0:
+        B01200001:
+          point:
+            1: Fault on 2nd chance
+        B01200026:
+          point:
+            1: Unreturned on 2nd chance
+    bruno:
+      0:
+        B01200001:
+          point:
+            1: Returned
+        B01200026:
+          point:
+            1: Returned
+  18:
+    trinka:
+      0:
+        B01200089:
+          point:
+            1: Fault on 2nd chance
+        B01200034:
+          point:
+            1: Returned on 2nd chance
+    bruno:
+      0:
+        B01200089:
+          point:
+            1: Unreturned
+        B01200034:
+          point:
+            1: Returned
+  19:
+    trinka:
+      0:
+        B01200038:
+          point:
+            1: Nil
+        B01200051:
+          point:
+            1: Nil
+    bruno:
+      0:
+        B01200038:
+          point:
+            1: Returned on 2nd chance
+        B01200051:
+          point:
+            1: Returned
+  20:
+    trinka:
+      0:
+        B01200059:
+          point:
+            1: Returned
+            2: Fault on 2nd chance
+        B01200040:
+          point:
+            1: Fault
+    bruno:
+      0:
+        B01200059:
+          point:
+            1: Nil
+        B01200040:
+          point:
+            1: Returned
+  21:
+    trinka:
+      0:
+        B01200097:
+          point:
+            1: Nil
+        B01200014:
+          point:
+            1: Old
+    bruno:
+      0:
+        B01200097:
+          point:
+            1: Returned
+        B01200014:
+          point:
+            1: Fault on 2nd chance
+  22:
+    trinka:
+      0:
+        B01200093:
+          point:
+            1: Fault on 2nd chance
+        B01200047:
+          point:
+            1: Nil
+    bruno:
+      0:
+        B01200093:
+          point:
+            1: Nil
+        B01200047:
+          point:
+            1: Returned
+  23:
+    trinka:
+      0:
+        B01200061:
+          point:
+            1: Fault on 2nd chance
+        B99110055:
+          point:
+            1: Returned
+    bruno:
+      0:
+        B01200061:
+          point:
+            1: Returned
+        B99110055:
+          point:
+            1: Fault
+  24:
+    trinka:
+      0:
+        B01200006:
+          point:
+            1: Returned
+        B01200113:
+          point:
+            1: Nil
+    bruno:
+      0:
+        B01200006:
+          point:
+            1: Nil
+        B01200113:
+          point:
+            1: Fault
+  25:
+    trinka:
+      0:
+        B01200103:
+          point:
+            1: Returned
+        B01200077:
+          point:
+            1: Returned
+    bruno:
+      0:
+        B01200103:
+          point:
+            1: Nil
+        B01200077:
+          point:
+            1: Nil
+  26:
+    trinka:
+      0:
+        B01200115:
+          point:
+            1: Nil
+        B01200049:
+          point:
+            1: Nil
+    bruno:
+      0:
+        B01200115:
+          point:
+            1: Nil
+        B01200049:
           point:
             1: Nil
