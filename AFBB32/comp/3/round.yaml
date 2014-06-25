@@ -1,8 +1,7 @@
 ---
 activity:
-  connell:
+  trinka:
     0:
-      - 0
       - 1
       - 2
       - 3
@@ -10,15 +9,26 @@ activity:
       - 5
       - 6
       - 7
-      - 8
       - 9
       - 10
       - 11
-      - 12
       - 13
-  warm:
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+      - 24
+      - 25
+      - 26
+
+  bruno:
     0:
-      - 0
       - 1
       - 2
       - 3
@@ -26,107 +36,132 @@ activity:
       - 5
       - 6
       - 7
-      - 8
       - 9
       - 10
       - 11
-      - 12
       - 13
-  foreman:
-    0:
-      - 0
-      - 1
-      - 2
-      - 4
-      - 3
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
-  davist:
-    0:
-      - 0
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - 11
-      - 12
-      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+      - 22
+      - 23
+      - 24
+      - 25
+      - 26
+
+# bye: B01200024
 assistant:
-  Orange:
-    N00200034: 4
-    N00200054: 3
-    N00200001: 4
-# bye: N00200042
+  Black:
+    B01200067: 4
+  Charcoal:
+    B01200028: 4
+  Yellow:
+    B02202104: 4
+  Green:
+    B01200002: 5
+    B01200016: 5
+    B01200030: 5
+  Golden:
+    B01200016: 5
+    B01200042: 5
+    B01200065: 5
+
 dispensation: ~
 divisions: ~
 group:
-  0:
-    White: N00200042
-    Black: N00200037
-
   1:
-    White: N00120056
-    Black: N02203102
+    White: B01200024
+    Black: B01200045
   2:
-    White: N01202103
-    Black: N00200008
+    White: B01200075
+    Black: B01200063
   3:
-    White: N00200007
-    Black: N00200044
+    White: B01200032
+    Black: B01200085
   4:
-    White: N00200017
-    Black: N00200022
+    White: B01200101
+    Black: B01200057
   5:
-    White: N00200025
-    Black: N99030025
+    White: B01200003
+    Black: B01200018
   6:
-    White: N00200006
-    Black: N00200048
+    White: B01200053
+    Black: B02202106
   7:
-    White: N01202001
-    Black: N00200055
-  8:
-    White: N00200015
-    Black: N00200043
+    White: B98200021
+    Black: B01200069
+  #8:
+  #  White: B01200115
+  #  Black: B01200097
   9:
-    White: N01202004
-    Black: N00200030
+    White: B02202101
+    Black: B01200095
   10:
-    White: N00202103
-    Black: N00200029
+    White: B99100040
+    Black: B01200073
   11:
-     White: N00200014
-     Black: N00200056
-  12:
-     White: N00200036
-     Black: N01202105
+    White: B01200008
+    Black: B01200036
+  #12:
+  #  White: B01200045
+  #  Black: B02202104
   13:
-     White: N00200045
-     Black: N00200009
+    White: B01200020
+    Black: B01200081
+  14:
+    White: B00170085
+    Black: B01200022
+  15:
+    White: B01200083
+    Black: B01200107
+  16:
+    White: B01200071
+    Black: B01200055
+  17:
+    White: B01200001
+    Black: B01200026
+  18:
+    White: B01200089
+    Black: B01200034
+  19:
+    White: B01200038
+    Black: B01200051
+  20:
+    White: B01200059
+    Black: B01200040
+  21:
+    # White: B01200028
+    White: B01200097
+    Black: B01200014
+  22:
+    White: B01200093
+    Black: B01200047
+  23:
+    White: B01200061
+    Black: B99110055
+  24:
+    White: B01200006
+    Black: B01200113
+  25:
+    White: B01200103
+    Black: B01200077
+  26:
+    White: B01200115
+    Black: B01200049
+  
+  
+  
   
 late:
-  - N00200037
-  - N00200014
-  - N00200056
-  - N00200036
-  - N01202105
-  - N00200045
-  - N00200009
-pairing: swiss
+  - B01200115
+  - B01200049
+pairing: swiss adjusted
 payprotocol: meritPay 2
-round: 2
-text: /home/drbean/class/conversation/disability/cards.yaml
-week: 14
+round: 3
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 18

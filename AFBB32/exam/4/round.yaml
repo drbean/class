@@ -3,85 +3,129 @@ round: Exam 4
 week: 18
 questions:
   - 10
-pass: 5
+pass: 6
 assistant:
-  - Carlos
+  - Sean
+  - Eric
+  - Allen
+  - Claire
+  - Wenny
 absent:
-  - Peggy
-  - Emily
-text: /home/drbean/class/conversation/poverty/cards.yaml
+  - Riccia
+text: /home/drbean/class/conversation/work/cards.yaml
 activity:
-  salazar:
+  trinka:
     1:
+      - Betty
       - Blue
-      - Khaki
+      - Charcoal
+      - Green
       - Pink
       - Purple
-  rueda:
-    1:
+      - Window
+    2:
       - Brown
-      - Charcoal
       - Chocolate
-      - Orange
+      - Golden
+      - Gray
       - Red
       - Yellow
-  vanbeke:
-    1:
+  bruno:
+    2:
       - Black
-      - Gray
-      - Green
+      - Khaki
+      - Turquoise
+      - Violet
+    3:
+      - Beige
+      - Orange
+      - Silver
+      - White
+
+
+
 group:
-  Black:
-    - Don
-    - Vicky
-    - Dave
-  Blue:
-    - Ally
-    - Champion
-    - Teresa
-  Brown:
-    - Mei
-    - Carol
-    - Eva
-  Charcoal:
-    - Yuki
-    - Kelly1
-    - Carlos
-  Chocolate:
-    - Carlos
-    - Shane
-    - Sally
-  Gray:
-    - Katie
-    - MiuMiu
-    - Selena
-  Green:
-    - Cindy
-    - Denise
+  Betty:
     - Betty
-  Khaki:
-    - Jeff
-    - Alex
-    - Louie
-  Orange:
-    - Neo
-    - Dora
-    - James
-  Pink:
-    - Tina
-    - Andy
-    - Neil
-  Purple:
-    - Candy
-    - Ben
-    - Joan
-  Red:
-    - Fion
-    - Mindy
-    - Lanna
-  #White:
-  #  - Katie
-  Yellow:
+    - Claire
+    - Wenny
+  Beige:
+    - Josh
+    - Della
+    - Alina
+  Black:
+    - Jane
+    - Wenny
+    - Judy
+  Blue:
+    - Emma
+    - Momo
+    - Claire
+  Brown:
+    - Sean
+    - Eric
     - Allen
-    - Jerry
-    - Bunny
+  Charcoal:
+    - Hola
+    - Vicky1
+    - Eric
+  Chocolate:
+    - Eileen
+    - Jasmine
+    - Jason
+  Golden:
+    - Rita
+    - Jessie
+    - Nancy
+  Gray:
+    - Nicole
+    - Tammy
+    - Cora
+  Green:
+    - Wayne
+    - Scott
+    - Hedy
+  Khaki:
+    - Hannah
+    - Ruby
+    - Ellen
+  Orange:
+    - Roc
+    - Joe
+    - Chloe
+  Pink:
+    - Caroline
+    - Eva
+    - Cindy
+  Purple:
+    - Phoebe
+    - Pancy
+    - Christy
+  Red:
+    - Lorry
+    - Rosa
+    - Ashley
+  Silver:
+    - Peggy
+    - Jean
+    - Sandy
+  Turquoise:
+    - Zarita
+    - Sarah
+    - Winnie
+  Violet:
+    - Charlene
+    - Alicia
+    - Abby
+  White:
+    - Luke
+    - Linda
+    - Sean
+  Window:
+    - Will
+    - Vicky2
+    - Dona
+  Yellow:
+    - Ennis
+    - Penny
+    - Allen

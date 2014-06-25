@@ -1,10 +1,13 @@
 ---
 Chinese:
+  Beige: 0
+  Betty: 0
   Black: 0
   Blue: 0
   Brown: 0
   Charcoal: 0
   Chocolate: 0
+  Golden: 0
   Gray: 0
   Green: 0
   Khaki: 0
@@ -12,70 +15,115 @@ Chinese:
   Pink: 0
   Purple: 0
   Red: 0
+  Silver: 0
+  Turquoise: 0
+  Violet: 0
+  White: 0
+  Window: 0
   Yellow: 0
 letters:
+  Beige:
+    B02202106: 7
+    B01200113: 6
+    B01200047: 7
+    story: bruno3
+  Betty:
+    B99200063: 9
+    B01200032: 9
+    B02202104: 10
+    story: trinka1
   Black:
-    N99030025: 10
-    N00200029: 10
-    N00200030: 10
-    story: vanbeke1
+    B01200028: 9
+    B02202104: 9
+    B01200067: 9
+    story: bruno2
   Blue:
-    N00120056: 10
-    N00200036: 10
-    N00200015: 10
-    story: salazar1
+    B99110055: 3
+    B01200103: 2
+    B01200032: 5
+    story: trinka1
   Brown:
-    N00200048: 3
-    N00200037: 3
-    N01202001: 3
-    story: rueda1
+    B01200115: 5
+    B01200014: 10
+    B00170085: 7
+    story: trinka2
   Charcoal:
-    N00200045: 10
-    N00200042: 10
-    N00200001: 10
-    story: rueda1
+    B01200085: 9
+    B01200038: 9
+    B01200014: 9
+    story: trinka1
   Chocolate:
-    N00200001: 10
-    N00200055: 10
-    N00200022: 10
-    story: rueda1
+    B02202101: 8
+    B01200057: 8
+    B01200003: 8
+    story: trinka2
+  Golden:
+    B00200016: 9
+    B01200042: 9
+    B01200065: 9
+    story: trinka2
   Gray:
-    N00200043: 6
-    N00200008: 8
-    N00200006: 8
-    story: vanbeke1
+    B01200093: 8
+    B01200095: 9
+    B01200051: 9
+    story: trinka2
   Green:
-    N00200031: 10
-    N00200009: 10
-    N00202103: 9
-    story: vanbeke1
+    B01200002: 6
+    B01200016: 6
+    B01200030: 6
+    story: trinka1
   Khaki:
-    N01202103: 10
-    N00200054: 10
-    N01202004: 10
-    story: salazar1
+    B01200022: 9
+    B01200069: 8
+    B01200097: 7
+    story: bruno2
   Orange:
-    N98200021: 10
-    N00200032: 10
-    N02203102: 10
-    story: rueda1
+    B01200024: 6
+    B01200001: 5
+    B01200053: 4
+    story: bruno3
   Pink:
-    N00200010: 8
-    N00200017: 8
-    N00200025: 8
-    story: salazar1
+    B01200101: 8
+    B01200008: 9
+    B01200026: 9
+    story: trinka1
   Purple:
-    N01202002: 7
-    N00200003: 7
-    N00200007: 7
-    story: salazar1
+    B99100040: 10
+    B01200055: 10
+    B01200059: 8
+    story: trinka1
   Red:
-    N00200034: 7
-    N00200056: 7
-    N00200044: 7
-    story: rueda1
+    B01200036: 8
+    B01200006: 8
+    B01200034: 8
+    story: trinka2
+  Silver:
+    B01200045: 6
+    B01200075: 6
+    B01200071: 6
+    story: bruno3
+  Turquoise:
+    B01200040: 10
+    B01200073: 10
+    B01200077: 10
+    story: bruno2
+  Violet:
+    B01200020: 9
+    B01200089: 9
+    B01200083: 9
+    story: bruno2
+  White:
+    B98200021: 9
+    B01200049: 9
+    B01200115: 9
+    story: bruno3
+  Window:
+    B01200061: 10
+    B01200081: 10
+    B01200018: 10
+    story: trinka1
   Yellow:
-    N01202105: 7
-    N99030033: 8
-    N00200014: 7
-    story: rueda1
+    B01200107: 9
+    B01200063: 9
+    B00170085: 9
+    story: trinka2
