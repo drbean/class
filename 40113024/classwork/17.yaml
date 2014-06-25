@@ -1,31 +1,182 @@
 ---
-# topic: vanbeke
-
-Gray:
-  absent:
-  merits: 3
-Blue:
-  absent:
-  merits: 3
-
-Yellow:
-  absent:
-    - Yukin
-  merits: 3
-Green:
-  absent:
-    - Simon
-  merits: 3
-
-Orange:
-  absent:
-  merits: 3
-Brown:
-  absent:
-  merits: 3
-
 Black:
   absent:
-    - ChungWei
-  merits: 3
-
+    - WeiPing
+  merits: 2.00
+Blue:
+  absent:
+    - JingJia
+  merits: 2.00
+Brown:
+  absent:
+    - Martin
+    - Tina
+  merits: 2.00
+Charcoal:
+  absent: ~
+  merits: 2.67
+Chocolate:
+  absent:
+    - KiRu
+  merits: 2.00
+Green:
+  absent: ~
+  merits: 2.67
+Orange:
+  absent: ~
+  merits: 2.67
+Pink:
+  absent:
+    - YuChing
+  merits: 2.00
+Purple:
+  absent: ~
+  merits: 3.00
+Silver:
+  absent:
+    - Liu
+  merits: 2.50
+White:
+  absent: ~
+  merits: 2.33
+Yellow:
+  absent:
+    - Sherry
+  merits: 2.67
+report:
+  Table 1:
+    A:
+      1:
+        Green: Chris
+      2:
+        Black: HsuanLing
+      winner: Green
+    B:
+      1:
+        Green: Claire
+      2:
+        Black: RoHang
+      winner: Green
+    C:
+      1:
+        Green: YuChen
+      2:
+        Black: WeiPing
+      winner: Unplayed
+  Table 2:
+    A:
+      3:
+        Charcoal: YiShyuan
+      4:
+        Blue: JingJia
+      winner: Unplayed
+    B:
+      3:
+        Charcoal: Kim
+      4:
+        Blue: Cathy
+      winner: Charcoal
+    C:
+      3:
+        Charcoal: QiXiang
+      4:
+        Blue: KeMei
+      winner: Charcoal
+  Table 3:
+    A:
+      5:
+        White: Jenny
+      6:
+        Orange: Rita
+      winner: White
+    B:
+      5:
+        White: Anna
+      6:
+        Orange: HuiWen
+      winner: Orange
+    C:
+      5:
+        White: YuRen
+      6:
+        Orange: ChunYi
+      winner: Orange
+  Table 4:
+    A:
+      7:
+        Yellow: Sherry
+      8:
+        Pink: ChiaChia
+      winner: Unplayed
+    B:
+      7:
+        Yellow: Ina
+      8:
+        Pink: Nei
+      winner: Yellow
+    C:
+      7:
+        Yellow: JiaRu
+      8:
+        Pink: YuChing
+      winner: Unplayed
+  Table 5:
+    A:
+      10:
+        Chocolate: KiRu
+      9:
+        Purple: Cheng
+      winner: Unplayed
+    B:
+      10:
+        Chocolate: YanRen
+      9:
+        Purple: RoYu
+      winner: Purple
+    C:
+      10:
+        Chocolate: JieLin
+      9:
+        Purple: LinLi
+      winner: Purple
+  Table 6:
+    A:
+      11:
+        Silver: Ariel
+      12:
+        Brown: Martin
+      winner: Unplayed
+    B:
+      11:
+        Silver: Liu
+      12:
+        Brown: Tina
+      winner: Unplayed
+    C:
+      11:
+        Silver: Ariel
+      12:
+        Brown: Martin
+      winner: Unplayed
+  Table 9446:
+    X:
+      winner: Silver
+      x:
+        Green: YuChen
+      y:
+        Silver: Ariel
+  Table 9476:
+    X:
+      winner: Purple
+      x:
+        Charcoal: YiShyuan
+      y:
+        Purple: Cheng
+  Table 9503:
+    X:
+      winner: Yellow
+      x:
+        Yellow: JiaRu
+      y:
+        Pink: ChiaChia
+topic: bruno
