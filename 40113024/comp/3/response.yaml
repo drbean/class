@@ -1,240 +1,223 @@
 ---
 free:
+  0:
+    trinka:
+      0:
+        100405501:
+          point:
+            1: Returned
+        100405417:
+          point:
+            1: Fault on 2nd chance
+    bruno:
+      0:
+        100405501:
+          point:
+            1: Returned
+        100405417:
+          point:
+            1: Fault on 2nd chance
   1:
-    connell:
+    trinka:
       0:
-        U0043004:
+        100405413:
           point:
             1: Returned
-        U9943019:
+            2: Fault
+        101405311:
           point:
-            1: Returned
-    warm:
+            1: Fault on 2nd chance
+    bruno:
       0:
-        U0043004:
-          point:
-            1: Returned
-        U9943019:
+        100405413:
           point:
             1: Nil
-    foreman:
-      0:
-        U0043004:
-          point:
-            1: Nil
-        U9943019:
-          point:
-            1: Returned
-    davist:
-      0:
-        U0043004:
-          point:
-            1: Returned
-        U9943019:
+        101405311:
           point:
             1: Returned
   2:
-    connell:
+    trinka:
       0:
-        U0122002:
+        100405440:
           point:
-            1: Nil
-        U9943007:
-          point:
-            1: Nil
-    warm:
-      0:
-        U0122002:
+            1: Old
+        100405507:
           point:
             1: Returned
-        U9943007:
-          point:
-            1: Returned
-    foreman:
+            2: Unreturned
+    bruno:
       0:
-        U0122002:
-          point:
-            1: Returned
-        U9943007:
-          point:
-            1: Returned
-    davist:
-      0:
-        U0122002:
+        100405440:
           point:
             1: Returned
             2: Returned
-        U9943007:
+            3: Returned
+        100405507:
+          point:
+            1: Nil
+  3:
+    trinka:
+      0:
+        100405540:
+          point:
+            1: Returned on 2nd chance
+        100405514:
           point:
             1: Returned
-            2: Returned
+    bruno:
+      0:
+        100405540:
+          point:
+            1: Returned
+        100405514:
+          point:
+            1: Returned
   4:
-    connell:
+    trinka:
       0:
-        U0222228:
+        100405444:
           point:
             1: Returned
             2: Returned
-        U0042012:
+        100405437:
           point:
             1: Returned
             2: Returned
-    warm:
+    bruno:
       0:
-        U0222228:
+        100405444:
+          point:
+            1: Returned on 2nd chance
+        100405437:
           point:
             1: Returned
-            2: Returned
-        U0042012:
-          point:
-            1: Returned
-            2: Returned
-    foreman:
-      0:
-        U0222228:
-          point:
-            1: Nil
-        U0042012:
-          point:
-            1: Nil
-    davist:
-      0:
-        U0222228:
-          point:
-            1: Nil
-        U0042012:
-          point:
-            1: Nil
   5:
-    connell:
+    trinka:
       0:
-        U9923121:
-          point:
-            1: Unreturned
-        U0043033:
-          point:
-            1: Unreturned
-    warm:
-      0:
-        U9923121:
-          point:
-            1: Returned
-        U0043033:
-          point:
-            1: Old
-    foreman:
-      0:
-        U9923121:
-          point:
-            1: Returned
-        U0043033:
-          point:
-            1: Fault
-    davist:
-      0:
-        U9923121:
+        100405545:
           point:
             1: Nil
-        U0043033:
+        100406866:
           point:
-            1: Fault
+            1: Nil
+    bruno:
+      0:
+        100405545:
+          point:
+            1: Nil
+        100406866:
+          point:
+            1: Nil
   6:
-    connell:
+    trinka:
       0:
-        U0042050:
+        102500005:
           point:
             1: Nil
-        U0018027:
+        100405531:
           point:
             1: Nil
-    warm:
+    bruno:
       0:
-        U0042050:
+        102500005:
           point:
             1: Nil
-        U0018027:
+        100405531:
           point:
             1: Nil
-    foreman:
-      0:
-        U0042050:
-          point:
-            1: Returned
-        U0018027:
-          point:
-            1: Returned
-    davist:
-      0:
-        U0042050:
-          point:
-            1: Fault
-        U0018027:
-          point:
-            1: Returned
   7:
-    connell:
+    trinka:
       0:
-        U0043001:
+        100405508:
           point:
             1: Returned
-        U9917017:
+            2: Fault on 2nd chance
+        100405432:
           point:
             1: Returned
-    warm:
+    bruno:
       0:
-        U0043001:
+        100405508:
           point:
             1: Old
+            2: Returned on 2nd chance
+            3: Returned
+        100405432:
+          point:
+            1: Unreturned
             2: Returned
-        U9917017:
-          point:
-            1: Returned
-    foreman:
+            3: Returned
+            4: Returned
+  8:
+    trinka:
       0:
-        U0043001:
+        100405402:
           point:
             1: Returned
-        U9917017:
+            2: Old
+            3: Old
+        100405408:
           point:
-            1: Returned
-    davist:
+            1: Fault on 2nd chance
+    bruno:
       0:
-        U0043001:
+        100405402:
           point:
-            1: Returned
-        U9917017:
+            1: Nil
+        100405408:
           point:
-            1: Returned
+            1: Nil
   9:
-    connell:
+    trinka:
       0:
-        U0017024:
+        100405509:
           point:
             1: Returned
-        K220155482:
-          point:
-            1: Nil
-    warm:
-      0:
-        U0017024:
-          point:
-            1: Nil
-        K220155482:
+            2: Returned
+        100406867:
           point:
             1: Returned
-    foreman:
+    bruno:
       0:
-        U0017024:
+        100405509:
           point:
             1: Returned
-        K220155482:
-          point:
-            1: Nil
-    davist:
-      0:
-        U0017024:
-          point:
-            1: Nil
-        K220155482:
+        100406867:
           point:
             1: Returned
+            2: Fault on 2nd chance
+            3: Old
+  10:
+    trinka:
+      0:
+        100405529:
+          point:
+            1: Fault on 2nd chance
+        100405411:
+          point:
+            1: Unreturned
+    bruno:
+      0:
+        100405529:
+          point:
+            1: Nil
+        100405411:
+          point:
+            1: Nil
+  11:
+    trinka:
+      0:
+        100405541:
+          point:
+            1: Returned on 2nd chance
+        100405401:
+          point:
+            1: Returned on 2nd chance
+    bruno:
+      0:
+        100405541:
+          point:
+            1: Returned on 2nd chance
+        100405401:
+          point:
+            1: Returned on 2nd chance
