@@ -1,27 +1,179 @@
 ---
-# topic: davist, no debate
-
 Black:
   absent:
-    - Rick
-  merits: 3
-Gray:
-  absent:
-  merits: 3
-Orange:
-  absent:
-    - Amy
-  merits: 3
-Yellow:
-  absent:
-  merits: 3
+    - Claire
+    - JingJia
+  merits: 2.00
 Blue:
-  absent:
-    - Chung-Wei
-  merits: 3
+  absent: ~
+  merits: 2.67
 Brown:
   absent:
-  merits: 3
+    - Tina
+    - Ariel
+  merits: 2.00
+Charcoal:
+  absent: ~
+  merits: 2.33
+Chocolate:
+  absent:
+    - Chris
+    - Kim
+  merits: 2.33
 Green:
   absent:
-  merits: 3
+    - KiRu
+  merits: 2.33
+Orange:
+  absent:
+    - YanRen
+    - Sherry
+  merits: 2.00
+Pink:
+  absent: ~
+  merits: 2.00
+Purple:
+  absent:
+    - Jenny
+  merits: 2.33
+Silver:
+  absent:
+    - Martin
+    - Liu
+  merits: 2.00
+White:
+  absent: ~
+  merits: 2.67
+Yellow:
+  absent: ~
+  merits: 3.00
+report:
+  Table 1:
+    A:
+      1:
+        Green: KiRu
+      2:
+        Black: JingJia
+      winner: Unplayed
+    B:
+      1:
+        Green: Cheng
+      2:
+        Black: Claire
+      winner: Unplayed
+    C:
+      1:
+        Green: YuRen
+      2:
+        Black: HsuanLing
+      winner: Green
+  Table 2:
+    A:
+      3:
+        Charcoal: ChiaChia
+      4:
+        Blue: KeMei
+      winner: Charcoal
+    B:
+      3:
+        Charcoal: HuiWen
+      4:
+        Blue: Anna
+      winner: Blue
+    C:
+      3:
+        Charcoal: WeiPing
+      4:
+        Blue: YuChen
+      winner: Blue
+  Table 3:
+    A:
+      5:
+        White: RoHang
+      6:
+        Orange: Sherry
+      winner: Unplayed
+    B:
+      5:
+        White: JiaRu
+      6:
+        Orange: YanRen
+      winner: Unplayed
+    C:
+      5:
+        White: Cathy
+      6:
+        Orange: RoYu
+      winner: White
+  Table 4:
+    A:
+      7:
+        Yellow: Rita
+      8:
+        Pink: YiShyuan
+      winner: Yellow
+    B:
+      7:
+        Yellow: Nei
+      8:
+        Pink: LinLi
+      winner: Yellow
+    C:
+      7:
+        Yellow: ChunYi
+      8:
+        Pink: JieLin
+      winner: Yellow
+  Table 5:
+    A:
+      10:
+        Chocolate: Chris
+      9:
+        Purple: YuChing
+      winner: Unplayed
+    B:
+      10:
+        Chocolate: Kim
+      9:
+        Purple: Jenny
+      winner: Unplayed
+    C:
+      10:
+        Chocolate: QiXiang
+      9:
+        Purple: Ina
+      winner: Chocolate
+  Table 6:
+    A:
+      11:
+        Silver: Martin
+      12:
+        Brown: Tina
+      winner: Unplayed
+    B:
+      11:
+        Silver: Liu
+      12:
+        Brown: Ariel
+      winner: Unplayed
+    C:
+      11:
+        Silver: Martin
+      12:
+        Brown: Tina
+      winner: Unplayed
+  Table 93:
+    X:
+      winner: Purple
+      x:
+        White: JiaRu
+      y:
+        Purple: YuChing
+  Table 932:
+    X:
+      winner: White
+      x:
+        Green: Cheng
+      y:
+        White: RoHang
+topic: nei_dictation
