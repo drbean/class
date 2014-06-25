@@ -2,52 +2,73 @@
 round: Exam 4
 week: 18
 questions:
-  - 10
-pass: 5
+  - 3
+pass: 1
 assistant:
+  - JiaRu
 absent:
-  - Simon
-  - Yukin
-text: /home/drbean/class/conversation/poverty/cards.yaml
+  - JingJia
+  - Martin
+  - Tina
+  - Ariel
+  - JieLin
+text: /home/drbean/class/conversation/work/cards.yaml
 activity:
-  salazar:
+  trinka:
     1:
       - Blue
-      - Gray
-  rueda:
-    1:
-      - Orange
-  vanbeke:
-    1:
-      - Black
-      - Brown
       - Green
+      - Pink
+    2:
+      - Black
+      - Charcoal
+      - Purple
+  bruno:
+    2:
+      - Orange
+      - White
+    3:
+      - Chocolate
+      - Yellow
+
 group:
   Black:
-    - Tracy
-    - Mia
-    - Gillian
+    - HsuanLing
+    - RoHang
+    - WeiPing
   Blue:
-    - Luisa
-    - Rick
-    - Carolyn
-  Brown:
-    - Danny
-    - Penny
-    - Li-Ting
-  Gray:
-    - KungHsing
-    - Amy
-    - Tiffany
+    - JiaRu
+    - Cathy
+    - KeMei
+  Charcoal:
+    - YiShyuan
+    - Kim
+    - QiXiang
+  Chocolate:
+    - KiRu
+    - YanRen
+    - Liu
   Green:
-    - Angela
-    - Scotter
-    - Lance
+    - Chris
+    - Claire
+    - YuChen
   Orange:
-    - Dave
-    - Peggy
-    - Regina
-#  Yellow:
-#    - Tracy
-#    - Yukin
-#    - Angela
+    - Rita
+    - HuiWen
+    - ChunYi
+  Pink:
+    - ChiaChia
+    - Nei
+    - YuChing
+  Purple:
+    - Cheng
+    - RoYu
+    - LinLi
+  White:
+    - Jenny
+    - Anna
+    - YuRen
+  Yellow:
+    - Sherry
+    - Ina
+    - JiaRu

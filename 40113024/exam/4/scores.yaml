@@ -2,38 +2,62 @@
 Chinese:
   Black: 0
   Blue: 0
-  Brown: 0
-  Gray: 0
+  Charcoal: 0
+  Chocolate: 0
   Green: 0
   Orange: 0
+  Pink: 0
+  Purple: 0
+  White: 0
+  Yellow: 0
 letters:
   Black:
-    U0018027: 9
-    U0043004: 10
-    U0122002: 9
-    story: vanbeke1
+    100405425: 3
+    100405536: 3
+    100406863: 3
+    story: trinka2
   Blue:
-    U9943019: 7
-    U0017024: 9
-    U9943007: 7
-    story: salazar1
-  Brown:
-    U0042012: 7
-    U9923121: 7
-    U0222228: 6
-    story: vanbeke1
-  Gray:
-    U0042041: 9
-    U0042050: 9
-    U0043001: 8
-    story: salazar1
+    100405432: 3
+    102500005: 3
+    100405540: 3
+    story: trinka1
+  Charcoal:
+    100405411: 3
+    100405514: 1
+    100405402: 3
+    story: trinka2
+  Chocolate:
+    100405528: 0
+    100405545: 0
+    100405442: 0
+    story: bruno3
   Green:
-    K220155482: 9
-    U9917017: 8
-    U9923120: 9
-    story: vanbeke1
+    100405529: 0
+    100405440: 3
+    100405509: 0
+    story: trinka1
   Orange:
-    U0222133: 5
-    U0043033: 5
-    U0018046: 9
-    story: rueda1
+    100405437: 3
+    100406867: 3
+    100405401: 1
+    story: bruno2
+  Pink:
+    101405311: 1
+    100405417: 1
+    100405413: 1
+    story: trinka1
+  Purple:
+    100406866: 3
+    100405531: 3
+    100405541: 3
+    story: trinka2
+  White:
+    100405501: 1
+    100405508: 3
+    100405408: 1
+    story: bruno2
+  Yellow:
+    100405444: 0
+    100405507: 3
+    100405432: 1
+    story: bruno3

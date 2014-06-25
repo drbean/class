@@ -2,6 +2,20 @@
 activity:
   trinka:
     0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+  bruno:
+    0:
+      - 0
       - 1
       - 2
       - 3
@@ -14,10 +28,16 @@ activity:
       - 10
       - 11
 assistant:
-bye: 100405501
+  Black:
+    100405425: 5
+    100405536: 1
+    100406863: 5
 dispensation: ~
 divisions: ~
 group:
+  0:
+    White: 100405501
+    Black: 100405417
   1:
     White: 100405413
     Black: 101405311
@@ -52,9 +72,9 @@ group:
     White: 100405541
     Black: 100405401
 late:
-  - ~
+  - 100405417
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 2
 round: 3
-text: ~
-week: ~
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 18
