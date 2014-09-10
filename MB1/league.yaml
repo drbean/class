@@ -1,178 +1,148 @@
 ---
 absent: ~
-anterior: 021AFN2N0
+anterior: 031AFN3K0
 approach: GroupworkNoFault
 classMax: 3
 compcomp: comp
 examMax: 5
 exams: exam
-field: 科技商務英文
+field: 英語會話(一)
 groupwork: session
 hw: homework
 hwMax: 2
-id: AFN3K0
+id: AFN2MB1
 jigsaw: exam
-league: NAF031_科技商務英文_四技外三甲_選修_2
+league: NAF021_英語會話(一)_四技外二甲_必修_2
 member:
-  - Chinese: 范芝喬
-    id: N01200002
-    name: Joanne1
-    password: zhi
+  - Chinese: 毛彥傑
+    id: N02200001
+    name: 毛彥傑
+    password: yan
     rating: ~
-  - Chinese: 曾靜如
-    id: N01200005
-    name: Grace
-    password: jing
+  - Chinese: 馮啟銘
+    id: N02200003
+    name: 馮啟銘
+    password: qi
     rating: ~
-  - Chinese: 徐瑋萱
-    id: N01200008
-    name: Kate
-    password: wei
+  - Chinese: 陳宏榆
+    id: N02200006
+    name: 陳宏榆
+    password: hong
     rating: ~
-  - Chinese: 徐禹婷
-    id: N01200009
-    name: Olivia
+  - Chinese: 湯燕虹
+    id: N02200009
+    name: 湯燕虹
+    password: yan
+    rating: ~
+  - Chinese: 林吟珊
+    id: N02200011
+    name: 林吟珊
+    password: yin
+    rating: ~
+  - Chinese: 鄧玉鈴
+    id: N02200013
+    name: 鄧玉鈴
     password: yu
     rating: ~
-  - Chinese: 徐禹婷
-    id: N01200010
-    name: Ruby
-    password: yu
+  - Chinese: 蔡
+    id: N02200016
+    name: 蔡
+    password: ''
     rating: ~
-  - Chinese: 范育芳
-    id: N01200014
-    name: Devon
-    password: yu
-    rating: ~
-  - Chinese: 許依萍
-    id: N01200016
-    name: Apple
-    password: yi
-    rating: ~
-  - Chinese: 王楚寒
-    id: N01200018
-    name: Helen1
-    password: chu
-    rating: ~
-  - Chinese: 王楚寒
-    id: N01200020
-    name: Larry
-    password: chu
-    rating: ~
-  - Chinese: 蔡雨樵
-    id: N01200021
-    name: Joanne2
-    password: yu
-    rating: ~
-  - Chinese: 詹庭羽
-    id: N01200023
-    name: Cathy
-    password: ting
-    rating: ~
-  - Chinese: 劉昱宜
-    id: N01200025
-    name: Vicky
-    password: yu
-    rating: ~
-  - Chinese: 葉淑玲
-    id: N01200026
-    name: Betty
-    password: shu
-    rating: ~
-  - Chinese: 陳俐婷
-    id: N01200028
-    name: Mira
-    password: li
-    rating: ~
-  - Chinese: 黃俞嘉
-    id: N01200029
-    name: Shine
-    password: yu
-    rating: ~
-  - Chinese: 戴涵盈
-    id: N01200030
-    name: Rory
+  - Chinese: 鄭涵勻
+    id: N02200020
+    name: 鄭涵勻
     password: han
     rating: ~
-  - Chinese: 蕭至祐
-    id: N01200033
-    name: Peter
-    password: zhi
-    rating: ~
-  - Chinese: 徐詩茹
-    id: N01200035
-    name: Dara
-    password: shi
-    rating: ~
-  - Chinese: 張煥翊
-    id: N01200038
-    name: David
-    password: huan
-    rating: ~
-  - Chinese: 蔡佩燕
-    id: N01200041
-    name: Penny
-    password: pei
-    rating: ~
-  - Chinese: 蔡承翰
-    id: N01200042
-    name: 蔡承翰
-    password: cheng
-    rating: ~
-  - Chinese: 江進慧
-    id: N01200045
-    name: Samantha
-    password: jin
-    rating: ~
-  - Chinese: 江佳璇
-    id: N01200046
-    name: Erica
-    password: jia
-    rating: ~
-  - Chinese: 林秀華
-    id: N01200051
-    name: Helen2
-    password: xiu
-    rating: ~
-  - Chinese: 吳聲均
-    id: N01200056
-    name: Ted
-    password: sheng
-    rating: ~
-  - Chinese: 張敏鈺
-    id: N01200058
-    name: Lucia
-    password: min
-    rating: ~
-  - Chinese: 鄭宇婷
-    id: N02202104
-    name: Esme
-    password: yu
-    rating: ~
-  - Chinese: 孫柏皓
-    id: N02202105
-    name: 孫柏皓
-    password: bo
-    rating: ~
-  - Chinese: 劉芳瑀
-    id: N02202106
-    name: Doni
-    password: fang
-    rating: ~
-  - Chinese: 董翌亦
-    id: N02202111
-    name: Elvira
-    password: yi
-    rating: ~
-  - Chinese: 鄭巧柔
-    id: N02202114
-    name: Amy1
+  - Chinese: 莊喬安
+    id: N02200024
+    name: 莊喬安
     password: qiao
     rating: ~
-  - Chinese: 徐銘謙
-    id: N02202201
-    name: 徐銘謙
-    password: ming
+  - Chinese: 陳宏炘
+    id: N02200026
+    name: 陳宏炘
+    password: hong
+    rating: ~
+  - Chinese: 邱佩玲
+    id: N02200028
+    name: 邱佩玲
+    password: pei
+    rating: ~
+  - Chinese: 倪秉緯
+    id: N02200030
+    name: 倪秉緯
+    password: bing
+    rating: ~
+  - Chinese: 符尊曜
+    id: N02200032
+    name: 符尊曜
+    password: zun
+    rating: ~
+  - Chinese: 楊善存
+    id: N02200038
+    name: 楊善存
+    password: shan
+    rating: ~
+  - Chinese: 楊捷
+    id: N02200040
+    name: 楊捷
+    password: jie
+    rating: ~
+  - Chinese: 詹斯鈴
+    id: N02200043
+    name: 詹斯鈴
+    password: si
+    rating: ~
+  - Chinese: 劉家伶
+    id: N02200045
+    name: 劉家伶
+    password: jia
+    rating: ~
+  - Chinese: 鄒羽嫙
+    id: N02200047
+    name: 鄒羽嫙
+    password: yu
+    rating: ~
+  - Chinese: 蔡慧珍
+    id: N02200049
+    name: 蔡慧珍
+    password: hui
+    rating: ~
+  - Chinese: 譚詠蓉
+    id: N02200051
+    name: 譚詠蓉
+    password: yong
+    rating: ~
+  - Chinese: 張修璧
+    id: N02200054
+    name: 張修璧
+    password: xiu
+    rating: ~
+  - Chinese: 彭聖雅
+    id: N02200057
+    name: 彭聖雅
+    password: sheng
+    rating: ~
+  - Chinese: 林家琳
+    id: N02202102
+    name: 林家琳
+    password: jia
+    rating: ~
+  - Chinese: 金玉婷
+    id: N03202101
+    name: 金玉婷
+    password: yu
+    rating: ~
+  - Chinese: 鍾怡華
+    id: N03202103
+    name: 鍾怡華
+    password: yi
+    rating: ~
+  - Chinese: 傅郁鈞
+    id: N03202105
+    name: 傅郁鈞
+    password: yu
     rating: ~
 out: ~
 room: A705
