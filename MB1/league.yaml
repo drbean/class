@@ -12,8 +12,18 @@ hw: homework
 hwMax: 2
 id: AFN2MB1
 jigsaw: exam
-league: NAF021_英語會話(一)_四技外二甲_必修_2
+league: NAF021__四技外二甲
 member:
+  - Chinese: 郭彥廷
+    id: N02020034
+    name: 郭彥廷
+    password: yan
+    rating: ~
+  - Chinese: 廖幸嬋
+    id: N99200030
+    name: 廖幸嬋
+    password: xing
+    rating: ~
   - Chinese: 毛彥傑
     id: N02200001
     name: 毛彥傑
@@ -44,10 +54,10 @@ member:
     name: 鄧玉鈴
     password: yu
     rating: ~
-  - Chinese: 蔡
+  - Chinese: 蔡剗玲
     id: N02200016
-    name: 蔡
-    password: ''
+    name: 蔡剗玲
+    password: chan
     rating: ~
   - Chinese: 鄭涵勻
     id: N02200020
@@ -84,9 +94,9 @@ member:
     name: 楊善存
     password: shan
     rating: ~
-  - Chinese: 楊捷
+  - Chinese: 楊捷榀
     id: N02200040
-    name: 楊捷
+    name: 楊捷榀
     password: jie
     rating: ~
   - Chinese: 詹斯鈴
