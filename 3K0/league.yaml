@@ -12,52 +12,27 @@ hw: homework
 hwMax: 2
 id: AFN3K0
 jigsaw: exam
-league: NAF031_科技商務英文_四技外三甲_選修_2
+league: NAF031_四技外三甲
 member:
+  - Chinese: 余岱蓉
+    id: N00200045
+    name: 余岱蓉
+    password: dai
+    rating: ~
+  - Chinese: 黃志文
+    id: N00200059
+    name: 黃志文
+    password: zhi
+    rating: ~
   - Chinese: 范芝喬
     id: N01200002
     name: Joanne1
     password: zhi
     rating: ~
-  - Chinese: 曾靜如
-    id: N01200005
-    name: Grace
-    password: jing
-    rating: ~
   - Chinese: 徐瑋萱
     id: N01200008
     name: Kate
     password: wei
-    rating: ~
-  - Chinese: 徐禹婷
-    id: N01200009
-    name: Olivia
-    password: yu
-    rating: ~
-  - Chinese: 徐禹婷
-    id: N01200010
-    name: Ruby
-    password: yu
-    rating: ~
-  - Chinese: 范育芳
-    id: N01200014
-    name: Devon
-    password: yu
-    rating: ~
-  - Chinese: 許依萍
-    id: N01200016
-    name: Apple
-    password: yi
-    rating: ~
-  - Chinese: 王楚寒
-    id: N01200018
-    name: Helen1
-    password: chu
-    rating: ~
-  - Chinese: 王楚寒
-    id: N01200020
-    name: Larry
-    password: chu
     rating: ~
   - Chinese: 蔡雨樵
     id: N01200021
@@ -129,11 +104,6 @@ member:
     name: Erica
     password: jia
     rating: ~
-  - Chinese: 林秀華
-    id: N01200051
-    name: Helen2
-    password: xiu
-    rating: ~
   - Chinese: 吳聲均
     id: N01200056
     name: Ted
@@ -144,10 +114,10 @@ member:
     name: Lucia
     password: min
     rating: ~
-  - Chinese: 鄭宇婷
-    id: N02202104
-    name: Esme
-    password: yu
+  - Chinese: 陳文億
+    id: N02202101
+    name: Dave
+    password: wen
     rating: ~
   - Chinese: 孫柏皓
     id: N02202105
@@ -158,6 +128,11 @@ member:
     id: N02202106
     name: Doni
     password: fang
+    rating: ~
+  - Chinese: 鄭煒諺
+    id: N02202110
+    name: Wayne
+    password: wei
     rating: ~
   - Chinese: 董翌亦
     id: N02202111
@@ -173,6 +148,16 @@ member:
     id: N02202201
     name: 徐銘謙
     password: ming
+    rating: ~
+  - Chinese: 張凱傑
+    id: N03203102
+    name: 張凱傑
+    password: kai
+    rating: ~
+  - Chinese: 蔡欣祐
+    id: N03203105
+    name: 蔡欣祐
+    password: xin
     rating: ~
 out: ~
 room: A705
