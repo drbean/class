@@ -13,6 +13,39 @@ hwMax: 2
 id: 031FLA0027
 league: 夜應外大學四甲
 member:
+  - Chinese: 沈子鈞
+    id: V9941065
+    name: Bruce
+    password: zi
+    rating: ~
+  - Chinese: 王志睿
+    id: U0017024
+    name: Rick
+    password: zhi
+    rating: 49
+  - Chinese: 陳煜楓
+    id: V0041058
+    name: Vera
+    password: yu
+    rating: ~
+  - Chinese: 吳仰婷
+    id: V9941001
+    name: Rei
+    password: yang
+    rating: 47
+  - Chinese: 洪君綾
+    id: V0141063
+    name: Joy
+    password: jun 
+    rating: ~
+  - Chinese: 林遠凱
+    id: V0141062
+    name: Karsten
+    password: yuan
+    rating: ~
+  
+
+  
   - Chinese: 林志軍
     id: V0041002
     name: Brock
@@ -30,7 +63,7 @@ member:
     rating: ~
   - Chinese: 王仁浩
     id: V0041012
-    name: 王仁浩
+    name: Sing
     password: ren
     rating: ~
   - Chinese: 段禹辰
@@ -100,7 +133,7 @@ member:
     rating: ~
   - Chinese: 李玉嘉
     id: V0041052
-    name: 李玉嘉
+    name: Una
     password: yu
     rating: ~
   - Chinese: 林詩庭
@@ -120,12 +153,12 @@ member:
     rating: ~
   - Chinese: 張馨方
     id: V9841071
-    name: 張馨方
+    name: XinFang
     password: xin
     rating: ~
   - Chinese: 謝東霖
     id: V9941014
-    name: 謝東霖
+    name: Tony
     password: dong
     rating: ~
   - Chinese: 古雅萱
@@ -160,7 +193,7 @@ member:
     rating: ~
   - Chinese: 謝孟璇
     id: V9941076
-    name: 謝孟璇
+    name: MengShiung
     password: meng
     rating: ~
 out: ~
