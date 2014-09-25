@@ -21,72 +21,72 @@ member:
     rating: ~
   - Chinese: 廖幸嬋
     id: N99200030
-    name: 廖幸嬋
+    name: XingChan
     password: xing
     rating: ~
   - Chinese: 毛彥傑
     id: N02200001
-    name: 毛彥傑
+    name: Mao
     password: yan
     rating: ~
   - Chinese: 馮啟銘
     id: N02200003
-    name: 馮啟銘
+    name: Korsak
     password: qi
     rating: ~
   - Chinese: 陳宏榆
     id: N02200006
-    name: 陳宏榆
+    name: Jason
     password: hong
     rating: ~
   - Chinese: 湯燕虹
     id: N02200009
-    name: 湯燕虹
+    name: YenHung
     password: yan
     rating: ~
   - Chinese: 林吟珊
     id: N02200011
-    name: 林吟珊
+    name: Sandy
     password: yin
     rating: ~
   - Chinese: 鄧玉鈴
     id: N02200013
-    name: 鄧玉鈴
+    name: YuLing
     password: yu
     rating: ~
   - Chinese: 蔡剗玲
     id: N02200016
-    name: 蔡剗玲
+    name: Honey
     password: chan
     rating: ~
   - Chinese: 鄭涵勻
     id: N02200020
-    name: 鄭涵勻
+    name: Judy
     password: han
     rating: ~
   - Chinese: 莊喬安
     id: N02200024
-    name: 莊喬安
+    name: Joann
     password: qiao
     rating: ~
   - Chinese: 陳宏炘
     id: N02200026
-    name: 陳宏炘
+    name: Xin
     password: hong
     rating: ~
   - Chinese: 邱佩玲
     id: N02200028
-    name: 邱佩玲
+    name: Pei
     password: pei
     rating: ~
   - Chinese: 倪秉緯
     id: N02200030
-    name: 倪秉緯
+    name: PingWei
     password: bing
     rating: ~
   - Chinese: 符尊曜
     id: N02200032
-    name: 符尊曜
+    name: Jacky
     password: zun
     rating: ~
   - Chinese: 楊善存
@@ -96,32 +96,32 @@ member:
     rating: ~
   - Chinese: 楊捷榀
     id: N02200040
-    name: 楊捷榀
+    name: Yang
     password: jie
     rating: ~
   - Chinese: 詹斯鈴
     id: N02200043
-    name: 詹斯鈴
+    name: SiLing
     password: si
     rating: ~
   - Chinese: 劉家伶
     id: N02200045
-    name: 劉家伶
+    name: JiaLing
     password: jia
     rating: ~
   - Chinese: 鄒羽嫙
     id: N02200047
-    name: 鄒羽嫙
+    name: YuSyuan
     password: yu
     rating: ~
   - Chinese: 蔡慧珍
     id: N02200049
-    name: 蔡慧珍
+    name: Jane
     password: hui
     rating: ~
   - Chinese: 譚詠蓉
     id: N02200051
-    name: 譚詠蓉
+    name: Una
     password: yong
     rating: ~
   - Chinese: 張修璧
@@ -131,12 +131,12 @@ member:
     rating: ~
   - Chinese: 彭聖雅
     id: N02200057
-    name: 彭聖雅
+    name: Peng
     password: sheng
     rating: ~
   - Chinese: 林家琳
     id: N02202102
-    name: 林家琳
+    name: Daisy
     password: jia
     rating: ~
   - Chinese: 金玉婷
@@ -146,12 +146,12 @@ member:
     rating: ~
   - Chinese: 鍾怡華
     id: N03202103
-    name: 鍾怡華
+    name: YiHung
     password: yi
     rating: ~
   - Chinese: 傅郁鈞
     id: N03202105
-    name: 傅郁鈞
+    name: Sophia
     password: yu
     rating: ~
 out: ~
