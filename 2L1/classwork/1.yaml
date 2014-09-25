@@ -1,0 +1,75 @@
+---
+# topic: dickson
+# topic: champions to front
+
+1-1:
+  absent:
+    - 林柏彤
+  merits: 2
+1-2:
+  absent:
+  merits: 3
+
+2-1:
+  tardy:
+    - Davis
+  merits: 3
+2-2:
+  absent:
+  merits: 3
+
+3-1:
+  tardy:
+    - Doris
+  merits: 3
+3-2:
+  absent:
+    - 林芳萱
+    - Wade
+  merits: 3
+
+4-1:
+  absent:
+    - 林韋佑
+  merits: 3
+4-2:
+  absent:
+    - 洪嘉翎
+  merits: 3
+
+5-1:
+  absent:
+  merits: 3
+
+6-1:
+  absent:
+  merits: 3
+
+7-1:
+  absent:
+  merits: 3
+
+questions:
+  2-1: 0
+  2-2: 2
+  3-1: 2
+  3-2: 2
+  4-1: 2
+  4-2: 2
+
+texts:
+  - How many children does Dee have?
+  - Where is Dee from?
+  - How long did her spend time to company her children after work?
+  - What did Dee become when she graduated from school?
+  - Did she find the job by herself?
+
+answers:
+  1-1:
+  1-2:
+  2-1:
+  2-2:
+  3-1:
+  3-2:
+  4-1:
+  4-2:
