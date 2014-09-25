@@ -21,7 +21,7 @@ member:
     rating: ~
   - Chinese: 黃志文
     id: N00200059
-    name: 黃志文
+    name: Dash
     password: zhi
     rating: ~
   - Chinese: 范芝喬
@@ -66,7 +66,7 @@ member:
     rating: ~
   - Chinese: 戴涵盈
     id: N01200030
-    name: Rory
+    name: Han
     password: han
     rating: ~
   - Chinese: 蕭至祐
@@ -91,7 +91,7 @@ member:
     rating: ~
   - Chinese: 蔡承翰
     id: N01200042
-    name: 蔡承翰
+    name: Hans
     password: cheng
     rating: ~
   - Chinese: 江進慧
@@ -121,7 +121,7 @@ member:
     rating: ~
   - Chinese: 孫柏皓
     id: N02202105
-    name: 孫柏皓
+    name: George
     password: bo
     rating: ~
   - Chinese: 劉芳瑀
@@ -141,12 +141,12 @@ member:
     rating: ~
   - Chinese: 鄭巧柔
     id: N02202114
-    name: Amy1
+    name: Amy
     password: qiao
     rating: ~
   - Chinese: 徐銘謙
     id: N02202201
-    name: 徐銘謙
+    name: Roger
     password: ming
     rating: ~
   - Chinese: 張凱傑
