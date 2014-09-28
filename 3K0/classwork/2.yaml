@@ -1,0 +1,131 @@
+---
+# topic: tip rephrasing
+# topic: champions to front
+
+1-1:
+  absent:
+    - Elvira
+  merits: ~
+
+1-2:
+  absent:
+  merits: ~
+
+2-1:
+  absent:
+  merits: ~
+6-1:
+  absent:
+    - Han
+    - Hans
+  merits: ~
+
+2-2:
+  absent:
+  merits: ~
+
+3-1:
+  absent:
+    - Erica
+    - Doni
+    - David
+  merits: ~
+3-2:
+  absent:
+  merits: ~
+
+4-1:
+  absent:
+  merits: ~
+
+4-1:
+  tardy:
+    - Dave
+  merits: ~
+
+questions:
+  -
+    - Think about what you're doing
+    - Think
+  -
+    - Do things the hard way
+    - Be ambitious
+  -
+    - Seek satisfaction. Change your job. Or change jobs
+    - Make your job a good job
+  -
+    - Get others to help you do your job
+    - Teamwork
+  -
+    - Learn while away from the job
+    - The student
+  -
+    - Create your own goals
+    - My Way
+
+texts:
+
+answers:
+  1-1:
+    1: 0
+    2: 1
+    3: 1
+    4: 1
+    5: 1
+    6: 1
+  1-2:
+    1: 0
+    2: 0
+    3: 0
+    4: 1
+    5: 0
+    6: 1
+  2-1:
+    1: 0
+    2: 1
+    3: 1
+    4: 1
+    5: 1
+    6: 1
+  2-2:
+    1: 0
+    2: 1
+    3: 1
+    4: 1
+    5: 1
+    6: 1
+  3-1:
+    1: 0
+    2: 0
+    3: 0
+    4: 0
+    5: 0
+    6: 0
+  3-2:
+    1: 1
+    2: 1
+    3: 1
+    4: 0
+    5: 0
+    6: 0
+  4-1:
+    1: 0
+    2: 1
+    3: 1
+    4: 1
+    5: 1
+    6: 1
+  4-2:
+    1: 0
+    2: 1
+    3: 1
+    4: 1
+    5: 1
+    6: 1
+  6-1:
+    1: 0
+    2: 0
+    3: 0
+    4: 0
+    5: 0
+    6: 0
