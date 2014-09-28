@@ -14,9 +14,15 @@ id: AFN3K0
 jigsaw: exam
 league: NAF031_四技外三甲
 member:
+  - Chinese: 許雅晶
+    id: N03203104
+    name: Milly
+    password: ya
+    rating: ~
+  
   - Chinese: 余岱蓉
     id: N00200045
-    name: 余岱蓉
+    name: Yuki
     password: dai
     rating: ~
   - Chinese: 黃志文
@@ -151,12 +157,12 @@ member:
     rating: ~
   - Chinese: 張凱傑
     id: N03203102
-    name: 張凱傑
+    name: Jacky
     password: kai
     rating: ~
   - Chinese: 蔡欣祐
     id: N03203105
-    name: 蔡欣祐
+    name: Stan
     password: xin
     rating: ~
 out: ~
