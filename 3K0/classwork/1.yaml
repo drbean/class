@@ -1,0 +1,100 @@
+---
+# topic: candidate
+# topic: champions to front
+
+1-1:
+  absent:
+  merits: ~
+
+1-2:
+  absent:
+    - Milly
+    - Shine
+    - Stan
+  merits: 0
+
+2-1:
+  absent:
+    - Dara
+    - Joanne1
+  merits: ~
+6-1:
+  absent:
+  merits: ~
+
+2-2:
+  absent:
+  merits: ~
+
+3-1:
+  tardy:
+  merits: ~
+3-2:
+  absent:
+    - Vicky
+  merits: ~
+
+4-1:
+  absent:
+  merits: ~
+
+4-1:
+  absent:
+    - Dave
+    - Yuki
+    - Jacky
+  merits: ~
+
+questions:
+  1-1: 1
+  1-2: 0
+  2-1: 2
+  6-1: 2
+  2-2: 1
+  3-1: 1
+  3-2: 2
+  4-1: 2
+  4-2: 0
+
+texts:
+  - Is Eva a fast learner?
+  - What is Barbara's aim?
+  - Why you think Barbara is a person difficult to work with?
+
+answers:
+  1-1:
+    1: 1
+    2: 0
+    3: 0
+  1-2:
+    1: 0
+    2: 0
+    3: 0
+  2-1:
+    1: 0
+    2: 0
+    3: 0
+  6-1:
+    1: 0
+    2: 0
+    3: 0
+  2-2:
+    1: 1
+    2: 0
+    3: 0
+  3-1:
+    1: 1
+    2: 0
+    3: 1
+  3-2:
+    1: 1
+    2: 1
+    3: 0
+  4-1:
+    1: 1
+    2: 0
+    3: 0
+  4-2:
+    1: 0
+    2: 0
+    3: 0
