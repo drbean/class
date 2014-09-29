@@ -14,6 +14,17 @@ id: 031GL00016
 jigsaw: exam
 league: 中級英文聽說訓練 日語文共同學制虛擬班二丙
 member:
+  - Chinese: 陳偉庭
+    id: V0221002
+    name: Andy
+    password: wei
+    rating: ~
+  - Chinese: 黃玉慈
+    id: U0131128
+    name: Irene
+    password: yu
+    rating: ~
+  
   - Chinese: 徐子筑
     id: U0016014
     name: Dolly
@@ -21,7 +32,7 @@ member:
     rating: ~
   - Chinese: 陳俐安
     id: U0031022
-    name: 陳俐安
+    name: Alice
     password: li
     rating: ~
   - Chinese: 曾喬翎
@@ -36,7 +47,7 @@ member:
     rating: ~
   - Chinese: 莊渝雯
     id: U0043039
-    name: 莊渝雯
+    name: Wenny
     password: yu
     rating: ~
   - Chinese: 林縈佳
@@ -61,7 +72,7 @@ member:
     rating: ~
   - Chinese: 楊謹瑛
     id: U0131257
-    name: 楊謹瑛
+    name: Kayla
     password: jin
     rating: ~
   - Chinese: 羅孟琳
