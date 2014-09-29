@@ -14,55 +14,30 @@ id: 031GL00016
 jigsaw: exam
 league: 中級英文聽說訓練 日語文共同學制虛擬班二丙
 member:
-  - Chinese: 黃子庭
-    id: U0031017
-    name: 黃子庭
+  - Chinese: 徐子筑
+    id: U0016014
+    name: Dolly
     password: zi
     rating: ~
-  - Chinese: 陳君婷
-    id: U0031036
-    name: 陳君婷
-    password: jun
-    rating: ~
-  - Chinese: 廖玟婷
-    id: U0031149
-    name: Zora
-    password: wen
-    rating: ~
-  - Chinese: 陳若晴
-    id: U0031207
-    name: 陳若晴
-    password: ruo
+  - Chinese: 陳俐安
+    id: U0031022
+    name: 陳俐安
+    password: li
     rating: ~
   - Chinese: 曾喬翎
     id: U0031216
     name: Ling
     password: qiao
     rating: ~
-  - Chinese: 葉亭妤
-    id: U0031226
-    name: Vanessa
-    password: ting
-    rating: ~
-  - Chinese: 林雅琦
-    id: U0031231
-    name: Grace
-    password: ya
-    rating: ~
-  - Chinese: 吳怡娟
-    id: U0031249
-    name: Amy
-    password: yi
-    rating: ~
-  - Chinese: 林岑蔓
-    id: U0031253
-    name: 林岑蔓
-    password: cen
-    rating: ~
   - Chinese: 許依婷
     id: U0043024
     name: 許依婷
     password: yi
+    rating: ~
+  - Chinese: 莊渝雯
+    id: U0043039
+    name: 莊渝雯
+    password: yu
     rating: ~
   - Chinese: 林縈佳
     id: U0111135
@@ -84,35 +59,10 @@ member:
     name: Jean
     password: guan
     rating: ~
-  - Chinese: 陳彥翔
-    id: U0118019
-    name: Ian
-    password: yan
-    rating: ~
-  - Chinese: 陳又嘉
-    id: U0118046
-    name: Jennifer
-    password: you
-    rating: ~
-  - Chinese: 吳苡璇
-    id: U0131204
-    name: 吳苡璇
-    password: yi
-    rating: ~
-  - Chinese: 陳鈺兒
-    id: U0131212
-    name: 陳鈺兒
-    password: yu
-    rating: ~
   - Chinese: 楊謹瑛
     id: U0131257
     name: 楊謹瑛
     password: jin
-    rating: ~
-  - Chinese: 林佳儀
-    id: U0133008
-    name: 林佳儀
-    password: jia
     rating: ~
   - Chinese: 羅孟琳
     id: U0143054
@@ -128,6 +78,16 @@ member:
     id: U0222303
     name: Eric
     password: lun
+    rating: ~
+  - Chinese: 吳彥霆
+    id: U0311011
+    name: 吳彥霆
+    password: yan
+    rating: ~
+  - Chinese: 張耿慈
+    id: U9810037
+    name: David
+    password: geng
     rating: ~
 out: ~
 room: A705
