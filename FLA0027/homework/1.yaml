@@ -1,0 +1,151 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: dog
+grade:
+  U0017024: 0
+  V0041002: 2
+  V0041007: 0.26
+  V0041009: 2
+  V0041012: 0
+  V0041015: 1.68
+  V0041019: 2
+  V0041028: 1.86
+  V0041030: 2
+  V0041035: 1.24
+  V0041036: 1.04
+  V0041038: 2
+  V0041039: 2
+  V0041040: 0
+  V0041042: 0.6
+  V0041044: 2
+  V0041047: 0.58
+  V0041049: 2
+  V0041052: 0.3
+  V0041057: 1.76
+  V0041058: 2
+  V0141042: 1.64
+  V0141062: 1.86
+  V0141063: 1.94
+  V9741022: 2
+  V9841071: 0.12
+  V9941001: 2
+  V9941014: 0
+  V9941028: 1.04
+  V9941031: 0.02
+  V9941040: 2
+  V9941057: 0
+  V9941065: 0
+  V9941071: 0
+  V9941075: 1.06
+  V9941076: 1.58
+points:
+  U0017024:
+    letters: 0
+    percent: 0
+  V0041002:
+    letters: 238
+    percent: 100
+  V0041007:
+    letters: 32
+    percent: 13
+  V0041009:
+    letters: 260
+    percent: 100
+  V0041012:
+    letters: 0
+    percent: 0
+  V0041015:
+    letters: 203
+    percent: 84
+  V0041019:
+    letters: 252
+    percent: 100
+  V0041028:
+    letters: 224
+    percent: 93
+  V0041030:
+    letters: 237
+    percent: 100
+  V0041035:
+    letters: 139
+    percent: 62
+  V0041036:
+    letters: 130
+    percent: 52
+  V0041038:
+    letters: 239
+    percent: 100
+  V0041039:
+    letters: 251
+    percent: 100
+  V0041040:
+    letters: 0
+    percent: 0
+  V0041042:
+    letters: 75
+    percent: 30
+  V0041044:
+    letters: 223
+    percent: 100
+  V0041047:
+    letters: 67
+    percent: 29
+  V0041049:
+    letters: 256
+    percent: 100
+  V0041052:
+    letters: 37
+    percent: 15
+  V0041057:
+    letters: 198
+    percent: 88
+  V0041058:
+    letters: 247
+    percent: 100
+  V0141042:
+    letters: 210
+    percent: 82
+  V0141062:
+    letters: 228
+    percent: 93
+  V0141063:
+    letters: 245
+    percent: 97
+  V9741022:
+    letters: 228
+    percent: 100
+  V9841071:
+    letters: 13
+    percent: 6
+  V9941001:
+    letters: 244
+    percent: 100
+  V9941014:
+    letters: 0
+    percent: 0
+  V9941028:
+    letters: 120
+    percent: 52
+  V9941031:
+    letters: 2
+    percent: 1
+  V9941040:
+    letters: 225
+    percent: 100
+  V9941057:
+    letters: 0
+    percent: 0
+  V9941065:
+    letters: 0
+    percent: 0
+  V9941071:
+    letters: 0
+    percent: 0
+  V9941075:
+    letters: 132
+    percent: 53
+  V9941076:
+    letters: 208
+    percent: 79
