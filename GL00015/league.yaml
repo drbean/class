@@ -14,24 +14,19 @@ id: 031GL00015
 jigsaw: exam
 league: 中級英文聽說訓練 日語文共同學制虛擬班二乙
 member:
-  - Chinese: 喻昀?
-    id: U0043008
-    name: 喻昀?
-    password: yun
-    rating: ~
   - Chinese: 薛健良
     id: U0043036
-    name: 薛健良
+    name: Kevin
     password: jian
     rating: ~
   - Chinese: 游文詮
     id: U0117004
-    name: 游文詮
+    name: Wayne
     password: wen
     rating: ~
   - Chinese: 許維方
     id: U0117031
-    name: 許維方
+    name: Lucy
     password: wei
     rating: ~
   - Chinese: 廖嘉華
@@ -44,24 +39,24 @@ member:
     name: 呂奕萱
     password: yi
     rating: ~
-  - Chinese: 陳偉芸
-    id: U0131007
-    name: 陳偉芸
-    password: wei
-    rating: ~
-  - Chinese: 林
-    id: U0134010
-    name: 林雍
-    password: yong
+  - Chinese: 詹文瑄
+    id: U0131213
+    name: 詹文瑄
+    password: wen
     rating: ~
   - Chinese: 黃姝文
     id: U0217022
     name: 黃姝文
     password: shu
     rating: ~
+  - Chinese: 陳孝青
+    id: U0218037
+    name: 陳孝青
+    password: xiao
+    rating: ~
   - Chinese: 彭士維
     id: U0221004
-    name: 彭士維
+    name: Bruce
     password: shi
     rating: ~
   - Chinese: 劉盈成
@@ -74,7 +69,32 @@ member:
     name: 劉正清
     password: zheng
     rating: ~
-out: ~
+  - Chinese: 林冠志
+    id: U9923128
+    name: 林冠志
+    password: guan
+    rating: ~
+  - Chinese: 洪欣慈
+    id: V9941031
+    name: HsinCih
+    password: xin
+    rating: ~
+  - Chinese: 陳采玲
+    id: V9941036
+    name: Louanna
+    password: cai
+    rating: ~
+  - Chinese: 張鉯芸
+    id: V9941057
+    name: David
+    password: yi
+    rating: ~
+out:
+  - Chinese: 林
+    id: U0134010
+    name: Audrey
+    password: yong
+    rating: ~
 room: A705
 school: nuu
 scores:
