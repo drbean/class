@@ -13,6 +13,12 @@ hwMax: 2
 id: 031FLA0027
 league: 夜應外大學四甲
 member:
+  - Chinese: 傅渼淳
+    id: V0041064
+    name: Winnie
+    password: mei
+    rating: ~
+  
   - Chinese: 沈子鈞
     id: V9941065
     name: Bruce
