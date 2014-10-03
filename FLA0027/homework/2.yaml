@@ -1,0 +1,155 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: kiss
+grade:
+  U0017024: 0
+  V0041002: 2
+  V0041007: 0.16
+  V0041009: 2
+  V0041012: 0.58
+  V0041015: 1.74
+  V0041019: 2
+  V0041028: 0
+  V0041030: 2
+  V0041035: 1.16
+  V0041036: 0
+  V0041038: 2
+  V0041039: 1.7
+  V0041040: 0
+  V0041042: 0
+  V0041044: 0
+  V0041047: 0
+  V0041049: 2
+  V0041052: 2
+  V0041057: 1.44
+  V0041058: 1.92
+  V0041064: 0
+  V0141042: 0.76
+  V0141062: 2
+  V0141063: 2
+  V9741022: 2
+  V9841071: 0
+  V9941001: 2
+  V9941014: 2
+  V9941028: 0.94
+  V9941031: 0
+  V9941040: 0.1
+  V9941057: 0
+  V9941065: 0
+  V9941071: 1
+  V9941075: 2
+  V9941076: 1.88
+points:
+  U0017024:
+    letters: 0
+    percent: 0
+  V0041002:
+    letters: 188
+    percent: 100
+  V0041007:
+    letters: 17
+    percent: 8
+  V0041009:
+    letters: 210
+    percent: 100
+  V0041012:
+    letters: 54
+    percent: 29
+  V0041015:
+    letters: 168
+    percent: 87
+  V0041019:
+    letters: 202
+    percent: 100
+  V0041028:
+    letters: 0
+    percent: 0
+  V0041030:
+    letters: 176
+    percent: 100
+  V0041035:
+    letters: 100
+    percent: 58
+  V0041036:
+    letters: 0
+    percent: 0
+  V0041038:
+    letters: 197
+    percent: 100
+  V0041039:
+    letters: 180
+    percent: 85
+  V0041040:
+    letters: 0
+    percent: 0
+  V0041042:
+    letters: 0
+    percent: 0
+  V0041044:
+    letters: 0
+    percent: 0
+  V0041047:
+    letters: 0
+    percent: 0
+  V0041049:
+    letters: 194
+    percent: 100
+  V0041052:
+    letters: 212
+    percent: 100
+  V0041057:
+    letters: 133
+    percent: 72
+  V0041058:
+    letters: 208
+    percent: 96
+  V0041064:
+    letters: 0
+    percent: 0
+  V0141042:
+    letters: 69
+    percent: 38
+  V0141062:
+    letters: 199
+    percent: 100
+  V0141063:
+    letters: 214
+    percent: 100
+  V9741022:
+    letters: 178
+    percent: 100
+  V9841071:
+    letters: 0
+    percent: 0
+  V9941001:
+    letters: 210
+    percent: 100
+  V9941014:
+    letters: 183
+    percent: 100
+  V9941028:
+    letters: 90
+    percent: 47
+  V9941031:
+    letters: 0
+    percent: 0
+  V9941040:
+    letters: 9
+    percent: 5
+  V9941057:
+    letters: 0
+    percent: 0
+  V9941065:
+    letters: 0
+    percent: 0
+  V9941071:
+    letters: 105
+    percent: 50
+  V9941075:
+    letters: 204
+    percent: 100
+  V9941076:
+    letters: 171
+    percent: 94
