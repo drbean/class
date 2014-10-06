@@ -1,0 +1,103 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: 1st_impressions
+grade:
+  B02200005: 1.84
+  B02200013: 0
+  B02200017: 0.64
+  B02200023: 1.98
+  B02200027: 1.78
+  B02200031: 0.96
+  B02200035: 0
+  B02200039: 0
+  B02200046: 0
+  B02200050: 0
+  B02200054: 0
+  B02200058: 1.96
+  B02200062: 0
+  B02200066: 0
+  B02200068: 1.84
+  B02200072: 0
+  B02200076: 0
+  B02200082: 1.88
+  B02200086: 0.04
+  B02200090: 0
+  B02200094: 0
+  B02200098: 0
+  B02200102: 2
+  B02200106: 0
+points:
+  B02200005:
+    letters: 288
+    percent: 92
+  B02200013:
+    letters: 0
+    percent: 0
+  B02200017:
+    letters: 99
+    percent: 32
+  B02200023:
+    letters: 356
+    percent: 99
+  B02200027:
+    letters: 301
+    percent: 89
+  B02200031:
+    letters: 164
+    percent: 48
+  B02200035:
+    letters: 0
+    percent: 0
+  B02200039:
+    letters: 0
+    percent: 0
+  B02200046:
+    letters: 0
+    percent: 0
+  B02200050:
+    letters: 0
+    percent: 0
+  B02200054:
+    letters: 0
+    percent: 0
+  B02200058:
+    letters: 305
+    percent: 98
+  B02200062:
+    letters: 0
+    percent: 0
+  B02200066:
+    letters: 0
+    percent: 0
+  B02200068:
+    letters: 309
+    percent: 92
+  B02200072:
+    letters: 0
+    percent: 0
+  B02200076:
+    letters: 0
+    percent: 0
+  B02200082:
+    letters: 316
+    percent: 94
+  B02200086:
+    letters: 6
+    percent: 2
+  B02200090:
+    letters: 0
+    percent: 0
+  B02200094:
+    letters: 0
+    percent: 0
+  B02200098:
+    letters: 0
+    percent: 0
+  B02200102:
+    letters: 336
+    percent: 100
+  B02200106:
+    letters: 0
+    percent: 0
