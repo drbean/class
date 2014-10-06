@@ -1,0 +1,119 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: 1st_impressions
+grade:
+  N02020034: 0
+  N02200001: 0
+  N02200003: 2
+  N02200006: 1.98
+  N02200009: 2
+  N02200011: 2
+  N02200013: 1.22
+  N02200016: 2
+  N02200020: 0
+  N02200024: 1.84
+  N02200026: 0.42
+  N02200028: 1.98
+  N02200030: 0
+  N02200032: 0.66
+  N02200038: 0
+  N02200040: 2
+  N02200043: 1.9
+  N02200045: 2
+  N02200047: 1.88
+  N02200049: 2
+  N02200051: 0
+  N02200054: 0
+  N02200057: 1.84
+  N02202102: 2
+  N03202101: 0
+  N03202103: 1.76
+  N03202105: 2
+  N99200030: 2
+points:
+  N02020034:
+    letters: 0
+    percent: 0
+  N02200001:
+    letters: 0
+    percent: 0
+  N02200003:
+    letters: 344
+    percent: 100
+  N02200006:
+    letters: 341
+    percent: 99
+  N02200009:
+    letters: 340
+    percent: 100
+  N02200011:
+    letters: 348
+    percent: 100
+  N02200013:
+    letters: 193
+    percent: 61
+  N02200016:
+    letters: 361
+    percent: 100
+  N02200020:
+    letters: 0
+    percent: 0
+  N02200024:
+    letters: 317
+    percent: 92
+  N02200026:
+    letters: 76
+    percent: 21
+  N02200028:
+    letters: 326
+    percent: 99
+  N02200030:
+    letters: 0
+    percent: 0
+  N02200032:
+    letters: 103
+    percent: 33
+  N02200038:
+    letters: 0
+    percent: 0
+  N02200040:
+    letters: 333
+    percent: 100
+  N02200043:
+    letters: 326
+    percent: 95
+  N02200045:
+    letters: 333
+    percent: 100
+  N02200047:
+    letters: 317
+    percent: 94
+  N02200049:
+    letters: 341
+    percent: 100
+  N02200051:
+    letters: 0
+    percent: 0
+  N02200054:
+    letters: 0
+    percent: 0
+  N02200057:
+    letters: 316
+    percent: 92
+  N02202102:
+    letters: 334
+    percent: 100
+  N03202101:
+    letters: 0
+    percent: 0
+  N03202103:
+    letters: 258
+    percent: 88
+  N03202105:
+    letters: 306
+    percent: 100
+  N99200030:
+    letters: 345
+    percent: 100
