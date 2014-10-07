@@ -31,12 +31,12 @@ member:
     rating: ~
   - Chinese: 廖嘉華
     id: U0118017
-    name: 廖嘉華
+    name: Alice
     password: jia
     rating: ~
   - Chinese: 呂奕萱
     id: U0122213
-    name: 呂奕萱
+    name: YiXuan
     password: yi
     rating: ~
   - Chinese: 詹文瑄
@@ -46,12 +46,12 @@ member:
     rating: ~
   - Chinese: 黃姝文
     id: U0217022
-    name: 黃姝文
+    name: Erin
     password: shu
     rating: ~
   - Chinese: 陳孝青
     id: U0218037
-    name: 陳孝青
+    name: Lisa
     password: xiao
     rating: ~
   - Chinese: 彭士維
@@ -61,17 +61,17 @@ member:
     rating: ~
   - Chinese: 劉盈成
     id: U0222015
-    name: 劉盈成
+    name: Sam
     password: ying
     rating: ~
   - Chinese: 劉正清
     id: U0342050
-    name: 劉正清
+    name: Ching
     password: zheng
     rating: ~
   - Chinese: 林冠志
     id: U9923128
-    name: 林冠志
+    name: Andy
     password: guan
     rating: ~
   - Chinese: 洪欣慈
