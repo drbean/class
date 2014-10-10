@@ -1,0 +1,159 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: potato
+grade:
+  U0017024: 0
+  V0041002: 2
+  V0041007: 0
+  V0041009: 2
+  V0041012: 0
+  V0041015: 1.88
+  V0041019: 2
+  V0041028: 0
+  V0041030: 2
+  V0041035: 1.44
+  V0041036: 0
+  V0041038: 2
+  V0041039: 2
+  V0041040: 2
+  V0041042: 0.74
+  V0041044: 2
+  V0041047: 0.42
+  V0041049: 2
+  V0041052: 1.34
+  V0041057: 1.4
+  V0041058: 0.72
+  V0041064: 2
+  V0141042: 0
+  V0141062: 2
+  V0141063: 1.96
+  V9741022: 1.94
+  V9841071: 0
+  V9941001: 2
+  V9941014: 2
+  V9941028: 0.8
+  V9941031: 2
+  V9941036: 0
+  V9941040: 2
+  V9941057: 0
+  V9941065: 2
+  V9941071: 0.62
+  V9941075: 1.46
+  V9941076: 2
+points:
+  U0017024:
+    letters: 0
+    percent: 0
+  V0041002:
+    letters: 169
+    percent: 100
+  V0041007:
+    letters: 0
+    percent: 0
+  V0041009:
+    letters: 197
+    percent: 100
+  V0041012:
+    letters: 0
+    percent: 0
+  V0041015:
+    letters: 195
+    percent: 94
+  V0041019:
+    letters: 177
+    percent: 100
+  V0041028:
+    letters: 0
+    percent: 0
+  V0041030:
+    letters: 190
+    percent: 100
+  V0041035:
+    letters: 134
+    percent: 72
+  V0041036:
+    letters: 0
+    percent: 0
+  V0041038:
+    letters: 195
+    percent: 100
+  V0041039:
+    letters: 194
+    percent: 100
+  V0041040:
+    letters: 217
+    percent: 100
+  V0041042:
+    letters: 82
+    percent: 37
+  V0041044:
+    letters: 201
+    percent: 100
+  V0041047:
+    letters: 39
+    percent: 21
+  V0041049:
+    letters: 187
+    percent: 100
+  V0041052:
+    letters: 144
+    percent: 67
+  V0041057:
+    letters: 137
+    percent: 70
+  V0041058:
+    letters: 64
+    percent: 36
+  V0041064:
+    letters: 211
+    percent: 100
+  V0141042:
+    letters: 0
+    percent: 0
+  V0141062:
+    letters: 190
+    percent: 100
+  V0141063:
+    letters: 197
+    percent: 98
+  V9741022:
+    letters: 182
+    percent: 97
+  V9841071:
+    letters: 0
+    percent: 0
+  V9941001:
+    letters: 202
+    percent: 100
+  V9941014:
+    letters: 193
+    percent: 100
+  V9941028:
+    letters: 87
+    percent: 40
+  V9941031:
+    letters: 169
+    percent: 100
+  V9941036:
+    letters: 0
+    percent: 0
+  V9941040:
+    letters: 215
+    percent: 100
+  V9941057:
+    letters: 0
+    percent: 0
+  V9941065:
+    letters: 177
+    percent: 100
+  V9941071:
+    letters: 63
+    percent: 31
+  V9941075:
+    letters: 141
+    percent: 73
+  V9941076:
+    letters: 187
+    percent: 100
