@@ -3,18 +3,18 @@
 
 2-1:
   absent:
-  merits: ~
+  merits: 2
 
 3-1:
   absent:
-  merits: ~
+  merits: 3
 
 4-1:
   absent:
-  merits: ~
+  merits: 2.5
 4-2:
   absent:
-  merits: ~
+  merits: 3
 
 questions:
   2-1: 0
