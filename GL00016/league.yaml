@@ -14,6 +14,12 @@ id: 031GL00016
 jigsaw: exam
 league: 中級英文聽說訓練 日語文共同學制虛擬班二丙
 member:
+  - Chinese: 王品宣
+    id: U0043029
+    name: Peter
+    password: pin
+    rating: ~
+  
   - Chinese: 陳偉庭
     id: M0221002
     name: Andy
@@ -92,7 +98,7 @@ member:
     rating: ~
   - Chinese: 吳彥霆
     id: U0311011
-    name: 吳彥霆
+    name: Paul
     password: yan
     rating: ~
   - Chinese: 張耿慈
