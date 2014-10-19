@@ -1,0 +1,67 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: abreu
+grade:
+  U0043036: 0
+  U0117004: 0
+  U0117031: 0
+  U0118017: 0
+  U0122213: 0
+  U0131213: 0
+  U0217022: 0
+  U0218037: 0
+  U0221004: 0
+  U0222015: 0
+  U0342050: 0
+  U9923128: 2
+  V9941031: 2
+  V9941036: 0
+  V9941057: 0
+points:
+  U0043036:
+    letters: 0
+    percent: 0
+  U0117004:
+    letters: 0
+    percent: 0
+  U0117031:
+    letters: 0
+    percent: 0
+  U0118017:
+    letters: 0
+    percent: 0
+  U0122213:
+    letters: 0
+    percent: 0
+  U0131213:
+    letters: 0
+    percent: 0
+  U0217022:
+    letters: 0
+    percent: 0
+  U0218037:
+    letters: 0
+    percent: 0
+  U0221004:
+    letters: 0
+    percent: 0
+  U0222015:
+    letters: 0
+    percent: 0
+  U0342050:
+    letters: 0
+    percent: 0
+  U9923128:
+    letters: 291
+    percent: 100
+  V9941031:
+    letters: 298
+    percent: 100
+  V9941036:
+    letters: 0
+    percent: 0
+  V9941057:
+    letters: 0
+    percent: 0
