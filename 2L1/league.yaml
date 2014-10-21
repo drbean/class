@@ -74,11 +74,6 @@ member:
     name: Kate
     password: rou
     rating: ~
-  - Chinese: 洪嘉翎
-    id: B02200062
-    name: 洪嘉翎
-    password: jia
-    rating: ~
   - Chinese: 黃士軒
     id: B02200066
     name: Roger
@@ -119,11 +114,6 @@ member:
     name: Polly
     password: li
     rating: ~
-  - Chinese: 姜瀚威
-    id: B02200098
-    name: Wade
-    password: han
-    rating: ~
   - Chinese: 賴羿心
     id: B02200102
     name: Doris
@@ -134,7 +124,17 @@ member:
     name: Veronica
     password: xin
     rating: ~
-out: ~
+out:
+  - Chinese: 洪嘉翎
+    id: B02200062
+    name: 洪嘉翎
+    password: jia
+    rating: ~
+  - Chinese: 姜瀚威
+    id: B02200098
+    name: Wade
+    password: han
+    rating: ~
 room: A705
 school: must
 scores:
