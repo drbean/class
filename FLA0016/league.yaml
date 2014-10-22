@@ -1,0 +1,481 @@
+---
+absent: ~
+active: ~
+anterior: 022FLA0018
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 英語會話(三)
+groupwork: session
+hw: homework
+hwMax: 2
+id: 031FLA0016
+league: 夜應外三甲
+member:
+  - Chinese: 彭偉光
+    id: V0031007
+    name: 彭偉光
+    password: wei
+    rating: ~
+  - Chinese: 謝宜潔
+    id: V0041022
+    name: Angela
+    password: yi
+    rating: ~
+  - Chinese: 蔡立瑋
+    id: V0141001
+    name: 蔡立瑋
+    password: li
+    rating: ~
+  - Chinese: 毛明珊
+    id: V0141002
+    name: Uta
+    password: ming
+    rating: ~
+  - Chinese: 吳于嫥
+    id: V0141003
+    name: 吳于嫥
+    password: yu
+    rating: ~
+  - Chinese: 張晉嘉
+    id: V0141006
+    name: Billy
+    password: jin
+    rating: ~
+  - Chinese: 曾慧珊
+    id: V0141008
+    name: 曾慧珊
+    password: hui
+    rating: ~
+  - Chinese: 黃志泉
+    id: V0141009
+    name: Jimmy
+    password: zhi
+    rating: ~
+  - Chinese: 鍾育霖
+    id: V0141011
+    name: 鍾育霖
+    password: yu
+    rating: ~
+  - Chinese: 彭振浩
+    id: V0141012
+    name: Brian
+    password: zhen
+    rating: ~
+  - Chinese: 張偉棋
+    id: V0141016
+    name: 張偉棋
+    password: wei
+    rating: ~
+  - Chinese: 陳冠儒
+    id: V0141017
+    name: Peter
+    password: guan
+    rating: ~
+  - Chinese: 胡智鈞
+    id: V0141018
+    name: 胡智鈞
+    password: zhi
+    rating: ~
+  - Chinese: 黃宇
+    id: V0141019
+    name: Louis
+    password: yu
+    rating: ~
+  - Chinese: 徐筱柔
+    id: V0141021
+    name: 徐筱柔
+    password: xiao
+    rating: ~
+  - Chinese: 陳宥蓁
+    id: V0141022
+    name: Ula
+    password: you
+    rating: ~
+  - Chinese: 宋紫如
+    id: V0141023
+    name: 宋紫如
+    password: zi
+    rating: ~
+  - Chinese: 林嘉真
+    id: V0141025
+    name: Vivi
+    password: jia
+    rating: ~
+  - Chinese: 傅欣誼
+    id: V0141026
+    name: 傅欣誼
+    password: xin
+    rating: ~
+  - Chinese: 宋紫婷
+    id: V0141028
+    name: Carol
+    password: zi
+    rating: ~
+  - Chinese: 邱凱蒂
+    id: V0141029
+    name: 邱凱蒂
+    password: kai
+    rating: ~
+  - Chinese: 吳翊甄
+    id: V0141035
+    name: Jane
+    password: yi
+    rating: ~
+  - Chinese: 解雅婷
+    id: V0141036
+    name: 解雅婷
+    password: ya
+    rating: ~
+  - Chinese: 藍美文
+    id: V0141037
+    name: Nora
+    password: mei
+    rating: ~
+  - Chinese: 謝婕榆
+    id: V0141038
+    name: 謝婕榆
+    password: jie
+    rating: ~
+  - Chinese: 邱晴
+    id: V0141041
+    name: Sunny
+    password: qing
+    rating: ~
+  - Chinese: 劉晏秀
+    id: V0141042
+    name: Christy
+    password: yan
+    rating: ~
+  - Chinese: 林念蓉
+    id: V0141043
+    name: 林念蓉
+    password: nian
+    rating: ~
+  - Chinese: 黃如妘
+    id: V0141046
+    name: 黃如妘
+    password: ru
+    rating: ~
+  - Chinese: 林宛瑩
+    id: V0141048
+    name: Wynn
+    password: wan
+    rating: ~
+  - Chinese: 黃姵甄
+    id: V0141049
+    name: 黃姵甄
+    password: pei
+    rating: ~
+  - Chinese: 陳珮文
+    id: V0141050
+    name: Luna
+    password: pei
+    rating: ~
+  - Chinese: 徐郁惠
+    id: V0141051
+    name: 徐郁惠
+    password: yu
+    rating: ~
+  - Chinese: 陳沛雯
+    id: V0141052
+    name: Sara
+    password: pei
+    rating: ~
+  - Chinese: 溫燁葶
+    id: V0141053
+    name: 溫燁葶
+    password: ye
+    rating: ~
+  - Chinese: 林雨潔
+    id: V0141054
+    name: Lydia
+    password: yu
+    rating: ~
+  - Chinese: 黃柔禎
+    id: V0141055
+    name: 黃柔禎
+    password: rou
+    rating: ~
+  - Chinese: 吳美熠
+    id: V0141058
+    name: Michelle
+    password: mei
+    rating: ~
+  - Chinese: 陳虹吟
+    id: V0141059
+    name: 陳虹吟
+    password: hong
+    rating: ~
+  - Chinese: 徐銘均
+    id: V0141060
+    name: Owen
+    password: ming
+    rating: ~
+  - Chinese: 施志昇
+    id: V0141061
+    name: 施志昇
+    password: zhi
+    rating: ~
+  - Chinese: 林遠凱
+    id: V0141062
+    name: 林遠凱
+    password: yuan
+    rating: ~
+  - Chinese: 洪君綾
+    id: V0141063
+    name: 洪君綾
+    password: jun
+    rating: ~
+  - Chinese: 黃雅屏
+    id: V0141065
+    name: 黃雅屏
+    password: ya
+    rating: ~
+  - Chinese: 陳韋志
+    id: V9941077
+    name: Joe
+    password: wei
+    rating: ~
+out: []
+room: A706
+school: nuu
+session:
+  1: 1
+  3: 10
+  4: 14
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
+cohort:
+  1:
+
+    - Chinese: 謝宜潔
+      id: V0041022
+      name: Angela
+      password: yi
+      rating: ~
+    - Chinese: 毛明珊
+      id: V0141002
+      name: Uta
+      password: ming
+      rating: ~
+    - Chinese: 張晉嘉
+      id: V0141006
+      name: Billy
+      password: jin
+      rating: ~
+    - Chinese: 黃志泉
+      id: V0141009
+      name: Jimmy
+      password: zhi
+      rating: ~
+    - Chinese: 彭振浩
+      id: V0141012
+      name: Brian
+      password: zhen
+      rating: ~
+    - Chinese: 陳冠儒
+      id: V0141017
+      name: Peter
+      password: guan
+      rating: ~
+    - Chinese: 黃宇
+      id: V0141019
+      name: Louis
+      password: yu
+      rating: ~
+    - Chinese: 陳宥蓁
+      id: V0141022
+      name: Ula
+      password: you
+      rating: ~
+    - Chinese: 林嘉真
+      id: V0141025
+      name: Vivi
+      password: jia
+      rating: ~
+    - Chinese: 宋紫婷
+      id: V0141028
+      name: Carol
+      password: zi
+      rating: ~
+    - Chinese: 吳翊甄
+      id: V0141035
+      name: Jane
+      password: yi
+      rating: ~
+    - Chinese: 藍美文
+      id: V0141037
+      name: Nora
+      password: mei
+      rating: ~
+    - Chinese: 邱晴
+      id: V0141041
+      name: Sunny
+      password: qing
+      rating: ~
+    - Chinese: 劉晏秀
+      id: V0141042
+      name: Christy
+      password: yan
+      rating: ~
+    - Chinese: 林宛瑩
+      id: V0141048
+      name: Wynn
+      password: wan
+      rating: ~
+    - Chinese: 陳珮文
+      id: V0141050
+      name: Luna
+      password: pei
+      rating: ~
+    - Chinese: 陳沛雯
+      id: V0141052
+      name: Sara
+      password: pei
+      rating: ~
+    - Chinese: 林雨潔
+      id: V0141054
+      name: Lydia
+      password: yu
+      rating: ~
+    - Chinese: 吳美熠
+      id: V0141058
+      name: Michelle
+      password: mei
+      rating: ~
+    - Chinese: 徐銘均
+      id: V0141060
+      name: Owen
+      password: ming
+      rating: ~
+    - Chinese: 陳韋志
+      id: V9941077
+      name: Joe
+      password: wei
+      rating: ~
+  2:
+    - Chinese: 彭偉光
+      id: V0031007
+      name: 彭偉光
+      password: wei
+      rating: ~
+    - Chinese: 蔡立瑋
+      id: V0141001
+      name: 蔡立瑋
+      password: li
+      rating: ~
+    - Chinese: 吳于嫥
+      id: V0141003
+      name: 吳于嫥
+      password: yu
+      rating: ~
+    - Chinese: 曾慧珊
+      id: V0141008
+      name: 曾慧珊
+      password: hui
+      rating: ~
+    - Chinese: 鍾育霖
+      id: V0141011
+      name: 鍾育霖
+      password: yu
+      rating: ~
+    - Chinese: 張偉棋
+      id: V0141016
+      name: 張偉棋
+      password: wei
+      rating: ~
+    - Chinese: 胡智鈞
+      id: V0141018
+      name: 胡智鈞
+      password: zhi
+      rating: ~
+    - Chinese: 徐筱柔
+      id: V0141021
+      name: 徐筱柔
+      password: xiao
+      rating: ~
+    - Chinese: 宋紫如
+      id: V0141023
+      name: 宋紫如
+      password: zi
+      rating: ~
+    - Chinese: 傅欣誼
+      id: V0141026
+      name: 傅欣誼
+      password: xin
+      rating: ~
+    - Chinese: 邱凱蒂
+      id: V0141029
+      name: 邱凱蒂
+      password: kai
+      rating: ~
+    - Chinese: 解雅婷
+      id: V0141036
+      name: 解雅婷
+      password: ya
+      rating: ~
+    - Chinese: 謝婕榆
+      id: V0141038
+      name: 謝婕榆
+      password: jie
+      rating: ~
+    - Chinese: 林念蓉
+      id: V0141043
+      name: 林念蓉
+      password: nian
+      rating: ~
+    - Chinese: 黃如妘
+      id: V0141046
+      name: 黃如妘
+      password: ru
+      rating: ~
+    - Chinese: 黃姵甄
+      id: V0141049
+      name: 黃姵甄
+      password: pei
+      rating: ~
+    - Chinese: 徐郁惠
+      id: V0141051
+      name: 徐郁惠
+      password: yu
+      rating: ~
+    - Chinese: 溫燁葶
+      id: V0141053
+      name: 溫燁葶
+      password: ye
+      rating: ~
+    - Chinese: 黃柔禎
+      id: V0141055
+      name: 黃柔禎
+      password: rou
+      rating: ~
+    - Chinese: 陳虹吟
+      id: V0141059
+      name: 陳虹吟
+      password: hong
+      rating: ~
+    - Chinese: 施志昇
+      id: V0141061
+      name: 施志昇
+      password: zhi
+      rating: ~
+    - Chinese: 林遠凱
+      id: V0141062
+      name: 林遠凱
+      password: yuan
+      rating: ~
+    - Chinese: 洪君綾
+      id: V0141063
+      name: 洪君綾
+      password: jun
+      rating: ~
+    - Chinese: 黃雅屏
+      id: V0141065
+      name: 黃雅屏
+      password: ya
+      rating: ~
