@@ -13,9 +13,15 @@ hwMax: 2
 id: 031FLA0027
 league: 夜應外大學四甲
 member:
+  - Chinese: 陳采玲
+    id: V9941036
+    name: Louanna
+    password: cai
+    rating: ~
+
   - Chinese: 傅渼淳
     id: V0041064
-    name: Winnie
+    name: Winny
     password: mei
     rating: ~
   
@@ -114,7 +120,7 @@ member:
     rating: ~
   - Chinese: 施彥菁
     id: V0041040
-    name: YanJing
+    name: Sherry
     password: yan
     rating: ~
   - Chinese: 賴于雯
