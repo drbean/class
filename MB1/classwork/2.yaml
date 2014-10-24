@@ -23,7 +23,7 @@
   merits: 2
 4-1:
   absent: ~
-  merits: 4
+  merits: 3
 4-2:
   absent:
     - 金玉婷
