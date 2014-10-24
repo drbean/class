@@ -5,43 +5,43 @@
 1-1:
   absent:
     - Elvira
-  merits: ~
+  merits: 3
 
 1-2:
   absent:
-  merits: ~
+  merits: 2
 
 2-1:
   absent:
-  merits: ~
+  merits: 3
 6-1:
   absent:
     - Han
     - Hans
-  merits: ~
+  merits: 0
 
 2-2:
   absent:
-  merits: ~
+  merits: 3
 
 3-1:
   absent:
     - Erica
     - Doni
     - David
-  merits: ~
+  merits: 0
 3-2:
   absent:
-  merits: ~
+  merits: 2.5
 
 4-1:
   absent:
-  merits: ~
+  merits: 3
 
-4-1:
+4-2:
   tardy:
     - Dave
-  merits: ~
+  merits: 3
 
 questions:
   -
