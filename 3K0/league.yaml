@@ -7,7 +7,8 @@ compcomp: comp
 examMax: 5
 exams: exam
 field: 科技商務英文
-groupwork: session
+group: session
+groupwork: classwork
 hw: homework
 hwMax: 2
 id: AFN3K0
@@ -55,16 +56,6 @@ member:
     name: Vicky
     password: yu
     rating: ~
-  - Chinese: 葉淑玲
-    id: N01200026
-    name: Betty
-    password: shu
-    rating: ~
-  - Chinese: 陳俐婷
-    id: N01200028
-    name: Mira
-    password: li
-    rating: ~
   - Chinese: 黃俞嘉
     id: N01200029
     name: Shine
@@ -100,11 +91,6 @@ member:
     name: Hans
     password: cheng
     rating: ~
-  - Chinese: 江進慧
-    id: N01200045
-    name: Samantha
-    password: jin
-    rating: ~
   - Chinese: 江佳璇
     id: N01200046
     name: Erica
@@ -114,11 +100,6 @@ member:
     id: N01200056
     name: Ted
     password: sheng
-    rating: ~
-  - Chinese: 張敏鈺
-    id: N01200058
-    name: Lucia
-    password: min
     rating: ~
   - Chinese: 陳文億
     id: N02202101
@@ -140,11 +121,6 @@ member:
     name: Wayne
     password: wei
     rating: ~
-  - Chinese: 董翌亦
-    id: N02202111
-    name: Elvira
-    password: yi
-    rating: ~
   - Chinese: 鄭巧柔
     id: N02202114
     name: Amy
@@ -165,7 +141,32 @@ member:
     name: Stan
     password: xin
     rating: ~
-out: ~
+out:
+  - Chinese: 葉淑玲
+    id: N01200026
+    name: Betty
+    password: shu
+    rating: ~
+  - Chinese: 董翌亦
+    id: N02202111
+    name: Elvira
+    password: yi
+    rating: ~
+  - Chinese: 張敏鈺
+    id: N01200058
+    name: Lucia
+    password: min
+    rating: ~
+  - Chinese: 江進慧
+    id: N01200045
+    name: Samantha
+    password: jin
+    rating: ~
+  - Chinese: 陳俐婷
+    id: N01200028
+    name: Mira
+    password: li
+    rating: ~
 room: A705
 school: must
 scores:
