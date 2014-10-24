@@ -7,18 +7,14 @@ compcomp: comp
 examMax: 5
 exams: exam
 field: 英語會話(一)
-groupwork: session
+group: session
+groupwork: classwork
 hw: homework
 hwMax: 2
 id: AFN2MB1
 jigsaw: exam
 league: NAF021__四技外二甲
 member:
-  - Chinese: 郭彥廷
-    id: N02020034
-    name: 郭彥廷
-    password: yan
-    rating: ~
   - Chinese: 廖幸嬋
     id: N99200030
     name: XingChan
@@ -89,11 +85,6 @@ member:
     name: Jacky
     password: zun
     rating: ~
-  - Chinese: 楊善存
-    id: N02200038
-    name: 楊善存
-    password: shan
-    rating: ~
   - Chinese: 楊捷榀
     id: N02200040
     name: Yang
@@ -124,11 +115,6 @@ member:
     name: Una
     password: yong
     rating: ~
-  - Chinese: 張修璧
-    id: N02200054
-    name: 張修璧
-    password: xiu
-    rating: ~
   - Chinese: 彭聖雅
     id: N02200057
     name: Peng
@@ -138,11 +124,6 @@ member:
     id: N02202102
     name: Daisy
     password: jia
-    rating: ~
-  - Chinese: 金玉婷
-    id: N03202101
-    name: 金玉婷
-    password: yu
     rating: ~
   - Chinese: 鍾怡華
     id: N03202103
@@ -154,7 +135,27 @@ member:
     name: Sophia
     password: yu
     rating: ~
-out: ~
+out:
+  - Chinese: 金玉婷
+    id: N03202101
+    name: 金玉婷
+    password: yu
+    rating: ~
+  - Chinese: 張修璧
+    id: N02200054
+    name: 張修璧
+    password: xiu
+    rating: ~
+  - Chinese: 楊善存
+    id: N02200038
+    name: 楊善存
+    password: shan
+    rating: ~
+  - Chinese: 郭彥廷
+    id: N02020034
+    name: 郭彥廷
+    password: yan
+    rating: ~
 room: A705
 school: must
 scores:
