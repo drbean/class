@@ -1,0 +1,84 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 10
+pass: 6
+assistant:
+  - Amy
+  - HsinCih
+absent:
+  - Christy
+  - Una
+  - Sharon
+text: /home/drbean/class/media/cards.yaml
+activity:
+  dog:
+    0:
+      - 1-1
+      - 2-2
+      - 7-1
+      - 8-1
+  kiss:
+    0:
+      - 2-1
+      - 3-2
+  potato:
+    0:
+      - 1-2
+      - 4-1
+      - 6-1
+  illegals:
+    0:
+      - 3-1
+      - 4-2
+      - 5-1
+group:
+  1-1:
+    - Alice
+    - Brock
+    - XinFang
+  1-2:
+    - YanSan
+    - Yu-Wen
+    - Winny
+  2-1:
+    - Amy
+    - Show
+    - Oscar
+  2-2:
+    - Amy
+    - Tony
+    - David
+  3-1:
+    - Nina
+    - Cindy
+    - HsinCih
+  3-2:
+    - Nini
+    - Lucy
+    - YaTing
+  4-1:
+    - MengShiung
+    - May
+    - Nora
+  4-2:
+    - Jack
+    - Sherry
+    - Sing
+  5-1:
+    - Willy
+    - Jessie
+    - Ada
+  6-1:
+    - Joy
+    - Karsten
+    - Rei
+  7-1:
+    - Brenda
+    - Bruce
+    - Vera
+  8-1:
+    - Claire
+    - HsinCih
+    - Louanna
