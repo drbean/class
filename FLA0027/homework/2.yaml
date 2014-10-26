@@ -4,7 +4,6 @@ cutpoints:
   two: ~
 exercise: kiss
 grade:
-  U0017024: 0
   V0041002: 2
   V0041007: 0.16
   V0041009: 2
@@ -25,7 +24,7 @@ grade:
   V0041052: 2
   V0041057: 1.44
   V0041058: 1.92
-  V0041064: 0
+  V0041064: 2
   V0141042: 0.76
   V0141062: 2
   V0141063: 2
@@ -35,16 +34,14 @@ grade:
   V9941014: 2
   V9941028: 0.94
   V9941031: 0
+  V9941036: 0
   V9941040: 0.1
   V9941057: 0
   V9941065: 0
   V9941071: 1
   V9941075: 2
-  V9941076: 1.88
+  V9941076: 2
 points:
-  U0017024:
-    letters: 0
-    percent: 0
   V0041002:
     letters: 188
     percent: 100
@@ -106,8 +103,8 @@ points:
     letters: 208
     percent: 96
   V0041064:
-    letters: 0
-    percent: 0
+    letters: 182
+    percent: 100
   V0141042:
     letters: 69
     percent: 38
@@ -135,6 +132,9 @@ points:
   V9941031:
     letters: 0
     percent: 0
+  V9941036:
+    letters: 0
+    percent: 0
   V9941040:
     letters: 9
     percent: 5
@@ -151,5 +151,5 @@ points:
     letters: 204
     percent: 100
   V9941076:
-    letters: 171
-    percent: 94
+    letters: 182
+    percent: 100
