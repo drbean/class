@@ -1,0 +1,57 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 10
+pass: 4
+assistant:
+  - Davis
+  - Linda
+absent:
+  - Rachel
+  - Sylvia
+  - YiZhen
+text: /home/drbean/class/speaking/cards.yaml
+activity:
+  marriage:
+    0:
+      - 2-1
+    1:
+      - 1-1
+      - 1-2
+    2:
+      - 3-1
+      - 4-2
+    3:
+      - 3-2
+      - 4-1
+
+group:
+  1-1:
+    - Mia
+    - Cindy
+    - Veronica
+  1-2:
+    - Una
+    - Roger
+    - Linda
+  2-1:
+    - Kate
+    - Davis
+    - David
+  3-1:
+    - Yuki
+    - Doris
+    - Bruce1
+  3-2:
+    - WenXin
+    - Linda
+    - Hamburger
+  4-1:
+    - Pizza
+    - Davis
+    - Jack
+  4-2:
+    - Polly
+    - JieNing
+    - ZiXin
