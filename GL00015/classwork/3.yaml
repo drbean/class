@@ -1,0 +1,35 @@
+---
+# topic: surname spelling
+# topic: + receptionist cloze comp
+
+2-1:
+  absent:
+  merits: 2.5
+
+2-2:
+  absent:
+  merits: 2
+
+3-1:
+  absent:
+  merits: 3
+
+3-2:
+  absent:
+  merits: 3
+
+4-1:
+  absent:
+  merits: 2.5
+
+4-2:
+  absent:
+  merits: 2.5
+
+spelling_cloze:
+  2-1: 6
+  2-2: 5
+  3-1: 7
+  3-2: 7
+  4-1: 6
+  4-2: 6
