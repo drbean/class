@@ -1,0 +1,683 @@
+---
+V0031007: 0
+V0041022: 3
+V0141001: 0
+V0141002: 3
+V0141003: 0
+V0141006: 3
+V0141008: 0
+V0141009: 3
+V0141011: 0
+V0141012: 5
+V0141016: 0
+V0141017: 5
+V0141018: 0
+V0141019: 5
+V0141021: 0
+V0141022: 3
+V0141023: 0
+V0141025: 5
+V0141026: 0
+V0141028: 5
+V0141029: 0
+V0141035: 3
+V0141036: 0
+V0141037: 3
+V0141038: 0
+V0141041: 5
+V0141042: 3
+V0141043: 0
+V0141046: 0
+V0141048: 3
+V0141049: 0
+V0141050: 3
+V0141051: 0
+V0141052: 3
+V0141053: 0
+V0141054: 5
+V0141055: 0
+V0141058: 0
+V0141059: 0
+V0141060: 0
+V0141061: 0
+V0141062: 0
+V0141063: 0
+V0141065: 0
+V9941077: 3
+cutpoints:
+  loser: 4
+  quitter: 4
+  winner: 5
+exercise: jackson_exam
+grade:
+  V0031007: 0
+  V0041022: 3
+  V0141001: 0
+  V0141002: 3
+  V0141003: 0
+  V0141006: 3
+  V0141008: 0
+  V0141009: 3
+  V0141011: 0
+  V0141012: 5
+  V0141016: 0
+  V0141017: 5
+  V0141018: 0
+  V0141019: 5
+  V0141021: 0
+  V0141022: 3
+  V0141023: 0
+  V0141025: 5
+  V0141026: 0
+  V0141028: 5
+  V0141029: 0
+  V0141035: 3
+  V0141036: 0
+  V0141037: 3
+  V0141038: 0
+  V0141041: 5
+  V0141042: 3
+  V0141043: 0
+  V0141046: 0
+  V0141048: 3
+  V0141049: 0
+  V0141050: 3
+  V0141051: 0
+  V0141052: 3
+  V0141053: 0
+  V0141054: 5
+  V0141055: 0
+  V0141058: 0
+  V0141059: 0
+  V0141060: 0
+  V0141061: 0
+  V0141062: 0
+  V0141063: 0
+  V0141065: 0
+  V9941077: 3
+points:
+  V0031007:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0041022:
+    Wh:
+      answers: 0
+      questions: -7992
+      attempts: 4
+    Yn:
+      answers: 0
+      questions: -5994
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141001:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141002:
+    Wh:
+      answers: 0
+      questions: -7991
+      attempts: 4
+    Yn:
+      answers: 0
+      questions: -5993
+      attempts: 9
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141003:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141006:
+    Wh:
+      answers: 0
+      questions: -7992
+      attempts: 0
+    Yn:
+      answers: 1
+      questions: -5991
+      attempts: 20
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141008:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141009:
+    Wh:
+      answers: 0
+      questions: -7991
+      attempts: 3
+    Yn:
+      answers: 0
+      questions: -5994
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141011:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141012:
+    Wh:
+      answers: 0
+      questions: -7992
+      attempts: 0
+    Yn:
+      answers: 4
+      questions: -5989
+      attempts: 19
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141016:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141017:
+    Wh:
+      answers: 1
+      questions: -7991
+      attempts: 8
+    Yn:
+      answers: 4
+      questions: -5988
+      attempts: 11
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141018:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141019:
+    Wh:
+      answers: 0
+      questions: -7992
+      attempts: 0
+    Yn:
+      answers: 6
+      questions: -5987
+      attempts: 10
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141021:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141022:
+    Wh:
+      answers: 0
+      questions: -7992
+      attempts: 4
+    Yn:
+      answers: 0
+      questions: -5994
+      attempts: 16
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141023:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141025:
+    Wh:
+      answers: 2
+      questions: -7989
+      attempts: 17
+    Yn:
+      answers: 2
+      questions: -5991
+      attempts: 7
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141026:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141028:
+    Wh:
+      answers: 0
+      questions: -7992
+      attempts: 5
+    Yn:
+      answers: 4
+      questions: -5988
+      attempts: 14
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141029:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141035:
+    Wh:
+      answers: 0
+      questions: -7990
+      attempts: 8
+    Yn:
+      answers: 2
+      questions: -5991
+      attempts: 9
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141036:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141037:
+    Wh:
+      answers: 0
+      questions: -7992
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: -5994
+      attempts: 6
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141038:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141041:
+    Wh:
+      answers: 2
+      questions: -7990
+      attempts: 10
+    Yn:
+      answers: 2
+      questions: -5991
+      attempts: 8
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141042:
+    Wh:
+      answers: 0
+      questions: -7992
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: -5994
+      attempts: 20
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141043:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141046:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141048:
+    Wh:
+      answers: 0
+      questions: -7991
+      attempts: 11
+    Yn:
+      answers: 1
+      questions: -5993
+      attempts: 9
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141049:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141050:
+    Wh:
+      answers: 1
+      questions: -7991
+      attempts: 10
+    Yn:
+      answers: 0
+      questions: -5992
+      attempts: 10
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141051:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141052:
+    Wh:
+      answers: 0
+      questions: -7992
+      attempts: 0
+    Yn:
+      answers: 1
+      questions: -5987
+      attempts: 41
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141053:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141054:
+    Wh:
+      answers: 0
+      questions: -7992
+      attempts: 4
+    Yn:
+      answers: 3
+      questions: -5986
+      attempts: 13
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
+  V0141055:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141058:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141059:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141060:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141061:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141062:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141063:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0141065:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V9941077:
+    Wh:
+      answers: 0
+      questions: -7992
+      attempts: 11
+    Yn:
+      answers: 0
+      questions: -5994
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: -5994
+      attempts: 0
