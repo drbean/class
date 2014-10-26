@@ -7,7 +7,8 @@ classMax: 3
 examMax: 5
 exams: exam
 field: 新聞英語
-groupwork: session
+group: session
+groupwork: classwork
 hw: homework
 hwMax: 2
 id: 031FLA0027
@@ -30,11 +31,6 @@ member:
     name: Bruce
     password: zi
     rating: ~
-  - Chinese: 王志睿
-    id: U0017024
-    name: Rick
-    password: zhi
-    rating: 49
   - Chinese: 陳煜楓
     id: V0041058
     name: Vera
@@ -208,11 +204,17 @@ member:
     name: MengShiung
     password: meng
     rating: ~
-out: ~
+out:
+  - Chinese: 王志睿
+    id: U0017024
+    name: Rick
+    password: zhi
+    rating: 49
 room: A705
 school: nuu
 session:
   1: 1
+  2: 6
 weights:
   classwork: 40
   exams: 20
