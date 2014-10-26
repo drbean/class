@@ -1,0 +1,54 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 10
+pass: 6
+assistant:
+  - Owen
+absent:
+  - Michelle
+text: /home/drbean/class/conversation/work/cards.yaml
+activity:
+  dickson:
+    1:
+      - 1-2
+      - 7-2
+      - 8-2
+  abreu:
+    1:
+      - 1-1
+      - 7-1
+  jackson:
+    0:
+      - 2-1
+      - 8-1
+group:
+  1-1:
+    - Owen
+    - Carol
+    - Jane
+  1-2:
+    - Lydia
+    - Uta
+    - Luna
+  2-1:
+    - Jimmy
+    - Vivi
+    - Louis
+  7-1:
+    - Joe
+    - Sara
+    - Peter
+  7-2:
+    - Nora
+    - Billy
+    - Sunny
+  8-1:
+    - Brian
+    - Ula
+    - Christy
+  8-2:
+    - Wynn
+    - Angela
+    - Owen
