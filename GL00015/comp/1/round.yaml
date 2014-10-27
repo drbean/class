@@ -1,0 +1,36 @@
+---
+activity:
+  dickson:
+    0:
+      - 1
+      - 2
+      - 3
+  abreu:
+    0:
+      - 1
+      - 2
+      - 3
+  jackson:
+    0:
+      - 1
+      - 2
+      - 3
+assistant: ~
+bye: U0122213
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: U0222015
+    Black: V9941031
+  2:
+    White: V9941036
+    Black: V9941057
+  3:
+    White: U0218037
+    Black: U0221004
+pairing: swiss
+payprotocol: meritPay
+round: 1
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 5
