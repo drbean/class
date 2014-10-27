@@ -1,0 +1,129 @@
+---
+free:
+  0:
+    dickson:
+      0:
+        U0031022:
+          point:
+            1: Fault on 2nd chance
+        U0222303:
+          point:
+            1: Unreturned on 2nd chance
+    abreu:
+      0:
+        U0031022:
+          point:
+            1: Nil
+        U0222303:
+          point:
+            1: Returned
+    jackson:
+      0:
+        U0031022:
+          point:
+            1: Returned
+        U0222303:
+          point:
+            1: Nil
+  1:
+    dickson:
+      0:
+        U0222112:
+          point:
+            1: Returned
+        U0131128:
+          point:
+            1: Returned
+    abreu:
+      0:
+        U0222112:
+          point:
+            1: Returned on 2nd chance
+        U0131128:
+          point:
+            1: Returned
+    jackson:
+      0:
+        U0222112:
+          point:
+            1: Nil
+        U0131128:
+          point:
+            1: Nil
+  2:
+    dickson:
+      0:
+        U9810037:
+          point:
+            1: Fault on 2nd chance
+        U0131257:
+          point:
+            1: Fault on 2nd chance
+            2: Returned on 2nd chance
+    abreu:
+      0:
+        U9810037:
+          point:
+            1: Nil
+        U0131257:
+          point:
+            1: Nil
+    jackson:
+      0:
+        U9810037:
+          point:
+            1: Returned
+        U0131257:
+          point:
+            1: Nil
+  3:
+    dickson:
+      0:
+        U0043039:
+          point:
+            1: Returned
+        U0111135:
+          point:
+            1: Returned on 2nd chance
+    abreu:
+      0:
+        U0043039:
+          point:
+            1: Nil
+        U0111135:
+          point:
+            1: Fault on 2nd chance
+    jackson:
+      0:
+        U0043039:
+          point:
+            1: Returned
+        U0111135:
+          point:
+            1: Nil
+  4:
+    dickson:
+      0:
+        U0311011:
+          point:
+            1: Returned
+        U0016014:
+          point:
+            1: Returned
+            2: Returned on 2nd chance
+    abreu:
+      0:
+        U0311011:
+          point:
+            1: Returned
+        U0016014:
+          point:
+            1: Nil
+    jackson:
+      0:
+        U0311011:
+          point:
+            1: Nil
+        U0016014:
+          point:
+            1: Nil
