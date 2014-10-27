@@ -1,0 +1,38 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 10
+pass: 6
+assistant:
+  - Bruce
+  - David
+absent:
+  - Wayne
+  - Lucy
+  - Andy
+  - Erin
+text: /home/drbean/class/conversation/work/cards.yaml
+activity:
+  dickson:
+    1:
+      - 4-1
+  abreu:
+    1:
+      - 2-1
+  jackson:
+    0:
+      - 3-1
+group:
+  2-1:
+    - David
+    - Bruce
+    - Lisa
+  3-1:
+    - Louanna
+    - Bruce
+    - David
+  4-1:
+    - Sam
+    - HsinCih
+    - YiXuan
