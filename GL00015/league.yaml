@@ -7,18 +7,14 @@ compcomp: comp
 examMax: 5
 exams: exam
 field: 中級英文聽說訓練
-groupwork: session
+group: session
+groupwork: classwork
 hw: homework
 hwMax: 2
 id: 031GL00015
 jigsaw: exam
 league: 中級英文聽說訓練 日語文共同學制虛擬班二乙
 member:
-  - Chinese: 薛健良
-    id: U0043036
-    name: Kevin
-    password: jian
-    rating: ~
   - Chinese: 游文詮
     id: U0117004
     name: Wayne
@@ -29,25 +25,10 @@ member:
     name: Lucy
     password: wei
     rating: ~
-  - Chinese: 廖嘉華
-    id: U0118017
-    name: Alice
-    password: jia
-    rating: ~
   - Chinese: 呂奕萱
     id: U0122213
     name: YiXuan
     password: yi
-    rating: ~
-  - Chinese: 詹文瑄
-    id: U0131213
-    name: 詹文瑄
-    password: wen
-    rating: ~
-  - Chinese: 黃姝文
-    id: U0217022
-    name: Erin
-    password: shu
     rating: ~
   - Chinese: 陳孝青
     id: U0218037
@@ -63,11 +44,6 @@ member:
     id: U0222015
     name: Sam
     password: ying
-    rating: ~
-  - Chinese: 劉正清
-    id: U0342050
-    name: Ching
-    password: zheng
     rating: ~
   - Chinese: 林冠志
     id: U9923128
@@ -90,6 +66,31 @@ member:
     password: yi
     rating: ~
 out:
+  - Chinese: 劉正清
+    id: U0342050
+    name: Ching
+    password: zheng
+    rating: ~
+  - Chinese: 薛健良
+    id: U0043036
+    name: Kevin
+    password: jian
+    rating: ~
+  - Chinese: 黃姝文
+    id: U0217022
+    name: Erin
+    password: shu
+    rating: ~
+  - Chinese: 廖嘉華
+    id: U0118017
+    name: Alice
+    password: jia
+    rating: ~
+  - Chinese: 詹文瑄
+    id: U0131213
+    name: 詹文瑄
+    password: wen
+    rating: ~
   - Chinese: 林
     id: U0134010
     name: Audrey
