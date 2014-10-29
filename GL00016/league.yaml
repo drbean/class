@@ -7,14 +7,15 @@ compcomp: comp
 examMax: 5
 exams: exam
 field: 中級英文聽說訓練
-groupwork: session
+group: session
+groupwork: classwork
 hw: homework
 hwMax: 2
 id: 031GL00016
 jigsaw: exam
 league: 中級英文聽說訓練 日語文共同學制虛擬班二丙
 member:
-  - Chinese: 王品宣
+  - Chinese: 王品軒
     id: U0043029
     name: Peter
     password: pin
@@ -41,21 +42,6 @@ member:
     name: Alice
     password: li
     rating: ~
-  - Chinese: 曾喬翎
-    id: U0031216
-    name: Ling
-    password: qiao
-    rating: ~
-  - Chinese: 許依婷
-    id: U0043024
-    name: 許依婷
-    password: yi
-    rating: ~
-  - Chinese: 莊渝雯
-    id: U0043039
-    name: Wenny
-    password: yu
-    rating: ~
   - Chinese: 林縈佳
     id: U0111135
     name: YingChia
@@ -66,25 +52,10 @@ member:
     name: FuYing
     password: fu
     rating: ~
-  - Chinese: 張懿心
-    id: U0118002
-    name: YiXin
-    password: yi
-    rating: ~
-  - Chinese: 朱冠貞
-    id: U0118004
-    name: Jean
-    password: guan
-    rating: ~
   - Chinese: 楊謹瑛
     id: U0131257
     name: Kayla
     password: jin
-    rating: ~
-  - Chinese: 羅孟琳
-    id: U0143054
-    name: Ruby
-    password: meng
     rating: ~
   - Chinese: 蔡孟哲
     id: U0222112
@@ -106,7 +77,37 @@ member:
     name: David
     password: geng
     rating: ~
-out: ~
+out:
+  - Chinese: 曾喬翎
+    id: U0031216
+    name: Ling
+    password: qiao
+    rating: ~
+  - Chinese: 莊渝雯
+    id: U0043039
+    name: Wenny
+    password: yu
+    rating: ~
+  - Chinese: 朱冠貞
+    id: U0118004
+    name: Jean
+    password: guan
+    rating: ~
+  - Chinese: 羅孟琳
+    id: U0143054
+    name: Ruby
+    password: meng
+    rating: ~
+  - Chinese: 張懿心
+    id: U0118002
+    name: YiXin
+    password: yi
+    rating: ~
+  - Chinese: 許依婷
+    id: U0043024
+    name: 許依婷
+    password: yi
+    rating: ~
 room: A705
 school: nuu
 scores:
