@@ -1,0 +1,103 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: marriage
+grade:
+  N02200001: 2
+  N02200003: 2
+  N02200006: 1.98
+  N02200009: 2
+  N02200011: 2
+  N02200013: 2
+  N02200016: 1.98
+  N02200020: 2
+  N02200024: 2
+  N02200026: 0
+  N02200028: 2
+  N02200030: 0
+  N02200032: 0
+  N02200040: 2
+  N02200043: 1.5
+  N02200045: 2
+  N02200047: 1.88
+  N02200049: 2
+  N02200051: 0
+  N02200057: 2
+  N02202102: 1.76
+  N03202103: 2
+  N03202105: 1.4
+  N99200030: 2
+points:
+  N02200001:
+    letters: 155
+    percent: 100
+  N02200003:
+    letters: 161
+    percent: 100
+  N02200006:
+    letters: 137
+    percent: 99
+  N02200009:
+    letters: 150
+    percent: 100
+  N02200011:
+    letters: 128
+    percent: 100
+  N02200013:
+    letters: 117
+    percent: 100
+  N02200016:
+    letters: 130
+    percent: 99
+  N02200020:
+    letters: 150
+    percent: 100
+  N02200024:
+    letters: 124
+    percent: 100
+  N02200026:
+    letters: 0
+    percent: 0
+  N02200028:
+    letters: 147
+    percent: 100
+  N02200030:
+    letters: 0
+    percent: 0
+  N02200032:
+    letters: 0
+    percent: 0
+  N02200040:
+    letters: 109
+    percent: 100
+  N02200043:
+    letters: 125
+    percent: 75
+  N02200045:
+    letters: 145
+    percent: 100
+  N02200047:
+    letters: 135
+    percent: 94
+  N02200049:
+    letters: 136
+    percent: 100
+  N02200051:
+    letters: 0
+    percent: 0
+  N02200057:
+    letters: 131
+    percent: 100
+  N02202102:
+    letters: 120
+    percent: 88
+  N03202103:
+    letters: 150
+    percent: 100
+  N03202105:
+    letters: 93
+    percent: 70
+  N99200030:
+    letters: 159
+    percent: 100
