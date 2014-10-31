@@ -5,6 +5,7 @@ questions:
   - 10
 pass: 2
 assistant:
+  - JiaLing
 absent:
   - Una
   - 金玉婷
@@ -12,10 +13,8 @@ absent:
   - PingWei
   - 張修璧
   - 楊善存
-  - Sophia
   - Jason
   - 郭彥廷
-  - Judy
 text: /home/drbean/class/speaking/cards.yaml
 activity:
   marriage:
@@ -27,10 +26,15 @@ activity:
     2:
       - 4-1
       - 5-1
+      - week_6
     3:
       - 2-2
 
 group:
+  week_6:
+    - JiaLing
+    - Judy
+    - Sophia
   1-1:
     - Jacky
     - Honey
