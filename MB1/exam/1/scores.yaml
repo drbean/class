@@ -6,6 +6,7 @@ Chinese:
   3-2: 0
   4-1: 0
   5-1: 0
+  week_6: 0
 letters:
   1-1:
     N02200032: 2
@@ -36,4 +37,9 @@ letters:
     N02200045: 4
     N02200024: 6
     N02200026: 1
+    story: marriage2
+  week_6:
+    N02200045: 7
+    N02200020: 7
+    N03202105: 8
     story: marriage2
