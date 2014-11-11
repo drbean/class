@@ -1,0 +1,41 @@
+---
+# topic: selling-online
+# reports of discussion
+
+1-1:
+  absent:
+  merits: 3
+
+1-2:
+  absent:
+    - Wayne
+  merits: 3
+
+2-1:
+  absent:
+    - Dave
+  merits: 2
+
+2-2:
+  absent:
+  merits: 2
+
+3-1:
+  absent:
+  merits: 2
+3-2:
+  absent:
+  merits: 3
+
+4-1:
+  absent:
+  merits: 3
+
+4-2:
+  absent:
+    - Han
+  merits: 3
+
+8-1:
+  absent:
+  merits: 3
