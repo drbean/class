@@ -1,0 +1,43 @@
+---
+activity:
+  biomom:
+    4:
+      - 0
+      - 1
+      - 2
+      - 3
+  biodad:
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+  emersonj:
+    2:
+      - 0
+      - 1
+      - 2
+      - 3
+assistant: ~
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: U0043029
+    Black: U0311011
+  1:
+    White: U0115001
+    Black: U0031022
+  2:
+    White: U0111135
+    Black: U0222112
+  3:
+    White: U0222303
+    Black: U0016014
+late:
+  - U0311011
+pairing: swiss adjusted
+payprotocol: meritPay 3
+round: 2
+text: /home/drbean/class/conversation/parents/cards.yaml
+week: 9

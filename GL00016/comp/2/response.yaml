@@ -1,0 +1,109 @@
+---
+free:
+  0:
+    biomom:
+      4:
+        U0043029:
+          point:
+            1: Returned on 2nd chance
+        U0311011:
+          point:
+            1: Returned
+    biodad:
+      1:
+        U0043029:
+          point:
+            1: Fault on 2nd chance
+        U0311011:
+          point:
+            1: Returned
+    emersonj:
+      2:
+        U0043029:
+          point:
+            1: Returned
+        U0311011:
+          point:
+            1: Returned
+  1:
+    biomom:
+      4:
+        U0115001:
+          point:
+            1: Returned
+            2: Fault on 2nd chance
+        U0031022:
+          point:
+            1: Unreturned
+    biodad:
+      1:
+        U0115001:
+          point:
+            1: Returned
+        U0031022:
+          point:
+            1: Returned
+            2: Returned
+    emersonj:
+      2:
+        U0115001:
+          point:
+            1: Nil
+        U0031022:
+          point:
+            1: Nil
+  2:
+    biomom:
+      4:
+        U0111135:
+          point:
+            1: Fault on 2nd chance
+            2: Returned on 2nd chance
+        U0222112:
+          point:
+            1: Returned
+    biodad:
+      1:
+        U0111135:
+          point:
+            1: Returned
+        U0222112:
+          point:
+            1: Fault on 2nd chance
+    emersonj:
+      2:
+        U0111135:
+          point:
+            1: Unreturned
+        U0222112:
+          point:
+            1: Fault on 2nd chance
+  3:
+    biomom:
+      4:
+        U0222303:
+          point:
+            1: Returned
+            2: Returned
+        U0016014:
+          point:
+            1: Returned on 2nd chance
+            2: Fault on 2nd chance
+    biodad:
+      1:
+        U0222303:
+          point:
+            1: Returned
+            2: Returned on 2nd chance
+        U0016014:
+          point:
+            1: Returned on 2nd chance
+            2: Returned on 2nd chance
+    emersonj:
+      2:
+        U0222303:
+          point:
+            1: Nil
+        U0016014:
+          point:
+            1: Nil
