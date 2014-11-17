@@ -1,0 +1,41 @@
+---
+2-1:
+  absent: ~
+  merits: 2.5
+3-1:
+  absent: ~
+  merits: 2.75
+3-2:
+  absent: ~
+  merits: 2
+4-1:
+  absent: ~
+  merits: 3
+activity: champions to front
+answers:
+  2-1:
+    a: 0
+    b: 0
+    c: 0
+  3-1:
+    a: 1
+    b: 0
+    c: 0
+  3-2:
+    a: 0
+    b: 0
+    c: 0
+  4-1:
+    a: 0
+    b: 1
+    c: 1
+questions:
+  2-1: 2
+  3-1: 2
+  3-2: 0
+  4-1: 2
+texts:
+  - How did she find the Gathering Place?
+  - What does the Gathering Place provide for the women?
+  - When she (How did she) lost her job?
+topic: jackson
