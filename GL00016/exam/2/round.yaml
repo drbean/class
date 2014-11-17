@@ -1,0 +1,37 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+  - MengJae
+absent:
+  - David
+  - Andy
+  - Kayla
+  - Irene
+text: /home/drbean/class/conversation/parents/cards.yaml
+activity:
+  biomom:
+    4:
+      - 4-1
+  biodad:
+    1:
+      - 2-1
+  emersonj:
+    2:
+      - 3-1
+group:
+  2-1:
+    - Peter
+    - Dolly
+    - MengJae
+  3-1:
+    - MengJae
+    - Alice
+    - Eric
+  4-1:
+    - YingChia
+    - FuYing
+    - Paul
