@@ -21,17 +21,6 @@ member:
     password: pin
     rating: ~
   
-  - Chinese: 陳偉庭
-    id: M0221002
-    name: Andy
-    password: wei
-    rating: ~
-  - Chinese: 黃玉慈
-    id: U0131128
-    name: Irene
-    password: yu
-    rating: ~
-  
   - Chinese: 徐子筑
     id: U0016014
     name: Dolly
@@ -51,11 +40,6 @@ member:
     id: U0115001
     name: FuYing
     password: fu
-    rating: ~
-  - Chinese: 楊謹瑛
-    id: U0131257
-    name: Kayla
-    password: jin
     rating: ~
   - Chinese: 蔡孟哲
     id: U0222112
@@ -78,6 +62,22 @@ member:
     password: geng
     rating: ~
 out:
+  - Chinese: 楊謹瑛
+    id: U0131257
+    name: Kayla
+    password: jin
+    rating: ~
+  - Chinese: 陳偉庭
+    id: M0221002
+    name: Andy
+    password: wei
+    rating: ~
+  - Chinese: 黃玉慈
+    id: U0131128
+    name: Irene
+    password: yu
+    rating: ~
+  
   - Chinese: 曾喬翎
     id: U0031216
     name: Ling
