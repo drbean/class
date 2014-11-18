@@ -1,0 +1,62 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 4
+assistant:
+  - Davis
+  - Linda
+absent:
+  - Mia
+  - Sylvia
+  - YiZhen
+text: /home/drbean/class/speaking/cards.yaml
+activity:
+  money:
+    0:
+      - 0-1
+      - 4-1
+    1:
+      - 4-2
+  health:
+    0:
+      - 3-1
+      - 3-2
+
+    1:
+      - 2-2
+
+  environment:
+    0:
+      - 2-1
+
+group:
+  0-1:
+    - Cindy
+    - Wade
+    - Rachel
+  2-1:
+    - JieNing
+    - Pizza
+    - Yuki
+  2-2:
+    - Veronica
+    - WenXin
+    - Linda
+  3-1:
+    - Trista
+    - Polly
+    - Doris
+  3-2:
+    - Jack
+    - Roger
+    - Hamburger
+  4-1:
+    - Una
+    - Davis
+    - Bruce1
+  4-2:
+    - MengYun
+    - David
+    - Kate
