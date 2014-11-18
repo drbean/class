@@ -15,6 +15,17 @@ id: AFB2L1
 jigsaw: exam
 league: BAF021_四技應外二甲
 member:
+  - Chinese: 洪嘉翎
+    id: B02200062
+    name: Trista
+    password: jia
+    rating: ~
+  - Chinese: 姜瀚威
+    id: B02200098
+    name: Wade
+    password: han
+    rating: ~
+
   - Chinese: 賴蕭生
     id: B02200005
     name: Davis
@@ -107,7 +118,7 @@ member:
     rating: ~
   - Chinese: 張孟云
     id: B02200090
-    name: ZiXin
+    name: MengYun
     password: meng
     rating: ~
   - Chinese: 郭俐君
@@ -126,16 +137,6 @@ member:
     password: xin
     rating: ~
 out:
-  - Chinese: 洪嘉翎
-    id: B02200062
-    name: 洪嘉翎
-    password: jia
-    rating: ~
-  - Chinese: 姜瀚威
-    id: B02200098
-    name: Wade
-    password: han
-    rating: ~
 room: A705
 school: must
 scores:
