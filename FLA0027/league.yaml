@@ -84,11 +84,6 @@ member:
     name: YanSan
     password: yan
     rating: ~
-  - Chinese: 杜珮瑜
-    id: V0041028
-    name: Sharon
-    password: pei
-    rating: ~
   - Chinese: 彭芷萱
     id: V0041030
     name: Jessie
@@ -205,6 +200,11 @@ member:
     password: meng
     rating: ~
 out:
+  - Chinese: 杜珮瑜
+    id: V0041028
+    name: Sharon
+    password: pei
+    rating: ~
   - Chinese: 王志睿
     id: U0017024
     name: Rick
