@@ -1,0 +1,81 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+absent:
+  - Sharon
+text: /home/drbean/class/media/cards.yaml
+activity:
+  freakout:
+    0:
+      - 1-1
+      - 2-2
+      - 3-2
+      - 4-2
+
+  pope:
+    0:
+      - 1-2
+      - 2-1
+      - 4-1
+      - 5-1
+      - 7-1
+
+  wallace-oreilly:
+    0:
+      - 3-1
+      - 6-1
+      - 8-1
+
+group:
+  1-1:
+    - Joy
+    - HsinCih
+    - MengShiung
+  1-2:
+    - Jack
+    - Nora
+    - May
+  2-1:
+    - XinFang
+    - Christy
+    - Nina
+  2-2:
+    - Willy
+    - Brenda
+    - Sing
+  3-1:
+    - Nini
+    - Louanna
+    - Oscar
+  3-2:
+    - Brock
+    - Alice
+    - YanSan
+  4-1:
+    - Tony
+    - Yu-Wen
+    - Karsten
+  4-2:
+    - Vera
+    - Show
+    - Sherry
+  5-1:
+    - David
+    - Winny
+    - Jessie
+  6-1:
+    - Amy
+    - Bruce
+    - Claire
+  7-1:
+    - Una
+    - Lucy
+    - Ada
+  8-1:
+    - YaTing
+    - Rei
+    - Cindy
