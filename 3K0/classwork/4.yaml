@@ -1,0 +1,50 @@
+---
+# topic: career questions
+
+
+
+1-1:
+  absent:
+  merits: 3
+
+1-2:
+  absent:
+    - Shine
+  merits: 2
+
+2-1:
+  absent:
+    - Joanne1
+  merits: 2.5
+6-1:
+  absent:
+    - Han
+    - Hans
+  merits: 0
+
+2-2:
+  absent:
+    - Wayne
+  merits: 2.75
+
+3-1:
+  absent:
+  merits: 2
+3-2:
+  absent:
+  merits: 2
+
+4-1:
+  absent:
+    - Penny
+  merits: 2.5
+
+4-2:
+  absent:
+    - Yuki
+  merits: 3
+
+questions:
+texts:
+
+answers:
