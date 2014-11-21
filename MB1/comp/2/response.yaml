@@ -1,0 +1,256 @@
+---
+free:
+  1:
+    money:
+      0:
+        N02200001:
+          point:
+            1: Unreturned
+        N02200009:
+          point:
+            1: Returned
+    health:
+      0:
+        N02200001:
+          point:
+            1: Returned
+        N02200009:
+          point:
+            1: Unreturned
+    environment:
+      0:
+        N02200001:
+          point:
+            1: Unreturned
+        N02200009:
+          point:
+            1: Returned
+  2:
+    money:
+      0:
+        N02200040:
+          point:
+            1: Old
+        N02200003:
+          point:
+            1: Old
+    health:
+      0:
+        N02200040:
+          point:
+            1: Old
+        N02200003:
+          point:
+            1: Unreturned
+    environment:
+      0:
+        N02200040:
+          point:
+            1: Returned
+        N02200003:
+          point:
+            1: Nil
+  3:
+    money:
+      0:
+        N02200020:
+          point:
+            1: Unreturned
+        N99200030:
+          point:
+            1: Old
+            2: Old
+    health:
+      0:
+        N02200020:
+          point:
+            1: Nil
+        N99200030:
+          point:
+            1: Returned
+    environment:
+      0:
+        N02200020:
+          point:
+            1: Nil
+        N99200030:
+          point:
+            1: Old
+  4:
+    money:
+      0:
+        N02200026:
+          point:
+            1: Old
+            2: Unreturned
+        N02200024:
+          point:
+            1: Unreturned
+    health:
+      0:
+        N02200026:
+          point:
+            1: Returned
+        N02200024:
+          point:
+            1: Returned
+    environment:
+      0:
+        N02200026:
+          point:
+            1: Nil
+        N02200024:
+          point:
+            1: Nil
+  5:
+    money:
+      0:
+        N02200045:
+          point:
+            1: Old
+            2: Returned
+        N03202105:
+          point:
+            1: Returned
+    health:
+      0:
+        N02200045:
+          point:
+            1: Unreturned
+        N03202105:
+          point:
+            1: Returned
+    environment:
+      0:
+        N02200045:
+          point:
+            1: Unreturned
+        N03202105:
+          point:
+            1: Unreturned
+  6:
+    money:
+      0:
+        N02200043:
+          point:
+            1: Nil
+        N02200006:
+          point:
+            1: Nil
+    health:
+      0:
+        N02200043:
+          point:
+            1: Nil
+        N02200006:
+          point:
+            1: Nil
+    environment:
+      0:
+        N02200043:
+          point:
+            1: Nil
+        N02200006:
+          point:
+            1: Nil
+  7:
+    money:
+      0:
+        N02200049:
+          point:
+            1: Nil
+        N02200030:
+          point:
+            1: Nil
+    health:
+      0:
+        N02200049:
+          point:
+            1: Nil
+        N02200030:
+          point:
+            1: Nil
+    environment:
+      0:
+        N02200049:
+          point:
+            1: Old
+            2: Unreturned
+        N02200030:
+          point:
+            1: Returned
+  8:
+    money:
+      0:
+        N02200011:
+          point:
+            1: Unreturned
+        N02200032:
+          point:
+            1: Returned
+    health:
+      0:
+        N02200011:
+          point:
+            1: Unreturned
+        N02200032:
+          point:
+            1: Returned
+    environment:
+      0:
+        N02200011:
+          point:
+            1: Returned
+        N02200032:
+          point:
+            1: Unreturned
+  9:
+    money:
+      0:
+        N02200016:
+          point:
+            1: Old
+        N02200028:
+          point:
+            1: Old
+    health:
+      0:
+        N02200016:
+          point:
+            1: Old
+        N02200028:
+          point:
+            1: Returned
+    environment:
+      0:
+        N02200016:
+          point:
+            1: Unreturned
+        N02200028:
+          point:
+            1: Old
+  10:
+    money:
+      0:
+        N02200057:
+          point:
+            1: Old
+        N02202102:
+          point:
+            1: Nil
+    health:
+      0:
+        N02200057:
+          point:
+            1: Nil
+        N02202102:
+          point:
+            1: Nil
+    environment:
+      0:
+        N02200057:
+          point:
+            1: Nil
+        N02202102:
+          point:
+            1: Nil
