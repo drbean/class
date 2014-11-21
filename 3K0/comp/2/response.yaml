@@ -1,0 +1,309 @@
+---
+free:
+  1:
+    experience:
+      0:
+        N03203102:
+          point:
+            1: Old
+            2: Returned
+        N02202110:
+          point:
+            1: Old
+            2: Unreturned
+    website:
+      0:
+        N03203102:
+          point:
+            1: Nil
+        N02202110:
+          point:
+            1: Nil
+    seller:
+      0:
+        N03203102:
+          point:
+            1: Nil
+        N02202110:
+          point:
+            1: Nil
+  2:
+    experience:
+      0:
+        N01200025:
+          point:
+            1: Returned
+        N01200042:
+          point:
+            1: Old
+            2: Unreturned
+    website:
+      0:
+        N01200025:
+          point:
+            1: Unreturned
+        N01200042:
+          point:
+            1: Returned
+    seller:
+      0:
+        N01200025:
+          point:
+            1: Nil
+        N01200042:
+          point:
+            1: Nil
+  3:
+    experience:
+      0:
+        N01200030:
+          point:
+            1: Returned
+        N01200056:
+          point:
+            1: Unreturned
+    website:
+      0:
+        N01200030:
+          point:
+            1: Unreturned
+        N01200056:
+          point:
+            1: Returned
+    seller:
+      0:
+        N01200030:
+          point:
+            1: Nil
+        N01200056:
+          point:
+            1: Nil
+  4:
+    experience:
+      0:
+        N03203105:
+          point:
+            1: Returned
+        N02202105:
+          point:
+            1: Old
+            2: Unreturned
+    website:
+      0:
+        N03203105:
+          point:
+            1: Returned
+        N02202105:
+          point:
+            1: Unreturned
+    seller:
+      0:
+        N03203105:
+          point:
+            1: Nil
+        N02202105:
+          point:
+            1: Nil
+  5:
+    experience:
+      0:
+        N01200046:
+          point:
+            1: Unreturned
+        N01200029:
+          point:
+            1: Returned
+    website:
+      0:
+        N01200046:
+          point:
+            1: Returned
+        N01200029:
+          point:
+            1: Unreturned
+    seller:
+      0:
+        N01200046:
+          point:
+            1: Nil
+        N01200029:
+          point:
+            1: Nil
+  6:
+    experience:
+      0:
+        N02202106:
+          point:
+            1: Old
+            2: Returned
+        N02202201:
+          point:
+            1: Unreturned
+    website:
+      0:
+        N02202106:
+          point:
+            1: Unreturned
+        N02202201:
+          point:
+            1: Returned
+    seller:
+      0:
+        N02202106:
+          point:
+            1: Nil
+        N02202201:
+          point:
+            1: Nil
+  7:
+    experience:
+      0:
+        N01200033:
+          point:
+            1: Returned
+        N01200038:
+          point:
+            1: Unreturned
+    website:
+      0:
+        N01200033:
+          point:
+            1: Returned
+        N01200038:
+          point:
+            1: Unreturned
+    seller:
+      0:
+        N01200033:
+          point:
+            1: Unreturned
+        N01200038:
+          point:
+            1: Returned
+  8:
+    experience:
+      0:
+        N02202101:
+          point:
+            1: Old
+        N01200041:
+          point:
+            1: Returned
+    website:
+      0:
+        N02202101:
+          point:
+            1: Returned
+        N01200041:
+          point:
+            1: Unreturned
+    seller:
+      0:
+        N02202101:
+          point:
+            1: Nil
+        N01200041:
+          point:
+            1: Nil
+  9:
+    experience:
+      0:
+        N03203104:
+          point:
+            1: Returned
+        N00200059:
+          point:
+            1: Unreturned
+    website:
+      0:
+        N03203104:
+          point:
+            1: Unreturned
+        N00200059:
+          point:
+            1: Returned
+    seller:
+      0:
+        N03203104:
+          point:
+            1: Nil
+        N00200059:
+          point:
+            1: Nil
+  10:
+    experience:
+      0:
+        N01200035:
+          point:
+            1: Unreturned
+        N01200021:
+          point:
+            1: Returned
+    website:
+      0:
+        N01200035:
+          point:
+            1: Returned
+        N01200021:
+          point:
+            1: Unreturned
+    seller:
+      0:
+        N01200035:
+          point:
+            1: Nil
+        N01200021:
+          point:
+            1: Nil
+  11:
+    experience:
+      0:
+        N01200008:
+          point:
+            1: Returned
+        N01200023:
+          point:
+            1: Unreturned
+    website:
+      0:
+        N01200008:
+          point:
+            1: Unreturned
+        N01200023:
+          point:
+            1: Returned
+    seller:
+      0:
+        N01200008:
+          point:
+            1: Nil
+        N01200023:
+          point:
+            1: Nil
+  12:
+    experience:
+      0:
+        N01200002:
+          point:
+            1: Unreturned
+            2: Unreturned
+        N02202114:
+          point:
+            1: Returned
+            2: Returned
+    website:
+      0:
+        N01200002:
+          point:
+            1: Nil
+        N02202114:
+          point:
+            1: Nil
+    seller:
+      0:
+        N01200002:
+          point:
+            1: Nil
+        N02202114:
+          point:
+            1: Nil

@@ -1,0 +1,91 @@
+---
+activity:
+  experience:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+  website:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+  seller:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+assistant:
+  1-1:
+    N00200045: 4
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: N03203102
+    Black: N02202110
+  2:
+    White: N01200025
+    Black: N01200042
+  3:
+    White: N01200030
+    Black: N01200056
+  4:
+    White: N03203105
+    Black: N02202105
+  5:
+    White: N01200046
+    Black: N01200029
+  6:
+    White: N02202106
+    Black: N02202201
+  7:
+    White: N01200033
+    Black: N01200038
+  8:
+    White: N02202101
+    Black: N01200041
+  9:
+    White: N03203104
+    Black: N00200059
+  10:
+    White: N01200035
+    Black: N01200021
+  11:
+    White: N01200008
+    Black: N01200023
+  12:
+    White: N01200002
+    Black: N02202114
+pairing: swiss
+payprotocol: meritPay 2
+round: 1
+text: /home/drbean/class/business/online/cards.yaml
+week: 9
