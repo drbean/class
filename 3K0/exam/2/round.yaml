@@ -1,0 +1,66 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 8
+pass: 4
+assistant:
+  - George
+  - Jacky
+absent:
+text: /home/drbean/class/business/online/cards.yaml
+activity:
+  factors:
+    0:
+      - 2-2
+      - 3-2
+      - 4-2
+
+    1:
+      - 1-2
+      - 3-1
+
+    2:
+      - 1-1
+      - 2-1
+      - 4-1
+      - 8-1
+
+
+group:
+  1-1:
+    - Yuki
+    - Jacky
+    - George
+  1-2:
+    - Wayne
+    - Stan
+    - Peter
+  2-1:
+    - Hans
+    - Dave
+    - Dara
+  2-2:
+    - Joanne1
+    - Shine
+    - Kate
+  3-1:
+    - Erica
+    - Vicky
+    - Cathy
+  3-2:
+    - David
+    - Ted
+    - Amy
+  4-1:
+    - Doni
+    - Roger
+    - Dash
+  4-2:
+    - Han
+    - Penny
+    - George
+  8-1:
+    - Milly
+    - Joanne2
+    - Jacky
