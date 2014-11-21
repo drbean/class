@@ -1,0 +1,79 @@
+---
+activity:
+  money:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+  health:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+  environment:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+assistant:
+  2-2:
+    N03202103: 4
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: N02200001
+    Black: N02200009
+  2:
+    White: N02200040
+    Black: N02200003
+  3:
+    White: N02200020
+    Black: N99200030
+  4:
+    White: N02200026
+    Black: N02200024
+  5:
+    White: N02200045
+    Black: N03202105
+  6:
+    White: N02200043
+    Black: N02200006
+  7:
+    White: N02200049
+    Black: N02200030
+  8:
+    White: N02200011
+    Black: N02200032
+  9:
+    White: N02200016
+    Black: N02200028
+  10:
+    White: N02200057
+    Black: N02202102
+pairing: swiss
+payprotocol: meritPay 3
+round: 1
+text: /home/drbean/class/speaking/cards.yaml
+week: 9
