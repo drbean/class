@@ -1,0 +1,103 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: money
+grade:
+  B02200005: 2
+  B02200013: 1.86
+  B02200017: 1.68
+  B02200023: 2
+  B02200027: 2
+  B02200031: 0
+  B02200035: 0
+  B02200039: 0
+  B02200046: 0
+  B02200050: 1.84
+  B02200054: 0
+  B02200058: 2
+  B02200062: 0
+  B02200066: 0
+  B02200068: 1.38
+  B02200072: 0
+  B02200076: 2
+  B02200082: 2
+  B02200086: 0
+  B02200090: 0
+  B02200094: 1.86
+  B02200098: 0
+  B02200102: 2
+  B02200106: 0
+points:
+  B02200005:
+    letters: 99
+    percent: 100
+  B02200013:
+    letters: 68
+    percent: 93
+  B02200017:
+    letters: 71
+    percent: 84
+  B02200023:
+    letters: 103
+    percent: 100
+  B02200027:
+    letters: 92
+    percent: 100
+  B02200031:
+    letters: 0
+    percent: 0
+  B02200035:
+    letters: 0
+    percent: 0
+  B02200039:
+    letters: 0
+    percent: 0
+  B02200046:
+    letters: 0
+    percent: 0
+  B02200050:
+    letters: 79
+    percent: 92
+  B02200054:
+    letters: 0
+    percent: 0
+  B02200058:
+    letters: 76
+    percent: 100
+  B02200062:
+    letters: 0
+    percent: 0
+  B02200066:
+    letters: 0
+    percent: 0
+  B02200068:
+    letters: 63
+    percent: 69
+  B02200072:
+    letters: 0
+    percent: 0
+  B02200076:
+    letters: 86
+    percent: 100
+  B02200082:
+    letters: 91
+    percent: 100
+  B02200086:
+    letters: 0
+    percent: 0
+  B02200090:
+    letters: 0
+    percent: 0
+  B02200094:
+    letters: 96
+    percent: 93
+  B02200098:
+    letters: 0
+    percent: 0
+  B02200102:
+    letters: 91
+    percent: 100
+  B02200106:
+    letters: 0
+    percent: 0
