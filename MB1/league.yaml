@@ -45,6 +45,11 @@ member:
     name: Sandy
     password: yin
     rating: ~
+  - Chinese: 鄧玉鈴
+    id: N02200013
+    name: YuLing
+    password: yu
+    rating: ~
   - Chinese: 蔡剗玲
     id: N02200016
     name: Honey
@@ -95,10 +100,20 @@ member:
     name: JiaLing
     password: jia
     rating: ~
+  - Chinese: 鄒羽嫙
+    id: N02200047
+    name: YuSyuan
+    password: yu
+    rating: ~
   - Chinese: 蔡慧珍
     id: N02200049
     name: Jane
     password: hui
+    rating: ~
+  - Chinese: 譚詠蓉
+    id: N02200051
+    name: Una
+    password: yong
     rating: ~
   - Chinese: 彭聖雅
     id: N02200057
@@ -121,21 +136,6 @@ member:
     password: yu
     rating: ~
 out:
-  - Chinese: 譚詠蓉
-    id: N02200051
-    name: Una
-    password: yong
-    rating: ~
-  - Chinese: 鄒羽嫙
-    id: N02200047
-    name: YuSyuan
-    password: yu
-    rating: ~
-  - Chinese: 鄧玉鈴
-    id: N02200013
-    name: YuLing
-    password: yu
-    rating: ~
   - Chinese: 金玉婷
     id: N03202101
     name: 金玉婷
