@@ -1,0 +1,103 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: ranking
+grade:
+  N00200045: 1.46
+  N00200059: 1.94
+  N01200002: 1.9
+  N01200008: 0.9
+  N01200021: 2
+  N01200023: 2
+  N01200025: 0
+  N01200029: 2
+  N01200033: 2
+  N01200035: 1.94
+  N01200038: 0
+  N01200041: 2
+  N01200042: 0
+  N01200046: 0
+  N01200056: 2
+  N02202101: 1.38
+  N02202105: 2
+  N02202106: 0
+  N02202110: 0
+  N02202114: 0.54
+  N02202201: 2
+  N03203102: 0
+  N03203104: 0.1
+  N03203105: 2
+points:
+  N00200045:
+    letters: 49
+    percent: 73
+  N00200059:
+    letters: 87
+    percent: 97
+  N01200002:
+    letters: 98
+    percent: 95
+  N01200008:
+    letters: 38
+    percent: 45
+  N01200021:
+    letters: 91
+    percent: 100
+  N01200023:
+    letters: 80
+    percent: 100
+  N01200025:
+    letters: 0
+    percent: 0
+  N01200029:
+    letters: 107
+    percent: 100
+  N01200033:
+    letters: 110
+    percent: 100
+  N01200035:
+    letters: 72
+    percent: 97
+  N01200038:
+    letters: 0
+    percent: 0
+  N01200041:
+    letters: 84
+    percent: 100
+  N01200042:
+    letters: 0
+    percent: 0
+  N01200046:
+    letters: 0
+    percent: 0
+  N01200056:
+    letters: 100
+    percent: 100
+  N02202101:
+    letters: 60
+    percent: 69
+  N02202105:
+    letters: 87
+    percent: 100
+  N02202106:
+    letters: 0
+    percent: 0
+  N02202110:
+    letters: 0
+    percent: 0
+  N02202114:
+    letters: 22
+    percent: 27
+  N02202201:
+    letters: 72
+    percent: 100
+  N03203102:
+    letters: 0
+    percent: 0
+  N03203104:
+    letters: 4
+    percent: 5
+  N03203105:
+    letters: 92
+    percent: 100
