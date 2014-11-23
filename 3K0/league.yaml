@@ -61,6 +61,11 @@ member:
     name: Shine
     password: yu
     rating: ~
+  - Chinese: 戴涵盈
+    id: N01200030
+    name: Han
+    password: han
+    rating: ~
   - Chinese: 蕭至祐
     id: N01200033
     name: Peter
@@ -137,11 +142,6 @@ member:
     password: xin
     rating: ~
 out:
-  - Chinese: 戴涵盈
-    id: N01200030
-    name: Han
-    password: han
-    rating: ~
   - Chinese: 葉淑玲
     id: N01200026
     name: Betty
