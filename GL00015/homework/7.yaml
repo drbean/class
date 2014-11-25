@@ -1,0 +1,47 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: biodad
+grade:
+  U0117004: 0
+  U0117031: 0
+  U0122213: 0
+  U0218037: 2
+  U0221004: 0
+  U0222015: 0
+  U9923128: 2
+  V9941031: 1.96
+  V9941036: 1.98
+  V9941057: 2
+points:
+  U0117004:
+    letters: 0
+    percent: 0
+  U0117031:
+    letters: 0
+    percent: 0
+  U0122213:
+    letters: 0
+    percent: 0
+  U0218037:
+    letters: 198
+    percent: 100
+  U0221004:
+    letters: 0
+    percent: 0
+  U0222015:
+    letters: 0
+    percent: 0
+  U9923128:
+    letters: 159
+    percent: 100
+  V9941031:
+    letters: 159
+    percent: 98
+  V9941036:
+    letters: 174
+    percent: 99
+  V9941057:
+    letters: 162
+    percent: 100
