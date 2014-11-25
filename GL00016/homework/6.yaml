@@ -1,0 +1,43 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: adoption
+grade:
+  U0016014: 1.96
+  U0031022: 2
+  U0043029: 1.94
+  U0111135: 1.82
+  U0115001: 1.16
+  U0222112: 2
+  U0222303: 1.84
+  U0311011: 0.44
+  U9810037: 0
+points:
+  U0016014:
+    letters: 195
+    percent: 98
+  U0031022:
+    letters: 211
+    percent: 100
+  U0043029:
+    letters: 197
+    percent: 97
+  U0111135:
+    letters: 210
+    percent: 91
+  U0115001:
+    letters: 127
+    percent: 58
+  U0222112:
+    letters: 213
+    percent: 100
+  U0222303:
+    letters: 213
+    percent: 92
+  U0311011:
+    letters: 47
+    percent: 22
+  U9810037:
+    letters: 0
+    percent: 0
