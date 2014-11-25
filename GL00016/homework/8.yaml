@@ -1,0 +1,43 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: emersonj
+grade:
+  U0016014: 2
+  U0031022: 2
+  U0043029: 2
+  U0111135: 1.94
+  U0115001: 1.4
+  U0222112: 0.58
+  U0222303: 0
+  U0311011: 1.86
+  U9810037: 0
+points:
+  U0016014:
+    letters: 239
+    percent: 100
+  U0031022:
+    letters: 224
+    percent: 100
+  U0043029:
+    letters: 226
+    percent: 100
+  U0111135:
+    letters: 241
+    percent: 97
+  U0115001:
+    letters: 149
+    percent: 70
+  U0222112:
+    letters: 68
+    percent: 29
+  U0222303:
+    letters: 0
+    percent: 0
+  U0311011:
+    letters: 228
+    percent: 93
+  U9810037:
+    letters: 0
+    percent: 0
