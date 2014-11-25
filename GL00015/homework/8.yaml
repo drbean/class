@@ -1,0 +1,47 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: emersonj
+grade:
+  U0117004: 0
+  U0117031: 0
+  U0122213: 0
+  U0218037: 0
+  U0221004: 0
+  U0222015: 0
+  U9923128: 0
+  V9941031: 1.96
+  V9941036: 1.98
+  V9941057: 2
+points:
+  U0117004:
+    letters: 0
+    percent: 0
+  U0117031:
+    letters: 0
+    percent: 0
+  U0122213:
+    letters: 0
+    percent: 0
+  U0218037:
+    letters: 0
+    percent: 0
+  U0221004:
+    letters: 0
+    percent: 0
+  U0222015:
+    letters: 0
+    percent: 0
+  U9923128:
+    letters: 0
+    percent: 0
+  V9941031:
+    letters: 244
+    percent: 98
+  V9941036:
+    letters: 240
+    percent: 99
+  V9941057:
+    letters: 226
+    percent: 100
