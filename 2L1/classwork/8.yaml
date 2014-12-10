@@ -1,0 +1,61 @@
+---
+# topic: environment
+# topic: 
+
+Absent:
+  merits: 0
+1-1:
+  tardy:
+    - Rachel
+  absent:
+    - YiZhen
+  merits: 2
+1-2:
+  tardy:
+    - Trista
+  absent:
+    - Sylvia
+  merits: 3
+
+2-1:
+  absent:
+  merits: 3
+2-2:
+  absent:
+  merits: 2.5
+
+3-1:
+  tardy:
+    - Polly
+  merits: 3
+3-2:
+  absent:
+    - Jack
+  merits: 3
+
+4-1:
+  absent:
+  merits: 3
+4-2:
+  absent:
+  merits: 3
+
+questions:
+  2-1:
+  2-2:
+  3-1:
+  3-2:
+  4-1:
+  4-2:
+
+texts:
+
+answers:
+  1-1:
+  1-2:
+  2-1:
+  2-2:
+  3-1:
+  3-2:
+  4-1:
+  4-2:
