@@ -1,0 +1,60 @@
+---
+# topic: aliens
+# topic: 
+
+1-1:
+  absent:
+    - Mia
+    - Wade
+    - Sylvia
+  merits: 0
+1-2:
+  absent:
+  merits: 2.5
+
+2-1:
+  absent:
+    - Jack
+  merits: 3
+2-2:
+  absent:
+  merits: 3
+
+3-1:
+  absent:
+    - Polly
+  merits: 2
+3-2:
+  absent:
+    - Rachel
+    - Trista
+    - YiZhen
+  merits: 0
+
+4-1:
+  absent:
+    - Hamburger
+  merits: 2
+4-2:
+  absent:
+  merits: 2
+
+questions:
+  2-1:
+  2-2:
+  3-1:
+  3-2:
+  4-1:
+  4-2:
+
+texts:
+
+answers:
+  1-1:
+  1-2:
+  2-1:
+  2-2:
+  3-1:
+  3-2:
+  4-1:
+  4-2:
