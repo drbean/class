@@ -6,24 +6,30 @@ approach: GroupworkNoFault
 classMax: 3
 cohort:
   1:
+    - Chinese: 張令平
+      id: U0222217
+      name: Anderson
+      password: ling
+      rating: ~
+
     - Chinese: 胡靖宜
       id: V0241001
-      name: 胡靖宜
+      name: Joyce
       password: jing
       rating: ~
     - Chinese: 王耀陞
       id: V0241012
-      name: 王耀陞
+      name: Ivan
       password: yao
       rating: ~
     - Chinese: 賴彥鈞
       id: V0241014
-      name: 賴彥鈞
+      name: Josh
       password: yan
       rating: ~
     - Chinese: 吳思賢
       id: V0241017
-      name: 吳思賢
+      name: Andy
       password: si
       rating: ~
     - Chinese: 王覲
@@ -33,17 +39,17 @@ cohort:
       rating: ~
     - Chinese: 李盈瑩
       id: V0241024
-      name: 李盈瑩
+      name: Abby
       password: ying
       rating: ~
     - Chinese: 陳亮彤
       id: V0241029
-      name: 陳亮彤
+      name: Lily
       password: liang
       rating: ~
     - Chinese: 蔡方如
       id: V0241031
-      name: 蔡方如
+      name: Fiona
       password: fang
       rating: ~
     - Chinese: 傅宇淩
@@ -53,7 +59,7 @@ cohort:
       rating: ~
     - Chinese: 何姿儀
       id: V0241038
-      name: 何姿儀
+      name: Penny
       password: zi
       rating: ~
     - Chinese: 羅思弦
@@ -68,7 +74,7 @@ cohort:
       rating: ~
     - Chinese: 彭增哲
       id: V0241054
-      name: 彭增哲
+      name: Hunter
       password: zeng
       rating: ~
     - Chinese: 邱煒傑
@@ -83,7 +89,7 @@ cohort:
       rating: ~
     - Chinese: 劉威昇
       id: V0241067
-      name: 劉威昇
+      name: Jason
       password: wei
       rating: ~
     - Chinese: 湯元俊
@@ -93,7 +99,7 @@ cohort:
       rating: ~
     - Chinese: 謝孟璇
       id: V9941076
-      name: 謝孟璇
+      name: Mengshiung
       password: meng
       rating: ~
   2:
@@ -104,12 +110,12 @@ cohort:
       rating: ~
     - Chinese: 胡靖宜
       id: V0241001
-      name: 胡靖宜
+      name: Joyce
       password: jing
       rating: ~
     - Chinese: 王耀陞
       id: V0241012
-      name: 王耀陞
+      name: Ivan
       password: yao
       rating: ~
     - Chinese: 林弘恩
@@ -129,7 +135,7 @@ cohort:
       rating: ~
     - Chinese: 吳思賢
       id: V0241017
-      name: 吳思賢
+      name: Andy
       password: si
       rating: ~
     - Chinese: 何信儒
@@ -139,7 +145,7 @@ cohort:
       rating: ~
     - Chinese: 王覲
       id: V0241020
-      name: 王覲
+      name: Jimmy
       password: jin
       rating: ~
     - Chinese: 陳巧惠
@@ -159,7 +165,7 @@ cohort:
       rating: ~
     - Chinese: 陳亮彤
       id: V0241029
-      name: 陳亮彤
+      name: Lily
       password: liang
       rating: ~
     - Chinese: 何瑞嬿
@@ -169,7 +175,7 @@ cohort:
       rating: ~
     - Chinese: 蔡方如
       id: V0241031
-      name: 蔡方如
+      name: Fiona
       password: fang
       rating: ~
     - Chinese: 彭?惠
@@ -179,7 +185,7 @@ cohort:
       rating: ~
     - Chinese: 傅宇淩
       id: V0241033
-      name: 傅宇淩
+      name: Lynn
       password: yu
       rating: ~
     - Chinese: 王緯婷
@@ -194,7 +200,7 @@ cohort:
       rating: ~
     - Chinese: 何姿儀
       id: V0241038
-      name: 何姿儀
+      name: Penny
       password: zi
       rating: ~
     - Chinese: 梁怡萍
@@ -209,7 +215,7 @@ cohort:
       rating: ~
     - Chinese: 羅思弦
       id: V0241042
-      name: 羅思弦
+      name: Amber
       password: si
       rating: ~
     - Chinese: 張淑筠
@@ -219,7 +225,7 @@ cohort:
       rating: ~
     - Chinese: 羅宇辰
       id: V0241045
-      name: 羅宇辰
+      name: Sandy
       password: yu
       rating: ~
     - Chinese: 陳瑀濤
@@ -229,7 +235,7 @@ cohort:
       rating: ~
     - Chinese: 彭增哲
       id: V0241054
-      name: 彭增哲
+      name: Hunter
       password: zeng
       rating: ~
     - Chinese: 邱煒傑
@@ -239,7 +245,7 @@ cohort:
       rating: ~
     - Chinese: 黃昭寧
       id: V0241065
-      name: 黃昭寧
+      name: Ali
       password: zhao
       rating: ~
     - Chinese: 郭姿婷
@@ -249,7 +255,7 @@ cohort:
       rating: ~
     - Chinese: 劉威昇
       id: V0241067
-      name: 劉威昇
+      name: Jason
       password: wei
       rating: ~
     - Chinese: 湯元俊
@@ -286,7 +292,7 @@ member:
   
   - Chinese: 胡靖宜
     id: V0241001
-    name: 胡靖宜
+    name: Joyce
     password: jing
     rating: ~
   - Chinese: 王耀陞
@@ -296,7 +302,7 @@ member:
     rating: ~
   - Chinese: 賴彥鈞
     id: V0241014
-    name: 賴彥鈞
+    name: Josh
     password: yan
     rating: ~
   - Chinese: 吳思賢
@@ -306,12 +312,12 @@ member:
     rating: ~
   - Chinese: 王覲
     id: V0241020
-    name: 王覲
+    name: Jimmy
     password: jin
     rating: ~
   - Chinese: 李盈瑩
     id: V0241024
-    name: 李盈瑩
+    name: Abby
     password: ying
     rating: ~
   - Chinese: 陳亮彤
@@ -321,12 +327,12 @@ member:
     rating: ~
   - Chinese: 蔡方如
     id: V0241031
-    name: 蔡方如
+    name: Fiona
     password: fang
     rating: ~
   - Chinese: 傅宇淩
     id: V0241033
-    name: 傅宇淩
+    name: Lynn
     password: yu
     rating: ~
   - Chinese: 何姿儀
@@ -336,17 +342,17 @@ member:
     rating: ~
   - Chinese: 羅思弦
     id: V0241042
-    name: 羅思弦
+    name: Amber
     password: si
     rating: ~
   - Chinese: 羅宇辰
     id: V0241045
-    name: 羅宇辰
+    name: Sandy
     password: yu
     rating: ~
   - Chinese: 彭增哲
     id: V0241054
-    name: 彭增哲
+    name: Hunter
     password: zeng
     rating: ~
   - Chinese: 邱煒傑
@@ -356,7 +362,7 @@ member:
     rating: ~
   - Chinese: 黃昭寧
     id: V0241065
-    name: 黃昭寧
+    name: Ali
     password: zhao
     rating: ~
   - Chinese: 劉威昇
@@ -371,7 +377,7 @@ member:
     rating: ~
   - Chinese: 謝孟璇
     id: V9941076
-    name: 謝孟璇
+    name: Mengshiung
     password: meng
     rating: ~
 out: []
