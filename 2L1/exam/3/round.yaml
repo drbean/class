@@ -1,0 +1,71 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 10
+pass: 4
+assistant:
+  - David
+  - Linda
+  - Bruce1
+  - Rachel
+absent:
+  - Mia
+  - Sylvia
+  - YiZhen
+  - Wade
+  - Polly
+  - Trista
+  - Roger
+text: /home/drbean/class/speaking/cards.yaml
+activity:
+  alien:
+    0:
+      - 2-1
+      - 2-2
+
+  education:
+    0:
+      - 3-2
+
+    1:
+      - 4-2
+
+
+  crime:
+    0:
+      - 1-2
+      - 3-1
+
+    2:
+      - 4-1
+
+group:
+  1-2:
+    - Rachel
+    - Bruce1
+    - Yuki
+  2-1:
+    - Bruce1
+    - Cindy
+    - Rachel
+  2-2:
+    - David
+    - JieNing
+    - Kate
+  3-1:
+    - WenXin
+    - Linda
+    - Una
+  3-2:
+    - Jack
+    - David
+    - Linda
+  4-1:
+    - Hamburger
+    - Pizza
+    - MengYun
+  4-2:
+    - Veronica
+    - Doris
+    - Davis

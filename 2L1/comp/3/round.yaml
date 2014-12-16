@@ -1,0 +1,70 @@
+---
+activity:
+  alien:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 6
+      - 7
+  education:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 6
+      - 7
+  crime:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 6
+      - 7
+assistant:
+  3-2:
+    B02200086: 5
+  3-1:
+    B02200076: 5
+  2-1:
+    B02200017: 1
+
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: B02200102
+    Black: B02200106
+  1:
+    White: B02200005
+    Black: B02200023
+  2:
+    White: B02200090
+    Black: B02200068
+  3:
+    White: B02200031
+    Black: B02200058
+  4:
+    White: B02200082
+    Black: B02200050
+  6:
+    White: B02200027
+    Black: B02200013
+  7:
+    White: B02200035
+    Black: B02200072
+late:
+  - B02200035
+  - B02200072
+  - B02200017
+pairing: swiss
+payprotocol: meritPay 4
+round: 2
+text: /home/drbean/class/speaking/cards.yaml
+week: 13
