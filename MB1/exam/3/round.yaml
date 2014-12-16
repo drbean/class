@@ -1,0 +1,69 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 10
+pass: 4
+assistant:
+  - JiaLing
+  - Sandy
+  - YenHung
+  - Daisy
+  - SiLing
+absent:
+  - PingWei
+  - Jason
+  - Xin
+  - Honey
+  - Joann
+text: /home/drbean/class/speaking/cards.yaml
+activity:
+  alien:
+    0:
+      - 2-2
+
+  education:
+    0:
+      - 1-1
+      - 2-1
+
+    1:
+      - 1-2
+
+  crime:
+    0:
+      - 4-1
+
+    1:
+      - 3-1
+      - 3-2
+
+group:
+  1-1:
+    - Jacky
+    - JiaLing
+    - YenHung
+  1-2:
+    - Sandy
+    - Peng
+    - Korsak
+  2-1:
+    - YenHung
+    - SiLing
+    - Jane
+  2-2:
+    - Judy
+    - JiaLing
+    - YiHwa
+  3-1:
+    - Mao
+    - Daisy
+    - Sandy
+  3-2:
+    - XingChan
+    - Pei
+    - Yang
+  4-1:
+    - Sophia
+    - Daisy
+    - SiLing
