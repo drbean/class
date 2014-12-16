@@ -1,0 +1,179 @@
+---
+free:
+  0:
+    alien:
+      0:
+        N02200028:
+          point:
+            1: Returned
+            2: Returned
+        N02200032:
+          point:
+            1: Unreturned
+    education:
+      0:
+        N02200028:
+          point:
+            1: Nil
+        N02200032:
+          point:
+            1: Nil
+    crime:
+      0:
+        N02200028:
+          point:
+            1: Nil
+        N02200032:
+          point:
+            1: Unreturned
+  1:
+    alien:
+      0:
+        N99200030:
+          point:
+            1: Returned
+        N02200040:
+          point:
+            1: Unreturned
+    education:
+      0:
+        N99200030:
+          point:
+            1: Returned
+        N02200040:
+          point:
+            1: Unreturned
+    crime:
+      0:
+        N99200030:
+          point:
+            1: Returned
+        N02200040:
+          point:
+            1: Unreturned
+  3:
+    alien:
+      0:
+        N02202102:
+          point:
+            1: Returned on 2nd chance
+        N02200043:
+          point:
+            1: Unreturned on 2nd chance
+    education:
+      0:
+        N02202102:
+          point:
+            1: Nil
+        N02200043:
+          point:
+            1: Nil
+    crime:
+      0:
+        N02202102:
+          point:
+            1: Nil
+        N02200043:
+          point:
+            1: Nil
+  4:
+    alien:
+      0:
+        N02200057:
+          point:
+            1: Returned
+        N02200020:
+          point:
+            1: Unreturned
+    education:
+      0:
+        N02200057:
+          point:
+            1: Nil
+        N02200020:
+          point:
+            1: Nil
+    crime:
+      0:
+        N02200057:
+          point:
+            1: Nil
+        N02200020:
+          point:
+            1: Nil
+  5:
+    alien:
+      0:
+        N03202103:
+          point:
+            1: Unreturned
+        N02200001:
+          point:
+            1: Returned
+    education:
+      0:
+        N03202103:
+          point:
+            1: Unreturned
+        N02200001:
+          point:
+            1: Returned
+    crime:
+      0:
+        N03202103:
+          point:
+            1: Returned
+        N02200001:
+          point:
+            1: Unreturned
+  6:
+    # No card, though did it
+    alien:
+      0:
+        N02200045:
+          point:
+            1: Nil
+        N02200049:
+          point:
+            1: Nil
+    education:
+      0:
+        N02200045:
+          point:
+            1: Nil
+        N02200049:
+          point:
+            1: Nil
+    crime:
+      0:
+        N02200045:
+          point:
+            1: Nil
+        N02200049:
+          point:
+            1: Nil
+  7:
+    alien:
+      0:
+        N02200003:
+          point:
+            1: Unreturned
+        N02200011:
+          point:
+            1: Returned
+    education:
+      0:
+        N02200003:
+          point:
+            1: Returned
+        N02200011:
+          point:
+            1: Unreturned
+    crime:
+      0:
+        N02200003:
+          point:
+            1: Returned
+        N02200011:
+          point:
+            1: Unreturned
