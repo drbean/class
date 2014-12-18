@@ -46,6 +46,12 @@
     - Claire
   merits: 3
 
+# courtesy
+8-1:
+  absent:
+    - Louanna
+  merits: 3
+
 questions:
   1-1:
   2-1:
@@ -75,3 +81,4 @@ answers:
   5-1:
   6-1:
   7-1:
+  8-1:
