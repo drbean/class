@@ -50,6 +50,7 @@
 8-1:
   absent:
     - Louanna
+    - Claire
   merits: 3
 
 questions:
