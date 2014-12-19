@@ -1,0 +1,152 @@
+---
+free:
+  0:
+    million:
+      0:
+        N02202105:
+          point:
+            1: Returned
+        N03203105:
+          point:
+            1: Unreturned
+    minutes:
+      0:
+        N02202105:
+          point:
+            1: Unreturned
+        N03203105:
+          point:
+            1: Returned
+    life:
+      0:
+        N02202105:
+          point:
+            1: Nil
+        N03203105:
+          point:
+            1: Nil
+  1:
+    million:
+      0:
+        N02202114:
+          point:
+            1: Returned
+        N01200033:
+          point:
+            1: Unreturned
+    minutes:
+      0:
+        N02202114:
+          point:
+            1: Unreturned
+        N01200033:
+          point:
+            1: Returned
+    life:
+      0:
+        N02202114:
+          point:
+            1: Nil
+        N01200033:
+          point:
+            1: Nil
+  2:
+    million:
+      0:
+        N01200056:
+          point:
+            1: Returned
+        N01200021:
+          point:
+            1: Unreturned
+    minutes:
+      0:
+        N01200056:
+          point:
+            1: Unreturned
+        N01200021:
+          point:
+            1: Returned
+    life:
+      0:
+        N01200056:
+          point:
+            1: Nil
+        N01200021:
+          point:
+            1: Nil
+  3:
+    million:
+      0:
+        N00200059:
+          point:
+            1: Unreturned
+        N01200023:
+          point:
+            1: Returned
+    minutes:
+      0:
+        N00200059:
+          point:
+            1: Unreturned
+        N01200023:
+          point:
+            1: Returned
+    life:
+      0:
+        N00200059:
+          point:
+            1: Nil
+        N01200023:
+          point:
+            1: Nil
+  4:
+    million:
+      0:
+        N02202201:
+          point:
+            1: Unreturned
+        N01200035:
+          point:
+            1: Returned
+    minutes:
+      0:
+        N02202201:
+          point:
+            1: Returned
+        N01200035:
+          point:
+            1: Unreturned
+    life:
+      0:
+        N02202201:
+          point:
+            1: Unreturned
+        N01200035:
+          point:
+            1: Returned
+  5:
+    million:
+      0:
+        N01200041:
+          point:
+            1: Returned
+        N00200045:
+          point:
+            1: Unreturned
+    minutes:
+      0:
+        N01200041:
+          point:
+            1: Unreturned
+        N00200045:
+          point:
+            1: Returned
+    life:
+      0:
+        N01200041:
+          point:
+            1: Returned
+        N00200045:
+          point:
+            1: Unreturned
