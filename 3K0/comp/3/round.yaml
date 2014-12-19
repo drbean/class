@@ -1,0 +1,55 @@
+---
+activity:
+  million:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+  minutes:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+  life:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+assistant: ~
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: N02202105
+    Black: N03203105
+  1:
+    White: N02202114
+    Black: N01200033
+  2:
+    White: N01200056
+    Black: N01200021
+  3:
+    White: N00200059
+    Black: N01200023
+  4:
+    White: N02202201
+    Black: N01200035
+  5:
+    White: N01200041
+    Black: N00200045
+late:
+  - N02202105
+pairing: swiss adjusted
+payprotocol: meritPay 3
+round: 2
+text: /home/drbean/class/business/greatideas/cards.yaml
+week: 13
