@@ -4,6 +4,8 @@ cutpoints:
   two: ~
 exercise: ranking
 grade:
+  N01200030: 0
+
   N00200045: 1.46
   N00200059: 1.94
   N01200002: 1.9
