@@ -4,6 +4,8 @@ cutpoints:
   two: ~
 exercise: argos-2
 grade:
+  N01200030: 0
+
   N00200045: 1.48
   N00200059: 1.96
   N01200002: 2
