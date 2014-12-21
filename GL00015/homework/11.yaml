@@ -1,0 +1,35 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: lerman
+grade:
+  U0122213: 2
+  U0218037: 0
+  U0222015: 0
+  U9923128: 0
+  V9941031: 1.76
+  V9941036: 2
+  V9941057: 2
+points:
+  U0122213:
+    letters: 173
+    percent: 100
+  U0218037:
+    letters: 0
+    percent: 0
+  U0222015:
+    letters: 0
+    percent: 0
+  U9923128:
+    letters: 0
+    percent: 0
+  V9941031:
+    letters: 149
+    percent: 88
+  V9941036:
+    letters: 145
+    percent: 100
+  V9941057:
+    letters: 153
+    percent: 100
