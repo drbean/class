@@ -1,0 +1,43 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: lerman
+grade:
+  U0016014: 2
+  U0031022: 2
+  U0043029: 1.98
+  U0111135: 2
+  U0115001: 0
+  U0222112: 2
+  U0222303: 2
+  U0311011: 1.88
+  U9810037: 0
+points:
+  U0016014:
+    letters: 140
+    percent: 100
+  U0031022:
+    letters: 152
+    percent: 100
+  U0043029:
+    letters: 141
+    percent: 99
+  U0111135:
+    letters: 165
+    percent: 100
+  U0115001:
+    letters: 0
+    percent: 0
+  U0222112:
+    letters: 154
+    percent: 100
+  U0222303:
+    letters: 179
+    percent: 100
+  U0311011:
+    letters: 150
+    percent: 94
+  U9810037:
+    letters: 0
+    percent: 0
