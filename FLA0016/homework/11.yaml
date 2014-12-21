@@ -1,0 +1,111 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: lerman
+grade:
+  V0031007: 0
+  V0141001: 0
+  V0141003: 0.74
+  V0141008: 2
+  V0141011: 2
+  V0141016: 2
+  V0141018: 2
+  V0141021: 2
+  V0141023: 2
+  V0141026: 2
+  V0141029: 1.64
+  V0141036: 2
+  V0141038: 2
+  V0141042: 2
+  V0141043: 0
+  V0141046: 2
+  V0141049: 2
+  V0141051: 2
+  V0141053: 2
+  V0141055: 1.84
+  V0141059: 1.98
+  V0141061: 2
+  V0141062: 0
+  V0141063: 0
+  V0141065: 2
+  V9941077: 1.98
+points:
+  V0031007:
+    letters: 0
+    percent: 0
+  V0141001:
+    letters: 0
+    percent: 0
+  V0141003:
+    letters: 51
+    percent: 37
+  V0141008:
+    letters: 131
+    percent: 100
+  V0141011:
+    letters: 148
+    percent: 100
+  V0141016:
+    letters: 146
+    percent: 100
+  V0141018:
+    letters: 146
+    percent: 100
+  V0141021:
+    letters: 163
+    percent: 100
+  V0141023:
+    letters: 152
+    percent: 100
+  V0141026:
+    letters: 141
+    percent: 100
+  V0141029:
+    letters: 132
+    percent: 82
+  V0141036:
+    letters: 150
+    percent: 100
+  V0141038:
+    letters: 165
+    percent: 100
+  V0141042:
+    letters: 145
+    percent: 100
+  V0141043:
+    letters: 0
+    percent: 0
+  V0141046:
+    letters: 131
+    percent: 100
+  V0141049:
+    letters: 148
+    percent: 100
+  V0141051:
+    letters: 154
+    percent: 100
+  V0141053:
+    letters: 142
+    percent: 100
+  V0141055:
+    letters: 123
+    percent: 92
+  V0141059:
+    letters: 147
+    percent: 99
+  V0141061:
+    letters: 173
+    percent: 100
+  V0141062:
+    letters: 0
+    percent: 0
+  V0141063:
+    letters: 0
+    percent: 0
+  V0141065:
+    letters: 160
+    percent: 100
+  V9941077:
+    letters: 136
+    percent: 99
