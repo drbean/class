@@ -370,17 +370,17 @@ member:
     name: Jason
     password: wei
     rating: ~
-  - Chinese: 湯元俊
-    id: V0399118
-    name: 湯元俊
-    password: yuan
-    rating: ~
   - Chinese: 謝孟璇
     id: V9941076
     name: Mengshiung
     password: meng
     rating: ~
-out: []
+out:
+  - Chinese: 湯元俊
+    id: V0399118
+    name: 湯元俊
+    password: yuan
+    rating: ~
 room: A705
 school: nuu
 session:
