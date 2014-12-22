@@ -297,7 +297,7 @@ member:
     rating: ~
   - Chinese: 王耀陞
     id: V0241012
-    name: 王耀陞
+    name: Ivan
     password: yao
     rating: ~
   - Chinese: 賴彥鈞
@@ -307,7 +307,7 @@ member:
     rating: ~
   - Chinese: 吳思賢
     id: V0241017
-    name: 吳思賢
+    name: Andy
     password: si
     rating: ~
   - Chinese: 王覲
@@ -322,7 +322,7 @@ member:
     rating: ~
   - Chinese: 陳亮彤
     id: V0241029
-    name: 陳亮彤
+    name: Lily
     password: liang
     rating: ~
   - Chinese: 蔡方如
@@ -337,7 +337,7 @@ member:
     rating: ~
   - Chinese: 何姿儀
     id: V0241038
-    name: 何姿儀
+    name: Penny
     password: zi
     rating: ~
   - Chinese: 羅思弦
@@ -357,7 +357,7 @@ member:
     rating: ~
   - Chinese: 邱煒傑
     id: V0241063
-    name: 邱煒傑
+    name: Jay
     password: wei
     rating: ~
   - Chinese: 黃昭寧
@@ -367,7 +367,7 @@ member:
     rating: ~
   - Chinese: 劉威昇
     id: V0241067
-    name: 劉威昇
+    name: Jason
     password: wei
     rating: ~
   - Chinese: 湯元俊
@@ -384,10 +384,7 @@ out: []
 room: A705
 school: nuu
 session:
-  1: 1
-  2: 6
-  3: 10
-  4: 14
+  4: 13
 weights:
   classwork: 40
   exams: 20
