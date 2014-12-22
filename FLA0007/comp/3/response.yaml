@@ -1,0 +1,68 @@
+---
+free:
+  1:
+    diaz:
+      0:
+        V0241063:
+          point:
+            1: Nil
+        V0241012:
+          point:
+            1: Nil
+  2:
+    diaz:
+      0:
+        V0241024:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        V0241014:
+          point:
+            1: Returned
+            2: Returned
+  3:
+    diaz:
+      0:
+        V0241031:
+          point:
+            1: Returned on 2nd chance
+        V0241054:
+          point:
+            1: Nil
+  4:
+    diaz:
+      0:
+        V0241001:
+          point:
+            1: Returned
+        V0241067:
+          point:
+            1: Nil
+  5:
+    diaz:
+      0:
+        V0241033:
+          point:
+            1: Returned
+        V0241042:
+          point:
+            1: Nil
+  6:
+    diaz:
+      0:
+        V0241045:
+          point:
+            1: Nil
+        V0241038:
+          point:
+            1: Nil
+  7:
+    diaz:
+      0:
+        V0241020:
+          point:
+            1: Unreturned
+        U0222217:
+          point:
+            1: Fault on 2nd chance
