@@ -1,0 +1,43 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: depression
+grade:
+  U0016014: 2
+  U0031022: 1.62
+  U0043029: 2
+  U0111135: 2
+  U0115001: 0
+  U0222112: 2
+  U0222303: 0
+  U0311011: 0
+  U9810037: 0
+points:
+  U0016014:
+    letters: 183
+    percent: 100
+  U0031022:
+    letters: 132
+    percent: 81
+  U0043029:
+    letters: 180
+    percent: 100
+  U0111135:
+    letters: 162
+    percent: 100
+  U0115001:
+    letters: 0
+    percent: 0
+  U0222112:
+    letters: 162
+    percent: 100
+  U0222303:
+    letters: 0
+    percent: 0
+  U0311011:
+    letters: 0
+    percent: 0
+  U9810037:
+    letters: 0
+    percent: 0
