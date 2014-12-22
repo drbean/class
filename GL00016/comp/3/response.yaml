@@ -1,0 +1,103 @@
+---
+free:
+  0:
+    spano:
+      0:
+        U0222112:
+          point:
+            1: Nil
+        U0043029:
+          point:
+            1: Returned
+    kerman:
+      0:
+        U0222112:
+          point:
+            1: Returned on 2nd chance
+        U0043029:
+          point:
+            1: Nil
+    seixas:
+      0:
+        U0222112:
+          point:
+            1: Returned
+        U0043029:
+          point:
+            1: Returned
+    diaz:
+      0:
+        U0222112:
+          point:
+            1: Returned on 2nd chance
+        U0043029:
+          point:
+            1: Returned on 2nd chance
+  1:
+    spano:
+      0:
+        U0031022:
+          point:
+            1: Nil
+        U0311011:
+          point:
+            1: Returned on 2nd chance
+    lerman:
+      0:
+        U0031022:
+          point:
+            1: Returned
+            2: Returned
+        U0311011:
+          point:
+            1: Fault on 2nd chance
+    seixas:
+      0:
+        U0031022:
+          point:
+            1: Returned on 2nd chance
+        U0311011:
+          point:
+            1: Returned
+    diaz:
+      0:
+        U0031022:
+          point:
+            1: Returned
+        U0311011:
+          point:
+            1: Returned
+  2:
+    spano:
+      0:
+        U0111135:
+          point:
+            1: Returned on 2nd chance
+        U0222303:
+          point:
+            1: Returned
+    lerman:
+      0:
+        U0111135:
+          point:
+            1: Returned
+            2: Returned on 2nd chance
+        U0222303:
+          point:
+            1: Fault on 2nd chance
+    seixas:
+      0:
+        U0111135:
+          point:
+            1: Returned
+        U0222303:
+          point:
+            1: Returned on 2nd chance
+    diaz:
+      0:
+        U0111135:
+          point:
+            1: Returned
+        U0222303:
+          point:
+            1: Returned on 2nd chance
