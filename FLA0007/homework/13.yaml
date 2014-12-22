@@ -1,0 +1,79 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: depression
+grade:
+  U0222217: 0
+  V0241001: 0
+  V0241012: 0
+  V0241014: 2
+  V0241017: 1.52
+  V0241020: 0.94
+  V0241024: 1.9
+  V0241029: 1.78
+  V0241031: 1.9
+  V0241033: 1.98
+  V0241038: 2
+  V0241042: 0
+  V0241045: 0
+  V0241054: 0
+  V0241063: 0
+  V0241065: 2
+  V0241067: 0
+  V9941076: 1.96
+points:
+  U0222217:
+    letters: 0
+    percent: 0
+  V0241001:
+    letters: 0
+    percent: 0
+  V0241012:
+    letters: 0
+    percent: 0
+  V0241014:
+    letters: 201
+    percent: 100
+  V0241017:
+    letters: 129
+    percent: 76
+  V0241020:
+    letters: 78
+    percent: 47
+  V0241024:
+    letters: 149
+    percent: 95
+  V0241029:
+    letters: 142
+    percent: 89
+  V0241031:
+    letters: 167
+    percent: 95
+  V0241033:
+    letters: 158
+    percent: 99
+  V0241038:
+    letters: 161
+    percent: 100
+  V0241042:
+    letters: 0
+    percent: 0
+  V0241045:
+    letters: 0
+    percent: 0
+  V0241054:
+    letters: 0
+    percent: 0
+  V0241063:
+    letters: 0
+    percent: 0
+  V0241065:
+    letters: 159
+    percent: 100
+  V0241067:
+    letters: 0
+    percent: 0
+  V9941076:
+    letters: 183
+    percent: 98
