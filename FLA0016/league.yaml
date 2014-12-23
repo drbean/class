@@ -91,11 +91,6 @@ member:
     name: Jessica
     password: jie
     rating: ~
-  - Chinese: 林念蓉
-    id: V0141043
-    name: 林念蓉
-    password: nian
-    rating: ~
   - Chinese: 黃如妘
     id: V0141046
     name: Amber
@@ -131,11 +126,6 @@ member:
     name: Sam
     password: zhi
     rating: ~
-  - Chinese: 林遠凱
-    id: V0141062
-    name: 林遠凱
-    password: yuan
-    rating: ~
   - Chinese: 洪君綾
     id: V0141063
     name: 洪君綾
@@ -146,7 +136,17 @@ member:
     name: Bunny
     password: ya
     rating: ~
-out: []
+out:
+  - Chinese: 林遠凱
+    id: V0141062
+    name: 林遠凱
+    password: yuan
+    rating: ~
+  - Chinese: 林念蓉
+    id: V0141043
+    name: 林念蓉
+    password: nian
+    rating: ~
 room: A706
 school: nuu
 session:
