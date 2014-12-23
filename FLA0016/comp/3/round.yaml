@@ -1,0 +1,84 @@
+---
+activity:
+  spano:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+  lerman:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+  seixas:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+  diaz:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+assistant:
+  4-2:
+    V0141042: 5
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: V0141065
+    Black: V0141001
+  1:
+    White: V0141018
+    Black: V0141055
+  2:
+    White: V0141049
+    Black: V0141053
+  3:
+    White: V0141061
+    Black: V0141046
+  4:
+    White: V0141059
+    Black: V0141021
+  5:
+    White: V0141016
+    Black: V0141011
+  6:
+    White: V0141029
+    Black: V0141023
+  7:
+    White: V0141003
+    Black: V0141038
+  8:
+    White: V0141026
+    Black: V0141036
+pairing: swiss
+payprotocol: meritPay 3
+round: 2
+text: /home/drbean/class/conversation/food/cards.yaml
+week: 14
