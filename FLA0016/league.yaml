@@ -15,68 +15,80 @@ hwMax: 2
 id: 031FLA0016
 league: 夜應外三甲
 member:
+  - Chinese: 劉晏秀
+    id: V0141042
+    name: Christy
+    password: yan
+    rating: ~
+  - Chinese: 陳韋志
+    id: V9941077
+    name: Joe
+    password: wei
+    rating: ~
+
+  - Chinese: 蔡立瑋
     id: V0031007
-    name: 彭偉光
+    name: Andy
     password: wei
     rating: ~
   - Chinese: 蔡立瑋
     id: V0141001
-    name: 蔡立瑋
+    name: David
     password: li
     rating: ~
   - Chinese: 吳于嫥
     id: V0141003
-    name: 吳于嫥
+    name: Stephanie
     password: yu
     rating: ~
   - Chinese: 曾慧珊
     id: V0141008
-    name: 曾慧珊
+    name: Grace
     password: hui
     rating: ~
   - Chinese: 鍾育霖
     id: V0141011
-    name: 鍾育霖
+    name: ALin
     password: yu
     rating: ~
   - Chinese: 張偉棋
     id: V0141016
-    name: 張偉棋
+    name: Mark
     password: wei
     rating: ~
   - Chinese: 胡智鈞
     id: V0141018
-    name: 胡智鈞
+    name: Anthony
     password: zhi
     rating: ~
   - Chinese: 徐筱柔
     id: V0141021
-    name: 徐筱柔
+    name: Ivy1
     password: xiao
     rating: ~
   - Chinese: 宋紫如
     id: V0141023
-    name: 宋紫如
+    name: Sandy
     password: zi
     rating: ~
   - Chinese: 傅欣誼
     id: V0141026
-    name: 傅欣誼
+    name: Vicky
     password: xin
     rating: ~
   - Chinese: 邱凱蒂
     id: V0141029
-    name: 邱凱蒂
+    name: Kitty
     password: kai
     rating: ~
   - Chinese: 解雅婷
     id: V0141036
-    name: 解雅婷
+    name: Sally
     password: ya
     rating: ~
   - Chinese: 謝婕榆
     id: V0141038
-    name: 謝婕榆
+    name: Jessica
     password: jie
     rating: ~
   - Chinese: 林念蓉
@@ -86,37 +98,37 @@ member:
     rating: ~
   - Chinese: 黃如妘
     id: V0141046
-    name: 黃如妘
+    name: Amber
     password: ru
     rating: ~
   - Chinese: 黃姵甄
     id: V0141049
-    name: 黃姵甄
+    name: Zoe
     password: pei
     rating: ~
   - Chinese: 徐郁惠
     id: V0141051
-    name: 徐郁惠
+    name: Anja
     password: yu
     rating: ~
   - Chinese: 溫燁葶
     id: V0141053
-    name: 溫燁葶
+    name: Abby
     password: ye
     rating: ~
   - Chinese: 黃柔禎
     id: V0141055
-    name: 黃柔禎
+    name: Trista
     password: rou
     rating: ~
   - Chinese: 陳虹吟
     id: V0141059
-    name: 陳虹吟
+    name: Ivy2
     password: hong
     rating: ~
   - Chinese: 施志昇
     id: V0141061
-    name: 施志昇
+    name: Sam
     password: zhi
     rating: ~
   - Chinese: 林遠凱
@@ -131,7 +143,7 @@ member:
     rating: ~
   - Chinese: 黃雅屏
     id: V0141065
-    name: 黃雅屏
+    name: Bunny
     password: ya
     rating: ~
 out: []
@@ -214,11 +226,6 @@ cohort:
       name: Sunny
       password: qing
       rating: ~
-    - Chinese: 劉晏秀
-      id: V0141042
-      name: Christy
-      password: yan
-      rating: ~
     - Chinese: 林宛瑩
       id: V0141048
       name: Wynn
@@ -249,12 +256,27 @@ cohort:
       name: Owen
       password: ming
       rating: ~
+    - Chinese: 劉晏秀
+      id: V0141042
+      name: Christy
+      password: yan
+      rating: ~
     - Chinese: 陳韋志
       id: V9941077
       name: Joe
       password: wei
       rating: ~
   2:
+    - Chinese: 劉晏秀
+      id: V0141042
+      name: Christy
+      password: yan
+      rating: ~
+    - Chinese: 陳韋志
+      id: V9941077
+      name: Joe
+      password: wei
+      rating: ~
     - Chinese: 彭偉光
       id: V0031007
       name: 彭偉光
@@ -282,17 +304,17 @@ cohort:
       rating: ~
     - Chinese: 張偉棋
       id: V0141016
-      name: 張偉棋
+      name: Mark
       password: wei
       rating: ~
     - Chinese: 胡智鈞
       id: V0141018
-      name: 胡智鈞
+      name: Anthony
       password: zhi
       rating: ~
     - Chinese: 徐筱柔
       id: V0141021
-      name: 徐筱柔
+      name: Ivy1
       password: xiao
       rating: ~
     - Chinese: 宋紫如
@@ -317,7 +339,7 @@ cohort:
       rating: ~
     - Chinese: 謝婕榆
       id: V0141038
-      name: 謝婕榆
+      name: Jessica
       password: jie
       rating: ~
     - Chinese: 林念蓉
@@ -337,7 +359,7 @@ cohort:
       rating: ~
     - Chinese: 徐郁惠
       id: V0141051
-      name: 徐郁惠
+      name: Anja
       password: yu
       rating: ~
     - Chinese: 溫燁葶
@@ -357,7 +379,7 @@ cohort:
       rating: ~
     - Chinese: 施志昇
       id: V0141061
-      name: 施志昇
+      name: Sam
       password: zhi
       rating: ~
     - Chinese: 林遠凱
