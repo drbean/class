@@ -1,0 +1,40 @@
+---
+activity:
+  spano:
+    0:
+      - 0
+      - 1
+      - 2
+  lerman:
+    0:
+      - 0
+      - 1
+      - 2
+  seixas:
+    0:
+      - 0
+      - 1
+      - 2
+  diaz:
+    0:
+      - 0
+      - 1
+      - 2
+assistant: ~
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: U0218037
+    Black: U0222015
+  1:
+    White: V9941057
+    Black: V9941031
+  2:
+    White: U0122213
+    Black: V9941036
+pairing: swiss
+payprotocol: meritPay 3
+round: 3
+text: /home/drbean/class/conversation/food/cards.yaml
+week: 14
