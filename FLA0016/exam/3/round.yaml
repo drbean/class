@@ -1,0 +1,62 @@
+---
+round: Exam 3
+week: 14
+questions:
+  - 10
+pass: 6
+assistant:
+  - ALin
+  - Stephanie
+  - Mark
+absent:
+  - Andy
+  - Anja
+  - 洪君綾
+  - Joe
+  - Grace
+text: /home/drbean/class/conversation/food/cards.yaml
+activity:
+  spano:
+    0:
+      - 1-1
+      - 3-1
+      - 4-2
+  lerman:
+    1:
+      - 2-2
+  seixas:
+    0:
+      - 1-2
+      - 3-2
+  diaz:
+    0:
+      - 2-1
+group:
+  1-1:
+    - Abby
+    - ALin
+    - Trista
+  1-2:
+    - Bunny
+    - Ivy2
+    - Anthony
+  2-1:
+    - Ivy1
+    - Sam
+    - David
+  2-2:
+    - Sally
+    - Mark
+    - Stephanie
+  3-1:
+    - Mark
+    - ALin
+    - Kitty
+  3-2:
+    - Amber
+    - Jessica
+    - Sandy
+  4-2:
+    - Vicky
+    - Christy
+    - Zoe
