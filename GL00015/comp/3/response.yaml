@@ -1,0 +1,108 @@
+---
+free:
+  0:
+    spano:
+      0:
+        U0218037:
+          point:
+            1: Fault on 2nd chance
+            2: Fault on 2nd chance
+            3: Returned
+        U0222015:
+          point:
+            1: Unreturned on 2nd chance
+            2: Returned on 2nd chance
+            3: Unreturned
+    lerman:
+      0:
+        U0218037:
+          point:
+            1: Nil
+        U0222015:
+          point:
+            1: Nil
+    seixas:
+      0:
+        U0218037:
+          point:
+            1: Nil
+        U0222015:
+          point:
+            1: Nil
+    diaz:
+      0:
+        U0218037:
+          point:
+            1: Nil
+        U0222015:
+          point:
+            1: Nil
+  1:
+    spano:
+      0:
+        V9941057:
+          point:
+            1: Returned
+        V9941031:
+          point:
+            1: Fault on 2nd chance
+    lerman:
+      0:
+        V9941057:
+          point:
+            1: Returned
+        V9941031:
+          point:
+            1: Fault on 2nd chance
+    seixas:
+      0:
+        V9941057:
+          point:
+            1: Returned on 2nd chance
+        V9941031:
+          point:
+            1: Returned on 2nd chance
+    diaz:
+      0:
+        V9941057:
+          point:
+            1: Nil
+        V9941031:
+          point:
+            1: Nil
+  2:
+    spano:
+      0:
+        U0122213:
+          point:
+            1: Fault on 2nd chance
+            2: Returned on 2nd chance
+        V9941036:
+          point:
+            1: Returned on 2nd chance
+            2: Fault on 2nd chance
+            3: Returned on 2nd chance
+    lerman:
+      0:
+        U0122213:
+          point:
+            1: Returned
+        V9941036:
+          point:
+            1: Returned
+    seixas:
+      0:
+        U0122213:
+          point:
+            1: Nil
+        V9941036:
+          point:
+            1: Nil
+    diaz:
+      0:
+        U0122213:
+          point:
+            1: Nil
+        V9941036:
+          point:
+            1: Nil

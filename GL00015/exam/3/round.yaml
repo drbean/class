@@ -1,0 +1,38 @@
+---
+round: Exam 3
+week: 14
+questions:
+  - 10
+pass: 6
+assistant:
+  - David
+  - HsinCih
+  - Louanna
+absent:
+  - Andy
+text: /home/drbean/class/conversation/food/cards.yaml
+activity:
+  spano:
+    0:
+      - 1-2
+  lerman:
+    1:
+      - 1-1
+  seixas:
+    0:
+  diaz:
+    0:
+      - 2-1
+group:
+  1-1:
+    - Lisa
+    - HsinCih
+    - Louanna
+  1-2:
+    - YiXuan
+    - David
+    - Louanna
+  2-1:
+    - Sam
+    - HsinCih
+    - David
