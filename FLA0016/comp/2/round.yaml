@@ -1,0 +1,78 @@
+---
+activity:
+  biomom:
+    4:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+  biodad:
+    1:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+  emersonj:
+    2:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+assistant: ~
+bye: V0141048
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: V0141002
+    Black: V0141050
+  2:
+    White: V0141019
+    Black: V0141025
+  3:
+    White: V0141041
+    Black: V9941077
+  4:
+    White: V0141009
+    Black: V0141022
+  5:
+    White: V0141017
+    Black: V0141035
+  6:
+    White: V0141042
+    Black: V0141052
+  7:
+    White: V0141037
+    Black: V0141028
+  8:
+    White: V0141012
+    Black: V0141060
+  9:
+    White: V0141054
+    Black: V0141006
+  10:
+    White: V0041022
+    Black: V0141058
+pairing: swiss
+payprotocol: meritPay 3
+round: 1
+text: /home/drbean/class/conversation/parents/cards.yaml
+week: 9
