@@ -1,0 +1,151 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: thanksgiving
+grade:
+  V0041002: 2
+  V0041007: 1.04
+  V0041009: 2
+  V0041012: 1.98
+  V0041015: 1.92
+  V0041019: 2
+  V0041030: 2
+  V0041035: 1.22
+  V0041036: 0.82
+  V0041038: 2
+  V0041039: 2
+  V0041040: 2
+  V0041042: 0
+  V0041044: 0
+  V0041047: 1.02
+  V0041049: 2
+  V0041052: 2
+  V0041057: 1.4
+  V0041058: 0.86
+  V0041064: 2
+  V0141042: 1.86
+  V0141062: 2
+  V0141063: 2
+  V9741022: 2
+  V9841071: 0.54
+  V9941001: 2
+  V9941014: 1.84
+  V9941028: 0.92
+  V9941031: 2
+  V9941036: 0
+  V9941040: 2
+  V9941057: 1.96
+  V9941065: 2
+  V9941071: 1.08
+  V9941075: 2
+  V9941076: 2
+points:
+  V0041002:
+    letters: 179
+    percent: 100
+  V0041007:
+    letters: 100
+    percent: 52
+  V0041009:
+    letters: 183
+    percent: 100
+  V0041012:
+    letters: 202
+    percent: 99
+  V0041015:
+    letters: 169
+    percent: 96
+  V0041019:
+    letters: 187
+    percent: 100
+  V0041030:
+    letters: 193
+    percent: 100
+  V0041035:
+    letters: 118
+    percent: 61
+  V0041036:
+    letters: 80
+    percent: 41
+  V0041038:
+    letters: 205
+    percent: 100
+  V0041039:
+    letters: 201
+    percent: 100
+  V0041040:
+    letters: 210
+    percent: 100
+  V0041042:
+    letters: 0
+    percent: 0
+  V0041044:
+    letters: 0
+    percent: 0
+  V0041047:
+    letters: 106
+    percent: 51
+  V0041049:
+    letters: 186
+    percent: 100
+  V0041052:
+    letters: 193
+    percent: 100
+  V0041057:
+    letters: 140
+    percent: 70
+  V0041058:
+    letters: 92
+    percent: 43
+  V0041064:
+    letters: 196
+    percent: 100
+  V0141042:
+    letters: 209
+    percent: 93
+  V0141062:
+    letters: 220
+    percent: 100
+  V0141063:
+    letters: 196
+    percent: 100
+  V9741022:
+    letters: 183
+    percent: 100
+  V9841071:
+    letters: 53
+    percent: 27
+  V9941001:
+    letters: 193
+    percent: 100
+  V9941014:
+    letters: 158
+    percent: 92
+  V9941028:
+    letters: 84
+    percent: 46
+  V9941031:
+    letters: 180
+    percent: 100
+  V9941036:
+    letters: 0
+    percent: 0
+  V9941040:
+    letters: 203
+    percent: 100
+  V9941057:
+    letters: 187
+    percent: 98
+  V9941065:
+    letters: 184
+    percent: 100
+  V9941071:
+    letters: 122
+    percent: 54
+  V9941075:
+    letters: 194
+    percent: 100
+  V9941076:
+    letters: 195
+    percent: 100
