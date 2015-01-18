@@ -1,0 +1,37 @@
+---
+activity:
+  xmas:
+    0:
+      - 0
+      - 1
+      - 2
+  newyear:
+    0:
+      - 0
+      - 1
+      - 2
+  vacation:
+    0:
+      - 0
+      - 1
+      - 2
+assistant:
+  1-1:
+    U0016014: 3
+dispensation:
+divisions: ~
+group:
+  0:
+    White: U0311011
+    Black: U0222112
+  1:
+    White: U0031022
+    Black: U0111135
+  2:
+    White: U0222303
+    Black: U0043029
+pairing: swiss
+payprotocol: meritPay 5
+round: 4
+text: /home/drbean/class/conversation/festivals/cards.yaml
+week: 18

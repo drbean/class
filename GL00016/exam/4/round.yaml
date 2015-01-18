@@ -1,0 +1,35 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 6
+assistant:
+  - Peter
+  - MengJae
+absent:
+  - FuYing
+text: /home/drbean/class/conversation/marriage/cards.yaml
+activity:
+  norad:
+    0:
+      - 1-1
+  sobozinskywall:
+    0:
+      - 2-1
+  safir:
+    0:
+      - 3-1
+group:
+  1-1:
+    - Peter
+    - Dolly
+    - Alice
+  2-1:
+    - MengJae
+    - Eric
+    - Paul
+  3-1:
+    - MengJae
+    - Peter
+    - YingChia
