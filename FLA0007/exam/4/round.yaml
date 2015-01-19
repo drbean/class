@@ -1,0 +1,50 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 6
+assistant:
+  - Lynn
+  - Penny
+absent:
+  - Mengshiung
+text: /home/drbean/class/conversation/marriage/cards.yaml
+activity:
+  norad:
+    0:
+      - 1-1
+      - 4-1
+  sobozinskywall:
+    0:
+      - 2-2
+      - 3-2
+  safir:
+    0:
+      - 2-1
+      - 3-1
+group:
+  1-1:
+    - Amber
+    - Ivan
+    - Lynn
+  2-1:
+    - Abby
+    - Fiona
+    - Penny
+  2-2:
+    - Joyce
+    - Ali
+    - Jason
+  3-1:
+    - Jay
+    - Lily
+    - Sandy
+  3-2:
+    - Josh
+    - Lynn
+    - Hunter
+  4-1:
+    - Jimmy
+    - Penny
+    - Andy
