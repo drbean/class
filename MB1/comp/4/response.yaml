@@ -1,0 +1,227 @@
+---
+free:
+  0:
+    xmas:
+      0:
+        N02200009:
+          point:
+            1: Returned
+        N03202105:
+          point:
+            1: Unreturned
+    newyear:
+      0:
+        N02200009:
+          point:
+            1: Nil
+        N03202105:
+          point:
+            1: Nil
+    history:
+      0:
+        N02200009:
+          point:
+            1: Returned
+        N03202105:
+          point:
+            1: Unreturned
+  1:
+    xmas:
+      0:
+        N02200006:
+          point:
+            1: Unreturned on 2nd chance
+        N02200026:
+          point:
+            1: Returned on 2nd chance
+    newyear:
+      0:
+        N02200006:
+          point:
+            1: Returned
+        N02200026:
+          point:
+            1: Unreturned
+    history:
+      0:
+        N02200006:
+          point:
+            1: Nil
+        N02200026:
+          point:
+            1: Nil
+  2:
+    xmas:
+      0:
+        N02200024:
+          point:
+            1: Returned
+        N02200016:
+          point:
+            1: Unreturned
+    newyear:
+      0:
+        N02200024:
+          point:
+            1: Unreturned
+        N02200016:
+          point:
+            1: Returned
+    history:
+      0:
+        N02200024:
+          point:
+            1: Unreturned
+        N02200016:
+          point:
+            1: Returned
+  3:
+    xmas:
+      0:
+        N02200028:
+          point:
+            1: Unreturned
+        N02200057:
+          point:
+            1: Returned
+    newyear:
+      0:
+        N02200028:
+          point:
+            1: Nil
+        N02200057:
+          point:
+            1: Nil
+    history:
+      0:
+        N02200028:
+          point:
+            1: Fault
+        N02200057:
+          point:
+            1: Fault
+  4:
+    xmas:
+      0:
+        N99200030:
+          point:
+            1: Returned on 2nd chance
+        N02202102:
+          point:
+            1: Unreturned on 2nd chance
+    newyear:
+      0:
+        N99200030:
+          point:
+            1: Unreturned
+        N02202102:
+          point:
+            1: Returned
+    history:
+      0:
+        N99200030:
+          point:
+            1: Nil
+        N02202102:
+          point:
+            1: Nil
+  5:
+    xmas:
+      0:
+        N02200032:
+          point:
+            1: Unreturned
+        N02200001:
+          point:
+            1: Returned
+    newyear:
+      0:
+        N02200032:
+          point:
+            1: Unreturned
+        N02200001:
+          point:
+            1: Returned
+    history:
+      0:
+        N02200032:
+          point:
+            1: Nil
+        N02200001:
+          point:
+            1: Nil
+  6:
+    xmas:
+      0:
+        N02200043:
+          point:
+            1: Returned
+        N02200040:
+          point:
+            1: Unreturned
+    newyear:
+      0:
+        N02200043:
+          point:
+            1: Returned
+        N02200040:
+          point:
+            1: Unreturned
+    history:
+      0:
+        N02200043:
+          point:
+            1: Nil
+        N02200040:
+          point:
+            1: Nil
+  7:
+    xmas:
+      0:
+        N02200011:
+          point:
+            1: Returned
+        N02200045:
+          point:
+            1: Unreturned
+    newyear:
+      0:
+        N02200011:
+          point:
+            1: Unreturned
+        N02200045:
+          point:
+            1: Returned
+    history:
+      0:
+        N02200011:
+          point:
+            1: Returned
+        N02200045:
+          point:
+            1: Unreturned
+  8:
+    xmas:
+      0:
+        N02200020:
+          point:
+            1: Unreturned
+        N03202103:
+          point:
+            1: Returned
+    newyear:
+      0:
+        N02200020:
+          point:
+            1: Unreturned
+        N03202103:
+          point:
+            1: Returned
+    history:
+      0:
+        N02200020:
+          point:
+            1: Nil
+        N03202103:
+          point:
+            1: Nil
