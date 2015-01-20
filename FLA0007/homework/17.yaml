@@ -1,0 +1,79 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: safir
+grade:
+  U0222217: 0
+  V0241001: 0
+  V0241012: 0
+  V0241014: 2
+  V0241017: 0
+  V0241020: 0
+  V0241024: 0
+  V0241029: 2
+  V0241031: 0
+  V0241033: 0
+  V0241038: 0
+  V0241042: 1.88
+  V0241045: 0
+  V0241054: 0
+  V0241063: 0
+  V0241065: 2
+  V0241067: 1.04
+  V9941076: 2
+points:
+  U0222217:
+    letters: 0
+    percent: 0
+  V0241001:
+    letters: 0
+    percent: 0
+  V0241012:
+    letters: 0
+    percent: 0
+  V0241014:
+    letters: 147
+    percent: 100
+  V0241017:
+    letters: 0
+    percent: 0
+  V0241020:
+    letters: 0
+    percent: 0
+  V0241024:
+    letters: 0
+    percent: 0
+  V0241029:
+    letters: 113
+    percent: 100
+  V0241031:
+    letters: 0
+    percent: 0
+  V0241033:
+    letters: 0
+    percent: 0
+  V0241038:
+    letters: 0
+    percent: 0
+  V0241042:
+    letters: 135
+    percent: 94
+  V0241045:
+    letters: 0
+    percent: 0
+  V0241054:
+    letters: 0
+    percent: 0
+  V0241063:
+    letters: 0
+    percent: 0
+  V0241065:
+    letters: 151
+    percent: 100
+  V0241067:
+    letters: 72
+    percent: 52
+  V9941076:
+    letters: 136
+    percent: 100
