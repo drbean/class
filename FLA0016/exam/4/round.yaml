@@ -1,0 +1,62 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 6
+assistant:
+  - ALin
+  - Anthony
+absent:
+  - 洪君綾
+  - Andy
+  - Bunny
+text: /home/drbean/class/conversation/marriage/cards.yaml
+activity:
+  norad:
+    0:
+      - 1-1
+      - 1-2
+      - 3-2
+  sobozinskywall:
+    0:
+      - 4-1
+      - 4-2
+  safir:
+    0:
+      - 2-1
+      - 2-2
+      - 3-1
+group:
+  1-1:
+    - ALin
+    - Sandy
+    - Joe
+  1-2:
+    - Anthony
+    - Ivy1
+    - Christy
+  2-1:
+    - David
+    - Sally
+    - Anthony
+  2-2:
+    - Stephanie
+    - Trista
+    - Zoe
+  3-1:
+    - Anja
+    - Kitty
+    - Mark
+  3-2:
+    - Amber
+    - Sam
+    - ALin
+  4-1:
+    - Anthony
+    - Vicky
+    - Jessica
+  4-2:
+    - Grace
+    - Ivy2
+    - Abby

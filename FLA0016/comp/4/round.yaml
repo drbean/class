@@ -1,0 +1,78 @@
+---
+activity:
+  xmas:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+  newyear:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+  vacation:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+assistant: ~
+bye: V0141051
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: V0141046
+    Black: V0141008
+  2:
+    White: V0141001
+    Black: V0141049
+  3:
+    White: V0141023
+    Black: V0141059
+  4:
+    White: V0141011
+    Black: V0141003
+  5:
+    White: V0141038
+    Black: V0141026
+  6:
+    White: V0141053
+    Black: V0141029
+  7:
+    White: V0141036
+    Black: V0141016
+  8:
+    White: V0141021
+    Black: V0141018
+  9:
+    White: V0141055
+    Black: V0141042
+  10:
+    White: V9941077
+    Black: V0141061
+pairing: swiss
+payprotocol: meritPay 3
+round: 3
+text: /home/drbean/class/conversation/festivals/cards.yaml
+week: 18
