@@ -1,0 +1,48 @@
+---
+topic: 
+
+1-1:
+  absent:
+    - MengShiung
+  merits: 2
+1-2:
+  absent:
+  merits: 2.5
+2-1:
+  absent:
+    - Brock
+    - Willy
+  merits: 2
+2-2:
+  absent:
+  merits: 2.5
+3-1:
+  absent:
+    - Nini
+    - Sherry
+    - XinFang
+  merits: 0
+3-2:
+  absent:
+  merits: 2
+4-1:
+  absent:
+  merits: 3
+4-2:
+  absent:
+    - Cindy
+  merits: 3
+5-1:
+  absent:
+  merits: 2
+6-1:
+  absent:
+    - Bruce
+    - Vera
+  merits: 2
+7-1:
+  absent:
+  merits: 2.5
+8-1:
+  absent:
+  merits: 3
