@@ -1,0 +1,34 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 6
+assistant:
+  - David
+  - HsinCih
+absent:
+text: /home/drbean/class/conversation/marriage/cards.yaml
+activity:
+  norad:
+    0:
+      - 1-2
+  sobozinskywall:
+    0:
+      - 2-1
+  safir:
+    0:
+      - 1-1
+group:
+  1-1:
+    - Andy
+    - Louanna
+    - YiXuan
+  1-2:
+    - Lisa
+    - David
+    - HsinCih
+  2-1:
+    - Sam
+    - HsinCih
+    - David
