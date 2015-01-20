@@ -1,0 +1,45 @@
+---
+topic: ingredients for success
+activity: managed ingredients_4 jigsaw
+
+1-1:
+  absent:
+  merits: 3
+
+1-2:
+  absent:
+    - Wayne
+  merits: 2
+
+2-1:
+  absent:
+    - Penny
+  merits: 2
+
+2-2:
+  absent:
+  merits: 2
+
+3-1:
+  absent:
+    - Shine
+    - George
+  merits: 2
+3-2:
+  absent:
+    - David
+  merits: 2
+
+4-1:
+  absent:
+  merits: 3
+
+4-2:
+  absent:
+    - Dave
+  merits: 3
+
+8-1:
+  absent:
+    - Han
+  merits: 0
