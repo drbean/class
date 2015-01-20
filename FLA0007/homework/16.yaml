@@ -1,0 +1,79 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: newyear
+grade:
+  U0222217: 0
+  V0241001: 1.98
+  V0241012: 0
+  V0241014: 2
+  V0241017: 2
+  V0241020: 0
+  V0241024: 0
+  V0241029: 2
+  V0241031: 2
+  V0241033: 2
+  V0241038: 2
+  V0241042: 1.96
+  V0241045: 1.82
+  V0241054: 0
+  V0241063: 0
+  V0241065: 2
+  V0241067: 0.42
+  V9941076: 2
+points:
+  U0222217:
+    letters: 0
+    percent: 0
+  V0241001:
+    letters: 181
+    percent: 99
+  V0241012:
+    letters: 0
+    percent: 0
+  V0241014:
+    letters: 191
+    percent: 100
+  V0241017:
+    letters: 195
+    percent: 100
+  V0241020:
+    letters: 0
+    percent: 0
+  V0241024:
+    letters: 0
+    percent: 0
+  V0241029:
+    letters: 201
+    percent: 100
+  V0241031:
+    letters: 204
+    percent: 100
+  V0241033:
+    letters: 205
+    percent: 100
+  V0241038:
+    letters: 169
+    percent: 100
+  V0241042:
+    letters: 214
+    percent: 98
+  V0241045:
+    letters: 180
+    percent: 91
+  V0241054:
+    letters: 0
+    percent: 0
+  V0241063:
+    letters: 0
+    percent: 0
+  V0241065:
+    letters: 201
+    percent: 100
+  V0241067:
+    letters: 40
+    percent: 21
+  V9941076:
+    letters: 179
+    percent: 100
