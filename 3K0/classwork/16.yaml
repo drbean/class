@@ -1,0 +1,49 @@
+---
+topic: ingredients for success
+activity: managed ingredients_4 jigsaw
+
+1-1:
+  absent:
+    - Jacky
+    - Milly
+  merits: 3
+
+1-2:
+  absent:
+    - Wayne
+  merits: 3
+
+2-1:
+  absent:
+    - Erica
+  merits: 2
+
+2-2:
+  absent:
+  merits: 2
+
+3-1:
+  absent:
+    - Shine
+    - Doni
+  merits: 3
+3-2:
+  absent:
+    - David
+    - Dash
+  merits: 3
+
+4-1:
+  absent:
+    - Yuki
+    - Roger
+  merits: 3
+
+4-2:
+  absent:
+    - Dave
+  merits: 2
+
+8-1:
+  absent:
+  merits: 3
