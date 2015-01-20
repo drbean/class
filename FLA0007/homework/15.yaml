@@ -1,0 +1,79 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: norad
+grade:
+  U0222217: 0
+  V0241001: 1.9
+  V0241012: 0
+  V0241014: 2
+  V0241017: 1.96
+  V0241020: 1.82
+  V0241024: 1.9
+  V0241029: 1.76
+  V0241031: 2
+  V0241033: 1.24
+  V0241038: 1.64
+  V0241042: 1.92
+  V0241045: 2
+  V0241054: 0
+  V0241063: 0.1
+  V0241065: 2
+  V0241067: 1.2
+  V9941076: 2
+points:
+  U0222217:
+    letters: 0
+    percent: 0
+  V0241001:
+    letters: 159
+    percent: 95
+  V0241012:
+    letters: 0
+    percent: 0
+  V0241014:
+    letters: 167
+    percent: 100
+  V0241017:
+    letters: 193
+    percent: 98
+  V0241020:
+    letters: 143
+    percent: 91
+  V0241024:
+    letters: 154
+    percent: 95
+  V0241029:
+    letters: 171
+    percent: 88
+  V0241031:
+    letters: 171
+    percent: 100
+  V0241033:
+    letters: 120
+    percent: 62
+  V0241038:
+    letters: 127
+    percent: 82
+  V0241042:
+    letters: 154
+    percent: 96
+  V0241045:
+    letters: 168
+    percent: 100
+  V0241054:
+    letters: 0
+    percent: 0
+  V0241063:
+    letters: 9
+    percent: 5
+  V0241065:
+    letters: 166
+    percent: 100
+  V0241067:
+    letters: 110
+    percent: 60
+  V9941076:
+    letters: 156
+    percent: 100
