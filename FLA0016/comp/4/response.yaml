@@ -1,0 +1,255 @@
+---
+free:
+  1:
+    xmas:
+      0:
+        V0141046:
+          point:
+            1: Nil
+        V0141008:
+          point:
+            1: Fault on 2nd chance
+    newyear:
+      0:
+        V0141046:
+          point:
+            1: Fault on 2nd chance
+        V0141008:
+          point:
+            1: Returned
+    vacation:
+      0:
+        V0141046:
+          point:
+            1: Returned
+            2: Fault on 2nd chance
+        V0141008:
+          point:
+            1: Returned
+  2:
+    xmas:
+      0:
+        V0141001:
+          point:
+            1: Nil
+        V0141049:
+          point:
+            1: Returned
+    newyear:
+      0:
+        V0141001:
+          point:
+            1: Unreturned on 2nd chance
+        V0141049:
+          point:
+            1: Returned
+    vacation:
+      0:
+        V0141001:
+          point:
+            1: Returned
+            2: Fault
+        V0141049:
+          point:
+            1: Returned
+  3:
+    xmas:
+      0:
+        V0141023:
+          point:
+            1: Returned
+        V0141059:
+          point:
+            1: Returned
+    newyear:
+      0:
+        V0141023:
+          point:
+            1: Returned
+        V0141059:
+          point:
+            1: Returned
+    vacation:
+      0:
+        V0141023:
+          point:
+            1: Returned
+        V0141059:
+          point:
+            1: Fault on 2nd chance
+  4:
+    xmas:
+      0:
+        V0141011:
+          point:
+            1: Fault on 2nd chance
+        V0141003:
+          point:
+            1: Fault on 2nd chance
+    newyear:
+      0:
+        V0141011:
+          point:
+            1: Nil
+        V0141003:
+          point:
+            1: Returned
+    vacation:
+      0:
+        V0141011:
+          point:
+            1: Nil
+        V0141003:
+          point:
+            1: Nil
+  5:
+    xmas:
+      0:
+        V0141038:
+          point:
+            1: Nil
+        V0141026:
+          point:
+            1: Nil
+    newyear:
+      0:
+        V0141038:
+          point:
+            1: Nil
+        V0141026:
+          point:
+            1: Nil
+    vacation:
+      0:
+        V0141038:
+          point:
+            1: Nil
+        V0141026:
+          point:
+            1: Nil
+  6:
+    xmas:
+      0:
+        V0141053:
+          point:
+            1: Fault on 2nd chance
+        V0141029:
+          point:
+            1: Returned
+    newyear:
+      0:
+        V0141053:
+          point:
+            1: Returned on 2nd chance
+        V0141029:
+          point:
+            1: Returned
+    vacation:
+      0:
+        V0141053:
+          point:
+            1: Returned
+        V0141029:
+          point:
+            1: Fault
+  7:
+    xmas:
+      0:
+        V0141036:
+          point:
+            1: Returned
+        V0141016:
+          point:
+            1: Fault
+    newyear:
+      0:
+        V0141036:
+          point:
+            1: Fault
+        V0141016:
+          point:
+            1: Returned
+    vacation:
+      0:
+        V0141036:
+          point:
+            1: Returned
+        V0141016:
+          point:
+            1: Returned on 2nd chance
+  8:
+    xmas:
+      0:
+        V0141021:
+          point:
+            1: Returned
+        V0141018:
+          point:
+            1: Returned
+    newyear:
+      0:
+        V0141021:
+          point:
+            1: Returned
+        V0141018:
+          point:
+            1: Returned
+    vacation:
+      0:
+        V0141021:
+          point:
+            1: Returned on 2nd chance
+        V0141018:
+          point:
+            1: Returned
+  9:
+    xmas:
+      0:
+        V0141055:
+          point:
+            1: Returned
+        V0141042:
+          point:
+            1: Nil
+    newyear:
+      0:
+        V0141055:
+          point:
+            1: Returned
+        V0141042:
+          point:
+            1: Returned
+            2: Returned
+    vacation:
+      0:
+        V0141055:
+          point:
+            1: Fault on 2nd chance
+        V0141042:
+          point:
+            1: Nil
+  10:
+    xmas:
+      0:
+        V9941077:
+          point:
+            1: Returned on 2nd chance
+        V0141061:
+          point:
+            1: Nil
+    newyear:
+      0:
+        V9941077:
+          point:
+            1: Nil
+        V0141061:
+          point:
+            1: Returned
+    vacation:
+      0:
+        V9941077:
+          point:
+            1: Returned on 2nd chance
+        V0141061:
+          point:
+            1: Returned
