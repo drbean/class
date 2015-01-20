@@ -1,0 +1,64 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 0
+assistant:
+  - Stan
+  - Vicky
+absent:
+  - Han
+  - Shine
+  - Dave
+text: /home/drbean/class/business/newbusiness/cards.yaml
+activity:
+  ingredients:
+    12:
+      - 2-1
+      - 3-1
+      - David
+      - 4-1
+
+      - 4-2
+    13:
+      - 1-1
+      - 2-2
+      - 3-2
+    14:
+      - 1-2
+
+
+group:
+  1-1:
+    - Peter
+    - Jacky
+    - Milly
+  1-2:
+    - Wayne
+    - Amy
+    - Joanne2
+  2-1:
+    - Erica
+    - Joanne1
+    - Penny
+  2-2:
+    - Hans
+    - Kate
+    - Dara
+  3-1:
+    - Doni
+    - George
+    - David
+  3-2:
+    - Cathy
+    - Dash
+    - Stan
+  4-1:
+    - Vicky
+    - Yuki
+    - Roger
+  4-2:
+    - Vicky
+    - Stan
+    - Ted
