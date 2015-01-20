@@ -1,0 +1,103 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: safir
+grade:
+  V0031007: 0
+  V0141001: 2
+  V0141003: 1.48
+  V0141008: 2
+  V0141011: 2
+  V0141016: 2
+  V0141018: 2
+  V0141021: 2
+  V0141023: 1.64
+  V0141026: 2
+  V0141029: 2
+  V0141036: 1.7
+  V0141038: 2
+  V0141042: 0
+  V0141046: 2
+  V0141049: 2
+  V0141051: 0.66
+  V0141053: 0
+  V0141055: 0
+  V0141059: 1.96
+  V0141061: 1.96
+  V0141063: 0
+  V0141065: 0
+  V9941077: 2
+points:
+  V0031007:
+    letters: 0
+    percent: 0
+  V0141001:
+    letters: 132
+    percent: 100
+  V0141003:
+    letters: 128
+    percent: 74
+  V0141008:
+    letters: 153
+    percent: 100
+  V0141011:
+    letters: 134
+    percent: 100
+  V0141016:
+    letters: 136
+    percent: 100
+  V0141018:
+    letters: 155
+    percent: 100
+  V0141021:
+    letters: 140
+    percent: 100
+  V0141023:
+    letters: 119
+    percent: 82
+  V0141026:
+    letters: 143
+    percent: 100
+  V0141029:
+    letters: 132
+    percent: 100
+  V0141036:
+    letters: 131
+    percent: 85
+  V0141038:
+    letters: 141
+    percent: 100
+  V0141042:
+    letters: 0
+    percent: 0
+  V0141046:
+    letters: 154
+    percent: 100
+  V0141049:
+    letters: 158
+    percent: 100
+  V0141051:
+    letters: 53
+    percent: 33
+  V0141053:
+    letters: 0
+    percent: 0
+  V0141055:
+    letters: 0
+    percent: 0
+  V0141059:
+    letters: 140
+    percent: 98
+  V0141061:
+    letters: 127
+    percent: 98
+  V0141063:
+    letters: 0
+    percent: 0
+  V0141065:
+    letters: 0
+    percent: 0
+  V9941077:
+    letters: 153
+    percent: 100
