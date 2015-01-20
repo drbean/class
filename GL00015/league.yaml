@@ -15,16 +15,6 @@ id: 031GL00015
 jigsaw: exam
 league: 中級英文聽說訓練 日語文共同學制虛擬班二乙
 member:
-  - Chinese: 游文詮
-    id: U0117004
-    name: Wayne
-    password: wen
-    rating: ~
-  - Chinese: 許維方
-    id: U0117031
-    name: Lucy
-    password: wei
-    rating: ~
   - Chinese: 呂奕萱
     id: U0122213
     name: YiXuan
@@ -34,16 +24,6 @@ member:
     id: U0218037
     name: Lisa
     password: xiao
-    rating: ~
-  - Chinese: 彭士維
-    id: U0221004
-    name: Bruce
-    password: shi
-    rating: ~
-  - Chinese: 劉盈成
-    id: U0222015
-    name: Sam
-    password: ying
     rating: ~
   - Chinese: 林冠志
     id: U9923128
@@ -65,7 +45,27 @@ member:
     name: David
     password: yi
     rating: ~
+  - Chinese: 劉盈成
+    id: U0222015
+    name: Sam
+    password: ying
+    rating: ~
 out:
+  - Chinese: 彭士維
+    id: U0221004
+    name: Bruce
+    password: shi
+    rating: ~
+  - Chinese: 游文詮
+    id: U0117004
+    name: Wayne
+    password: wen
+    rating: ~
+  - Chinese: 許維方
+    id: U0117031
+    name: Lucy
+    password: wei
+    rating: ~
   - Chinese: 劉正清
     id: U0342050
     name: Ching
