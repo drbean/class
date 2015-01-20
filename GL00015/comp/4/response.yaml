@@ -1,0 +1,95 @@
+---
+free:
+  1:
+    xmas:
+      0:
+        U9923128:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned on 2nd chance
+        U0222015:
+          point:
+            1: Nil
+    newyear:
+      0:
+        U9923128:
+          point:
+            1: Returned on 2nd chance
+        U0222015:
+          point:
+            1: Returned
+            2: Returned on 2nd chance
+            3: Returned
+    vacation:
+      0:
+        U9923128:
+          point:
+            1: Returned
+        U0222015:
+          point:
+            1: Fault on 2nd chance
+            2: Returned
+  2:
+    xmas:
+      0:
+        V9941031:
+          point:
+            1: Returned
+            2: Fault on 2nd chance
+        U0218037:
+          point:
+            1: Returned
+            2: Returned on 2nd chance
+            3: Fault on 2nd chance
+    newyear:
+      0:
+        V9941031:
+          point:
+            1: Nil
+        U0218037:
+          point:
+            1: Nil
+    vacation:
+      0:
+        V9941031:
+          point:
+            1: Returned on 2nd chance
+            2: Returned
+            3: Returned
+        U0218037:
+          point:
+            1: Returned on 2nd chance
+            2: Returned
+  3:
+    xmas:
+      0:
+        U0122213:
+          point:
+            1: Returned
+            2: Old
+            3: Returned
+            4: Fault on 2nd chance
+        V9941057:
+          point:
+            1: Returned
+            2: Fault on 2nd chance
+    newyear:
+      0:
+        U0122213:
+          point:
+            1: Nil
+        V9941057:
+          point:
+            1: Nil
+    vacation:
+      0:
+        U0122213:
+          point:
+            1: Returned
+            2: Fault on 2nd chance
+        V9941057:
+          point:
+            1: Returned
+            2: Returned
+            3: Fault on 2nd chance
