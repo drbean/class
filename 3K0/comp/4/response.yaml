@@ -1,0 +1,252 @@
+---
+free:
+  0:
+    hwang_chang:
+      0:
+        N01200046:
+          point:
+            1: Returned
+        N03203102:
+          point:
+            1: Unreturned
+    ingredients:
+      0:
+        N01200046:
+          point:
+            1: Nil
+        N03203102:
+          point:
+            1: Nil
+    us:
+      0:
+        N01200046:
+          point:
+            1: Nil
+        N03203102:
+          point:
+            1: Nil
+  1:
+    hwang_chang:
+      0:
+        N01200041:
+          point:
+            1: Unreturned
+        N01200002:
+          point:
+            1: Returned
+    ingredients:
+      0:
+        N01200041:
+          point:
+            1: Returned
+        N01200002:
+          point:
+            1: Unreturned
+    us:
+      0:
+        N01200041:
+          point:
+            1: Returned
+        N01200002:
+          point:
+            1: Unreturned
+  2:
+    hwang_chang:
+      0:
+        N01200038:
+          point:
+            1: Unreturned
+        N01200033:
+          point:
+            1: Returned
+    ingredients:
+      0:
+        N01200038:
+          point:
+            1: Nil
+        N01200033:
+          point:
+            1: Nil
+    us:
+      0:
+        N01200038:
+          point:
+            1: Nil
+        N01200033:
+          point:
+            1: Nil
+  3:
+    hwang_chang:
+      0:
+        N01200023:
+          point:
+            1: Nil
+        N03203104:
+          point:
+            1: Nil
+    ingredients:
+      0:
+        N01200023:
+          point:
+            1: Unreturned
+        N03203104:
+          point:
+            1: Returned
+    us:
+      0:
+        N01200023:
+          point:
+            1: Nil
+        N03203104:
+          point:
+            1: Nil
+  4:
+    hwang_chang:
+      0:
+        N02202106:
+          point:
+            1: Nil
+        N02202114:
+          point:
+            1: Unreturned
+    ingredients:
+      0:
+        N02202106:
+          point:
+            1: Nil
+        N02202114:
+          point:
+            1: Nil
+    us:
+      0:
+        N02202106:
+          point:
+            1: Returned
+        N02202114:
+          point:
+            1: Nil
+  5:
+    hwang_chang:
+      0:
+        N01200025:
+          point:
+            1: Returned on 2nd chance
+        N02202110:
+          point:
+            1: Unreturned on 2nd chance
+    ingredients:
+      0:
+        N01200025:
+          point:
+            1: Nil
+        N02202110:
+          point:
+            1: Nil
+    us:
+      0:
+        N01200025:
+          point:
+            1: Nil
+        N02202110:
+          point:
+            1: Nil
+  6:
+    hwang_chang:
+      0:
+        N02202201:
+          point:
+            1: Unreturned
+        N01200035:
+          point:
+            1: Returned
+    ingredients:
+      0:
+        N02202201:
+          point:
+            1: Nil
+        N01200035:
+          point:
+            1: Nil
+    us:
+      0:
+        N02202201:
+          point:
+            1: Nil
+        N01200035:
+          point:
+            1: Nil
+  7:
+    hwang_chang:
+      0:
+        N02202105:
+          point:
+            1: Unreturned
+        N01200042:
+          point:
+            1: Nil
+    ingredients:
+      0:
+        N02202105:
+          point:
+            1: Nil
+        N01200042:
+          point:
+            1: Returned
+    us:
+      0:
+        N02202105:
+          point:
+            1: Unreturned
+        N01200042:
+          point:
+            1: Returned
+  8:
+    hwang_chang:
+      0:
+        N00200045:
+          point:
+            1: Unreturned
+        N01200021:
+          point:
+            1: Returned
+    ingredients:
+      0:
+        N00200045:
+          point:
+            1: Nil
+        N01200021:
+          point:
+            1: Nil
+    us:
+      0:
+        N00200045:
+          point:
+            1: Nil
+        N01200021:
+          point:
+            1: Nil
+  9:
+    hwang_chang:
+      0:
+        N00200059:
+          point:
+            1: Unreturned
+        N01200056:
+          point:
+            1: Returned
+    ingredients:
+      0:
+        N00200059:
+          point:
+            1: Nil
+        N01200056:
+          point:
+            1: Nil
+    us:
+      0:
+        N00200059:
+          point:
+            1: Nil
+        N01200056:
+          point:
+            1: Nil
