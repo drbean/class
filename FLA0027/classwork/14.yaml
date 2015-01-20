@@ -1,0 +1,51 @@
+---
+topic: xmas
+
+1-1:
+  absent:
+    - Louanna
+    - Ada
+  merits: 3
+1-2:
+  absent:
+    - XinFang
+  merits: 2
+2-1:
+  absent:
+    - Sing
+  merits: 3
+2-2:
+  absent:
+  merits: 3
+3-1:
+  absent:
+    - Nini
+  merits: 3
+3-2:
+  absent:
+    - YuWen
+  merits: 3
+4-1:
+  absent:
+    - Amy
+  merits: 3
+4-2:
+  absent:
+  merits: 2
+5-1:
+  absent:
+  merits: 3
+6-1:
+  absent:
+    - Claire
+    - Vera
+  merits: 2
+7-1:
+  absent:
+    - Bruce
+  merits: 3
+8-1:
+  absent:
+    - Oscar
+    - Brenda
+  merits: 2
