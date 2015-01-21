@@ -1,0 +1,42 @@
+---
+# topic: safir
+
+1-1:
+  absent:
+    - Andy
+    - Abby
+  merits: 3
+1-2:
+  absent:
+    - Bunny
+    - Ivy2
+  merits: 3
+
+2-1:
+  absent:
+    - Ivy1
+  merits: 3
+
+2-2:
+  absent:
+    - Sally
+  merits: 3
+
+3-1:
+  absent:
+    - 洪君綾
+    - Kitty
+  merits: 3
+3-2:
+  absent:
+    - Jessica
+  merits: 3
+
+4-1:
+  absent:
+  merits: 3
+4-2:
+  absent:
+    - Vicky
+  merits: 3
+
