@@ -1,0 +1,49 @@
+---
+# topic: newyear
+
+1-1:
+  absent:
+    - 洪君綾
+    - Sandy
+    - Joe
+  merits: 0
+1-2:
+  absent:
+    - Andy
+    - Ivy1
+    - Christy
+  merits: 0
+
+2-1:
+  absent:
+    - David
+    - Sally
+  merits: 3
+
+2-2:
+  absent:
+    - Zoe
+  merits: 3
+
+3-1:
+  absent:
+    - Anja
+    - Kitty
+    - Mark
+  merits: 0
+3-2:
+  absent:
+    - Amber
+    - Sam
+  merits: 3
+
+4-1:
+  absent:
+    - Vicky
+    - Jessica
+  merits: 3
+4-2:
+  absent:
+    - Grace
+  merits: 3
+
