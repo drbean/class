@@ -1,0 +1,116 @@
+---
+absent: ~
+active: ~
+anterior: 022FLA0027
+approach: GroupworkNoFault
+classMax: 3
+examMax: 5
+exams: exam
+field: 科技英文
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 031FLA0026
+league: 夜應外大學四甲
+member:
+  - Chinese: 何嘉仁
+    id: V0041005
+    name: Darnell
+    password: jia
+    rating: ~
+  - Chinese: 葉聖文
+    id: V0041007
+    name: Oscar
+    password: sheng
+    rating: ~
+  - Chinese: 劉信雄
+    id: V0041010
+    name: Charles
+    password: xin
+    rating: ~
+  - Chinese: 王仁浩
+    id: V0041012
+    name: Sing
+    password: ren
+    rating: ~
+  - Chinese: 段禹辰
+    id: V0041015
+    name: Willy
+    password: yu
+    rating: ~
+  - Chinese: 杜珮瑜
+    id: V0041028
+    name: Sharon
+    password: pei
+    rating: ~
+  - Chinese: 徐己雁
+    id: V0041033
+    name: Eva
+    password: ji
+    rating: ~
+  - Chinese: 劉詩吟
+    id: V0041035
+    name: Lucy
+    password: shi
+    rating: ~
+  - Chinese: 賴于雯
+    id: V0041042
+    name: YuWen
+    password: yu
+    rating: ~
+  - Chinese: 陳慶隆
+    id: V0041050
+    name: Charlie
+    password: qing
+    rating: ~
+  - Chinese: 王維君
+    id: V0041055
+    name: 王維君
+    password: wei
+    rating: ~
+  - Chinese: 陳煜楓
+    id: V0041058
+    name: Vera
+    password: yu
+    rating: ~
+  - Chinese: 張雅筑
+    id: V0041062
+    name: Iris
+    password: ya
+    rating: ~
+  - Chinese: 傅渼淳
+    id: V0041064
+    name: Winny
+    password: mei
+    rating: ~
+  - Chinese: 馮永碇
+    id: V0041066
+    name: Danny
+    password: yong
+    rating: ~
+  - Chinese: 余季穎
+    id: V0141064
+    name: Joanne
+    password: ji
+    rating: ~
+  - Chinese: 謝東霖
+    id: V9941014
+    name: Tony
+    password: dong
+    rating: ~
+  - Chinese: 吳李龍
+    id: V9941060
+    name: 吳李龍
+    password: li
+    rating: ~
+out: ~
+room: A705
+school: nuu
+session:
+  1: 1
+  2: 5
+  3: 10
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
