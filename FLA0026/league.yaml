@@ -7,10 +7,11 @@ classMax: 3
 examMax: 5
 exams: exam
 field: 科技英文
+group: session
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 031FLA0026
+id: 032FLA0026
 league: 夜應外大學四甲
 member:
   - Chinese: 何嘉仁
