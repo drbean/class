@@ -7,6 +7,7 @@ compcomp: comp
 examMax: 5
 exams: exam
 field: 網路英文
+group: session
 groupwork: classwork
 hw: homework
 hwMax: 2
