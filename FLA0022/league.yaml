@@ -15,6 +15,12 @@ hwMax: 2
 id: 032FLA0022
 league: 夜應外大學三甲
 member:
+  - Chinese: 吳美熠
+    id: V0141058
+    name: Michelle
+    password: mei
+    rating: ~
+  
   - Chinese: 羅尹妮
     id: V9741022
     name: Nini
