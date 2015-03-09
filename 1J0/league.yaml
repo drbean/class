@@ -324,11 +324,6 @@ member:
     name: Eric
     password: shi
     rating: ~
-  - Chinese: 卿巧薇
-    id: B03200053
-    name: 卿巧薇
-    password: qiao
-    rating: ~
   - Chinese: 余佳筠
     id: B03200057
     name: Viola2
@@ -399,17 +394,22 @@ member:
     name: Marian
     password: si
     rating: ~
-  - Chinese: 徐禕
-    id: B03200105
-    name: 徐禕
-    password: yi
-    rating: ~
   - Chinese: 李宇綸
     id: B03200109
     name: Lion
     password: yu
     rating: ~
-out: ~
+out:
+  - Chinese: 徐禕
+    id: B03200105
+    name: 徐禕
+    password: yi
+    rating: ~
+  - Chinese: 卿巧薇
+    id: B03200053
+    name: 卿巧薇
+    password: qiao
+    rating: ~
 room: A705
 school: must
 scores:
