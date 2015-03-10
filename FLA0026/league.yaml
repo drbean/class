@@ -14,6 +14,12 @@ hwMax: 2
 id: 032FLA0026
 league: 夜應外大學四甲
 member:
+  - Chinese: 羅尹妮
+    id: V9741022
+    name: Nini
+    password: yin
+    rating: 0
+  
   - Chinese: 何嘉仁
     id: V0041005
     name: Darnell
