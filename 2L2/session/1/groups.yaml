@@ -1,19 +1,18 @@
 ---
 1-1:
   - JieNing
-  - Mia
   - WenXin
 1-2:
-  - Jack
-  - Polly
   - Pizza
+  - Julia
+  - Alice
 2-1:
   - Rachel
   - Cindy
   - Roger
 2-2:
   - David
-  - YiZhen
+  - Anna
   - Hamburger
 3-1:
   - Bruce1
@@ -24,10 +23,15 @@
   - Davis
   - Doris
 4-1:
-  - Wade
+  - Lillian
   - Linda
   - Una
 4-2:
   - Kate
-  - Sylvia
+  - Jack
+irr:
+  - Wade
+  - Mia
+  - Polly
   - Trista
+  - Sylvia
