@@ -87,11 +87,6 @@ member:
     name: Hamburger
     password: fang
     rating: ~
-  - Chinese: 李繮臻
-    id: B02200054
-    name: YiZhen
-    password: jiang
-    rating: ~
   - Chinese: 陳柔蓁
     id: B02200058
     name: Kate
@@ -157,7 +152,12 @@ member:
     name: Veronica
     password: xin
     rating: ~
-out: ~
+out:
+  - Chinese: 李繮臻
+    id: B02200054
+    name: YiZhen
+    password: jiang
+    rating: ~
 room: A705
 school: must
 scores:
