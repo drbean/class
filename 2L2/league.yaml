@@ -15,6 +15,28 @@ id: AFB2L2
 jigsaw: exam
 league: BAF021四技應外二甲
 member:
+  - Chinese: 張馨文
+    id: B03202203
+    name: Alice
+    password: xin
+    rating: ~
+  - Chinese: 吳奕芃
+    id: B01140007
+    name: Julia
+    password: yi
+    rating: ~
+  - Chinese: 張適真
+    id: B01140060
+    name: Anna
+    password: shi
+    rating: ~
+  - Chinese: 枸伶燕
+    id: B01140112
+    name: Lillian
+    password: ling
+    rating: ~
+  
+  
   - Chinese: 賴蕭生
     id: B02200005
     name: Davis
