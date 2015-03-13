@@ -15,6 +15,37 @@ id: 032AFB1J0
 jigsaw: exam
 league: BAF012_網路英文_四技應外一乙_選修_2
 member:
+  - Chinese: 李佳宜
+    id: B03200052
+    name: Lilian
+    password: jia
+    rating: ~
+  - Chinese: 劉恩典
+    id: B03200072
+    name: Grace
+    password: en
+    rating: ~
+  - Chinese: 魏崇軒
+    id: B03200079
+    name: Denny
+    password: chong
+    rating: ~
+  - Chinese: 黃莉璇
+    id: B03200004
+    name: Katherine
+    password: li
+    rating: ~
+  - Chinese: 陳佳怡
+    id: B03200080
+    name: Ursula
+    password: jia
+    rating: ~
+  - Chinese: 陳彥蓁
+    id: B03200023
+    name: Victoria
+    password: yan
+    rating: ~
+
   - Chinese: 彭晟桔
     id: B01202104
     name: Johnny
@@ -63,11 +94,6 @@ member:
     id: B03200021
     name: Philip
     password: zi
-    rating: ~
-  - Chinese: 陳彥蓁
-    id: B03200023
-    name: 陳彥蓁
-    password: yan
     rating: ~
   - Chinese: 沈千玉
     id: B03200025
@@ -119,11 +145,6 @@ member:
     name: Andy
     password: de
     rating: ~
-  - Chinese: 李佳宜
-    id: B03200052
-    name: 李佳宜
-    password: jia
-    rating: ~
   - Chinese: 宋承軒
     id: B03200054
     name: Calina
@@ -164,11 +185,6 @@ member:
     name: Joanna1
     password: yi
     rating: ~
-  - Chinese: 劉恩典
-    id: B03200072
-    name: 劉恩典
-    password: en
-    rating: ~
   - Chinese: 許品琦
     id: B03200074
     name: Cherry2
@@ -178,11 +194,6 @@ member:
     id: B03200078
     name: Mandy
     password: pei
-    rating: ~
-  - Chinese: 陳佳怡
-    id: B03200080
-    name: 陳佳怡
-    password: jia
     rating: ~
   - Chinese: 吳孟威
     id: B03200082
@@ -249,16 +260,6 @@ member:
     name: 陳顗暄
     password: yi
     rating: ~
-  - Chinese: 黃莉璇
-    id: B03200004
-    name: 黃莉璇
-    password: li
-    rating: ~
-  - Chinese: 石郁惠
-    id: B03200006
-    name: Jennifer
-    password: yu
-    rating: ~
   - Chinese: 施又綾
     id: B03200010
     name: 施又綾
@@ -274,11 +275,6 @@ member:
     name: 謝宜庭
     password: yi
     rating: ~
-  - Chinese: 吳貝宸
-    id: B03200018
-    name: Bella
-    password: bei
-    rating: ~
   - Chinese: 蘇意舜
     id: B03200022
     name: Cena
@@ -293,11 +289,6 @@ member:
     id: B03200032
     name: Lily
     password: li
-    rating: ~
-  - Chinese: 陳詩昀
-    id: B03200034
-    name: Jenny
-    password: shi
     rating: ~
   - Chinese: 徐宥榛
     id: B03200040
@@ -329,11 +320,6 @@ member:
     name: Viola2
     password: jia
     rating: ~
-  - Chinese: 林心年
-    id: B03200063
-    name: HsinNien
-    password: xin
-    rating: ~
   - Chinese: 王柏讚
     id: B03200067
     name: Jeffrey
@@ -354,30 +340,10 @@ member:
     name: Joanna2
     password: yu
     rating: ~
-  - Chinese: 魏崇軒
-    id: B03200079
-    name: 魏崇軒
-    password: chong
-    rating: ~
   - Chinese: 徐甄
     id: B03200083
     name: Jane
     password: zhen
-    rating: ~
-  - Chinese: 楊淑婷
-    id: B03200087
-    name: Sabrina
-    password: shu
-    rating: ~
-  - Chinese: 尤律晴
-    id: B03200089
-    name: Sunny
-    password: lu
-    rating: ~
-  - Chinese: 徐均孟
-    id: B03200091
-    name: Jin1
-    password: jun
     rating: ~
   - Chinese: 彭靖媛
     id: B03200093
@@ -400,6 +366,41 @@ member:
     password: yu
     rating: ~
 out:
+  - Chinese: 吳貝宸
+    id: B03200018
+    name: Bella
+    password: bei
+    rating: ~
+  - Chinese: 石郁惠
+    id: B03200006
+    name: Jennifer
+    password: yu
+    rating: ~
+  - Chinese: 陳詩昀
+    id: B03200034
+    name: Jenny
+    password: shi
+    rating: ~
+  - Chinese: 楊淑婷
+    id: B03200087
+    name: Sabrina
+    password: shu
+    rating: ~
+  - Chinese: 林心年
+    id: B03200063
+    name: HsinNien
+    password: xin
+    rating: ~
+  - Chinese: 尤律晴
+    id: B03200089
+    name: Sunny
+    password: lu
+    rating: ~
+  - Chinese: 徐均孟
+    id: B03200091
+    name: Jin1
+    password: jun
+    rating: ~
   - Chinese: 徐禕
     id: B03200105
     name: 徐禕
