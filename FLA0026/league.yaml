@@ -14,6 +14,11 @@ hwMax: 2
 id: 032FLA0026
 league: 夜應外大學四甲
 member:
+  - Chinese: 吳宛
+    id: V0041046
+    name: Camuel
+    password: wan
+    rating: ~
   - Chinese: 羅尹妮
     id: V9741022
     name: Nini
@@ -107,7 +112,7 @@ member:
     rating: ~
   - Chinese: 吳李龍
     id: V9941060
-    name: 吳李龍
+    name: Leon
     password: li
     rating: ~
 out: ~
