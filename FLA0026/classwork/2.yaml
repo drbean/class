@@ -1,0 +1,28 @@
+---
+1-1
+  absent:
+  merits: 3
+1-2
+  absent:
+    - Charlie
+  merits: 3
+2-1
+  absent:
+    - 吳李龍
+  merits: 3
+2-2
+  absent:
+    - Lucy
+  merits: 3
+3-1
+  absent:
+    - Sharon
+    - Nini
+  merits: 3
+3-2
+  absent:
+    - Eva
+  merits: 3
+4-1:
+  absent:
+    - 王維君
