@@ -13,6 +13,8 @@ topic: women_expectations
 
 2-1:
   absent:
+    - Daisy
+    - Yang
   merits: 2.6
 
 2-2:
@@ -21,10 +23,14 @@ topic: women_expectations
 
 3-1:
   absent:
+    - YuSyuan
+    - Sophia
   merits: 2
 
 3-2:
   absent:
+    - PingWei
+    - Jason
   merits: 2.6
 
 4-1:
