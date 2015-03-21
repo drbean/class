@@ -15,6 +15,12 @@ id: 032AFB1J0
 jigsaw: exam
 league: BAF012_網路英文_四技應外一乙_選修_2
 member:
+  - Chinese: 陳周宏
+    id: B03200035
+    name: Joe
+    password: zhou
+    rating: ~
+
   - Chinese: 李佳宜
     id: B03200052
     name: Lilian
@@ -340,11 +346,6 @@ out:
     id: B03200033
     name: 黃承緯
     password: cheng
-    rating: ~
-  - Chinese: 陳周宏
-    id: B03200035
-    name: 陳周宏
-    password: zhou
     rating: ~
   - Chinese: 施又綾
     id: B03200010
