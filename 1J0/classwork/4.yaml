@@ -1,0 +1,40 @@
+---
+topic: urbandictionary:homework_concerns
+
+1-1:
+  absent:
+    - Ariel
+  merits: 2
+
+1-2:
+  absent:
+  merits: 3
+
+2-1:
+  absent:
+  merits: 2
+
+2-2:
+  absent:
+  merits: 3
+
+3-1:
+  absent:
+    - Mandy
+  merits: 3
+
+3-2:
+  absent:
+  merits: 2
+
+4-1:
+  absent:
+  merits: 3
+
+4-2:
+  absent:
+  tardy:
+    - Alan
+    - Joe
+    - Kevin
+  merits: 1
