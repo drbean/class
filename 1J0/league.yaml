@@ -110,16 +110,6 @@ member:
     name: Cathy
     password: shu
     rating: ~
-  - Chinese: 黃承緯
-    id: B03200033
-    name: 黃承緯
-    password: cheng
-    rating: ~
-  - Chinese: 陳周宏
-    id: B03200035
-    name: 陳周宏
-    password: zhou
-    rating: ~
   - Chinese: 范君儒
     id: B03200037
     name: Irene
@@ -245,34 +235,14 @@ member:
     name: Herry
     password: ming
     rating: ~
-  - Chinese: 黃敬傑
-    id: B03200108
-    name: 黃敬傑
-    password: jing
-    rating: ~
   - Chinese: 黃曉雯
     id: B03200110
     name: Sharon
     password: xiao
     rating: ~
-  - Chinese: 陳顗暄
-    id: B03200002
-    name: 陳顗暄
-    password: yi
-    rating: ~
-  - Chinese: 施又綾
-    id: B03200010
-    name: 施又綾
-    password: you
-    rating: ~
   - Chinese: 邱依嫻
     id: B03200012
     name: YiSian
-    password: yi
-    rating: ~
-  - Chinese: 謝宜庭
-    id: B03200014
-    name: 謝宜庭
     password: yi
     rating: ~
   - Chinese: 蘇意舜
@@ -304,11 +274,6 @@ member:
     id: B03200045
     name: Mombala
     password: zi
-    rating: ~
-  - Chinese: 謝鈺翎
-    id: B03200047
-    name: 謝鈺翎
-    password: yu
     rating: ~
   - Chinese: 陳世培
     id: B03200051
@@ -366,6 +331,41 @@ member:
     password: yu
     rating: ~
 out:
+  - Chinese: 黃敬傑
+    id: B03200108
+    name: 黃敬傑
+    password: jing
+    rating: ~
+  - Chinese: 黃承緯
+    id: B03200033
+    name: 黃承緯
+    password: cheng
+    rating: ~
+  - Chinese: 陳周宏
+    id: B03200035
+    name: 陳周宏
+    password: zhou
+    rating: ~
+  - Chinese: 施又綾
+    id: B03200010
+    name: 施又綾
+    password: you
+    rating: ~
+  - Chinese: 謝鈺翎
+    id: B03200047
+    name: 謝鈺翎
+    password: yu
+    rating: ~
+  - Chinese: 謝宜庭
+    id: B03200014
+    name: 謝宜庭
+    password: yi
+    rating: ~
+  - Chinese: 陳顗暄
+    id: B03200002
+    name: 陳顗暄
+    password: yi
+    rating: ~
   - Chinese: 吳貝宸
     id: B03200018
     name: Bella
