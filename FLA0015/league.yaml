@@ -44,7 +44,7 @@ cohort:
       rating: ~
     - Chinese: 何信儒
       id: V0241018
-      name: 何信儒
+      name: Norman
       password: xin
       rating: ~
     - Chinese: 王覲
@@ -54,7 +54,7 @@ cohort:
       rating: ~
     - Chinese: 陳巧惠
       id: V0241022
-      name: 陳巧惠
+      name: Cherry
       password: qiao
       rating: ~
     - Chinese: 李盈瑩
@@ -64,7 +64,7 @@ cohort:
       rating: ~
     - Chinese: 涂馨尹
       id: V0241026
-      name: 涂馨尹
+      name: Rita
       password: xin
       rating: ~
     - Chinese: 陳亮彤
@@ -74,7 +74,7 @@ cohort:
       rating: ~
     - Chinese: 何瑞嬿
       id: V0241030
-      name: 何瑞嬿
+      name: Irene
       password: rui
       rating: ~
     - Chinese: 蔡方如
@@ -84,7 +84,7 @@ cohort:
       rating: ~
     - Chinese: 彭?惠
       id: V0241032
-      name: 彭?惠
+      name: Nancy
       password: '?'
       rating: ~
   2:
@@ -212,7 +212,7 @@ member:
     rating: ~
   - Chinese: 何信儒
     id: V0241018
-    name: 何信儒
+    name: Norman
     password: xin
     rating: ~
   - Chinese: 王覲
@@ -222,7 +222,7 @@ member:
     rating: ~
   - Chinese: 陳巧惠
     id: V0241022
-    name: 陳巧惠
+    name: Cherry
     password: qiao
     rating: ~
   - Chinese: 李盈瑩
@@ -232,7 +232,7 @@ member:
     rating: ~
   - Chinese: 涂馨尹
     id: V0241026
-    name: 涂馨尹
+    name: Rita
     password: xin
     rating: ~
   - Chinese: 陳亮彤
@@ -242,7 +242,7 @@ member:
     rating: ~
   - Chinese: 何瑞嬿
     id: V0241030
-    name: 何瑞嬿
+    name: Irene
     password: rui
     rating: ~
   - Chinese: 蔡方如
@@ -252,7 +252,7 @@ member:
     rating: ~
   - Chinese: 彭?惠
     id: V0241032
-    name: 彭?惠
+    name: Nancy
     password: '?'
     rating: ~
 out:
