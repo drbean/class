@@ -17,11 +17,6 @@ cohort:
       name: Joyce
       password: jing
       rating: ~
-    - Chinese: 施其儀
-      id: V0241004
-      name: 施其儀
-      password: qi
-      rating: ~
     - Chinese: 王耀陞
       id: V0241012
       name: Ivan
@@ -185,11 +180,6 @@ member:
     name: Joyce
     password: jing
     rating: ~
-  - Chinese: 施其儀
-    id: V0241004
-    name: 施其儀
-    password: qi
-    rating: ~
   - Chinese: 王耀陞
     id: V0241012
     name: Ivan
@@ -256,6 +246,11 @@ member:
     password: '?'
     rating: ~
 out:
+  - Chinese: 施其儀
+    id: V0241004
+    name: 施其儀
+    password: qi
+    rating: ~
 room: A705
 school: nuu
 session:
