@@ -6,6 +6,12 @@ approach: GroupworkNoFault
 classMax: 3
 cohort:
   1:
+    - Chinese: 蔡立瑋
+      id: V0141001
+      name: David
+      password: li
+      rating: ~
+
     - Chinese: 胡靖宜
       id: V0241001
       name: Joyce
@@ -168,6 +174,12 @@ hwMax: 2
 id: 032FLA0015
 league: 夜應外二甲
 member:
+  - Chinese: 蔡立瑋
+    id: V0141001
+    name: David
+    password: li
+    rating: ~
+
   - Chinese: 胡靖宜
     id: V0241001
     name: Joyce
