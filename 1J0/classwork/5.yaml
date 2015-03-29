@@ -3,6 +3,7 @@ topic: Internet_use
 
 1-1:
   absent:
+    - Viola2
   merits: 2.5
 
 1-2:
@@ -11,6 +12,7 @@ topic: Internet_use
 
 2-1:
   absent:
+    - Emma
   merits: 3
 
 2-2:
@@ -31,7 +33,7 @@ topic: Internet_use
 
 4-2:
   absent:
-  tardy:
+    - Kevin
   merits: 2.5
 
 5-1:
@@ -47,6 +49,8 @@ topic: Internet_use
 7-2:
   merits: 3
 8-1:
+  tardy:
+    - Jin1
   merits: 3
 8-2:
   merits: 3
