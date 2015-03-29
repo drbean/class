@@ -15,6 +15,12 @@ id: 032AFB1J0
 jigsaw: exam
 league: BAF012_網路英文_四技應外一乙_選修_2
 member:
+  - Chinese: 陳顗暄
+    id: B03200002
+    name: Eva
+    password: yi
+    rating: ~
+
   - Chinese: 吳貝宸
     id: B03200018
     name: Bella
@@ -397,11 +403,6 @@ out:
   - Chinese: 謝宜庭
     id: B03200014
     name: 謝宜庭
-    password: yi
-    rating: ~
-  - Chinese: 陳顗暄
-    id: B03200002
-    name: 陳顗暄
     password: yi
     rating: ~
   - Chinese: 徐禕
