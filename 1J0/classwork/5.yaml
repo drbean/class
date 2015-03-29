@@ -1,0 +1,57 @@
+---
+topic: Internet_use
+
+1-1:
+  absent:
+  merits: 2.5
+
+1-2:
+  absent:
+  merits: 3
+
+2-1:
+  absent:
+  merits: 3
+
+2-2:
+  absent:
+  merits: 3
+
+3-1:
+  absent:
+  merits: 3
+
+3-2:
+  absent:
+  merits: 2.5
+
+4-1:
+  absent:
+  merits: 3
+
+4-2:
+  absent:
+  tardy:
+  merits: 2.5
+
+5-1:
+  merits: 2.5
+5-2:
+  merits: 2.5
+6-1:
+  merits: 2.5
+6-2:
+  merits: 3
+7-1:
+  merits: 3
+7-2:
+  merits: 3
+8-1:
+  merits: 3
+8-2:
+  merits: 3
+
+12-1:
+  merits: 2
+12-2:
+  merits: 2
