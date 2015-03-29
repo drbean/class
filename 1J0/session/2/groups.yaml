@@ -1,20 +1,20 @@
 ---
-2-1:
+1-1:
   - Lisa2
   - Viola2
   - Ariel
-2-2:
+1-2:
   - Andy
   - Philip
   - Simon
-6-1:
+2-1:
   - Annie
   - Jessie
   - Emma
-6-2:
-  - Alan
-  - Joe
-  - Kevin
+2-2:
+  - Cheney
+  - Johnny
+  - James
 3-1:
   - Lulu
   - Mandy
@@ -23,11 +23,11 @@
   - Viola1
   - Grace1
   - Lisa1
-7-1:
+4-1:
   - Claire
   - Marian
   - Jane
-7-2:
-  - Johnny
-  - James
-  - Cheney
+4-2:
+  - Alan
+  - Joe
+  - Kevin
