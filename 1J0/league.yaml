@@ -15,6 +15,37 @@ id: 032AFB1J0
 jigsaw: exam
 league: BAF012_網路英文_四技應外一乙_選修_2
 member:
+  - Chinese: 陳詩昀
+    id: B03200034
+    name: Ben
+    password: shi
+    rating: ~
+  - Chinese: 石郁惠
+    id: B03200006
+    name: Jennifer
+    password: yu
+    rating: ~
+  - Chinese: 林心年
+    id: B03200063
+    name: Cindy
+    password: xin
+    rating: ~
+  - Chinese: 楊淑婷
+    id: B03200087
+    name: Sabrina
+    password: shu
+    rating: ~
+  - Chinese: 尤律晴
+    id: B03200089
+    name: Sunny
+    password: lu
+    rating: ~
+  - Chinese: 徐均孟
+    id: B03200091
+    name: Jin1
+    password: jun
+    rating: ~
+
   - Chinese: 陳周宏
     id: B03200035
     name: Joe
@@ -371,36 +402,6 @@ out:
     id: B03200018
     name: Bella
     password: bei
-    rating: ~
-  - Chinese: 石郁惠
-    id: B03200006
-    name: Jennifer
-    password: yu
-    rating: ~
-  - Chinese: 陳詩昀
-    id: B03200034
-    name: Jenny
-    password: shi
-    rating: ~
-  - Chinese: 楊淑婷
-    id: B03200087
-    name: Sabrina
-    password: shu
-    rating: ~
-  - Chinese: 林心年
-    id: B03200063
-    name: HsinNien
-    password: xin
-    rating: ~
-  - Chinese: 尤律晴
-    id: B03200089
-    name: Sunny
-    password: lu
-    rating: ~
-  - Chinese: 徐均孟
-    id: B03200091
-    name: Jin1
-    password: jun
     rating: ~
   - Chinese: 徐禕
     id: B03200105
