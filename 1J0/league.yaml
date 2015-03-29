@@ -15,6 +15,12 @@ id: 032AFB1J0
 jigsaw: exam
 league: BAF012_網路英文_四技應外一乙_選修_2
 member:
+  - Chinese: 吳貝宸
+    id: B03200018
+    name: Bella
+    password: bei
+    rating: ~
+
   - Chinese: 陳詩昀
     id: B03200034
     name: Ben
@@ -397,11 +403,6 @@ out:
     id: B03200002
     name: 陳顗暄
     password: yi
-    rating: ~
-  - Chinese: 吳貝宸
-    id: B03200018
-    name: Bella
-    password: bei
     rating: ~
   - Chinese: 徐禕
     id: B03200105
