@@ -50,34 +50,14 @@ member:
     name: Willy
     password: yu
     rating: ~
-  - Chinese: 杜珮瑜
-    id: V0041028
-    name: Sharon
-    password: pei
-    rating: ~
-  - Chinese: 徐己雁
-    id: V0041033
-    name: Eva
-    password: ji
-    rating: ~
-  - Chinese: 劉詩吟
-    id: V0041035
-    name: Lucy
-    password: shi
-    rating: ~
   - Chinese: 賴于雯
     id: V0041042
     name: YuWen
     password: yu
     rating: ~
-  - Chinese: 陳慶隆
-    id: V0041050
-    name: Charlie
-    password: qing
-    rating: ~
   - Chinese: 王維君
     id: V0041055
-    name: 王維君
+    name: Vam
     password: wei
     rating: ~
   - Chinese: 陳煜楓
@@ -115,7 +95,27 @@ member:
     name: Leon
     password: li
     rating: ~
-out: ~
+out:
+  - Chinese: 杜珮瑜
+    id: V0041028
+    name: Sharon
+    password: pei
+    rating: ~
+  - Chinese: 陳慶隆
+    id: V0041050
+    name: Charlie
+    password: qing
+    rating: ~
+  - Chinese: 劉詩吟
+    id: V0041035
+    name: Lucy
+    password: shi
+    rating: ~
+  - Chinese: 徐己雁
+    id: V0041033
+    name: Eva
+    password: ji
+    rating: ~
 room: A705
 school: nuu
 session:
