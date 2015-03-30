@@ -1,0 +1,38 @@
+---
+topic: anki
+
+1-1:
+  absent:
+    - Willy
+    - Sing
+  merits: 2
+
+1-2:
+  absent:
+    - Charlie
+  merits: 2.5
+
+2-1:
+  absent:
+  merits: 2.5
+
+2-2:
+  absent:
+    - Lucy
+  merits: 2
+
+3-1:
+  absent:
+  merits: 2
+
+3-2:
+  absent:
+    - Eva
+    - Tony
+  merits: 3
+
+4-1:
+  absent:
+    - 維君
+    - Sharon
+  merits: 0
