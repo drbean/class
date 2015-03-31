@@ -79,7 +79,7 @@ late:
   - V0141028
   - V0141023
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 3
 round: 1
 text: /home/drbean/class/conversation/marriage/cards.yaml
 week: 5
