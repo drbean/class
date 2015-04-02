@@ -57,11 +57,6 @@ member:
     name: Willy
     password: yu
     rating: ~
-  - Chinese: 杜珮瑜
-    id: V0041028
-    name: 杜珮瑜
-    password: pei
-    rating: ~
   - Chinese: 吳宛
     id: V0041046
     name: Camuel
@@ -91,11 +86,6 @@ member:
     id: V0041064
     name: Winny
     password: mei
-    rating: ~
-  - Chinese: 馮永碇
-    id: V0041066
-    name: 馮永碇
-    password: yong
     rating: ~
   - Chinese: 毛明珊
     id: V0141002
@@ -267,11 +257,6 @@ member:
     name: Tony
     password: dong
     rating: ~
-  - Chinese: 吳李龍
-    id: V9941060
-    name: 吳李龍
-    password: li
-    rating: ~
   - Chinese: 沈子鈞
     id: V9941065
     name: Bruce
@@ -288,6 +273,11 @@ member:
     password: meng
     rating: ~
 out:
+  - Chinese: 杜珮瑜
+    id: V0041028
+    name: 杜珮瑜
+    password: pei
+    rating: ~
 room: A705
 school: nuu
 session:
