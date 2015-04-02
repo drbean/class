@@ -1,0 +1,122 @@
+---
+activity:
+  fast-track:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 19
+      - 20
+  tips:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 19
+      - 20
+assistant:
+  2-1:
+    V0141022: 4
+    V0141041: 4
+    V0141018: 4
+  3-1:
+    V0041066: 4
+    V0141060: 4
+    V9941014: 4
+
+bye: V0016058
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: V9941076
+    Black: V9941060
+  2:
+    White: V0141049
+    Black: V0141016
+  3:
+    White: V0141054
+    Black: V0141048
+  4:
+    White: V0041015
+    Black: V0141050
+  5:
+    White: V0141029
+    Black: V0141025
+  6:
+    White: V0141026
+    Black: V0141064
+  7:
+    White: V0141009
+    Black: V0041058
+  8:
+    White: V0041055
+    Black: V0141038
+  9:
+    White: V0141035
+    Black: V0141002
+  10:
+    White: V0141055
+    Black: V0141059
+  11:
+    White: V0141021
+    Black: V0141046
+  12:
+    White: V0141003
+    Black: V0041062
+  13:
+    White: V0041012
+    Black: V0041005
+  14:
+    White: V0141052
+    Black: V9941075
+  15:
+    White: V0141061
+    Black: V0141028
+  16:
+    White: V0041046
+    Black: V0141036
+  17:
+    White: V0141012
+    Black: V0141017
+  19:
+    White: V0041047
+    Black: V0141037
+  20:
+    White: V0141011
+    Black: V9741022
+late:
+  - V9941075
+pairing: swiss
+payprotocol: meritPay 1
+round: 1
+text: /home/drbean/class/business/careers/cards.yaml
+week: 5
