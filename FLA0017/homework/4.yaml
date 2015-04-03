@@ -1,0 +1,95 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: ward
+grade:
+  V0041022: 0
+  V0041040: 2
+  V0041055: 2
+  V0141001: 1.82
+  V0141002: 2
+  V0141003: 0
+  V0141008: 2
+  V0141009: 2
+  V0141011: 0
+  V0141012: 0
+  V0141016: 1.94
+  V0141017: 2
+  V0141018: 2
+  V0141019: 1.62
+  V0141021: 1.94
+  V0141022: 2
+  V0141023: 2
+  V0141025: 0
+  V0141026: 2
+  V0141028: 2
+  V0141029: 1.76
+  V0141035: 0
+points:
+  V0041022:
+    letters: 0
+    percent: 0
+  V0041040:
+    letters: 161
+    percent: 100
+  V0041055:
+    letters: 120
+    percent: 100
+  V0141001:
+    letters: 136
+    percent: 91
+  V0141002:
+    letters: 135
+    percent: 100
+  V0141003:
+    letters: 0
+    percent: 0
+  V0141008:
+    letters: 168
+    percent: 100
+  V0141009:
+    letters: 145
+    percent: 100
+  V0141011:
+    letters: 0
+    percent: 0
+  V0141012:
+    letters: 0
+    percent: 0
+  V0141016:
+    letters: 149
+    percent: 97
+  V0141017:
+    letters: 158
+    percent: 100
+  V0141018:
+    letters: 161
+    percent: 100
+  V0141019:
+    letters: 112
+    percent: 81
+  V0141021:
+    letters: 149
+    percent: 97
+  V0141022:
+    letters: 140
+    percent: 100
+  V0141023:
+    letters: 133
+    percent: 100
+  V0141025:
+    letters: 0
+    percent: 0
+  V0141026:
+    letters: 164
+    percent: 100
+  V0141028:
+    letters: 172
+    percent: 100
+  V0141029:
+    letters: 135
+    percent: 88
+  V0141035:
+    letters: 0
+    percent: 0
