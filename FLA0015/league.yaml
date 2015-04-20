@@ -254,7 +254,7 @@ out:
 room: A705
 school: nuu
 session:
-  4: 13
+  1: 4
 weights:
   classwork: 40
   exams: 20
