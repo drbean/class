@@ -75,7 +75,7 @@ group:
 late:
   - B02200039
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 2
 round: 1
 text: /home/drbean/class/speaking/women/cards.yaml
 week: 5
