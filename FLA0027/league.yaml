@@ -14,15 +14,16 @@ hwMax: 3
 id: 032FLA0027
 league: 夜應外大學四甲
 member:
-  - Chinese: 傅渼淳
-    id: V0041064
-    name: Winny
-    password: mei
-    rating: ~
   - Chinese: 李玉嘉
     id: V0041052
     name: Una
     password: yu
+    rating: ~
+
+  - Chinese: 傅渼淳
+    id: V0041064
+    name: Winny
+    password: mei
     rating: ~
   - Chinese: 徐銘均
     id: V0141060
@@ -34,16 +35,6 @@ member:
     id: V0041005
     name: Darnell
     password: jia
-    rating: ~
-  - Chinese: 蔣宜芸
-    id: V0041008
-    name: IYun
-    password: yi
-    rating: ~
-  - Chinese: 吳明勳
-    id: V0041009
-    name: Jack
-    password: ming
     rating: ~
   - Chinese: 王仁浩
     id: V0041012
@@ -59,11 +50,6 @@ member:
     id: V0041019
     name: YanSan
     password: yan
-    rating: ~
-  - Chinese: 杜珮瑜
-    id: V0041028
-    name: Sharon
-    password: pei
     rating: ~
   - Chinese: 劉詩吟
     id: V0041035
@@ -140,7 +126,22 @@ member:
     name: Bruce
     password: zi
     rating: ~
-out: ~
+out:
+  - Chinese: 蔣宜芸
+    id: V0041008
+    name: IYun
+    password: yi
+    rating: ~
+  - Chinese: 吳明勳
+    id: V0041009
+    name: Jack
+    password: ming
+    rating: ~
+  - Chinese: 杜珮瑜
+    id: V0041028
+    name: Sharon
+    password: pei
+    rating: ~
 room: A705
 school: nuu
 session:
