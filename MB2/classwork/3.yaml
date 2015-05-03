@@ -39,7 +39,7 @@ topic: women
 
 4-2:
   absent:
-    SiLing
+    - SiLing
   merits: 3
 
 points:
