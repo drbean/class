@@ -13,7 +13,7 @@ hw: homework
 hwMax: 2
 id: AFN2MB2
 jigsaw: exam
-league: NAF021_英語會話(二)_四技外二甲_必修_2
+league: NAF021\_英語會話(二)\_四技外二甲\_必修\_2
 member:
   - Chinese: 廖幸嬋
     id: N99200030
@@ -29,11 +29,6 @@ member:
     id: N02200003
     name: Korsak
     password: qi
-    rating: ~
-  - Chinese: 陳宏榆
-    id: N02200006
-    name: Jason
-    password: hong
     rating: ~
   - Chinese: 湯燕虹
     id: N02200009
@@ -70,11 +65,6 @@ member:
     name: Pei
     password: pei
     rating: ~
-  - Chinese: 倪秉緯
-    id: N02200030
-    name: PingWei
-    password: bing
-    rating: ~
   - Chinese: 符尊曜
     id: N02200032
     name: Jacky
@@ -94,11 +84,6 @@ member:
     id: N02200045
     name: JiaLing
     password: jia
-    rating: ~
-  - Chinese: 鄒羽嫙
-    id: N02200047
-    name: YuSyuan
-    password: yu
     rating: ~
   - Chinese: 蔡慧珍
     id: N02200049
@@ -120,12 +105,27 @@ member:
     name: Sophia
     password: yu
     rating: ~
+out:
+  - Chinese: 陳宏榆
+    id: N02200006
+    name: Jason
+    password: hong
+    rating: ~
+  - Chinese: 倪秉緯
+    id: N02200030
+    name: PingWei
+    password: bing
+    rating: ~
+  - Chinese: 鄒羽嫙
+    id: N02200047
+    name: YuSyuan
+    password: yu
+    rating: ~
   - Chinese: 王瑋豪
     id: N03202201
     name: 王瑋豪
     password: wei
     rating: ~
-out: ~
 room: A705
 school: must
 scores:
