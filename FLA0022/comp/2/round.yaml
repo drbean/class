@@ -1,0 +1,159 @@
+---
+activity:
+  students-teachers:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+  women-men:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+  experience:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+assistant: 
+  9-1:
+    V0141025: 5
+    V0141036: 5
+    V0141018: 5
+  8-1:
+    V0041066: 5
+    V0141029: 5
+bye: V0016058
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: V0141058
+    Black: V0141008
+  1:
+    White: V9941065
+    Black: V0141060
+  2:
+    White: V0141023
+    Black: V0141022
+  3:
+    White: V9941014
+    Black: V0141053
+  4:
+    White: V0041064
+    Black: V0141041
+  5:
+    White: V9941075
+    Black: V0141035
+  6:
+    White: V0141012
+    Black: V0141055
+  7:
+    White: V0041047
+    Black: V0041046
+  8:
+    White: V0041058
+    Black: V0141052
+  9:
+    White: V0141054
+    Black: V0141061
+  10:
+    White: V0141064
+    Black: V0141021
+  11:
+    White: V9941060
+    Black: V0141011
+  12:
+    White: V0141038
+    Black: V0141049
+  13:
+    White: V0041062
+    Black: V0041015
+  14:
+    White: V0141016
+    Black: V0041055
+  15:
+    White: V0141050
+    Black: V0041012
+  16:
+    White: V0041005
+    Black: V0141003
+  17:
+    White: V0141028
+    Black: V9941076
+  18:
+    White: V0141002
+    Black: V0141046
+  19:
+    White: V0141017
+    Black: V0141026
+  20:
+    White: V0141037
+    Black: V0141059
+  21:
+    White: V0141048
+    Black: V0141009
+late:
+  - V0016058
+pairing: swiss
+payprotocol: meritPay 1
+round: 2
+text: /home/drbean/class/business/stress/cards.yaml
+week: 9
