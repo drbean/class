@@ -1,0 +1,95 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: abath
+grade:
+  V0041022: 0
+  V0041040: 1.44
+  V0041055: 1.92
+  V0141001: 1.82
+  V0141002: 2
+  V0141003: 1.14
+  V0141008: 2
+  V0141009: 2
+  V0141011: 0
+  V0141012: 0
+  V0141016: 0.16
+  V0141017: 0
+  V0141018: 2
+  V0141019: 0
+  V0141021: 0
+  V0141022: 2
+  V0141023: 1.62
+  V0141025: 1.64
+  V0141026: 2
+  V0141028: 1.82
+  V0141029: 1.52
+  V0141035: 0
+points:
+  V0041022:
+    letters: 0
+    percent: 0
+  V0041040:
+    letters: 84
+    percent: 72
+  V0041055:
+    letters: 121
+    percent: 96
+  V0141001:
+    letters: 114
+    percent: 91
+  V0141002:
+    letters: 127
+    percent: 100
+  V0141003:
+    letters: 80
+    percent: 57
+  V0141008:
+    letters: 149
+    percent: 100
+  V0141009:
+    letters: 148
+    percent: 100
+  V0141011:
+    letters: 0
+    percent: 0
+  V0141012:
+    letters: 0
+    percent: 0
+  V0141016:
+    letters: 9
+    percent: 8
+  V0141017:
+    letters: 0
+    percent: 0
+  V0141018:
+    letters: 122
+    percent: 100
+  V0141019:
+    letters: 0
+    percent: 0
+  V0141021:
+    letters: 0
+    percent: 0
+  V0141022:
+    letters: 148
+    percent: 100
+  V0141023:
+    letters: 123
+    percent: 81
+  V0141025:
+    letters: 97
+    percent: 82
+  V0141026:
+    letters: 132
+    percent: 100
+  V0141028:
+    letters: 108
+    percent: 91
+  V0141029:
+    letters: 91
+    percent: 76
+  V0141035:
+    letters: 0
+    percent: 0
