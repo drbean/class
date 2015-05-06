@@ -4,6 +4,7 @@ topic: abath
 
 1-1:
   absent:
+    - Carol
   merits: 2.5
 
 1-2:
@@ -24,6 +25,7 @@ topic: abath
 
 3-2:
   absent:
+    - Sandy
   merits: 3
 
 4-1:
