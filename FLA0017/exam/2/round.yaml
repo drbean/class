@@ -1,0 +1,57 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+absent:
+  - Angela
+text: /home/drbean/class/conversation/crime/cards.yaml
+activity:
+  blackh:
+    0:
+      - 1-1
+      - 1-2
+      - 2-1
+      - 2-2
+      - 3-1
+      - 3-2
+      - 4-1
+
+  #abath:
+  #  0:
+
+  #carlos-rocha:
+  #  0:
+
+
+group:
+  1-1:
+    - Jane
+    - Carol
+    - David
+  1-2:
+    - Uta
+    - Vivi
+    - Vicky
+  2-1:
+    - Stephanie
+    - Jimmy
+    - Vam
+  2-2:
+    - Brian
+    - Mark
+    - Anthony
+  3-1:
+    - Peter
+    - Louis
+    - ALin
+  3-2:
+    - Ula
+    - Sandy
+    - Ivy1
+  4-1:
+    - Sherry
+    - Kitty
+    - Grace
