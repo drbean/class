@@ -1,0 +1,241 @@
+---
+free:
+  1:
+    blackh:
+      0:
+        V0041040:
+          point:
+            1: Returned
+            2: Returned
+        V0141028:
+          point:
+            1: Returned
+            2: Returned
+    abath:
+      0:
+        V0041040:
+          point:
+            1: Returned
+        V0141028:
+          point:
+            1: Nil
+    carlos-rocha:
+      0:
+        V0041040:
+          point:
+            1: Nil
+        V0141028:
+          point:
+            1: Old
+            2: Returned on 2nd chance
+  2:
+    blackh:
+      0:
+        V0141023:
+          point:
+            1: Returned on 2nd chance
+        V0141029:
+          point:
+            1: Returned
+    abath:
+      0:
+        V0141023:
+          point:
+            1: Returned
+        V0141029:
+          point:
+            1: Returned
+    carlos-rocha:
+      0:
+        V0141023:
+          point:
+            1: Old
+            2: Returned on 2nd chance
+        V0141029:
+          point:
+            1: Returned
+  3:
+    blackh:
+      0:
+        V0141019:
+          point:
+            1: Nil
+        V0141003:
+          point:
+            1: Nil
+    abath:
+      0:
+        V0141019:
+          point:
+            1: Nil
+        V0141003:
+          point:
+            1: Returned on 2nd chance
+            2: Returned
+    carlos-rocha:
+      0:
+        V0141019:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+        V0141003:
+          point:
+            1: Returned on 2nd chance
+  4:
+    blackh:
+      0:
+        V0141016:
+          point:
+            1: Returned
+        V0041055:
+          point:
+            1: Returned
+    abath:
+      0:
+        V0141016:
+          point:
+            1: Returned on 2nd chance
+        V0041055:
+          point:
+            1: Fault on 2nd chance
+    carlos-rocha:
+      0:
+        V0141016:
+          point:
+            1: Returned on 2nd chance
+        V0041055:
+          point:
+            1: Returned
+  5:
+    blackh:
+      0:
+        V0141021:
+          point:
+            1: Returned
+        V0141017:
+          point:
+            1: Fault on 2nd chance
+    abath:
+      0:
+        V0141021:
+          point:
+            1: Returned on 2nd chance
+            2: Fault on 2nd chance
+        V0141017:
+          point:
+            1: Fault
+    carlos-rocha:
+      0:
+        V0141021:
+          point:
+            1: Nil
+        V0141017:
+          point:
+            1: Returned on 2nd chance
+  6:
+    blackh:
+      0:
+        V0141009:
+          point:
+            1: Unreturned on 2nd chance
+        V0141035:
+          point:
+            1: Returned on 2nd chance
+    abath:
+      0:
+        V0141009:
+          point:
+            1: Returned
+        V0141035:
+          point:
+            1: Returned on 2nd chance
+    carlos-rocha:
+      0:
+        V0141009:
+          point:
+            1: Old
+            2: Returned on 2nd chance
+        V0141035:
+          point:
+            1: Returned
+  7:
+    blackh:
+      0:
+        V0141012:
+          point:
+            1: Returned on 2nd chance
+        V0141022:
+          point:
+            1: Returned
+    abath:
+      0:
+        V0141012:
+          point:
+            1: Unreturned on 2nd chance
+        V0141022:
+          point:
+            1: Returned on 2nd chance
+    carlos-rocha:
+      0:
+        V0141012:
+          point:
+            1: Fault on 2nd chance
+        V0141022:
+          point:
+            1: Old
+            2: Fault on 2nd chance
+  8:
+    blackh:
+      0:
+        V0141011:
+          point:
+            1: Returned on 2nd chance
+        V0141018:
+          point:
+            1: Returned
+    abath:
+      0:
+        V0141011:
+          point:
+            1: Returned
+        V0141018:
+          point:
+            1: Returned on 2nd chance
+    carlos-rocha:
+      0:
+        V0141011:
+          point:
+            1: Old
+            2: Returned
+        V0141018:
+          point:
+            1: Old
+            2: Returned
+
+  9:
+    blackh:
+      0:
+        V0141026:
+          point:
+            1: Returned
+        V0141025:
+          point:
+            1: Returned
+    abath:
+      0:
+        V0141026:
+          point:
+            1: Nil
+        V0141025:
+          point:
+            1: Returned
+    carlos-rocha:
+      0:
+        V0141026:
+          point:
+            1: Returned
+            2: Returned on 2nd chance
+        V0141025:
+          point:
+            1: Returned
