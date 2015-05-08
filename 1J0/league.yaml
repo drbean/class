@@ -219,11 +219,6 @@ member:
     name: Grace1
     password: cai
     rating: ~
-  - Chinese: 陳翊慈
-    id: B03200070
-    name: Joanna1
-    password: yi
-    rating: ~
   - Chinese: 許品琦
     id: B03200074
     name: Cherry2
@@ -299,11 +294,6 @@ member:
     name: Cena
     password: yi
     rating: ~
-  - Chinese: 許嵐婷
-    id: B03200030
-    name: Lillian
-    password: lan
-    rating: ~
   - Chinese: 宋立婷
     id: B03200032
     name: Lily
@@ -329,11 +319,6 @@ member:
     name: Eric
     password: shi
     rating: ~
-  - Chinese: 余佳筠
-    id: B03200057
-    name: Viola2
-    password: jia
-    rating: ~
   - Chinese: 王柏讚
     id: B03200067
     name: Jeffrey
@@ -343,11 +328,6 @@ member:
     id: B03200071
     name: Maggie
     password: wan
-    rating: ~
-  - Chinese: 張甄育
-    id: B03200073
-    name: Lisa2
-    password: zhen
     rating: ~
   - Chinese: 曾妤婷
     id: B03200075
@@ -380,15 +360,15 @@ member:
     password: yu
     rating: ~
 out:
-  - Chinese: 黃敬傑
-    id: B03200108
-    name: 黃敬傑
-    password: jing
+  - Chinese: 許嵐婷
+    id: B03200030
+    name: Lillian
+    password: lan
     rating: ~
-  - Chinese: 黃承緯
-    id: B03200033
-    name: 黃承緯
-    password: cheng
+  - Chinese: 張甄育
+    id: B03200073
+    name: Lisa2
+    password: zhen
     rating: ~
   - Chinese: 施又綾
     id: B03200010
@@ -399,6 +379,26 @@ out:
     id: B03200047
     name: 謝鈺翎
     password: yu
+    rating: ~
+  - Chinese: 黃承緯
+    id: B03200033
+    name: 黃承緯
+    password: cheng
+    rating: ~
+  - Chinese: 陳翊慈
+    id: B03200070
+    name: Joanna1
+    password: yi
+    rating: ~
+  - Chinese: 余佳筠
+    id: B03200057
+    name: Viola2
+    password: jia
+    rating: ~
+  - Chinese: 黃敬傑
+    id: B03200108
+    name: 黃敬傑
+    password: jing
     rating: ~
   - Chinese: 謝宜庭
     id: B03200014
@@ -415,7 +415,7 @@ out:
     name: 卿巧薇
     password: qiao
     rating: ~
-room: feng-501
+room: A705
 school: must
 scores:
   bye: 5
