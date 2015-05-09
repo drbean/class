@@ -58,11 +58,6 @@ member:
     password: jun
     rating: ~
 
-  - Chinese: 陳周宏
-    id: B03200035
-    name: Joe
-    password: zhou
-    rating: ~
 
   - Chinese: 李佳宜
     id: B03200052
@@ -119,20 +114,10 @@ member:
     name: Annie
     password: ya
     rating: ~
-  - Chinese: 陳怡廷
-    id: B03200009
-    name: Rebecca
-    password: yi
-    rating: ~
   - Chinese: 洪穎臻
     id: B03200013
     name: Viola1
     password: ying
-    rating: ~
-  - Chinese: 周學林
-    id: B03200017
-    name: Alan
-    password: xue
     rating: ~
   - Chinese: 張雅媛
     id: B03200019
@@ -143,11 +128,6 @@ member:
     id: B03200021
     name: Philip
     password: zi
-    rating: ~
-  - Chinese: 沈千玉
-    id: B03200025
-    name: Cherry1
-    password: qian
     rating: ~
   - Chinese: 鍾定軒
     id: B03200029
@@ -173,11 +153,6 @@ member:
     id: B03200046
     name: Ariel
     password: qi
-    rating: ~
-  - Chinese: 鍾衍霆
-    id: B03200048
-    name: Robby
-    password: yan
     rating: ~
   - Chinese: 凾得華
     id: B03200050
@@ -213,11 +188,6 @@ member:
     id: B03200064
     name: Michael
     password: jing
-    rating: ~
-  - Chinese: 林采鈴
-    id: B03200068
-    name: Grace1
-    password: cai
     rating: ~
   - Chinese: 許品琦
     id: B03200074
@@ -258,11 +228,6 @@ member:
     id: B03200098
     name: Abby
     password: wei
-    rating: ~
-  - Chinese: 方楚云
-    id: B03200100
-    name: Kevin
-    password: chu
     rating: ~
   - Chinese: 李怡宣
     id: B03200102
@@ -329,11 +294,6 @@ member:
     name: Maggie
     password: wan
     rating: ~
-  - Chinese: 曾妤婷
-    id: B03200075
-    name: Joanna2
-    password: yu
-    rating: ~
   - Chinese: 徐甄
     id: B03200083
     name: Jane
@@ -360,6 +320,46 @@ member:
     password: yu
     rating: ~
 out:
+  - Chinese: 陳周宏
+    id: B03200035
+    name: Joe
+    password: zhou
+    rating: ~
+  - Chinese: 沈千玉
+    id: B03200025
+    name: Cherry1
+    password: qian
+    rating: ~
+  - Chinese: 周學林
+    id: B03200017
+    name: Alan
+    password: xue
+    rating: ~
+  - Chinese: 陳怡廷
+    id: B03200009
+    name: Rebecca
+    password: yi
+    rating: ~
+  - Chinese: 林采鈴
+    id: B03200068
+    name: Grace1
+    password: cai
+    rating: ~
+  - Chinese: 鍾衍霆
+    id: B03200048
+    name: Robby
+    password: yan
+    rating: ~
+  - Chinese: 方楚云
+    id: B03200100
+    name: Kevin
+    password: chu
+    rating: ~
+  - Chinese: 曾妤婷
+    id: B03200075
+    name: Joanna2
+    password: yu
+    rating: ~
   - Chinese: 許嵐婷
     id: B03200030
     name: Lillian
