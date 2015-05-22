@@ -69,11 +69,6 @@ member:
     name: Grace2
     password: en
     rating: ~
-  - Chinese: 魏崇軒
-    id: B03200079
-    name: Denny
-    password: chong
-    rating: ~
   - Chinese: 黃莉璇
     id: B03200004
     name: Katherine
@@ -123,11 +118,6 @@ member:
     id: B03200019
     name: Demi
     password: ya
-    rating: ~
-  - Chinese: 鄧子健
-    id: B03200021
-    name: Philip
-    password: zi
     rating: ~
   - Chinese: 鍾定軒
     id: B03200029
@@ -254,11 +244,6 @@ member:
     name: YiSian
     password: yi
     rating: ~
-  - Chinese: 蘇意舜
-    id: B03200022
-    name: Cena
-    password: yi
-    rating: ~
   - Chinese: 宋立婷
     id: B03200032
     name: Lily
@@ -279,16 +264,6 @@ member:
     name: Mombala
     password: zi
     rating: ~
-  - Chinese: 陳世培
-    id: B03200051
-    name: Eric
-    password: shi
-    rating: ~
-  - Chinese: 王柏讚
-    id: B03200067
-    name: Jeffrey
-    password: bo
-    rating: ~
   - Chinese: 張菀庭
     id: B03200071
     name: Maggie
@@ -304,11 +279,6 @@ member:
     name: Jin2
     password: jing
     rating: ~
-  - Chinese: 姜律安
-    id: B03200095
-    name: Darren
-    password: lu
-    rating: ~
   - Chinese: 林思辰
     id: B03200097
     name: Marian
@@ -320,6 +290,36 @@ member:
     password: yu
     rating: ~
 out:
+  - Chinese: 陳世培
+    id: B03200051
+    name: Eric
+    password: shi
+    rating: ~
+  - Chinese: 魏崇軒
+    id: B03200079
+    name: Denny
+    password: chong
+    rating: ~
+  - Chinese: 姜律安
+    id: B03200095
+    name: Darren
+    password: lu
+    rating: ~
+  - Chinese: 蘇意舜
+    id: B03200022
+    name: Cena
+    password: yi
+    rating: ~
+  - Chinese: 王柏讚
+    id: B03200067
+    name: Jeffrey
+    password: bo
+    rating: ~
+  - Chinese: 鄧子健
+    id: B03200021
+    name: Philip
+    password: zi
+    rating: ~
   - Chinese: 陳周宏
     id: B03200035
     name: Joe
