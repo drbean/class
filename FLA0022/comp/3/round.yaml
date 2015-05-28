@@ -1,0 +1,134 @@
+---
+activity:
+  theory-x_y:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+  me_mypartner:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+  drbean:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+assistant: ~
+bye: V9941060 
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: V0141018
+    Black: V0041066
+  1:
+    White: V0141041
+    Black: V9941065
+  2:
+    White: V0141053
+    Black: V0141029
+  3:
+    White: V9741022
+    Black: V9941014
+  4:
+    White: V0141060
+    Black: V0141058
+  5:
+    White: V0141036
+    Black: V9941075
+  6:
+    White: V0141022
+    Black: V0141025
+  7:
+    White: V0141055
+    Black: V0041058
+  8:
+    White: V0041015
+    Black: V0041047
+  9:
+    White: V0141021
+    Black: V0141016
+  10:
+    White: V0141003
+    Black: V0141064
+  11:
+    White: V0141061
+    Black: V0141012
+  12:
+    White: V0041012
+    Black: V0141028
+  13:
+    White: V0141052
+    Black: V0141050
+  14:
+    White: V0041055
+    Black: V0141017
+  15:
+    White: V0141059
+    Black: V0041062
+  16:
+    White: V0141049
+    Black: V0141048
+  17:
+    White: V0141009
+    Black: V0041005
+  18:
+    White: V9941076
+    Black: V0141037
+late:
+  - V9941060
+pairing: swiss
+payprotocol: meritPay 1
+round: 3
+text: /home/drbean/class/business/managing/cards.yaml
+week: 13

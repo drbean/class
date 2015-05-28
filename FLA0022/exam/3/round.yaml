@@ -1,0 +1,124 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 2
+pass: 0
+assistant:
+    - Wynn
+    - Ivy2
+    - Sara
+    - Danny
+    - Bruce
+    - Vera
+    - Ula
+    - Darnell
+    - Iris
+absent:
+    - Camuel
+    - Lydia
+    - Winny
+    - Emma
+    - Jessica
+    - Sandy
+text: /home/drbean/class/business/managing/cards.yaml
+activity:
+  theory-x-y:
+    1:
+      - 3-1
+      - 5-1
+      - 6-2
+      - 7-1
+      - 7-2
+    2:
+      - Leon
+      - 1-2
+      - 2-2
+      - 3-2
+      - 9-1
+    3:
+      - 4-1
+      - 4-2
+      - 5-2
+      - 6-1
+
+    4:
+      - 1-1
+      - 2-1
+      - 8-1
+      - 8-2
+
+      
+group:
+  Leon:
+    - Leon
+    - Bruce
+    - Vera
+  1-1:
+    - Bruce
+    - Trista
+    - Nora
+  1-2:
+    - Michelle
+    - Nini
+    - Uta
+  2-1:
+    - Danny
+    - Owen
+    - Jimmy
+  2-2:
+    - Ada
+    - ALin
+    - Wynn
+  3-1:
+    - Brian
+    - Grace
+    - Sunny
+  3-2:
+    - Jane
+    - Mark
+    - Ula
+  4-1:
+    - Vera
+    - Iris
+    - Peter
+  4-2:
+    - Vam
+    - Willy
+    - Anthony
+  5-1:
+    - Sing
+    - Vicky
+    - Ivy2
+  5-2:
+    - Wynn
+    - Zoe
+    - Tony
+  6-1:
+    - Stephanie
+    - Amber
+    - Danny
+  6-2:
+    - Sara
+    - Luna
+    - Kitty
+  7-1:
+    - Carol
+    - Ivy1
+    - Sara
+  7-2:
+    - Abby
+    - MengShiung
+    - Sam
+  8-1:
+    - Ula
+    - Vivi
+    - Darnell
+  8-2:
+    - Darnell
+    - Iris
+    - Joanne
+  9-1:
+    - Ivy2
+    - Brenda
+    - Sally
