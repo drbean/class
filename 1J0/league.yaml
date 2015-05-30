@@ -29,7 +29,7 @@ member:
 
   - Chinese: 陳詩昀
     id: B03200034
-    name: Ben
+    name: Ban
     password: shi
     rating: ~
   - Chinese: 石郁惠
@@ -428,7 +428,7 @@ session:
   1: 1
   2: 4
   3: 5
-  4: 14
+  4: 10
 weights:
   classwork: 40
   exams: 20
