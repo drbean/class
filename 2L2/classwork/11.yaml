@@ -39,7 +39,7 @@ topic: politics
   absent:
   merits: 2.5
 
-irr:
+8-1:
   absent:
   tardy:
     - Mia
@@ -57,4 +57,4 @@ answers:
   3-2: 6
   4-1: 2
   4-2: 4
-  irr: 0
+  8-1: 0
