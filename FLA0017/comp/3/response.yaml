@@ -1,0 +1,240 @@
+---
+free:
+  0:
+    goetz:
+      0:
+        V0141049:
+          point:
+            1: Nil
+        V0141037:
+          point:
+            1: Nil
+    allen:
+      0:
+        V0141049:
+          point:
+            1: Returned
+            2: Returned on 2nd chance
+        V0141037:
+          point:
+            1: Old
+            2: Old
+    ward:
+      0:
+        V0141049:
+          point:
+            1: Nil
+        V0141037:
+          point:
+            1: Nil
+    clay:
+      0:
+        V0141049:
+          point:
+            1: Returned
+        V0141037:
+          point:
+            1: Returned
+            2: Returned
+            3: Returned
+  1:
+    goetz:
+      0:
+        V0141058:
+          point:
+            1: Unreturned
+        V0141048:
+          point:
+            1: Returned
+    allen:
+      0:
+        V0141058:
+          point:
+            1: Fault on 2nd chance
+            2: Returned
+        V0141048:
+          point:
+            1: Returned
+    ward:
+      0:
+        V0141058:
+          point:
+            1: Nil
+        V0141048:
+          point:
+            1: Nil
+    clay:
+      0:
+        V0141058:
+          point:
+            1: Nil
+        V0141048:
+          point:
+            1: Returned on 2nd chance
+  2:
+    goetz:
+      0:
+        V0141055:
+          point:
+            1: Returned
+        V0141054:
+          point:
+            1: Nil
+    allen:
+      0:
+        V0141055:
+          point:
+            1: Nil
+        V0141054:
+          point:
+            1: Returned
+    ward:
+      0:
+        V0141055:
+          point:
+            1: Nil
+        V0141054:
+          point:
+            1: Nil
+    clay:
+      0:
+        V0141055:
+          point:
+            1: Returned on 2nd chance
+        V0141054:
+          point:
+            1: Returned
+  3:
+    goetz:
+      0:
+        V0141041:
+          point:
+            1: Returned
+        V0141050:
+          point:
+            1: Returned
+    allen:
+      0:
+        V0141041:
+          point:
+            1: Returned
+        V0141050:
+          point:
+            1: Fault on 2nd chance
+    ward:
+      0:
+        V0141041:
+          point:
+            1: Nil
+        V0141050:
+          point:
+            1: Returned
+    clay:
+      0:
+        V0141041:
+          point:
+            1: Returned
+        V0141050:
+          point:
+            1: Nil
+  4:
+    goetz:
+      0:
+        V9941077:
+          point:
+            1: Unreturned
+        V0141052:
+          point:
+            1: Returned
+    allen:
+      0:
+        V9941077:
+          point:
+            1: Returned
+        V0141052:
+          point:
+            1: Returned
+    ward:
+      0:
+        V9941077:
+          point:
+            1: Nil
+        V0141052:
+          point:
+            1: Nil
+    clay:
+      0:
+        V9941077:
+          point:
+            1: Returned on 2nd chance
+        V0141052:
+          point:
+            1: Returned
+  5:
+    goetz:
+      0:
+        V0141061:
+          point:
+            1: Fault on 2nd chance
+        V0141046:
+          point:
+            1: Unreturned
+    allen:
+      0:
+        V0141061:
+          point:
+            1: Returned
+        V0141046:
+          point:
+            1: Returned on 2nd chance
+    ward:
+      0:
+        V0141061:
+          point:
+            1: Returned
+        V0141046:
+          point:
+            1: Fault on 2nd chance
+    clay:
+      0:
+        V0141061:
+          point:
+            1: Nil
+        V0141046:
+          point:
+            1: Nil
+  6:
+    goetz:
+      0:
+        V0141036:
+          point:
+            1: Old
+            2: Fault on 2nd chance
+        V0141053:
+          point:
+            1: Returned on 2nd chance
+    allen:
+      0:
+        V0141036:
+          point:
+            1: Returned on 2nd chance
+        V0141053:
+          point:
+            1: Returned
+    ward:
+      0:
+        V0141036:
+          point:
+            1: Nil
+        V0141053:
+          point:
+            1: Nil
+    clay:
+      0:
+        V0141036:
+          point:
+            1: Unreturned
+        V0141053:
+          point:
+            1: Returned
+            2: Old
