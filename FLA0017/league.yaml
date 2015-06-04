@@ -157,11 +157,6 @@ cohort:
       name: Luna
       password: pei
       rating: ~
-    - Chinese: 徐郁惠
-      id: V0141051
-      name: Anja
-      password: yu
-      rating: ~
     - Chinese: 陳沛雯
       id: V0141052
       name: Sara
@@ -238,11 +233,6 @@ member:
     name: Nora
     password: mei
     rating: ~
-  - Chinese: 謝婕榆
-    id: V0141038
-    name: Jessica
-    password: jie
-    rating: ~
   - Chinese: 邱晴
     id: V0141041
     name: Sunny
@@ -267,11 +257,6 @@ member:
     id: V0141050
     name: Luna
     password: pei
-    rating: ~
-  - Chinese: 徐郁惠
-    id: V0141051
-    name: Anja
-    password: yu
     rating: ~
   - Chinese: 陳沛雯
     id: V0141052
@@ -313,6 +298,12 @@ member:
     name: Sam
     password: zhi
     rating: ~
+  - Chinese: 陳韋志
+    id: V9941077
+    name: Joe
+    password: wei
+    rating: ~
+out:
   - Chinese: 余季穎
     id: V0141064
     name: 余季穎
@@ -323,12 +314,16 @@ member:
     name: Bunny
     password: ya
     rating: ~
-  - Chinese: 陳韋志
-    id: V9941077
-    name: Joe
-    password: wei
+  - Chinese: 謝婕榆
+    id: V0141038
+    name: Jessica
+    password: jie
     rating: ~
-out:
+  - Chinese: 徐郁惠
+    id: V0141051
+    name: Anja
+    password: yu
+    rating: ~
   - Chinese: 張晉嘉
     id: V0141006
     name: Billy
