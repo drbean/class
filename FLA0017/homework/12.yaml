@@ -1,0 +1,71 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: ward
+grade:
+  V0141036: 0.96
+  V0141037: 2
+  V0141041: 2
+  V0141046: 0.4
+  V0141048: 2
+  V0141049: 2
+  V0141050: 2
+  V0141052: 2
+  V0141053: 2
+  V0141054: 1.86
+  V0141055: 1.88
+  V0141058: 2
+  V0141059: 2
+  V0141060: 2
+  V0141061: 2
+  V9941077: 2
+points:
+  V0141036:
+    letters: 58
+    percent: 48
+  V0141037:
+    letters: 126
+    percent: 100
+  V0141041:
+    letters: 113
+    percent: 100
+  V0141046:
+    letters: 24
+    percent: 20
+  V0141048:
+    letters: 115
+    percent: 100
+  V0141049:
+    letters: 116
+    percent: 100
+  V0141050:
+    letters: 110
+    percent: 100
+  V0141052:
+    letters: 138
+    percent: 100
+  V0141053:
+    letters: 119
+    percent: 100
+  V0141054:
+    letters: 115
+    percent: 93
+  V0141055:
+    letters: 128
+    percent: 94
+  V0141058:
+    letters: 109
+    percent: 100
+  V0141059:
+    letters: 116
+    percent: 100
+  V0141060:
+    letters: 123
+    percent: 100
+  V0141061:
+    letters: 110
+    percent: 100
+  V9941077:
+    letters: 122
+    percent: 100
