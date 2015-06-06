@@ -1,0 +1,71 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: clay
+grade:
+  V0141036: 1.64
+  V0141037: 2
+  V0141041: 1.92
+  V0141046: 1.5
+  V0141048: 2
+  V0141049: 2
+  V0141050: 2
+  V0141052: 2
+  V0141053: 2
+  V0141054: 1.94
+  V0141055: 1.98
+  V0141058: 2
+  V0141059: 2
+  V0141060: 2
+  V0141061: 0
+  V9941077: 2
+points:
+  V0141036:
+    letters: 113
+    percent: 82
+  V0141037:
+    letters: 148
+    percent: 100
+  V0141041:
+    letters: 134
+    percent: 96
+  V0141046:
+    letters: 108
+    percent: 75
+  V0141048:
+    letters: 162
+    percent: 100
+  V0141049:
+    letters: 138
+    percent: 100
+  V0141050:
+    letters: 154
+    percent: 100
+  V0141052:
+    letters: 131
+    percent: 100
+  V0141053:
+    letters: 157
+    percent: 100
+  V0141054:
+    letters: 145
+    percent: 97
+  V0141055:
+    letters: 146
+    percent: 99
+  V0141058:
+    letters: 165
+    percent: 100
+  V0141059:
+    letters: 128
+    percent: 100
+  V0141060:
+    letters: 138
+    percent: 100
+  V0141061:
+    letters: 0
+    percent: 0
+  V9941077:
+    letters: 163
+    percent: 100
