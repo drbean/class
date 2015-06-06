@@ -1,0 +1,71 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: allen
+grade:
+  V0141036: 1.18
+  V0141037: 1.94
+  V0141041: 2
+  V0141046: 1.2
+  V0141048: 2
+  V0141049: 2
+  V0141050: 2
+  V0141052: 2
+  V0141053: 2
+  V0141054: 1.94
+  V0141055: 1.94
+  V0141058: 2
+  V0141059: 2
+  V0141060: 2
+  V0141061: 2
+  V9941077: 2
+points:
+  V0141036:
+    letters: 88
+    percent: 59
+  V0141037:
+    letters: 147
+    percent: 97
+  V0141041:
+    letters: 142
+    percent: 100
+  V0141046:
+    letters: 83
+    percent: 60
+  V0141048:
+    letters: 146
+    percent: 100
+  V0141049:
+    letters: 115
+    percent: 100
+  V0141050:
+    letters: 151
+    percent: 100
+  V0141052:
+    letters: 133
+    percent: 100
+  V0141053:
+    letters: 136
+    percent: 100
+  V0141054:
+    letters: 148
+    percent: 97
+  V0141055:
+    letters: 137
+    percent: 97
+  V0141058:
+    letters: 145
+    percent: 100
+  V0141059:
+    letters: 157
+    percent: 100
+  V0141060:
+    letters: 152
+    percent: 100
+  V0141061:
+    letters: 156
+    percent: 100
+  V9941077:
+    letters: 124
+    percent: 100
