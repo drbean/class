@@ -1,0 +1,105 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 3
+pass: 0
+assistant:
+    - Jimmy
+absent:
+    - Emma
+text: /home/drbean/class/business/conflict/cards.yaml
+activity:
+  framework:
+    2:
+      - 3-1
+      - 5-1
+      - 6-1
+      - 8-1
+    3:
+      - 1-1
+      - 2-1
+      - 3-2
+      - 8-2
+      - 9-1
+    4:
+      - 1-2
+      - 2-2
+      - 7-1
+      - 7-2
+    5:
+      - 4-1
+      - 4-2
+      - 5-2
+      - 6-2
+
+
+group:
+  1-1:
+    - Michelle
+    - ALin
+    - Nora
+  1-2:
+    - Leon
+    - Camuel
+    - Ula
+  2-1:
+    - Ada
+    - Grace
+    - Peter
+  2-2:
+    - Bruce
+    - Owen
+    - Anthony
+  3-1:
+    - Jane
+    - Nini
+    - Tony
+  3-2:
+    - Brian
+    - Iris
+    - Sara
+  4-1:
+    - Sing
+    - Ivy1
+    - Sunny
+  4-2:
+    - Stephanie
+    - Sally
+    - Danny
+  5-1:
+    - Jessica
+    - Willy
+    - Mark
+  5-2:
+    - Sandy
+    - Trista
+    - Zoe
+  6-1:
+    - Vera
+    - Brenda
+    - Kitty
+  6-2:
+    - Vam
+    - Ivy2
+    - Sam
+  7-1:
+    - Amber
+    - Vicky
+    - Darnell
+  7-2:
+    - Jimmy
+    - Uta
+    - Wynn
+  8-1:
+    - Lydia
+    - Abby
+    - Luna
+  8-2:
+    - Winny
+    - Jimmy
+    - Joanne
+  9-1:
+    - Carol
+    - Vivi
+    - MengShiung

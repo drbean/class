@@ -1,0 +1,508 @@
+---
+free:
+  0:
+    framework:
+      theory:
+        V0141018:
+          point:
+            1: Nil
+        V0041064:
+          point:
+            1: Nil
+      todd-oliver:
+        V0141018:
+          point:
+            1: Nil
+        V0041064:
+          point:
+            1: Nil
+      you-me:
+        V0141018:
+          point:
+            1: Unreturned
+        V0041064:
+          point:
+            1: Returned
+  1:
+    framework:
+      theory:
+        V0041066:
+          point:
+            1: Nil
+        V0141029:
+          point:
+            1: Nil
+      todd-oliver:
+        V0041066:
+          point:
+            1: Nil
+        V0141029:
+          point:
+            1: Nil
+      you-me:
+        V0041066:
+          point:
+            1: Nil
+        V0141029:
+          point:
+            1: Nil
+  2:
+    framework:
+      theory:
+        V0141035:
+          point:
+            1: Unreturned
+        V0141041:
+          point:
+            1: Returned
+      todd-oliver:
+        V0141035:
+          point:
+            1: Nil
+        V0141041:
+          point:
+            1: Nil
+      you-me:
+        V0141035:
+          point:
+            1: Nil
+        V0141041:
+          point:
+            1: Nil
+  3:
+    framework:
+      theory:
+        V0141011:
+          point:
+            1: Nil
+        V0141054:
+          point:
+            1: Nil
+      todd-oliver:
+        V0141011:
+          point:
+            1: Nil
+        V0141054:
+          point:
+            1: Nil
+      you-me:
+        V0141011:
+          point:
+            1: Nil
+        V0141054:
+          point:
+            1: Nil
+  4:
+    framework:
+      theory:
+        V0041046:
+          point:
+            1: Nil
+        V0141038:
+          point:
+            1: Nil
+      todd-oliver:
+        V0041046:
+          point:
+            1: Nil
+        V0141038:
+          point:
+            1: Nil
+      you-me:
+        V0041046:
+          point:
+            1: Nil
+        V0141038:
+          point:
+            1: Nil
+  5:
+    framework:
+      theory:
+        V0141058:
+          point:
+            1: Returned
+        V9941014:
+          point:
+            1: Nil
+      todd-oliver:
+        V0141058:
+          point:
+            1: Nil
+        V9941014:
+          point:
+            1: Nil
+      you-me:
+        V0141058:
+          point:
+            1: Nil
+        V9941014:
+          point:
+            1: Unreturned
+  6:
+    framework:
+      theory:
+        V0141025:
+          point:
+            1: Nil
+        V0141036:
+          point:
+            1: Nil
+      todd-oliver:
+        V0141025:
+          point:
+            1: Fault
+        V0141036:
+          point:
+            1: Fault
+      you-me:
+        V0141025:
+          point:
+            1: Nil
+        V0141036:
+          point:
+            1: Nil
+  7:
+    framework:
+      theory:
+        V0141046:
+          point:
+            1: Returned on 2nd chance
+        V9941060:
+          point:
+            1: Nil
+      todd-oliver:
+        V0141046:
+          point:
+            1: Nil
+        V9941060:
+          point:
+            1: Nil
+      you-me:
+        V0141046:
+          point:
+            1: Nil
+        V9941060:
+          point:
+            1: Unreturned on 2nd chance
+  8:
+    framework:
+      theory:
+        V0041058:
+          point:
+            1: Returned
+        V9741022:
+          point:
+            1: Nil
+      todd-oliver:
+        V0041058:
+          point:
+            1: Nil
+        V9741022:
+          point:
+            1: Nil
+      you-me:
+        V0041058:
+          point:
+            1: Nil
+        V9741022:
+          point:
+            1: Unreturned
+  9:
+    framework:
+      theory:
+        V0141002:
+          point:
+            1: Nil
+        V0041047:
+          point:
+            1: Nil
+      todd-oliver:
+        V0141002:
+          point:
+            1: Nil
+        V0041047:
+          point:
+            1: Nil
+      you-me:
+        V0141002:
+          point:
+            1: Unreturned on 2nd chance
+        V0041047:
+          point:
+            1: Returned on 2nd chance
+  10:
+    framework:
+      theory:
+        V0141064:
+          point:
+            1: Nil
+        V0141060:
+          point:
+            1: Returned
+      todd-oliver:
+        V0141064:
+          point:
+            1: Nil
+        V0141060:
+          point:
+            1: Nil
+      you-me:
+        V0141064:
+          point:
+            1: Unreturned
+        V0141060:
+          point:
+            1: Nil
+  11:
+    framework:
+      theory:
+        V9941075:
+          point:
+            1: Nil
+        V0141022:
+          point:
+            1: Nil
+      todd-oliver:
+        V9941075:
+          point:
+            1: Nil
+        V0141022:
+          point:
+            1: Nil
+      you-me:
+        V9941075:
+          point:
+            1: Returned
+        V0141022:
+          point:
+            1: Unreturned
+  12:
+    framework:
+      theory:
+        V0141026:
+          point:
+            1: Nil
+        V0141061:
+          point:
+            1: Nil
+      todd-oliver:
+        V0141026:
+          point:
+            1: Nil
+        V0141061:
+          point:
+            1: Nil
+      you-me:
+        V0141026:
+          point:
+            1: Unreturned
+        V0141061:
+          point:
+            1: Returned
+  13:
+    framework:
+      theory:
+        V0141016:
+          point:
+            1: Unreturned on 2nd chance
+        V0041012:
+          point:
+            1: Returned on 2nd chance
+      todd-oliver:
+        V0141016:
+          point:
+            1: Nil
+        V0041012:
+          point:
+            1: Nil
+      you-me:
+        V0141016:
+          point:
+            1: Nil
+        V0041012:
+          point:
+            1: Nil
+  14:
+    framework:
+      theory:
+        V0141052:
+          point:
+            1: Nil
+        V0141055:
+          point:
+            1: Nil
+      todd-oliver:
+        V0141052:
+          point:
+            1: Unreturned
+        V0141055:
+          point:
+            1: Nil
+      you-me:
+        V0141052:
+          point:
+            1: Nil
+        V0141055:
+          point:
+            1: Returned
+  15:
+    framework:
+      theory:
+        V0141003:
+          point:
+            1: Nil
+        V0041015:
+          point:
+            1: Nil
+      todd-oliver:
+        V0141003:
+          point:
+            1: Nil
+        V0041015:
+          point:
+            1: Nil
+      you-me:
+        V0141003:
+          point:
+            1: Unreturned
+        V0041015:
+          point:
+            1: Returned
+  16:
+    framework:
+      theory:
+        V0041005:
+          point:
+            1: Nil
+        V0041055:
+          point:
+            1: Nil
+      todd-oliver:
+        V0041005:
+          point:
+            1: Fault
+        V0041055:
+          point:
+            1: Fault
+      you-me:
+        V0041005:
+          point:
+            1: Nil
+        V0041055:
+          point:
+            1: Nil
+  17:
+    framework:
+      theory:
+        V0041062:
+          point:
+            1: Nil
+        V0141049:
+          point:
+            1: Nil
+      todd-oliver:
+        V0041062:
+          point:
+            1: Nil
+        V0141049:
+          point:
+            1: Nil
+      you-me:
+        V0041062:
+          point:
+            1: Fault on 2nd chance
+        V0141049:
+          point:
+            1: Fault on 2nd chance
+  18:
+    framework:
+      theory:
+        V0141037:
+          point:
+            1: Nil
+        V0141012:
+          point:
+            1: Nil
+      todd-oliver:
+        V0141037:
+          point:
+            1: Unreturned
+        V0141012:
+          point:
+            1: Returned
+      you-me:
+        V0141037:
+          point:
+            1: Nil
+        V0141012:
+          point:
+            1: Nil
+  19:
+    framework:
+      theory:
+        V0141050:
+          point:
+            1: Nil
+        V0141009:
+          point:
+            1: Nil
+      todd-oliver:
+        V0141050:
+          point:
+            1: Nil
+        V0141009:
+          point:
+            1: Nil
+      you-me:
+        V0141050:
+          point:
+            1: Nil
+        V0141009:
+          point:
+            1: Nil
+  20:
+    framework:
+      theory:
+        V0141048:
+          point:
+            1: Nil
+        V9941076:
+          point:
+            1: Nil
+      todd-oliver:
+        V0141048:
+          point:
+            1: Nil
+        V9941076:
+          point:
+            1: Nil
+      you-me:
+        V0141048:
+          point:
+            1: Unreturned
+        V9941076:
+          point:
+            1: Returned
+  21:
+    framework:
+      theory:
+        V0141008:
+          point:
+            1: Nil
+        V9941065:
+          point:
+            1: Nil
+      todd-oliver:
+        V0141008:
+          point:
+            1: Nil
+        V9941065:
+          point:
+            1: Nil
+      you-me:
+        V0141008:
+          point:
+            1: Nil
+        V9941065:
+          point:
+            1: Nil

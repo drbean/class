@@ -1,0 +1,163 @@
+---
+activity:
+  framework:
+    theory:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    todd-oliver:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    you-me:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+assistant:
+  8-1:
+    V0141053: 5
+  2-1:
+    V0141017: 5
+  4-1:
+    V0141021: 5
+  6-2:
+    V0141059: 5
+  5-2:
+    V0141023: 5
+  9-1:
+    V0141028: 5
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: V0141018
+    Black: V0041064
+  1:
+    White: V0041066
+    Black: V0141029
+  2:
+    White: V0141035
+    Black: V0141041
+  3:
+    White: V0141011
+    Black: V0141054
+  4:
+    White: V0041046
+    Black: V0141038
+  5:
+    White: V0141058
+    Black: V9941014
+  6:
+    White: V0141025
+    Black: V0141036
+  7:
+    White: V0141046
+    Black: V9941060
+  8:
+    White: V0041058
+    Black: V9741022
+  9:
+    White: V0141002
+    Black: V0041047
+  10:
+    White: V0141064
+    Black: V0141060
+  11:
+    White: V9941075
+    Black: V0141022
+  12:
+    White: V0141026
+    Black: V0141061
+  13:
+    White: V0141016
+    Black: V0041012
+  14:
+    White: V0141052
+    Black: V0141055
+  15:
+    White: V0141003
+    Black: V0041015
+  16:
+    White: V0041005
+    Black: V0041055
+  17:
+    White: V0041062
+    Black: V0141049
+  18:
+    White: V0141037
+    Black: V0141012
+  19:
+    White: V0141050
+    Black: V0141009
+  20:
+    White: V0141048
+    Black: V9941076
+  21:
+    White: V0141008
+    Black: V9941065
+    
+late:
+  - V0141008
+  - V9941065
+pairing: swiss
+payprotocol: meritPay 1
+round: 4
+text: /home/drbean/class/business/conflict/cards.yaml
+week: 18
