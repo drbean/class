@@ -180,7 +180,7 @@ V9741022: 4.02
 V9941014: 4.05
 V9941060: 4.00
 report: |+
-             Pre-test               Post-test
+  Stages     Pre-test               Post-test
   Player     Attempted Correct   Targeted Attempted Correct Improvement   Grade
   V0041005     112       90        22       22        5         5         3.8
   V0041007     112       41        71       71        24        24        4.3
