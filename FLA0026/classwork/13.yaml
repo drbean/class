@@ -1,0 +1,40 @@
+---
+topic: travel
+
+
+1-1:
+  absent:
+    - Charles
+  merits: 3
+
+1-2:
+  absent:
+    - YuWen
+    - Vam
+  merits: 2
+
+2-1:
+  absent:
+    - Winny
+  merits: 3
+
+2-2:
+  absent:
+    - Vera
+  merits: 2
+
+3-1:
+  absent:
+  merits: 3
+
+3-2:
+  absent:
+  merits: 2
+
+answers:
+  1-1: 15
+  1-2: 5
+  2-1: 9
+  2-2: 3
+  3-1: 11
+  3-2: 4
