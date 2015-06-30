@@ -1,0 +1,162 @@
+---
+exercise: academic
+grade:
+  V0041005: 0.40
+  V0041007: 0.00
+  V0041010: 0.00
+  V0041012: 1.99
+  V0041015: 1.99
+  V0041028: 0.00
+  V0041033: 0.00
+  V0041035: 0.00
+  V0041042: 1.21
+  V0041046: 1.99
+  V0041050: 0.00
+  V0041055: 0.77
+  V0041058: 0.07
+  V0041062: 0.87
+  V0041064: 1.30
+  V0041066: 0.33
+  V0141064: 1.61
+  V9741022: 1.00
+  V9941014: 1.39
+  V9941060: 0.00
+points:
+  V0041005:
+    pre_test:
+      attempted: 36
+      correct: 0
+    post_test:
+      attempted: <= 36
+      correct: '??'
+      improvement: '??'
+      targeted: 36
+  V0041007:
+    pre_test: {}
+    post_test: {}
+  V0041010:
+    pre_test: {}
+    post_test: {}
+  V0041012:
+    pre_test:
+      attempted: 179
+      correct: 0
+    post_test:
+      attempted: <= 179
+      correct: '??'
+      improvement: '??'
+      targeted: 179
+  V0041015:
+    pre_test:
+      attempted: 179
+      correct: 34
+    post_test:
+      attempted: <= 145
+      correct: '??'
+      improvement: '??'
+      targeted: 145
+  V0041028:
+    pre_test: {}
+    post_test: {}
+  V0041033:
+    pre_test: {}
+    post_test: {}
+  V0041035:
+    pre_test: {}
+    post_test: {}
+  V0041042:
+    pre_test:
+      attempted: 109
+      correct: 29
+    post_test:
+      attempted: <= 80
+      correct: '??'
+      improvement: '??'
+      targeted: 80
+  V0041046:
+    pre_test:
+      attempted: 179
+      correct: 18
+    post_test:
+      attempted: <= 161
+      correct: '??'
+      improvement: '??'
+      targeted: 161
+  V0041050:
+    pre_test: {}
+    post_test: {}
+  V0041055:
+    pre_test:
+      attempted: 69
+      correct: 21
+    post_test:
+      attempted: <= 48
+      correct: '??'
+      improvement: '??'
+      targeted: 48
+  V0041058:
+    pre_test:
+      attempted: 6
+      correct: 1
+    post_test:
+      attempted: <= 5
+      correct: '??'
+      improvement: '??'
+      targeted: 5
+  V0041062:
+    pre_test:
+      attempted: 78
+      correct: 25
+    post_test:
+      attempted: <= 53
+      correct: '??'
+      improvement: '??'
+      targeted: 53
+  V0041064:
+    pre_test:
+      attempted: 117
+      correct: 20
+    post_test:
+      attempted: <= 97
+      correct: '??'
+      improvement: '??'
+      targeted: 97
+  V0041066:
+    pre_test:
+      attempted: 30
+      correct: 14
+    post_test:
+      attempted: <= 16
+      correct: '??'
+      improvement: '??'
+      targeted: 16
+  V0141064:
+    pre_test:
+      attempted: 145
+      correct: 52
+    post_test:
+      attempted: <= 93
+      correct: '??'
+      improvement: '??'
+      targeted: 93
+  V9741022:
+    pre_test:
+      attempted: 90
+      correct: 24
+    post_test:
+      attempted: <= 66
+      correct: '??'
+      improvement: '??'
+      targeted: 66
+  V9941014:
+    pre_test:
+      attempted: 125
+      correct: 42
+    post_test:
+      attempted: <= 83
+      correct: '??'
+      improvement: '??'
+      targeted: 83
+  V9941060:
+    pre_test: {}
+    post_test: {}
