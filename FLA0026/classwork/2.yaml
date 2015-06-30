@@ -18,8 +18,5 @@
   merits: 3
 3-2:
   absent:
-  merits: 3
-4-1:
-  absent:
     - Vam
-  merits: 0
+  merits: 3
