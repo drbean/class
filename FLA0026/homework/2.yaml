@@ -1,0 +1,71 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: stereotype
+grade:
+  V0041005: 0.84
+  V0041007: 2
+  V0041010: 0
+  V0041012: 1.94
+  V0041015: 1.78
+  V0041042: 0.74
+  V0041046: 2
+  V0041055: 1.94
+  V0041058: 2
+  V0041062: 1.4
+  V0041064: 2
+  V0041066: 0
+  V0141064: 2
+  V9741022: 2
+  V9941014: 2
+  V9941060: 0
+points:
+  V0041005:
+    letters: 67
+    percent: 42
+  V0041007:
+    letters: 172
+    percent: 100
+  V0041010:
+    letters: 0
+    percent: 0
+  V0041012:
+    letters: 147
+    percent: 97
+  V0041015:
+    letters: 153
+    percent: 89
+  V0041042:
+    letters: 65
+    percent: 37
+  V0041046:
+    letters: 185
+    percent: 100
+  V0041055:
+    letters: 169
+    percent: 97
+  V0041058:
+    letters: 146
+    percent: 100
+  V0041062:
+    letters: 128
+    percent: 70
+  V0041064:
+    letters: 166
+    percent: 100
+  V0041066:
+    letters: 0
+    percent: 0
+  V0141064:
+    letters: 147
+    percent: 100
+  V9741022:
+    letters: 175
+    percent: 100
+  V9941014:
+    letters: 159
+    percent: 100
+  V9941060:
+    letters: 0
+    percent: 0
