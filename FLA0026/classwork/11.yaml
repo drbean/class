@@ -1,0 +1,236 @@
+---
+exercise: travel
+grade:
+  V0041005: 2.00
+  V0041007: 2.00
+  V0041010: 2.00
+  V0041012: 2.00
+  V0041015: 2.00
+  V0041042: 1.98
+  V0041046: 2.00
+  V0041055: 0.00
+  V0041058: 0.00
+  V0041062: 2.00
+  V0041064: 2.00
+  V0041066: 2.00
+  V0141064: 0.00
+  V9741022: 2.00
+  V9941014: 2.00
+  V9941060: 2.00
+points:
+  V0041005:
+    pre_test:
+      attempted: 112
+      correct: 90
+    post_test:
+      attempted: 22?
+      correct: <22
+      improvement: '??'
+      targeted: 22
+  V0041007:
+    pre_test:
+      attempted: 112
+      correct: 41
+    post_test:
+      attempted: 71?
+      correct: <71
+      improvement: '??'
+      targeted: 71
+  V0041010:
+    pre_test:
+      attempted: 112
+      correct: 37
+    post_test:
+      attempted: 75?
+      correct: <75
+      improvement: '??'
+      targeted: 75
+  V0041012:
+    pre_test:
+      attempted: 112
+      correct: 96
+    post_test:
+      attempted: 16?
+      correct: <16
+      improvement: '??'
+      targeted: 16
+  V0041015:
+    pre_test:
+      attempted: 112
+      correct: 28
+    post_test:
+      attempted: 84?
+      correct: <84
+      improvement: '??'
+      targeted: 84
+  V0041042:
+    pre_test:
+      attempted: 111
+      correct: 41
+    post_test:
+      attempted: 70?
+      correct: <70
+      improvement: '??'
+      targeted: 70
+  V0041046:
+    pre_test:
+      attempted: 112
+      correct: 42
+    post_test:
+      attempted: 70?
+      correct: <70
+      improvement: '??'
+      targeted: 70
+  V0041055:
+    pre_test:
+      attempted: 0
+      correct: 0
+    post_test:
+      attempted: 112
+      correct: 0
+      improvement: 0
+      targeted: 0
+  V0041058:
+    pre_test:
+      attempted: 0
+      correct: 0
+    post_test:
+      attempted: 112
+      correct: 0
+      improvement: 0
+      targeted: 0
+  V0041062:
+    pre_test:
+      attempted: 112
+      correct: 44
+    post_test:
+      attempted: 68?
+      correct: <68
+      improvement: '??'
+      targeted: 68
+  V0041064:
+    pre_test:
+      attempted: 112
+      correct: 28
+    post_test:
+      attempted: 84?
+      correct: <84
+      improvement: '??'
+      targeted: 84
+  V0041066:
+    pre_test:
+      attempted: 112
+      correct: 36
+    post_test:
+      attempted: 76?
+      correct: <76
+      improvement: '??'
+      targeted: 76
+  V0141064:
+    pre_test:
+      attempted: 0
+      correct: 0
+    post_test:
+      attempted: 112
+      correct: 0
+      improvement: 0
+      targeted: 0
+  V9741022:
+    pre_test:
+      attempted: 112
+      correct: 36
+    post_test:
+      attempted: 76?
+      correct: <76
+      improvement: '??'
+      targeted: 76
+  V9941014:
+    pre_test:
+      attempted: 112
+      correct: 39
+    post_test:
+      attempted: 73?
+      correct: <73
+      improvement: '??'
+      targeted: 73
+  V9941060:
+    pre_test:
+      attempted: 112
+      correct: 53
+    post_test:
+      attempted: 59?
+      correct: <59
+      improvement: '??'
+      targeted: 59
+report: |+
+  Stages     Pre-test               Post-test
+  Player     Attempted Correct   Targeted Attempted Correct Improvement   Grade
+  V0041005     112       90        22       22?       <22       ??        ??
+  V0041007     112       41        71       71?       <71       ??        ??
+  V0041010     112       37        75       75?       <75       ??        ??
+  V0041012     112       96        16       16?       <16       ??        ??
+  V0041015     112       28        84       84?       <84       ??        ??
+  V0041042     111       41        70       70?       <70       ??        ??
+  V0041046     112       42        70       70?       <70       ??        ??
+  V0041055       0        0         0       112       0         0         ??
+  V0041058       0        0         0       112       0         0         ??
+  V0041062     112       44        68       68?       <68       ??        ??
+  V0041064     112       28        84       84?       <84       ??        ??
+  V0041066     112       36        76       76?       <76       ??        ??
+  V0141064       0        0         0       112       0         0         ??
+  V9741022     112       36        76       76?       <76       ??        ??
+  V9941014     112       39        73       73?       <73       ??        ??
+  V9941060     112       53        59       59?       <59       ??        ??
+  Class Totals
+             Pre-test               Post-test
+             Attempted Correct   Targeted Attempted Correct Improvement   Grade
+               112         47        65     ??        ??       ??
+---
+V0041005: 2.00
+V0041007: 2.00
+V0041010: 2.00
+V0041012: 2.00
+V0041015: 2.00
+V0041042: 1.98
+V0041046: 2.00
+V0041055: 0.00
+V0041058: 0.00
+V0041062: 2.00
+V0041064: 2.00
+V0041066: 2.00
+V0141064: 0.00
+V9741022: 2.00
+V9941014: 2.00
+V9941060: 2.00
+---
+topic: travel
+
+
+1-1:
+  absent:
+    - Vam
+    - Nini
+    - Joanne
+  merits: 0
+
+1-2:
+  absent:
+  merits: 3
+
+2-1:
+  absent:
+    - Vera
+  merits: 3
+
+2-2:
+  absent:
+  merits: 3
+
+3-1:
+  absent:
+    - Sing
+  merits: 3
+
+3-2:
+  absent:
+  merits: 3
