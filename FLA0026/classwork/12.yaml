@@ -1,0 +1,38 @@
+---
+topic: travel_base
+
+1-1:
+  absent:
+    - Nini
+  merits: 3
+
+1-2:
+  absent:
+    - Oscar
+  tardy:
+    - Leon
+  merits: 3
+
+2-1:
+  absent:
+    - YuWen
+    - Winny
+  merits: 2
+
+2-2:
+  absent:
+    - Iris
+    - Danny
+  tardy:
+    - Tony
+  merits: 2
+
+3-1:
+  absent:
+    - Sing
+  merits: 2
+
+3-2:
+  absent:
+    - Darnell
+  merits: 3
