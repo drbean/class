@@ -1,0 +1,52 @@
+---
+topic: presentation_intros:Flicker
+
+
+1-1:
+  absent:
+    - JhaoYi
+    - Tony
+  merits: 2
+
+1-2:
+  absent:
+  merits: 2
+
+2-1:
+  absent:
+    - YuWen
+  merits: 2.5
+
+2-2:
+  absent:
+  merits: 2.5
+
+3-1:
+  absent:
+    - Sherry
+    - Joy
+  merits: 2
+
+3-2:
+  absent:
+  merits: 3
+
+4-1:
+  absent:
+    - Karsten
+  merits: 2
+
+4-2:
+  absent:
+    - Ada
+  merits: 3
+
+points:
+  1-1: 1
+  1-2: 1
+  2-1: 2
+  2-2: 3
+  3-1: 1
+  3-2: 4
+  4-1: 0
+  4-2: 4
