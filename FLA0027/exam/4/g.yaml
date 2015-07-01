@@ -1,0 +1,116 @@
+---
+dr bean:
+  Ada: 0
+  Bruce: 8500
+  Camuel: 8000
+  Christy: 8000
+  Danny: 9500
+  Darnell: 8000
+  Iris: 7000
+  JhaoYi: 0
+  Joy: 8500
+  Karsten: 10000
+  Leon: 7500
+  Lucy: 8500
+  May: 6000
+  Owen: 8000
+  Sherry: 7000
+  Sing: 8500
+  Tony: 0
+  Una: 8500
+  Willy: 9000
+  Winny: 7500
+  YanSan: 9000
+  YuWen: 7000
+named_points:
+  Ada: 0
+  Bruce: 8500
+  Camuel: 8000
+  Christy: 8000
+  Danny: 9000
+  Darnell: 7500
+  Iris: 7500
+  JhaoYi: 0
+  Joy: 9000
+  Karsten: 9500
+  Leon: 7500
+  Lucy: 7500
+  May: 6500
+  Owen: 8000
+  Sherry: 7000
+  Sing: 8000
+  Tony: 0
+  Una: 8500
+  Willy: 8000
+  Winny: 7500
+  YanSan: 9000
+  YuWen: 7500
+peers:
+  Ada: 0
+  Bruce: 0
+  Camuel: 0
+  Christy: various
+  Danny: various
+  Darnell: various
+  Iris: various
+  JhaoYi: 0
+  Joy: various
+  Karsten: various
+  Leon: various
+  Lucy: various
+  May: various
+  Owen: various
+  Sherry: various
+  Sing: various
+  Tony: 0
+  Una: 0
+  Willy: various
+  Winny: various
+  YanSan: various
+  YuWen: various
+points:
+  V0041005: 7500
+  V0041012: 8000
+  V0041015: 8000
+  V0041019: 9000
+  V0041035: 7500
+  V0041036: 6500
+  V0041040: 7000
+  V0041042: 7500
+  V0041045: 0
+  V0041046: 8000
+  V0041047: 0
+  V0041052: 8500
+  V0041062: 7500
+  V0041064: 7500
+  V0041066: 9000
+  V0141042: 8000
+  V0141060: 8000
+  V0141062: 9500
+  V0141063: 9000
+  V9941014: 0
+  V9941060: 7500
+  V9941065: 8500
+---
+V0041005: 3.75
+V0041012: 4
+V0041015: 4
+V0041019: 4.5
+V0041035: 3.75
+V0041036: 3.25
+V0041040: 3.5
+V0041042: 3.75
+V0041045: 0
+V0041046: 4
+V0041047: 0
+V0041052: 4.25
+V0041062: 3.75
+V0041064: 3.75
+V0041066: 4.5
+V0141042: 4
+V0141060: 4
+V0141062: 4.75
+V0141063: 4.5
+V9941014: 0
+V9941060: 3.75
+V9941065: 4.25
