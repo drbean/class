@@ -1,0 +1,46 @@
+---
+topic: unknown
+
+
+1-1:
+  absent:
+  merits: 3
+
+1-2:
+  absent:
+    - Darnell
+    - May
+  merits: 3
+
+2-1:
+  absent:
+    - Una
+  merits: 3
+
+2-2:
+  absent:
+    - Willy
+    - Bruce
+  merits: 3
+
+3-1:
+  absent:
+    - Camuel
+    - Iris
+  merits: 3
+
+3-2:
+  absent:
+    - Sherry
+  merits: 3
+
+4-1:
+  absent:
+    - JhaoYi
+    - Ada
+  merits: 3
+
+4-2:
+  absent:
+    - Christy
+  merits: 3
