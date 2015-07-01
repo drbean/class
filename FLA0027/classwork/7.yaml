@@ -1,0 +1,44 @@
+---
+topic: unknown
+
+
+1-1:
+  absent:
+    - Ada
+  merits: 3
+
+1-2:
+  absent:
+    - Sing
+    - Camuel
+  merits: 3
+
+2-1:
+  absent:
+    - JhaoYi
+    - Danny
+  merits: 2
+
+2-2:
+  absent:
+  merits: 2
+
+3-1:
+  absent:
+    - Lucy
+  merits: 3
+
+3-2:
+  absent:
+  tardy:
+    - Owen
+  merits: 2
+
+4-1:
+  absent:
+    - Christy
+  merits: 3
+
+4-2:
+  absent:
+  merits: 3
