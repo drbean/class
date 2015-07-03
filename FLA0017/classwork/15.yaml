@@ -11,7 +11,7 @@ topic: pigott
   absent:
     - Jessica
     - Joe
-  merits: 3
+  merits: 2
 
 2-1:
   absent:
@@ -33,3 +33,53 @@ topic: pigott
 4-1:
   absent:
   merits: 3
+
+
+5-1:
+  absent:
+  merits: 3
+
+5-2:
+  absent:
+  merits: 3
+
+6-1:
+  absent:
+  merits: 2
+
+6-2:
+  absent:
+    - Brian
+  merits: 3
+
+7-1:
+  absent:
+    - Peter
+    - Louis
+  merits: 2
+
+7-2:
+  absent:
+    - Ivy1
+  merits: 2
+
+8-1:
+  absent:
+    - Grace
+  merits: 3
+
+answers:
+  1-1: 2
+  1-2: 1
+  2-1: 2
+  2-2: 2
+  3-1: 2
+  3-2: 3
+  4-1: 2
+  5-1: 2
+  5-2: 3
+  6-1: 1
+  6-2: 2
+  7-1: 1
+  7-2: 1
+  8-1: 2
