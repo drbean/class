@@ -1,0 +1,69 @@
+---
+activity:
+  blackh:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  abath:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  carlos-rocha:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+assistant:
+  1-2:
+    V0141053: 5
+    V0141054: 5
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: V0141059
+    Black: V0141060
+  1:
+    White: V0141038
+    Black: V0141051
+  2:
+    White: V0141048
+    Black: V0141061
+  3:
+    White: V0141052
+    Black: V0141049
+  4:
+    White: V0141037
+    Black: V0141041
+  5:
+    White: V0141050
+    Black: V0141055
+  6:
+    White: V0141036
+    Black: V9941077
+  7:
+    White: V0141046
+    Black: V0141058
+late:
+pairing: swiss
+payprotocol: meritPay 2
+round: 4
+text: /home/drbean/class/conversation/crime/cards.yaml
+week: 18

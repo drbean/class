@@ -1,0 +1,52 @@
+---
+round: Exam 2
+week: 18
+questions:
+  - 10
+pass: 6
+assistant:
+absent:
+text: /home/drbean/class/conversation/crime/cards.yaml
+activity:
+  blackh:
+    0:
+      - 1-2
+      - 3-2
+
+  abath:
+    0:
+      - 2-1
+      - 3-1
+
+  carlosrocha:
+    0:
+      - 1-1
+      - 2-2
+
+
+
+group:
+  1-1:
+    - Owen
+    - Wynn
+    - Sally
+  1-2:
+    - Lydia
+    - Abby
+    - Ivy2
+  2-1:
+    - Sunny
+    - Sara
+    - Joe
+  2-2:
+    - Luna
+    - Michelle
+    - Nora
+  3-1:
+    - Sam
+    - Amber
+    - Anja
+  3-2:
+    - Trista
+    - Zoe
+    - Jessica
