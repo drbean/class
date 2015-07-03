@@ -6,6 +6,7 @@ Chinese:
   2-2: 0
   3-1: 0
   3-2: 0
+  Sandy: 0
 letters:
   1-1:
     N02200032: 8
@@ -37,3 +38,8 @@ letters:
     N02200057: 4
     N02200016: 4
     story: happyperson0
+  Sandy:
+    N02200040: 7
+    N02200003: 9
+    N02200011: 9
+    story: ideology0
