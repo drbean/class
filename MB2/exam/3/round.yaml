@@ -7,14 +7,16 @@ pass: 6
 assistant:
   - Judy
   - JiaLing
+  - Yang
+  - Korsak
 absent:
-  - Sandy
   - YenHung
 text: /home/drbean/class/speaking/happiness/cards.yaml
 activity:
   ideology:
     0:
       - 3-1
+      - Sandy
   extremism:
     0:
       - 2-2
@@ -28,6 +30,10 @@ activity:
       - 1-2
 
 group:
+  Sandy:
+    - Yang
+    - Korsak
+    - Sandy
   1-1:
     - Jacky
     - Yang
