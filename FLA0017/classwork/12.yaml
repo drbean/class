@@ -1,0 +1,40 @@
+---
+topic: ward,clay?
+
+
+1-1:
+  absent:
+    - Anja
+  merits: 3
+
+1-2:
+  absent:
+    - Jessica
+    - Joe
+  merits: 3
+
+2-1:
+  absent:
+    - Amber
+  tardy:
+    - Joe
+  merits: 3
+
+2-2:
+  absent:
+    - Michelle
+  merits: 3
+
+3-1:
+  absent:
+    - Abby
+  merits: 3
+
+3-2:
+  absent:
+    - Lydia
+  merits: 3
+
+4-1:
+  absent:
+  merits: 3
