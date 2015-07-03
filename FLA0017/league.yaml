@@ -223,6 +223,17 @@ hwMax: 2
 id: 032FLA0017
 league: 夜應外三甲
 member:
+  - Chinese: 謝婕榆
+    id: V0141038
+    name: Jessica
+    password: jie
+    rating: ~
+  - Chinese: 徐郁惠
+    id: V0141051
+    name: Anja
+    password: yu
+    rating: ~
+
   - Chinese: 解雅婷
     id: V0141036
     name: Sally
@@ -313,16 +324,6 @@ out:
     id: V0141065
     name: Bunny
     password: ya
-    rating: ~
-  - Chinese: 謝婕榆
-    id: V0141038
-    name: Jessica
-    password: jie
-    rating: ~
-  - Chinese: 徐郁惠
-    id: V0141051
-    name: Anja
-    password: yu
     rating: ~
   - Chinese: 張晉嘉
     id: V0141006
