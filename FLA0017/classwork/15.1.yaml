@@ -1,0 +1,36 @@
+---
+topic: pigott
+
+
+1-1:
+  absent:
+  merits: 3
+
+1-2:
+  absent:
+  merits: 3
+
+2-1:
+  absent:
+  merits: 3
+
+2-2:
+  absent:
+    - Brian
+  merits: 3
+
+3-1:
+  absent:
+    - Peter
+    - Louis
+  merits: 3
+
+3-2:
+  absent:
+    - Ivy1
+  merits: 3
+
+4-1:
+  absent:
+    - Grace
+  merits: 3
