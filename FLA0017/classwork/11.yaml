@@ -1,0 +1,38 @@
+---
+topic: allen
+
+
+1-1:
+  absent:
+    - Sunny
+  merits: 3
+
+1-2:
+  absent:
+    - Joe
+  tardy:
+    - Sam
+  merits: 2.5
+
+2-1:
+  absent:
+  merits: 3
+
+2-2:
+  absent:
+    - Michelle
+  merits: 2.5
+
+3-1:
+  absent:
+    - Ivy2
+  merits: 3
+
+3-2:
+  absent:
+  merits: 3
+
+4-1:
+  absent:
+    - Owen
+  merits: 2
