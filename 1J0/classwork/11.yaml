@@ -1,36 +1,379 @@
 ---
-topic: memrise_AWL
 
-1-1,1-2,2-1,2-2,3-1,3-2,4-1,4-2,5-1,5-2,6-1,6-2,7-1,7-2,8-1,8-2,9-1,9-2,10-1,10-2,11-1,11-2,12-1
+1-1:
+  absent:
+  merits: 3
 
-1st     B03200050       22,318 1st     wendehua        22,318
-2nd     B03200092   21,703 2nd     LULULU_         21,703
-3rd     B03200083         21,544 3rd     JaneHsu         21,544
-4th     B03200094     21,057 4th     XiaoWei_Qiu     21,057
-5th     B03200029      20,220 5th     Cheney3514      20,220
-6th     B03200102       16,623 6th     YiXuan_Li       16,623
-7th     B03200032     16,565 7th     LiTing_Song     16,565
-8th     B03200098   16,336 8th     ZhangWeiZhong   16,336
-9th     B03200056      16,226 9th     YiXin_Jian      16,226
-10th    B03200071  15,162 10th    ZhangWanTingd1  15,162
-11th    B99110055       13,975 11th    XieRuZhen       13,975
-12th    B03200082      13,556 12th    MengWei_Wu      13,556
-13th    B03200078       13,077 13th    ZouPeiYun       13,077
-14th    LomuiAbu76      12,138 14th    LomuiAbu76      12,138
-15th    B03200046   11,904 15th    chi-yuan_Tien   11,904
-16th    B03200003      10,791 16th    ChenYaTing      10,791
-17th    B03200040       10,587 17th    XuYouZhen       10,587
-18th    B03200091       10,474 18th    XuJunMeng       10,474
-19th    B03200012       10,101 19th    CiuSianb4       10,101
-20th    B03200006        9,674  20th    ShiYuHui        9,674
-21st    B03200089      9,247  21st    Sunny_Yoc0      9,247
-22nd    B03200013    8,867  22nd    HongXiaoZhen    8,867
-23rd    B03200097       8,746  23rd    LinMarian       8,746
-24th    B03200087        8,677  24th    YangBiEr        8,677
-25th    B03200039    7,642  25th    LinHuiJuan38    7,642
-26th    B03200037       4,961  26th    JunRu_Fan       4,961
-27th    B03200018       4,460  27th    WuBeiChen       4,460
-28th    B03200034   2,819          28th    FuBan   2,819
-29th    B03200062     2,486  29th    LisaChanga9     2,486
-30th    B03200088  1,344  30th    Wenshin_Shih15  1,344
-31st    B03200054   732    31st    SongChengXuan   732
+1-2:
+  absent:
+    - James
+    - Cherry2
+  merits: 1
+
+2-1:
+  absent:
+  merits: 3
+
+2-2:
+  absent:
+    - Johnny
+    - Eason
+  merits: 1
+
+3-1:
+  absent:
+    - Grace
+  merits: 2
+
+3-2:
+  absent:
+  merits: 3
+
+4-1:
+  absent:
+    - Lilian
+  merits: 2
+
+4-2:
+  absent:
+    - Demi
+    - Cathy
+  merits: 1
+
+5-1:
+  absent:
+  merits: 3
+
+5-2:
+  absent:
+    - Connie
+  merits: 2
+
+6-1:
+  absent:
+    - Cindy
+    - Sharon
+  merits: 1
+
+6-2:
+  absent:
+  merits: 2
+
+7-1:
+  absent:
+  merits: 3
+
+7-2:
+  absent:
+  merits: 3
+
+ungrouped:
+  merits: 0
+
+Absent:
+  merits: 0
+
+grade:
+  B01202104: 0
+  B01202106: 0
+  B03200002: 0
+  B03200003: 3.53367952522255
+  B03200004: 0
+  B03200006: 3.4784371909001
+  B03200012: 3.49955489614243
+  B03200013: 3.43852621167161
+  B03200018: 3.22057368941642
+  B03200019: 0
+  B03200023: 0
+  B03200029: 4
+  B03200031: 0
+  B03200032: 3.81923837784372
+  B03200034: 3.13941641938675
+  B03200037: 3.24535113748764
+  B03200039: 3.37794263105836
+  B03200040: 3.52359050445104
+  B03200042: 0
+  B03200045: 0
+  B03200046: 3.58872403560831
+  B03200050: 5
+  B03200052: 0
+  B03200054: 3.03620178041543
+  B03200056: 3.8024727992087
+  B03200058: 0
+  B03200060: 0
+  B03200062: 3.12294757665678
+  B03200063: 0
+  B03200064: 0
+  B03200071: 3.74985163204748
+  B03200072: 0
+  B03200074: 0
+  B03200078: 3.64673590504451
+  B03200080: 0
+  B03200082: 3.6704253214639
+  B03200083: 4.63107721639657
+  B03200084: 0
+  B03200087: 3.42912957467854
+  B03200088: 3.06646884272997
+  B03200089: 3.45731948565776
+  B03200091: 3.51800197823937
+  B03200092: 4.70686367969495
+  B03200093: 0
+  B03200094: 4.39895138226883
+  B03200097: 3.43254203758655
+  B03200098: 3.80791295746785
+  B03200102: 3.82210682492582
+  B03200104: 0
+  B03200106: 0
+  B03200109: 0
+  B03200110: 0
+  B99110055: 3.69114737883284
+points:
+  B01202104:
+    name: ~
+    number: ~
+    rank: ~
+  B01202106:
+    name: ~
+    number: ~
+    rank: ~
+  B03200002:
+    name: ~
+    number: ~
+    rank: ~
+  B03200003:
+    name: ChenYaTing
+    number: 10791
+    rank: 16th
+  B03200004:
+    name: ~
+    number: ~
+    rank: ~
+  B03200006:
+    name: ShiYuHui
+    number: 9674
+    rank: 20th
+  B03200012:
+    name: CiuSianb4
+    number: 10101
+    rank: 19th
+  B03200013:
+    name: HongXiaoZhen
+    number: 8867
+    rank: 22nd
+  B03200018:
+    name: WuBeiChen
+    number: 4460
+    rank: 27th
+  B03200019:
+    name: ~
+    number: ~
+    rank: ~
+  B03200023:
+    name: ~
+    number: ~
+    rank: ~
+  B03200029:
+    name: Cheney3514
+    number: 20220
+    rank: 5th
+  B03200031:
+    name: ~
+    number: ~
+    rank: ~
+  B03200032:
+    name: LiTing_Song
+    number: 16565
+    rank: 7th
+  B03200034:
+    name: FuBan
+    number: 2819
+    rank: 28th
+  B03200037:
+    name: JunRu_Fan
+    number: 4961
+    rank: 26th
+  B03200039:
+    name: LinHuiJuan38
+    number: 7642
+    rank: 25th
+  B03200040:
+    name: XuYouZhen
+    number: 10587
+    rank: 17th
+  B03200042:
+    name: ~
+    number: ~
+    rank: ~
+  B03200045:
+    name: ~
+    number: ~
+    rank: ~
+  B03200046:
+    name: chi-yuan_Tien
+    number: 11904
+    rank: 15th
+  B03200050:
+    name: wendehua
+    number: 22318
+    rank: 1st
+  B03200052:
+    name: ~
+    number: ~
+    rank: ~
+  B03200054:
+    name: SongChengXuan
+    number: 732
+    rank: 31st
+  B03200056:
+    name: YiXin_Jian
+    number: 16226
+    rank: 9th
+  B03200058:
+    name: ~
+    number: ~
+    rank: ~
+  B03200060:
+    name: ~
+    number: ~
+    rank: ~
+  B03200062:
+    name: LisaChanga9
+    number: 2486
+    rank: 29th
+  B03200063:
+    name: ~
+    number: ~
+    rank: ~
+  B03200064:
+    name: ~
+    number: ~
+    rank: ~
+  B03200071:
+    name: ZhangWanTingd1
+    number: 15162
+    rank: 10th
+  B03200072:
+    name: ~
+    number: ~
+    rank: ~
+  B03200074:
+    name: ~
+    number: ~
+    rank: ~
+  B03200078:
+    name: ZouPeiYun
+    number: 13077
+    rank: 13th
+  B03200080:
+    name: ~
+    number: ~
+    rank: ~
+  B03200082:
+    name: MengWei_Wu
+    number: 13556
+    rank: 12th
+  B03200083:
+    name: JaneHsu
+    number: 21544
+    rank: 3rd
+  B03200084:
+    name: ~
+    number: ~
+    rank: ~
+  B03200087:
+    name: YangBiEr
+    number: 8677
+    rank: 24th
+  B03200088:
+    name: Wenshin_Shih15
+    number: 1344
+    rank: 30th
+  B03200089:
+    name: Sunny_Yoc0
+    number: 9247
+    rank: 21st
+  B03200091:
+    name: XuJunMeng
+    number: 10474
+    rank: 18th
+  B03200092:
+    name: LULULU_
+    number: 21703
+    rank: 2nd
+  B03200093:
+    name: ~
+    number: ~
+    rank: ~
+  B03200094:
+    name: XiaoWei_Qiu
+    number: 21057
+    rank: 4th
+  B03200097:
+    name: LinMarian
+    number: 8746
+    rank: 23rd
+  B03200098:
+    name: ZhangWeiZhong
+    number: 16336
+    rank: 8th
+  B03200102:
+    name: YiXuan_Li
+    number: 16623
+    rank: 6th
+  B03200104:
+    name: ~
+    number: ~
+    rank: ~
+  B03200106:
+    name: ~
+    number: ~
+    rank: ~
+  B03200109:
+    name: ~
+    number: ~
+    rank: ~
+  B03200110:
+    name: ~
+    number: ~
+    rank: ~
+  B99110055:
+    name: XieRuZhen
+    number: 13975
+    rank: 11th
+report: |
+  ---
+  topic: memrise_AWL
+  
+  1-1,1-2,2-1,2-2,3-1,3-2,4-1,4-2,5-1,5-2,6-1,6-2,7-1,7-2,8-1,8-2,9-1,9-2,10-1,10-2,11-1,11-2,12-1
+  
+  1st     B03200050       22,318 1st     wendehua        22,318
+  2nd     B03200092   21,703 2nd     LULULU_         21,703
+  3rd     B03200083         21,544 3rd     JaneHsu         21,544
+  4th     B03200094     21,057 4th     XiaoWei_Qiu     21,057
+  5th     B03200029      20,220 5th     Cheney3514      20,220
+  6th     B03200102       16,623 6th     YiXuan_Li       16,623
+  7th     B03200032     16,565 7th     LiTing_Song     16,565
+  8th     B03200098   16,336 8th     ZhangWeiZhong   16,336
+  9th     B03200056      16,226 9th     YiXin_Jian      16,226
+  10th    B03200071  15,162 10th    ZhangWanTingd1  15,162
+  11th    B99110055       13,975 11th    XieRuZhen       13,975
+  12th    B03200082      13,556 12th    MengWei_Wu      13,556
+  13th    B03200078       13,077 13th    ZouPeiYun       13,077
+  14th    LomuiAbu76      12,138 14th    LomuiAbu76      12,138
+  15th    B03200046   11,904 15th    chi-yuan_Tien   11,904
+  16th    B03200003      10,791 16th    ChenYaTing      10,791
+  17th    B03200040       10,587 17th    XuYouZhen       10,587
+  18th    B03200091       10,474 18th    XuJunMeng       10,474
+  19th    B03200012       10,101 19th    CiuSianb4       10,101
+  20th    B03200006        9,674  20th    ShiYuHui        9,674
+  21st    B03200089      9,247  21st    Sunny_Yoc0      9,247
+  22nd    B03200013    8,867  22nd    HongXiaoZhen    8,867
+  23rd    B03200097       8,746  23rd    LinMarian       8,746
+  24th    B03200087        8,677  24th    YangBiEr        8,677
+  25th    B03200039    7,642  25th    LinHuiJuan38    7,642
+  26th    B03200037       4,961  26th    JunRu_Fan       4,961
+  27th    B03200018       4,460  27th    WuBeiChen       4,460
+  28th    B03200034   2,819          28th    FuBan   2,819
+  29th    B03200062     2,486  29th    LisaChanga9     2,486
+  30th    B03200088  1,344  30th    Wenshin_Shih15  1,344
+  31st    B03200054   732    31st    SongChengXuan   732
