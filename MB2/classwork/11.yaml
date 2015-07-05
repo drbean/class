@@ -26,7 +26,7 @@ topic: politics
   absent:
     - Honey
   tardy:
-    Mao
+    - Mao
   merits: 3
 
 3-2:
