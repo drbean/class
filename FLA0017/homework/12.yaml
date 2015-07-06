@@ -6,11 +6,13 @@ exercise: ward
 grade:
   V0141036: 0.96
   V0141037: 2
+  V0141038: 1.64
   V0141041: 2
   V0141046: 0.4
   V0141048: 2
   V0141049: 2
   V0141050: 2
+  V0141051: 0.54
   V0141052: 2
   V0141053: 2
   V0141054: 1.86
@@ -27,6 +29,9 @@ points:
   V0141037:
     letters: 126
     percent: 100
+  V0141038:
+    letters: 101
+    percent: 82
   V0141041:
     letters: 113
     percent: 100
@@ -42,6 +47,9 @@ points:
   V0141050:
     letters: 110
     percent: 100
+  V0141051:
+    letters: 38
+    percent: 27
   V0141052:
     letters: 138
     percent: 100
