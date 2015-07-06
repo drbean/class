@@ -1,0 +1,82 @@
+---
+topic: gourlay-1
+
+
+1-1:
+  absent:
+  merits: 3
+
+1-2:
+  absent:
+    - Michelle
+  merits: 2.5
+
+2-1:
+  absent:
+  merits: 3
+
+2-2:
+  absent:
+  merits: 3
+
+3-1:
+  absent:
+    - Ada
+    - Iris
+    - Peter
+  merits: 0
+
+3-2:
+  absent:
+    - Brian
+    - Mark
+  merits: 3
+
+4-1:
+  absent:
+    Vicky
+  merits: 3
+
+4-2:
+  absent:
+    - Vera
+    - MengShiung
+  merits: 2
+
+5-1:
+  absent:
+    - Joanne
+  merits: 2.5
+
+5-2:
+  absent:
+  merits: 2.5
+
+6-1:
+  absent:
+  merits: 2.5
+
+6-2:
+  absent:
+    - Nini
+  merits: 2.5
+
+7-1:
+  absent:
+  merits: 3
+
+7-2:
+  absent:
+  merits: 2.5
+
+8-1:
+  absent:
+  merits: 2.5
+
+8-2:
+  absent:
+  merits: 2.5
+
+9-1:
+  absent:
+  merits: 2
