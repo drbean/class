@@ -6,11 +6,13 @@ exercise: clay
 grade:
   V0141036: 1.64
   V0141037: 2
+  V0141038: 1.78
   V0141041: 1.92
   V0141046: 1.5
   V0141048: 2
   V0141049: 2
   V0141050: 2
+  V0141051: 0.84
   V0141052: 2
   V0141053: 2
   V0141054: 1.94
@@ -27,6 +29,9 @@ points:
   V0141037:
     letters: 148
     percent: 100
+  V0141038:
+    letters: 116
+    percent: 89
   V0141041:
     letters: 134
     percent: 96
@@ -42,6 +47,9 @@ points:
   V0141050:
     letters: 154
     percent: 100
+  V0141051:
+    letters: 61
+    percent: 42
   V0141052:
     letters: 131
     percent: 100
