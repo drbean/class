@@ -1,0 +1,314 @@
+---
+topic: conflict
+
+
+1-1:
+  absent:
+  merits: 3
+
+1-2:
+  absent:
+  merits: 2
+
+2-1:
+  absent:
+  merits: 2.5
+
+2-2:
+  absent:
+  merits: 3
+
+3-1:
+  absent:
+  merits: 3
+
+3-2:
+  absent:
+  merits: 3
+
+4-1:
+  absent:
+  merits: 2.5
+
+4-2:
+  absent:
+  merits: 2.5
+
+5-1:
+  absent:
+  merits: 3
+
+5-2:
+  absent:
+  merits: 2.5
+
+6-1:
+  absent:
+  merits: 2.5
+
+6-2:
+  absent:
+  merits: 2
+
+7-1:
+  absent:
+  merits: 2.5
+
+7-2:
+  absent:
+  merits: 2.5
+
+8-1:
+  absent:
+  merits: 2.5
+
+8-2:
+  absent:
+  merits: 2.5
+
+9-1:
+  absent:
+  merits: 2
+
+texts:
+  - 
+answers:
+  1-1:
+  1-2:
+  2-1:
+  2-2:
+  3-1:
+  3-2:
+  4-1:
+  4-2:
+  5-1:
+  5-2:
+  6-1:
+  6-2:
+  7-1:
+  7-2:
+  8-1:
+  8-2:
+  9-1:
+report:
+  Table 1:
+    A:
+      1: 
+        1-1: Bruce
+      winner: ~
+    B:
+      1: 
+        1-1: Trista
+      winner: ~
+    C:
+      1: 
+        1-1: Nora
+      winner: ~
+  Table 2:
+    A:
+      3: 
+        1-2: Michelle
+      winner: ~
+    B:
+      3: 
+        1-2: Nini
+      winner: ~
+    C:
+      3: 
+        1-2: Uta
+      winner: ~
+  Table 3:
+    A:
+      5: 
+        2-1: Leon
+      winner: ~
+    B:
+      5: 
+        2-1: Owen
+      winner: ~
+    C:
+      5: 
+        2-1: Jimmy
+      winner: ~
+  Table 4:
+    A:
+      7: 
+        2-2: Ada
+      winner: ~
+    B:
+      7: 
+        2-2: ALin
+      winner: ~
+    C:
+      7: 
+        2-2: Wynn
+      winner: ~
+  Table 5:
+    A:
+      9: 
+        3-1: Brian
+      winner: ~
+    B:
+      9: 
+        3-1: Grace
+      winner: ~
+    C:
+      9: 
+        3-1: Sunny
+      winner: ~
+  Table 6:
+    A:
+      11: 
+        3-2: Jane
+      winner: ~
+    B:
+      11: 
+        3-2: Mark
+      winner: ~
+    C:
+      11: 
+        3-2: Ula
+      winner: ~
+  Table 7:
+    A:
+      13: 
+        4-1: Vera
+      winner: ~
+    B:
+      13: 
+        4-1: Iris
+      winner: ~
+    C:
+      13: 
+        4-1: Peter
+      winner: ~
+  Table 8:
+    A:
+      15: 
+        4-2: Vam
+      winner: ~
+    B:
+      15: 
+        4-2: Willy
+      winner: ~
+    C:
+      15: 
+        4-2: Anthony
+      winner: ~
+  Table 9:
+    A:
+      17: 
+        5-1: Sing
+      winner: ~
+    B:
+      17: 
+        5-1: Vicky
+      winner: ~
+    C:
+      17: 
+        5-1: Ivy2
+      winner: ~
+  Table 10:
+    A:
+      19: 
+        5-2: Jessica
+      winner: ~
+    B:
+      19: 
+        5-2: Zoe
+      winner: ~
+    C:
+      19: 
+        5-2: Tony
+      winner: ~
+  Table 11:
+    A:
+      21: 
+        6-1: Stephanie
+      winner: ~
+    B:
+      21: 
+        6-1: Amber
+      winner: ~
+    C:
+      21: 
+        6-1: Danny
+      winner: ~
+  Table 12:
+    A:
+      23: 
+        6-2: Sandy
+      winner: ~
+    B:
+      23: 
+        6-2: Luna
+      winner: ~
+    C:
+      23: 
+        6-2: Kitty
+      winner: ~
+  Table 13:
+    A:
+      25: 
+        7-1: Carol
+      winner: ~
+    B:
+      25: 
+        7-1: Ivy1
+      winner: ~
+    C:
+      25: 
+        7-1: Sara
+      winner: ~
+  Table 14:
+    A:
+      27: 
+        7-2: Abby
+      winner: ~
+    B:
+      27: 
+        7-2: MengShiung
+      winner: ~
+    C:
+      27: 
+        7-2: Sam
+      winner: ~
+  Table 15:
+    A:
+      29: 
+        8-1: Winny
+      winner: ~
+    B:
+      29: 
+        8-1: Vivi
+      winner: ~
+    C:
+      29: 
+        8-1: Darnell
+      winner: ~
+  Table 16:
+    A:
+      31: 
+        8-2: Lydia
+      winner: ~
+    B:
+      31: 
+        8-2: Camuel
+      winner: ~
+    C:
+      31: 
+        8-2: Joanne
+      winner: ~
+  Table 17:
+    A:
+      33: 
+        9-1: Emma
+      winner: ~
+    B:
+      33: 
+        9-1: Brenda
+      winner: ~
+    C:
+      33: 
+        9-1: Sally
+      winner: ~
