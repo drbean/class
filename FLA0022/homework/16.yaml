@@ -1,0 +1,211 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: knoowit
+grade:
+  V0016058: 0
+  V0041005: 0
+  V0041012: 2
+  V0041015: 0.62
+  V0041046: 2
+  V0041047: 0.36
+  V0041055: 1.88
+  V0041058: 2
+  V0041062: 0
+  V0041064: 0
+  V0041066: 0
+  V0141002: 2
+  V0141003: 0.74
+  V0141008: 2
+  V0141009: 2
+  V0141011: 0
+  V0141012: 1.88
+  V0141016: 2
+  V0141017: 2
+  V0141018: 2
+  V0141021: 1.98
+  V0141022: 2
+  V0141023: 1.24
+  V0141025: 0.7
+  V0141026: 0.8
+  V0141028: 1.12
+  V0141029: 1.14
+  V0141035: 0
+  V0141036: 1.24
+  V0141037: 2
+  V0141038: 0
+  V0141041: 1.96
+  V0141046: 1.92
+  V0141048: 2
+  V0141049: 2
+  V0141050: 1.98
+  V0141052: 1.92
+  V0141053: 1.98
+  V0141054: 1.5
+  V0141055: 1.92
+  V0141058: 2
+  V0141059: 1.96
+  V0141060: 1.1
+  V0141061: 2
+  V0141064: 1.96
+  V9741022: 2
+  V9941014: 2
+  V9941060: 0
+  V9941065: 0
+  V9941075: 2
+  V9941076: 2
+points:
+  V0016058:
+    letters: 0
+    percent: 0
+  V0041005:
+    letters: 0
+    percent: 0
+  V0041012:
+    letters: 238
+    percent: 100
+  V0041015:
+    letters: 85
+    percent: 31
+  V0041046:
+    letters: 237
+    percent: 100
+  V0041047:
+    letters: 46
+    percent: 18
+  V0041055:
+    letters: 231
+    percent: 94
+  V0041058:
+    letters: 243
+    percent: 100
+  V0041062:
+    letters: 0
+    percent: 0
+  V0041064:
+    letters: 0
+    percent: 0
+  V0041066:
+    letters: 0
+    percent: 0
+  V0141002:
+    letters: 228
+    percent: 100
+  V0141003:
+    letters: 101
+    percent: 37
+  V0141008:
+    letters: 240
+    percent: 100
+  V0141009:
+    letters: 223
+    percent: 100
+  V0141011:
+    letters: 0
+    percent: 0
+  V0141012:
+    letters: 247
+    percent: 94
+  V0141016:
+    letters: 231
+    percent: 100
+  V0141017:
+    letters: 246
+    percent: 100
+  V0141018:
+    letters: 261
+    percent: 100
+  V0141021:
+    letters: 234
+    percent: 99
+  V0141022:
+    letters: 226
+    percent: 100
+  V0141023:
+    letters: 146
+    percent: 62
+  V0141025:
+    letters: 82
+    percent: 35
+  V0141026:
+    letters: 104
+    percent: 40
+  V0141028:
+    letters: 126
+    percent: 56
+  V0141029:
+    letters: 149
+    percent: 57
+  V0141035:
+    letters: 0
+    percent: 0
+  V0141036:
+    letters: 136
+    percent: 62
+  V0141037:
+    letters: 228
+    percent: 100
+  V0141038:
+    letters: 0
+    percent: 0
+  V0141041:
+    letters: 252
+    percent: 98
+  V0141046:
+    letters: 229
+    percent: 96
+  V0141048:
+    letters: 260
+    percent: 100
+  V0141049:
+    letters: 231
+    percent: 100
+  V0141050:
+    letters: 255
+    percent: 99
+  V0141052:
+    letters: 220
+    percent: 96
+  V0141053:
+    letters: 227
+    percent: 99
+  V0141054:
+    letters: 177
+    percent: 75
+  V0141055:
+    letters: 235
+    percent: 96
+  V0141058:
+    letters: 225
+    percent: 100
+  V0141059:
+    letters: 227
+    percent: 98
+  V0141060:
+    letters: 119
+    percent: 55
+  V0141061:
+    letters: 247
+    percent: 100
+  V0141064:
+    letters: 258
+    percent: 98
+  V9741022:
+    letters: 247
+    percent: 100
+  V9941014:
+    letters: 209
+    percent: 100
+  V9941060:
+    letters: 0
+    percent: 0
+  V9941065:
+    letters: 0
+    percent: 0
+  V9941075:
+    letters: 238
+    percent: 100
+  V9941076:
+    letters: 244
+    percent: 100
