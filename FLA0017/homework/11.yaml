@@ -6,11 +6,13 @@ exercise: allen
 grade:
   V0141036: 1.18
   V0141037: 1.94
+  V0141038: 1.86
   V0141041: 2
   V0141046: 1.2
   V0141048: 2
   V0141049: 2
   V0141050: 2
+  V0141051: 0.54
   V0141052: 2
   V0141053: 2
   V0141054: 1.94
@@ -27,6 +29,9 @@ points:
   V0141037:
     letters: 147
     percent: 97
+  V0141038:
+    letters: 129
+    percent: 93
   V0141041:
     letters: 142
     percent: 100
@@ -42,6 +47,9 @@ points:
   V0141050:
     letters: 151
     percent: 100
+  V0141051:
+    letters: 41
+    percent: 27
   V0141052:
     letters: 133
     percent: 100
