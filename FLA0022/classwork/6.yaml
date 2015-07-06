@@ -34,7 +34,7 @@ topic: gourlay-1
 
 4-1:
   absent:
-    Vicky
+    - Vicky
   merits: 3
 
 4-2:
