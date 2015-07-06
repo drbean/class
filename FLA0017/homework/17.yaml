@@ -1,0 +1,79 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: carlos-rocha
+grade:
+  V0141036: 1.1
+  V0141037: 2
+  V0141038: 0
+  V0141041: 2
+  V0141046: 2
+  V0141048: 2
+  V0141049: 2
+  V0141050: 2
+  V0141051: 0.92
+  V0141052: 2
+  V0141053: 2
+  V0141054: 1.04
+  V0141055: 1.68
+  V0141058: 2
+  V0141059: 2
+  V0141060: 0
+  V0141061: 2
+  V9941077: 2
+points:
+  V0141036:
+    letters: 82
+    percent: 55
+  V0141037:
+    letters: 136
+    percent: 100
+  V0141038:
+    letters: 0
+    percent: 0
+  V0141041:
+    letters: 104
+    percent: 100
+  V0141046:
+    letters: 117
+    percent: 100
+  V0141048:
+    letters: 131
+    percent: 100
+  V0141049:
+    letters: 109
+    percent: 100
+  V0141050:
+    letters: 130
+    percent: 100
+  V0141051:
+    letters: 51
+    percent: 46
+  V0141052:
+    letters: 132
+    percent: 100
+  V0141053:
+    letters: 116
+    percent: 100
+  V0141054:
+    letters: 58
+    percent: 52
+  V0141055:
+    letters: 102
+    percent: 84
+  V0141058:
+    letters: 117
+    percent: 100
+  V0141059:
+    letters: 145
+    percent: 100
+  V0141060:
+    letters: 0
+    percent: 0
+  V0141061:
+    letters: 117
+    percent: 100
+  V9941077:
+    letters: 113
+    percent: 100
