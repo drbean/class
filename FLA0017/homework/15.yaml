@@ -1,316 +1,79 @@
 ---
 cutpoints:
-  loser: ~
-  quitter: ~
-  winner: ~
-exercise: clay
+  one: ~
+  two: ~
+exercise: blackh
 grade:
-  V0041022: 0
-  V0041040: 0
-  V0041055: 0
-  V0141001: 0
-  V0141002: ~
-  V0141003: 0
-  V0141008: 3
-  V0141009: 3
-  V0141011: 0
-  V0141012: 0
-  V0141016: 3
-  V0141017: ~
-  V0141018: 3
-  V0141019: ~
-  V0141021: 3
-  V0141022: 0
-  V0141023: 0
-  V0141025: 0
-  V0141026: 0
-  V0141028: 0
-  V0141029: ~
-  V0141035: ~
+  V0141036: 1.34
+  V0141037: 2
+  V0141038: 0
+  V0141041: 2
+  V0141046: 1.98
+  V0141048: 2
+  V0141049: 2
+  V0141050: 2
+  V0141051: 0.66
+  V0141052: 2
+  V0141053: 2
+  V0141054: 1.06
+  V0141055: 1.56
+  V0141058: 2
+  V0141059: 2
+  V0141060: 2
+  V0141061: 2
+  V9941077: 2
 points:
-  V0041022:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Tag:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V0041040:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Tag:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V0041055:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Tag:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V0141001:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Tag:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V0141002:
-    Wh:
-      answers: 1
-      questions: -991
-      attempts: 13
-    Yn:
-      answers: 8
-      questions: -981
-      attempts: 44
-    Tag:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V0141003:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Tag:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V0141008:
-    Wh:
-      answers: 0
-      questions: -992
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: -994
-      attempts: 0
-    Tag:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V0141009:
-    Wh:
-      answers: 0
-      questions: -992
-      attempts: 0
-    Yn:
-      answers: 2
-      questions: -991
-      attempts: 8
-    Tag:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V0141011:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Tag:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V0141012:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Tag:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V0141016:
-    Wh:
-      answers: 0
-      questions: -992
-      attempts: 7
-    Yn:
-      answers: 2
-      questions: -990
-      attempts: 13
-    Tag:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V0141017:
-    Wh:
-      answers: 1
-      questions: -991
-      attempts: 3
-    Yn:
-      answers: 4
-      questions: -986
-      attempts: 19
-    Tag:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V0141018:
-    Wh:
-      answers: 0
-      questions: -992
-      attempts: 10
-    Yn:
-      answers: 2
-      questions: -991
-      attempts: 35
-    Tag:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V0141019:
-    Wh:
-      answers: 0
-      questions: -992
-      attempts: 0
-    Yn:
-      answers: 8
-      questions: -986
-      attempts: 12
-    Tag:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V0141021:
-    Wh:
-      answers: 0
-      questions: -992
-      attempts: 8
-    Yn:
-      answers: 1
-      questions: -993
-      attempts: 1
-    Tag:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V0141022:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Tag:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V0141023:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Tag:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V0141025:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Tag:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V0141026:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Tag:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V0141028:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Tag:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V0141029:
-    Wh:
-      answers: 0
-      questions: -992
-      attempts: 0
-    Yn:
-      answers: 3
-      questions: -986
-      attempts: 32
-    Tag:
-      answers: 0
-      questions: 0
-      attempts: 0
-  V0141035:
-    Wh:
-      answers: 4
-      questions: -988
-      attempts: 19
-    Yn:
-      answers: 1
-      questions: -992
-      attempts: 7
-    Tag:
-      answers: 0
-      questions: 0
-      attempts: 0
+  V0141036:
+    letters: 106
+    percent: 67
+  V0141037:
+    letters: 153
+    percent: 100
+  V0141038:
+    letters: 0
+    percent: 0
+  V0141041:
+    letters: 136
+    percent: 100
+  V0141046:
+    letters: 135
+    percent: 99
+  V0141048:
+    letters: 155
+    percent: 100
+  V0141049:
+    letters: 152
+    percent: 100
+  V0141050:
+    letters: 131
+    percent: 100
+  V0141051:
+    letters: 46
+    percent: 33
+  V0141052:
+    letters: 149
+    percent: 100
+  V0141053:
+    letters: 164
+    percent: 100
+  V0141054:
+    letters: 82
+    percent: 53
+  V0141055:
+    letters: 113
+    percent: 78
+  V0141058:
+    letters: 138
+    percent: 100
+  V0141059:
+    letters: 147
+    percent: 100
+  V0141060:
+    letters: 134
+    percent: 100
+  V0141061:
+    letters: 141
+    percent: 100
+  V9941077:
+    letters: 154
+    percent: 100
