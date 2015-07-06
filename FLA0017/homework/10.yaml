@@ -6,11 +6,13 @@ exercise: goetz
 grade:
   V0141036: 1.36
   V0141037: 2
+  V0141038: 2
   V0141041: 2
   V0141046: 0.98
   V0141048: 2
   V0141049: 1.94
   V0141050: 2
+  V0141051: 1.06
   V0141052: 2
   V0141053: 2
   V0141054: 1.98
@@ -27,6 +29,9 @@ points:
   V0141037:
     letters: 160
     percent: 100
+  V0141038:
+    letters: 164
+    percent: 100
   V0141041:
     letters: 146
     percent: 100
@@ -42,6 +47,9 @@ points:
   V0141050:
     letters: 164
     percent: 100
+  V0141051:
+    letters: 84
+    percent: 53
   V0141052:
     letters: 154
     percent: 100
