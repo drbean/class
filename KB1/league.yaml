@@ -1,0 +1,156 @@
+---
+absent: ~
+anterior: 041AFN2MB1
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 基礎英文寫作(一)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 041AFN2KB1
+jigsaw: exam
+league: NAF021__四技外二甲
+member:
+  - Chinese: 郭子菁
+    id: N03080070
+    name: 郭子菁
+    password: zi
+    rating: ~
+  - Chinese: 陳翎軒
+    id: N03200001
+    name: 陳翎軒
+    password: ling
+    rating: ~
+  - Chinese: 曾美梅
+    id: N03200004
+    name: 曾美梅
+    password: mei
+    rating: ~
+  - Chinese: 鄧如芸
+    id: N03200006
+    name: 鄧如芸
+    password: ru
+    rating: ~
+  - Chinese: 王顥臻
+    id: N03200008
+    name: 王顥臻
+    password: hao
+    rating: ~
+  - Chinese: 江宜蓁
+    id: N03200010
+    name: 江宜蓁
+    password: yi
+    rating: ~
+  - Chinese: 連苡伶
+    id: N03200012
+    name: 連苡伶
+    password: yi
+    rating: ~
+  - Chinese: 鄭又元
+    id: N03200014
+    name: 鄭又元
+    password: you
+    rating: ~
+  - Chinese: 宋柏賢
+    id: N03200018
+    name: 宋柏賢
+    password: bai
+    rating: ~
+  - Chinese: 林毓斌
+    id: N03200020
+    name: 林毓斌
+    password: yu
+    rating: ~
+  - Chinese: 楊峻瑋
+    id: N03200022
+    name: 楊峻瑋
+    password: jun
+    rating: ~
+  - Chinese: 林嘉莉
+    id: N03200025
+    name: 林嘉莉
+    password: jia
+    rating: ~
+  - Chinese: 陳沚瑩
+    id: N03200027
+    name: 陳沚瑩
+    password: zhi
+    rating: ~
+  - Chinese: 潘韻宇
+    id: N03200030
+    name: 潘韻宇
+    password: yun
+    rating: ~
+  - Chinese: 萬筱微
+    id: N03200034
+    name: 萬筱微
+    password: xiao
+    rating: ~
+  - Chinese: 陳桂益
+    id: N03200036
+    name: 陳桂益
+    password: gui
+    rating: ~
+  - Chinese: 鄭凱豪
+    id: N03200038
+    name: 鄭凱豪
+    password: kai
+    rating: ~
+  - Chinese: 許晏甄
+    id: N04202101
+    name: 許晏甄
+    password: yan
+    rating: ~
+  - Chinese: 陳季柔
+    id: N04202103
+    name: 陳季柔
+    password: ji
+    rating: ~
+  - Chinese: 黃冠潔
+    id: N04202105
+    name: 黃冠潔
+    password: guan
+    rating: ~
+  - Chinese: 張庭瑄
+    id: N04202107
+    name: 張庭瑄
+    password: ting
+    rating: ~
+  - Chinese: 楊竣傑
+    id: N04202109
+    name: 楊竣傑
+    password: jun
+    rating: ~
+  - Chinese: 葛俊廷
+    id: N04202111
+    name: 葛俊廷
+    password: jun
+    rating: ~
+  - Chinese: 何佳儒
+    id: N04202113
+    name: 何佳儒
+    password: jia
+    rating: ~
+out: ~
+room: A705
+school: must
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 1
+  2: 5
+  3: 10
+  4: 14
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
