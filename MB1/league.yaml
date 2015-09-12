@@ -15,6 +15,21 @@ id: 041AFN2MB1
 jigsaw: exam
 league: NAF021四技外二甲
 member:
+  - Chinese: 陳怡真
+    id: N01200048
+    name: 陳怡真
+    password: yi
+    rating: ~
+  - Chinese: 徐銘謙
+    id: N02202201
+    name: 徐銘謙
+    password: ming
+    rating: ~
+  - Chinese: 蔡欣祐
+    id: N03203105
+    name: 蔡欣祐
+    password: xin
+    rating: ~
   - Chinese: 郭子菁
     id: N03080070
     name: 郭子菁
@@ -95,20 +110,10 @@ member:
     name: 陳桂益
     password: gui
     rating: ~
-  - Chinese: 鄭凱豪
-    id: N03200038
-    name: 鄭凱豪
-    password: kai
-    rating: ~
   - Chinese: 許晏甄
     id: N04202101
     name: 許晏甄
     password: yan
-    rating: ~
-  - Chinese: 陳季柔
-    id: N04202103
-    name: 陳季柔
-    password: ji
     rating: ~
   - Chinese: 黃冠潔
     id: N04202105
@@ -135,7 +140,7 @@ member:
     name: 何佳儒
     password: jia
     rating: ~
-out:
+out: ~
 room: A705
 school: must
 scores:
