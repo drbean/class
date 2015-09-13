@@ -15,6 +15,36 @@ id: 041AFB2L1
 jigsaw: exam
 league: BAF022_四技應外二乙
 member:
+  - Chinese: 趙升文
+    id: B01130056
+    name: 趙升文
+    password: sheng
+    rating: ~
+  - Chinese: 黃婉晴
+    id: B01080096
+    name: 黃婉晴
+    password: wan
+    rating: ~
+  - Chinese: 洪嘉翎
+    id: B02200062
+    name: Trista
+    password: jia
+    rating: ~
+  - Chinese: 廖婉廷
+    id: B02200064
+    name: 廖婉廷
+    password: wan
+    rating: ~
+  - Chinese: 林柏彤
+    id: B02200086
+    name: Mia
+    password: bai
+    rating: ~
+  - Chinese: 姜瀚威
+    id: B02200098
+    name: Wade
+    password: han
+    rating: ~
   - Chinese: 廖珈瑩
     id: B03200005
     name: 廖珈瑩
@@ -130,7 +160,7 @@ member:
     name: 黃曉雯
     password: xiao
     rating: ~
-out:
+out: ~
 room: A705
 school: must
 scores:
