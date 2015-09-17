@@ -45,11 +45,6 @@ member:
     name: Josh
     password: yan
     rating: ~
-  - Chinese: 吳思賢
-    id: V0241017
-    name: Andy
-    password: si
-    rating: ~
   - Chinese: 王覲
     id: V0241020
     name: Jimmy
@@ -161,6 +156,11 @@ member:
     password: wei
     rating: ~
 out:
+  - Chinese: 吳思賢
+    id: V0241017
+    name: Andy
+    password: si
+    rating: ~
 room: A705
 school: nuu
 session:
