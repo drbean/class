@@ -15,141 +15,107 @@ id: 041AFN2KB1
 jigsaw: exam
 league: NAF021__四技外二甲
 member:
-  - Chinese: 陳怡真
-    id: N01200048
-    name: 陳怡真
-    password: yi
+  - Chinese: 孫柏皓
+    id: N02202105
+    name: BoHao
+    password: bo
     rating: ~
-  - Chinese: 徐銘謙
-    id: N02202201
-    name: 徐銘謙
-    password: ming
-    rating: ~
-  - Chinese: 蔡欣祐
-    id: N03203105
-    name: 蔡欣祐
-    password: xin
-    rating: ~
-  - Chinese: 曾郁芝
-    id: N04203102
-    name: 曾郁芝
-    password: yu
-    rating: ~
-  - Chinese: 卓芷伶
-    id: N04203105
-    name: 卓芷伶
-    password: zhi
-    rating: ~
-  - Chinese: 郭子菁
-    id: N03080070
-    name: 郭子菁
-    password: zi
-    rating: ~
-  - Chinese: 陳翎軒
-    id: N03200001
-    name: 陳翎軒
-    password: ling
-    rating: ~
-  - Chinese: 曾美梅
-    id: N03200004
-    name: 曾美梅
-    password: mei
-    rating: ~
-  - Chinese: 鄧如芸
-    id: N03200006
-    name: 鄧如芸
-    password: ru
-    rating: ~
-  - Chinese: 王顥臻
-    id: N03200008
-    name: 王顥臻
-    password: hao
-    rating: ~
-  - Chinese: 江宜蓁
-    id: N03200010
-    name: 江宜蓁
-    password: yi
-    rating: ~
-  - Chinese: 連苡伶
-    id: N03200012
-    name: 連苡伶
-    password: yi
-    rating: ~
-  - Chinese: 鄭又元
-    id: N03200014
-    name: 鄭又元
-    password: you
-    rating: ~
-  - Chinese: 宋柏賢
-    id: N03200018
-    name: 宋柏賢
-    password: bai
-    rating: ~
-  - Chinese: 林毓斌
-    id: N03200020
-    name: 林毓斌
-    password: yu
-    rating: ~
-  - Chinese: 楊峻瑋
-    id: N03200022
-    name: 楊峻瑋
-    password: jun
-    rating: ~
-  - Chinese: 林嘉莉
-    id: N03200025
-    name: 林嘉莉
+  - Chinese: Kerin
+    id: N02202103
+    name: Kerin
     password: jia
     rating: ~
-  - Chinese: 陳沚瑩
-    id: N03200027
-    name: 陳沚瑩
-    password: zhi
+  - Chinese: Milly
+    id: N03203104
+    name: Milly
+    password: ~
     rating: ~
-  - Chinese: 潘韻宇
-    id: N03200030
-    name: 潘韻宇
-    password: yun
+  - Chinese: Elvis
+    id: N03200037
+    name: Elvis
+    password: ~
     rating: ~
-  - Chinese: 萬筱微
-    id: N03200034
-    name: 萬筱微
-    password: xiao
+  - Chinese: Ivy
+    id: N03200011
+    name: Ivy
+    password: ~
     rating: ~
-  - Chinese: 陳桂益
-    id: N03200036
-    name: 陳桂益
-    password: gui
+  - Chinese: Wes
+    id: N03200043
+    name: Wes
+    password: ~
     rating: ~
-  - Chinese: 許晏甄
-    id: N04202101
-    name: 許晏甄
-    password: yan
+  - Chinese: Nina
+    id: N03200019
+    name: Nina
+    password: ~
     rating: ~
-  - Chinese: 陳季柔
-    id: N04202103
-    name: 陳季柔
-    password: ji
+  - Chinese: Ben
+    id: N03200013
+    name: Ben
+    password: ~
     rating: ~
-  - Chinese: 張庭瑄
-    id: N04202107
-    name: 張庭瑄
-    password: ting
+  - Chinese: WanYun
+    id: N03200033
+    name: WanYun
+    password: ~
     rating: ~
-  - Chinese: 楊竣傑
-    id: N04202109
-    name: 楊竣傑
-    password: jun
+  - Chinese: Eddie
+    id: N03200005
+    name: Eddie
+    password: ~
     rating: ~
-  - Chinese: 葛俊廷
-    id: N04202111
-    name: 葛俊廷
-    password: jun
+  - Chinese: TingTing
+    id: N03200029
+    name: TingTing
+    password: ~
     rating: ~
-  - Chinese: 何佳儒
-    id: N04202113
-    name: 何佳儒
-    password: jia
+  - Chinese: YaYun
+    id: N03200016
+    name: YaYun
+    password: ~
     rating: ~
+  - Chinese: Kiki
+    id: N04202102
+    name: Kiki
+    password: ~
+    rating: ~
+  - Chinese: Claire
+    id: N03200007
+    name: Claire
+    password: ~
+    rating: ~
+  - Chinese: Nancy
+    id: N03200026
+    name: Nancy
+    password: ~
+    rating: ~
+  - Chinese: YunSyuan
+    id: N03200021
+    name: YunSyuan
+    password: ~
+    rating: ~
+  - Chinese: Erica
+    id: N03200024
+    name: Erica
+    password: ~
+    rating: ~
+  - Chinese: Jade
+    id: N03200003
+    name: Jade
+    password: ~
+    rating: ~
+  - Chinese: ZengZhi
+    id: N04202110
+    name: ZengZhi
+    password: ~
+    rating: ~
+  - Chinese: Benson
+    id: N04202106
+    name: Benson
+    password: ~
+    rating: ~
+
 out: ~
 room: A705
 school: must
