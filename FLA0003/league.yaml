@@ -14,6 +14,12 @@ hwMax: 2
 id: 041FLA0003
 league: 夜應外二甲
 member:
+  - Chinese: 湯明勳
+    id: V9941010
+    name: Robert
+    password: ming
+    rating: ~
+  
   - Chinese: 李佳馨
     id: U0243045
     name: 李佳馨
