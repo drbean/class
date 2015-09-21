@@ -22,7 +22,7 @@ member:
     rating: ~
   - Chinese: 黃婉晴
     id: B01080096
-    name: 黃婉晴
+    name: WanChing
     password: wan
     rating: ~
   - Chinese: 洪嘉翎
@@ -32,7 +32,7 @@ member:
     rating: ~
   - Chinese: 廖婉廷
     id: B02200064
-    name: 廖婉廷
+    name: Amber
     password: wan
     rating: ~
   - Chinese: 林柏彤
@@ -47,77 +47,77 @@ member:
     rating: ~
   - Chinese: 廖珈瑩
     id: B03200005
-    name: 廖珈瑩
+    name: Cindy1
     password: jia
     rating: ~
   - Chinese: 游妤婷
     id: B03200007
-    name: 游妤婷
+    name: Vee
     password: yu
     rating: ~
   - Chinese: 羅韻如
     id: B03200011
-    name: 羅韻如
+    name: Cindy2
     password: yun
     rating: ~
   - Chinese: 張珈瑜
     id: B03200015
-    name: 張珈瑜
+    name: Jenny
     password: jia
     rating: ~
   - Chinese: 張雅媛
     id: B03200019
-    name: 張雅媛
+    name: Demi
     password: ya
     rating: ~
   - Chinese: 陳彥蓁
     id: B03200023
-    name: 陳彥蓁
+    name: Victoria
     password: yan
     rating: ~
   - Chinese: 藍季妍
     id: B03200027
-    name: 藍季妍
+    name: Alison
     password: ji
     rating: ~
   - Chinese: 葉書晴
     id: B03200031
-    name: 葉書晴
+    name: Cathy
     password: shu
     rating: ~
   - Chinese: 范君儒
     id: B03200037
-    name: 范君儒
+    name: Irene
     password: jun
     rating: ~
   - Chinese: 林慧娟
     id: B03200039
-    name: 林慧娟
+    name: Alice
     password: hui
     rating: ~
   - Chinese: 鍾亞寰
     id: B03200043
-    name: 鍾亞寰
+    name: Tracy
     password: ya
     rating: ~
   - Chinese: 李佳宜
     id: B03200052
-    name: 李佳宜
+    name: Lilian
     password: jia
     rating: ~
   - Chinese: 簡逸欣
     id: B03200056
-    name: 簡逸欣
+    name: Tina
     password: yi
     rating: ~
   - Chinese: 黃靖廷
     id: B03200064
-    name: 黃靖廷
+    name: Michael
     password: jing
     rating: ~
   - Chinese: 林采鈴
     id: B03200068
-    name: 林采鈴
+    name: Grace
     password: cai
     rating: ~
   - Chinese: 劉恩典
@@ -127,37 +127,37 @@ member:
     rating: ~
   - Chinese: 鄒沛筠
     id: B03200078
-    name: 鄒沛筠
+    name: Mandy
     password: pei
     rating: ~
   - Chinese: 邱睦翔
     id: B03200084
-    name: 邱睦翔
+    name: Eason
     password: mu
     rating: ~
   - Chinese: 盧毅
     id: B03200092
-    name: 盧毅
+    name: Lulu
     password: yi
     rating: ~
   - Chinese: 方楚云
     id: B03200100
-    name: 方楚云
+    name: Kevin
     password: chu
     rating: ~
   - Chinese: 李怡宣
     id: B03200102
-    name: 李怡宣
+    name: Dora
     password: yi
     rating: ~
   - Chinese: 蔡明翰
     id: B03200106
-    name: 蔡明翰
+    name: Harry
     password: ming
     rating: ~
   - Chinese: 黃曉雯
     id: B03200110
-    name: 黃曉雯
+    name: Sharon
     password: xiao
     rating: ~
 out: ~
