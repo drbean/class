@@ -17,12 +17,12 @@ league: 夜應外三甲
 member:
   - Chinese: 林遠凱
     id: V0141062
-    name: 林遠凱
+    name: Karsten
     password: yuan
     rating: ~
   - Chinese: 洪君綾
     id: V0141063
-    name: 洪君綾
+    name: Joy
     password: jun
     rating: ~
   - Chinese: 胡靖宜
@@ -32,7 +32,7 @@ member:
     rating: ~
   - Chinese: 施其儀
     id: V0241004
-    name: 施其儀
+    name: Jackie
     password: qi
     rating: ~
   - Chinese: 王耀陞
