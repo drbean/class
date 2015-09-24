@@ -16,17 +16,17 @@ league: 夜應外大學四甲
 member:
   - Chinese: 張宜臻
     id: U0143010
-    name: 張宜臻
+    name: Jenna
     password: yi
     rating: ~
   - Chinese: 廖家成
     id: U0143020
-    name: 廖家成
+    name: Andy
     password: jia
     rating: ~
   - Chinese: 蔣宜芸
     id: V0041008
-    name: 蔣宜芸
+    name: Emily
     password: yi
     rating: ~
   - Chinese: 謝宜潔
@@ -181,7 +181,7 @@ member:
     rating: ~
   - Chinese: 徐郁惠
     id: V0141051
-    name: Anja
+    name: Elena
     password: yu
     rating: ~
   - Chinese: 陳沛雯
