@@ -12,9 +12,20 @@ absent:
 tardy:
 merits: 3
 
+1-3:
+absent:
+tardy:
+merits: 3
+
+1-4:
+absent:
+  - Nancy
+tardy:
+merits: 0
+
 2-1:
 absent:
-  - 陳巧惠
+  - Cherry
 tardy:
 merits: 3
 
@@ -29,6 +40,12 @@ absent:
 tardy:
 merits: 3
 
+2-4:
+absent:
+  - Jason
+tardy:
+merits: 3
+
 3-1:
 absent:
 tardy:
@@ -39,22 +56,4 @@ absent:
   - Kevin
 tardy:
 merits: 3
-
-3-3:
-absent:
-  - 彭?惠
-tardy:
-merits: 3
-
-4-1:
-absent:
-  - Jason
-tardy:
-merits: 3
-
-4-2:
-absent:
-tardy:
-merits: 3
-
 
