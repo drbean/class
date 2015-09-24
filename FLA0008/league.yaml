@@ -118,7 +118,7 @@ member:
     rating: ~
   - Chinese: 萬世揚
     id: V0341025
-    name: 萬世揚
+    name: Wan
     password: shi
     rating: ~
   - Chinese: 彭紹安
@@ -222,7 +222,7 @@ member:
     password: hong
     rating: ~
 out: ~
-room: A705
+room: A702
 school: nuu
 session:
   1: 1
