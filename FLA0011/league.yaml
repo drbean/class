@@ -62,7 +62,7 @@ member:
     rating: ~
   - Chinese: 涂馨尹
     id: V0241026
-    name: 涂馨尹
+    name: Rita
     password: xin
     rating: ~
   - Chinese: 陳亮彤
@@ -72,7 +72,7 @@ member:
     rating: ~
   - Chinese: 何瑞嬿
     id: V0241030
-    name: 何瑞嬿
+    name: Irene
     password: rui
     rating: ~
   - Chinese: 蔡方如
@@ -161,7 +161,7 @@ out:
     name: Andy
     password: si
     rating: ~
-room: A705
+room: A702
 school: nuu
 session:
   1: 1
