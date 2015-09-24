@@ -15,9 +15,20 @@ hwMax: 2
 id: 041FLA0008
 league: 夜應外二甲
 member:
+  - Chinese: 吳恩維
+    id: V0341004
+    name: Eric1
+    password: en
+    rating: ~
+  - Chinese: 施其儀
+    id: V0241004
+    name: Jackie
+    password: qi
+    rating: ~
+
   - Chinese: 陳鴻郁
     id: V0241008
-    name: Eric
+    name: Eric2
     password: hong
     rating: ~
   - Chinese: 李樵風
