@@ -15,6 +15,17 @@ id: 041AFN2MB1
 jigsaw: exam
 league: NAF021四技外二甲
 member:
+  - Chinese: 羅加聘
+    id: N03203103
+    name: Jeremy
+    password: jia
+    rating: ~
+  - Chinese: YU-FAN CHIU
+    id: 100100100
+    name: Newsom
+    password: yu
+    rating: ~
+  
   - Chinese: 陳怡真
     id: N01200048
     name: Ava
