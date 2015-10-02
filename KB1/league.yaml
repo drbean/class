@@ -15,6 +15,17 @@ id: 041AFN2KB1
 jigsaw: exam
 league: NAF021__四技外二甲
 member:
+  - Chinese: 林妮琪
+    id: N03202104
+    name: Nicki
+    password: ni
+    rating: ~
+  - Chinese: 沈芳君
+    id: N03100048
+    name: Emily
+    password: fang
+    rating: ~
+  
   - Chinese: 孫柏皓
     id: N02202105
     name: BoHao
