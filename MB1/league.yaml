@@ -20,7 +20,7 @@ member:
     name: Jeremy
     password: jia
     rating: ~
-  - Chinese: YU-FAN CHIU
+  - Chinese: 邱宇凡
     id: 100100100
     name: Newsom
     password: yu
@@ -83,7 +83,7 @@ member:
     rating: ~
   - Chinese: 宋柏賢
     id: N03200018
-    name: 宋柏賢
+    name: Rain
     password: bai
     rating: ~
   - Chinese: 林毓斌
@@ -113,12 +113,12 @@ member:
     rating: ~
   - Chinese: 萬筱微
     id: N03200034
-    name: XiaoWei
+    name: Vicky
     password: xiao
     rating: ~
   - Chinese: 陳桂益
     id: N03200036
-    name: GuiYi
+    name: Gary
     password: gui
     rating: ~
   - Chinese: 許晏甄
