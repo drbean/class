@@ -14,6 +14,42 @@ hwMax: 2
 id: 041FLA0003
 league: 夜應外二甲
 member:
+  - Chinese: 林雨潔
+    id: V0141054
+    name: Lydia
+    password: yu
+    rating: ~
+  - Chinese: 解雅婷
+    id: V0141036
+    name: Sally
+    password: ya
+    rating: ~
+  - Chinese: 黃如妘
+    id: V0141046
+    name: Amber
+    password: ru
+    rating: ~
+  - Chinese: 毛明珊
+    id: V0141002
+    name: Uta
+    password: ming
+    rating: ~
+  - Chinese: 黃志泉
+    id: V0141009
+    name: Jimmy
+    password: zhi
+    rating: ~
+  - Chinese: 曾慧珊
+    id: V0141008
+    name: Grace
+    password: hui
+    rating: ~
+  - Chinese: 賴意穎
+    id: V0041047
+    name: Ada
+    password: yi
+    rating: ~
+ 
   - Chinese: 萬世揚
     id: V0341025
     name: Jerry
@@ -76,11 +112,6 @@ member:
     id: U0243045
     name: 李佳馨
     password: jia
-    rating: ~
-  - Chinese: 李桂葒
-    id: U0243047
-    name: 李桂葒
-    password: gui
     rating: ~
   - Chinese: 蔣宜芸
     id: V0041008
@@ -217,11 +248,6 @@ member:
     name: Joanne
     password: ji
     rating: ~
-  - Chinese: 蕭荑柔
-    id: V0216004
-    name: Beetrice
-    password: ti
-    rating: ~
   - Chinese: 施其儀
     id: V0241004
     name: Jackie
@@ -342,7 +368,17 @@ member:
     name: Tina
     password: jia
     rating: ~
-out: ~
+out:
+  - Chinese: 李桂葒
+    id: U0243047
+    name: 李桂葒
+    password: gui
+    rating: ~
+  - Chinese: 蕭荑柔
+    id: V0216004
+    name: Beetrice
+    password: ti
+    rating: ~
 room: A705
 school: nuu
 session:
