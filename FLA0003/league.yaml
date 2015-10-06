@@ -14,6 +14,22 @@ hwMax: 2
 id: 041FLA0003
 league: 夜應外二甲
 member:
+  - Chinese: 彭振浩
+    id: V0141012
+    name: Brian
+    password: zhen
+    rating: ~
+  - Chinese: 賴偉誠
+    id: B02200027
+    name: David
+    password: wei
+    rating: ~
+  - Chinese: 李葦唯
+    id: V0041053
+    name: Stella
+    password: wei
+    rating: ~
+
   - Chinese: 林雨潔
     id: V0141054
     name: Lydia
@@ -26,7 +42,7 @@ member:
     rating: ~
   - Chinese: 黃如妘
     id: V0141046
-    name: Amber
+    name: Amber2
     password: ru
     rating: ~
   - Chinese: 毛明珊
@@ -295,7 +311,7 @@ member:
     rating: ~
   - Chinese: 余孟穎
     id: V0341013
-    name: Amber
+    name: Amber1
     password: meng
     rating: ~
   - Chinese: 李殷
