@@ -15,6 +15,12 @@ hwMax: 2
 id: 041FLA0011
 league: 夜應外三甲
 member:
+  - Chinese: 蔡立瑋
+    id: V0141001
+    name: David
+    password: li
+    rating: ~
+
   - Chinese: 林遠凱
     id: V0141062
     name: Karsten
@@ -52,7 +58,7 @@ member:
     rating: ~
   - Chinese: 陳巧惠
     id: V0241022
-    name: 陳巧惠
+    name: Cherry
     password: qiao
     rating: ~
   - Chinese: 李盈瑩
@@ -82,7 +88,7 @@ member:
     rating: ~
   - Chinese: 彭?惠
     id: V0241032
-    name: 彭?惠
+    name: Nancy
     password: '?'
     rating: ~
   - Chinese: 王緯婷
