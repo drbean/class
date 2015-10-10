@@ -17,7 +17,7 @@ league: BAF022_四技應外二乙
 member:
   - Chinese: 趙升文
     id: B01130056
-    name: Kevin
+    name: Kevin2
     password: sheng
     rating: ~
   - Chinese: 黃婉晴
@@ -117,12 +117,12 @@ member:
     rating: ~
   - Chinese: 林采鈴
     id: B03200068
-    name: Grace
+    name: Grace1
     password: cai
     rating: ~
   - Chinese: 劉恩典
     id: B03200072
-    name: Grace
+    name: Grace2
     password: en
     rating: ~
   - Chinese: 鄒沛筠
@@ -142,7 +142,7 @@ member:
     rating: ~
   - Chinese: 方楚云
     id: B03200100
-    name: Kevin
+    name: Kevin1
     password: chu
     rating: ~
   - Chinese: 李怡宣
@@ -172,9 +172,6 @@ scores:
   win: 5
 session:
   1: 1
-  2: 6
-  3: 10
-  4: 14
 weights:
   classwork: 40
   exams: 20
