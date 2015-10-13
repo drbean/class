@@ -19,11 +19,12 @@ member:
     name: Brian
     password: zhen
     rating: ~
-  - Chinese: 賴偉誠
+  - Chinese: 蔡立瑋
     id: V0141001
-    name: David2
-    password: wei
+    name: David
+    password: li
     rating: ~
+
   - Chinese: 李葦唯
     id: V0041053
     name: Stella
