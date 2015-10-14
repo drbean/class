@@ -15,6 +15,12 @@ hwMax: 2
 id: 041FLA0008
 league: 夜應外二甲
 member:
+  - Chinese: 黃俊豪
+    id: V0241064
+    name: Kevin
+    password: jun
+    rating: ~
+  
   - Chinese: 吳恩維
     id: V0341004
     name: Eric1
@@ -45,11 +51,6 @@ member:
     id: V0341005
     name: Toyz
     password: you
-    rating: ~
-  - Chinese: 陳悅倫
-    id: V0341006
-    name: 陳悅倫
-    password: yue
     rating: ~
   - Chinese: 吳佳芸
     id: V0341009
@@ -130,11 +131,6 @@ member:
     id: V0341029
     name: Jay
     password: ying
-    rating: ~
-  - Chinese: 黃皓鼎
-    id: V0341030
-    name: 黃皓鼎
-    password: hao
     rating: ~
   - Chinese: 劉家瑋
     id: V0341031
@@ -221,7 +217,17 @@ member:
     name: 莊弘一
     password: hong
     rating: ~
-out: ~
+out:
+  - Chinese: 陳悅倫
+    id: V0341006
+    name: 陳悅倫
+    password: yue
+    rating: ~
+  - Chinese: 黃皓鼎
+    id: V0341030
+    name: 黃皓鼎
+    password: hao
+    rating: ~
 room: A702
 school: nuu
 session:
