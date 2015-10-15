@@ -4,12 +4,11 @@ cutpoints:
   two: ~
 exercise: dog
 grade:
-  U0131117: 1.92
+  U0131117: 1.98
   U0143010: 1.96
   U0143020: 1.7
   V0041008: 2
-  V0041022: 0
-  V0041042: 0.28
+  V0041042: 0.58
   V0041046: 2
   V0041062: 1.94
   V0041066: 0.02
@@ -18,7 +17,7 @@ grade:
   V0141003: 0
   V0141008: 2
   V0141009: 2
-  V0141011: 0
+  V0141011: 2
   V0141012: 0
   V0141016: 1.94
   V0141017: 2
@@ -27,9 +26,8 @@ grade:
   V0141021: 2
   V0141022: 2
   V0141023: 0.86
-  V0141025: 0.18
+  V0141025: 0.54
   V0141026: 1.92
-  V0141028: 0
   V0141029: 1.48
   V0141035: 0
   V0141036: 1.46
@@ -41,19 +39,19 @@ grade:
   V0141049: 1.98
   V0141051: 0
   V0141052: 1.98
-  V0141053: 0
+  V0141053: 1.96
   V0141054: 0
-  V0141055: 1.9
+  V0141055: 1.96
   V0141059: 2
   V0141060: 0
   V0141061: 2
   V0141064: 1.9
-  V0241045: 0
+  V0241045: 1.92
   V0241046: 2
 points:
   U0131117:
-    letters: 234
-    percent: 96
+    letters: 242
+    percent: 99
   U0143010:
     letters: 248
     percent: 98
@@ -63,12 +61,9 @@ points:
   V0041008:
     letters: 243
     percent: 100
-  V0041022:
-    letters: 0
-    percent: 0
   V0041042:
-    letters: 35
-    percent: 14
+    letters: 71
+    percent: 29
   V0041046:
     letters: 238
     percent: 100
@@ -94,8 +89,8 @@ points:
     letters: 255
     percent: 100
   V0141011:
-    letters: 0
-    percent: 0
+    letters: 234
+    percent: 100
   V0141012:
     letters: 0
     percent: 0
@@ -121,14 +116,11 @@ points:
     letters: 102
     percent: 43
   V0141025:
-    letters: 22
-    percent: 9
+    letters: 64
+    percent: 27
   V0141026:
     letters: 238
     percent: 96
-  V0141028:
-    letters: 0
-    percent: 0
   V0141029:
     letters: 170
     percent: 74
@@ -163,14 +155,14 @@ points:
     letters: 238
     percent: 99
   V0141053:
-    letters: 0
-    percent: 0
+    letters: 235
+    percent: 98
   V0141054:
     letters: 0
     percent: 0
   V0141055:
-    letters: 208
-    percent: 95
+    letters: 216
+    percent: 98
   V0141059:
     letters: 239
     percent: 100
@@ -184,8 +176,8 @@ points:
     letters: 219
     percent: 95
   V0241045:
-    letters: 0
-    percent: 0
+    letters: 237
+    percent: 96
   V0241046:
     letters: 255
     percent: 100
