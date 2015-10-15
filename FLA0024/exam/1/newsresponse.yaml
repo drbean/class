@@ -1,0 +1,599 @@
+---
+U0131117:
+  1:
+   headline:  1
+   questions: 1
+   lead:      1
+  2:
+   headline:  2
+   questions: 1
+   lead:      1
+  3:
+   headline:  2
+   questions: 2
+   lead:      2
+U0143010:
+  1:
+    headline:  2
+    questions: 2
+    lead:      2
+  2:
+    headline:  3
+    questions: 2
+    lead:      2
+  3:
+    headline:  2
+    questions: 3
+    lead:      2
+U0143020:
+  1:
+    headline:  3
+    questions: 3
+    lead:      3
+  2:
+    headline:  3
+    questions: 3
+    lead:      3
+  3:
+    headline:  3
+    questions: 3
+    lead:      3
+V0041008:
+  1:
+    headline:  2
+    questions: 1
+    lead:      2
+  2:
+    headline:  3
+    questions: 1
+    lead:      3
+  3:
+    headline:  1
+    questions: 1
+    lead:      0
+V0041022:
+  1:
+    headline:  0
+    questions: 0
+    lead:      0
+  2:
+    headline:  0
+    questions: 0
+    lead:      0
+  3:
+    headline:  0
+    questions: 0
+    lead:      0
+V0041042:
+  1:
+    headline:  1
+    questions: 1
+    lead:      1
+  2:
+    headline:  1
+    questions: 1
+    lead:      1
+  3:
+    headline:  2
+    questions: 1
+    lead:      2
+V0041046:
+  1:
+    headline:  2
+    questions: 3
+    lead:      3
+  2:
+    headline:  2
+    questions: 3
+    lead:      1
+  3:
+    headline:  2
+    questions: 0
+    lead:      0
+V0041062:
+  1:
+    headline:  0
+    questions: 0
+    lead:      0
+  2:
+    headline:  0
+    questions: 0
+    lead:      0
+  3:
+    headline:  0
+    questions: 0
+    lead:      0
+V0041066:
+  1:
+    headline:  1
+    questions: 2
+    lead:      2
+  2:
+    headline:  2
+    questions: 1
+    lead:      2
+  3:
+    headline:  0
+    questions: 0
+    lead:      0
+V0141001:
+  1:
+    headline:  3
+    questions: 3
+    lead:      2
+  2:
+    headline:  2
+    questions: 2
+    lead:      1
+  3:
+    headline:  2
+    questions: 3
+    lead:      2
+V0141002:
+  1:
+    headline:  1
+    questions: 1
+    lead:      1
+  2:
+    headline:  1
+    questions: 1
+    lead:      1
+  3:
+    headline:  2
+    questions: 2
+    lead:      2
+V0141003:
+  1:
+    headline:  1
+    questions: 1
+    lead:      0
+  2:
+    headline:  1
+    questions: 1
+    lead:      0
+  3:
+    headline:  1
+    questions: 1
+    lead:      0
+V0141008:
+  1:
+    headline:  2
+    questions: 1
+    lead:      1
+  2:
+    headline:  1
+    questions: 1
+    lead:      2
+  3:
+    headline:  2
+    questions: 1
+    lead:      1
+V0141009:
+  1:
+    headline:  1
+    questions: 2
+    lead:      1
+  2:
+    headline:  1
+    questions: 2
+    lead:      1
+  3:
+    headline:  2
+    questions: 1
+    lead:      0
+V0141011:
+  1:
+    headline:  3
+    questions: 1
+    lead:      3
+  2:
+    headline:  3
+    questions: 2
+    lead:      3
+  3:
+    headline:  0
+    questions: 0
+    lead:      0
+V0141012:
+  1:
+    headline:  1
+    questions: 2
+    lead:      2
+  2:
+    headline:  1
+    questions: 1
+    lead:      1
+  3:
+    headline:  1
+    questions: 1
+    lead:      2
+V0141016:
+  1:
+    headline:  2
+    questions: 3
+    lead:      3
+  2:
+    headline:  2
+    questions: 1
+    lead:      2
+  3:
+    headline:  1
+    questions: 1
+    lead:      2
+V0141017:
+  1:
+    headline:  2
+    questions: 1
+    lead:      3
+  2:
+    headline:  3
+    questions: 3
+    lead:      2
+  3:
+    headline:  3
+    questions: 1
+    lead:      2
+V0141018:
+  1:
+    headline:  1
+    questions: 2
+    lead:      2
+  2:
+    headline:  2
+    questions: 2
+    lead:      2
+  3:
+    headline:  2
+    questions: 3
+    lead:      3
+V0141019:
+  1:
+    headline:  0
+    questions: 0
+    lead:      0
+  2:
+    headline:  0
+    questions: 0
+    lead:      0
+  3:
+    headline:  0
+    questions: 0
+    lead:      0
+V0141021:
+  1:
+    headline:  2
+    questions: 1
+    lead:      2
+  2:
+    headline:  2
+    questions: 1
+    lead:      1
+  3:
+    headline:  3
+    questions: 2
+    lead:      3
+V0141022:
+  1:
+    headline:  1
+    questions: 1
+    lead:      1
+  2:
+    headline:  1
+    questions: 1
+    lead:      1
+  3:
+    headline:  1
+    questions: 1
+    lead:      1
+V0141023:
+  1:
+    headline:  0
+    questions: 0
+    lead:      0
+  2:
+    headline:  0
+    questions: 0
+    lead:      0
+  3:
+    headline:  0
+    questions: 0
+    lead:      0
+V0141025:
+  1:
+    headline:  2
+    questions: 2
+    lead:      3
+  2:
+    headline:  3
+    questions: 3
+    lead:      3
+  3:
+    headline:  3
+    questions: 2
+    lead:      2
+V0141026:
+  1:
+    headline:  2
+    questions: 2
+    lead:      2
+  2:
+    headline:  2
+    questions: 1
+    lead:      2
+  3:
+    headline:  1
+    questions: 2
+    lead:      2
+V0141028:
+  1:
+    headline:  0
+    questions: 0
+    lead:      0
+  2:
+    headline:  0
+    questions: 0
+    lead:      0
+  3:
+    headline:  0
+    questions: 0
+    lead:      0
+V0141029:
+  1:
+    headline:  1
+    questions: 1
+    lead:      1
+  2:
+    headline:  1
+    questions: 1
+    lead:      2
+  3:
+    headline:  1
+    questions: 1
+    lead:      1
+V0141035:
+  1:
+    headline:  3
+    questions: 1
+    lead:      3
+  2:
+    headline:  2
+    questions: 2
+    lead:      3
+  3:
+    headline:  1
+    questions: 1
+    lead:      1
+V0141036:
+  1:
+    headline:  1
+    questions: 1
+    lead:      2
+  2:
+    headline:  1
+    questions: 1
+    lead:      1
+  3:
+    headline:  1
+    questions: 1
+    lead:      1
+V0141037:
+  1:
+    headline:  3
+    questions: 3
+    lead:      3
+  2:
+    headline:  3
+    questions: 3
+    lead:      3
+  3:
+    headline:  3
+    questions: 3
+    lead:      3
+V0141038:
+  1:
+    headline:  0
+    questions: 0
+    lead:      0
+  2:
+    headline:  0
+    questions: 0
+    lead:      0
+  3:
+    headline:  0
+    questions: 0
+    lead:      0
+V0141041:
+  1:
+    headline:  1
+    questions: 1
+    lead:      2
+  2:
+    headline:  2
+    questions: 1
+    lead:      2
+  3:
+    headline:  1
+    questions: 1
+    lead:      2
+V0141046:
+  1:
+    headline:  2
+    questions: 1
+    lead:      2
+  2:
+    headline:  2
+    questions: 2
+    lead:      2
+  3:
+    headline:  1
+    questions: 1
+    lead:      2
+V0141048:
+  1:
+    headline:  2
+    questions: 1
+    lead:      1
+  2:
+    headline:  2
+    questions: 1
+    lead:      1
+  3:
+    headline:  3
+    questions: 1
+    lead:      0
+V0141049:
+  1:
+    headline:  2
+    questions: 1
+    lead:      2
+  2:
+    headline:  3
+    questions: 1
+    lead:      2
+  3:
+    headline:  2
+    questions: 1
+    lead:      1
+V0141051:
+  1:
+    headline:  1
+    questions: 1
+    lead:      1
+  2:
+    headline:  1
+    questions: 1
+    lead:      1
+  3:
+    headline:  1
+    questions: 1
+    lead:      1
+V0141052:
+  1:
+    headline:  3
+    questions: 3
+    lead:      2
+  2:
+    headline:  3
+    questions: 3
+    lead:      2
+  3:
+    headline:  2
+    questions: 2
+    lead:      2
+V0141053:
+  1:
+    headline:  3
+    questions: 3
+    lead:      2
+  2:
+    headline:  3
+    questions: 3
+    lead:      1
+  3:
+    headline:  2
+    questions: 3
+    lead:      2
+V0141054:
+  1:
+    headline:  2
+    questions: 3
+    lead:      2
+  2:
+    headline:  3
+    questions: 3
+    lead:      3
+  3:
+    headline:  2
+    questions: 2
+    lead:      1
+V0141055:
+  1:
+    headline:  3
+    questions: 3
+    lead:      2
+  2:
+    headline:  3
+    questions: 2
+    lead:      2
+  3:
+    headline:  3
+    questions: 3
+    lead:      2
+V0141059:
+  1:
+    headline:  3
+    questions: 3
+    lead:      3
+  2:
+    headline:  1
+    questions: 2
+    lead:      3
+  3:
+    headline:  1
+    questions: 2
+    lead:      2
+V0141060:
+  1:
+    headline:  0
+    questions: 0
+    lead:      0
+  2:
+    headline:  0
+    questions: 0
+    lead:      0
+  3:
+    headline:  0
+    questions: 0
+    lead:      0
+V0141061:
+  1:
+    headline:  1
+    questions: 2
+    lead:      1
+  2:
+    headline:  1
+    questions: 2
+    lead:      1
+  3:
+    headline:  1
+    questions: 1
+    lead:      1
+V0141064:
+  1:
+    headline:  0
+    questions: 0
+    lead:      0
+  2:
+    headline:  0
+    questions: 0
+    lead:      0
+  3:
+    headline:  0
+    questions: 0
+    lead:      0
+V0241045:
+  1:
+    headline:  2
+    questions: 1
+    lead:      1
+  2:
+    headline:  2
+    questions: 1
+    lead:      1
+  3:
+    headline:  3
+    questions: 1
+    lead:      1
+V0241046:
+  1:
+    headline: 2
+    lead: 0
+    questions: 2
+  2:
+    headline: 2
+    lead: 0
+    questions: 1
+  3:
+    headline: 2
+    lead: 0
+    questions: 1
