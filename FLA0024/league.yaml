@@ -46,11 +46,6 @@ member:
     name: Emily
     password: yi
     rating: ~
-  - Chinese: 謝宜潔
-    id: V0041022
-    name: Angela
-    password: yi
-    rating: ~
   - Chinese: 賴于雯
     id: V0041042
     name: YuWen
@@ -145,11 +140,6 @@ member:
     id: V0141026
     name: Vicky
     password: xin
-    rating: ~
-  - Chinese: 宋紫婷
-    id: V0141028
-    name: Carol
-    password: zi
     rating: ~
   - Chinese: 邱凱蒂
     id: V0141029
@@ -246,7 +236,17 @@ member:
     name: Chuck
     password: yu
     rating: ~
-out: ~
+out:
+  - Chinese: 謝宜潔
+    id: V0041022
+    name: Angela
+    password: yi
+    rating: ~
+  - Chinese: 宋紫婷
+    id: V0141028
+    name: Carol
+    password: zi
+    rating: ~
 room: A705
 school: nuu
 session:
