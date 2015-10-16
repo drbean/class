@@ -172,11 +172,6 @@ member:
     name: Tiffany
     password: tong
     rating: ~
-  - Chinese: 林敬宜
-    id: V0341040
-    name: 林敬宜
-    password: jing
-    rating: ~
   - Chinese: 陳晏淇
     id: V0341041
     name: Vicky
@@ -213,6 +208,11 @@ member:
     password: jia
     rating: ~
 out:
+  - Chinese: 林敬宜
+    id: V0341040
+    name: 林敬宜
+    password: jing
+    rating: ~
   - Chinese: 莊弘一
     id: V0341053
     name: 莊弘一
