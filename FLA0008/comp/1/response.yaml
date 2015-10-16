@@ -1,0 +1,498 @@
+---
+free:
+  1:
+    lerman:
+      0:
+        V0341009:
+          point:
+            1: Fault
+        V0341025:
+          point:
+            1: Nil
+    seixas:
+      0:
+        V0341009:
+          point:
+            1: Nil
+        V0341025:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0341009:
+          point:
+            1: Nil
+        V0341025:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0341009:
+          point:
+            1: Nil
+        V0341025:
+          point:
+            1: Nil
+  2:
+    lerman:
+      0:
+        V0341041:
+          point:
+            1: Returned
+        V0341035:
+          point:
+            1: Nil
+    seixas:
+      0:
+        V0341041:
+          point:
+            1: Nil
+        V0341035:
+          point:
+            1: Unreturned
+    spano:
+      0:
+        V0341041:
+          point:
+            1: Nil
+        V0341035:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0341041:
+          point:
+            1: Nil
+        V0341035:
+          point:
+            1: Nil
+  3:
+    lerman:
+      0:
+        V0341005:
+          point:
+            1: Fault
+        V0341036:
+          point:
+            1: Nil
+    seixas:
+      0:
+        V0341005:
+          point:
+            1: Nil
+        V0341036:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0341005:
+          point:
+            1: Nil
+        V0341036:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0341005:
+          point:
+            1: Nil
+        V0341036:
+          point:
+            1: Nil
+  4:
+    lerman:
+      0:
+        V0341051:
+          point:
+            1: Nil
+        V0341003:
+          point:
+            1: Nil
+    seixas:
+      0:
+        V0341051:
+          point:
+            1: Nil
+        V0341003:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0341051:
+          point:
+            1: Nil
+        V0341003:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0341051:
+          point:
+            1: Nil
+        V0341003:
+          point:
+            1: Nil
+  5:
+    lerman:
+      0:
+        V0241008:
+          point:
+            1: Nil
+        V0341010:
+          point:
+            1: Nil
+    seixas:
+      0:
+        V0241008:
+          point:
+            1: Fault
+        V0341010:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0241008:
+          point:
+            1: Nil
+        V0341010:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0241008:
+          point:
+            1: Nil
+        V0341010:
+          point:
+            1: Nil
+  6:
+    lerman:
+      0:
+        V0341052:
+          point:
+            1: Nil
+        V0341004:
+          point:
+            1: Nil
+    seixas:
+      0:
+        V0341052:
+          point:
+            1: Nil
+        V0341004:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0341052:
+          point:
+            1: Nil
+        V0341004:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0341052:
+          point:
+            1: Nil
+        V0341004:
+          point:
+            1: Nil
+  7:
+    lerman:
+      0:
+        V0341001:
+          point:
+            1: Nil
+        V0341039:
+          point:
+            1: Nil
+    seixas:
+      0:
+        V0341001:
+          point:
+            1: Nil
+        V0341039:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0341001:
+          point:
+            1: Unreturned
+            2: Nil
+        V0341039:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0341001:
+          point:
+            1: Nil
+        V0341039:
+          point:
+            1: Nil
+  8:
+    lerman:
+      0:
+        V0341027:
+          point:
+            1: Returned
+        V0341032:
+          point:
+            1: Returned
+    seixas:
+      0:
+        V0341027:
+          point:
+            1: Nil
+        V0341032:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0341027:
+          point:
+            1: Nil
+        V0341032:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0341027:
+          point:
+            1: Nil
+        V0341032:
+          point:
+            1: Nil
+  9:
+    lerman:
+      0:
+        V0341024:
+          point:
+            1: Returned on 2nd chance
+        V0341044:
+          point:
+            1: Nil
+    seixas:
+      0:
+        V0341024:
+          point:
+            1: Nil
+        V0341044:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0341024:
+          point:
+            1: Nil
+        V0341044:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0341024:
+          point:
+            1: Nil
+        V0341044:
+          point:
+            1: Nil
+  10:
+    lerman:
+      0:
+        V0341015:
+          point:
+            1: Nil
+        V0341046:
+          point:
+            1: Nil
+    seixas:
+      0:
+        V0341015:
+          point:
+            1: Nil
+        V0341046:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0341015:
+          point:
+            1: Nil
+        V0341046:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0341015:
+          point:
+            1: Nil
+        V0341046:
+          point:
+            1: Nil
+  11:
+    lerman:
+      0:
+        V0341033:
+          point:
+            1: Returned
+        V0341023:
+          point:
+            1: Nil
+    seixas:
+      0:
+        V0341033:
+          point:
+            1: Nil
+        V0341023:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0341033:
+          point:
+            1: Nil
+        V0341023:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0341033:
+          point:
+            1: Nil
+        V0341023:
+          point:
+            1: Returned
+  12:
+    lerman:
+      0:
+        V0341016:
+          point:
+            1: Nil
+        V0341012:
+          point:
+            1: Nil
+    seixas:
+      0:
+        V0341016:
+          point:
+            1: Nil
+        V0341012:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0341016:
+          point:
+            1: Nil
+        V0341012:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0341016:
+          point:
+            1: Nil
+        V0341012:
+          point:
+            1: Nil
+  13:
+    lerman:
+      0:
+        V0341031:
+          point:
+            1: Nil
+        V0341019:
+          point:
+            1: Nil
+    seixas:
+      0:
+        V0341031:
+          point:
+            1: Nil
+        V0341019:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0341031:
+          point:
+            1: Nil
+        V0341019:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0341031:
+          point:
+            1: Nil
+        V0341019:
+          point:
+            1: Nil
+  14:
+    lerman:
+      0:
+        V0341022:
+          point:
+            1: Nil
+        V0341013:
+          point:
+            1: Nil
+    seixas:
+      0:
+        V0341022:
+          point:
+            1: Nil
+        V0341013:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0341022:
+          point:
+            1: Nil
+        V0341013:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0341022:
+          point:
+            1: Nil
+        V0341013:
+          point:
+            1: Nil
+  15:
+    lerman:
+      0:
+        V0341034:
+          point:
+            1: Returned
+        V0241064:
+          point:
+            1: Fault on 2nd chance
+    seixas:
+      0:
+        V0341034:
+          point:
+            1: Nil
+        V0241064:
+          point:
+            1: Nil
+    spano:
+      0:
+        V0341034:
+          point:
+            1: Nil
+        V0241064:
+          point:
+            1: Nil
+    diaz:
+      0:
+        V0341034:
+          point:
+            1: Nil
+        V0241064:
+          point:
+            1: Nil
