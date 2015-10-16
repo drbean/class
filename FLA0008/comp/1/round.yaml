@@ -1,0 +1,126 @@
+---
+activity:
+  spano:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+  lerman:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+  seixas:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+  diaz:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+assistant: ~
+bye: V0341011
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: V0341009
+    Black: V0341025
+  2:
+    White: V0341041
+    Black: V0341035
+  3:
+    White: V0341005
+    Black: V0341036
+  4:
+    White: V0341051
+    Black: V0341003
+  5:
+    White: V0241008
+    Black: V0341010
+  6:
+    White: V0341052
+    Black: V0341004
+  7:
+    White: V0341001
+    Black: V0341039
+  8:
+    White: V0341027
+    Black: V0341032
+  9:
+    White: V0341024
+    Black: V0341044
+  10:
+    White: V0341015
+    Black: V0341046
+  11:
+    White: V0341033
+    Black: V0341023
+  12:
+    White: V0341016
+    Black: V0341012
+  13:
+    White: V0341031
+    Black: V0341019
+  14:
+    White: V0341022
+    Black: V0341013
+  15:
+    White: V0341034
+    Black: V0241064
+late:
+pairing: swiss
+payprotocol: meritPay 1
+round: 1
+text: /home/drbean/class/conversation/food/cards.yaml
+week: 5
