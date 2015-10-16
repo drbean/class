@@ -212,12 +212,12 @@ member:
     name: Tina
     password: jia
     rating: ~
+out:
   - Chinese: 莊弘一
     id: V0341053
     name: 莊弘一
     password: hong
     rating: ~
-out:
   - Chinese: 陳悅倫
     id: V0341006
     name: 陳悅倫
