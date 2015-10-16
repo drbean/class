@@ -177,11 +177,6 @@ member:
     name: Vicky
     password: yan
     rating: ~
-  - Chinese: 梁怡雯
-    id: V0341043
-    name: 梁怡雯
-    password: yi
-    rating: ~
   - Chinese: 楊淑儀
     id: V0341044
     name: Shelli
@@ -208,6 +203,11 @@ member:
     password: jia
     rating: ~
 out:
+  - Chinese: 梁怡雯
+    id: V0341043
+    name: 梁怡雯
+    password: yi
+    rating: ~
   - Chinese: 林敬宜
     id: V0341040
     name: 林敬宜
