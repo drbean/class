@@ -1,15 +1,14 @@
 ---
 round: Exam 1
-week: 4
+week: 5
 questions:
   - 10
 pass: 4
 assistant:
 absent:
-  - Gary
-  - Rain
   - Dawn
   - Orange
+  - Gary
 text: /home/drbean/class/speaking/cards.yaml
 activity:
   marriage:
@@ -25,15 +24,13 @@ activity:
       - 1-1
       - 2-1
 
-
-
 group:
   1-1:
     - Vicky
     - Wilson
     - Macaria
   1-2:
-    - YuPin
+    - Rain
     - Roger
     - Danly
   2-1:
