@@ -1,0 +1,68 @@
+---
+activity:
+  interracial:
+    0:
+      - 0
+      - 2
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+  self:
+    0:
+      - 0
+      - 2
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+assistant:
+  3-1:
+    N03200025: 5
+  4-1:
+    N02202201: 5
+bye: N03203105
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: N04202101
+    Black: N03200004
+  2:
+    White: N03200001
+    Black: N03203103
+  4:
+    White: N03200020
+    Black: N04202105
+  5:
+    White: N03200008
+    Black: N03200030
+  6:
+    White: N03200022
+    Black: N01200048
+  7:
+    White: N03080070
+    Black: 100100100
+  8:
+    White: N04202109
+    Black: N03200034
+  9:
+    White: N03200010
+    Black: N03200018
+
+late:
+  - N04202109
+  - N03200034
+  - N03200010
+  - N03200018
+  - N03203105
+
+pairing: swiss adjusted
+payprotocol: meritPay 1
+round: 1
+text: /home/drbean/class/speaking/cards.yaml
+week: 3
