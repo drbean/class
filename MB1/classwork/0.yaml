@@ -34,3 +34,7 @@ criteria:
 4-1:
   absent:
   merits: 2
+
+4-2:
+  absent:
+  merits: 0
