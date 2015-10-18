@@ -1,16 +1,15 @@
 ---
-1-1:
+1-2:
   - BoHao
   - Elvis
   - Wes
-1-2:
+1-1:
+  - Clare
+  - TingTing
+2-1:
   - Nicki
   - Eddie
   - Nina
-2-1:
-  - Erica
-  - Clare
-  - TingTing
 2-2:
   - Milly
   - Benson
@@ -24,8 +23,5 @@
   - Nancy
   - Jade
 4-1:
-  - Ivy
   - Ben
-4-2:
-  - ZengZhi
   - Kiki
