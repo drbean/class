@@ -46,11 +46,6 @@ member:
     name: Elvis
     password: ~
     rating: ~
-  - Chinese: Ivy
-    id: N03200011
-    name: Ivy
-    password: ~
-    rating: ~
   - Chinese: Wes
     id: N03200043
     name: Wes
@@ -106,19 +101,9 @@ member:
     name: YunSyuan
     password: ~
     rating: ~
-  - Chinese: Erica
-    id: N03200024
-    name: Erica
-    password: ~
-    rating: ~
   - Chinese: Jade
     id: N03200003
     name: Jade
-    password: ~
-    rating: ~
-  - Chinese: ZengZhi
-    id: N04202110
-    name: ZengZhi
     password: ~
     rating: ~
   - Chinese: Benson
@@ -127,7 +112,22 @@ member:
     password: ~
     rating: ~
 
-out: ~
+out:
+  - Chinese: Erica
+    id: N03200024
+    name: Erica
+    password: ~
+    rating: ~
+  - Chinese: ZengZhi
+    id: N04202110
+    name: ZengZhi
+    password: ~
+    rating: ~
+  - Chinese: Ivy
+    id: N03200011
+    name: Ivy
+    password: ~
+    rating: ~
 room: A705
 school: must
 scores:
