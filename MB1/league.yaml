@@ -15,6 +15,12 @@ id: 041AFN2MB1
 jigsaw: exam
 league: NAF021四技外二甲
 member:
+  - Chinese: 楊竣傑
+    id: N04202109
+    name: Jay
+    password: jun
+    rating: ~
+  
   - Chinese: 羅加聘
     id: N03203103
     name: Jeremy
@@ -131,15 +137,11 @@ member:
     name: Crown
     password: guan
     rating: ~
+out:
   - Chinese: 張庭瑄
     id: N04202107
     name: 張庭瑄
     password: ting
-    rating: ~
-  - Chinese: 楊竣傑
-    id: N04202109
-    name: Jay
-    password: jun
     rating: ~
   - Chinese: 葛俊廷
     id: N04202111
@@ -151,7 +153,6 @@ member:
     name: 何佳儒
     password: jia
     rating: ~
-out: ~
 room: A705
 school: must
 scores:
@@ -162,10 +163,7 @@ scores:
   loss: 3
   win: 5
 session:
-  1: 1
-  2: 5
-  3: 10
-  4: 14
+  1: 0
 weights:
   classwork: 40
   exams: 20
