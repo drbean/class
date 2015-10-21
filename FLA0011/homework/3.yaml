@@ -1,0 +1,123 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: spano
+grade:
+  V0141001: 0
+  V0141062: 2
+  V0141063: 2
+  V0241001: 0
+  V0241004: 0.24
+  V0241012: 0
+  V0241014: 2
+  V0241020: 1.44
+  V0241022: 1.4
+  V0241024: 1.7
+  V0241026: 0.58
+  V0241029: 2
+  V0241030: 2
+  V0241031: 2
+  V0241032: 1.86
+  V0241034: 0
+  V0241037: 1.98
+  V0241038: 1.98
+  V0241039: 2
+  V0241041: 1.12
+  V0241042: 2
+  V0241044: 1.98
+  V0241045: 1.94
+  V0241046: 1.98
+  V0241063: 0
+  V0241064: 2
+  V0241065: 2
+  V0241066: 0
+  V0241067: 1.98
+points:
+  V0141001:
+    letters: 0
+    percent: 0
+  V0141062:
+    letters: 221
+    percent: 100
+  V0141063:
+    letters: 224
+    percent: 100
+  V0241001:
+    letters: 0
+    percent: 0
+  V0241004:
+    letters: 1
+    percent: 12
+  V0241012:
+    letters: 0
+    percent: 0
+  V0241014:
+    letters: 231
+    percent: 100
+  V0241020:
+    letters: 134
+    percent: 72
+  V0241022:
+    letters: 143
+    percent: 70
+  V0241024:
+    letters: 185
+    percent: 85
+  V0241026:
+    letters: 66
+    percent: 29
+  V0241029:
+    letters: 217
+    percent: 100
+  V0241030:
+    letters: 242
+    percent: 100
+  V0241031:
+    letters: 216
+    percent: 100
+  V0241032:
+    letters: 210
+    percent: 93
+  V0241034:
+    letters: 0
+    percent: 0
+  V0241037:
+    letters: 211
+    percent: 99
+  V0241038:
+    letters: 234
+    percent: 99
+  V0241039:
+    letters: 199
+    percent: 100
+  V0241041:
+    letters: 110
+    percent: 56
+  V0241042:
+    letters: 212
+    percent: 100
+  V0241044:
+    letters: 239
+    percent: 99
+  V0241045:
+    letters: 225
+    percent: 97
+  V0241046:
+    letters: 201
+    percent: 99
+  V0241063:
+    letters: 0
+    percent: 0
+  V0241064:
+    letters: 210
+    percent: 100
+  V0241065:
+    letters: 207
+    percent: 100
+  V0241066:
+    letters: 0
+    percent: 0
+  V0241067:
+    letters: 225
+    percent: 99
