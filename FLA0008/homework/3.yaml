@@ -1,0 +1,155 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: spano
+grade:
+  V0241004: 2
+  V0241008: 0
+  V0241064: 0
+  V0341001: 0.96
+  V0341003: 0
+  V0341004: 2
+  V0341005: 0
+  V0341009: 1.88
+  V0341010: 1.56
+  V0341011: 1.38
+  V0341012: 1.5
+  V0341013: 0
+  V0341015: 1.98
+  V0341016: 0
+  V0341017: 0
+  V0341019: 0
+  V0341021: 0
+  V0341022: 1.62
+  V0341023: 2
+  V0341024: 2
+  V0341025: 2
+  V0341027: 2
+  V0341029: 1.48
+  V0341031: 2
+  V0341032: 0.02
+  V0341033: 2
+  V0341034: 2
+  V0341035: 0.06
+  V0341036: 2
+  V0341037: 0
+  V0341039: 2
+  V0341041: 0
+  V0341044: 1.84
+  V0341046: 0
+  V0341047: 0
+  V0341051: 2
+  V0341052: 2
+points:
+  V0241004:
+    letters: 213
+    percent: 100
+  V0241008:
+    letters: 0
+    percent: 0
+  V0241064:
+    letters: 0
+    percent: 0
+  V0341001:
+    letters: 105
+    percent: 48
+  V0341003:
+    letters: 0
+    percent: 0
+  V0341004:
+    letters: 220
+    percent: 100
+  V0341005:
+    letters: 0
+    percent: 0
+  V0341009:
+    letters: 203
+    percent: 94
+  V0341010:
+    letters: 159
+    percent: 78
+  V0341011:
+    letters: 141
+    percent: 69
+  V0341012:
+    letters: 143
+    percent: 75
+  V0341013:
+    letters: 0
+    percent: 0
+  V0341015:
+    letters: 241
+    percent: 99
+  V0341016:
+    letters: 0
+    percent: 0
+  V0341017:
+    letters: 0
+    percent: 0
+  V0341019:
+    letters: 0
+    percent: 0
+  V0341021:
+    letters: 0
+    percent: 0
+  V0341022:
+    letters: 143
+    percent: 81
+  V0341023:
+    letters: 214
+    percent: 100
+  V0341024:
+    letters: 187
+    percent: 100
+  V0341025:
+    letters: 219
+    percent: 100
+  V0341027:
+    letters: 217
+    percent: 100
+  V0341029:
+    letters: 170
+    percent: 74
+  V0341031:
+    letters: 214
+    percent: 100
+  V0341032:
+    letters: 2
+    percent: 1
+  V0341033:
+    letters: 234
+    percent: 100
+  V0341034:
+    letters: 201
+    percent: 100
+  V0341035:
+    letters: 7
+    percent: 3
+  V0341036:
+    letters: 217
+    percent: 100
+  V0341037:
+    letters: 0
+    percent: 0
+  V0341039:
+    letters: 232
+    percent: 100
+  V0341041:
+    letters: 0
+    percent: 0
+  V0341044:
+    letters: 225
+    percent: 92
+  V0341046:
+    letters: 0
+    percent: 0
+  V0341047:
+    letters: 0
+    percent: 0
+  V0341051:
+    letters: 227
+    percent: 100
+  V0341052:
+    letters: 217
+    percent: 100
