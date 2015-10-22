@@ -6,7 +6,7 @@ questions:
 pass: 6
 assistant:
   - Jackie
-  - Irene
+  - Lily
 absent:
   - Jay
 text: /home/drbean/class/conversation/food/cards.yaml
@@ -60,9 +60,9 @@ group:
     - Fiona
     - Ellie
   3-2:
-    - Jackie
-    - Irene
+    - Lily
     - Penny
+    - Jackie
   2-3:
     - Catherine
     - Ali
