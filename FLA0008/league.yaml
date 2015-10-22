@@ -233,8 +233,6 @@ school: nuu
 session:
   1: 1
   2: 6
-  3: 10
-  4: 15
 weights:
   classwork: 40
   exams: 20
