@@ -21,7 +21,7 @@ member:
     rating: ~
   - Chinese: 蔡立瑋
     id: V0141001
-    name: David
+    name: David2
     password: li
     rating: ~
 
@@ -125,11 +125,6 @@ member:
     password: ming
     rating: ~
   
-  - Chinese: 李佳馨
-    id: U0243045
-    name: 李佳馨
-    password: jia
-    rating: ~
   - Chinese: 蔣宜芸
     id: V0041008
     name: Emily
@@ -140,25 +135,10 @@ member:
     name: Willy
     password: yu
     rating: ~
-  - Chinese: 謝宜潔
-    id: V0041022
-    name: Angela
-    password: yi
-    rating: ~
   - Chinese: 賴于雯
     id: V0041042
     name: YuWen
     password: yu
-    rating: ~
-  - Chinese: 賴意穎
-    id: V0041047
-    name: Ada
-    password: yi
-    rating: ~
-  - Chinese: 李葦唯
-    id: V0041053
-    name: 李葦唯
-    password: wei
     rating: ~
   - Chinese: 王維君
     id: V0041055
@@ -170,45 +150,10 @@ member:
     name: Iris
     password: ya
     rating: ~
-  - Chinese: 王淳松
-    id: V0124009
-    name: 王淳松
-    password: chun
-    rating: ~
-  - Chinese: 劉玟岑
-    id: V0124042
-    name: 劉玟岑
-    password: wen
-    rating: ~
-  - Chinese: 邱宥臻
-    id: V0124050
-    name: 邱宥臻
-    password: you
-    rating: ~
-  - Chinese: 毛明珊
-    id: V0141002
-    name: Uta
-    password: ming
-    rating: ~
-  - Chinese: 曾慧珊
-    id: V0141008
-    name: Grace
-    password: hui
-    rating: ~
-  - Chinese: 黃志泉
-    id: V0141009
-    name: Jimmy
-    password: zhi
-    rating: ~
   - Chinese: 鍾育霖
     id: V0141011
     name: ALin
     password: yu
-    rating: ~
-  - Chinese: 彭振浩
-    id: V0141012
-    name: Brian
-    password: zhen
     rating: ~
   - Chinese: 張偉棋
     id: V0141016
@@ -386,6 +331,31 @@ member:
     password: jia
     rating: ~
 out:
+  - Chinese: 劉玟岑
+    id: V0124042
+    name: 劉玟岑
+    password: wen
+    rating: ~
+  - Chinese: 邱宥臻
+    id: V0124050
+    name: 邱宥臻
+    password: you
+    rating: ~
+  - Chinese: 李佳馨
+    id: U0243045
+    name: 李佳馨
+    password: jia
+    rating: ~
+  - Chinese: 謝宜潔
+    id: V0041022
+    name: Angela
+    password: yi
+    rating: ~
+  - Chinese: 王淳松
+    id: V0124009
+    name: 王淳松
+    password: chun
+    rating: ~
   - Chinese: 李桂葒
     id: U0243047
     name: 李桂葒
