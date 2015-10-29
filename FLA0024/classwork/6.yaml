@@ -1,0 +1,82 @@
+---
+topic: flying_man
+
+
+1-1:
+  tardy:
+  absent:
+  merits: 2.5
+  p: ~
+1-2:
+  tardy:
+  absent:
+  merits: 2.5
+  p: ~
+1-3:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+1-4:
+  tardy:
+  absent:
+    - ALin
+  merits: 2.5
+  p: ~
+2-1:
+  tardy:
+  absent:
+  merits: 2.5
+  p: ~
+2-2:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+2-3:
+  tardy:
+  absent:
+  merits: 2.5
+  p: ~
+2-4:
+  tardy:
+  absent:
+  merits: 2.5
+  p: ~
+3-1:
+  tardy:
+  absent:
+  merits: 2.5
+  p: ~
+3-2:
+  tardy:
+  absent:
+    - YuWen
+  merits: 2.5
+  p: ~
+3-3:
+  tardy:
+  absent:
+  merits: 2.5
+  p: ~
+3-4:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+4-1:
+  tardy:
+  absent:
+    - Stephanie
+  merits: 3
+  p: ~
+4-2:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+4-3:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
