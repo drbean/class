@@ -82,5 +82,14 @@ qz:
   - 1
   - 9
   - 0
+4-2:
+  absent:
+  tardy: []
+  merits: 2
+  p: 0
+  rs:
+  - 9
+  - 9
+  - 9
 topic: made_in_america
 
