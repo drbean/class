@@ -27,7 +27,12 @@ activity:
       - 9
       - 10
       - 11
-assistant: ~
+assistant:
+  1-1:
+    B03200019: 5
+  1-2:
+    B03200011: 5
+    B03200037: 5
 bye: B02200064
 dispensation: ~
 divisions: ~
