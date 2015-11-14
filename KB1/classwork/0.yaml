@@ -26,6 +26,12 @@ topic: mindmap_race
   absent:
   merits: 2.5
 
+4-1:
+  absent:
+    - Nicki
+    - Emily
+  merits: 0
+
 4-2:
   absent:
   merits: 2
