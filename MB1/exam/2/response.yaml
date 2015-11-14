@@ -1,0 +1,307 @@
+---
+1-1:
+  N03200001:
+    1: 2
+    2: 1
+    3: Other
+    4: T
+    5: T
+    6: T
+    7: T
+    8: T
+    9: T
+    10: T
+  N03200036:
+    1: Other
+    2: Other
+    3: Other
+    4: Other
+    5: Other
+    6: Other
+    7: Other
+    8: Other
+    9: Other
+    10: Other
+  N03200001:
+    1: 2
+    2: 1
+    3: Other
+    4: T
+    5: T
+    6: T
+    7: T
+    8: T
+    9: T
+    10: T
+1-2:
+  N03200022:
+    1: Other
+    2: Other
+    3: Other
+    4:   F
+    5:   F
+    6: T
+    7:   F
+    8: T
+    9: T
+    10:   F
+  N03200022:
+    1: Other
+    2: Other
+    3: Other
+    4: T
+    5:   F
+    6:   F
+    7: T
+    8:   F
+    9:   F
+    10:   F
+  N04202109:
+    1: Other
+    2: Other
+    3: Other
+    4:   F
+    5:   F
+    6: T
+    7:   F
+    8: T
+    9: T
+    10:   F
+2-1:
+  N03200010:
+    1: Other
+    2: Other
+    3: Other
+    4: T
+    5: T
+    6: T
+    7:   F
+    8: Other
+    9: Other
+    10: Other
+  N03200034:
+    1: Other
+    2: Other
+    3: Other
+    4:   F
+    5: T
+    6: T
+    7:   F
+    8: T
+    9: T
+    10:   F
+  100100100:
+    1: 0
+    2: 2
+    3: 1
+    4: T
+    5: Other
+    6: Other
+    7: Other
+    8: Other
+    9: Other
+    10: Other
+2-2:
+  N03080070:
+    1: 2
+    2: 1
+    3: 0
+    4: T
+    5:   F
+    6: T
+    7:   F
+    8: T
+    9:   F
+    10: T
+  N03203103:
+    1: 2
+    2: 1
+    3: 0
+    4:   F
+    5:   F
+    6: T
+    7:   F
+    8: T
+    9: T
+    10: T
+  N03200012:
+    1: Other
+    2: Other
+    3: Other
+    4: T
+    5: T
+    6: T
+    7: T
+    8:   F
+    9:   F
+    10: T
+3-1:
+  N03200025:
+    1: Other
+    2: Other
+    3: Other
+    4:   F
+    5: T
+    6: T
+    7:   F
+    8: Other
+    9: Other
+    10: Other
+  N03200004:
+    1: 0
+    2: Other
+    3: Other
+    4: T
+    5:   F
+    6: T
+    7: T
+    8: T
+    9:   F
+    10: T
+  N03200030:
+    1: Other
+    2: Other
+    3: Other
+    4: T
+    5:   F
+    6: T
+    7:   F
+    8: T
+    9:   F
+    10: T
+3-2:
+  N04202105:
+    1: Other
+    2: Other
+    3: Other
+    4: T
+    5: T
+    6: T
+    7:   F
+    8:   F
+    9: Other
+    10: Other
+  N03203105:
+    1: Other
+    2: Other
+    3: Other
+    4: Other
+    5: Other
+    6: Other
+    7: Other
+    8: Other
+    9: Other
+    10: Other
+  N03200027:
+    1: Other
+    2: Other
+    3: Other
+    4: T
+    5: T
+    6:   F
+    7: T
+    8:   F
+    9: T
+    10: T
+4-1:
+  N03200018:
+    1: Other
+    2: Other
+    3: Other
+    4: Other
+    5: Other
+    6: Other
+    7: Other
+    8: Other
+    9: Other
+    10: Other
+  N01200048:
+    1: T
+    2:   F
+    3: T
+    4:   F
+    5: T
+    6:   F
+    7: T
+    8: T
+    9:   F
+    10: T
+  N03200008:
+    1: Other
+    2: Other
+    3: 0
+    4: T
+    5: T
+    6: T
+    7: T
+    8:   F
+    9: T
+    10:   F
+4-2:
+  N02202201:
+    1: Other
+    2: Other
+    3: Other
+    4: T
+    5: T
+    6:   F
+    7: T
+    8: Other
+    9: Other
+    10: Other
+  N02202201:
+    1: Other
+    2: Other
+    3: Other
+    4: T
+    5: T
+    6:   F
+    7: T
+    8: Other
+    9: Other
+    10: Other
+  N03200006:
+    1: Other
+    2: Other
+    3: Other
+    4: T
+    5: T
+    6: T
+    7:   F
+    8: T
+    9:   F
+    10: Other
+examiners:
+  N03200014:
+    1: 1
+    2: 0
+    3: 2
+    4: T
+    5:   F
+    6:   F
+    7: T
+    8: T
+    9:   F
+    10: T
+  N03200014:
+    1: 1
+    2: 0
+    3: 2
+    4: T
+    5:   F
+    6:   F
+    7: T
+    8: T
+    9:   F
+    10: T
+  N04202101:
+    1: Other
+    2: Other
+    3: Other
+    4: T
+    5:   F
+    6:   F
+    7: T
+    8: T
+    9:   F
+    10: T
