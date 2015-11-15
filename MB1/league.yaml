@@ -92,11 +92,6 @@ member:
     name: Rain
     password: bai
     rating: ~
-  - Chinese: 林毓斌
-    id: N03200020
-    name: YuPin
-    password: yu
-    rating: ~
   - Chinese: 楊峻瑋
     id: N03200022
     name: Wilson
@@ -138,6 +133,11 @@ member:
     password: guan
     rating: ~
 out:
+  - Chinese: 林毓斌
+    id: N03200020
+    name: YuPin
+    password: yu
+    rating: ~
   - Chinese: 張庭瑄
     id: N04202107
     name: 張庭瑄
@@ -165,6 +165,7 @@ scores:
 session:
   1: 0
   2: 5
+  3: 9
 weights:
   classwork: 40
   exams: 20
