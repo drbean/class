@@ -1,0 +1,96 @@
+---
+activity:
+  trinka:
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+  bruno:
+    2:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+  kroenke:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+assistant:
+  2-1:
+    V0241031: 5
+  2-2:
+    V0241037: 5
+  3-1:
+    V0241044: 5
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: V0241030
+    Black: V0241004
+  1:
+    White: V0241001
+    Black: V0241038
+  2:
+    White: V0241039
+    Black: V0241024
+  3:
+    White: V0241014
+    Black: V0241034
+  4:
+    White: V0141001
+    Black: V0241067
+  5:
+    White: V0241022
+    Black: V0241029
+  6:
+    White: V0241042
+    Black: V0241026
+  7:
+    White: V0241066
+    Black: V0241046
+  8:
+    White: V0241064
+    Black: V0141062
+  9:
+    White: V0241032
+    Black: V0141063
+  10:
+    White: V0241065
+    Black: V0241020
+  11:
+    White: V0241041
+    Black: V0241045
+late:
+pairing: swiss
+payprotocol: meritPay 2
+round: 2
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 9
