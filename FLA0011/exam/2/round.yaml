@@ -1,0 +1,65 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+absent:
+  - Jay
+  - Ivan
+text: /home/drbean/class/conversation/work/cards.yaml
+activity:
+  trinka:
+    1:
+      - 2-1
+      - 2-2
+      - 2-4
+  bruno:
+    2:
+      - 2-3
+      - 3-1
+      - 3-2
+  kroenke:
+    0:
+      - 1-1
+      - 1-2
+      - 1-3
+
+group:
+  1-1:
+    - Irene
+    - Penny
+    - Joy
+  1-2:
+    - David
+    - Abby
+    - Ali
+  1-3:
+    - Nancy
+    - Kevin
+    - Lily
+  2-1:
+    - Joyce
+    - Winnie
+    - Fiona
+  2-2:
+    - Cherry
+    - Josh
+    - Ellie
+  3-1:
+    - Nina
+    - Sandy
+    - Catherine
+  3-2:
+    - Rita
+    - Chuck
+    - Karsten
+  2-3:
+    - Tina
+    - Jackie
+    - Jason
+  2-4:
+    - Jimmy
+    - Janice
+    - Amber
