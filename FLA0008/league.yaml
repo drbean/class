@@ -187,11 +187,6 @@ member:
     name: Ares
     password: yue
     rating: ~
-  - Chinese: 甘泓灝
-    id: V0341047
-    name: Ramses
-    password: hong
-    rating: ~
   - Chinese: 陳思妘
     id: V0341051
     name: Gina
@@ -203,6 +198,11 @@ member:
     password: jia
     rating: ~
 out:
+  - Chinese: 甘泓灝
+    id: V0341047
+    name: Ramses
+    password: hong
+    rating: ~
   - Chinese: 梁怡雯
     id: V0341043
     name: 梁怡雯
