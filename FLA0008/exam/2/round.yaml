@@ -1,0 +1,82 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 5
+assistant:
+  - Jackie
+absent:
+  - Jennifer
+  - Ramses
+text: /home/drbean/class/conversation/work/cards.yaml
+activity:
+  trinka:
+    1:
+      - 2-1
+      - 2-2
+      - 2-3
+      - 2-4
+  bruno:
+    2:
+      - 3-1
+      - 3-2
+      - 3-3
+      - 3-4
+
+  kroenke:
+    0:
+      - 1-1
+      - 1-2
+      - 1-3
+      - 1-4
+
+group:
+  1-1:
+    - Liz
+    - Lori
+    - Jackie
+  1-2:
+    - Ares
+    - Annie
+    - Antonio
+  1-3:
+    - Toyz
+    - Eric2
+    - Bamboo
+  1-4:
+    - Jackie
+    - Sherry
+    - Andy
+  2-1:
+    - Fanny
+    - Jay
+    - Wan
+  2-2:
+    - Kevin
+    - Winnie
+    - Allen
+  2-3:
+    - Johnson
+    - Lily
+    - Toby
+  2-4:
+    - Jessie
+    - Shelli
+    - Eric1
+  3-1:
+    - Tony
+    - Kiki
+    - Megan
+  3-2:
+    - Amber
+    - Tiffany
+    - Joy
+  3-3:
+    - Vicky
+    - David
+    - Tina
+  3-4:
+    - Christopher
+    - Nora
+    - Gina

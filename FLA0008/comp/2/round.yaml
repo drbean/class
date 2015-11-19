@@ -1,0 +1,118 @@
+---
+activity:
+  trinka:
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+  bruno:
+    2:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+  kroenke:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+assistant:
+  1-3:
+    V0341005: 4
+    V0241008: 4
+    V0341024: 4
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: V0341021
+    Black: V0341037
+  1:
+    White: V0341017
+    Black: V0241004
+  2:
+    White: V0341029
+    Black: V0341041
+  3:
+    White: V0341039
+    Black: V0341009
+  4:
+    White: V0241064
+    Black: V0341015
+  5:
+    White: V0341046
+    Black: V0341027
+  6:
+    White: V0341003
+    Black: V0341031
+  7:
+    White: V0341013
+    Black: V0341051
+  8:
+    White: V0341032
+    Black: V0341052
+  9:
+    White: V0341023
+    Black: V0341022
+  10:
+    White: V0341019
+    Black: V0341033
+  11:
+    White: V0341012
+    Black: V0341034
+  12:
+    White: V0341004
+    Black: V0341016
+  13:
+    White: V0341010
+    Black: V0341035
+  14:
+    White: V0341025
+    Black: V0341001
+  15:
+    White: V0341044
+    Black: V0341011
+late:
+pairing: swiss
+payprotocol: meritPay 2
+round: 2
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 9
