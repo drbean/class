@@ -1,0 +1,403 @@
+---
+free:
+  0:
+    trinka:
+      1:
+        V0341021:
+          point:
+            1: Returned
+        V0341037:
+          point:
+            1: Returned
+    bruno:
+      2:
+        V0341021:
+          point:
+            1: Nil
+        V0341037:
+          point:
+            1: Nil
+    kroenke:
+      0:
+        V0341021:
+          point:
+            1: Nil
+        V0341037:
+          point:
+            1: Nil
+  1:
+    trinka:
+      1:
+        V0341017:
+          point:
+            1: Returned
+        V0241004:
+          point:
+            1: Returned
+    bruno:
+      2:
+        V0341017:
+          point:
+            1: Returned
+        V0241004:
+          point:
+            1: Returned
+    kroenke:
+      0:
+        V0341017:
+          point:
+            1: Nil
+        V0241004:
+          point:
+            1: Nil
+  2:
+    trinka:
+      1:
+        V0341029:
+          point:
+            1: Returned
+        V0341041:
+          point:
+            1: Returned
+    bruno:
+      2:
+        V0341029:
+          point:
+            1: Nil
+        V0341041:
+          point:
+            1: Nil
+    kroenke:
+      0:
+        V0341029:
+          point:
+            1: Nil
+        V0341041:
+          point:
+            1: Nil
+  3:
+    trinka:
+      1:
+        V0341039:
+          point:
+            1: Returned on 2nd chance
+        V0341009:
+          point:
+            1: Nil
+    bruno:
+      2:
+        V0341039:
+          point:
+            1: Nil
+        V0341009:
+          point:
+            1: Returned
+    kroenke:
+      0:
+        V0341039:
+          point:
+            1: Nil
+        V0341009:
+          point:
+            1: Nil
+  4:
+    trinka:
+      1:
+        V0241064:
+          point:
+            1: Returned
+        V0341015:
+          point:
+            1: Returned
+    bruno:
+      2:
+        V0241064:
+          point:
+            1: Nil
+        V0341015:
+          point:
+            1: Nil
+    kroenke:
+      0:
+        V0241064:
+          point:
+            1: Returned
+        V0341015:
+          point:
+            1: Returned
+  5:
+    trinka:
+      1:
+        V0341046:
+          point:
+            1: Returned on 2nd chance
+        V0341027:
+          point:
+            1: Nil
+    bruno:
+      2:
+        V0341046:
+          point:
+            1: Nil
+        V0341027:
+          point:
+            1: Returned
+    kroenke:
+      0:
+        V0341046:
+          point:
+            1: Nil
+        V0341027:
+          point:
+            1: Nil
+  6:
+    trinka:
+      1:
+        V0341003:
+          point:
+            1: Fault on 2nd chance
+            2: Nil
+        V0341031:
+          point:
+            1: Nil
+    bruno:
+      2:
+        V0341003:
+          point:
+            1: Nil
+        V0341031:
+          point:
+            1: Nil
+    kroenke:
+      0:
+        V0341003:
+          point:
+            1: Nil
+        V0341031:
+          point:
+            1: Nil
+  7:
+    trinka:
+      1:
+        V0341013:
+          point:
+            1: Returned on 2nd chance
+        V0341051:
+          point:
+            1: Nil
+    bruno:
+      2:
+        V0341013:
+          point:
+            1: Nil
+        V0341051:
+          point:
+            1: Nil
+    kroenke:
+      0:
+        V0341013:
+          point:
+            1: Nil
+        V0341051:
+          point:
+            1: Fault
+  8:
+    trinka:
+      1:
+        V0341032:
+          point:
+            1: Fault on 2nd chance
+        V0341052:
+          point:
+            1: Nil
+    bruno:
+      2:
+        V0341032:
+          point:
+            1: Nil
+        V0341052:
+          point:
+            1: Unreturned
+    kroenke:
+      0:
+        V0341032:
+          point:
+            1: Nil
+        V0341052:
+          point:
+            1: Nil
+  9:
+    trinka:
+      1:
+        V0341023:
+          point:
+            1: Returned
+        V0341022:
+          point:
+            1: Nil
+    bruno:
+      2:
+        V0341023:
+          point:
+            1: Nil
+        V0341022:
+          point:
+            1: Nil
+    kroenke:
+      0:
+        V0341023:
+          point:
+            1: Nil
+        V0341022:
+          point:
+            1: Returned
+  10:
+    trinka:
+      1:
+        V0341019:
+          point:
+            1: Returned
+        V0341033:
+          point:
+            1: Nil
+    bruno:
+      2:
+        V0341019:
+          point:
+            1: Nil
+        V0341033:
+          point:
+            1: Fault
+    kroenke:
+      0:
+        V0341019:
+          point:
+            1: Nil
+        V0341033:
+          point:
+            1: Nil
+  11:
+    trinka:
+      1:
+        V0341012:
+          point:
+            1: Nil
+        V0341034:
+          point:
+            1: Fault
+    bruno:
+      2:
+        V0341012:
+          point:
+            1: Fault
+        V0341034:
+          point:
+            1: Nil
+    kroenke:
+      0:
+        V0341012:
+          point:
+            1: Nil
+        V0341034:
+          point:
+            1: Nil
+  12:
+    trinka:
+      1:
+        V0341004:
+          point:
+            1: Returned on 2nd chance
+        V0341016:
+          point:
+            1: Nil
+    bruno:
+      2:
+        V0341004:
+          point:
+            1: Nil
+        V0341016:
+          point:
+            1: Fault on 2nd chance
+    kroenke:
+      0:
+        V0341004:
+          point:
+            1: Nil
+        V0341016:
+          point:
+            1: Nil
+  13:
+    trinka:
+      1:
+        V0341010:
+          point:
+            1: Returned on 2nd chance
+        V0341035:
+          point:
+            1: Nil
+    bruno:
+      2:
+        V0341010:
+          point:
+            1: Nil
+        V0341035:
+          point:
+            1: Returned
+    kroenke:
+      0:
+        V0341010:
+          point:
+            1: Nil
+        V0341035:
+          point:
+            1: Nil
+  14:
+    trinka:
+      1:
+        V0341025:
+          point:
+            1: Returned
+        V0341001:
+          point:
+            1: Nil
+    bruno:
+      2:
+        V0341025:
+          point:
+            1: Nil
+        V0341001:
+          point:
+            1: Nil
+    kroenke:
+      0:
+        V0341025:
+          point:
+            1: Nil
+        V0341001:
+          point:
+            1: Nil
+  15:
+    trinka:
+      1:
+        V0341044:
+          point:
+            1: Returned
+        V0341011:
+          point:
+            1: Nil
+    bruno:
+      2:
+        V0341044:
+          point:
+            1: Nil
+        V0341011:
+          point:
+            1: Fault
+    kroenke:
+      0:
+        V0341044:
+          point:
+            1: Nil
+        V0341011:
+          point:
+            1: Nil
