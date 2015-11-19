@@ -1,0 +1,95 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+  - Mark
+absent:
+text: /home/drbean/class/media/cards.yaml
+activity:
+  illegals:
+    1:
+      - 1-1
+      - 1-2
+      - 1-3
+      - 3-3
+      - 3-4
+  freakout:
+    0:
+      - 2-2
+      - 2-4
+      - 4-1
+      - 4-3
+  pope:
+    0:
+      - 1-4
+      - 2-1
+      - 2-3
+      - 3-1
+      - 3-2
+      - 4-2
+
+
+group:
+  1-1:
+    - Sandy1
+    - Jessica
+    - Jimmy
+  1-2:
+    - Lydia
+    - Sally
+    - Nora
+  1-3:
+    - Louis
+    - Zoe
+    - Sam
+  1-4:
+    - Iris
+    - ALin
+    - Sunny
+  2-1:
+    - Jane
+    - Joanne
+    - Ivy2
+  2-2:
+    - David
+    - Camuel
+    - Sara
+  2-3:
+    - Vivi
+    - Andy
+    - Ula
+  2-4:
+    - Elena
+    - Kitty
+    - Peter
+  3-1:
+    - Owen
+    - Ivy1
+    - Anthony
+  3-2:
+    - YuWen
+    - Vicky
+    - Amber
+  3-3:
+    - Catherine
+    - Grace
+    - Chuck
+  3-4:
+    - Sandy2
+    - Trista
+    - Emily
+  4-1:
+    - Stephanie
+    - Mark
+    - Jenna
+  4-2:
+    - Danny
+    - Abby
+    - Wynn
+  4-3:
+    - Brian
+    - Uta
+    - Mark
