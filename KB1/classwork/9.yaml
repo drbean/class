@@ -5,11 +5,13 @@ topic: response_to_what_topic?
 1-1:
   tardy:
   absent:
+    - BoHao
   merits: 2
   p: 2
 1-2:
   tardy:
   absent:
+    - YaYun
   merits: 2
   p: 2
 2-1:
@@ -30,10 +32,13 @@ topic: response_to_what_topic?
 3-2:
   tardy:
   absent:
+    - Kiki
   merits: 2.5
   p: 2
 4-1:
   tardy:
   absent:
+    - Emily
+    - Nicki
   merits: 0
   p: 0
