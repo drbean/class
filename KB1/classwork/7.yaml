@@ -1,5 +1,5 @@
 ---
-topic: force story into IMRD
+topic: IMRD
 
 
 1-1:
@@ -11,25 +11,25 @@ topic: force story into IMRD
   tardy:
   absent:
     - Elvis
-  merits: 3
+  merits: 2.5
   p: ~
 2-1:
   tardy:
   absent:
     - Nicki
-  merits: 2
+  merits: 2.5
   p: ~
 2-2:
   tardy:
   absent:
     - Benson
-  merits: 2
+  merits: 3
   p: ~
 3-1:
   tardy:
   absent:
     - YaYun
-  merits: 3
+  merits: 2.5
   p: ~
 3-2:
   tardy:
