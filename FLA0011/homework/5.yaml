@@ -1,0 +1,123 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: trinka
+grade:
+  V0141001: 1.78
+  V0141062: 2
+  V0141063: 2
+  V0241001: 0.04
+  V0241004: 1.98
+  V0241012: 0
+  V0241014: 2
+  V0241020: 1.14
+  V0241022: 2
+  V0241024: 1.76
+  V0241026: 1.22
+  V0241029: 0
+  V0241030: 1.98
+  V0241031: 2
+  V0241032: 1.86
+  V0241034: 0.94
+  V0241037: 2
+  V0241038: 1.96
+  V0241039: 2
+  V0241041: 1.16
+  V0241042: 0
+  V0241044: 1.98
+  V0241045: 1.98
+  V0241046: 2
+  V0241063: 0
+  V0241064: 2
+  V0241065: 2
+  V0241066: 0
+  V0241067: 1.84
+points:
+  V0141001:
+    letters: 176
+    percent: 89
+  V0141062:
+    letters: 196
+    percent: 100
+  V0141063:
+    letters: 195
+    percent: 100
+  V0241001:
+    letters: 5
+    percent: 2
+  V0241004:
+    letters: 184
+    percent: 99
+  V0241012:
+    letters: 0
+    percent: 0
+  V0241014:
+    letters: 173
+    percent: 100
+  V0241020:
+    letters: 105
+    percent: 57
+  V0241022:
+    letters: 200
+    percent: 100
+  V0241024:
+    letters: 169
+    percent: 88
+  V0241026:
+    letters: 115
+    percent: 61
+  V0241029:
+    letters: 0
+    percent: 0
+  V0241030:
+    letters: 187
+    percent: 99
+  V0241031:
+    letters: 207
+    percent: 100
+  V0241032:
+    letters: 176
+    percent: 93
+  V0241034:
+    letters: 82
+    percent: 47
+  V0241037:
+    letters: 199
+    percent: 100
+  V0241038:
+    letters: 202
+    percent: 98
+  V0241039:
+    letters: 176
+    percent: 100
+  V0241041:
+    letters: 121
+    percent: 58
+  V0241042:
+    letters: 0
+    percent: 0
+  V0241044:
+    letters: 190
+    percent: 99
+  V0241045:
+    letters: 212
+    percent: 99
+  V0241046:
+    letters: 212
+    percent: 100
+  V0241063:
+    letters: 0
+    percent: 0
+  V0241064:
+    letters: 179
+    percent: 100
+  V0241065:
+    letters: 202
+    percent: 100
+  V0241066:
+    letters: 0
+    percent: 0
+  V0241067:
+    letters: 197
+    percent: 92
