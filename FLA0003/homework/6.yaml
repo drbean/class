@@ -47,7 +47,7 @@ grade:
   V0341013: 0
   V0341015: 2
   V0341016: 0
-  V0341019: 1.94
+  V0341019: 2
   V0341022: 2
   V0341023: 2
   V0341024: 2
@@ -196,8 +196,8 @@ points:
     letters: 0
     percent: 0
   V0341019:
-    letters: 107
-    percent: 97
+    letters: 110
+    percent: 100
   V0341022:
     letters: 133
     percent: 100
