@@ -25,12 +25,6 @@ member:
     password: li
     rating: ~
 
-  - Chinese: 李葦唯
-    id: V0041053
-    name: Stella
-    password: wei
-    rating: ~
-
   - Chinese: 林雨潔
     id: V0141054
     name: Lydia
@@ -331,6 +325,12 @@ member:
     password: jia
     rating: ~
 out:
+  - Chinese: 李葦唯
+    id: V0041053
+    name: Stella
+    password: wei
+    rating: ~
+
   - Chinese: 劉玟岑
     id: V0124042
     name: 劉玟岑
