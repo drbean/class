@@ -1,0 +1,114 @@
+---
+topic: new_year_flight_booking.student_questions
+
+
+1-1:
+  tardy:
+  absent:
+    - Ada
+    - Stella
+  merits: 3
+  p: ~
+1-2:
+  tardy:
+  absent:
+  merits: 2
+  p: ~
+1-3:
+  tardy:
+  absent:
+  merits: 2
+  p: ~
+1-4:
+  tardy:
+  absent:
+  merits: 2
+  p: ~
+1-5:
+  tardy:
+  absent:
+  merits: 2
+  p: ~
+2-1:
+  tardy:
+  absent:
+  merits: 2
+  p: ~
+2-2:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+2-3:
+  tardy:
+  absent:
+  merits: 2
+  p: ~
+2-4:
+  tardy:
+  absent:
+    - Elena
+  merits: 2
+  p: ~
+2-5:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+2-6:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+3-1:
+  tardy:
+  absent:
+  merits: 2
+  p: ~
+3-2:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+3-3:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+3-4:
+  tardy:
+  absent:
+  merits: 2
+  p: ~
+3-5:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+4-1:
+  tardy:
+  absent:
+    - Leon
+  merits: 2
+  p: ~
+4-2:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+4-3:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+4-4:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+4-5:
+  tardy:
+  absent:
+    - Willy
+  merits: 2
+  p: ~
