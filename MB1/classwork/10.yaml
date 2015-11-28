@@ -1,0 +1,55 @@
+---
+1-1:
+  absent: ~
+  merits: 3
+  p:
+    - 2
+  tardy: ~
+1-2:
+  absent: ~
+  merits: 3
+  p:
+    - 2
+  tardy: ~
+2-1:
+  absent:
+    - Crown
+  merits: 3
+  p:
+    - 2
+  tardy: ~
+2-2:
+  absent: ~
+  merits: 3
+  p:
+    - 2
+  tardy: ~
+3-1:
+  absent: ~
+  merits: 3
+  p:
+    - 2
+  tardy: ~
+3-2:
+  absent:
+    - Newsom
+    - Beemo
+  merits: 3
+  p:
+    - 2
+  tardy: ~
+4-1:
+  absent: ~
+  merits: 2.5
+  p:
+    - 1
+  tardy: ~
+4-2:
+  absent:
+    - Annafin
+    - Rain
+  merits: 2
+  p:
+    - 0
+  tardy: ~
+topic: health. ache: noun or verb?
