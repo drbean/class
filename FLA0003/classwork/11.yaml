@@ -1,0 +1,238 @@
+3-2:
+  absent: []
+  tardy: []
+  merits: 3
+  p:
+  - 2
+  - 2
+  rs:
+  - 1
+  - 0
+  - 0
+4-5:
+  absent: []
+  tardy: []
+  merits: 2.75
+  p:
+  - 2
+  - 2
+  rs:
+  - 0
+  - 1
+  - 0
+2-3:
+  absent: []
+  tardy: []
+  merits: 2.25
+  p:
+  - 1
+  - 2
+  rs:
+  - 9
+  - 9
+  - 1
+4-3:
+  absent: []
+  tardy: []
+  merits: 2.5
+  p:
+  - 1
+  - 1
+  rs:
+  - 1
+  - 0
+  - 0
+2-5:
+  absent: []
+  tardy: []
+  merits: 2.5
+  p:
+  - 2
+  - 2
+  rs:
+  - 0
+  - 0
+  - 9
+3-4:
+  absent: []
+  tardy: []
+  merits: 2.5
+  p:
+  - 0
+  - 2
+  rs:
+  - 1
+  - 0
+  - 0
+3-3:
+  absent: []
+  tardy: []
+  merits: 2.5
+  p:
+  - 1
+  - 2
+  rs:
+  - 0
+  - 1
+  - 0
+4-4:
+  absent: []
+  tardy: []
+  merits: 2.25
+  p:
+  - 1
+  - 1
+  rs:
+  - 0
+  - 0
+  - 0
+2-2:
+  absent: []
+  tardy: []
+  merits: 2.5
+  p:
+  - 1
+  - 1
+  rs:
+  - 1
+  - 0
+  - 0
+1-1:
+  absent: []
+  tardy: []
+  merits: 3
+  p:
+  - 2
+  - 2
+  rs:
+  - 1
+  - 0
+  - 0
+qz:
+- o:
+  - 'Yes'
+  - 'No'
+  a: 1
+  q: Can we use coins to take the subway?
+- o:
+  - 'Yes'
+  - 'No'
+  a: 0
+  q: Is it easy to buy tickets?
+- o:
+  - 'Yes'
+  - 'No'
+  a: 0
+  q: Do people use the card to get on the subway?
+3-5:
+  absent: []
+  tardy: []
+  merits: 2.75
+  p:
+  - 2
+  - 2
+  rs:
+  - 0
+  - 0
+  - 0
+4-2:
+  absent: []
+  tardy: []
+  merits: 2.5
+  p:
+  - 1
+  - 2
+  rs:
+  - 0
+  - 0
+  - 0
+2-4:
+  absent: []
+  tardy: []
+  merits: 2.5
+  p:
+  - 1
+  - 1
+  rs:
+  - 1
+  - 0
+  - 0
+1-2:
+  absent: []
+  tardy: []
+  merits: 3
+  p:
+  - 2
+  - 2
+  rs:
+  - 1
+  - 0
+  - 0
+2-1:
+  absent: []
+  tardy: []
+  merits: 2.75
+  p:
+  - 2
+  - 2
+  rs:
+  - 0
+  - 0
+  - 0
+3-1:
+  absent: []
+  tardy: []
+  merits: 2.75
+  p:
+  - 1
+  - 2
+  rs:
+  - 1
+  - 0
+  - 0
+1-3:
+  absent: []
+  tardy: []
+  merits: 2
+  p:
+  - 1
+  - 0
+  rs:
+  - 9
+  - 0
+  - 0
+1-4:
+  absent: []
+  tardy: []
+  merits: 2
+  p:
+  - 0
+  - 1
+  rs:
+  - 9
+  - 9
+  - 0
+4-1:
+  absent: []
+  tardy: []
+  merits: 2.75
+  p:
+  - 2
+  - 2
+  rs:
+  - 0
+  - 1
+  - 0
+topic: newyork
+1-5:
+  absent: []
+  tardy: []
+  merits: 2.5
+  p:
+  - 1
+  - 1
+  rs:
+  - 1
+  - 0
+  - 0
+
