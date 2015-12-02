@@ -1,0 +1,129 @@
+3-2:
+  absent: []
+  tardy: []
+  merits: 3
+  p: []
+  rs:
+  - 1
+  - 0
+  - 0
+2-3:
+  absent: []
+  tardy: []
+  merits: 3
+  p: []
+  rs:
+  - 1
+  - 0
+  - 0
+3-4:
+  absent: []
+  tardy: []
+  merits: 3
+  p: []
+  rs:
+  - 1
+  - 0
+  - 0
+3-3:
+  absent: []
+  tardy: []
+  merits: 3
+  p: []
+  rs:
+  - 1
+  - 0
+  - 0
+2-2:
+  absent: []
+  tardy: []
+  merits: 2.5
+  p: []
+  rs:
+  - 0
+  - 0
+  - 0
+1-1:
+  absent: []
+  tardy: []
+  merits: 3
+  p: []
+  rs:
+  - 1
+  - 0
+  - 0
+qz:
+- o:
+  - 'True'
+  - 'False'
+  a: 1
+  q: Thanksgiving is celebrated in a different way by Mexican-Americans.
+- o:
+  - 'True'
+  - 'False'
+  a: 0
+  q: Thanksgiving is an Anglo-American custom.
+- o:
+  - 'True'
+  - 'False'
+  a: 0
+  q: Some Mexican-Americans resist the idea of celebrating Thanksgiving.
+2-4:
+  absent: []
+  tardy: []
+  merits: 2.5
+  p: []
+  rs:
+  - 0
+  - 0
+  - 0
+1-2:
+  absent:
+  - Liz
+  tardy: []
+  merits: 3
+  p: []
+  rs:
+  - 1
+  - 0
+  - 0
+2-1:
+  absent:
+  - Ares
+  tardy: []
+  merits: 2
+  p: []
+  rs:
+  - 0
+  - 0
+  - 1
+3-1:
+  absent: []
+  tardy: []
+  merits: 3
+  p: []
+  rs:
+  - 1
+  - 0
+  - 0
+1-3:
+  absent:
+  - Vicky
+  tardy: []
+  merits: 3
+  p: []
+  rs:
+  - 1
+  - 0
+  - 0
+1-4:
+  absent: []
+  tardy: []
+  merits: 2
+  p: []
+  rs:
+  - 0
+  - 0
+  - 1
+topic: fernandez
+
