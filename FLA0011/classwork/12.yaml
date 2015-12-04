@@ -1,0 +1,156 @@
+3-2:
+  absent: []
+  tardy: []
+  merits: 2.5
+  p: []
+  rs:
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+2-3:
+  absent: []
+  tardy: []
+  merits: 2
+  p: []
+  rs:
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+2-2:
+  absent: []
+  tardy: []
+  merits: 2.5
+  p: []
+  rs:
+  - 0
+  - 1
+  - 0
+  - 1
+  - 1
+  - 1
+1-1:
+  absent:
+  - Ivan
+  tardy: []
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+qz:
+- o:
+  - 'True'
+  - 'False'
+  a: 0
+  q: There are many different parenting styles.
+- o:
+  - 'True'
+  - 'False'
+  a: 1
+  q: The Asian Mom gives her children freedom, but expects good school grades.
+- o:
+  - 'True'
+  - 'False'
+  a: 1
+  q: The Soccer Mom is very different than the Asian Mom.
+- o:
+  - 'True'
+  - 'False'
+  a: 0
+  q: Some Anglo-American moms are not very involved in their children's lives.
+- o:
+  - 'True'
+  - 'False'
+  a: 1
+  q: All Anglo-American parents like their children to socialize outside at night.
+- o:
+  - 'True'
+  - 'False'
+  a: 0
+  q: Sleepovers are an Anglo-American custom.
+2-4:
+  absent: []
+  tardy: []
+  merits: 2.5
+  p: []
+  rs:
+  - 0
+  - 1
+  - 0
+  - 1
+  - 1
+  - 1
+1-2:
+  absent:
+  - Sandy
+  tardy: []
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+2-1:
+  absent: []
+  tardy: []
+  merits: 2.5
+  p: []
+  rs:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+3-1:
+  absent: []
+  tardy: []
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 1
+  - 0
+  - 1
+  - 1
+  - 0
+1-3:
+  absent: []
+  tardy: []
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+1-4:
+  absent:
+  - Jay
+  tardy: []
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+topic: nguyen
+
