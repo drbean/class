@@ -1,0 +1,55 @@
+---
+activity:
+  personal_health:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+  health_systems:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+assistant:
+  2-1:
+    N04202105: 5
+    N03200030: 5
+  3-2:
+    N03200008: 5
+  1-2:
+    N03200025: 5
+dispensation:
+  Absent:
+    129129129: 5
+divisions: ~
+group:
+  0:
+    White: N03200012
+    Black: N04202101
+  1:
+    White: N02202201
+    Black: N03203105
+  2:
+    White: N03203103
+    Black: 100100100
+  3:
+    White: N03200027
+    Black: N03200018
+  4:
+    White: N03200010
+    Black: N01200048
+  
+late:
+  - N03200027
+  - N03200018
+  - N03200010
+  - N01200048
+pairing: swiss
+payprotocol: meritPay 2
+round: 3
+text: /home/drbean/class/speaking/health/cards.yaml
+week: 12
