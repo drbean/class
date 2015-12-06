@@ -1,0 +1,94 @@
+---
+1-1:
+  absent:
+    - Wade
+    - Sharon
+  merits: 2
+  p:
+    - 0
+    - 0
+    - 0
+  tardy: ~
+1-2:
+  absent:
+    - Amber
+  merits: 3
+  p:
+    - 1
+    - 1
+    - 1
+  tardy: ~
+2-1:
+  absent:
+    - Tracy
+  merits: 2
+  p:
+    - 0
+    - 0
+    - 0
+  tardy: ~
+2-2:
+  absent:
+    - Irene
+  merits: 2.33333333333333
+  p:
+    - 0
+    - 0
+    - 1
+  tardy: ~
+3-1:
+  absent:
+    - Tina
+  merits: 2.33333333333333
+  p:
+    - 0
+    - 0
+    - 1
+  tardy: ~
+3-2:
+  absent:
+    - Dora
+  merits: 3
+  p:
+    - 1
+    - 1
+    - 1
+  tardy: ~
+4-1:
+  absent:
+    - Trista
+  merits: 2.16666666666667
+  p:
+    - 0
+    - 0
+    - 0.5
+  tardy: ~
+4-2:
+  absent:
+    - Mia
+  merits: 2.33333333333333
+  p:
+    - 0
+    - 0
+    - 1
+  tardy: ~
+5-1:
+  absent:
+    - Grace2
+  merits: 3
+  p:
+    - 1
+    - 1
+    - 1
+  tardy: ~
+5-2:
+  absent:
+    - Jenny
+    - Kevin2
+  merits: 2
+  p:
+    - 0
+    - 0
+    - 0
+  tardy: ~
+topic: 'vocab,chen,annan'
