@@ -1,0 +1,70 @@
+---
+activity:
+  personal_health:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  health_systems:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+assistant:
+  4-2:
+    B03200084: 5
+    B03200064: 5
+  5-1:
+    B03200106: 5
+dispensation:
+  4-2:
+    B02200086: 3
+  4-1:
+    B02200062: 3
+divisions: ~
+group:
+  0:
+    White: B01080096
+    Black: B03200092
+  1:
+    White: B03200015
+    Black: B03200102
+  2:
+    White: B03200037
+    Black: B03200011
+  3:
+    White: B03200019
+    Black: B03200039
+  4:
+    White: B03200005
+    Black: B03200031
+  5:
+    White: B03200007
+    Black: B03200052
+  6:
+    White: B03200056
+    Black: B03200043
+  7:
+    White: B02200086
+    Black: B02200062
+  
+late:
+  - B03200056
+  - B03200043
+  - B02200086
+  - B02200062
+pairing: swiss
+payprotocol: meritPay
+round: 3
+text: /home/drbean/class/speaking/health/cards.yaml
+week: 12
