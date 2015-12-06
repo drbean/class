@@ -1,0 +1,62 @@
+---
+topic: health
+
+
+1-1:
+  tardy:
+  absent:
+    - Sharon
+    - Wade
+  merits: 3
+  p: ~
+1-2:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+2-1:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+2-2:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+3-1:
+  tardy:
+  absent:
+    - Tina
+  merits: 3
+  p: ~
+3-2:
+  tardy:
+  absent:
+    - WanChing
+  merits: 3
+  p: ~
+4-1:
+  tardy:
+  absent:
+    - Trista
+  merits: 3
+  p: ~
+4-2:
+  tardy:
+  absent:
+    - Mia
+  merits: 3
+  p: ~
+5-1:
+  tardy:
+  absent:
+    - Grace2
+  merits: 3
+  p: ~
+5-2:
+  tardy:
+  absent:
+    - Jenny
+  merits: 3
+  p: ~
