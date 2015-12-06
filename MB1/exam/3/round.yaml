@@ -1,0 +1,59 @@
+---
+round: Exam 2
+week: 8
+questions:
+  - 10
+pass: 4
+assistant:
+  - Newsom
+  - Beemo
+  - YoYo
+absent:
+  - Jay
+  - Ling
+  - Vicky
+  - Macaria
+  - Wilson
+  - Gary
+  - York
+  - Kelly
+  - Annafin
+text: /home/drbean/class/speaking/health/cards.yaml
+activity:
+  health:
+    0:
+      - 4-1
+    1:
+      - 2-2
+      - 3-2
+      - 5-2
+    2:
+      - 1-2
+      - 5-1
+
+
+group:
+  1-2:
+    - Hanny
+    - Danly
+    - Stan
+  2-2:
+    - Newsom
+    - Natasha
+    - Dawn
+  3-2:
+    - Newsom
+    - YoYo
+    - Beemo
+  4-1:
+    - Orange
+    - Jeremy
+    - Roger
+  5-1:
+    - Ava
+    - Rain
+    - Crown
+  5-2:
+    - Kris
+    - YoYo
+    - Beemo
