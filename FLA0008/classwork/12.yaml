@@ -10,7 +10,8 @@
   - 0
   - 1
   - 0
-  tardy: []
+  tardy:
+    - Shelli
 1-2:
   absent: []
   merits: 2.6666667
@@ -51,7 +52,8 @@
   - 0
   tardy: []
 2-1:
-  absent: []
+  absent:
+    - Ares
   merits: 2
   p:
   - 1
@@ -75,7 +77,8 @@
   - 0
   - 0
   - 0
-  tardy: []
+  tardy:
+    - Tina
 2-3:
   absent: []
   merits: 3
@@ -142,7 +145,8 @@
   - 0
   tardy: []
 3-4:
-  absent: []
+  absent:
+    - Amber
   merits: 2
   p:
   - 0
