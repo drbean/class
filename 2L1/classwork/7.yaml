@@ -1,0 +1,115 @@
+1-1:
+  absent: []
+  merits: 2.6666667
+  p: []
+  rs:
+  - 1
+  - 1
+  - 0
+  tardy:
+  - Wade
+1-2:
+  absent: []
+  merits: 3
+  p: []
+  rs:
+  - 1
+  - 0
+  - 0
+  tardy: []
+2-1:
+  absent: []
+  merits: 3
+  p: []
+  rs:
+  - 1
+  - 0
+  - 0
+  tardy: []
+2-2:
+  absent: []
+  merits: 2.6666667
+  p: []
+  rs:
+  - 1
+  - 0
+  - 1
+  tardy:
+  - Kevin1
+3-1:
+  absent: []
+  merits: 2.6666667
+  p: []
+  rs:
+  - 1
+  - 1
+  - 0
+  tardy:
+  - Victoria
+3-2:
+  absent:
+  - Sharon
+  - Mia
+  merits: 2
+  p: []
+  rs:
+  - 9
+  - 9
+  - 9
+  tardy: []
+4-1:
+  absent: []
+  merits: 2
+  p: []
+  rs:
+  - 9
+  - 9
+  - 9
+  tardy: []
+4-2:
+  absent:
+  - Trista
+  merits: 2
+  p: []
+  rs:
+  - 9
+  - 9
+  - 9
+  tardy: []
+5-1:
+  absent: []
+  merits: 2
+  p: []
+  rs:
+  - 0
+  - 9
+  - 9
+  tardy: []
+5-2:
+  absent: []
+  merits: 2
+  p: []
+  rs:
+  - 9
+  - 9
+  - 9
+  tardy:
+  - Amber
+qz:
+- a: 1
+  o:
+  - Jin-suk
+  - Nazim
+  q: Who doesn't agree that money makes us greedy?
+- a: 0
+  o:
+  - Jin-suk
+  - Nazim
+  q: Whose view is closer to communism?
+- a: 0
+  o:
+  - Jin-suk
+  - Nazim
+  q: Who says some people work because they like to work?
+topic: money:points_of_view
+
