@@ -105,7 +105,7 @@ qz:
 topic: money==greedy,p14-15
 5-1:
   absent:
-    - Grace
+    - Grace2
     - Kevin2
   tardy: []
   merits: 2
