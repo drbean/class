@@ -1,0 +1,65 @@
+---
+topic: education
+
+
+1-1:
+  tardy:
+  absent:
+    - Sharon
+    - Wade
+  merits: 2
+  p: 0
+1-2:
+  tardy:
+    - Eason
+  absent:
+    - Amber
+  merits: 2.5
+  p: 1
+2-1:
+  tardy:
+  absent:
+    - Trista
+  merits: 2
+  p: 0
+2-2:
+  tardy:
+  absent:
+    - Mia
+  merits: 2.5
+  p: 1
+3-1:
+  tardy:
+  absent:
+    - Grace2
+  merits: 2
+  p: 0
+3-2:
+  tardy:
+  absent:
+    - WanChing
+  merits: 2.5
+  p: 1
+4-1:
+  tardy:
+  absent:
+    - Alison
+  merits: 3
+  p: 2
+4-2:
+  tardy:
+  absent:
+    - Kevin2
+  merits: 2.5
+  p: 1
+5-1:
+  tardy:
+  absent:
+    - Grace1
+  merits: 2
+  p: 0
+5-2:
+  tardy:
+  absent:
+  merits: 2.5
+  p: 1
