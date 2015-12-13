@@ -1,0 +1,103 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: smoking
+grade:
+  100100100: 2
+  129129129: 0
+  N01200048: 1.76
+  N02202201: 2
+  N03080070: 1.24
+  N03200001: 1.88
+  N03200004: 2
+  N03200006: 2
+  N03200008: 0
+  N03200010: 0
+  N03200012: 1.82
+  N03200014: 2
+  N03200018: 0
+  N03200022: 2
+  N03200025: 2
+  N03200027: 2
+  N03200030: 1.34
+  N03200034: 2
+  N03200036: 0
+  N03203103: 2
+  N03203105: 1.74
+  N04202101: 1.98
+  N04202105: 0
+  N04202109: 0
+points:
+  100100100:
+    letters: 168
+    percent: 100
+  129129129:
+    letters: 0
+    percent: 0
+  N01200048:
+    letters: 135
+    percent: 88
+  N02202201:
+    letters: 186
+    percent: 100
+  N03080070:
+    letters: 97
+    percent: 62
+  N03200001:
+    letters: 147
+    percent: 94
+  N03200004:
+    letters: 159
+    percent: 100
+  N03200006:
+    letters: 145
+    percent: 100
+  N03200008:
+    letters: 0
+    percent: 0
+  N03200010:
+    letters: 0
+    percent: 0
+  N03200012:
+    letters: 151
+    percent: 91
+  N03200014:
+    letters: 149
+    percent: 100
+  N03200018:
+    letters: 0
+    percent: 0
+  N03200022:
+    letters: 169
+    percent: 100
+  N03200025:
+    letters: 178
+    percent: 100
+  N03200027:
+    letters: 142
+    percent: 100
+  N03200030:
+    letters: 94
+    percent: 67
+  N03200034:
+    letters: 182
+    percent: 100
+  N03200036:
+    letters: 0
+    percent: 0
+  N03203103:
+    letters: 163
+    percent: 100
+  N03203105:
+    letters: 131
+    percent: 87
+  N04202101:
+    letters: 148
+    percent: 99
+  N04202105:
+    letters: 0
+    percent: 0
+  N04202109:
+    letters: 0
+    percent: 0
