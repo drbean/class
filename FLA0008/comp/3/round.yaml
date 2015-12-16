@@ -1,0 +1,117 @@
+---
+activity:
+  franklin:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+  fernandez:
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+  nguyen:
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+assistant:
+  2-1:
+    V0341023: 5
+    V0341012: 5
+  2-2:
+    V0341011: 5
+bye: V0341005
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: V0241008
+    Black: V0341037
+    
+  1:
+    White: V0341024
+    Black: V0341017
+  2:
+    White: V0241004
+    Black: V0341021
+  3:
+    White: V0341036
+    Black: V0341032
+  4:
+    White: V0341041
+    Black: V0341039
+  5:
+    White: V0341009
+    Black: V0341003
+  6:
+    White: V0341033
+    Black: V0341004
+  7:
+    White: V0341015
+    Black: V0341013
+  8:
+    White: V0341016
+    Black: V0341025
+  9:
+    White: V0341027
+    Black: V0241064
+  10:
+    White: V0341051
+    Black: V0341022
+  11:
+    White: V0341034
+    Black: V0341019
+  12:
+    White: V0341035
+    Black: V0341044
+  13:
+    White: V0341031
+    Black: V0341010
+  14:
+    White: V0341001
+    Black: V0341052
+late:
+  - V0341005
+  - V0341037
+pairing: swiss
+payprotocol: meritPay
+round: 3
+text: /home/drbean/class/conversation/intercultural/cards.yaml
+week: 13

@@ -1,0 +1,84 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 10
+pass: 6
+assistant:
+  - Bamboo
+  - Shelli
+absent:
+  - Jay
+  - Ares
+  - Ramses
+text: /home/drbean/class/conversation/intercultural/cards.yaml
+activity:
+  franklin:
+    0:
+      - 1-1
+      - 1-2
+      - 1-3
+      - 1-4
+  fernandez:
+    1:
+      - 2-1
+      - 2-2
+      - 2-3
+      - 2-4
+  nguyen:
+    1:
+
+      - 3-1
+      - 3-2
+      - 3-3
+      - 3-4
+
+group:
+  1-1:
+    - Jessie
+    - Lily
+    - Shelli
+  1-2:
+    - Liz
+    - Bamboo
+    - Joy
+  1-3:
+    - Vicky
+    - Jackie
+    - Bamboo
+  1-4:
+    - Johnson
+    - Toby
+    - Jennifer
+  2-1:
+    - Winnie
+    - Annie
+    - Megan
+  2-2:
+    - Tony
+    - Shelli
+    - Tina
+  2-3:
+    - Toyz
+    - David
+    - Wan
+  2-4:
+    - Eric2
+    - Tiffany
+    - Sherry
+  3-1:
+    - Fanny
+    - Kiki
+    - Antonio
+  3-2:
+    - Kevin
+    - Nora
+    - Andy
+  3-3:
+    - Christopher
+    - Lori
+    - Allen
+  3-4:
+    - Amber
+    - Eric1
+    - Gina
