@@ -1,0 +1,92 @@
+---
+activity:
+  franklin:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+  fernandez:
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+  nguyen:
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+assistant:
+  3-2:
+    V0241014: 5
+  2-1:
+    V0241041: 5
+    V0241001: 5
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: V0241031
+    Black: V0241030
+  1:
+    White: V0241038
+    Black: V0241004
+  2:
+    White: V0141001
+    Black: V0241044
+  3:
+    White: V0241024
+    Black: V0241064
+  4:
+    White: V0241034
+    Black: V0241039
+  5:
+    White: V0241029
+    Black: V0241042
+  6:
+    White: V0241026
+    Black: V0241032
+  7:
+    White: V0141063
+    Black: V0241065
+  8:
+    White: V0241067
+    Black: V0241045
+  9:
+    White: V0141062
+    Black: V0241066
+  10:
+    White: V0241022
+    Black: V0241046
+late:
+  - V0241022
+  - V0241046
+# no report by Jimmy V0241020, but was in jigsaw
+pairing: swiss
+payprotocol: meritPay 2
+round: 3
+text: /home/drbean/class/conversation/intercultural/cards.yaml
+week: 13

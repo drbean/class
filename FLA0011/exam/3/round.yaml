@@ -1,0 +1,68 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 10
+pass: 6
+assistant:
+  - David
+absent:
+  - Jay
+  - Ivan
+  - Ellie
+text: /home/drbean/class/conversation/intercultural/cards.yaml
+activity:
+  franklin:
+    0:
+      - 1-3
+      - 2-2
+      - 3-2
+  fernandez:
+    1:
+      - 1-2
+      - 2-4
+      - 3-1
+  nguyen:
+    1:
+      - 1-1
+      - 2-1
+      - 2-3
+
+
+group:
+  1-1:
+    - David
+    - Sandy
+    - Catherine
+  1-2:
+    - David
+    - Janice
+    - Ali
+  1-3:
+    - Kevin
+    - Nancy
+    - Irene
+  2-1:
+    - Joyce
+    - Winnie
+    - Fiona
+  2-2:
+    - Cherry
+    - Lily
+    - Karsten
+  2-3:
+    - Rita
+    - Jackie
+    - Penny
+  2-4:
+    - Jimmy
+    - Amber
+    - Chuck
+  3-1:
+    - Nina
+    - Abby
+    - Joy
+  3-2:
+    - Tina
+    - Josh
+    - Jason
