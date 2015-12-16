@@ -1,0 +1,380 @@
+---
+free:
+  0:
+    franklin:
+      0:
+        V0241008:
+          point:
+            1: Old
+        V0341037:
+          point:
+            1: Nil
+    fernandez:
+      1:
+        V0241008:
+          point:
+            1: Returned on 2nd chance
+        V0341037:
+          point:
+            1: Unreturned
+    nguyen:
+      1:
+        V0241008:
+          point:
+            1: Returned
+        V0341037:
+          point:
+            1: Fault
+  1:
+    franklin:
+      0:
+        V0341024:
+          point:
+            1: Nil
+        V0341017:
+          point:
+            1: Nil
+    fernandez:
+      1:
+        V0341024:
+          point:
+            1: Returned
+        V0341017:
+          point:
+            1: Nil
+    nguyen:
+      1:
+        V0341024:
+          point:
+            1: Nil
+        V0341017:
+          point:
+            1: Returned on 2nd chance
+  2:
+    franklin:
+      0:
+        V0241004:
+          point:
+            1: Returned
+        V0341021:
+          point:
+            1: Returned
+    fernandez:
+      1:
+        V0241004:
+          point:
+            1: Nil
+        V0341021:
+          point:
+            1: Nil
+    nguyen:
+      1:
+        V0241004:
+          point:
+            1: Returned
+        V0341021:
+          point:
+            1: Returned
+  3:
+    franklin:
+      0:
+        V0341036:
+          point:
+            1: Nil
+        V0341032:
+          point:
+            1: Nil
+    fernandez:
+      1:
+        V0341036:
+          point:
+            1: Returned
+        V0341032:
+          point:
+            1: Nil
+    nguyen:
+      1:
+        V0341036:
+          point:
+            1: Nil
+        V0341032:
+          point:
+            1: Returned
+  4:
+    franklin:
+      0:
+        V0341041:
+          point:
+            1: Returned
+        V0341039:
+          point:
+            1: Returned
+    fernandez:
+      1:
+        V0341041:
+          point:
+            1: Nil
+        V0341039:
+          point:
+            1: Nil
+    nguyen:
+      1:
+        V0341041:
+          point:
+            1: Nil
+        V0341039:
+          point:
+            1: Nil
+  5:
+    franklin:
+      0:
+        V0341009:
+          point:
+            1: Nil
+        V0341003:
+          point:
+            1: Nil
+    fernandez:
+      1:
+        V0341009:
+          point:
+            1: Nil
+        V0341003:
+          point:
+            1: Nil
+    nguyen:
+      1:
+        V0341009:
+          point:
+            1: Nil
+        V0341003:
+          point:
+            1: Nil
+  6:
+    franklin:
+      0:
+        V0341033:
+          point:
+            1: Nil
+        V0341004:
+          point:
+            1: Nil
+    fernandez:
+      1:
+        V0341033:
+          point:
+            1: Nil
+        V0341004:
+          point:
+            1: Nil
+    nguyen:
+      1:
+        V0341033:
+          point:
+            1: Nil
+        V0341004:
+          point:
+            1: Nil
+  7:
+    franklin:
+      0:
+        V0341015:
+          point:
+            1: Unreturned
+        V0341013:
+          point:
+            1: Returned
+    fernandez:
+      1:
+        V0341015:
+          point:
+            1: Unreturned
+        V0341013:
+          point:
+            1: Nil
+    nguyen:
+      1:
+        V0341015:
+          point:
+            1: Nil
+        V0341013:
+          point:
+            1: Nil
+  8:
+    franklin:
+      0:
+        V0341016:
+          point:
+            1: Nil
+        V0341025:
+          point:
+            1: Nil
+    fernandez:
+      1:
+        V0341016:
+          point:
+            1: Nil
+        V0341025:
+          point:
+            1: Nil
+    nguyen:
+      1:
+        V0341016:
+          point:
+            1: Fault on 2nd chance
+        V0341025:
+          point:
+            1: Returned
+  9:
+    franklin:
+      0:
+        V0341027:
+          point:
+            1: Nil
+        V0241064:
+          point:
+            1: Nil
+    fernandez:
+      1:
+        V0341027:
+          point:
+            1: Returned on 2nd chance
+        V0241064:
+          point:
+            1: Returned
+    nguyen:
+      1:
+        V0341027:
+          point:
+            1: Returned
+        V0241064:
+          point:
+            1: Returned
+  10:
+    franklin:
+      0:
+        V0341051:
+          point:
+            1: Nil
+        V0341022:
+          point:
+            1: Nil
+    fernandez:
+      1:
+        V0341051:
+          point:
+            1: Nil
+        V0341022:
+          point:
+            1: Nil
+    nguyen:
+      1:
+        V0341051:
+          point:
+            1: Nil
+        V0341022:
+          point:
+            1: Nil
+  11:
+    franklin:
+      0:
+        V0341034:
+          point:
+            1: Returned on 2nd chance
+        V0341019:
+          point:
+            1: Returned
+    fernandez:
+      1:
+        V0341034:
+          point:
+            1: Nil
+        V0341019:
+          point:
+            1: Nil
+    nguyen:
+      1:
+        V0341034:
+          point:
+            1: Returned
+        V0341019:
+          point:
+            1: Returned on 2nd chance
+  12:
+    franklin:
+      0:
+        V0341035:
+          point:
+            1: Old
+            2: Returned
+        V0341044:
+          point:
+            1: Nil
+    fernandez:
+      1:
+        V0341035:
+          point:
+            1: Nil
+        V0341044:
+          point:
+            1: Nil
+    nguyen:
+      1:
+        V0341035:
+          point:
+            1: Nil
+        V0341044:
+          point:
+            1: Returned
+  13:
+    franklin:
+      0:
+        V0341031:
+          point:
+            1: Nil
+        V0341010:
+          point:
+            1: Nil
+    fernandez:
+      1:
+        V0341031:
+          point:
+            1: Nil
+        V0341010:
+          point:
+            1: Nil
+    nguyen:
+      1:
+        V0341031:
+          point:
+            1: Nil
+        V0341010:
+          point:
+            1: Nil
+  14:
+    franklin:
+      0:
+        V0341001:
+          point:
+            1: Old
+            2: Fault on 2nd chance
+            3: Nil
+        V0341052:
+          point:
+            1: Nil
+    fernandez:
+      1:
+        V0341001:
+          point:
+            1: Nil
+        V0341052:
+          point:
+            1: Nil
+    nguyen:
+      1:
+        V0341001:
+          point:
+            1: Nil
+        V0341052:
+          point:
+            1: Fault
