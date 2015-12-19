@@ -1,0 +1,124 @@
+1-1:
+  absent:
+  - Kerin
+  merits: 2
+  p:
+  - 0
+  rs:
+  - 2
+  - 1
+  - 2
+  - 0
+  - 0
+  tardy: []
+1-2:
+  absent: []
+  merits: 2
+  p:
+  - 0
+  rs:
+  - 2
+  - 2
+  - 0
+  - 0
+  - 0
+  tardy: []
+2-1:
+  absent:
+  - Milly
+  merits: 3
+  p:
+  - 1
+  rs:
+  - 0
+  - 1
+  - 1
+  - 0
+  - 2
+  tardy: []
+2-2:
+  absent:
+  - BoHao
+  merits: 2.6666667
+  p:
+  - 1
+  rs:
+  - 2
+  - 2
+  - 2
+  - 1
+  - 2
+  tardy: []
+3-1:
+  absent:
+  - Eddie
+  - Benson
+  merits: 2.6666667
+  p:
+  - 0
+  rs:
+  - 0
+  - 1
+  - 1
+  - 0
+  - 2
+  tardy: []
+3-2:
+  absent: []
+  merits: 2.6666667
+  p:
+  - 0
+  rs:
+  - 0
+  - 1
+  - 1
+  - 0
+  - 2
+  tardy: []
+4-1:
+  absent:
+  - Emily
+  - Nicki
+  merits: 2
+  p: []
+  rs:
+  - 9
+  - 9
+  - 9
+  - 9
+  - 9
+  tardy: []
+day: (014) 2015-12-12
+qz:
+- a: 0
+  o:
+  - ''
+  - ''
+  - ''
+  q: soccer
+- a: 1
+  o:
+  - ''
+  - ''
+  - ''
+  q: LA
+- a: 1
+  o:
+  - ''
+  - ''
+  - ''
+  q: bilingual dictionaries
+- a: 0
+  o:
+  - ''
+  - ''
+  - ''
+  q: perfume
+- a: 2
+  o:
+  - ''
+  - ''
+  - ''
+  q: An American Education
+topic: mindmap,topic_sentence
+
