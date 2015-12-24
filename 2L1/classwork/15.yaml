@@ -1,0 +1,160 @@
+1-1:
+  absent:
+  - Wade
+  - Sharon
+  merits: 2
+  p:
+  - 0
+  - 0
+  rs:
+  - 9
+  - 9
+  - 9
+  - 9
+  tardy: []
+1-2:
+  absent:
+  - Amber
+  merits: 2.6666667
+  p:
+  - 0
+  - 2
+  rs:
+  - 0
+  - 0
+  - 1
+  - 0
+  tardy: []
+2-1:
+  absent:
+  - Trista
+  - Cathy
+  merits: 2.3333333
+  p:
+  - 0
+  - 1
+  rs:
+  - 9
+  - 9
+  - 1
+  - 0
+  tardy: []
+2-2:
+  absent:
+  - Mia
+  merits: 2.6666667
+  p:
+  - 0
+  - 2
+  rs:
+  - 0
+  - 0
+  - 1
+  - 0
+  tardy: []
+3-1:
+  absent:
+  - Grace2
+  merits: 2.5
+  p:
+  - 0
+  - 2
+  rs:
+  - 1
+  - 2
+  - 0
+  - 1
+  tardy: []
+3-2:
+  absent:
+  - WanChing
+  merits: 3
+  p:
+  - 1
+  - 2
+  rs:
+  - 1
+  - 1
+  - 1
+  - 1
+  tardy:
+  - Harry
+4-1:
+  absent:
+  - Michael
+  - Alison
+  merits: 2.3333333
+  p:
+  - 0
+  - 1
+  rs:
+  - 1
+  - 9
+  - 1
+  - 0
+  tardy: []
+4-2:
+  absent: []
+  merits: 2.6666667
+  p:
+  - 0
+  - 3
+  rs:
+  - 1
+  - 0
+  - 1
+  - 9
+  tardy: []
+5-1:
+  absent:
+  - Jenny
+  merits: 2.8333333
+  p:
+  - 0
+  - 2
+  rs:
+  - 1
+  - 1
+  - 1
+  - 1
+  tardy: []
+5-2:
+  absent: []
+  merits: 3
+  p:
+  - 1
+  - 3
+  rs:
+  - 2
+  - 9
+  - 1
+  - 1
+  tardy: []
+day: (014) 2015-12-21
+qz:
+- a: 0
+  o:
+  - Crystal
+  - Mac
+  - Sam
+  q: Who approves of affirmative action?
+- a: 1
+  o:
+  - Crystal
+  - Mac
+  - Sam
+  q: Who doesn't approve of affirmative action?
+- a: 1
+  o:
+  - Crystal
+  - Mac
+  - Sam
+  q: Who was probably not admitted through affirmative action?
+- a: 1
+  o:
+  - Crystal
+  - Mac
+  - Sam
+  q: Who is not a member of a minority?
+topic: affirmative_action,education_question
+
