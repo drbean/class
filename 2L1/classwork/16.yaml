@@ -34,6 +34,7 @@ topic: affirmative_action,must_program
 3-1:
   tardy:
   absent:
+    - Grace2
   merits: 2.5
   p: 
     - 1
@@ -48,6 +49,7 @@ topic: affirmative_action,must_program
 4-1:
   tardy:
   absent:
+    - Alison
   merits: 2.5
   p:
     - 1
@@ -62,6 +64,7 @@ topic: affirmative_action,must_program
 5-1:
   tardy:
   absent:
+    - Grace1
   merits: 3
   p:
     - 2
