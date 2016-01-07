@@ -1,34 +1,31 @@
 1-1:
   absent: []
-  merits: 2.6
+  merits: 2.75
   p:
   - 2
-  - 1
-  - 2
+  - 0
   rs:
+  - 1
   - 0
-  - 0
-  - 0
+  - 1
   tardy: []
 1-2:
-  absent: []
-  merits: 2.2
-  p:
-  - 1
-  - 1
-  - 1
-  rs:
-  - 0
-  - 0
-  - 0
-  tardy: []
-1-3:
   absent: []
   merits: 3
   p:
   - 2
+  - 1
+  rs:
+  - 1
+  - 0
+  - 1
+  tardy: []
+1-3:
+  absent: []
+  merits: 2.5
+  p:
   - 2
-  - 2
+  - 0
   rs:
   - 1
   - 0
@@ -36,46 +33,43 @@
   tardy: []
 1-4:
   absent: []
-  merits: 2
+  merits: 2.5
   p:
+  - 2
   - 0
-  - 0
-  - 1
   rs:
   - 1
   - 0
   - 0
   tardy: []
+1-5: null
 2-1:
   absent: []
-  merits: 2.6
+  merits: 3
   p:
-  - 1
   - 2
   - 2
   rs:
   - 1
-  - 1
+  - 0
   - 0
   tardy: []
 2-2:
   absent: []
-  merits: 2.4
+  merits: 2.75
   p:
-  - 1
   - 2
-  - 2
+  - 0
   rs:
-  - 0
   - 1
   - 0
+  - 1
   tardy: []
 2-3:
   absent: []
-  merits: 2.4
+  merits: 2.75
   p:
-  - 1
-  - 1
+  - 2
   - 1
   rs:
   - 1
@@ -84,35 +78,33 @@
   tardy: []
 2-4:
   absent: []
-  merits: 2
+  merits: 2.5
   p:
-  - 0
-  - 0
   - 2
-  rs:
   - 0
+  rs:
+  - 1
   - 0
   - 0
   tardy: []
+2-5: null
 3-1:
   absent: []
-  merits: 2.4
+  merits: 2.75
   p:
   - 2
-  - 1
-  - 0
+  - 2
   rs:
   - 1
-  - 0
+  - 1
   - 0
   tardy: []
 3-2:
   absent: []
-  merits: 2.6
+  merits: 3
   p:
   - 2
-  - 1
-  - 1
+  - 2
   rs:
   - 1
   - 0
@@ -120,10 +112,9 @@
   tardy: []
 3-3:
   absent: []
-  merits: 2.6
+  merits: 3
   p:
-  - 1
-  - 1
+  - 2
   - 2
   rs:
   - 1
@@ -132,45 +123,42 @@
   tardy: []
 3-4:
   absent: []
-  merits: 2.8
+  merits: 2.75
   p:
   - 2
-  - 2
-  - 2
+  - 0
   rs:
+  - 1
   - 0
-  - 0
-  - 0
+  - 1
   tardy: []
+3-5: null
 4-1:
   absent: []
-  merits: 2.6
+  merits: 2
   p:
-  - 1
-  - 2
-  - 1
+  - 0
+  - 0
   rs:
   - 1
-  - 0
-  - 0
+  - 1
+  - 1
   tardy: []
 4-2:
   absent: []
-  merits: 2.6
+  merits: 2
   p:
-  - 1
-  - 1
-  - 2
+  - 0
+  - 0
   rs:
   - 1
-  - 0
-  - 0
+  - 1
+  - 1
   tardy: []
 4-3:
   absent: []
-  merits: 2.8
+  merits: 3
   p:
-  - 1
   - 2
   - 2
   rs:
@@ -178,22 +166,26 @@
   - 0
   - 0
   tardy: []
+4-4: null
+4-5: null
+5-1: null
+5-2: null
 day: (014) 2015-12-31
 qz:
 - a: 1
   o:
   - 'True'
   - 'False'
-  q: The lunch lady didn't violate school rules.
+  q: The colonel was punished for playing a joke.
 - a: 0
   o:
   - 'True'
   - 'False'
-  q: The worker treated the student to a meal.
-- a: 0
+  q: The child called the wrong number.
+- a: 1
   o:
   - 'True'
   - 'False'
-  q: There is a specific system to provide lunch for children without money.
-topic: nail_coin,lunch_lady,child_driver
+  q: The child knew that he had the wrong number.
+topic: norad
 
