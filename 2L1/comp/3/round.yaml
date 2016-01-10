@@ -64,7 +64,7 @@ late:
   - B02200086
   - B02200062
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 2
 round: 3
 text: /home/drbean/class/speaking/health/cards.yaml
 week: 12
