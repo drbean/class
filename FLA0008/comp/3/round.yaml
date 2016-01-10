@@ -111,7 +111,7 @@ late:
   - V0341005
   - V0341037
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 2
 round: 3
 text: /home/drbean/class/conversation/intercultural/cards.yaml
 week: 13
