@@ -1,0 +1,107 @@
+---
+1-1:
+  absent:
+  - BoHao
+  merits: 2.83333333333333
+  p:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  - 0
+  - 3
+  tardy: ~
+  total: 10
+1-2:
+  absent:
+  - YaYun
+  merits: 2.5
+  p:
+  - 1
+  - 1
+  - 0
+  - 1
+  - 0
+  - 2
+  - 0
+  - 3
+  tardy: ~
+  total: 8
+2-1:
+  absent: ~
+  merits: 2.66666666666667
+  p:
+  - 1
+  - 0
+  - 1
+  - 1
+  - 1
+  - 2
+  - 0
+  - 3
+  tardy: ~
+  total: 9
+2-2:
+  absent:
+  - Milly
+  merits: 2.5
+  p:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 2
+  - 0
+  - 1
+  tardy: ~
+  total: 8
+3-1:
+  absent:
+  - Kerin
+  - TingTing
+  merits: 2.5
+  p:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0
+  - 1
+  - 0
+  - 3
+  tardy: ~
+  total: 8
+3-2:
+  absent: ~
+  merits: 3
+  p:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 3
+  - 0
+  - 3
+  tardy: ~
+  total: 11
+4-1:
+  absent:
+  - Emily
+  - Nicki
+  merits: 1.16666666666667
+  p:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  tardy: ~
+  total: 0
+topic: 'unit_2,3,activity_6,paragraph_14: transmission'
