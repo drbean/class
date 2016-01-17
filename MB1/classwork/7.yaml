@@ -5,6 +5,7 @@
   p:
   - 2
   rs:
+  - 0
   - 1
   - 2
   tardy: []
@@ -15,6 +16,7 @@
   p:
   - 2
   rs:
+  - 0
   - 9
   - 2
   tardy: []
@@ -24,10 +26,11 @@
 2-1:
   absent:
   - Newsom
-  merits: 2.5
+  merits: 2.25
   p:
   - 2
   rs:
+  - 1
   - 0
   - 0
   tardy: []
@@ -37,6 +40,7 @@
   p:
   - 2
   rs:
+  - 0
   - 1
   - 1
   tardy: []
@@ -49,6 +53,7 @@
   p:
   - 2
   rs:
+  - 0
   - 2
   - 2
   tardy: []
@@ -58,6 +63,7 @@
   p:
   - 2
   rs:
+  - 0
   - 0
   - 0
   tardy: []
@@ -73,14 +79,16 @@
   rs:
   - 0
   - 0
+  - 0
   tardy: []
 4-2:
   absent:
-  - YuPin
+  - Rain
   merits: 2
   p:
   - 0
   rs:
+  - 0
   - 0
   - 0
   tardy: []
@@ -91,17 +99,23 @@
 5-2: null
 day: (014) 2015-10-31
 qz:
+- a: 0
+  o:
+  - 'Yes'
+  - 'No'
+  - Ungrammatical
+  q: Does he want to give money to this woman?
 - a: 2
   o:
   - 'Yes'
   - 'No'
   - Ungrammatical
-  q: Some interrogative clause
+  q: Is he want to buy something?
 - a: 2
   o:
   - 'Yes'
   - 'No'
   - Ungrammatical
-  q: Some interrogative clause
+  q: Is she finally take his money or not?
 topic: champs money:points_of_view
 
