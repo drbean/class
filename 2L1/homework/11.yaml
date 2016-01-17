@@ -4,17 +4,17 @@ cutpoints:
   two: ~
 exercise: smoking
 grade:
-  B01080096: 0
+  B01080096: 2
   B01130056: 0
   B02200062: 0
   B02200064: 0
   B02200086: 0
   B02200098: 0
-  B03200005: 1.72
+  B03200005: 1.94
   B03200007: 2
   B03200011: 1.92
   B03200015: 0
-  B03200019: 0
+  B03200019: 2
   B03200023: 0
   B03200027: 0
   B03200031: 1.54
@@ -35,8 +35,8 @@ grade:
   B03200110: 0
 points:
   B01080096:
-    letters: 0
-    percent: 0
+    letters: 162
+    percent: 100
   B01130056:
     letters: 0
     percent: 0
@@ -53,8 +53,8 @@ points:
     letters: 0
     percent: 0
   B03200005:
-    letters: 154
-    percent: 86
+    letters: 174
+    percent: 97
   B03200007:
     letters: 145
     percent: 100
@@ -65,8 +65,8 @@ points:
     letters: 0
     percent: 0
   B03200019:
-    letters: 0
-    percent: 0
+    letters: 166
+    percent: 100
   B03200023:
     letters: 0
     percent: 0
