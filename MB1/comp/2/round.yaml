@@ -24,7 +24,13 @@ activity:
       - 7
       - 8
       - 9
-assistant: ~
+assistant:
+  1-1:
+    N03200014: 5
+  1-2:
+    N04202101: 5
+  2-2:
+    N03200012: 5
 dispensation: ~
 divisions: ~
 group:
