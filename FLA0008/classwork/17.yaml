@@ -1,0 +1,72 @@
+---
+topic: wang
+
+
+1-1:
+  tardy:
+  absent:
+    - Ares
+    - Toyz
+  merits: 3
+  p: ~
+1-2:
+  tardy:
+  absent:
+    - Liz
+  merits: 3
+  p: ~
+1-3:
+  tardy:
+  absent:
+    - Jay
+  merits: 2
+  p: ~
+1-4:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+2-1:
+  tardy:
+  absent:
+    - Jessie
+  merits: 3
+  p: ~
+2-2:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+2-3:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+2-4:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+3-1:
+  tardy:
+  absent:
+    - Shelli
+  merits: 3
+  p: ~
+3-2:
+  tardy:
+  absent:
+    - Nora
+  merits: 3
+  p: ~
+3-3:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+3-4:
+  tardy:
+  absent:
+    - Fanny
+  merits: 3
+  p: ~
