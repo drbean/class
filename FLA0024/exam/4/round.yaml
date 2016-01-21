@@ -1,0 +1,96 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 10
+pass: 6
+assistant:
+  - YuWen
+absent:
+  - Catherine
+text: /home/drbean/class/media/cards.yaml
+activity:
+  lunch:
+    0:
+      - 2-2
+      - 3-4
+      - 4-1
+      - 4-3
+  norad:
+    0:
+      - 1-1
+      - 1-3
+      - 1-4
+      - 2-1
+      - 4-2
+  ring:
+    0:
+      - 1-2
+      - 2-3
+      - 2-4
+      - 3-1
+      - 3-2
+      - 3-3
+
+
+group:
+  1-1:
+    - Abby
+    - Nora
+    - Stephanie
+  1-2:
+    - YuWen
+    - Amber
+    - Wynn
+  1-3:
+    - Owen
+    - Zoe
+    - Uta
+  1-4:
+    - ALin
+    - Camuel
+    - Chuck
+  2-1:
+    - David
+    - Andy
+    - Ivy2
+  2-2:
+    - Sandy1
+    - Kitty
+    - Jenna
+  2-3:
+    - Lydia
+    - Catherine
+    - Mark
+  2-4:
+    - Vicky
+    - Grace
+    - Emily
+  3-1:
+    - Iris
+    - Sandy2
+    - Anthony
+  3-2:
+    - Jane
+    - Ivy1
+    - Sam
+  3-3:
+    - Louis
+    - Danny
+    - Trista
+  3-4:
+    - Vivi
+    - Joanne
+    - Sunny
+  4-1:
+    - Elena
+    - Sally
+    - Jimmy
+  4-2:
+    - Jessica
+    - Peter
+    - Ula
+  4-3:
+    - Brian
+    - Sara
+    - Peter
