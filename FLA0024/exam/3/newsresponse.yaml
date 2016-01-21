@@ -1,0 +1,573 @@
+---
+U0131117:
+  I:
+    headline: 0
+    question: 0
+    sentence: 0
+  II:
+    headline: 0
+    question: 0
+    sentence: 0
+  III:
+    headline: 0
+    question: 0
+    sentence: 0
+U0143010:
+  I:
+    headline: 3
+    question: 3
+    sentence: 2
+  II:
+    headline: 3
+    question: 3
+    sentence: 2
+  III:
+    headline: 3
+    question: 3
+    sentence: 2
+U0143020:
+  I:
+    headline: 3
+    question: 3
+    sentence: 3
+  II:
+    headline: 3
+    question: 3
+    sentence: 3
+  III:
+    headline: 3
+    question: 3
+    sentence: 2
+V0041008:
+  I:
+    headline: 3
+    question: 1
+    sentence: 1
+  II:
+    headline: 3
+    question: 1
+    sentence: 1
+  III:
+    headline: 3
+    question: 1
+    sentence: 1
+V0041042:
+  I:
+    headline: 2
+    question: 2
+    sentence: 1
+  II:
+    headline: 2
+    question: 1
+    sentence: 2
+  III:
+    headline: 2
+    question: 2
+    sentence: 1
+V0041046:
+  I:
+    headline: 2
+    question: 3
+    sentence: 1
+  II:
+    headline: 3
+    question: 2
+    sentence: 2
+  III:
+    headline: 0
+    question: 0
+    sentence: 0
+V0041062:
+  I:
+    headline: 2
+    question: 1
+    sentence: 0
+  II:
+    headline: 2
+    question: 1
+    sentence: 0
+  III:
+    headline: 2
+    question: 1
+    sentence: 0
+V0041066:
+  I:
+    headline: 2
+    question: 2
+    sentence: 2
+  II:
+    headline: 3
+    question: 2
+    sentence: 3
+  III:
+    headline: 3
+    question: 3
+    sentence: 2
+V0141001:
+  I:
+    headline: 3
+    question: 3
+    sentence: 3
+  II:
+    headline: 3
+    question: 3
+    sentence: 1
+  III:
+    headline: 2
+    question: 3
+    sentence: 2
+V0141002:
+  I:
+    headline: 3
+    question: 3
+    sentence: 3
+  II:
+    headline: 3
+    question: 2
+    sentence: 2
+  III:
+    headline: 2
+    question: 3
+    sentence: 3
+V0141003:
+  I:
+    headline: 3
+    question: 2
+    sentence: 2
+  II:
+    headline: 3
+    question: 2
+    sentence: 2
+  III:
+    headline: 3
+    question: 2
+    sentence: 2
+V0141008:
+  I:
+    headline: 2
+    question: 3
+    sentence: 2
+  II:
+    headline: 3
+    question: 2
+    sentence: 2
+  III:
+    headline: 3
+    question: 3
+    sentence: 1
+V0141009:
+  I:
+    headline: 3
+    question: 3
+    sentence: 2
+  II:
+    headline: 3
+    question: 2
+    sentence: 1
+  III:
+    headline: 1
+    question: 3
+    sentence: 1
+V0141011:
+  I:
+    headline: 2
+    question: 2
+    sentence: 1
+  II:
+    headline: 1
+    question: 2
+    sentence: 2
+  III:
+    headline: 3
+    question: 2
+    sentence: 1
+V0141012:
+  I:
+    headline: 3
+    question: 1
+    sentence: 1
+  II:
+    headline: 2
+    question: 1
+    sentence: 1
+  III:
+    headline: 1
+    question: 3
+    sentence: 1
+V0141016:
+  I:
+    headline: 2
+    question: 3
+    sentence: 1
+  II:
+    headline: 3
+    question: 3
+    sentence: 2
+  III:
+    headline: 2
+    question: 3
+    sentence: 1
+V0141017:
+  I:
+    headline: 1
+    question: 2
+    sentence: 3
+  II:
+    headline: 2
+    question: 1
+    sentence: 2
+  III:
+    headline: 2
+    question: 1
+    sentence: 2
+V0141018:
+  I:
+    headline: 3
+    question: 3
+    sentence: 3
+  II:
+    headline: 2
+    question: 2
+    sentence: 3
+  III:
+    headline: 3
+    question: 3
+    sentence: 2
+V0141019:
+  I:
+    headline: 1
+    question: 3
+    sentence: 2
+  II:
+    headline: 3
+    question: 3
+    sentence: 2
+  III:
+    headline: 1
+    question: 3
+    sentence: 3
+V0141021:
+  I:
+    headline: 2
+    question: 1
+    sentence: 2
+  II:
+    headline: 1
+    question: 1
+    sentence: 1
+  III:
+    headline: 2
+    question: 1
+    sentence: 1
+V0141022:
+  I:
+    headline: 1
+    question: 1
+    sentence: 2
+  II:
+    headline: 2
+    question: 1
+    sentence: 1
+  III:
+    headline: 2
+    question: 1
+    sentence: 2
+V0141023:
+  I:
+    headline: 2
+    question: 3
+    sentence: 2
+  II:
+    headline: 2
+    question: 2
+    sentence: 1
+  III:
+    headline: 2
+    question: 2
+    sentence: 2
+V0141025:
+  I:
+    headline: 2
+    question: 2
+    sentence: 1
+  II:
+    headline: 2
+    question: 2
+    sentence: 1
+  III:
+    headline: 3
+    question: 1
+    sentence: 1
+V0141026:
+  I:
+    headline: 2
+    question: 2
+    sentence: 3
+  II:
+    headline: 3
+    question: 2
+    sentence: 2
+  III:
+    headline: 2
+    question: 3
+    sentence: 3
+V0141029:
+  I:
+    headline: 2
+    question: 3
+    sentence: 3
+  II:
+    headline: 3
+    question: 2
+    sentence: 2
+  III:
+    headline: 3
+    question: 3
+    sentence: 3
+V0141035:
+  I:
+    headline: 3
+    question: 3
+    sentence: 3
+  II:
+    headline: 3
+    question: 2
+    sentence: 2
+  III:
+    headline: 2
+    question: 3
+    sentence: 1
+V0141036:
+  I:
+    headline: 2
+    question: 1
+    sentence: 2
+  II:
+    headline: 1
+    question: 1
+    sentence: 1
+  III:
+    headline: 1
+    question: 1
+    sentence: 1
+V0141037:
+  I:
+    headline: 3
+    question: 3
+    sentence: 2
+  II:
+    headline: 3
+    question: 3
+    sentence: 3
+  III:
+    headline: 3
+    question: 3
+    sentence: 2
+V0141038:
+  I:
+    headline: 3
+    question: 1
+    sentence: 1
+  II:
+    headline: 1
+    question: 1
+    sentence: 2
+  III:
+    headline: 2
+    question: 1
+    sentence: 1
+V0141041:
+  I:
+    headline: 3
+    question: 1
+    sentence: 1
+  II:
+    headline: 1
+    question: 1
+    sentence: 2
+  III:
+    headline: 3
+    question: 1
+    sentence: 2
+V0141046:
+  I:
+    headline: 1
+    question: 1
+    sentence: 1
+  II:
+    headline: 2
+    question: 2
+    sentence: 1
+  III:
+    headline: 1
+    question: 1
+    sentence: 1
+V0141048:
+  I:
+    headline: 2
+    question: 3
+    sentence: 3
+  II:
+    headline: 3
+    question: 3
+    sentence: 2
+  III:
+    headline: 3
+    question: 3
+    sentence: 2
+V0141049:
+  I:
+    headline: 3
+    question: 1
+    sentence: 2
+  II:
+    headline: 3
+    question: 2
+    sentence: 3
+  III:
+    headline: 2
+    question: 1
+    sentence: 2
+V0141051:
+  I:
+    headline: 2
+    question: 3
+    sentence: 2
+  II:
+    headline: 2
+    question: 3
+    sentence: 2
+  III:
+    headline: 1
+    question: 1
+    sentence: 1
+V0141052:
+  I:
+    headline: 2
+    question: 2
+    sentence: 3
+  II:
+    headline: 2
+    question: 3
+    sentence: 2
+  III:
+    headline: 3
+    question: 3
+    sentence: 2
+V0141053:
+  I:
+    headline: 3
+    question: 3
+    sentence: 3
+  II:
+    headline: 3
+    question: 3
+    sentence: 3
+  III:
+    headline: 2
+    question: 3
+    sentence: 0
+V0141054:
+  I:
+    headline: 2
+    question: 1
+    sentence: 1
+  II:
+    headline: 2
+    question: 1
+    sentence: 1
+  III:
+    headline: 3
+    question: 1
+    sentence: 2
+V0141055:
+  I:
+    headline: 3
+    question: 1
+    sentence: 3
+  II:
+    headline: 2
+    question: 1
+    sentence: 2
+  III:
+    headline: 1
+    question: 1
+    sentence: 1
+V0141059:
+  I:
+    headline: 2
+    question: 1
+    sentence: 3
+  II:
+    headline: 1
+    question: 2
+    sentence: 3
+  III:
+    headline: 3
+    question: 1
+    sentence: 2
+V0141060:
+  I:
+    headline: 3
+    question: 3
+    sentence: 3
+  II:
+    headline: 3
+    question: 3
+    sentence: 1
+  III:
+    headline: 3
+    question: 2
+    sentence: 2
+V0141061:
+  I:
+    headline: 2
+    question: 2
+    sentence: 2
+  II:
+    headline: 2
+    question: 2
+    sentence: 2
+  III:
+    headline: 2
+    question: 2
+    sentence: 2
+V0141064:
+  I:
+    headline: 0
+    question: 1
+    sentence: 2
+  II:
+    headline: 0
+    question: 2
+    sentence: 2
+  III:
+    headline: 0
+    question: 3
+    sentence: 2
+V0241045:
+  I:
+    headline: 2
+    question: 1
+    sentence: 1
+  II:
+    headline: 3
+    question: 3
+    sentence: 2
+  III:
+    headline: 2
+    question: 2
+    sentence: 1
+V0241046:
+  I:
+    headline: 2
+    question: 2
+    sentence: 1
+  II:
+    headline: 2
+    question: 2
+    sentence: 1
+  III:
+    headline: 1
+    question: 0
+    sentence: 0
