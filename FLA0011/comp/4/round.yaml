@@ -1,0 +1,106 @@
+---
+activity:
+  kerpen:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+  neal:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+  collins:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+  wang:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+assistant: ~
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: V0241037
+    Black: V0241020
+
+  1:
+    White: V0241001
+    Black: V0241031
+  2:
+    White: V0241046
+    Black: V0241038
+  3:
+    White: V0241004
+    Black: V0241014
+  4:
+    White: V0241030
+    Black: V0241044
+  5:
+    White: V0241024
+    Black: V0241022
+  6:
+    White: V0241039
+    Black: V0141063
+  7:
+    White: V0241066
+    Black: V0241026
+  8:
+    White: V0241064
+    Black: V0141001
+  9:
+    White: V0241034
+    Black: V0241029
+  10:
+    White: V0241067
+    Black: V0241041
+  11:
+    White: V0241065
+    Black: V0141062
+late:
+  - V0241020
+pairing: swiss
+payprotocol: meritPay
+round: 4
+text: /home/drbean/class/conversation/childhood/cards.yaml
+week: 18
