@@ -1,0 +1,499 @@
+---
+free:
+  0:
+    kerpen:
+      0:
+        V0341041:
+          point:
+            1: Returned
+        V0341037:
+          point:
+            1: Returned
+    neal:
+      0:
+        V0341041:
+          point:
+            1: Returned
+        V0341037:
+          point:
+            1: Returned
+    collins:
+      0:
+        V0341041:
+          point:
+            1: Nil
+        V0341037:
+          point:
+            1: Nil
+    wang:
+      0:
+        V0341041:
+          point:
+            1: Nil
+        V0341037:
+          point:
+            1: Nil
+  1:
+    kerpen:
+      0:
+        V0341017:
+          point:
+            1: Nil
+        V0241008:
+          point:
+            1: Fault
+    neal:
+      0:
+        V0341017:
+          point:
+            1: Nil
+        V0241008:
+          point:
+            1: Returned on 2nd chance
+    collins:
+      0:
+        V0341017:
+          point:
+            1: Returned
+        V0241008:
+          point:
+            1: Nil
+    wang:
+      0:
+        V0341017:
+          point:
+            1: Returned
+        V0241008:
+          point:
+            1: Nil
+  2:
+    kerpen:
+      0:
+        V0341021:
+          point:
+            1: Nil
+        V0341024:
+          point:
+            1: Nil
+    neal:
+      0:
+        V0341021:
+          point:
+            1: Nil
+        V0341024:
+          point:
+            1: Returned
+    collins:
+      0:
+        V0341021:
+          point:
+            1: Returned
+        V0341024:
+          point:
+            1: Nil
+    wang:
+      0:
+        V0341021:
+          point:
+            1: Returned
+        V0341024:
+          point:
+            1: Returned
+  3:
+    kerpen:
+      0:
+        V0241004:
+          point:
+            1: Nil
+        V0341023:
+          point:
+            1: Nil
+    neal:
+      0:
+        V0241004:
+          point:
+            1: Unreturned
+        V0341023:
+          point:
+            1: Returned
+    collins:
+      0:
+        V0241004:
+          point:
+            1: Nil
+        V0341023:
+          point:
+            1: Nil
+    wang:
+      0:
+        V0241004:
+          point:
+            1: Returned on 2nd chance
+        V0341023:
+          point:
+            1: Returned
+  4:
+    kerpen:
+      0:
+        V0341013:
+          point:
+            1: Nil
+        V0341036:
+          point:
+            1: Nil
+    neal:
+      0:
+        V0341013:
+          point:
+            1: Returned
+        V0341036:
+          point:
+            1: Nil
+    collins:
+      0:
+        V0341013:
+          point:
+            1: Nil
+        V0341036:
+          point:
+            1: Nil
+    wang:
+      0:
+        V0341013:
+          point:
+            1: Nil
+        V0341036:
+          point:
+            1: Old
+            2: Returned
+  5:
+    kerpen:
+      0:
+        V0341003:
+          point:
+            1: Nil
+        V0341032:
+          point:
+            1: Nil
+    neal:
+      0:
+        V0341003:
+          point:
+            1: Returned
+        V0341032:
+          point:
+            1: Nil
+    collins:
+      0:
+        V0341003:
+          point:
+            1: Nil
+        V0341032:
+          point:
+            1: Nil
+    wang:
+      0:
+        V0341003:
+          point:
+            1: Nil
+        V0341032:
+          point:
+            1: Returned
+  6:
+    kerpen:
+      0:
+        V0341022:
+          point:
+            1: Returned on 2nd chance
+        V0341009:
+          point:
+            1: Returned on 2nd chance
+    neal:
+      0:
+        V0341022:
+          point:
+            1: Nil
+        V0341009:
+          point:
+            1: Nil
+    collins:
+      0:
+        V0341022:
+          point:
+            1: Nil
+        V0341009:
+          point:
+            1: Nil
+    wang:
+      0:
+        V0341022:
+          point:
+            1: Nil
+        V0341009:
+          point:
+            1: Nil
+  7:
+    kerpen:
+      0:
+        V0341019:
+          point:
+            1: Returned on 2nd chance
+        V0341051:
+          point:
+            1: Nil
+    neal:
+      0:
+        V0341019:
+          point:
+            1: Nil
+        V0341051:
+          point:
+            1: Returned
+    collins:
+      0:
+        V0341019:
+          point:
+            1: Returned
+        V0341051:
+          point:
+            1: Nil
+    wang:
+      0:
+        V0341019:
+          point:
+            1: Nil
+        V0341051:
+          point:
+            1: Returned on 2nd chance
+  8:
+    kerpen:
+      0:
+        V0341004:
+          point:
+            1: Returned
+        V0341027:
+          point:
+            1: Nil
+    neal:
+      0:
+        V0341004:
+          point:
+            1: Nil
+        V0341027:
+          point:
+            1: Nil
+    collins:
+      0:
+        V0341004:
+          point:
+            1: Nil
+        V0341027:
+          point:
+            1: Nil
+    wang:
+      0:
+        V0341004:
+          point:
+            1: Returned on 2nd chance
+        V0341027:
+          point:
+            1: Returned
+  9:
+    kerpen:
+      0:
+        V0341044:
+          point:
+            1: Nil
+        V0341025:
+          point:
+            1: Nil
+    neal:
+      0:
+        V0341044:
+          point:
+            1: Nil
+        V0341025:
+          point:
+            1: Nil
+    collins:
+      0:
+        V0341044:
+          point:
+            1: Nil
+        V0341025:
+          point:
+            1: Returned
+    wang:
+      0:
+        V0341044:
+          point:
+            1: Returned on 2nd chance
+            2: Fault
+        V0341025:
+          point:
+            1: Nil
+  10:
+    kerpen:
+      0:
+        V0341052:
+          point:
+            1: Returned
+        V0341031:
+          point:
+            1: Nil
+    neal:
+      0:
+        V0341052:
+          point:
+            1: Nil
+        V0341031:
+          point:
+            1: Nil
+    collins:
+      0:
+        V0341052:
+          point:
+            1: Nil
+        V0341031:
+          point:
+            1: Nil
+    wang:
+      0:
+        V0341052:
+          point:
+            1: Nil
+        V0341031:
+          point:
+            1: Nil
+  11:
+    kerpen:
+      0:
+        V0341035:
+          point:
+            1: Nil
+        V0341015:
+          point:
+            1: Nil
+    neal:
+      0:
+        V0341035:
+          point:
+            1: Returned
+        V0341015:
+          point:
+            1: Returned
+    collins:
+      0:
+        V0341035:
+          point:
+            1: Returned on 2nd chance
+        V0341015:
+          point:
+            1: Returned
+    wang:
+      0:
+        V0341035:
+          point:
+            1: Nil
+        V0341015:
+          point:
+            1: Nil
+  12:
+    kerpen:
+      0:
+        V0341010:
+          point:
+            1: Returned
+        V0341001:
+          point:
+            1: Nil
+    neal:
+      0:
+        V0341010:
+          point:
+            1: Fault
+        V0341001:
+          point:
+            1: Returned on 2nd chance
+    collins:
+      0:
+        V0341010:
+          point:
+            1: Nil
+        V0341001:
+          point:
+            1: Returned on 2nd chance
+    wang:
+      0:
+        V0341010:
+          point:
+            1: Nil
+        V0341001:
+          point:
+            1: Nil
+  13:
+    kerpen:
+      0:
+        V0341016:
+          point:
+            1: Nil
+        V0341039:
+          point:
+            1: Nil
+    neal:
+      0:
+        V0341016:
+          point:
+            1: Nil
+        V0341039:
+          point:
+            1: Nil
+    collins:
+      0:
+        V0341016:
+          point:
+            1: Nil
+        V0341039:
+          point:
+            1: Nil
+    wang:
+      0:
+        V0341016:
+          point:
+            1: Returned
+        V0341039:
+          point:
+            1: Nil
+  14:
+    kerpen:
+      0:
+        V0341012:
+          point:
+            1: Nil
+        V0341011:
+          point:
+            1: Nil
+    neal:
+      0:
+        V0341012:
+          point:
+            1: Nil
+        V0341011:
+          point:
+            1: Returned
+    collins:
+      0:
+        V0341012:
+          point:
+            1: Fault
+        V0341011:
+          point:
+            1: Nil
+    wang:
+      0:
+        V0341012:
+          point:
+            1: Returned
+        V0341011:
+          point:
+            1: Nil
