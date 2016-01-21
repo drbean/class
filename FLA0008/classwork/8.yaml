@@ -1,0 +1,71 @@
+---
+topic: kroenke
+
+
+1-1:
+  tardy:
+  absent:
+    - Liz
+  merits: 3
+  p: 3
+1-2:
+  tardy:
+  absent:
+  merits: 3
+  p: 3
+1-3:
+  tardy:
+  absent:
+  merits: 2
+  p: 1
+1-4:
+  tardy:
+  absent:
+  merits: 2
+  p: 1
+2-1:
+  tardy:
+  absent:
+  merits: 3
+  p: 3
+2-2:
+  tardy:
+  absent:
+  merits: 3
+  p: 3
+2-3:
+  tardy:
+  absent:
+  merits: 2.5
+  p: 2
+2-4:
+  tardy:
+  absent:
+  merits: 2.5
+  p: 2
+2-5:
+  tardy:
+  absent:
+    - Ramses
+  merits: 0
+  p: ~
+3-1:
+  tardy:
+  absent:
+  merits: 2
+  p: 1
+3-2:
+  tardy:
+  absent:
+  merits: 2
+  p: 1
+3-3:
+  tardy:
+  absent:
+  merits: 2
+  p: 1
+3-4:
+  tardy:
+  absent:
+  merits: 2
+  p: 1
