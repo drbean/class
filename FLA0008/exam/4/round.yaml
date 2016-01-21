@@ -1,0 +1,73 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 6
+assistant:
+absent:
+text: /home/drbean/class/conversation/childhood/cards.yaml
+activity:
+  kerpen:
+    0:
+      - 1-4
+      - 2-1
+      - 3-1
+  neal:
+    0:
+      - 1-2
+      - 1-3
+      - 2-4
+      - 3-3
+  collins:
+    0:
+      - 2-2
+      - 2-3
+      - 3-2
+      - 3-4
+
+group:
+  1-2:
+    - Liz
+    - Tiffany
+    - Joy
+  1-3:
+    - Megan
+    - Jackie
+    - Jennifer
+  1-4:
+    - Lori
+    - Andy
+    - Gina
+  2-1:
+    - Jessie
+    - Toby
+    - Bamboo
+  2-2:
+    - Christopher
+    - Eric2
+    - Tina
+  2-3:
+    - Johnson
+    - David
+    - Eric1
+  2-4:
+    - Vicky
+    - Kiki
+    - Lily
+  3-1:
+    - Tony
+    - Shelli
+    - Sherry
+  3-2:
+    - Amber
+    - Winnie
+    - Nora
+  3-3:
+    - Kevin
+    - Antonio
+    - Allen
+  3-4:
+    - Fanny
+    - Annie
+    - Wan

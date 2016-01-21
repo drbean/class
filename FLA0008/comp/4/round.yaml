@@ -1,0 +1,136 @@
+---
+activity:
+  kerpen:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+  neal:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+  collins:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+  wang:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+assistant:
+  3-3:
+    V0241064: 5
+    V0341033: 5
+    V0341034: 5
+dispensation: ~
+divisions: ~
+late:
+  - V0341041
+  - V0341016
+  - V0341039
+  - V0341012
+  - V0341011
+
+group:
+  0:
+    White: V0341041
+    Black: V0341037
+  13:
+    White: V0341016
+    Black: V0341039
+  14:
+    White: V0341012
+    Black: V0341011
+
+  1:
+    White: V0341017
+    Black: V0241008
+  2:
+    White: V0341021
+    Black: V0341024
+  3:
+    White: V0241004
+    Black: V0341023
+  4:
+    White: V0341013
+    Black: V0341036
+  5:
+    White: V0341003
+    Black: V0341032
+  6:
+    White: V0341022
+    Black: V0341009
+  7:
+    White: V0341019
+    Black: V0341051
+  8:
+    White: V0341004
+    Black: V0341027
+  9:
+    White: V0341044
+    Black: V0341025
+  10:
+    White: V0341052
+    Black: V0341031
+  11:
+    White: V0341035
+    Black: V0341015
+  12:
+    White: V0341010
+    Black: V0341001
+pairing: swiss
+payprotocol: meritPay
+round: 4
+text: /home/drbean/class/conversation/childhood/cards.yaml
+week: 18
