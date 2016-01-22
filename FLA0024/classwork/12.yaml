@@ -1,6 +1,6 @@
 ---
 1-1:
-  absent: ~
+  absent:
   merits: 2.83333333333333
   p:
   - 2
@@ -27,7 +27,8 @@
   - 2
   tardy: ~
 1-4:
-  absent: ~
+  absent:
+    - Sunny
   merits: 2.5
   p:
   - 1
@@ -54,7 +55,8 @@
   - 1
   tardy: ~
 2-3:
-  absent: ~
+  absent:
+    - Ula
   merits: 2.33333333333333
   p:
   - 1
@@ -63,7 +65,8 @@
   - 0
   tardy: ~
 2-4:
-  absent: ~
+  absent:
+    - Emily
   merits: 2.66666666666667
   p:
   - 1
@@ -81,7 +84,8 @@
   - 2
   tardy: ~
 3-2:
-  absent: ~
+  absent:
+    - Vivi
   merits: 2.16666666666667
   p:
   - 1
@@ -126,7 +130,8 @@
   - 2
   tardy: ~
 4-3:
-  absent: ~
+  absent:
+    - Sam
   merits: 2.33333333333333
   p:
   - 0
