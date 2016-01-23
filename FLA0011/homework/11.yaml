@@ -1,0 +1,123 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: fernandez
+grade:
+  V0141001: 1.92
+  V0141062: 2
+  V0141063: 2
+  V0241001: 2
+  V0241004: 2
+  V0241012: 0
+  V0241014: 2
+  V0241020: 1.22
+  V0241022: 1.9
+  V0241024: 1.64
+  V0241026: 0.78
+  V0241029: 2
+  V0241030: 1.94
+  V0241031: 2
+  V0241032: 1.9
+  V0241034: 1.24
+  V0241037: 2
+  V0241038: 2
+  V0241039: 2
+  V0241041: 1.58
+  V0241042: 1.72
+  V0241044: 2
+  V0241045: 1.9
+  V0241046: 2
+  V0241063: 0
+  V0241064: 2
+  V0241065: 2
+  V0241066: 1.3
+  V0241067: 0.74
+points:
+  V0141001:
+    letters: 129
+    percent: 96
+  V0141062:
+    letters: 145
+    percent: 100
+  V0141063:
+    letters: 157
+    percent: 100
+  V0241001:
+    letters: 142
+    percent: 100
+  V0241004:
+    letters: 142
+    percent: 100
+  V0241012:
+    letters: 0
+    percent: 0
+  V0241014:
+    letters: 140
+    percent: 100
+  V0241020:
+    letters: 95
+    percent: 61
+  V0241022:
+    letters: 135
+    percent: 95
+  V0241024:
+    letters: 102
+    percent: 82
+  V0241026:
+    letters: 67
+    percent: 39
+  V0241029:
+    letters: 139
+    percent: 100
+  V0241030:
+    letters: 146
+    percent: 97
+  V0241031:
+    letters: 160
+    percent: 100
+  V0241032:
+    letters: 129
+    percent: 95
+  V0241034:
+    letters: 85
+    percent: 62
+  V0241037:
+    letters: 157
+    percent: 100
+  V0241038:
+    letters: 153
+    percent: 100
+  V0241039:
+    letters: 144
+    percent: 100
+  V0241041:
+    letters: 106
+    percent: 79
+  V0241042:
+    letters: 124
+    percent: 86
+  V0241044:
+    letters: 140
+    percent: 100
+  V0241045:
+    letters: 163
+    percent: 95
+  V0241046:
+    letters: 151
+    percent: 100
+  V0241063:
+    letters: 0
+    percent: 0
+  V0241064:
+    letters: 136
+    percent: 100
+  V0241065:
+    letters: 161
+    percent: 100
+  V0241066:
+    letters: 87
+    percent: 65
+  V0241067:
+    letters: 64
+    percent: 37
