@@ -1,0 +1,123 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: podcast-2
+grade:
+  V0141001: 0
+  V0141062: 2
+  V0141063: 2
+  V0241001: 1.24
+  V0241004: 2
+  V0241012: 0
+  V0241014: 2
+  V0241020: 1.18
+  V0241022: 1.6
+  V0241024: 0
+  V0241026: 0.74
+  V0241029: 0
+  V0241030: 1.58
+  V0241031: 2
+  V0241032: 1.84
+  V0241034: 0.44
+  V0241037: 2
+  V0241038: 2
+  V0241039: 2
+  V0241041: 1.34
+  V0241042: 0.68
+  V0241044: 1.96
+  V0241045: 1.74
+  V0241046: 1.96
+  V0241063: 0
+  V0241064: 2
+  V0241065: 2
+  V0241066: 0.7
+  V0241067: 0.3
+points:
+  V0141001:
+    letters: 0
+    percent: 0
+  V0141062:
+    letters: 235
+    percent: 100
+  V0141063:
+    letters: 218
+    percent: 100
+  V0241001:
+    letters: 147
+    percent: 62
+  V0241004:
+    letters: 291
+    percent: 100
+  V0241012:
+    letters: 0
+    percent: 0
+  V0241014:
+    letters: 248
+    percent: 100
+  V0241020:
+    letters: 165
+    percent: 59
+  V0241022:
+    letters: 239
+    percent: 80
+  V0241024:
+    letters: 0
+    percent: 0
+  V0241026:
+    letters: 90
+    percent: 37
+  V0241029:
+    letters: 0
+    percent: 0
+  V0241030:
+    letters: 179
+    percent: 79
+  V0241031:
+    letters: 276
+    percent: 100
+  V0241032:
+    letters: 245
+    percent: 92
+  V0241034:
+    letters: 56
+    percent: 22
+  V0241037:
+    letters: 262
+    percent: 100
+  V0241038:
+    letters: 278
+    percent: 100
+  V0241039:
+    letters: 267
+    percent: 100
+  V0241041:
+    letters: 148
+    percent: 67
+  V0241042:
+    letters: 81
+    percent: 34
+  V0241044:
+    letters: 250
+    percent: 98
+  V0241045:
+    letters: 230
+    percent: 87
+  V0241046:
+    letters: 262
+    percent: 98
+  V0241063:
+    letters: 0
+    percent: 0
+  V0241064:
+    letters: 246
+    percent: 100
+  V0241065:
+    letters: 270
+    percent: 100
+  V0241066:
+    letters: 86
+    percent: 35
+  V0241067:
+    letters: 40
+    percent: 15
