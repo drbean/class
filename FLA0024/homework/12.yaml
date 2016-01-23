@@ -1,0 +1,183 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: scalia
+grade:
+  U0131117: 1.98
+  U0143010: 1.32
+  U0143020: 1.3
+  V0041008: 2
+  V0041042: 0
+  V0041046: 2
+  V0041062: 0.92
+  V0041066: 0
+  V0141001: 0
+  V0141002: 2
+  V0141003: 0.7
+  V0141008: 2
+  V0141009: 2
+  V0141011: 2
+  V0141012: 2
+  V0141016: 1.78
+  V0141017: 2
+  V0141018: 2
+  V0141019: 1.98
+  V0141021: 2
+  V0141022: 2
+  V0141023: 1.22
+  V0141025: 0.44
+  V0141026: 1.84
+  V0141029: 1.6
+  V0141035: 2
+  V0141036: 1.28
+  V0141037: 1.96
+  V0141038: 2
+  V0141041: 1.86
+  V0141046: 0.64
+  V0141048: 2
+  V0141049: 1.94
+  V0141051: 1.48
+  V0141052: 1.98
+  V0141053: 2
+  V0141054: 1.52
+  V0141055: 1.8
+  V0141059: 1.82
+  V0141060: 1.54
+  V0141061: 2
+  V0141064: 1.66
+  V0241045: 1.48
+  V0241046: 1.98
+points:
+  U0131117:
+    letters: 336
+    percent: 99
+  U0143010:
+    letters: 218
+    percent: 66
+  U0143020:
+    letters: 205
+    percent: 65
+  V0041008:
+    letters: 330
+    percent: 100
+  V0041042:
+    letters: 0
+    percent: 0
+  V0041046:
+    letters: 346
+    percent: 100
+  V0041062:
+    letters: 158
+    percent: 46
+  V0041066:
+    letters: 0
+    percent: 0
+  V0141001:
+    letters: 0
+    percent: 0
+  V0141002:
+    letters: 305
+    percent: 100
+  V0141003:
+    letters: 106
+    percent: 35
+  V0141008:
+    letters: 373
+    percent: 100
+  V0141009:
+    letters: 300
+    percent: 100
+  V0141011:
+    letters: 329
+    percent: 100
+  V0141012:
+    letters: 340
+    percent: 100
+  V0141016:
+    letters: 259
+    percent: 89
+  V0141017:
+    letters: 329
+    percent: 100
+  V0141018:
+    letters: 352
+    percent: 100
+  V0141019:
+    letters: 300
+    percent: 99
+  V0141021:
+    letters: 314
+    percent: 100
+  V0141022:
+    letters: 318
+    percent: 100
+  V0141023:
+    letters: 220
+    percent: 61
+  V0141025:
+    letters: 81
+    percent: 22
+  V0141026:
+    letters: 304
+    percent: 92
+  V0141029:
+    letters: 279
+    percent: 80
+  V0141035:
+    letters: 324
+    percent: 100
+  V0141036:
+    letters: 212
+    percent: 64
+  V0141037:
+    letters: 360
+    percent: 98
+  V0141038:
+    letters: 345
+    percent: 100
+  V0141041:
+    letters: 287
+    percent: 93
+  V0141046:
+    letters: 110
+    percent: 32
+  V0141048:
+    letters: 301
+    percent: 100
+  V0141049:
+    letters: 296
+    percent: 97
+  V0141051:
+    letters: 242
+    percent: 74
+  V0141052:
+    letters: 329
+    percent: 99
+  V0141053:
+    letters: 322
+    percent: 100
+  V0141054:
+    letters: 270
+    percent: 76
+  V0141055:
+    letters: 286
+    percent: 90
+  V0141059:
+    letters: 314
+    percent: 91
+  V0141060:
+    letters: 252
+    percent: 77
+  V0141061:
+    letters: 309
+    percent: 100
+  V0141064:
+    letters: 278
+    percent: 83
+  V0241045:
+    letters: 224
+    percent: 74
+  V0241046:
+    letters: 346
+    percent: 99
