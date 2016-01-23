@@ -1,0 +1,123 @@
+---
+cutpoints:
+  one: ~
+  two: ~
+exercise: franklin
+grade:
+  V0141001: 1.62
+  V0141062: 2
+  V0141063: 2
+  V0241001: 1.62
+  V0241004: 2
+  V0241012: 0
+  V0241014: 2
+  V0241020: 2
+  V0241022: 1.32
+  V0241024: 1.4
+  V0241026: 0.9
+  V0241029: 1.14
+  V0241030: 1.7
+  V0241031: 2
+  V0241032: 1.82
+  V0241034: 0.32
+  V0241037: 2
+  V0241038: 2
+  V0241039: 2
+  V0241041: 1.74
+  V0241042: 1.36
+  V0241044: 0.68
+  V0241045: 2
+  V0241046: 2
+  V0241063: 0
+  V0241064: 2
+  V0241065: 2
+  V0241066: 0.78
+  V0241067: 1.94
+points:
+  V0141001:
+    letters: 127
+    percent: 81
+  V0141062:
+    letters: 140
+    percent: 100
+  V0141063:
+    letters: 152
+    percent: 100
+  V0241001:
+    letters: 108
+    percent: 81
+  V0241004:
+    letters: 135
+    percent: 100
+  V0241012:
+    letters: 0
+    percent: 0
+  V0241014:
+    letters: 134
+    percent: 100
+  V0241020:
+    letters: 145
+    percent: 100
+  V0241022:
+    letters: 103
+    percent: 66
+  V0241024:
+    letters: 99
+    percent: 70
+  V0241026:
+    letters: 62
+    percent: 45
+  V0241029:
+    letters: 92
+    percent: 57
+  V0241030:
+    letters: 123
+    percent: 85
+  V0241031:
+    letters: 168
+    percent: 100
+  V0241032:
+    letters: 134
+    percent: 91
+  V0241034:
+    letters: 24
+    percent: 16
+  V0241037:
+    letters: 140
+    percent: 100
+  V0241038:
+    letters: 149
+    percent: 100
+  V0241039:
+    letters: 145
+    percent: 100
+  V0241041:
+    letters: 117
+    percent: 87
+  V0241042:
+    letters: 100
+    percent: 68
+  V0241044:
+    letters: 47
+    percent: 34
+  V0241045:
+    letters: 138
+    percent: 100
+  V0241046:
+    letters: 162
+    percent: 100
+  V0241063:
+    letters: 0
+    percent: 0
+  V0241064:
+    letters: 150
+    percent: 100
+  V0241065:
+    letters: 163
+    percent: 100
+  V0241066:
+    letters: 60
+    percent: 39
+  V0241067:
+    letters: 144
+    percent: 97
