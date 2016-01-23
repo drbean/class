@@ -1,142 +1,142 @@
 ---
 1-1:
-  absent:
+  absent: ~
   merits: 2.83333333333333
   p:
-  - 2
-  - 2
-  - 2
-  - 1
+    - 2
+    - 2
+    - 2
+    - 1
   tardy: ~
 1-2:
   absent: ~
   merits: 2
   p:
-  - 0
-  - 2
-  - 0
-  - 0
+    - 0
+    - 2
+    - 0
+    - 0
   tardy: ~
 1-3:
   absent: ~
   merits: 2.66666666666667
   p:
-  - 1
-  - 2
-  - 1
-  - 2
+    - 1
+    - 2
+    - 1
+    - 2
   tardy: ~
 1-4:
   absent:
     - Sunny
   merits: 2.5
   p:
-  - 1
-  - 2
-  - 0
-  - 2
+    - 1
+    - 2
+    - 0
+    - 2
   tardy: ~
 2-1:
   absent: ~
   merits: 2.66666666666667
   p:
-  - 0
-  - 2
-  - 2
-  - 2
+    - 0
+    - 2
+    - 2
+    - 2
   tardy: ~
 2-2:
   absent: ~
   merits: 2.5
   p:
-  - 1
-  - 2
-  - 1
-  - 1
+    - 1
+    - 2
+    - 1
+    - 1
   tardy: ~
 2-3:
   absent:
     - Ula
   merits: 2.33333333333333
   p:
-  - 1
-  - 2
-  - 1
-  - 0
+    - 1
+    - 2
+    - 1
+    - 0
   tardy: ~
 2-4:
   absent:
     - Emily
   merits: 2.66666666666667
   p:
-  - 1
-  - 2
-  - 1
-  - 2
+    - 1
+    - 2
+    - 1
+    - 2
   tardy: ~
 3-1:
   absent: ~
   merits: 2.66666666666667
   p:
-  - 1
-  - 2
-  - 1
-  - 2
+    - 1
+    - 2
+    - 1
+    - 2
   tardy: ~
 3-2:
   absent:
     - Vivi
   merits: 2.16666666666667
   p:
-  - 1
-  - 2
-  - 0
-  - 0
+    - 1
+    - 2
+    - 0
+    - 0
   tardy: ~
 3-3:
   absent: ~
   merits: 2.5
   p:
-  - 3
-  - 2
-  - 0
-  - 0
+    - 3
+    - 2
+    - 0
+    - 0
   tardy: ~
 3-4:
   absent: ~
   merits: 2.16666666666667
   p:
-  - 1
-  - 0
-  - 0
-  - 2
+    - 1
+    - 0
+    - 0
+    - 2
   tardy: ~
 4-1:
   absent: ~
   merits: 2.83333333333333
   p:
-  - 1
-  - 2
-  - 2
-  - 2
+    - 1
+    - 2
+    - 2
+    - 2
   tardy: ~
 4-2:
   absent: ~
   merits: 3
   p:
-  - 2
-  - 2
-  - 2
-  - 2
+    - 2
+    - 2
+    - 2
+    - 2
   tardy: ~
 4-3:
   absent:
     - Sam
   merits: 2.33333333333333
   p:
-  - 0
-  - 2
-  - 0
-  - 2
+    - 0
+    - 2
+    - 0
+    - 2
   tardy: ~
-topic: thanksgiving,chimney_death,college_closing
+topic: 'thanksgiving,chimney_death,college_closing'
