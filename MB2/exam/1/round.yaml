@@ -1,0 +1,55 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 10
+pass: 4
+assistant:
+absent:
+  - Dawn
+  - Orange
+  - Gary
+text: /home/drbean/class/speaking/cards.yaml
+activity:
+  marriage:
+    0:
+      - 1-2
+      - 4-1
+    1:
+      - 4-2
+    2:
+      - 2-2
+      - 3-2
+    3:
+      - 1-1
+      - 2-1
+
+group:
+  1-1:
+    - Vicky
+    - Wilson
+    - Macaria
+  1-2:
+    - Rain
+    - Roger
+    - Danly
+  2-1:
+    - Crown
+    - Natasha
+    - YuPin
+  2-2:
+    - YoYo
+    - York
+    - Kelly
+  3-2:
+    - Kris
+    - Jay
+    - Beemo
+  4-1:
+    - Ling
+    - Stan
+    - Ava
+  4-2:
+    - Newsom
+    - Jeremy
+    - Annafin

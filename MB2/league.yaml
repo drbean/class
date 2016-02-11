@@ -1,0 +1,179 @@
+---
+absent: ~
+anterior: 031AFN2MB1
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 英語會話(一)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 041AFN2MB1
+jigsaw: exam
+league: NAF021四技外二甲
+member:
+  - Chinese: 林妮君
+    id: 129129129
+    name: Hanny
+    password: ni
+    rating: ~
+  
+  - Chinese: 楊竣傑
+    id: N04202109
+    name: Jay
+    password: jun
+    rating: ~
+  
+  - Chinese: 羅加聘
+    id: N03203103
+    name: Jeremy
+    password: jia
+    rating: ~
+  - Chinese: 邱宇凡
+    id: 100100100
+    name: Newsom
+    password: yu
+    rating: ~
+  
+  - Chinese: 陳怡真
+    id: N01200048
+    name: Ava
+    password: yi
+    rating: ~
+  - Chinese: 徐銘謙
+    id: N02202201
+    name: Roger
+    password: ming
+    rating: ~
+  - Chinese: 蔡欣祐
+    id: N03203105
+    name: Stan
+    password: xin
+    rating: ~
+  - Chinese: 郭子菁
+    id: N03080070
+    name: Annafin
+    password: zi
+    rating: ~
+  - Chinese: 陳翎軒
+    id: N03200001
+    name: Ling
+    password: ling
+    rating: ~
+  - Chinese: 曾美梅
+    id: N03200004
+    name: Macaria
+    password: mei
+    rating: ~
+  - Chinese: 鄧如芸
+    id: N03200006
+    name: Kelly
+    password: ru
+    rating: ~
+  - Chinese: 王顥臻
+    id: N03200008
+    name: Beemo
+    password: hao
+    rating: ~
+  - Chinese: 江宜蓁
+    id: N03200010
+    name: Kris
+    password: yi
+    rating: ~
+  - Chinese: 連苡伶
+    id: N03200012
+    name: Dawn
+    password: yi
+    rating: ~
+  - Chinese: 鄭又元
+    id: N03200014
+    name: York
+    password: you
+    rating: ~
+  - Chinese: 宋柏賢
+    id: N03200018
+    name: Rain
+    password: bai
+    rating: ~
+  - Chinese: 楊峻瑋
+    id: N03200022
+    name: Wilson
+    password: jun
+    rating: ~
+  - Chinese: 林嘉莉
+    id: N03200025
+    name: Danly
+    password: jia
+    rating: ~
+  - Chinese: 陳沚瑩
+    id: N03200027
+    name: Orange
+    password: zhi
+    rating: ~
+  - Chinese: 潘韻宇
+    id: N03200030
+    name: YoYo
+    password: yun
+    rating: ~
+  - Chinese: 萬筱微
+    id: N03200034
+    name: Vicky
+    password: xiao
+    rating: ~
+  - Chinese: 陳桂益
+    id: N03200036
+    name: Gary
+    password: gui
+    rating: ~
+  - Chinese: 許晏甄
+    id: N04202101
+    name: Natasha
+    password: yan
+    rating: ~
+  - Chinese: 黃冠潔
+    id: N04202105
+    name: Crown
+    password: guan
+    rating: ~
+out:
+  - Chinese: 林毓斌
+    id: N03200020
+    name: YuPin
+    password: yu
+    rating: ~
+  - Chinese: 張庭瑄
+    id: N04202107
+    name: 張庭瑄
+    password: ting
+    rating: ~
+  - Chinese: 葛俊廷
+    id: N04202111
+    name: 葛俊廷
+    password: jun
+    rating: ~
+  - Chinese: 何佳儒
+    id: N04202113
+    name: 何佳儒
+    password: jia
+    rating: ~
+room: A705
+school: must
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 0
+  2: 5
+  3: 9
+  4: 13
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40

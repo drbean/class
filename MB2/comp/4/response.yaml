@@ -1,0 +1,227 @@
+---
+free:
+  0:
+    education:
+      0:
+        N03200014:
+          point:
+            1: Nil
+        N03200012:
+          point:
+            1: Nil
+    school:
+      0:
+        N03200014:
+          point:
+            1: Nil
+        N03200012:
+          point:
+            1: Nil
+    English:
+      0:
+        N03200014:
+          point:
+            1: Nil
+        N03200012:
+          point:
+            1: Nil
+  1:
+    education:
+      0:
+        N03200018:
+          point:
+            1: Nil
+        N03200036:
+          point:
+            1: Nil
+    school:
+      0:
+        N03200018:
+          point:
+            1: Nil
+        N03200036:
+          point:
+            1: Nil
+    English:
+      0:
+        N03200018:
+          point:
+            1: Returned
+        N03200036:
+          point:
+            1: Unreturned
+  2:
+    education:
+      0:
+        N04202109:
+          point:
+            1: Nil
+        N03200027:
+          point:
+            1: Nil
+    school:
+      0:
+        N04202109:
+          point:
+            1: Nil
+        N03200027:
+          point:
+            1: Nil
+    English:
+      0:
+        N04202109:
+          point:
+            1: Unreturned
+        N03200027:
+          point:
+            1: Returned
+  3:
+    education:
+      0:
+        N04202101:
+          point:
+            1: Returned
+        N03200001:
+          point:
+            1: Nil
+    school:
+      0:
+        N04202101:
+          point:
+            1: Nil
+        N03200001:
+          point:
+            1: Unreturned
+    English:
+      0:
+        N04202101:
+          point:
+            1: Nil
+        N03200001:
+          point:
+            1: Nil
+  4:
+    education:
+      0:
+        N03200008:
+          point:
+            1: Nil
+        N03200010:
+          point:
+            1: Nil
+    school:
+      0:
+        N03200008:
+          point:
+            1: Nil
+        N03200010:
+          point:
+            1: Unreturned
+    English:
+      0:
+        N03200008:
+          point:
+            1: Returned
+        N03200010:
+          point:
+            1: Nil
+  5:
+    education:
+      0:
+        N03200030:
+          point:
+            1: Returned
+        N03200022:
+          point:
+            1: Nil
+    school:
+      0:
+        N03200030:
+          point:
+            1: Nil
+        N03200022:
+          point:
+            1: Unreturned
+    English:
+      0:
+        N03200030:
+          point:
+            1: Nil
+        N03200022:
+          point:
+            1: Nil
+  6:
+    education:
+      0:
+        N01200048:
+          point:
+            1: Returned
+        N04202105:
+          point:
+            1: Nil
+    school:
+      0:
+        N01200048:
+          point:
+            1: Nil
+        N04202105:
+          point:
+            1: Unreturned
+    English:
+      0:
+        N01200048:
+          point:
+            1: Nil
+        N04202105:
+          point:
+            1: Nil
+  7:
+    education:
+      0:
+        N03203105:
+          point:
+            1: Nil
+        N03203103:
+          point:
+            1: Nil
+    school:
+      0:
+        N03203105:
+          point:
+            1: Returned
+        N03203103:
+          point:
+            1: Unreturned
+    English:
+      0:
+        N03203105:
+          point:
+            1: Nil
+        N03203103:
+          point:
+            1: Nil
+  8:
+    education:
+      0:
+        100100100:
+          point:
+            1: Nil
+        N02202201:
+          point:
+            1: Returned
+    school:
+      0:
+        100100100:
+          point:
+            1: Nil
+        N02202201:
+          point:
+            1: Nil
+    English:
+      0:
+        100100100:
+          point:
+            1: Unreturned
+        N02202201:
+          point:
+            1: Nil

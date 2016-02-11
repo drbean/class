@@ -1,0 +1,72 @@
+---
+1-1:
+  absent: ~
+  merits: 2.75
+  p:
+    - 1
+    - 1
+    - 1
+  tardy:
+    - Ling
+1-2:
+  absent: ~
+  merits: 2
+  p:
+    - 0
+    - 0
+    - 0
+  tardy: ~
+2-1:
+  absent:
+    - Wilson
+  merits: 2
+  p:
+    - 0
+    - 0
+    - 0
+  tardy: ~
+2-2:
+  absent: ~
+  merits: 2.75
+  p:
+    - 1
+    - 1
+    - 1
+  tardy:
+    - Gary
+3-1:
+  absent:
+    - York
+  merits: 3
+  p:
+    - 1
+    - 1
+    - 2
+  tardy: ~
+3-2:
+  absent: ~
+  merits: 2
+  p:
+    - 0
+    - 0
+    - 0
+  tardy: ~
+4-1:
+  absent: ~
+  merits: 3
+  p:
+    - 1
+    - 1
+    - 2
+  tardy:
+    - Orange
+4-2:
+  absent:
+    - Rain
+  merits: 2.75
+  p:
+    - 1
+    - 1
+    - 1
+  tardy: ~
+topic: 'chen,annan,obama'

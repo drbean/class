@@ -1,0 +1,52 @@
+---
+topic: affirmative_action, exam
+
+
+1-1:
+  tardy:
+  absent:
+    - Hanny
+  merits: 3
+  p: ~
+1-2:
+  tardy:
+  absent:
+    - Kelly
+  merits: 3
+  p: ~
+2-1:
+  tardy:
+  absent:
+    - Vicky
+  merits: 3
+  p: ~
+2-2:
+  tardy:
+  absent:
+    - Jeremy
+  merits: 3
+  p: ~
+3-1:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+3-2:
+  tardy:
+  absent:
+    - Newsom
+  merits: 3
+  p: ~
+4-1:
+  tardy:
+  absent:
+    - Gary
+  merits: 3
+  p: ~
+4-2:
+  tardy:
+  absent:
+    - Annafin
+    - Jay
+  merits: 3
+  p: ~

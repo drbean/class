@@ -1,0 +1,133 @@
+1-1:
+  absent:
+  - Hanny
+  merits: 2.8333333
+  p:
+  - 1
+  - 6
+  rs:
+  - 1
+  - 1
+  - 1
+  - 1
+  tardy: []
+1-2:
+  absent:
+  - Kelly
+  merits: 2.3333333
+  p:
+  - 0
+  - 1
+  rs:
+  - 1
+  - 1
+  - 1
+  - 1
+  tardy:
+  - Kris
+2-1:
+  absent:
+  - Vicky
+  merits: 2.6666667
+  p:
+  - 2
+  - 2
+  rs:
+  - 1
+  - 1
+  - 0
+  - 1
+  tardy: []
+2-2:
+  absent:
+  - Dawn
+  - Jeremy
+  merits: 3
+  p:
+  - 3
+  - 6
+  rs:
+  - 1
+  - 1
+  - 1
+  - 1
+  tardy: []
+3-1:
+  absent:
+  - Crown
+  merits: 2.6666667
+  p:
+  - 3
+  - 1
+  rs:
+  - 1
+  - 1
+  - 0
+  - 1
+  tardy: []
+3-2:
+  absent:
+  - Newso1
+  merits: 2.9166667
+  p:
+  - 2
+  - 5
+  rs:
+  - 1
+  - 1
+  - 0
+  - 1
+  tardy: []
+4-1:
+  absent:
+  - Stan
+  merits: 2.25
+  p:
+  - 0
+  - 0
+  rs:
+  - 1
+  - 1
+  - 1
+  - 1
+  tardy:
+  - Gary
+4-2:
+  absent:
+  - Rain
+  - Annafin
+  - Jay
+  merits: 2
+  p:
+  - 0
+  - 0
+  rs:
+  - 9
+  - 9
+  - 9
+  - 9
+  tardy: []
+day: (014) 2015-12-19
+qz:
+- a: 1
+  o:
+  - Tomoko
+  - JinSook
+  q: Who's happy with the education system as it is and doesn't want change?
+- a: 1
+  o:
+  - Tomoko
+  - JinSook
+  q: Who probably gets higher scores in exams?
+- a: 0
+  o:
+  - Tomoko
+  - JinSook
+  q: Who would probably be the more interesting teacher?
+- a: 1
+  o:
+  - Tomoko
+  - JinSook
+  q: Who is teacher-centered?
+topic: education_system
+
