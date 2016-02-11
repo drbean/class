@@ -1,0 +1,37 @@
+---
+topic: mindmap_race
+
+
+1-1:
+  absent:
+  merits: 3
+
+1-2:
+  absent:
+  merits: 2
+
+2-1:
+  absent:
+  merits: 3
+
+2-2:
+  absent:
+  merits: 2.5
+
+3-1:
+  absent:
+  merits: 2.5
+
+3-2:
+  absent:
+  merits: 2.5
+
+4-1:
+  absent:
+    - Nicki
+    - Emily
+  merits: 0
+
+4-2:
+  absent:
+  merits: 2

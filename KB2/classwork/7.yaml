@@ -1,0 +1,45 @@
+---
+topic: IMRD
+
+
+1-1:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+1-2:
+  tardy:
+  absent:
+    - Elvis
+  merits: 2.5
+  p: ~
+2-1:
+  tardy:
+  absent:
+    - Nicki
+  merits: 2.5
+  p: ~
+2-2:
+  tardy:
+  absent:
+    - Benson
+  merits: 3
+  p: ~
+3-1:
+  tardy:
+  absent:
+    - YaYun
+  merits: 2.5
+  p: ~
+3-2:
+  tardy:
+  absent:
+    - Emily
+    - Jade
+  merits: 2
+  p: ~
+4-1:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
