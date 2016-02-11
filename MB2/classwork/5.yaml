@@ -1,0 +1,96 @@
+3-2:
+  absent: []
+  tardy: []
+  merits: 2
+  p: 2
+  rs:
+  - 0
+  - 0
+  - 0
+2-2:
+  absent: []
+  tardy: []
+  merits: 3
+  p: 3
+  rs:
+  - 1
+  - 0
+  - 0
+1-1:
+  absent: []
+  tardy:
+  - Gary
+  merits: 3
+  p: 3
+  rs:
+  - 1
+  - 0
+  - 0
+qz:
+- o:
+  - Jin-suk
+  - Nazim
+  a: 1
+  q: Money doesn't make us greedy.
+- o:
+  - Jin-suk
+  - Nazim
+  a: 0
+  q: Communist
+- o:
+  - Jin-suk
+  - Nazim
+  a: 0
+  q: Some people like work.
+4-2:
+  absent:
+  - YuPin
+  tardy: []
+  merits: 2
+  p: 2
+  rs:
+  - 1
+  - 0
+  - 1
+1-2:
+  absent:
+  - Wilson
+  - Jay
+  tardy: []
+  merits: 3
+  p: 3
+  rs:
+  - 1
+  - 0
+  - 0
+2-1:
+  absent:
+  - Kris
+  - Vicky
+  tardy: []
+  merits: 3
+  p: 3
+  rs:
+  - 1
+  - 0
+  - 0
+3-1:
+  absent: []
+  tardy: []
+  merits: 3
+  p: 3
+  rs:
+  - 1
+  - 0
+  - 0
+4-1:
+  absent: []
+  tardy: []
+  merits: 2
+  p: 2
+  rs:
+  - 1
+  - 0
+  - 1
+topic: money
+

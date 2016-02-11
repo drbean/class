@@ -1,0 +1,88 @@
+---
+free:
+  0:
+    personal_health:
+      0:
+        N03200012:
+          point:
+            1: Unreturned
+            2: Unreturned
+        N04202101:
+          point:
+            1: Returned
+    health_systems:
+      0:
+        N03200012:
+          point:
+            1: Nil
+        N04202101:
+          point:
+            1: Returned
+  1:
+    personal_health:
+      0:
+        N02202201:
+          point:
+            1: Unreturned
+        N03203105:
+          point:
+            1: Returned
+    health_systems:
+      0:
+        N02202201:
+          point:
+            1: Unreturned
+        N03203105:
+          point:
+            1: Returned
+  2:
+    personal_health:
+      0:
+        N03203103:
+          point:
+            1: Returned
+        100100100:
+          point:
+            1: Unreturned
+    health_systems:
+      0:
+        N03203103:
+          point:
+            1: Nil
+        100100100:
+          point:
+            1: Nil
+  3:
+    personal_health:
+      0:
+        N03200027:
+          point:
+            1: Nil
+        N03200018:
+          point:
+            1: Nil
+    health_systems:
+      0:
+        N03200027:
+          point:
+            1: Nil
+        N03200018:
+          point:
+            1: Nil
+  4:
+    personal_health:
+      0:
+        N03200010:
+          point:
+            1: Nil
+        N01200048:
+          point:
+            1: Nil
+    health_systems:
+      0:
+        N03200010:
+          point:
+            1: Nil
+        N01200048:
+          point:
+            1: Nil
