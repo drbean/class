@@ -1,0 +1,148 @@
+---
+absent: ~
+anterior: 041AFN2KB1
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 基礎英文寫作(一)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 042AFN2KA2
+jigsaw: exam
+league: NAF021__四技外二甲
+member:
+  - Chinese: 林妮琪
+    id: N03202104
+    name: Nicki
+    password: ni
+    rating: ~
+  - Chinese: 沈芳君
+    id: N03100048
+    name: Emily
+    password: fang
+    rating: ~
+  
+  - Chinese: 孫柏皓
+    id: N02202105
+    name: BoHao
+    password: bo
+    rating: ~
+  - Chinese: Kerin
+    id: N02202103
+    name: Kerin
+    password: jia
+    rating: ~
+  - Chinese: Milly
+    id: N03203104
+    name: Milly
+    password: ~
+    rating: ~
+  - Chinese: Elvis
+    id: N03200037
+    name: Elvis
+    password: ~
+    rating: ~
+  - Chinese: Wes
+    id: N03200043
+    name: Wes
+    password: ~
+    rating: ~
+  - Chinese: Nina
+    id: N03200019
+    name: Nina
+    password: ~
+    rating: ~
+  - Chinese: Ben
+    id: N03200013
+    name: Ben
+    password: ~
+    rating: ~
+  - Chinese: WanYun
+    id: N03200033
+    name: WanYun
+    password: ~
+    rating: ~
+  - Chinese: Eddie
+    id: N03200005
+    name: Eddie
+    password: ~
+    rating: ~
+  - Chinese: TingTing
+    id: N03200029
+    name: TingTing
+    password: ~
+    rating: ~
+  - Chinese: YaYun
+    id: N03200016
+    name: YaYun
+    password: ~
+    rating: ~
+  - Chinese: Kiki
+    id: N04202102
+    name: Kiki
+    password: ~
+    rating: ~
+  - Chinese: Clare
+    id: N03200007
+    name: Clare
+    password: ~
+    rating: ~
+  - Chinese: Nancy
+    id: N03200026
+    name: Nancy
+    password: ~
+    rating: ~
+  - Chinese: YunSyuan
+    id: N03200021
+    name: YunSyuan
+    password: ~
+    rating: ~
+  - Chinese: Jade
+    id: N03200003
+    name: Jade
+    password: ~
+    rating: ~
+  - Chinese: Benson
+    id: N04202106
+    name: Benson
+    password: ~
+    rating: ~
+
+out:
+  - Chinese: Erica
+    id: N03200024
+    name: Erica
+    password: ~
+    rating: ~
+  - Chinese: ZengZhi
+    id: N04202110
+    name: ZengZhi
+    password: ~
+    rating: ~
+  - Chinese: Ivy
+    id: N03200011
+    name: Ivy
+    password: ~
+    rating: ~
+room: A705
+school: must
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 0
+  2: 5
+  3: 9
+  4: 13
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
