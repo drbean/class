@@ -1,0 +1,181 @@
+---
+absent: ~
+anterior: 031AFB2L1
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 英語會話(一)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 041AFB2L1
+jigsaw: exam
+league: BAF022_四技應外二乙
+member:
+  - Chinese: 趙升文
+    id: B01130056
+    name: Kevin2
+    password: sheng
+    rating: ~
+  - Chinese: 黃婉晴
+    id: B01080096
+    name: WanChing
+    password: wan
+    rating: ~
+  - Chinese: 洪嘉翎
+    id: B02200062
+    name: Trista
+    password: jia
+    rating: ~
+  - Chinese: 廖婉廷
+    id: B02200064
+    name: Amber
+    password: wan
+    rating: ~
+  - Chinese: 林柏彤
+    id: B02200086
+    name: Mia
+    password: bai
+    rating: ~
+  - Chinese: 姜瀚威
+    id: B02200098
+    name: Wade
+    password: han
+    rating: ~
+  - Chinese: 廖珈瑩
+    id: B03200005
+    name: Cindy1
+    password: jia
+    rating: ~
+  - Chinese: 游妤婷
+    id: B03200007
+    name: Vee
+    password: yu
+    rating: ~
+  - Chinese: 羅韻如
+    id: B03200011
+    name: Cindy2
+    password: yun
+    rating: ~
+  - Chinese: 張珈瑜
+    id: B03200015
+    name: Jenny
+    password: jia
+    rating: ~
+  - Chinese: 張雅媛
+    id: B03200019
+    name: Demi
+    password: ya
+    rating: ~
+  - Chinese: 陳彥蓁
+    id: B03200023
+    name: Victoria
+    password: yan
+    rating: ~
+  - Chinese: 藍季妍
+    id: B03200027
+    name: Alison
+    password: ji
+    rating: ~
+  - Chinese: 葉書晴
+    id: B03200031
+    name: Cathy
+    password: shu
+    rating: ~
+  - Chinese: 范君儒
+    id: B03200037
+    name: Irene
+    password: jun
+    rating: ~
+  - Chinese: 林慧娟
+    id: B03200039
+    name: Alice
+    password: hui
+    rating: ~
+  - Chinese: 鍾亞寰
+    id: B03200043
+    name: Tracy
+    password: ya
+    rating: ~
+  - Chinese: 李佳宜
+    id: B03200052
+    name: Lilian
+    password: jia
+    rating: ~
+  - Chinese: 簡逸欣
+    id: B03200056
+    name: Tina
+    password: yi
+    rating: ~
+  - Chinese: 黃靖廷
+    id: B03200064
+    name: Michael
+    password: jing
+    rating: ~
+  - Chinese: 林采鈴
+    id: B03200068
+    name: Grace1
+    password: cai
+    rating: ~
+  - Chinese: 劉恩典
+    id: B03200072
+    name: Grace2
+    password: en
+    rating: ~
+  - Chinese: 鄒沛筠
+    id: B03200078
+    name: Mandy
+    password: pei
+    rating: ~
+  - Chinese: 邱睦翔
+    id: B03200084
+    name: Eason
+    password: mu
+    rating: ~
+  - Chinese: 盧毅
+    id: B03200092
+    name: Lulu
+    password: yi
+    rating: ~
+  - Chinese: 方楚云
+    id: B03200100
+    name: Kevin1
+    password: chu
+    rating: ~
+  - Chinese: 李怡宣
+    id: B03200102
+    name: Dora
+    password: yi
+    rating: ~
+  - Chinese: 蔡明翰
+    id: B03200106
+    name: Harry
+    password: ming
+    rating: ~
+  - Chinese: 黃曉雯
+    id: B03200110
+    name: Sharon
+    password: xiao
+    rating: ~
+out: ~
+room: hong-603
+school: must
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 0
+  2: 5
+  3: 9
+  4: 13
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
