@@ -1,0 +1,193 @@
+---
+absent: ~
+active: ~
+anterior: 032FLA0026
+approach: GroupworkNoFault
+classMax: 3
+examMax: 5
+exams: exam
+field: 科技英文
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 042FLA0021
+league: 夜應外大學四甲
+member:
+  - Chinese: 吳于嫥
+    id: V0141003
+    name: Stephanie
+    password: yu
+    rating: ~
+  - Chinese: 曾慧珊
+    id: V0141008
+    name: Grace
+    password: hui
+    rating: ~
+  - Chinese: 鍾育霖
+    id: V0141011
+    name: ALin
+    password: yu
+    rating: ~
+  - Chinese: 彭振浩
+    id: V0141012
+    name: Brian
+    password: zhen
+    rating: ~
+  - Chinese: 張偉棋
+    id: V0141016
+    name: Mark
+    password: wei
+    rating: ~
+  - Chinese: 陳冠儒
+    id: V0141017
+    name: Peter
+    password: guan
+    rating: ~
+  - Chinese: 胡智鈞
+    id: V0141018
+    name: Anthony
+    password: zhi
+    rating: ~
+  - Chinese: 黃宇
+    id: V0141019
+    name: Louis
+    password: yu
+    rating: ~
+  - Chinese: 徐筱柔
+    id: V0141021
+    name: Ivy1
+    password: xiao
+    rating: ~
+  - Chinese: 陳宥蓁
+    id: V0141022
+    name: Ula
+    password: you
+    rating: ~
+  - Chinese: 宋紫如
+    id: V0141023
+    name: Sandy1
+    password: zi
+    rating: ~
+  - Chinese: 林嘉真
+    id: V0141025
+    name: Vivi
+    password: jia
+    rating: ~
+  - Chinese: 傅欣誼
+    id: V0141026
+    name: Vicky
+    password: xin
+    rating: ~
+  - Chinese: 宋紫婷
+    id: V0141028
+    name: 宋紫婷
+    password: zi
+    rating: ~
+  - Chinese: 邱凱蒂
+    id: V0141029
+    name: Kitty
+    password: kai
+    rating: ~
+  - Chinese: 吳翊甄
+    id: V0141035
+    name: Jane
+    password: yi
+    rating: ~
+  - Chinese: 解雅婷
+    id: V0141036
+    name: Sally
+    password: ya
+    rating: ~
+  - Chinese: 藍美文
+    id: V0141037
+    name: Nora
+    password: mei
+    rating: ~
+  - Chinese: 謝婕榆
+    id: V0141038
+    name: Jessica
+    password: jie
+    rating: ~
+  - Chinese: 邱晴
+    id: V0141041
+    name: Sunny
+    password: qing
+    rating: ~
+  - Chinese: 黃如妘
+    id: V0141046
+    name: Amber
+    password: ru
+    rating: ~
+  - Chinese: 林宛瑩
+    id: V0141048
+    name: Wynn
+    password: wan
+    rating: ~
+  - Chinese: 黃姵甄
+    id: V0141049
+    name: Zoe
+    password: pei
+    rating: ~
+  - Chinese: 陳珮文
+    id: V0141050
+    name: 陳珮文
+    password: pei
+    rating: ~
+  - Chinese: 徐郁惠
+    id: V0141051
+    name: Elena
+    password: yu
+    rating: ~
+  - Chinese: 陳沛雯
+    id: V0141052
+    name: Sara
+    password: pei
+    rating: ~
+  - Chinese: 溫燁葶
+    id: V0141053
+    name: Abby
+    password: ye
+    rating: ~
+  - Chinese: 林雨潔
+    id: V0141054
+    name: Lydia
+    password: yu
+    rating: ~
+  - Chinese: 黃柔禎
+    id: V0141055
+    name: Trista
+    password: rou
+    rating: ~
+  - Chinese: 陳虹吟
+    id: V0141059
+    name: Ivy2
+    password: hong
+    rating: ~
+  - Chinese: 徐銘均
+    id: V0141060
+    name: Owen
+    password: ming
+    rating: ~
+  - Chinese: 施志昇
+    id: V0141061
+    name: Sam
+    password: zhi
+    rating: ~
+  - Chinese: 陳韋志
+    id: V9941077
+    name: Joe
+    password: wei
+    rating: ~
+out:
+room: A705
+school: nuu
+session:
+  1: 1
+  2: 5
+  3: 10
+  4: 15
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
