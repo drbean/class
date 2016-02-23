@@ -1,0 +1,140 @@
+1-1:
+  absent: []
+  merits: 2
+  p:
+  - 1
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+1-2:
+  absent: []
+  merits: 2.75
+  p:
+  - 3
+  rs:
+  - 0
+  - 1
+  - 0
+  tardy: []
+1-3:
+  absent: []
+  merits: 3
+  p:
+  - 3
+  rs:
+  - 0
+  - 1
+  - 1
+  tardy: []
+1-4: null
+1-5: null
+2-1:
+  absent: []
+  merits: 2.5
+  p:
+  - 3
+  rs:
+  - 0
+  - 9
+  - 0
+  tardy: []
+2-2:
+  absent: []
+  merits: 2.5
+  p:
+  - 3
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+2-3:
+  absent: []
+  merits: 2.5
+  p:
+  - 3
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+2-4: null
+2-5: null
+3-1:
+  absent: []
+  merits: 2.5
+  p:
+  - 3
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+3-2:
+  absent: []
+  merits: 2.5
+  p:
+  - 3
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+3-3:
+  absent: []
+  merits: 2.5
+  p:
+  - 3
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+3-4: null
+3-5: null
+4-1:
+  absent: []
+  merits: 2.25
+  p:
+  - 3
+  rs:
+  - 1
+  - 0
+  - 0
+  tardy: []
+4-2:
+  absent: []
+  merits: 2.25
+  p:
+  - 3
+  rs:
+  - 1
+  - 0
+  - 0
+  tardy: []
+4-3: null
+4-4: null
+4-5: null
+5-1: null
+5-2: null
+day: (042) 2016-2-22
+qz:
+- a: 0
+  o:
+  - 'True'
+  - 'False'
+  q: We will learn English only some people need to know.
+- a: 1
+  o:
+  - 'True'
+  - 'False'
+  q: Topics will be medicine, technology and Business English.
+- a: 1
+  o:
+  - 'True'
+  - 'False'
+  q: Dr Bean is an Anki expert and explaining it will make Anki satisfying
+topic: definition,plan
+
