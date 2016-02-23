@@ -1,0 +1,283 @@
+---
+absent: ~
+active: ~
+anterior: 042FLA0021
+approach: GroupworkNoFault
+classMax: 3
+examMax: 5
+exams: exam
+field: 商用英文書信實務(二)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 042BMA0009
+league: 日經管三乙
+member:
+  - Chinese: 潘潔
+    id: U0231101
+    name: 潘潔
+    password: jie
+    rating: ~
+  - Chinese: 馮依暄
+    id: U0231103
+    name: 馮依暄
+    password: yi
+    rating: ~
+  - Chinese: 陳登義
+    id: U0231104
+    name: 陳登義
+    password: deng
+    rating: ~
+  - Chinese: 黃思晴
+    id: U0231105
+    name: 黃思晴
+    password: si
+    rating: ~
+  - Chinese: 王傳宇
+    id: U0231106
+    name: 王傳宇
+    password: chuan
+    rating: ~
+  - Chinese: 林珈儀
+    id: U0231107
+    name: 林珈儀
+    password: jia
+    rating: ~
+  - Chinese: 許甜恬
+    id: U0231108
+    name: 許甜恬
+    password: tian
+    rating: ~
+  - Chinese: 蔡?文
+    id: U0231109
+    name: 蔡?文
+    password: '?'
+    rating: ~
+  - Chinese: 林宜臻
+    id: U0231110
+    name: 林宜臻
+    password: yi
+    rating: ~
+  - Chinese: 林欣儀
+    id: U0231111
+    name: 林欣儀
+    password: xin
+    rating: ~
+  - Chinese: 王崇維
+    id: U0231112
+    name: 王崇維
+    password: chong
+    rating: ~
+  - Chinese: 林品佑
+    id: U0231113
+    name: 林品佑
+    password: pin
+    rating: ~
+  - Chinese: 曾禾銘
+    id: U0231114
+    name: 曾禾銘
+    password: he
+    rating: ~
+  - Chinese: 趙薇
+    id: U0231115
+    name: 趙薇
+    password: wei
+    rating: ~
+  - Chinese: 陳彥君
+    id: U0231116
+    name: 陳彥君
+    password: yan
+    rating: ~
+  - Chinese: 曾胤齊
+    id: U0231117
+    name: 曾胤齊
+    password: yin
+    rating: ~
+  - Chinese: 羅致遠
+    id: U0231118
+    name: 羅致遠
+    password: zhi
+    rating: ~
+  - Chinese: 邱莉儒
+    id: U0231119
+    name: 邱莉儒
+    password: li
+    rating: ~
+  - Chinese: 劉育婷
+    id: U0231120
+    name: 劉育婷
+    password: yu
+    rating: ~
+  - Chinese: 劉瓊茹
+    id: U0231121
+    name: 劉瓊茹
+    password: qiong
+    rating: ~
+  - Chinese: 黃曉琪
+    id: U0231122
+    name: 黃曉琪
+    password: xiao
+    rating: ~
+  - Chinese: 蕭敬堯
+    id: U0231123
+    name: 蕭敬堯
+    password: jing
+    rating: ~
+  - Chinese: 王柏凱
+    id: U0231124
+    name: 王柏凱
+    password: bai
+    rating: ~
+  - Chinese: 林孟賢
+    id: U0231125
+    name: 林孟賢
+    password: meng
+    rating: ~
+  - Chinese: 潘玟靜
+    id: U0231126
+    name: 潘玟靜
+    password: wen
+    rating: ~
+  - Chinese: 張玉屏
+    id: U0231127
+    name: 張玉屏
+    password: yu
+    rating: ~
+  - Chinese: 李建霖
+    id: U0231128
+    name: 李建霖
+    password: jian
+    rating: ~
+  - Chinese: 丁鳳瑄
+    id: U0231130
+    name: 丁鳳瑄
+    password: feng
+    rating: ~
+  - Chinese: 高彙佳
+    id: U0231131
+    name: 高彙佳
+    password: hui
+    rating: ~
+  - Chinese: 陳介俞
+    id: U0231132
+    name: 陳介俞
+    password: jie
+    rating: ~
+  - Chinese: 程暐晉
+    id: U0231133
+    name: 程暐晉
+    password: wei
+    rating: ~
+  - Chinese: 張瓊云
+    id: U0231134
+    name: 張瓊云
+    password: qiong
+    rating: ~
+  - Chinese: 歐怡絜
+    id: U0231135
+    name: 歐怡絜
+    password: yi
+    rating: ~
+  - Chinese: 曾梓晴
+    id: U0231136
+    name: 曾梓晴
+    password: zi
+    rating: ~
+  - Chinese: 陳奕全
+    id: U0231137
+    name: 陳奕全
+    password: yi
+    rating: ~
+  - Chinese: 鄭心圩
+    id: U0231138
+    name: 鄭心圩
+    password: xin
+    rating: ~
+  - Chinese: 林子維
+    id: U0231139
+    name: 林子維
+    password: zi
+    rating: ~
+  - Chinese: 王榮鈺
+    id: U0231140
+    name: 王榮鈺
+    password: rong
+    rating: ~
+  - Chinese: 徐琬淳
+    id: U0231141
+    name: 徐琬淳
+    password: wan
+    rating: ~
+  - Chinese: 張庭睿
+    id: U0231142
+    name: 張庭睿
+    password: ting
+    rating: ~
+  - Chinese: 趙于婷
+    id: U0231143
+    name: 趙于婷
+    password: yu
+    rating: ~
+  - Chinese: 黃韋程
+    id: U0231144
+    name: 黃韋程
+    password: wei
+    rating: ~
+  - Chinese: 魏琬臻
+    id: U0231145
+    name: 魏琬臻
+    password: wan
+    rating: ~
+  - Chinese: 黃俊瑋
+    id: U0231146
+    name: 黃俊瑋
+    password: jun
+    rating: ~
+  - Chinese: 范雅媛
+    id: U0231147
+    name: 范雅媛
+    password: ya
+    rating: ~
+  - Chinese: 陳佩蓉
+    id: U0231148
+    name: 陳佩蓉
+    password: pei
+    rating: ~
+  - Chinese: 林首興
+    id: U0231149
+    name: 林首興
+    password: shou
+    rating: ~
+  - Chinese: 張央儀
+    id: U0231150
+    name: 張央儀
+    password: yang
+    rating: ~
+  - Chinese: 陳宛瑩
+    id: U0231151
+    name: 陳宛瑩
+    password: wan
+    rating: ~
+  - Chinese: 蘇彥蓉
+    id: U0231152
+    name: 蘇彥蓉
+    password: yan
+    rating: ~
+  - Chinese: 李思韻
+    id: U0231153
+    name: 李思韻
+    password: si
+    rating: ~
+out:
+room: A705
+school: nuu
+session:
+  1: 1
+  2: 5
+  3: 10
+  4: 15
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
