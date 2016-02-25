@@ -15,6 +15,26 @@ hwMax: 2
 id: 042FLA0013
 league: 夜應外三甲
 member:
+  - Chinese: 蔡方如
+    id: V0241031
+    name: Fiona
+    password: fang
+    rating: ~
+  - Chinese: 何姿儀
+    id: V0241038
+    name: Penny
+    password: zi
+    rating: ~
+  - Chinese: 梁怡萍
+    id: V0241039
+    name: Janice
+    password: yi
+    rating: ~
+  - Chinese: 溫鈺茹
+    id: V0241037
+    name: Ellie
+    password: yu
+    rating: ~
   - Chinese: 廖家成
     id: U0143020
     name: Andy2
