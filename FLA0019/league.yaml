@@ -1,0 +1,79 @@
+---
+absent: ~
+active: ~
+anterior: 032FLA0022
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 職場英語
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 042FLA0019
+league: 夜應外大學三甲
+member:
+  - Chinese: 蔣宜芸
+    id: V0041008
+    name: Emily
+    password: yi
+    rating: ~
+  - Chinese: 賴于雯
+    id: V0041042
+    name: YuWen
+    password: yu
+    rating: ~
+  - Chinese: 林遠凱
+    id: V0141062
+    name: Karsten
+    password: yuan
+    rating: ~
+  - Chinese: 胡靖宜
+    id: V0241001
+    name: Joyce
+    password: jing
+    rating: ~
+  - Chinese: 施其儀
+    id: V0241004
+    name: Jackie
+    password: qi
+    rating: ~
+  - Chinese: 賴彥鈞
+    id: V0241014
+    name: Josh
+    password: yan
+    rating: ~
+  - Chinese: 吳思賢
+    id: V0241017
+    name: 吳思賢
+    password: si
+    rating: ~
+  - Chinese: 陳亮彤
+    id: V0241029
+    name: Lily
+    password: liang
+    rating: ~
+  - Chinese: 王緯婷
+    id: V0241034
+    name: Nina
+    password: wei
+    rating: ~
+  - Chinese: 陳韋志
+    id: V9941077
+    name: Joe
+    password: wei
+    rating: ~
+out: ~
+room: A705
+school: nuu
+session:
+  1: 1
+  2: 6
+  3: 10
+  4: 14
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
