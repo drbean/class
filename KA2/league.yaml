@@ -6,7 +6,7 @@ classMax: 3
 compcomp: comp
 examMax: 5
 exams: exam
-field: 基礎英文寫作(一)
+field: 基礎英文寫作(二)
 group: session
 groupwork: classwork
 hw: homework
@@ -15,119 +15,112 @@ id: 042AFN2KA2
 jigsaw: exam
 league: NAF021__四技外二甲
 member:
-  - Chinese: 林妮琪
-    id: N03202104
-    name: Nicki
-    password: ni
+  - Chinese: 許慈顯
+    id: N02200022
+    name: 許慈顯
+    password: ci
+    rating: ~
+  - Chinese: 鄭惠云
+    id: N01200047
+    name: 鄭惠云
+    password: hui
     rating: ~
   - Chinese: 沈芳君
     id: N03100048
     name: Emily
     password: fang
     rating: ~
-  
-  - Chinese: 孫柏皓
-    id: N02202105
-    name: BoHao
-    password: bo
-    rating: ~
-  - Chinese: Kerin
-    id: N02202103
-    name: Kerin
-    password: jia
-    rating: ~
-  - Chinese: Milly
-    id: N03203104
-    name: Milly
-    password: ~
-    rating: ~
-  - Chinese: Elvis
-    id: N03200037
-    name: Elvis
-    password: ~
-    rating: ~
-  - Chinese: Wes
-    id: N03200043
-    name: Wes
-    password: ~
-    rating: ~
-  - Chinese: Nina
-    id: N03200019
-    name: Nina
-    password: ~
-    rating: ~
-  - Chinese: Ben
-    id: N03200013
-    name: Ben
-    password: ~
-    rating: ~
-  - Chinese: WanYun
-    id: N03200033
-    name: WanYun
-    password: ~
-    rating: ~
-  - Chinese: Eddie
-    id: N03200005
-    name: Eddie
-    password: ~
-    rating: ~
-  - Chinese: TingTing
-    id: N03200029
-    name: TingTing
-    password: ~
-    rating: ~
-  - Chinese: YaYun
-    id: N03200016
-    name: YaYun
-    password: ~
-    rating: ~
-  - Chinese: Kiki
-    id: N04202102
-    name: Kiki
-    password: ~
-    rating: ~
-  - Chinese: Clare
-    id: N03200007
-    name: Clare
-    password: ~
-    rating: ~
-  - Chinese: Nancy
-    id: N03200026
-    name: Nancy
-    password: ~
-    rating: ~
-  - Chinese: YunSyuan
-    id: N03200021
-    name: YunSyuan
-    password: ~
-    rating: ~
-  - Chinese: Jade
+  - Chinese: 郭芳瑜
     id: N03200003
     name: Jade
-    password: ~
+    password: fang
     rating: ~
-  - Chinese: Benson
+  - Chinese: 范植雄
+    id: N03200005
+    name: Eddie
+    password: zhi
+    rating: ~
+  - Chinese: 郭力瑜
+    id: N03200007
+    name: Clare
+    password: li
+    rating: ~
+  - Chinese: 陳郁心
+    id: N03200011
+    name: 陳郁心
+    password: yu
+    rating: ~
+  - Chinese: 謝偉業
+    id: N03200013
+    name: Ben
+    password: wei
+    rating: ~
+  - Chinese: 田雅勻
+    id: N03200016
+    name: YaYun
+    password: ya
+    rating: ~
+  - Chinese: 陳禹蓁
+    id: N03200019
+    name: Nina
+    password: yu
+    rating: ~
+  - Chinese: 彭韻璇
+    id: N03200021
+    name: YunSyuan
+    password: yun
+    rating: ~
+  - Chinese: 陳佳欣
+    id: N03200026
+    name: Nancy
+    password: jia
+    rating: ~
+  - Chinese: 首婷婷
+    id: N03200029
+    name: TingTing
+    password: ting
+    rating: ~
+  - Chinese: 羅婉芸
+    id: N03200033
+    name: WanYun
+    password: wan
+    rating: ~
+  - Chinese: 李祐承
+    id: N03200037
+    name: Elvis
+    password: you
+    rating: ~
+  - Chinese: 洪偉翔
+    id: N03200043
+    name: Wes
+    password: wei
+    rating: ~
+  - Chinese: 關文華
+    id: N04202102
+    name: Kiki
+    password: wen
+    rating: ~
+  - Chinese: 莊勝佑
     id: N04202106
     name: Benson
-    password: ~
+    password: sheng
     rating: ~
-
-out:
-  - Chinese: Erica
-    id: N03200024
-    name: Erica
-    password: ~
+  - Chinese: 黃駿逸
+    id: N04202108
+    name: 黃駿逸
+    password: jun
     rating: ~
-  - Chinese: ZengZhi
-    id: N04202110
-    name: ZengZhi
-    password: ~
+  - Chinese: 曾宥蓁
+    id: N04202112
+    name: 曾宥蓁
+    password: you
     rating: ~
-  - Chinese: Ivy
-    id: N03200011
-    name: Ivy
-    password: ~
+  - Chinese: 林昱廷
+    id: N04202201
+    name: 林昱廷
+    password: yu
     rating: ~
+out: ~
 room: A705
 school: must
 scores:
