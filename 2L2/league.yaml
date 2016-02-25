@@ -1,6 +1,6 @@
 ---
 absent: ~
-anterior: 031AFB2L1
+anterior: 041AFB2L1
 approach: GroupworkNoFault
 classMax: 3
 compcomp: comp
@@ -11,14 +11,49 @@ group: session
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 041AFB2L1
+id: 042AFB2L2
 jigsaw: exam
 league: BAF022_四技應外二乙
 member:
-  - Chinese: 曾淑慧 
+  - Chinese: 李宜安
+    id: B01130006
+    name: 李宜安
+    password: yi
+    rating: ~
+  - Chinese: 王妙琪
+    id: B01100007
+    name: 王妙琪
+    password: miao
+    rating: ~
+  - Chinese: 劉意玲
+    id: B00230075
+    name: 劉意玲
+    password: yi
+    rating: ~
+  - Chinese: 曾淑慧
     id: B02200046
-    name: 曾淑慧
+    name: Sylvia
     password: shu
+    rating: ~
+  - Chinese: 廖婉廷
+    id: B02200064
+    name: Amber
+    password: wan
+    rating: ~
+  - Chinese: 郭俐君
+    id: B02200094
+    name: Polly
+    password: li
+    rating: ~
+  - Chinese: 王韻筌
+    id: B02200096
+    name: 王韻筌
+    password: yun
+    rating: ~
+  - Chinese: 徐珮云
+    id: B03192105
+    name: 徐珮云
+    password: pei
     rating: ~
   - Chinese: 廖珈瑩
     id: B03200005
