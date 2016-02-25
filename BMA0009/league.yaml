@@ -16,22 +16,22 @@ league: 日經管三乙
 member:
   - Chinese: 潘潔
     id: U0231101
-    name: 潘潔
+    name: Jessica
     password: jie
     rating: ~
   - Chinese: 馮依暄
     id: U0231103
-    name: 馮依暄
+    name: Stella
     password: yi
     rating: ~
   - Chinese: 陳登義
     id: U0231104
-    name: 陳登義
+    name: Jack1
     password: deng
     rating: ~
   - Chinese: 黃思晴
     id: U0231105
-    name: 黃思晴
+    name: Nancy
     password: si
     rating: ~
   - Chinese: 王傳宇
@@ -41,52 +41,52 @@ member:
     rating: ~
   - Chinese: 林珈儀
     id: U0231107
-    name: 林珈儀
+    name: Tina
     password: jia
     rating: ~
   - Chinese: 許甜恬
     id: U0231108
-    name: 許甜恬
+    name: Tien
     password: tian
     rating: ~
   - Chinese: 蔡?文
     id: U0231109
-    name: 蔡?文
+    name: Emily
     password: '?'
     rating: ~
   - Chinese: 林宜臻
     id: U0231110
-    name: 林宜臻
+    name: Jhen
     password: yi
     rating: ~
   - Chinese: 林欣儀
     id: U0231111
-    name: 林欣儀
+    name: Summer
     password: xin
     rating: ~
   - Chinese: 王崇維
     id: U0231112
-    name: 王崇維
+    name: Wayne
     password: chong
     rating: ~
   - Chinese: 林品佑
     id: U0231113
-    name: 林品佑
+    name: YoYo
     password: pin
     rating: ~
   - Chinese: 曾禾銘
     id: U0231114
-    name: 曾禾銘
+    name: John
     password: he
     rating: ~
   - Chinese: 趙薇
     id: U0231115
-    name: 趙薇
+    name: Ellie
     password: wei
     rating: ~
   - Chinese: 陳彥君
     id: U0231116
-    name: 陳彥君
+    name: Jack2
     password: yan
     rating: ~
   - Chinese: 曾胤齊
@@ -96,27 +96,27 @@ member:
     rating: ~
   - Chinese: 羅致遠
     id: U0231118
-    name: 羅致遠
+    name: Oliver
     password: zhi
     rating: ~
   - Chinese: 邱莉儒
     id: U0231119
-    name: 邱莉儒
+    name: Iris
     password: li
     rating: ~
   - Chinese: 劉育婷
     id: U0231120
-    name: 劉育婷
+    name: Ivy
     password: yu
     rating: ~
   - Chinese: 劉瓊茹
     id: U0231121
-    name: 劉瓊茹
+    name: Dolly
     password: qiong
     rating: ~
   - Chinese: 黃曉琪
     id: U0231122
-    name: 黃曉琪
+    name: Kiki
     password: xiao
     rating: ~
   - Chinese: 蕭敬堯
@@ -126,7 +126,7 @@ member:
     rating: ~
   - Chinese: 王柏凱
     id: U0231124
-    name: 王柏凱
+    name: Jimix
     password: bai
     rating: ~
   - Chinese: 林孟賢
@@ -136,52 +136,52 @@ member:
     rating: ~
   - Chinese: 潘玟靜
     id: U0231126
-    name: 潘玟靜
+    name: Roxy
     password: wen
     rating: ~
   - Chinese: 張玉屏
     id: U0231127
-    name: 張玉屏
+    name: Shaledy
     password: yu
     rating: ~
   - Chinese: 李建霖
     id: U0231128
-    name: 李建霖
+    name: Flower
     password: jian
     rating: ~
   - Chinese: 丁鳳瑄
     id: U0231130
-    name: 丁鳳瑄
+    name: Ellen
     password: feng
     rating: ~
   - Chinese: 高彙佳
     id: U0231131
-    name: 高彙佳
+    name: Queena
     password: hui
     rating: ~
   - Chinese: 陳介俞
     id: U0231132
-    name: 陳介俞
+    name: Justin
     password: jie
     rating: ~
   - Chinese: 程暐晉
     id: U0231133
-    name: 程暐晉
+    name: Wes
     password: wei
     rating: ~
   - Chinese: 張瓊云
     id: U0231134
-    name: 張瓊云
+    name: Joan
     password: qiong
     rating: ~
   - Chinese: 歐怡絜
     id: U0231135
-    name: 歐怡絜
+    name: E.J.
     password: yi
     rating: ~
   - Chinese: 曾梓晴
     id: U0231136
-    name: 曾梓晴
+    name: Stacey
     password: zi
     rating: ~
   - Chinese: 陳奕全
@@ -191,22 +191,22 @@ member:
     rating: ~
   - Chinese: 鄭心圩
     id: U0231138
-    name: 鄭心圩
+    name: Judy
     password: xin
     rating: ~
   - Chinese: 林子維
     id: U0231139
-    name: 林子維
+    name: Aaron
     password: zi
     rating: ~
   - Chinese: 王榮鈺
     id: U0231140
-    name: 王榮鈺
+    name: Jacky
     password: rong
     rating: ~
   - Chinese: 徐琬淳
     id: U0231141
-    name: 徐琬淳
+    name: Virginia
     password: wan
     rating: ~
   - Chinese: 張庭睿
@@ -216,7 +216,7 @@ member:
     rating: ~
   - Chinese: 趙于婷
     id: U0231143
-    name: 趙于婷
+    name: Glace
     password: yu
     rating: ~
   - Chinese: 黃韋程
@@ -226,12 +226,12 @@ member:
     rating: ~
   - Chinese: 魏琬臻
     id: U0231145
-    name: 魏琬臻
+    name: Jane
     password: wan
     rating: ~
   - Chinese: 黃俊瑋
     id: U0231146
-    name: 黃俊瑋
+    name: Todd
     password: jun
     rating: ~
   - Chinese: 范雅媛
@@ -241,32 +241,32 @@ member:
     rating: ~
   - Chinese: 陳佩蓉
     id: U0231148
-    name: 陳佩蓉
+    name: Amy
     password: pei
     rating: ~
   - Chinese: 林首興
     id: U0231149
-    name: 林首興
+    name: Rean
     password: shou
     rating: ~
   - Chinese: 張央儀
     id: U0231150
-    name: 張央儀
+    name: Cindy
     password: yang
     rating: ~
   - Chinese: 陳宛瑩
     id: U0231151
-    name: 陳宛瑩
+    name: Xenia
     password: wan
     rating: ~
   - Chinese: 蘇彥蓉
     id: U0231152
-    name: 蘇彥蓉
+    name: Sue
     password: yan
     rating: ~
   - Chinese: 李思韻
     id: U0231153
-    name: 李思韻
+    name: Bean
     password: si
     rating: ~
 out:
