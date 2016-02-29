@@ -45,11 +45,6 @@ member:
     name: Clare
     password: li
     rating: ~
-  - Chinese: 陳郁心
-    id: N03200011
-    name: 陳郁心
-    password: yu
-    rating: ~
   - Chinese: 謝偉業
     id: N03200013
     name: Ben
@@ -120,7 +115,12 @@ member:
     name: 林昱廷
     password: yu
     rating: ~
-out: ~
+out:
+  - Chinese: 陳郁心
+    id: N03200011
+    name: 陳郁心
+    password: yu
+    rating: ~
 room: A705
 school: must
 scores:
@@ -131,10 +131,7 @@ scores:
   loss: 3
   win: 5
 session:
-  1: 0
-  2: 5
-  3: 9
-  4: 13
+  1: 1
 weights:
   classwork: 40
   exams: 20
