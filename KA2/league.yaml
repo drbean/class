@@ -15,15 +15,16 @@ id: 042AFN2KA2
 jigsaw: exam
 league: NAF021__四技外二甲
 member:
+  - Chinese: 陳怡安
+    id: N02200012
+    name: Anita
+    password: yi
+    rating: ~
+  
   - Chinese: 許慈顯
     id: N02200022
-    name: 許慈顯
+    name: Wed
     password: ci
-    rating: ~
-  - Chinese: 鄭惠云
-    id: N01200047
-    name: 鄭惠云
-    password: hui
     rating: ~
   - Chinese: 沈芳君
     id: N03100048
@@ -116,6 +117,11 @@ member:
     password: yu
     rating: ~
 out:
+  - Chinese: 鄭惠云
+    id: N01200047
+    name: 鄭惠云
+    password: hui
+    rating: ~
   - Chinese: 陳郁心
     id: N03200011
     name: 陳郁心
