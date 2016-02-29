@@ -121,11 +121,6 @@ member:
     name: 陳季柔
     password: ji
     rating: ~
-  - Chinese: 黃冠潔
-    id: N04202105
-    name: Crown
-    password: guan
-    rating: ~
   - Chinese: 張庭瑄
     id: N04202107
     name: 張庭瑄
@@ -137,6 +132,11 @@ member:
     password: jun
     rating: ~
 out:
+  - Chinese: 黃冠潔
+    id: N04202105
+    name: Crown
+    password: guan
+    rating: ~
   - Chinese: 郭子菁
     id: N03080070
     name: Annafin
