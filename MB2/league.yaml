@@ -20,11 +20,6 @@ member:
     name: James
     password: jia
     rating: ~
-  - Chinese: 郭子菁
-    id: N03080070
-    name: Annafin
-    password: zi
-    rating: ~
   - Chinese: 陳翎軒
     id: N03200001
     name: Ling
@@ -126,6 +121,11 @@ member:
     password: jun
     rating: ~
 out:
+  - Chinese: 郭子菁
+    id: N03080070
+    name: Annafin
+    password: zi
+    rating: ~
 room: A705
 school: must
 scores:
