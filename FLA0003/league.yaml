@@ -91,12 +91,12 @@ cohort:
       name: Liz
       password: xuan
       rating: ~
-    - Chinese: 卓意瑄
-      id: V0341019
-      name: Lily
-      password: yi
-      rating: ~
 member:
+  - Chinese: 卓意瑄
+    id: V0341019
+    name: Lily
+    password: yi
+    rating: ~
   - Chinese: 楊雅惠
     id: V0341021
     name: Fanny
