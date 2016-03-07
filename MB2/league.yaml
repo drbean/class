@@ -15,6 +15,17 @@ id: 042AFN2MB2
 jigsaw: exam
 league: NAF021_四技外二甲
 member:
+  - Chinese: 范育芳
+    id: N01200014
+    name: Devon
+    password: yu
+    rating: ~
+  - Chinese: 董翌亦
+    id: N02202111
+    name: Elvira
+    password: yi
+    rating: ~
+  
   - Chinese: 邱宇凡
     id: 100100100
     name: Newsom
@@ -71,11 +82,6 @@ member:
     name: York
     password: you
     rating: ~
-  - Chinese: 宋柏賢
-    id: N03200018
-    name: Rain
-    password: bai
-    rating: ~
   - Chinese: 楊峻瑋
     id: N03200022
     name: Wilson
@@ -106,20 +112,10 @@ member:
     name: Gary
     password: gui
     rating: ~
-  - Chinese: 鄭凱豪
-    id: N03200038
-    name: 鄭凱豪
-    password: kai
-    rating: ~
   - Chinese: 許晏甄
     id: N04202101
     name: Natasha
     password: yan
-    rating: ~
-  - Chinese: 陳季柔
-    id: N04202103
-    name: 陳季柔
-    password: ji
     rating: ~
   - Chinese: 張庭瑄
     id: N04202107
@@ -132,6 +128,21 @@ member:
     password: jun
     rating: ~
 out:
+  - Chinese: 陳季柔
+    id: N04202103
+    name: 陳季柔
+    password: ji
+    rating: ~
+  - Chinese: 宋柏賢
+    id: N03200018
+    name: Rain
+    password: bai
+    rating: ~
+  - Chinese: 鄭凱豪
+    id: N03200038
+    name: 鄭凱豪
+    password: kai
+    rating: ~
   - Chinese: 黃冠潔
     id: N04202105
     name: Crown
