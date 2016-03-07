@@ -15,16 +15,30 @@ id: 042AFN2KA2
 jigsaw: exam
 league: NAF021__四技外二甲
 member:
+  - Chinese: 孫柏皓
+    id: N02202105
+    name: BoHao
+    password: bai
+    rating: ~
   - Chinese: 陳怡安
     id: N02200012
-    name: Anita
+    name: 陳怡安
     password: yi
     rating: ~
-  
   - Chinese: 許慈顯
     id: N02200022
-    name: Wed
+    name: 許慈顯
     password: ci
+    rating: ~
+  - Chinese: 張智皓
+    id: N02200025
+    name: 張智皓
+    password: zhi
+    rating: ~
+  - Chinese: 卓芷伶
+    id: N04203105
+    name: 卓芷伶
+    password: zhi
     rating: ~
   - Chinese: 沈芳君
     id: N03100048
@@ -113,8 +127,13 @@ member:
     rating: ~
   - Chinese: 林昱廷
     id: N04202201
-    name: 林昱廷
+    name: John
     password: yu
+    rating: ~
+  - Chinese: 劉意玲
+    id: B00230075
+    name: Eva
+    password: yi
     rating: ~
 out:
   - Chinese: 鄭惠云
