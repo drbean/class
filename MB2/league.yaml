@@ -15,6 +15,12 @@ id: 042AFN2MB2
 jigsaw: exam
 league: NAF021_四技外二甲
 member:
+  - Chinese: 許雅晶
+    id: N03203104
+    name: 許雅晶
+    password: ya
+    rating: ~
+  
   - Chinese: 劉怡甄
     id: N02202107
     name: 劉怡甄
