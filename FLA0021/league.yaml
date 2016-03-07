@@ -14,6 +14,12 @@ hwMax: 2
 id: 042FLA0021
 league: 夜應外大學四甲
 member:
+  - Chinese: 王覲
+    id: V0241020
+    name: Jimmy
+    password: jin
+    rating: ~
+
   - Chinese: 吳于嫥
     id: V0141003
     name: Stephanie
