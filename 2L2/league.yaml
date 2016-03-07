@@ -17,12 +17,12 @@ league: BAF022_四技應外二乙
 member:
   - Chinese: 李宜安
     id: B01130006
-    name: 李宜安
+    name: Kevin2
     password: yi
     rating: ~
   - Chinese: 劉意玲
     id: B00230075
-    name: 劉意玲
+    name: Eva
     password: yi
     rating: ~
   - Chinese: 曾淑慧
@@ -42,12 +42,12 @@ member:
     rating: ~
   - Chinese: 王韻筌
     id: B02200096
-    name: 王韻筌
+    name: YunChuan
     password: yun
     rating: ~
   - Chinese: 徐珮云
     id: B03192105
-    name: 徐珮云
+    name: Amy
     password: pei
     rating: ~
   - Chinese: 廖珈瑩
@@ -166,7 +166,7 @@ member:
     password: xiao
     rating: ~
 out: ~
-room: hong-603
+room: A705
 school: must
 scores:
   bye: 5
@@ -176,10 +176,7 @@ scores:
   loss: 3
   win: 5
 session:
-  1: 0
-  2: 5
-  3: 9
-  4: 13
+  1: 1
 weights:
   classwork: 40
   exams: 20
