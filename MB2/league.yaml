@@ -15,6 +15,12 @@ id: 042AFN2MB2
 jigsaw: exam
 league: NAF021_四技外二甲
 member:
+  - Chinese: 劉怡甄
+    id: N02202107
+    name: 劉怡甄
+    password: yi
+    rating: ~
+  
   - Chinese: 范育芳
     id: N01200014
     name: Devon
@@ -163,10 +169,7 @@ scores:
   loss: 3
   win: 5
 session:
-  1: 0
-  2: 5
-  3: 9
-  4: 13
+  1: 1
 weights:
   classwork: 40
   exams: 20
