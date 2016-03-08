@@ -15,6 +15,40 @@ hwMax: 2
 id: 042FLA0019
 league: 夜應外大學三甲
 member:
+
+  - Chinese: 黃嘉嘉
+    id: V0316060
+    name: Jessica
+    password: jia
+    rating: ~
+  
+  - Chinese: 何姿儀
+    id: V0241038
+    name: Penny
+    password: zi
+    rating: ~
+  - Chinese: 梁怡萍
+    id: V0241039
+    name: Janice
+    password: yi
+    rating: ~
+  - Chinese: 黃鈺婷
+    id: V0241041
+    name: Winnie
+    password: yu
+    rating: ~
+  - Chinese: 陳巧惠
+    id: V0241022
+    name: Cherry
+    password: qiao
+    rating: ~
+
+  - Chinese: 黃昭寧
+    id: V0241065
+    name: Ali
+    password: zhao
+    rating: ~
+
   - Chinese: 蔣宜芸
     id: V0041008
     name: Emily
