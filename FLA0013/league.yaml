@@ -85,11 +85,6 @@ member:
     name: Abby
     password: ying
     rating: ~
-  - Chinese: 涂馨尹
-    id: V0241026
-    name: Rita
-    password: xin
-    rating: ~
   - Chinese: 陳亮彤
     id: V0241029
     name: Lily
@@ -155,20 +150,10 @@ member:
     name: Chuck
     password: yu
     rating: ~
-  - Chinese: 邱煒傑
-    id: V0241063
-    name: Jay
-    password: wei
-    rating: ~
   - Chinese: 黃俊豪
     id: V0241064
     name: Kevin
     password: jun
-    rating: ~
-  - Chinese: 黃昭寧
-    id: V0241065
-    name: Ali
-    password: zhao
     rating: ~
   - Chinese: 郭姿婷
     id: V0241066
@@ -180,7 +165,22 @@ member:
     name: Jason
     password: wei
     rating: ~
-out: ~
+out:
+  - Chinese: 邱煒傑
+    id: V0241063
+    name: Jay
+    password: wei
+    rating: ~
+  - Chinese: 黃昭寧
+    id: V0241065
+    name: Ali
+    password: zhao
+    rating: ~
+  - Chinese: 涂馨尹
+    id: V0241026
+    name: Rita
+    password: xin
+    rating: ~
 room: A702
 school: nuu
 session:
