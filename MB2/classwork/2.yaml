@@ -1,0 +1,122 @@
+1-1:
+  absent: []
+  merits: 2.5
+  p:
+  - 0
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+1-2:
+  absent:
+    - Kris
+    - Kelly
+  merits: 2.5
+  p:
+  - 0
+  rs:
+  - 0
+  - 1
+  - 1
+  tardy: []
+1-3: null
+1-4: null
+1-5: null
+2-1:
+  absent:
+    - Gary
+  merits: 3
+  p:
+  - 0
+  rs:
+  - 0
+  - 0
+  - 1
+  tardy: []
+2-2:
+  absent:
+    - 張庭瑄
+  merits: 2.5
+  p:
+  - 0
+  rs:
+  - 0
+  - 1
+  - 1
+  tardy: []
+2-3: null
+2-4: null
+2-5: null
+3-1:
+  absent:
+    - Macaria
+  merits: 3
+  p:
+  - 0
+  rs:
+  - 0
+  - 0
+  - 1
+  tardy: []
+3-2:
+  absent:
+    - Newsom
+  merits: 2.5
+  p:
+  - 0
+  rs:
+  - 0
+  - 1
+  - 1
+  tardy: []
+3-3: null
+3-4: null
+3-5: null
+4-1:
+  absent: 
+    - Vicky
+  merits: 3
+  p:
+  - 0
+  rs:
+  - 0
+  - 0
+  - 1
+  tardy: []
+4-2:
+  absent:
+    - 劉怡甄
+  merits: 3
+  p:
+  - 0
+  rs:
+  - 0
+  - 0
+  - 1
+  tardy: []
+4-3: null
+4-4: null
+4-5: null
+5-1: null
+5-2: null
+day: (042) 2016-3-5
+qz:
+- a: 0
+  o:
+  - Francesca
+  - Abena
+  q: Who agrees/disagrees with capital punishment?
+- a: 0
+  o:
+  - Does the existence of a death penalty reduce the number of murders that take place?
+  - Is it expensive dealing with murderers?
+  q: What point is argued by one, but NOT both, Francesca and Abena?
+- a: 1
+  o:
+  - that he/she may be killed next
+  - that it is OK to kill people to solve problems.
+  q: ! 'Abena says the death penalty shouldn''t exist because it tells every member
+    of society:'
+topic: death_penalty
+
