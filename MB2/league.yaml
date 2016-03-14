@@ -15,15 +15,21 @@ id: 042AFN2MB2
 jigsaw: exam
 league: NAF021_四技外二甲
 member:
+  - Chinese: 張智皓
+    id: N02200025
+    name: Daniel
+    password: zhi
+    rating: ~
+
   - Chinese: 鄒羽嫙
     id: N02200047
-    name: 鄒羽嫙
+    name: Molly
     password: yu
     rating: ~
   
   - Chinese: 許雅晶
     id: N03203104
-    name: 許雅晶
+    name: Milly
     password: ya
     rating: ~
   
