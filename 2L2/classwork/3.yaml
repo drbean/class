@@ -7,56 +7,56 @@ topic: murder
   absent:
     - Eason
   merits: 1
-  p: ~
+  p: 2
 1-2:
   tardy:
   absent:
     - Kevin1
   merits: 2
-  p: ~
+  p: 2.5
 2-1:
   tardy:
   absent:
     - Victoria
   merits: 2
-  p: ~
+  p: 2.5
 2-2:
   tardy:
   absent:
     - Michael
   merits: 2
-  p: ~
+  p: 2.5
 2-3:
   tardy:
   absent:
   merits: 3
-  p: ~
+  p: 3
 3-1:
   tardy:
     - Amber
   absent:
   merits: 3
-  p: ~
+  p: 3
 3-2:
   tardy:
   absent:
     - Grace2
   merits: 2
-  p: ~
+  p: 2.5
 3-3:
   tardy:
   absent:
   merits: 2
-  p: ~
+  p: 2.5
 4-1:
   tardy:
     - Polly
     - YunChuan
   absent:
   merits: 3
-  p: ~
+  p: 3
 4-2:
   tardy:
   absent:
   merits: 2
-  p: ~
+  p: 2.5
