@@ -15,6 +15,12 @@ hwMax: 2
 id: 042FLA0013
 league: 夜應外三甲
 member:
+  - Chinese: 謝宜潔
+    id: V0041022
+    name: Angela
+    password: yi
+    rating: ~
+ 
   - Chinese: 蔡方如
     id: V0241031
     name: Fiona
