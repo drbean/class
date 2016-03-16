@@ -66,11 +66,6 @@ member:
     name: Jackie
     password: qi
     rating: ~
-  - Chinese: 王耀陞
-    id: V0241012
-    name: Ivan
-    password: yao
-    rating: ~
   - Chinese: 賴彥鈞
     id: V0241014
     name: Josh
@@ -156,11 +151,6 @@ member:
     name: Chuck
     password: yu
     rating: ~
-  - Chinese: 黃俊豪
-    id: V0241064
-    name: Kevin
-    password: jun
-    rating: ~
   - Chinese: 郭姿婷
     id: V0241066
     name: Tina
@@ -172,6 +162,16 @@ member:
     password: wei
     rating: ~
 out:
+  - Chinese: 黃俊豪
+    id: V0241064
+    name: Kevin
+    password: jun
+    rating: ~
+  - Chinese: 王耀陞
+    id: V0241012
+    name: Ivan
+    password: yao
+    rating: ~
   - Chinese: 邱煒傑
     id: V0241063
     name: Jay
