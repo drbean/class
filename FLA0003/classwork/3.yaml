@@ -61,8 +61,7 @@
   - 0
   tardy: []
 3-2:
-  absent:
-    - Tiffany
+  absent: []
   merits: 3
   p:
   - 2
@@ -70,7 +69,8 @@
   - 1
   - 0
   - 0
-  tardy: []
+  tardy:
+    - Tiffany
 3-3: null
 3-4: null
 3-5: null
