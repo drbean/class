@@ -92,11 +92,6 @@ cohort:
       password: xuan
       rating: ~
 member:
-  - Chinese: 卓意瑄
-    id: V0341019
-    name: Lily
-    password: yi
-    rating: ~
   - Chinese: 楊雅惠
     id: V0341021
     name: Fanny
@@ -183,6 +178,11 @@ member:
     password: jia
     rating: ~
 out:
+  - Chinese: 卓意瑄
+    id: V0341019
+    name: Lily
+    password: yi
+    rating: ~
 room: A702
 school: nuu
 session:
