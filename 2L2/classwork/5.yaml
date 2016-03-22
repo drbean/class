@@ -5,6 +5,8 @@ topic: shoplifting,breaking_and_entering,rape,murder
 1-1:
   tardy:
   absent:
+    - Jenny
+    - Dora
   merits: 2
   p:
     - 2
@@ -13,6 +15,7 @@ topic: shoplifting,breaking_and_entering,rape,murder
 1-2:
   tardy:
   absent:
+    - Kevin1
   merits: 3
   p:
     - 3
@@ -21,6 +24,8 @@ topic: shoplifting,breaking_and_entering,rape,murder
 2-1:
   tardy:
   absent:
+    - Victoria
+    - Kevin2
   merits: 2
   p:
     - 1
@@ -28,6 +33,7 @@ topic: shoplifting,breaking_and_entering,rape,murder
     - 0
 2-2:
   tardy:
+    - Michael
   absent:
   merits: 3
   p:
@@ -45,6 +51,9 @@ topic: shoplifting,breaking_and_entering,rape,murder
 3-1:
   tardy:
   absent:
+    - Eva
+    - Amber
+    - Sharon
   merits: 0
   p:
     - 0
@@ -53,6 +62,7 @@ topic: shoplifting,breaking_and_entering,rape,murder
 3-2:
   tardy:
   absent:
+    - Grace2
   merits: 2.5
   p:
     - 2
@@ -61,6 +71,7 @@ topic: shoplifting,breaking_and_entering,rape,murder
 3-3:
   tardy:
   absent:
+    - Sylvia
   merits: 2
   p:
     - 1
@@ -69,6 +80,8 @@ topic: shoplifting,breaking_and_entering,rape,murder
 4-1:
   tardy:
   absent:
+    - YunChuan
+    - Polly
   merits: 2
   p:
     - 2
@@ -76,6 +89,7 @@ topic: shoplifting,breaking_and_entering,rape,murder
     - 0
 4-2:
   tardy:
+    - Grace1
   absent:
   merits: 3
   p:
