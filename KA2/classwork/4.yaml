@@ -5,6 +5,7 @@ topic: definitions,paragraphing
 1-1:
   tardy:
   absent:
+    - 黃駿逸
   merits: 2
   p:
     - 0
@@ -12,6 +13,7 @@ topic: definitions,paragraphing
 1-2:
   tardy:
   absent:
+    - BoHao
   merits: 2
   p:
     - 0
@@ -26,6 +28,8 @@ topic: definitions,paragraphing
 2-2:
   tardy:
   absent:
+    - Anita
+    - Emily
   merits: 2
   p:
     - 0
@@ -40,6 +44,7 @@ topic: definitions,paragraphing
 3-2:
   tardy:
   absent:
+    - YaYun
   merits: 2
   p:
     - 0
