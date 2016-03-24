@@ -15,6 +15,11 @@ hwMax: 2
 id: 042FLA0019
 league: 夜應外大學三甲
 member:
+  - Chinese: 黃俊豪
+    id: V0241064
+    name: Kevin
+    password: jun
+    rating: ~
 
   - Chinese: 黃嘉嘉
     id: V0316060
