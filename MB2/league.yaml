@@ -60,11 +60,6 @@ member:
     name: Jeremy
     password: jia
     rating: ~
-  - Chinese: 劉怡甄
-    id: N02202109
-    name: Amy
-    password: yi
-    rating: ~
   
   - Chinese: 溫嘉翔
     id: N02203102
@@ -143,7 +138,7 @@ member:
     rating: ~
   - Chinese: 張庭瑄
     id: N04202107
-    name: 張庭瑄
+    name: Amy
     password: ting
     rating: ~
   - Chinese: 楊竣傑
