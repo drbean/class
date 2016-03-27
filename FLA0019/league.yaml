@@ -15,6 +15,31 @@ hwMax: 2
 id: 042FLA0019
 league: 夜應外大學三甲
 member:
+  - Chinese: 羅宇辰
+    id: V0241045
+    name: Sandy
+    password: yu
+    rating: ~
+  - Chinese: 邱煒傑
+    id: V0241063
+    name: Jay
+    password: wei
+    rating: ~
+  - Chinese: 劉威昇
+    id: V0241067
+    name: Jason
+    password: wei
+    rating: ~
+  - Chinese: 陳瑀濤
+    id: V0241046
+    name: Chuck
+    password: yu
+    rating: ~
+  - Chinese: 蔡立瑋
+    id: V0141001
+    name: David
+    password: li
+    rating: ~
   - Chinese: 黃俊豪
     id: V0241064
     name: Kevin
