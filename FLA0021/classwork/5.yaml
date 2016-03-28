@@ -1,0 +1,65 @@
+---
+topic: academic_test,exam
+
+
+1-1:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+1-2:
+  tardy:
+  absent:
+    - Jessica
+  merits: 3
+  p: ~
+1-3:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+2-1:
+  tardy:
+    - Peter
+  absent:
+    - Vicky
+  merits: 3
+  p: ~
+2-2:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+2-3:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+3-1:
+  tardy:
+  absent:
+    - Zoe
+  merits: 3
+  p: ~
+3-2:
+  tardy:
+  absent:
+    - Owen
+  merits: 3
+  p: ~
+3-3:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+4-1:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+4-2:
+  tardy:
+  absent:
+    - Brian
+  merits: 3
+  p: ~
