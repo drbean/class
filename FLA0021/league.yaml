@@ -110,11 +110,6 @@ member:
     name: Nora
     password: mei
     rating: ~
-  - Chinese: 謝婕榆
-    id: V0141038
-    name: Jessica
-    password: jie
-    rating: ~
   - Chinese: 邱晴
     id: V0141041
     name: Sunny
@@ -129,11 +124,6 @@ member:
     id: V0141048
     name: Wynn
     password: wan
-    rating: ~
-  - Chinese: 黃姵甄
-    id: V0141049
-    name: Zoe
-    password: pei
     rating: ~
   - Chinese: 陳珮文
     id: V0141050
@@ -170,11 +160,6 @@ member:
     name: Ivy2
     password: hong
     rating: ~
-  - Chinese: 徐銘均
-    id: V0141060
-    name: Owen
-    password: ming
-    rating: ~
   - Chinese: 施志昇
     id: V0141061
     name: Sam
@@ -186,13 +171,26 @@ member:
     password: wei
     rating: ~
 out:
+  - Chinese: 謝婕榆
+    id: V0141038
+    name: Jessica
+    password: jie
+    rating: ~
+  - Chinese: 黃姵甄
+    id: V0141049
+    name: Zoe
+    password: pei
+    rating: ~
+  - Chinese: 徐銘均
+    id: V0141060
+    name: Owen
+    password: ming
+    rating: ~
 room: A706
 school: nuu
 session:
   1: 1
   2: 6
-  3: 10
-  4: 15
 weights:
   classwork: 20
   exams: 40
