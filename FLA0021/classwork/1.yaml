@@ -124,7 +124,9 @@
   - 0
   - 0
   tardy: []
-4-3: null
+4-3: 
+  absent: Jimmy
+  merits: 0
 4-4: null
 4-5: null
 5-1: null
