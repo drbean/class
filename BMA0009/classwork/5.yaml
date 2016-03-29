@@ -1,0 +1,195 @@
+1-1:
+  absent: []
+  merits: 3
+  p:
+  - 0
+  rs:
+  - 2
+  - 0
+  - 0
+  tardy: []
+1-2:
+  absent: []
+  merits: 2.5
+  p:
+  - 0
+  rs:
+  - 2
+  - 1
+  - 0
+  tardy: []
+1-3:
+  absent: []
+  merits: 3
+  p:
+  - 0
+  rs:
+  - 2
+  - 0
+  - 0
+  tardy: []
+1-4:
+  absent: []
+  merits: 2.5
+  p:
+  - 0
+  rs:
+  - 2
+  - 1
+  - 0
+  tardy: []
+1-5:
+  absent: []
+  merits: 2.5
+  p:
+  - 0
+  rs:
+  - 2
+  - 1
+  - 0
+  tardy: []
+2-1:
+  absent: []
+  merits: 3
+  p:
+  - 0
+  rs:
+  - 2
+  - 0
+  - 0
+  tardy: []
+2-2:
+  absent: []
+  merits: 2.5
+  p:
+  - 0
+  rs:
+  - 2
+  - 1
+  - 0
+  tardy: []
+2-3:
+  absent: []
+  merits: 3
+  p:
+  - 0
+  rs:
+  - 2
+  - 1
+  - 1
+  tardy: []
+2-4:
+  absent: []
+  merits: 2
+  p:
+  - 0
+  rs:
+  - 0
+  - 1
+  - 0
+  tardy: []
+2-5: null
+3-1:
+  absent: []
+  merits: 2.5
+  p:
+  - 0
+  rs:
+  - 2
+  - 1
+  - 0
+  tardy: []
+3-2:
+  absent: []
+  merits: 3
+  p:
+  - 0
+  rs:
+  - 2
+  - 0
+  - 0
+  tardy: []
+3-3:
+  absent: []
+  merits: 2.5
+  p:
+  - 0
+  rs:
+  - 2
+  - 1
+  - 0
+  tardy: []
+3-4:
+  absent: []
+  merits: 2.5
+  p:
+  - 0
+  rs:
+  - 2
+  - 1
+  - 0
+  tardy: []
+3-5: null
+4-1:
+  absent: []
+  merits: 2.5
+  p:
+  - 0
+  rs:
+  - 2
+  - 1
+  - 0
+  tardy: []
+4-2:
+  absent: []
+  merits: 2.5
+  p:
+  - 0
+  rs:
+  - 2
+  - 1
+  - 0
+  tardy: []
+4-3:
+  absent: []
+  merits: 3
+  p:
+  - 0
+  rs:
+  - 2
+  - 0
+  - 0
+  tardy: []
+4-4:
+  absent: []
+  merits: 2.5
+  p:
+  - 0
+  rs:
+  - 2
+  - 1
+  - 0
+  tardy: []
+4-5: null
+5-1: null
+5-2: null
+day: (042) 2016-3-23
+qz:
+- a: 2
+  o:
+  - Act (emphasized)
+  - details (subordinated)
+  - ! 'sentiment '
+  q: Looking forward
+- a: 0
+  o:
+  - act, details, details, sentiment
+  - Other
+  q: invitation_structure
+- a: 1
+  o:
+  - fit
+  - not_fit
+  q: Smokers_fitness
+topic: invitation
+
