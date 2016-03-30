@@ -1,5 +1,7 @@
 1-1:
-  absent: []
+  absent:
+    - Aaron
+    - Queena
   merits: 3
   p:
   - 0
@@ -29,7 +31,9 @@
   - 0
   tardy: []
 1-4:
-  absent: []
+  absent:
+    - Felix
+    - Bean
   merits: 2.5
   p:
   - 0
@@ -59,7 +63,8 @@
   - 0
   tardy: []
 2-2:
-  absent: []
+  absent:
+    - Peter
   merits: 2.5
   p:
   - 0
@@ -69,7 +74,8 @@
   - 0
   tardy: []
 2-3:
-  absent: []
+  absent:
+    - Ellen
   merits: 3
   p:
   - 0
@@ -100,7 +106,8 @@
   - 0
   tardy: []
 3-2:
-  absent: []
+  absent:
+    - Andy
   merits: 3
   p:
   - 0
@@ -120,7 +127,8 @@
   - 0
   tardy: []
 3-4:
-  absent: []
+  absent:
+    - Justin
   merits: 2.5
   p:
   - 0
@@ -141,7 +149,8 @@
   - 0
   tardy: []
 4-2:
-  absent: []
+  absent:
+    - Roxy
   merits: 2.5
   p:
   - 0
