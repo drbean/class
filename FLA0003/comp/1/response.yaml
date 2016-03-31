@@ -1,0 +1,169 @@
+---
+free:
+  0:
+    dickson:
+      0:
+        V0341025:
+          point:
+            1: Nil
+        V0341044:
+          point:
+            1: Returned
+    abreu:
+      0:
+        V0341025:
+          point:
+            1: Nil
+        V0341044:
+          point:
+            1: Nil
+    smallwood:
+      0:
+        V0341025:
+          point:
+            1: Nil
+        V0341044:
+          point:
+            1: Nil
+    jackson:
+      0:
+        V0341025:
+          point:
+            1: Returned
+        V0341044:
+          point:
+            1: Nil
+  1:
+    dickson:
+      0:
+        V0341039:
+          point:
+            1: Nil
+        V0341036:
+          point:
+            1: Unreturned
+    abreu:
+      0:
+        V0341039:
+          point:
+            1: Nil
+        V0341036:
+          point:
+            1: Nil
+    smallwood:
+      0:
+        V0341039:
+          point:
+            1: Nil
+        V0341036:
+          point:
+            1: Nil
+    jackson:
+      0:
+        V0341039:
+          point:
+            1: Fault on 2nd chance
+        V0341036:
+          point:
+            1: Nil
+  2:
+    dickson:
+      0:
+        V0341024:
+          point:
+            1: Returned on 2nd chance
+        V0341027:
+          point:
+            1: Nil
+    abreu:
+      0:
+        V0341024:
+          point:
+            1: Nil
+        V0341027:
+          point:
+            1: Fault on 2nd chance
+            2: Nil
+    smallwood:
+      0:
+        V0341024:
+          point:
+            1: Nil
+        V0341027:
+          point:
+            1: Nil
+    jackson:
+      0:
+        V0341024:
+          point:
+            1: Returned on 2nd chance
+        V0341027:
+          point:
+            1: Returned
+  3:
+    dickson:
+      0:
+        V0341033:
+          point:
+            1: Fault on 2nd chance
+            2: Nil
+        V0341022:
+          point:
+            1: Nil
+    abreu:
+      0:
+        V0341033:
+          point:
+            1: Nil
+        V0341022:
+          point:
+            1: Nil
+    smallwood:
+      0:
+        V0341033:
+          point:
+            1: Nil
+        V0341022:
+          point:
+            1: Nil
+    jackson:
+      0:
+        V0341033:
+          point:
+            1: Nil
+        V0341022:
+          point:
+            1: Returned
+  4:
+    dickson:
+      0:
+        V0341034:
+          point:
+            1: Returned
+        V0341035:
+          point:
+            1: Fault
+    abreu:
+      0:
+        V0341034:
+          point:
+            1: Nil
+        V0341035:
+          point:
+            1: Nil
+    smallwood:
+      0:
+        V0341034:
+          point:
+            1: Returned
+        V0341035:
+          point:
+            1: Nil
+    jackson:
+      0:
+        V0341034:
+          point:
+            1: Nil
+        V0341035:
+          point:
+            1: Nil

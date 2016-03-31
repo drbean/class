@@ -1,0 +1,63 @@
+---
+activity:
+  dickson:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+  abreu:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+  smallwood:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+  jackson:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+assistant:
+  2-1:
+    V0341052: 5
+  1-1:
+    V0341051: 5
+bye: V0341031
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: V0341039
+    Black: V0341036
+  2:
+    White: V0341024
+    Black: V0341027
+  3:
+    White: V0341033
+    Black: V0341022
+  4:
+    White: V0341034
+    Black: V0341035
+  0:
+    White: V0341025
+    Black: V0341044
+        
+late:
+  - V0341044
+  - V0341031
+pairing: swiss
+payprotocol: meritPay
+round: 1
+text: /home/drbean/class/conversation/work/cards.yaml
+week: 5
