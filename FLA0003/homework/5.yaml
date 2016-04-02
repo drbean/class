@@ -1,0 +1,218 @@
+---
+cutpoints:
+  loser: 2
+  quitter: 1
+  winner: 2
+exercise: jackson
+grade:
+  V0341021: 1
+  V0341022: 0
+  V0341024: 2
+  V0341025: 2
+  V0341027: 2
+  V0341031: 0
+  V0341033: 0
+  V0341034: 0
+  V0341035: 0
+  V0341036: 2
+  V0341037: 2
+  V0341039: 0
+  V0341044: 0
+  V0341051: 0
+  V0341052: 2
+points:
+  V0341021:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 10
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 3
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341022:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0341024:
+    Wh:
+      answers: 2
+      questions: 0
+      attempts: 13
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341025:
+    Wh:
+      answers: 2
+      questions: 0
+      attempts: 24
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 4
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341027:
+    Wh:
+      answers: 2
+      questions: 0
+      attempts: 9
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341031:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0341033:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0341034:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0341035:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0341036:
+    Wh:
+      answers: 1
+      questions: 0
+      attempts: 62
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 3
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341037:
+    Wh:
+      answers: 2
+      questions: 0
+      attempts: 18
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341039:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0341044:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0341051:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0341052:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 29
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
