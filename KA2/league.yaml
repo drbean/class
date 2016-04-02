@@ -30,21 +30,6 @@ member:
     name: Wed
     password: ci
     rating: ~
-  - Chinese: 張智皓
-    id: N02200025
-    name: 張智皓
-    password: zhi
-    rating: ~
-  - Chinese: 卓芷伶
-    id: N04203105
-    name: 卓芷伶
-    password: zhi
-    rating: ~
-  - Chinese: 沈芳君
-    id: N03100048
-    name: Emily
-    password: fang
-    rating: ~
   - Chinese: 郭芳瑜
     id: N03200003
     name: Jade
@@ -115,16 +100,6 @@ member:
     name: Benson
     password: sheng
     rating: ~
-  - Chinese: 黃駿逸
-    id: N04202108
-    name: 黃駿逸
-    password: jun
-    rating: ~
-  - Chinese: 曾宥蓁
-    id: N04202112
-    name: 曾宥蓁
-    password: you
-    rating: ~
   - Chinese: 林昱廷
     id: N04202201
     name: John
@@ -136,6 +111,31 @@ member:
     password: yi
     rating: ~
 out:
+  - Chinese: 黃駿逸
+    id: N04202108
+    name: 黃駿逸
+    password: jun
+    rating: ~
+  - Chinese: 曾宥蓁
+    id: N04202112
+    name: 曾宥蓁
+    password: you
+    rating: ~
+  - Chinese: 張智皓
+    id: N02200025
+    name: 張智皓
+    password: zhi
+    rating: ~
+  - Chinese: 卓芷伶
+    id: N04203105
+    name: 卓芷伶
+    password: zhi
+    rating: ~
+  - Chinese: 沈芳君
+    id: N03100048
+    name: Emily
+    password: fang
+    rating: ~
   - Chinese: 鄭惠云
     id: N01200047
     name: 鄭惠云
