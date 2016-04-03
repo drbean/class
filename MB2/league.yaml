@@ -131,17 +131,17 @@ member:
     name: Natasha
     password: yan
     rating: ~
-  - Chinese: 張庭瑄
-    id: N04202107
-    name: 張庭瑄
-    password: ting
-    rating: ~
   - Chinese: 楊竣傑
     id: N04202109
     name: Jay
     password: jun
     rating: ~
 out:
+  - Chinese: 張庭瑄
+    id: N04202107
+    name: 張庭瑄
+    password: ting
+    rating: ~
   - Chinese: 張智皓
     id: N02200025
     name: Daniel
