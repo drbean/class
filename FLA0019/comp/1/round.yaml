@@ -1,0 +1,137 @@
+---
+activity:
+  tip:
+    1:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+    2:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+    3:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+    4:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+    5:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+    6:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+    7:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+    8:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+    9:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+    10:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+assistant:
+  1-2:
+    V0241014: 4
+  3-2:
+    V0241046: 4
+  4-1:
+    V0241041: 4
+dispensation:
+  4-1:
+    V0241041: 4
+divisions: ~
+group:
+  0:
+    White: V0241041
+    Black: V0041008
+    
+  1:
+    White: V0241038
+    Black: V0241067
+  2:
+    White: V0241039
+    Black: V0241034
+  3:
+    White: V0241029
+    Black: V0241004
+  4:
+    White: V0241064
+    Black: V0141001
+  5:
+    White: V0141062
+    Black: V0241022
+  6:
+    White: V0241017
+    Black: V0241001
+  7:
+    White: V9941077
+    Black: V0241065
+late:
+  - V0041008
+pairing: swiss adjusted
+payprotocol: meritPay 2
+round: 1
+text: /home/drbean/class/business/careers/cards.yaml
+week: 5

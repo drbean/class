@@ -1,0 +1,578 @@
+---
+free:
+  0:
+    tip:
+      1:
+        V0241041:
+          point:
+            1: Nil
+        V0041008:
+          point:
+            1: Nil
+      2:
+        V0241041:
+          point:
+            1: Nil
+        V0041008:
+          point:
+            1: Nil
+      3:
+        V0241041:
+          point:
+            1: Nil
+        V0041008:
+          point:
+            1: Nil
+      4:
+        V0241041:
+          point:
+            1: Nil
+        V0041008:
+          point:
+            1: Nil
+      5:
+        V0241041:
+          point:
+            1: Nil
+        V0041008:
+          point:
+            1: Nil
+      6:
+        V0241041:
+          point:
+            1: Nil
+        V0041008:
+          point:
+            1: Nil
+      7:
+        V0241041:
+          point:
+            1: Nil
+        V0041008:
+          point:
+            1: Nil
+      8:
+        V0241041:
+          point:
+            1: Nil
+        V0041008:
+          point:
+            1: Nil
+      9:
+        V0241041:
+          point:
+            1: Unreturned
+        V0041008:
+          point:
+            1: Returned
+      10:
+        V0241041:
+          point:
+            1: Nil
+        V0041008:
+          point:
+            1: Nil
+  1:
+    tip:
+      1:
+        V0241038:
+          point:
+            1: Nil
+        V0241067:
+          point:
+            1: Nil
+      2:
+        V0241038:
+          point:
+            1: Nil
+        V0241067:
+          point:
+            1: Nil
+      3:
+        V0241038:
+          point:
+            1: Nil
+        V0241067:
+          point:
+            1: Nil
+      4:
+        V0241038:
+          point:
+            1: Nil
+        V0241067:
+          point:
+            1: Nil
+      5:
+        V0241038:
+          point:
+            1: Unreturned
+        V0241067:
+          point:
+            1: Returned
+      6:
+        V0241038:
+          point:
+            1: Nil
+        V0241067:
+          point:
+            1: Nil
+      7:
+        V0241038:
+          point:
+            1: Nil
+        V0241067:
+          point:
+            1: Nil
+      8:
+        V0241038:
+          point:
+            1: Nil
+        V0241067:
+          point:
+            1: Nil
+      9:
+        V0241038:
+          point:
+            1: Returned
+        V0241067:
+          point:
+            1: Unreturned
+      10:
+        V0241038:
+          point:
+            1: Nil
+        V0241067:
+          point:
+            1: Nil
+  2:
+    tip:
+      1:
+        V0241039:
+          point:
+            1: Nil
+        V0241034:
+          point:
+            1: Nil
+      2:
+        V0241039:
+          point:
+            1: Nil
+        V0241034:
+          point:
+            1: Nil
+      3:
+        V0241039:
+          point:
+            1: Unreturned
+        V0241034:
+          point:
+            1: Returned
+      4:
+        V0241039:
+          point:
+            1: Nil
+        V0241034:
+          point:
+            1: Nil
+      5:
+        V0241039:
+          point:
+            1: Nil
+        V0241034:
+          point:
+            1: Nil
+      6:
+        V0241039:
+          point:
+            1: Nil
+        V0241034:
+          point:
+            1: Nil
+      7:
+        V0241039:
+          point:
+            1: Nil
+        V0241034:
+          point:
+            1: Nil
+      8:
+        V0241039:
+          point:
+            1: Nil
+        V0241034:
+          point:
+            1: Nil
+      9:
+        V0241039:
+          point:
+            1: Nil
+        V0241034:
+          point:
+            1: Nil
+      10:
+        V0241039:
+          point:
+            1: Returned
+        V0241034:
+          point:
+            1: Unreturned
+  3:
+    tip:
+      1:
+        V0241029:
+          point:
+            1: Nil
+        V0241004:
+          point:
+            1: Nil
+      2:
+        V0241029:
+          point:
+            1: Nil
+        V0241004:
+          point:
+            1: Nil
+      3:
+        V0241029:
+          point:
+            1: Nil
+        V0241004:
+          point:
+            1: Nil
+      4:
+        V0241029:
+          point:
+            1: Nil
+        V0241004:
+          point:
+            1: Nil
+      5:
+        V0241029:
+          point:
+            1: Nil
+        V0241004:
+          point:
+            1: Nil
+      6:
+        V0241029:
+          point:
+            1: Returned
+        V0241004:
+          point:
+            1: Unreturned
+      7:
+        V0241029:
+          point:
+            1: Unreturned
+        V0241004:
+          point:
+            1: Returned
+      8:
+        V0241029:
+          point:
+            1: Nil
+        V0241004:
+          point:
+            1: Nil
+      9:
+        V0241029:
+          point:
+            1: Nil
+        V0241004:
+          point:
+            1: Nil
+      10:
+        V0241029:
+          point:
+            1: Nil
+        V0241004:
+          point:
+            1: Nil
+  4:
+    tip:
+      1:
+        V0241064:
+          point:
+            1: Unreturned
+        V0141001:
+          point:
+            1: Returned
+      2:
+        V0241064:
+          point:
+            1: Nil
+        V0141001:
+          point:
+            1: Nil
+      3:
+        V0241064:
+          point:
+            1: Nil
+        V0141001:
+          point:
+            1: Nil
+      4:
+        V0241064:
+          point:
+            1: Nil
+        V0141001:
+          point:
+            1: Nil
+      5:
+        V0241064:
+          point:
+            1: Nil
+        V0141001:
+          point:
+            1: Nil
+      6:
+        V0241064:
+          point:
+            1: Nil
+        V0141001:
+          point:
+            1: Nil
+      7:
+        V0241064:
+          point:
+            1: Nil
+        V0141001:
+          point:
+            1: Nil
+      8:
+        V0241064:
+          point:
+            1: Nil
+        V0141001:
+          point:
+            1: Nil
+      9:
+        V0241064:
+          point:
+            1: Returned
+        V0141001:
+          point:
+            1: Unreturned
+      10:
+        V0241064:
+          point:
+            1: Nil
+        V0141001:
+          point:
+            1: Nil
+  5:
+    tip:
+      1:
+        V0141062:
+          point:
+            1: Unreturned
+        V0241022:
+          point:
+            1: Returned
+      2:
+        V0141062:
+          point:
+            1: Nil
+        V0241022:
+          point:
+            1: Nil
+      3:
+        V0141062:
+          point:
+            1: Nil
+        V0241022:
+          point:
+            1: Nil
+      4:
+        V0141062:
+          point:
+            1: Nil
+        V0241022:
+          point:
+            1: Nil
+      5:
+        V0141062:
+          point:
+            1: Nil
+        V0241022:
+          point:
+            1: Nil
+      6:
+        V0141062:
+          point:
+            1: Returned
+        V0241022:
+          point:
+            1: Unreturned
+      7:
+        V0141062:
+          point:
+            1: Nil
+        V0241022:
+          point:
+            1: Nil
+      8:
+        V0141062:
+          point:
+            1: Nil
+        V0241022:
+          point:
+            1: Nil
+      9:
+        V0141062:
+          point:
+            1: Nil
+        V0241022:
+          point:
+            1: Nil
+      10:
+        V0141062:
+          point:
+            1: Nil
+        V0241022:
+          point:
+            1: Nil
+  6:
+    tip:
+      1:
+        V0241017:
+          point:
+            1: Returned
+        V0241001:
+          point:
+            1: Unreturned
+      2:
+        V0241017:
+          point:
+            1: Nil
+        V0241001:
+          point:
+            1: Nil
+      3:
+        V0241017:
+          point:
+            1: Returned
+        V0241001:
+          point:
+            1: Unreturned
+      4:
+        V0241017:
+          point:
+            1: Nil
+        V0241001:
+          point:
+            1: Nil
+      5:
+        V0241017:
+          point:
+            1: Nil
+        V0241001:
+          point:
+            1: Nil
+      6:
+        V0241017:
+          point:
+            1: Nil
+        V0241001:
+          point:
+            1: Nil
+      7:
+        V0241017:
+          point:
+            1: Nil
+        V0241001:
+          point:
+            1: Nil
+      8:
+        V0241017:
+          point:
+            1: Nil
+        V0241001:
+          point:
+            1: Nil
+      9:
+        V0241017:
+          point:
+            1: Nil
+        V0241001:
+          point:
+            1: Nil
+      10:
+        V0241017:
+          point:
+            1: Nil
+        V0241001:
+          point:
+            1: Nil
+  7:
+    tip:
+      1:
+        V9941077:
+          point:
+            1: Nil
+        V0241065:
+          point:
+            1: Nil
+      2:
+        V9941077:
+          point:
+            1: Nil
+        V0241065:
+          point:
+            1: Nil
+      3:
+        V9941077:
+          point:
+            1: Nil
+        V0241065:
+          point:
+            1: Nil
+      4:
+        V9941077:
+          point:
+            1: Nil
+        V0241065:
+          point:
+            1: Nil
+      5:
+        V9941077:
+          point:
+            1: Nil
+        V0241065:
+          point:
+            1: Nil
+      6:
+        V9941077:
+          point:
+            1: Returned
+        V0241065:
+          point:
+            1: Unreturned
+      7:
+        V9941077:
+          point:
+            1: Nil
+        V0241065:
+          point:
+            1: Nil
+      8:
+        V9941077:
+          point:
+            1: Nil
+        V0241065:
+          point:
+            1: Nil
+      9:
+        V9941077:
+          point:
+            1: Unreturned
+        V0241065:
+          point:
+            1: Returned
+      10:
+        V9941077:
+          point:
+            1: Nil
+        V0241065:
+          point:
+            1: Nil
