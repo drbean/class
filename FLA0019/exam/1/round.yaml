@@ -1,0 +1,51 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 3
+pass: 0
+assistant:
+absent:
+  - Sandy
+  - YuWen
+  - Jay
+  - Jessica
+text: /home/drbean/class/business/careers/cards.yaml
+activity:
+  tips:
+    8:
+      - 1-1
+      - 2-1
+    9:
+      - 2-2
+    10:
+      - 3-1
+    11:
+      - 1-2
+      - 4-1
+
+group:
+  1-1:
+    - Andy
+    - Joyce
+    - Joe
+  1-2:
+    - Chuck
+    - Josh
+    - Winnie
+  2-1:
+    - Karsten
+    - Lily
+    - Nina
+  2-2:
+    - Emily
+    - Jackie
+    - Ali
+  3-1:
+    - Janice
+    - Penny
+    - David
+  4-1:
+    - Cherry
+    - Jason
+    - Kevin
