@@ -125,11 +125,6 @@ member:
     name: Grace1
     password: cai
     rating: ~
-  - Chinese: 劉恩典
-    id: B03200072
-    name: Grace2
-    password: en
-    rating: ~
   - Chinese: 鄒沛筠
     id: B03200078
     name: Mandy
@@ -165,7 +160,12 @@ member:
     name: Sharon
     password: xiao
     rating: ~
-out: ~
+out:
+  - Chinese: 劉恩典
+    id: B03200072
+    name: Grace2
+    password: en
+    rating: ~
 room: A705
 school: must
 scores:
@@ -178,6 +178,7 @@ scores:
 session:
   1: 1
   2: 6
+  3: 10
 weights:
   classwork: 40
   exams: 20
