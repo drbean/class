@@ -11,7 +11,7 @@ topic: exam_leadup_procedure
 1-2:
   tardy:
   absent:
-    Jessica
+    - Jessica
   merits: 3
   p: ~
 1-3:
