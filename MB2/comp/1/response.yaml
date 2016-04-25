@@ -1,0 +1,458 @@
+---
+free:
+  0:
+    mercer:
+      0:
+        N02202107:
+          point:
+            1: Nil
+        N03203103:
+          point:
+            1: Nil
+    tipton:
+      0:
+        N02202107:
+          point:
+            1: Nil
+        N03203103:
+          point:
+            1: Nil
+    raveling:
+      0:
+        N02202107:
+          point:
+            1: Nil
+        N03203103:
+          point:
+            1: Nil
+    jones:
+      0:
+        N02202107:
+          point:
+            1: Unreturned
+        N03203103:
+          point:
+            1: Returned
+    jackson:
+      0:
+        N02202107:
+          point:
+            1: Nil
+        N03203103:
+          point:
+            1: Nil
+    smith:
+      0:
+        N02202107:
+          point:
+            1: Returned
+        N03203103:
+          point:
+            1: Unreturned
+    women:
+      0:
+        N02202107:
+          point:
+            1: Nil
+        N03203103:
+          point:
+            1: Nil
+  1:
+    mercer:
+      0:
+        N04202109:
+          point:
+            1: Nil
+        N03200014:
+          point:
+            1: Nil
+    tipton:
+      0:
+        N04202109:
+          point:
+            1: Unreturned
+        N03200014:
+          point:
+            1: Returned
+    raveling:
+      0:
+        N04202109:
+          point:
+            1: Nil
+        N03200014:
+          point:
+            1: Nil
+    jones:
+      0:
+        N04202109:
+          point:
+            1: Nil
+        N03200014:
+          point:
+            1: Nil
+    jackson:
+      0:
+        N04202109:
+          point:
+            1: Unreturned
+        N03200014:
+          point:
+            1: Returned
+    smith:
+      0:
+        N04202109:
+          point:
+            1: Nil
+        N03200014:
+          point:
+            1: Nil
+    women:
+      0:
+        N04202109:
+          point:
+            1: Nil
+        N03200014:
+          point:
+            1: Nil
+  2:
+    mercer:
+      0:
+        N03200022:
+          point:
+            1: Nil
+        N02203102:
+          point:
+            1: Nil
+    tipton:
+      0:
+        N03200022:
+          point:
+            1: Nil
+        N02203102:
+          point:
+            1: Nil
+    raveling:
+      0:
+        N03200022:
+          point:
+            1: Returned
+        N02203102:
+          point:
+            1: Unreturned
+    jones:
+      0:
+        N03200022:
+          point:
+            1: Nil
+        N02203102:
+          point:
+            1: Nil
+    jackson:
+      0:
+        N03200022:
+          point:
+            1: Returned
+        N02203102:
+          point:
+            1: Unreturned
+    smith:
+      0:
+        N03200022:
+          point:
+            1: Nil
+        N02203102:
+          point:
+            1: Nil
+    women:
+      0:
+        N03200022:
+          point:
+            1: Nil
+        N02203102:
+          point:
+            1: Nil
+  3:
+    mercer:
+      0:
+        N03200036:
+          point:
+            1: Nil
+        N03200027:
+          point:
+            1: Nil
+    tipton:
+      0:
+        N03200036:
+          point:
+            1: Unreturned
+        N03200027:
+          point:
+            1: Returned
+    raveling:
+      0:
+        N03200036:
+          point:
+            1: Nil
+        N03200027:
+          point:
+            1: Nil
+    jones:
+      0:
+        N03200036:
+          point:
+            1: Nil
+        N03200027:
+          point:
+            1: Nil
+    jackson:
+      0:
+        N03200036:
+          point:
+            1: Nil
+        N03200027:
+          point:
+            1: Nil
+    smith:
+      0:
+        N03200036:
+          point:
+            1: Nil
+        N03200027:
+          point:
+            1: Nil
+    women:
+      0:
+        N03200036:
+          point:
+            1: Nil
+        N03200027:
+          point:
+            1: Nil
+  4:
+    mercer:
+      0:
+        N04202101:
+          point:
+            1: Nil
+        N02202111:
+          point:
+            1: Nil
+    tipton:
+      0:
+        N04202101:
+          point:
+            1: Unreturned
+        N02202111:
+          point:
+            1: Returned
+    raveling:
+      0:
+        N04202101:
+          point:
+            1: Nil
+        N02202111:
+          point:
+            1: Nil
+    jones:
+      0:
+        N04202101:
+          point:
+            1: Nil
+        N02202111:
+          point:
+            1: Nil
+    jackson:
+      0:
+        N04202101:
+          point:
+            1: Nil
+        N02202111:
+          point:
+            1: Nil
+    smith:
+      0:
+        N04202101:
+          point:
+            1: Unreturned
+        N02202111:
+          point:
+            1: Returned
+    women:
+      0:
+        N04202101:
+          point:
+            1: Nil
+        N02202111:
+          point:
+            1: Nil
+  5:
+    mercer:
+      0:
+        N01200014:
+          point:
+            1: Nil
+        N03203104:
+          point:
+            1: Nil
+    tipton:
+      0:
+        N01200014:
+          point:
+            1: Nil
+        N03203104:
+          point:
+            1: Nil
+    raveling:
+      0:
+        N01200014:
+          point:
+            1: Nil
+        N03203104:
+          point:
+            1: Nil
+    jones:
+      0:
+        N01200014:
+          point:
+            1: Unreturned
+        N03203104:
+          point:
+            1: Returned
+    jackson:
+      0:
+        N01200014:
+          point:
+            1: Nil
+        N03203104:
+          point:
+            1: Nil
+    smith:
+      0:
+        N01200014:
+          point:
+            1: Unreturned
+        N03203104:
+          point:
+            1: Returned
+    women:
+      0:
+        N01200014:
+          point:
+            1: Nil
+        N03203104:
+          point:
+            1: Nil
+  6:
+    mercer:
+      0:
+        N03200025:
+          point:
+            1: Nil
+        N03200001:
+          point:
+            1: Nil
+    tipton:
+      0:
+        N03200025:
+          point:
+            1: Nil
+        N03200001:
+          point:
+            1: Nil
+    raveling:
+      0:
+        N03200025:
+          point:
+            1: Nil
+        N03200001:
+          point:
+            1: Nil
+    jones:
+      0:
+        N03200025:
+          point:
+            1: Nil
+        N03200001:
+          point:
+            1: Nil
+    jackson:
+      0:
+        N03200025:
+          point:
+            1: Nil
+        N03200001:
+          point:
+            1: Nil
+    smith:
+      0:
+        N03200025:
+          point:
+            1: Returned
+        N03200001:
+          point:
+            1: Unreturned
+    women:
+      0:
+        N03200025:
+          point:
+            1: Unreturned
+        N03200001:
+          point:
+            1: Returned
+  7:
+    mercer:
+      0:
+        N03200008:
+          point:
+            1: Nil
+        N03200010:
+          point:
+            1: Nil
+    tipton:
+      0:
+        N03200008:
+          point:
+            1: Unreturned
+        N03200010:
+          point:
+            1: Returned
+    raveling:
+      0:
+        N03200008:
+          point:
+            1: Nil
+        N03200010:
+          point:
+            1: Nil
+    jones:
+      0:
+        N03200008:
+          point:
+            1: Nil
+        N03200010:
+          point:
+            1: Nil
+    jackson:
+      0:
+        N03200008:
+          point:
+            1: Nil
+        N03200010:
+          point:
+            1: Nil
+    smith:
+      0:
+        N03200008:
+          point:
+            1: Returned
+        N03200010:
+          point:
+            1: Unreturned
+    women:
+      0:
+        N03200008:
+          point:
+            1: Nil
+        N03200010:
+          point:
+            1: Nil

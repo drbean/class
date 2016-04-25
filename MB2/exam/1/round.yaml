@@ -1,0 +1,60 @@
+---
+round: Exam 1
+week: 9
+questions:
+  - 3
+pass: 1
+assistant:
+  - Natasha
+  - Beemo
+absent:
+  - Vicky
+  - Molly
+  - Dawn
+text: /home/drbean/class/speaking/cards.yaml
+activity:
+  crime:
+    0:
+      - 2-2
+      - Examiner
+    2:
+      - 2-1
+      - 4-2
+  dickson:
+    2:
+      - 1-2
+      - 4-1
+  smallwood:
+    2:
+      - 3-1
+
+
+group:
+  1-2:
+    - Ling
+    - Milly
+    - Jeremy
+  2-1:
+    - Kris
+    - Elvira
+    - Natasha
+  2-2:
+    - Gary
+    - Danly
+    - York
+  3-1:
+    - Amy
+    - Jay
+    - Wilson
+  4-1:
+    - Devon
+    - Orange
+    - Beemo
+  4-2:
+    - James
+    - Natasha
+    - Beemo
+  Examiner:
+    - Kelly
+    - Macaria
+    - YoYo

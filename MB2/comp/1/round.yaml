@@ -1,0 +1,112 @@
+---
+activity:
+  mercer:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  tipton:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  raveling:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  jones:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  jackson:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  smith:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+  women:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+assistant:
+  1-1:
+    N03200004: 5
+  2-2:
+    N03200030: 5
+  4-1:
+    N03200006: 5
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: N02202107
+    Black: N03203103
+  1:
+    White: N04202109
+    Black: N03200014
+  2:
+    White: N03200022
+    Black: N02203102
+  3:
+    White: N03200036
+    Black: N03200027
+  4:
+    White: N04202101
+    Black: N02202111
+  5:
+    White: N01200014
+    Black: N03203104
+  6:
+    White: N03200025
+    Black: N03200001
+  7:
+    White: N03200008
+    Black: N03200010
+late:
+pairing: swiss
+payprotocol: meritPay 2
+round: 1
+text: /home/drbean/class/speaking/cards.yaml
+week: 9
