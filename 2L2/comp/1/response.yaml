@@ -1,0 +1,639 @@
+---
+free:
+  0:
+    mercer:
+      0:
+        B03200037:
+          point:
+            1: Nil
+        B02200096:
+          point:
+            1: Nil
+    tipton:
+      0:
+        B03200037:
+          point:
+            1: Nil
+        B02200096:
+          point:
+            1: Nil
+    raveling:
+      0:
+        B03200037:
+          point:
+            1: Nil
+        B02200096:
+          point:
+            1: Nil
+    jones:
+      0:
+        B03200037:
+          point:
+            1: Nil
+        B02200096:
+          point:
+            1: Nil
+    jackson:
+      0:
+        B03200037:
+          point:
+            1: Unreturned
+        B02200096:
+          point:
+            1: Returned
+    smith:
+      0:
+        B03200037:
+          point:
+            1: Unreturned
+        B02200096:
+          point:
+            1: Returned
+  1:
+    mercer:
+      0:
+        B03200023:
+          point:
+            1: Nil
+        B03200106:
+          point:
+            1: Nil
+    tipton:
+      0:
+        B03200023:
+          point:
+            1: Returned
+        B03200106:
+          point:
+            1: Unreturned
+    raveling:
+      0:
+        B03200023:
+          point:
+            1: Nil
+        B03200106:
+          point:
+            1: Nil
+    jones:
+      0:
+        B03200023:
+          point:
+            1: Nil
+        B03200106:
+          point:
+            1: Nil
+    jackson:
+      0:
+        B03200023:
+          point:
+            1: Unreturned
+        B03200106:
+          point:
+            1: Returned
+    smith:
+      0:
+        B03200023:
+          point:
+            1: Nil
+        B03200106:
+          point:
+            1: Nil
+  2:
+    mercer:
+      0:
+        B03200043:
+          point:
+            1: Nil
+        B03200068:
+          point:
+            1: Nil
+    tipton:
+      0:
+        B03200043:
+          point:
+            1: Unreturned
+        B03200068:
+          point:
+            1: Returned
+    raveling:
+      0:
+        B03200043:
+          point:
+            1: Nil
+        B03200068:
+          point:
+            1: Nil
+    jones:
+      0:
+        B03200043:
+          point:
+            1: Nil
+        B03200068:
+          point:
+            1: Nil
+    jackson:
+      0:
+        B03200043:
+          point:
+            1: Nil
+        B03200068:
+          point:
+            1: Nil
+    smith:
+      0:
+        B03200043:
+          point:
+            1: Unreturned
+        B03200068:
+          point:
+            1: Returned
+  3:
+    mercer:
+      0:
+        B00230075:
+          point:
+            1: Nil
+        B03200056:
+          point:
+            1: Nil
+    tipton:
+      0:
+        B00230075:
+          point:
+            1: Returned
+        B03200056:
+          point:
+            1: Unreturned
+    raveling:
+      0:
+        B00230075:
+          point:
+            1: Nil
+        B03200056:
+          point:
+            1: Nil
+    jones:
+      0:
+        B00230075:
+          point:
+            1: Nil
+        B03200056:
+          point:
+            1: Nil
+    jackson:
+      0:
+        B00230075:
+          point:
+            1: Nil
+        B03200056:
+          point:
+            1: Nil
+    smith:
+      0:
+        B00230075:
+          point:
+            1: Returned
+        B03200056:
+          point:
+            1: Unreturned
+  4:
+    mercer:
+      0:
+        B02200046:
+          point:
+            1: Nil
+        B03200084:
+          point:
+            1: Nil
+    tipton:
+      0:
+        B02200046:
+          point:
+            1: Nil
+        B03200084:
+          point:
+            1: Nil
+    raveling:
+      0:
+        B02200046:
+          point:
+            1: Nil
+        B03200084:
+          point:
+            1: Nil
+    jones:
+      0:
+        B02200046:
+          point:
+            1: Nil
+        B03200084:
+          point:
+            1: Nil
+    jackson:
+      0:
+        B02200046:
+          point:
+            1: Unreturned
+        B03200084:
+          point:
+            1: Returned
+    smith:
+      0:
+        B02200046:
+          point:
+            1: Nil
+        B03200084:
+          point:
+            1: Nil
+  5:
+    mercer:
+      0:
+        B03200102:
+          point:
+            1: Nil
+        B03200110:
+          point:
+            1: Nil
+    tipton:
+      0:
+        B03200102:
+          point:
+            1: Nil
+        B03200110:
+          point:
+            1: Nil
+    raveling:
+      0:
+        B03200102:
+          point:
+            1: Unreturned
+        B03200110:
+          point:
+            1: Returned
+    jones:
+      0:
+        B03200102:
+          point:
+            1: Nil
+        B03200110:
+          point:
+            1: Nil
+    jackson:
+      0:
+        B03200102:
+          point:
+            1: Unreturned
+        B03200110:
+          point:
+            1: Returned
+    smith:
+      0:
+        B03200102:
+          point:
+            1: Nil
+        B03200110:
+          point:
+            1: Nil
+  6:
+    mercer:
+      0:
+        B02200094:
+          point:
+            1: Nil
+        B03200019:
+          point:
+            1: Nil
+    tipton:
+      0:
+        B02200094:
+          point:
+            1: Unreturned
+        B03200019:
+          point:
+            1: Returned
+    raveling:
+      0:
+        B02200094:
+          point:
+            1: Nil
+        B03200019:
+          point:
+            1: Nil
+    jones:
+      0:
+        B02200094:
+          point:
+            1: Nil
+        B03200019:
+          point:
+            1: Nil
+    jackson:
+      0:
+        B02200094:
+          point:
+            1: Returned
+        B03200019:
+          point:
+            1: Unreturned
+    smith:
+      0:
+        B02200094:
+          point:
+            1: Nil
+        B03200019:
+          point:
+            1: Nil
+  7:
+    mercer:
+      0:
+        B03200064:
+          point:
+            1: Nil
+        B03200005:
+          point:
+            1: Nil
+    tipton:
+      0:
+        B03200064:
+          point:
+            1: Unreturned
+        B03200005:
+          point:
+            1: Returned
+    raveling:
+      0:
+        B03200064:
+          point:
+            1: Nil
+        B03200005:
+          point:
+            1: Nil
+    jones:
+      0:
+        B03200064:
+          point:
+            1: Nil
+        B03200005:
+          point:
+            1: Nil
+    jackson:
+      0:
+        B03200064:
+          point:
+            1: Nil
+        B03200005:
+          point:
+            1: Nil
+    smith:
+      0:
+        B03200064:
+          point:
+            1: Returned
+        B03200005:
+          point:
+            1: Returned
+  8:
+    mercer:
+      0:
+        B03200031:
+          point:
+            1: Nil
+        B03200078:
+          point:
+            1: Nil
+    tipton:
+      0:
+        B03200031:
+          point:
+            1: Nil
+        B03200078:
+          point:
+            1: Nil
+    raveling:
+      0:
+        B03200031:
+          point:
+            1: Returned
+        B03200078:
+          point:
+            1: Unreturned
+    jones:
+      0:
+        B03200031:
+          point:
+            1: Nil
+        B03200078:
+          point:
+            1: Nil
+    jackson:
+      0:
+        B03200031:
+          point:
+            1: Nil
+        B03200078:
+          point:
+            1: Nil
+    smith:
+      0:
+        B03200031:
+          point:
+            1: Nil
+        B03200078:
+          point:
+            1: Nil
+  9:
+    mercer:
+      0:
+        B03200092:
+          point:
+            1: Nil
+        B03192105:
+          point:
+            1: Nil
+    tipton:
+      0:
+        B03200092:
+          point:
+            1: Nil
+        B03192105:
+          point:
+            1: Nil
+    raveling:
+      0:
+        B03200092:
+          point:
+            1: Nil
+        B03192105:
+          point:
+            1: Nil
+    jones:
+      0:
+        B03200092:
+          point:
+            1: Nil
+        B03192105:
+          point:
+            1: Nil
+    jackson:
+      0:
+        B03200092:
+          point:
+            1: Nil
+        B03192105:
+          point:
+            1: Nil
+    smith:
+      0:
+        B03200092:
+          point:
+            1: Unreturned
+        B03192105:
+          point:
+            1: Returned
+  10:
+    mercer:
+      0:
+        B02200064:
+          point:
+            1: Returned
+        B01130006:
+          point:
+            1: Returned
+    tipton:
+      0:
+        B02200064:
+          point:
+            1: Returned
+        B01130006:
+          point:
+            1: Unreturned
+    raveling:
+      0:
+        B02200064:
+          point:
+            1: Nil
+        B01130006:
+          point:
+            1: Nil
+    jones:
+      0:
+        B02200064:
+          point:
+            1: Nil
+        B01130006:
+          point:
+            1: Nil
+    jackson:
+      0:
+        B02200064:
+          point:
+            1: Nil
+        B01130006:
+          point:
+            1: Nil
+    smith:
+      0:
+        B02200064:
+          point:
+            1: Nil
+        B01130006:
+          point:
+            1: Nil
+  11:
+    mercer:
+      0:
+        B03200100:
+          point:
+            1: Nil
+        B03200027:
+          point:
+            1: Nil
+    tipton:
+      0:
+        B03200100:
+          point:
+            1: Unreturned
+        B03200027:
+          point:
+            1: Returned
+    raveling:
+      0:
+        B03200100:
+          point:
+            1: Unreturned
+        B03200027:
+          point:
+            1: Returned
+    jones:
+      0:
+        B03200100:
+          point:
+            1: Nil
+        B03200027:
+          point:
+            1: Nil
+    jackson:
+      0:
+        B03200100:
+          point:
+            1: Nil
+        B03200027:
+          point:
+            1: Nil
+    smith:
+      0:
+        B03200100:
+          point:
+            1: Nil
+        B03200027:
+          point:
+            1: Nil
+  12:
+    mercer:
+      0:
+        B03200039:
+          point:
+            1: Nil
+        B03200015:
+          point:
+            1: Nil
+    tipton:
+      0:
+        B03200039:
+          point:
+            1: Unreturned
+        B03200015:
+          point:
+            1: Returned
+    raveling:
+      0:
+        B03200039:
+          point:
+            1: Returned
+        B03200015:
+          point:
+            1: Unreturned
+    jones:
+      0:
+        B03200039:
+          point:
+            1: Nil
+        B03200015:
+          point:
+            1: Nil
+    jackson:
+      0:
+        B03200039:
+          point:
+            1: Nil
+        B03200015:
+          point:
+            1: Nil
+    smith:
+      0:
+        B03200039:
+          point:
+            1: Nil
+        B03200015:
+          point:
+            1: Nil
