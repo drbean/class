@@ -16,11 +16,6 @@ jigsaw: exam
 league: NAF021_四技外二甲
 member:
 
-  - Chinese: 鄒羽嫙
-    id: N02200047
-    name: Molly
-    password: yu
-    rating: ~
   
   - Chinese: 許雅晶
     id: N03203104
@@ -86,11 +81,6 @@ member:
     name: Kris
     password: yi
     rating: ~
-  - Chinese: 連苡伶
-    id: N03200012
-    name: Dawn
-    password: yi
-    rating: ~
   - Chinese: 鄭又元
     id: N03200014
     name: York
@@ -116,11 +106,6 @@ member:
     name: YoYo
     password: yun
     rating: ~
-  - Chinese: 萬筱微
-    id: N03200034
-    name: Vicky
-    password: xiao
-    rating: ~
   - Chinese: 陳桂益
     id: N03200036
     name: Gary
@@ -137,6 +122,21 @@ member:
     password: jun
     rating: ~
 out:
+  - Chinese: 萬筱微
+    id: N03200034
+    name: Vicky
+    password: xiao
+    rating: ~
+  - Chinese: 連苡伶
+    id: N03200012
+    name: Dawn
+    password: yi
+    rating: ~
+  - Chinese: 鄒羽嫙
+    id: N02200047
+    name: Molly
+    password: yu
+    rating: ~
   - Chinese: 張庭瑄
     id: N04202107
     name: 張庭瑄
