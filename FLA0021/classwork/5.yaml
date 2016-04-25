@@ -63,3 +63,8 @@ topic: academic_test,exam
     - Brian
   merits: 3
   p: ~
+4-3:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
