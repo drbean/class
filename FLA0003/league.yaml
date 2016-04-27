@@ -157,16 +157,6 @@ member:
     name: Shelli
     password: shu
     rating: ~
-  - Chinese: 蔡岳霖
-    id: V0341046
-    name: Ares
-    password: yue
-    rating: ~
-  - Chinese: 甘泓灝
-    id: V0341047
-    name: Ramses
-    password: hong
-    rating: ~
   - Chinese: 陳思妘
     id: V0341051
     name: Gina
@@ -178,12 +168,22 @@ member:
     password: jia
     rating: ~
 out:
+  - Chinese: 蔡岳霖
+    id: V0341046
+    name: Ares
+    password: yue
+    rating: ~
+  - Chinese: 甘泓灝
+    id: V0341047
+    name: Ramses
+    password: hong
+    rating: ~
   - Chinese: 卓意瑄
     id: V0341019
     name: Lily
     password: yi
     rating: ~
-room: A702
+room: A705
 school: nuu
 session:
   1: 1
