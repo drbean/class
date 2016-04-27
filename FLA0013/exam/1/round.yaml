@@ -21,6 +21,7 @@ activity:
     2:
       - 1-3
       - 2-1
+      - examiners
   jackson:
     2:
       - 1-2
@@ -58,7 +59,7 @@ group:
     - Joyce
     - Catherine
     - Winnie
-  #examiners:
-  #  - Abby
-  #  - Irene
-  #  - Tina
+  examiners:
+    - Abby
+    - Irene
+    - Tina
