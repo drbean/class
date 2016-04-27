@@ -1,0 +1,51 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+  - Wan
+  - Jessie
+absent:
+  - Angela
+text: /home/drbean/class/speaking/crime/cards.yaml
+activity:
+  crime:
+    0:
+    2:
+    3:
+    4:
+
+      - 1-1
+      - 2-1
+      - 2-2
+      - 3-1
+      - 4-1
+      - examiner
+
+group:
+  1-1:
+    - Shelli
+    - Jessie
+    - Wan
+  2-1:
+    - Johnson
+    - Andy
+    - Bamboo
+  2-2:
+    - Tina
+    - Fanny
+    - Jennifer
+  3-1:
+    - Wan
+    - Gina
+    - Leon
+  4-1:
+    - Tiffany
+    - Kiki
+    - Wan
+  examiner:
+    - Allen
+    - Antonio
+    - Jessie
