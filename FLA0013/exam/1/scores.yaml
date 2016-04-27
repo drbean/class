@@ -7,6 +7,7 @@ Chinese:
   2-2: 0
   3-1: 0
   3-2: 0
+  examiners: 0
 letters:
   1-1:
     V0241022: 8
@@ -43,3 +44,8 @@ letters:
     V0241044: 8
     V0241041: 8
     story: abreu2
+  examiners:
+    V0241024: 8
+    V0241030: 8
+    V0241066: 8
+    story: smallwood2
