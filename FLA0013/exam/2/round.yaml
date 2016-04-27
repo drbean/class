@@ -1,0 +1,60 @@
+---
+round: Exam 1
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+  - Catherine
+absent:
+  - Angela
+text: /home/drbean/class/speaking/crime/cards.yaml
+activity:
+  crime:
+    0:
+      - 1-2
+    2:
+      - 1-1
+      - 2-2
+      - 2-3
+    3:
+      - 3-1
+      - 3-2
+    4:
+      - 2-1
+      - 2-4
+
+
+group:
+  1-1:
+    - Catherine
+    - Tina
+    - Fiona
+  1-2:
+    - Winnie
+    - Andy1
+    - Ellie
+  2-1:
+    - Catherine
+    - Jason
+    - Penny
+  2-2:
+    - Joyce
+    - Abby
+    - Janice
+  3-1:
+    - Emily
+    - Nina
+    - Amber
+  3-2:
+    - Andy2
+    - Irene
+    - Chuck
+  2-3:
+    - Lily
+    - Cherry
+    - Josh
+  2-4:
+    - Sandy
+    - Jackie
+    - Nancy
