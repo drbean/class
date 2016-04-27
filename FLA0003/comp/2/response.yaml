@@ -1,0 +1,295 @@
+---
+free:
+  1:
+    mercer:
+      0:
+        V0341044:
+          point:
+            1: Nil
+        V0341021:
+          point:
+            1: Nil
+    tipton:
+      0:
+        V0341044:
+          point:
+            1: Nil
+        V0341021:
+          point:
+            1: Nil
+    raveling:
+      0:
+        V0341044:
+          point:
+            1: Nil
+        V0341021:
+          point:
+            1: Nil
+    jones:
+      0:
+        V0341044:
+          point:
+            1: Nil
+        V0341021:
+          point:
+            1: Nil
+    jackson:
+      0:
+        V0341044:
+          point:
+            1: Nil
+        V0341021:
+          point:
+            1: Nil
+    smith:
+      0:
+        V0341044:
+          point:
+            1: Nil
+        V0341021:
+          point:
+            1: Nil
+  2:
+    mercer:
+      0:
+        V0341027:
+          point:
+            1: Unreturned
+        V0341025:
+          point:
+            1: Returned
+    tipton:
+      0:
+        V0341027:
+          point:
+            1: Returned
+        V0341025:
+          point:
+            1: Unreturned
+    raveling:
+      0:
+        V0341027:
+          point:
+            1: Nil
+        V0341025:
+          point:
+            1: Nil
+    jones:
+      0:
+        V0341027:
+          point:
+            1: Nil
+        V0341025:
+          point:
+            1: Nil
+    jackson:
+      0:
+        V0341027:
+          point:
+            1: Nil
+        V0341025:
+          point:
+            1: Nil
+    smith:
+      0:
+        V0341027:
+          point:
+            1: Nil
+        V0341025:
+          point:
+            1: Nil
+  3:
+    mercer:
+      0:
+        V0341035:
+          point:
+            1: Returned
+        V0341024:
+          point:
+            1: Unreturned
+    tipton:
+      0:
+        V0341035:
+          point:
+            1: Returned
+        V0341024:
+          point:
+            1: Unreturned
+    raveling:
+      0:
+        V0341035:
+          point:
+            1: Nil
+        V0341024:
+          point:
+            1: Nil
+    jones:
+      0:
+        V0341035:
+          point:
+            1: Nil
+        V0341024:
+          point:
+            1: Nil
+    jackson:
+      0:
+        V0341035:
+          point:
+            1: Unreturned
+        V0341024:
+          point:
+            1: Returned
+    smith:
+      0:
+        V0341035:
+          point:
+            1: Nil
+        V0341024:
+          point:
+            1: Nil
+  4:
+    mercer:
+      0:
+        V0341036:
+          point:
+            1: Nil
+        V0341052:
+          point:
+            1: Nil
+    tipton:
+      0:
+        V0341036:
+          point:
+            1: Unreturned
+        V0341052:
+          point:
+            1: Returned
+    raveling:
+      0:
+        V0341036:
+          point:
+            1: Unreturned
+        V0341052:
+          point:
+            1: Returned
+    jones:
+      0:
+        V0341036:
+          point:
+            1: Nil
+        V0341052:
+          point:
+            1: Nil
+    jackson:
+      0:
+        V0341036:
+          point:
+            1: Unreturned
+        V0341052:
+          point:
+            1: Returned
+    smith:
+      0:
+        V0341036:
+          point:
+            1: Nil
+        V0341052:
+          point:
+            1: Nil
+  5:
+    mercer:
+      0:
+        V0341031:
+          point:
+            1: Nil
+        V0341051:
+          point:
+            1: Nil
+    tipton:
+      0:
+        V0341031:
+          point:
+            1: Nil
+        V0341051:
+          point:
+            1: Nil
+    raveling:
+      0:
+        V0341031:
+          point:
+            1: Nil
+        V0341051:
+          point:
+            1: Nil
+    jones:
+      0:
+        V0341031:
+          point:
+            1: Nil
+        V0341051:
+          point:
+            1: Nil
+    jackson:
+      0:
+        V0341031:
+          point:
+            1: Nil
+        V0341051:
+          point:
+            1: Nil
+    smith:
+      0:
+        V0341031:
+          point:
+            1: Returned
+        V0341051:
+          point:
+            1: Returned
+  6:
+    mercer:
+      0:
+        V0341022:
+          point:
+            1: Nil
+        V0341039:
+          point:
+    tipton:
+      0:
+        V0341022:
+          point:
+            1: Unreturned
+        V0341039:
+          point:
+            1: Returned
+    raveling:
+      0:
+        V0341022:
+          point:
+            1: Nil
+        V0341039:
+          point:
+            1: Nil
+    jones:
+      0:
+        V0341022:
+          point:
+            1: Nil
+        V0341039:
+          point:
+            1: Nil
+    jackson:
+      0:
+        V0341022:
+          point:
+            1: Nil
+        V0341039:
+          point:
+            1: Nil
+    smith:
+      0:
+        V0341022:
+          point:
+            1: Nil
+        V0341039:
+          point:
+            1: Nil
