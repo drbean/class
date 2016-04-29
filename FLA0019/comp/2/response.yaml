@@ -1,0 +1,227 @@
+---
+free:
+  0:
+    students-teachers:
+      0:
+        V0241045:
+          point:
+            1: Returned
+        V0041042:
+          point:
+            1: Unreturned
+    women-men:
+      0:
+        V0241045:
+          point:
+            1: Unreturned
+        V0041042:
+          point:
+            1: Returned
+    experience:
+      0:
+        V0241045:
+          point:
+            1: Nil
+        V0041042:
+          point:
+            1: Nil
+  1:
+    students-teachers:
+      0:
+        V0041008:
+          point:
+            1: Returned
+        V0241017:
+          point:
+            1: Returned
+    women-men:
+      0:
+        V0041008:
+          point:
+            1: Nil
+        V0241017:
+          point:
+            1: Nil
+    experience:
+      0:
+        V0041008:
+          point:
+            1: Nil
+        V0241017:
+          point:
+            1: Nil
+  2:
+    students-teachers:
+      0:
+        V0241067:
+          point:
+            1: Returned
+        V0141062:
+          point:
+            1: Unreturned
+    women-men:
+      0:
+        V0241067:
+          point:
+            1: Unreturned
+        V0141062:
+          point:
+            1: Returned
+    experience:
+      0:
+        V0241067:
+          point:
+            1: Nil
+        V0141062:
+          point:
+            1: Nil
+  3:
+    students-teachers:
+      0:
+        V0141001:
+          point:
+            1: Returned
+        V9941077:
+          point:
+            1: Unreturned
+    women-men:
+      0:
+        V0141001:
+          point:
+            1: Nil
+        V9941077:
+          point:
+            1: Nil
+    experience:
+      0:
+        V0141001:
+          point:
+            1: Nil
+        V9941077:
+          point:
+            1: Nil
+  4:
+    students-teachers:
+      0:
+        V0241022:
+          point:
+            1: Returned
+        V0241014:
+          point:
+            1: Unreturned
+    women-men:
+      0:
+        V0241022:
+          point:
+            1: Unreturned
+        V0241014:
+          point:
+            1: Returned
+    experience:
+      0:
+        V0241022:
+          point:
+            1: Nil
+        V0241014:
+          point:
+            1: Nil
+  5:
+    students-teachers:
+      0:
+        V0241004:
+          point:
+            1: Returned
+        V0241064:
+          point:
+            1: Unreturned
+    women-men:
+      0:
+        V0241004:
+          point:
+            1: Unreturned
+        V0241064:
+          point:
+            1: Returned
+    experience:
+      0:
+        V0241004:
+          point:
+            1: Unreturned
+        V0241064:
+          point:
+            1: Returned
+  6:
+    students-teachers:
+      0:
+        V0241065:
+          point:
+            1: Unreturned
+        V0241046:
+          point:
+            1: Returned
+    women-men:
+      0:
+        V0241065:
+          point:
+            1: Unreturned
+        V0241046:
+          point:
+            1: Returned
+    experience:
+      0:
+        V0241065:
+          point:
+            1: Unreturned
+        V0241046:
+          point:
+            1: Returned
+  7:
+    students-teachers:
+      0:
+        V0241034:
+          point:
+            1: Unreturned
+        V0241029:
+          point:
+            1: Returned
+    women-men:
+      0:
+        V0241034:
+          point:
+            1: Nil
+        V0241029:
+          point:
+            1: Nil
+    experience:
+      0:
+        V0241034:
+          point:
+            1: Unreturned
+        V0241029:
+          point:
+            1: Returned
+  8:
+    students-teachers:
+      0:
+        V0241001:
+          point:
+            1: Returned
+        V0241041:
+          point:
+            1: Unreturned
+    women-men:
+      0:
+        V0241001:
+          point:
+            1: Unreturned
+        V0241041:
+          point:
+            1: Returned
+    experience:
+      0:
+        V0241001:
+          point:
+            1: Nil
+        V0241041:
+          point:
+            1: Nil
