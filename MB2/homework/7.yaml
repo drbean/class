@@ -1,0 +1,288 @@
+---
+cutpoints:
+  loser: 2
+  quitter: 1
+  winner: 2
+exercise: dickson
+grade:
+  100100100: 2
+  N01200014: 0
+  N02202107: 2
+  N02202111: 1
+  N02203102: 0
+  N03200001: 2
+  N03200004: 2
+  N03200006: 0
+  N03200008: 0
+  N03200010: 0
+  N03200014: 2
+  N03200022: 0
+  N03200025: 2
+  N03200027: 0
+  N03200030: 0
+  N03200036: 0
+  N03203103: 2
+  N03203104: 0
+  N04202101: 2
+  N04202109: 2
+points:
+  100100100:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 1
+      questions: 0
+      attempts: 1
+  N01200014:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  N02202107:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 0
+      attempts: 3
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N02202111:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 1
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N02203102:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  N03200001:
+    Wh:
+      answers: 2
+      questions: 0
+      attempts: 2
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N03200004:
+    Wh:
+      answers: 2
+      questions: 0
+      attempts: 4
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N03200006:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  N03200008:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  N03200010:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  N03200014:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 7
+    Yn:
+      answers: 3
+      questions: 0
+      attempts: 7
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N03200022:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  N03200025:
+    Wh:
+      answers: 2
+      questions: 0
+      attempts: 8
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N03200027:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  N03200030:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  N03200036:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  N03203103:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 1
+      questions: 0
+      attempts: 1
+  N03203104:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  N04202101:
+    Wh:
+      answers: 2
+      questions: 0
+      attempts: 2
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  N04202109:
+    Wh:
+      answers: 2
+      questions: 0
+      attempts: 2
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
