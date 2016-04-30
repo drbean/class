@@ -14,159 +14,159 @@ hw: homework
 hwMax: 2
 id: 042FLA0003
 league: 夜應外二甲
-cohort:
-  1:
-    - Chinese: 馮永碇
-      id: V0041066
-      name: 馮永碇
-      password: yong
-      rating: ~
-    - Chinese: 林遠凱
-      id: V0141062
-      name: Karsten
-      password: yuan
-      rating: ~
-    - Chinese: 洪君綾
-      id: V0141063
-      name: Joy2
-      password: jun
-      rating: ~
-    - Chinese: 陳鴻郁
-      id: V0241008
-      name: Eric2
-      password: hong
-      rating: ~
-    - Chinese: 李樵風
-      id: V0341001
-      name: David1
-      password: qiao
-      rating: ~
-    - Chinese: 羅鋐韶
-      id: V0341003
-      name: Tony
-      password: hong
-      rating: ~
-    - Chinese: 吳恩維
-      id: V0341004
-      name: Eric
-      password: en
-      rating: ~
-    - Chinese: 吳祐誠
-      id: V0341005
-      name: Toyz
-      password: you
-      rating: ~
-    - Chinese: 葉芳成
-      id: V0341010
-      name: Toby
-      password: fang
-      rating: ~
-    - Chinese: 周雅云
-      id: V0341011
-      name: Winnie
-      password: ya
-      rating: ~
-    - Chinese: 江宜潔
-      id: V0341012
-      name: Annie
-      password: yi
-      rating: ~
-    - Chinese: 余孟穎
-      id: V0341013
-      name: Amber1
-      password: meng
-      rating: ~
-    - Chinese: 李殷
-      id: V0341015
-      name: Nora1
-      password: yin
-      rating: ~
-    - Chinese: 羅文伶
-      id: V0341016
-      name: Lori
-      password: wen
-      rating: ~
-    - Chinese: 陳宣妤
-      id: V0341017
-      name: Liz
-      password: xuan
-      rating: ~
 member:
-  - Chinese: 楊雅惠
-    id: V0341021
-    name: Fanny
-    password: ya
+  - Chinese: 馮永碇
+    id: V0041066
+    name: 馮永碇
+    password: yong
     rating: ~
-  - Chinese: 張敬暄
-    id: V0341022
-    name: Kiki
-    password: jing
+  - Chinese: 林遠凱
+    id: V0141062
+    name: Karsten
+    password: yuan
     rating: ~
-  - Chinese: 梁春竹
-    id: V0341024
-    name: Bamboo
-    password: chun
+  - Chinese: 洪君綾
+    id: V0141063
+    name: Joy2
+    password: jun
     rating: ~
-  - Chinese: 萬世揚
-    id: V0341025
-    name: Wan
-    password: shi
+  - Chinese: 陳鴻郁
+    id: V0241008
+    name: Eric2
+    password: hong
     rating: ~
-  - Chinese: 彭紹安
-    id: V0341027
-    name: Leon
-    password: shao
+  - Chinese: 李樵風
+    id: V0341001
+    name: David1
+    password: qiao
     rating: ~
-  - Chinese: 劉家瑋
-    id: V0341031
-    name: Andy
-    password: jia
+  - Chinese: 羅鋐韶
+    id: V0341003
+    name: Tony
+    password: hong
     rating: ~
-  - Chinese: 陳聖儒
-    id: V0341033
-    name: Antonio
-    password: sheng
+  - Chinese: 吳恩維
+    id: V0341004
+    name: Eric
+    password: en
     rating: ~
-  - Chinese: 李彥熾
-    id: V0341034
-    name: Allen
-    password: yan
-    rating: ~
-  - Chinese: 陳佑維
-    id: V0341035
-    name: Johnson
+  - Chinese: 吳祐誠
+    id: V0341005
+    name: Toyz
     password: you
     rating: ~
-  - Chinese: 潘卉蓁
-    id: V0341036
-    name: Jennifer
-    password: hui
+  - Chinese: 葉芳成
+    id: V0341010
+    name: Toby
+    password: fang
     rating: ~
-  - Chinese: 江婕熙
-    id: V0341037
-    name: Jessie
-    password: jie
+  - Chinese: 周雅云
+    id: V0341011
+    name: Winnie
+    password: ya
     rating: ~
-  - Chinese: 張彤寧
-    id: V0341039
-    name: Tiffany
-    password: tong
+  - Chinese: 江宜潔
+    id: V0341012
+    name: Annie
+    password: yi
     rating: ~
-  - Chinese: 楊淑儀
-    id: V0341044
-    name: Shelli
-    password: shu
+  - Chinese: 余孟穎
+    id: V0341013
+    name: Amber1
+    password: meng
     rating: ~
-  - Chinese: 陳思妘
-    id: V0341051
-    name: Gina
-    password: si
+  - Chinese: 李殷
+    id: V0341015
+    name: Nora1
+    password: yin
     rating: ~
-  - Chinese: 李佳玲
-    id: V0341052
-    name: Tina
-    password: jia
+  - Chinese: 羅文伶
+    id: V0341016
+    name: Lori
+    password: wen
     rating: ~
+  - Chinese: 陳宣妤
+    id: V0341017
+    name: Liz
+    password: xuan
+    rating: ~
+cohort:
+  1:
+    - Chinese: 楊雅惠
+      id: V0341021
+      name: Fanny
+      password: ya
+      rating: ~
+    - Chinese: 張敬暄
+      id: V0341022
+      name: Kiki
+      password: jing
+      rating: ~
+    - Chinese: 梁春竹
+      id: V0341024
+      name: Bamboo
+      password: chun
+      rating: ~
+    - Chinese: 萬世揚
+      id: V0341025
+      name: Wan
+      password: shi
+      rating: ~
+    - Chinese: 彭紹安
+      id: V0341027
+      name: Leon
+      password: shao
+      rating: ~
+    - Chinese: 劉家瑋
+      id: V0341031
+      name: Andy
+      password: jia
+      rating: ~
+    - Chinese: 陳聖儒
+      id: V0341033
+      name: Antonio
+      password: sheng
+      rating: ~
+    - Chinese: 李彥熾
+      id: V0341034
+      name: Allen
+      password: yan
+      rating: ~
+    - Chinese: 陳佑維
+      id: V0341035
+      name: Johnson
+      password: you
+      rating: ~
+    - Chinese: 潘卉蓁
+      id: V0341036
+      name: Jennifer
+      password: hui
+      rating: ~
+    - Chinese: 江婕熙
+      id: V0341037
+      name: Jessie
+      password: jie
+      rating: ~
+    - Chinese: 張彤寧
+      id: V0341039
+      name: Tiffany
+      password: tong
+      rating: ~
+    - Chinese: 楊淑儀
+      id: V0341044
+      name: Shelli
+      password: shu
+      rating: ~
+    - Chinese: 陳思妘
+      id: V0341051
+      name: Gina
+      password: si
+      rating: ~
+    - Chinese: 李佳玲
+      id: V0341052
+      name: Tina
+      password: jia
+      rating: ~
 out:
   - Chinese: 蔡岳霖
     id: V0341046
