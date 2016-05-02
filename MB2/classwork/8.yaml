@@ -1,0 +1,54 @@
+---
+topic: smallwood
+
+
+1-1:
+  tardy:
+  absent:
+    - Vicky
+  merits: 2
+  p: ~
+1-2:
+  tardy:
+  absent:
+  merits: 3
+  p: ~
+2-1:
+  tardy:
+    - Kris
+  absent:
+  merits: 2
+  p: ~
+2-2:
+  tardy:
+  absent:
+    - Gary
+  merits: 2
+  p: ~
+3-1:
+  tardy:
+  absent:
+    - Jay
+    - Wilson
+  merits: 3
+  p: ~
+3-2:
+  tardy:
+  absent:
+    - Molly
+    - Dawn
+  merits: 3
+  p: ~
+4-1:
+  tardy:
+    - Orange
+  absent:
+    - Kelly
+  merits: 2
+  p: ~
+4-2:
+  tardy:
+  absent:
+    - Newsom
+  merits: 3
+  p: ~
