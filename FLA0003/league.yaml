@@ -15,6 +15,12 @@ hwMax: 2
 id: 042FLA0003
 league: 夜應外二甲
 member:
+  - Chinese: 黃海敏
+    id: V0499145
+    name: Min
+    password: hai
+    rating: ~
+
   - Chinese: 馮永碇
     id: V0041066
     name: Danny
