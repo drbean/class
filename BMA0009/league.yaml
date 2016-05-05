@@ -4,7 +4,7 @@ active: ~
 anterior: 042FLA0021
 approach: GroupworkNoFault
 classMax: 3
-examMax: 5
+examMax: 100
 exams: exam
 field: 商用英文書信實務(二)
 group: session
@@ -274,9 +274,7 @@ room: A706
 school: nuu
 session:
   1: 1
-  2: 5
-  3: 10
-  4: 15
+  2: 10
 weights:
   classwork: 20
   exams: 40
