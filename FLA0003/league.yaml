@@ -15,6 +15,12 @@ hwMax: 2
 id: 042FLA0003
 league: 夜應外二甲
 member:
+  - Chinese: 卓意瑄
+    id: V0341019
+    name: Lily
+    password: yi
+    rating: ~
+
   - Chinese: 黃海敏
     id: V0499145
     name: Min
@@ -183,11 +189,6 @@ out:
     id: V0341047
     name: Ramses
     password: hong
-    rating: ~
-  - Chinese: 卓意瑄
-    id: V0341019
-    name: Lily
-    password: yi
     rating: ~
 room: A705
 school: nuu
