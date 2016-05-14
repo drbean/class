@@ -50,11 +50,6 @@ member:
     name: Barry
     password: wei
     rating: ~
-  - Chinese: 田雅勻
-    id: N03200016
-    name: YaYun
-    password: ya
-    rating: ~
   - Chinese: 陳禹蓁
     id: N03200019
     name: Nina
@@ -111,6 +106,11 @@ member:
     password: yi
     rating: ~
 out:
+  - Chinese: 田雅勻
+    id: N03200016
+    name: YaYun
+    password: ya
+    rating: ~
   - Chinese: 黃駿逸
     id: N04202108
     name: 黃駿逸
