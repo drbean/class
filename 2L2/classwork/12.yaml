@@ -1,0 +1,67 @@
+---
+topic: alien
+
+
+1-1:
+  tardy:
+  absent:
+    - Jenny
+    - Cathy
+  merits: 3
+  p: 5
+1-2:
+  tardy:
+  absent:
+  merits: 3
+  p: 5
+2-1:
+  tardy:
+  absent:
+    - Eva
+    - Demi
+  merits: 2
+  p: 1
+2-2:
+  tardy:
+  absent:
+    - Irene
+  merits: 2
+  p: 0
+2-3:
+  tardy:
+    - Dora
+  absent:
+    - Sharon
+  merits: 2.5
+  p: 2
+3-1:
+  tardy:
+    - Polly
+  absent:
+  merits: 3
+  p: 4
+3-2:
+  tardy:
+  absent:
+    - Grace1
+  merits: 2.5
+  p: 3
+3-3:
+  tardy:
+  absent:
+    - Sylvia
+  merits: 2.5
+  p: 2
+4-1:
+  tardy:
+  absent:
+    - Michael
+    - Alison
+  merits: 3
+  p: 4
+4-2:
+  tardy:
+  absent:
+    - Amber
+  merits: 2.5
+  p: 3
