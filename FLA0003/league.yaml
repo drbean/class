@@ -37,11 +37,6 @@ member:
     name: Karsten
     password: yuan
     rating: ~
-  - Chinese: 洪君綾
-    id: V0141063
-    name: Joy2
-    password: jun
-    rating: ~
   - Chinese: 陳鴻郁
     id: V0241008
     name: Eric2
@@ -81,11 +76,6 @@ member:
     id: V0341012
     name: Annie
     password: yi
-    rating: ~
-  - Chinese: 余孟穎
-    id: V0341013
-    name: Amber1
-    password: meng
     rating: ~
   - Chinese: 李殷
     id: V0341015
@@ -180,6 +170,18 @@ cohort:
       password: jia
       rating: ~
 out:
+# cohort 2
+  - Chinese: 余孟穎
+    id: V0341013
+    name: Amber1
+    password: meng
+    rating: ~
+  - Chinese: 洪君綾
+    id: V0141063
+    name: Joy2
+    password: jun
+    rating: ~
+# cohort 1
   - Chinese: 蔡岳霖
     id: V0341046
     name: Ares
