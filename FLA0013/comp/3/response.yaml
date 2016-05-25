@@ -1,0 +1,252 @@
+---
+free:
+  0:
+    aliens:
+      0:
+        V0241030:
+          point:
+            1: Returned
+        V0241044:
+          point:
+            1: Unreturned
+    space_travel:
+      0:
+        V0241030:
+          point:
+            1: Nil
+        V0241044:
+          point:
+            1: Nil
+    naive_alien_questions:
+      0:
+        V0241030:
+          point:
+            1: Unreturned
+        V0241044:
+          point:
+            1: Returned
+  1:
+    aliens:
+      0:
+        V0241001:
+          point:
+            1: Unreturned
+        V0241041:
+          point:
+            1: Returned
+    space_travel:
+      0:
+        V0241001:
+          point:
+            1: Unreturned
+        V0241041:
+          point:
+            1: Returned
+    naive_alien_questions:
+      0:
+        V0241001:
+          point:
+            1: Nil
+        V0241041:
+          point:
+            1: Nil
+  2:
+    aliens:
+      0:
+        V0241066:
+          point:
+            1: Unreturned
+        V0241024:
+          point:
+            1: Returned
+    space_travel:
+      0:
+        V0241066:
+          point:
+            1: Unreturned
+        V0241024:
+          point:
+            1: Returned
+    naive_alien_questions:
+      0:
+        V0241066:
+          point:
+            1: Nil
+        V0241024:
+          point:
+            1: Nil
+  3:
+    aliens:
+      0:
+        V0241038:
+          point:
+            1: Unreturned
+        V0241017:
+          point:
+            1: Returned
+    space_travel:
+      0:
+        V0241038:
+          point:
+            1: Returned
+        V0241017:
+          point:
+            1: Unreturned
+    naive_alien_questions:
+      0:
+        V0241038:
+          point:
+            1: Nil
+        V0241017:
+          point:
+            1: Nil
+  4:
+    aliens:
+      0:
+        V0241034:
+          point:
+           d1: Unreturned
+        V0241004:
+          point:
+            1: Returned
+    space_travel:
+      0:
+        V0241034:
+          point:
+            1: Returned
+        V0241004:
+          point:
+            1: Unreturned
+    naive_alien_questions:
+      0:
+        V0241034:
+          point:
+            1: Nil
+        V0241004:
+          point:
+            1: Nil
+  5:
+    aliens:
+      0:
+        V0241067:
+          point:
+            1: Returned
+        V0241014:
+          point:
+            1: Unreturned
+    space_travel:
+      0:
+        V0241067:
+          point:
+            1: Nil
+        V0241014:
+          point:
+            1: Nil
+    naive_alien_questions:
+      0:
+        V0241067:
+          point:
+            1: Returned
+        V0241014:
+          point:
+            1: Unreturned
+  6:
+    aliens:
+      0:
+        V0041008:
+          point:
+            1: Returned
+        V0241032:
+          point:
+            1: Unreturned
+    space_travel:
+      0:
+        V0041008:
+          point:
+            1: Returned
+        V0241032:
+          point:
+            1: Unreturned
+    naive_alien_questions:
+      0:
+        V0041008:
+          point:
+            1: Nil
+        V0241032:
+          point:
+            1: Nil
+  7:
+    aliens:
+      0:
+        V0241029:
+          point:
+            1: Unreturned
+        V0241031:
+          point:
+            1: Returned
+    space_travel:
+      0:
+        V0241029:
+          point:
+            1: Returned
+        V0241031:
+          point:
+            1: Unreturned
+    naive_alien_questions:
+      0:
+        V0241029:
+          point:
+            1: Nil
+        V0241031:
+          point:
+            1: Nil
+  8:
+    aliens:
+      0:
+        V0241046:
+          point:
+            1: Unreturned
+        V0241022:
+          point:
+            1: Returned
+    space_travel:
+      0:
+        V0241046:
+          point:
+            1: Unreturned
+        V0241022:
+          point:
+            1: Returned
+    naive_alien_questions:
+      0:
+        V0241046:
+          point:
+            1: Nil
+        V0241022:
+          point:
+            1: Nil
+  9:
+    aliens:
+      0:
+        U0143020:
+          point:
+            1: Unreturned
+        V0241039:
+          point:
+            1: Returned
+    space_travel:
+      0:
+        U0143020:
+          point:
+            1: Unreturned
+        V0241039:
+          point:
+            1: Returned
+    naive_alien_questions:
+      0:
+        U0143020:
+          point:
+            1: Nil
+        V0241039:
+          point:
+            1: Nil

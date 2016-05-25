@@ -1,0 +1,62 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 10
+pass: 6
+assistant:
+  - Ellie
+absent:
+  - Angela
+text: /home/drbean/class/speaking/alien/cards.yaml
+activity:
+  alien:
+    0:
+      - 1-1
+      - 2-2
+      - 2-4
+  piggott:
+    0:
+      - 2-1
+      - 3-1
+  indie:
+    0:
+      - 1-2
+      - 2-3
+      - 3-2
+
+
+
+group:
+  1-1:
+    - Abby
+    - Lily
+    - Amber
+  1-2:
+    - Emily
+    - Andy1
+    - Ellie
+  2-1:
+    - Joyce
+    - Sandy
+    - Janice
+  2-2:
+    - Winnie
+    - Tina
+    - Penny
+  2-3:
+    - Angela
+    - Jackie
+    - Fiona
+  2-4:
+    - Andy2
+    - Nancy
+    - Irene
+  3-1:
+    - Catherine
+    - Jason
+    - Josh
+  3-2:
+    - Cherry
+    - Nina
+    - Chuck
