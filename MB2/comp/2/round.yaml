@@ -1,0 +1,67 @@
+---
+activity:
+  aliens:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+  space_travel:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+  naive_alien_questions:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+assistant:
+  4-1:
+    N03200001: 5
+  3-2:
+    N03200008: 5
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: N03200027
+    Black: 100100100
+  1:
+    White: N02202111
+    Black: N03200022
+  2:
+    White: N03203103
+    Black: N03200025
+  3:
+    White: N02203102
+    Black: N02202107
+  4:
+    White: N03200004
+    Black: N01200014
+  5:
+    White: N03200030
+    Black: N04202101
+  6:
+    White: N03203104
+    Black: N03200036
+  
+late:
+  - N03203104
+  - N03200006
+pairing: swiss
+payprotocol: meritPay
+round: 2
+text: /home/drbean/class/speaking/alien/cards.yaml
+week: 13
