@@ -81,7 +81,7 @@ group:
     Black: B03200106
   
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 2
 round: 2
 text: /home/drbean/class/speaking/alien/cards.yaml
 week: 13
