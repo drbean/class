@@ -3,20 +3,20 @@ cutpoints:
   loser: 2
   quitter: 1
   winner: 2
-exercise: culture
+exercise: motivating
 grade:
   V0041008: 0
-  V0041042: 1
-  V0141001: 0
-  V0141062: 0
-  V0241001: 2
+  V0041042: 2
+  V0141001: 2
+  V0141062: 2
+  V0241001: 0
   V0241004: 2
   V0241014: 2
-  V0241017: 1
-  V0241022: 0
+  V0241017: 2
+  V0241022: 1
   V0241029: 2
   V0241034: 0
-  V0241038: 1
+  V0241038: 2
   V0241039: 2
   V0241041: 0
   V0241045: 2
@@ -24,7 +24,7 @@ grade:
   V0241063: 0
   V0241064: 0
   V0241065: 2
-  V0241067: 1
+  V0241067: 2
   V0316060: 0
   V9941077: 2
 points:
@@ -47,53 +47,131 @@ points:
       questions: 0
       attempts: 0
     Yn:
-      answers: 0
+      answers: 1
       questions: 0
-      attempts: 6
+      attempts: 9
     Tag:
       answers: 0
       questions: 0
       attempts: 0
   V0141001:
     Wh:
-      answers: 0
+      answers: 3
       questions: 0
-      attempts: 0
+      attempts: 3
     Yn:
       answers: 0
       questions: 0
       attempts: 0
     Tag:
       answers: 0
-      questions: 0
-      attempts: 0
-  V0141062:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Tag:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V0241001:
-    Wh:
-      answers: 2
       questions: 0
       attempts: 5
+  V0141062:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 1
+    Yn:
+      answers: 4
+      questions: 0
+      attempts: 8
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0241001:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
     Yn:
       answers: 0
       questions: 0
       attempts: 0
     Tag:
-      answers: 2
+      answers: 0
       questions: 0
-      attempts: 14
+      attempts: 0
   V0241004:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 1
+    Tag:
+      answers: 3
+      questions: 0
+      attempts: 7
+  V0241014:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 3
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 3
+      questions: 0
+      attempts: 15
+  V0241017:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 1
+    Yn:
+      answers: 4
+      questions: 0
+      attempts: 9
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0241022:
+    Wh:
+      answers: 1
+      questions: 0
+      attempts: 2
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0241029:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 7
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0241034:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0241038:
     Wh:
       answers: 0
       questions: 0
@@ -101,102 +179,24 @@ points:
     Yn:
       answers: 4
       questions: 0
-      attempts: 8
-    Tag:
-      answers: 1
-      questions: 0
-      attempts: 4
-  V0241014:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Tag:
-      answers: 3
-      questions: 0
-      attempts: 5
-  V0241017:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 1
-    Yn:
-      answers: 1
-      questions: 0
-      attempts: 6
+      attempts: 16
     Tag:
       answers: 0
       questions: 0
       attempts: 0
-  V0241022:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Tag:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V0241029:
-    Wh:
-      answers: 2
-      questions: 0
-      attempts: 3
-    Yn:
-      answers: 3
-      questions: 0
-      attempts: 15
-    Tag:
-      answers: 2
-      questions: 0
-      attempts: 6
-  V0241034:
-    Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
-    Tag:
-      answers: ~
-      questions: ~
-      attempts: ~
-  V0241038:
-    Wh:
-      answers: 0
-      questions: 0
-      attempts: 2
-    Yn:
-      answers: 0
-      questions: 0
-      attempts: 0
-    Tag:
-      answers: 0
-      questions: 0
-      attempts: 2
   V0241039:
     Wh:
       answers: 0
       questions: 0
       attempts: 1
     Yn:
+      answers: 4
+      questions: 0
+      attempts: 11
+    Tag:
       answers: 0
       questions: 0
-      attempts: 1
-    Tag:
-      answers: 3
-      questions: 0
-      attempts: 4
+      attempts: 0
   V0241041:
     Wh:
       answers: ~
@@ -216,9 +216,9 @@ points:
       questions: 0
       attempts: 0
     Yn:
-      answers: 1
+      answers: 4
       questions: 0
-      attempts: 11
+      attempts: 12
     Tag:
       answers: 0
       questions: 0
@@ -231,7 +231,7 @@ points:
     Yn:
       answers: 4
       questions: 0
-      attempts: 5
+      attempts: 8
     Tag:
       answers: 0
       questions: 0
@@ -270,7 +270,7 @@ points:
     Yn:
       answers: 4
       questions: 0
-      attempts: 9
+      attempts: 4
     Tag:
       answers: 0
       questions: 0
@@ -279,11 +279,11 @@ points:
     Wh:
       answers: 0
       questions: 0
-      attempts: 5
+      attempts: 0
     Yn:
       answers: 0
       questions: 0
-      attempts: 0
+      attempts: 15
     Tag:
       answers: 0
       questions: 0
@@ -305,7 +305,7 @@ points:
     Wh:
       answers: 3
       questions: 0
-      attempts: 5
+      attempts: 9
     Yn:
       answers: 0
       questions: 0
