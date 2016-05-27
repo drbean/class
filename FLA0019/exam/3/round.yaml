@@ -1,0 +1,55 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 2
+pass: 0
+assistant:
+  - Nina
+absent:
+  - Jay
+  - Jessica
+text: /home/drbean/class/business/managing/cards.yaml
+activity:
+  theoryxy:
+    1:
+      - 1-1
+      - 2-1
+    2:
+      - 1-2
+      - 3-1
+    3:
+      - 2-2
+    4:
+      - 3-2
+      - 4-1
+
+group:
+  1-1:
+    - Kevin
+    - Penny
+    - Nina
+  1-2:
+    - David
+    - Lily
+    - Josh
+  2-1:
+    - Jason
+    - Karsten
+    - Andy
+  2-2:
+    - Nina
+    - Janice
+    - Sandy
+  3-1:
+    - Emily
+    - Cherry
+    - YuWen
+  3-2:
+    - Winnie
+    - Jackie
+    - Joe
+  4-1:
+    - Chuck
+    - Joyce
+    - Ali

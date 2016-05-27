@@ -1,0 +1,76 @@
+---
+activity:
+  theory-x_y:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+  me_mypartner:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+  drbean:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+assistant:
+  4-1:
+    V0241001: 5
+  1-1:
+    V0241034: 5
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: V0241046
+    Black: V0241038
+  1:
+    White: V0041042
+    Black: V0241039
+  2:
+    White: V0241014
+    Black: V0241045
+  3:
+    White: V0241064
+    Black: V0041008
+  4:
+    White: V0241029
+    Black: V0141001
+  5:
+    White: V0141062
+    Black: V0241017
+  6:
+    White: V0241067
+    Black: V0241022
+  7:
+    White: V9941077
+    Black: V0241004
+  8:
+    White: V0241041
+    Black: V0241065
+late:
+pairing: swiss
+payprotocol: meritPay 2
+round: 3
+text: /home/drbean/class/business/managing/cards.yaml
+week: 13

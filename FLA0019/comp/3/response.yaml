@@ -1,0 +1,227 @@
+---
+free:
+  0:
+    theory-x_y:
+      0:
+        V0241046:
+          point:
+            1: Unreturned
+        V0241038:
+          point:
+            1: Returned
+    me_mypartner:
+      0:
+        V0241046:
+          point:
+            1: Returned
+        V0241038:
+          point:
+            1: Unreturned
+    drbean:
+      0:
+        V0241046:
+          point:
+            1: Nil
+        V0241038:
+          point:
+            1: Nil
+  1:
+    theory-x_y:
+      0:
+        V0041042:
+          point:
+            1: Returned
+        V0241039:
+          point:
+            1: Unreturned
+    me_mypartner:
+      0:
+        V0041042:
+          point:
+            1: Unreturned
+        V0241039:
+          point:
+            1: Returned
+    drbean:
+      0:
+        V0041042:
+          point:
+            1: Nil
+        V0241039:
+          point:
+            1: Nil
+  2:
+    theory-x_y:
+      0:
+        V0241014:
+          point:
+            1: Unreturned
+        V0241045:
+          point:
+            1: Returned
+    me_mypartner:
+      0:
+        V0241014:
+          point:
+            1: Unreturned
+        V0241045:
+          point:
+            1: Returned
+    drbean:
+      0:
+        V0241014:
+          point:
+            1: Nil
+        V0241045:
+          point:
+            1: Nil
+  3:
+    theory-x_y:
+      0:
+        V0241064:
+          point:
+            1: Unreturned
+        V0041008:
+          point:
+            1: Returned
+    me_mypartner:
+      0:
+        V0241064:
+          point:
+            1: Unreturned
+        V0041008:
+          point:
+            1: Returned
+    drbean:
+      0:
+        V0241064:
+          point:
+            1: Nil
+        V0041008:
+          point:
+            1: Nil
+  4:
+    theory-x_y:
+      0:
+        V0241029:
+          point:
+            1: Returned
+        V0141001:
+          point:
+            1: Returned
+    me_mypartner:
+      0:
+        V0241029:
+          point:
+            1: Unreturned
+        V0141001:
+          point:
+            1: Unreturned
+    drbean:
+      0:
+        V0241029:
+          point:
+            1: Nil
+        V0141001:
+          point:
+            1: Nil
+  5:
+    theory-x_y:
+      0:
+        V0141062:
+          point:
+            1: Unreturned
+        V0241017:
+          point:
+            1: Returned
+    me_mypartner:
+      0:
+        V0141062:
+          point:
+            1: Unreturned
+        V0241017:
+          point:
+            1: Returned
+    drbean:
+      0:
+        V0141062:
+          point:
+            1: Nil
+        V0241017:
+          point:
+            1: Nil
+  6:
+    theory-x_y:
+      0:
+        V0241067:
+          point:
+            1: Returned
+        V0241022:
+          point:
+            1: Unreturned
+    me_mypartner:
+      0:
+        V0241067:
+          point:
+            1: Returned
+        V0241022:
+          point:
+            1: Unreturned
+    drbean:
+      0:
+        V0241067:
+          point:
+            1: Nil
+        V0241022:
+          point:
+            1: Nil
+  7:
+    theory-x_y:
+      0:
+        V9941077:
+          point:
+            1: Returned
+        V0241004:
+          point:
+            1: Unreturned
+    me_mypartner:
+      0:
+        V9941077:
+          point:
+            1: Unreturned
+        V0241004:
+          point:
+            1: Returned
+    drbean:
+      0:
+        V9941077:
+          point:
+            1: Nil
+        V0241004:
+          point:
+            1: Nil
+  8:
+    theory-x_y:
+      0:
+        V0241041:
+          point:
+            1: Nil
+        V0241065:
+          point:
+            1: Nil
+    me_mypartner:
+      0:
+        V0241041:
+          point:
+            1: Returned
+        V0241065:
+          point:
+            1: Unreturned
+    drbean:
+      0:
+        V0241041:
+          point:
+            1: Returned
+        V0241065:
+          point:
+            1: Unreturned
