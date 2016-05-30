@@ -1,0 +1,416 @@
+---
+exercise: motorcycle
+grade:
+  V0141003: 3.08
+  V0141008: 3.00
+  V0141009: 3.92
+  V0141011: 4.00
+  V0141012: 3.31
+  V0141016: 5.00
+  V0141017: 3.00
+  V0141018: 4.03
+  V0141019: 3.00
+  V0141021: 4.14
+  V0141022: 3.00
+  V0141023: 4.14
+  V0141025: 3.15
+  V0141026: 3.77
+  V0141028: 4.25
+  V0141029: 4.58
+  V0141035: 3.31
+  V0141036: 3.46
+  V0141037: 4.08
+  V0141041: 3.23
+  V0141046: 4.06
+  V0141048: 4.00
+  V0141050: 4.14
+  V0141051: 3.00
+  V0141052: 4.17
+  V0141053: 3.85
+  V0141054: 3.15
+  V0141055: 4.08
+  V0141059: 3.23
+  V0141061: 3.23
+  V9941077: 3.46
+points:
+  V0141003:
+    pre_test:
+      attempted: 6
+      correct: 4
+    post_test:
+      attempted: 2
+      correct: 1
+      improvement: 1
+      targeted: 2
+  V0141008:
+    pre_test:
+      attempted: 100
+      correct: 94
+    post_test:
+      attempted: 6
+      correct: 0
+      improvement: 0
+      targeted: 6
+  V0141009:
+    pre_test:
+      attempted: 65
+      correct: 13
+    post_test:
+      attempted: 52
+      correct: 12
+      improvement: 12
+      targeted: 52
+  V0141011:
+    pre_test:
+      attempted: 54
+      correct: 12
+    post_test:
+      attempted: 42
+      correct: 13
+      improvement: 13
+      targeted: 42
+  V0141012:
+    pre_test:
+      attempted: 100
+      correct: 79
+    post_test:
+      attempted: 20
+      correct: 4
+      improvement: 4
+      targeted: 21
+  V0141016:
+    pre_test:
+      attempted: 99
+      correct: 26
+    post_test:
+      attempted: 73
+      correct: 49
+      improvement: 49
+      targeted: 73
+  V0141017:
+    pre_test:
+      attempted: 0
+      correct: 0
+    post_test:
+      attempted: 83
+      correct: 28
+      improvement: 0
+      targeted: 0
+  V0141018:
+    pre_test:
+      attempted: 73
+      correct: 49
+    post_test:
+      attempted: 24
+      correct: 14
+      improvement: 14
+      targeted: 24
+  V0141019:
+    pre_test:
+      attempted: 0
+      correct: 0
+    post_test:
+      attempted: 60
+      correct: 15
+      improvement: 0
+      targeted: 0
+  V0141021:
+    pre_test:
+      attempted: 91
+      correct: 49
+    post_test:
+      attempted: 42
+      correct: 18
+      improvement: 18
+      targeted: 42
+  V0141022:
+    pre_test:
+      attempted: 19
+      correct: 5
+    post_test:
+      attempted: 14
+      correct: 0
+      improvement: 0
+      targeted: 14
+  V0141023:
+    pre_test:
+      attempted: 70
+      correct: 22
+    post_test:
+      attempted: 48
+      correct: 18
+      improvement: 18
+      targeted: 48
+  V0141025:
+    pre_test:
+      attempted: 12
+      correct: 3
+    post_test:
+      attempted: 9
+      correct: 2
+      improvement: 2
+      targeted: 9
+  V0141026:
+    pre_test:
+      attempted: 96
+      correct: 61
+    post_test:
+      attempted: 35
+      correct: 10
+      improvement: 10
+      targeted: 35
+  V0141028:
+    pre_test:
+      attempted: 80
+      correct: 22
+    post_test:
+      attempted: 51
+      correct: 22
+      improvement: 22
+      targeted: 58
+  V0141029:
+    pre_test:
+      attempted: 94
+      correct: 21
+    post_test:
+      attempted: 66
+      correct: 34
+      improvement: 34
+      targeted: 73
+  V0141035:
+    pre_test:
+      attempted: 51
+      correct: 38
+    post_test:
+      attempted: 13
+      correct: 4
+      improvement: 4
+      targeted: 13
+  V0141036:
+    pre_test:
+      attempted: 81
+      correct: 66
+    post_test:
+      attempted: 15
+      correct: 6
+      improvement: 6
+      targeted: 15
+  V0141037:
+    pre_test:
+      attempted: 100
+      correct: 53
+    post_test:
+      attempted: 47
+      correct: 16
+      improvement: 16
+      targeted: 47
+  V0141041:
+    pre_test:
+      attempted: 100
+      correct: 71
+    post_test:
+      attempted: 23
+      correct: 3
+      improvement: 3
+      targeted: 29
+  V0141046:
+    pre_test:
+      attempted: 87
+      correct: 56
+    post_test:
+      attempted: 31
+      correct: 15
+      improvement: 15
+      targeted: 31
+  V0141048:
+    pre_test:
+      attempted: 68
+      correct: 21
+    post_test:
+      attempted: 38
+      correct: 13
+      improvement: 13
+      targeted: 47
+  V0141050:
+    pre_test:
+      attempted: 100
+      correct: 68
+    post_test:
+      attempted: 32
+      correct: 18
+      improvement: 18
+      targeted: 32
+  V0141051:
+    pre_test:
+      attempted: 0
+      correct: 0
+    post_test:
+      attempted: 63
+      correct: 35
+      improvement: 0
+      targeted: 0
+  V0141052:
+    pre_test:
+      attempted: 76
+      correct: 19
+    post_test:
+      attempted: 54
+      correct: 19
+      improvement: 19
+      targeted: 57
+  V0141053:
+    pre_test:
+      attempted: 97
+      correct: 76
+    post_test:
+      attempted: 21
+      correct: 11
+      improvement: 11
+      targeted: 21
+  V0141054:
+    pre_test:
+      attempted: 16
+      correct: 13
+    post_test:
+      attempted: 3
+      correct: 2
+      improvement: 2
+      targeted: 3
+  V0141055:
+    pre_test:
+      attempted: 100
+      correct: 38
+    post_test:
+      attempted: 62
+      correct: 16
+      improvement: 16
+      targeted: 62
+  V0141059:
+    pre_test:
+      attempted: 100
+      correct: 86
+    post_test:
+      attempted: 14
+      correct: 3
+      improvement: 3
+      targeted: 14
+  V0141061:
+    pre_test:
+      attempted: 69
+      correct: 21
+    post_test:
+      attempted: 48
+      correct: 3
+      improvement: 3
+      targeted: 48
+  V9941077:
+    pre_test:
+      attempted: 27
+      correct: 14
+    post_test:
+      attempted: 13
+      correct: 6
+      improvement: 6
+      targeted: 13
+---
+V0141003: 3.08
+V0141008: 3.00
+V0141009: 3.92
+V0141011: 4.00
+V0141012: 3.31
+V0141016: 5.00
+V0141017: 3.00
+V0141018: 4.03
+V0141019: 3.00
+V0141021: 4.14
+V0141022: 3.00
+V0141023: 4.14
+V0141025: 3.15
+V0141026: 3.77
+V0141028: 4.25
+V0141029: 4.58
+V0141035: 3.31
+V0141036: 3.46
+V0141037: 4.08
+V0141041: 3.23
+V0141046: 4.06
+V0141048: 4.00
+V0141050: 4.14
+V0141051: 3.00
+V0141052: 4.17
+V0141053: 3.85
+V0141054: 3.15
+V0141055: 4.08
+V0141059: 3.23
+V0141061: 3.23
+V9941077: 3.46
+report: |+
+  Stages     Pre-test               Post-test
+  Player     Attempted Correct   Targeted Attempted Correct Improvement   Grade
+  V0141003       6        4         2       2         1         1         3.0
+  V0141008     100       94         6       6         0         0         3.0
+  V0141009      65       13        52       52        12        12        3.9
+  V0141011      54       12        42       42        13        13        4.0
+  V0141012     100       79        21       20        4         4         3.3
+  V0141016      99       26        73       73        49        49        5.0
+  V0141017       0        0         0       83        28        0         3.0
+  V0141018      73       49        24       24        14        14        4.0
+  V0141019       0        0         0       60        15        0         3.0
+  V0141021      91       49        42       42        18        18        4.1
+  V0141022      19        5        14       14        0         0         3.0
+  V0141023      70       22        48       48        18        18        4.1
+  V0141025      12        3         9       9         2         2         3.1
+  V0141026      96       61        35       35        10        10        3.7
+  V0141028      80       22        58       51        22        22        4.2
+  V0141029      94       21        73       66        34        34        4.5
+  V0141035      51       38        13       13        4         4         3.3
+  V0141036      81       66        15       15        6         6         3.4
+  V0141037     100       53        47       47        16        16        4.0
+  V0141041     100       71        29       23        3         3         3.2
+  V0141046      87       56        31       31        15        15        4.0
+  V0141048      68       21        47       38        13        13        4.0
+  V0141050     100       68        32       32        18        18        4.1
+  V0141051       0        0         0       63        35        0         3.0
+  V0141052      76       19        57       54        19        19        4.1
+  V0141053      97       76        21       21        11        11        3.8
+  V0141054      16       13         3       3         2         2         3.1
+  V0141055     100       38        62       62        16        16        4.0
+  V0141059     100       86        14       14        3         3         3.2
+  V0141061      69       21        48       48        3         3         3.2
+  V9941077      27       14        13       13        6         6         3.4
+  Class Totals
+             Pre-test               Post-test
+             Attempted Correct   Targeted Attempted Correct Improvement   Grade
+                73         39        33     39.42     14.64    11.85   4.065
+---
+V0141003: 3.08
+V0141008: 3.00
+V0141009: 3.92
+V0141011: 4.00
+V0141012: 3.31
+V0141016: 5.00
+V0141017: 3.00
+V0141018: 4.03
+V0141019: 3.00
+V0141021: 4.14
+V0141022: 3.00
+V0141023: 4.14
+V0141025: 3.15
+V0141026: 3.77
+V0141028: 4.25
+V0141029: 4.58
+V0141035: 3.31
+V0141036: 3.46
+V0141037: 4.08
+V0141041: 3.23
+V0141046: 4.06
+V0141048: 4.00
+V0141050: 4.14
+V0141051: 3.00
+V0141052: 4.17
+V0141053: 3.85
+V0141054: 3.15
+V0141055: 4.08
+V0141059: 3.23
+V0141061: 3.23
+V9941077: 3.46
