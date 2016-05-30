@@ -186,11 +186,12 @@ out:
     name: Owen
     password: ming
     rating: ~
-room: A706
+room: A705
 school: nuu
 session:
   1: 1
   2: 6
+  3: 10
 weights:
   classwork: 20
   exams: 40
