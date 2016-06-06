@@ -61,7 +61,7 @@ late:
   - N03203104
   - N03200006
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 3
 round: 2
 text: /home/drbean/class/speaking/alien/cards.yaml
 week: 13
