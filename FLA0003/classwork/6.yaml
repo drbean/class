@@ -54,15 +54,7 @@
   - 1
   - 1
   tardy: []
-4-2:
-  absent: []
-  merits: 2
-  p: []
-  rs:
-  - 0
-  - 1
-  - 1
-  tardy: []
+4-2: null
 4-3: null
 4-4: null
 4-5: null
