@@ -27,7 +27,8 @@
   - 1
   tardy: []
 2-2:
-  absent: []
+  absent:
+    - Tony
   merits: 2.5
   p:
   - 1
@@ -58,19 +59,8 @@
 3-4: null
 3-5: null
 4-1:
-  absent: []
-  merits: 3
-  p:
-  - 1
-  rs:
-  - 0
-  - 1
-  - 0
-  - 0
-  - 1
-  tardy: []
-4-2:
-  absent: []
+  absent:
+    - Liz
   merits: 3
   p:
   - 1
