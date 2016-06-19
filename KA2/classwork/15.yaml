@@ -1,0 +1,64 @@
+---
+topic: opinion
+
+
+1-1:
+  tardy:
+  absent:
+  merits: 3
+  p:
+    - 0
+    - 4
+    - 4
+    - 3
+    - 3
+1-2:
+  tardy:
+  absent:
+  merits: 2
+  p: 
+    - 1
+    - 4
+    - 0
+    - 3
+    - 3
+2-1:
+  tardy:
+  absent:
+  merits: 2
+  p:
+    - 0
+    - 0
+    - 4
+    - 3
+    - 3
+2-2:
+  tardy:
+  absent:
+  merits: 3
+  p:
+    - 1
+    - 4
+    - 2
+    - 3
+    - 3
+3-1:
+  tardy:
+  absent:
+  merits: 3
+  p:
+    - 2
+    - 4
+    - 4
+    - 3
+    - 2
+3-2:
+  tardy:
+  absent:
+  merits: 2
+  p:
+    - 1
+    - 0
+    - 2
+    - 2
+    - 0
