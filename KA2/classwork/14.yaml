@@ -1,0 +1,62 @@
+---
+topic: opinion
+
+
+1-1:
+  tardy:
+  absent:
+    - Wes
+    - Kiki
+  merits: 3
+  p:
+    - 2
+    - 1
+    - 1
+1-2:
+  tardy:
+  absent:
+    - BoHao
+    - Wed
+  merits: 3
+  p:
+    - 2
+    - 1
+    - 1
+2-1:
+  tardy:
+  absent:
+    - Eva
+  merits: 3
+  p:
+    - 2
+    - 1
+    - 1
+2-2:
+  tardy:
+  absent:
+    - John
+    - Nina
+    - TingTing
+  merits: 0
+  p:
+    - 0
+    - 0
+    - 0
+3-1:
+  tardy:
+  absent:
+    - Anita
+  merits: 3
+  p:
+    - 2
+    - 1
+    - 1
+3-2:
+  tardy:
+  absent:
+    - Nancy
+  merits: 2
+  p:
+    - 1
+    - 0
+    - 1
