@@ -1,0 +1,152 @@
+1-1:
+  absent: []
+  merits: 2.3333333
+  p:
+  - 2
+  rs:
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  tardy: []
+1-2:
+  absent: []
+  merits: 2.3333333
+  p:
+  - 2
+  rs:
+  - 0
+  - 0
+  - 1
+  - 0
+  - 0
+  - 1
+  tardy: []
+1-3: null
+1-4: null
+1-5: null
+2-1:
+  absent: []
+  merits: 2.6666667
+  p:
+  - 1
+  rs:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  tardy: []
+2-2:
+  absent: []
+  merits: 3
+  p:
+  - 1
+  rs:
+  - 0
+  - 1
+  - 0
+  - 1
+  - 0
+  - 1
+  tardy: []
+2-3:
+  absent: []
+  merits: 2
+  p:
+  - 1
+  rs:
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  tardy: []
+2-4:
+  absent: []
+  merits: 2.6666667
+  p:
+  - 1
+  rs:
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 1
+  tardy: []
+2-5: null
+3-1:
+  absent: []
+  merits: 3
+  p:
+  - 2
+  rs:
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 1
+  tardy: []
+3-2:
+  absent: []
+  merits: 2
+  p:
+  - 2
+  rs:
+  - 1
+  - 0
+  - 1
+  - 0
+  - 0
+  - 1
+  tardy: []
+3-3: null
+3-4: null
+3-5: null
+4-1: null
+4-2: null
+4-3: null
+4-4: null
+4-5: null
+5-1: null
+5-2: null
+day: (042) 2016-5-25
+qz:
+- a: 0
+  o:
+  - Grammatical
+  - Ungrammatical
+  q: What country comes the top of the list?
+- a: 1
+  o:
+  - Grammatical
+  - Ungrammatical
+  q: What thing make Finn feel happy?
+- a: 0
+  o:
+  - Grammatical
+  - Ungrammatical
+  q: Where is the happiest nation?
+- a: 1
+  o:
+  - Grammatical
+  - Ungrammatical
+  q: What thing make Finn happy?
+- a: 0
+  o:
+  - Grammatical
+  - Ungrammatical
+  q: Why did Finn sound a bit down in the dumps?
+- a: 1
+  o:
+  - Grammatical
+  - Ungrammatical
+  q: which country is more happy in the world?
+topic: happiness,enjoy
+
