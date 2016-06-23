@@ -1,0 +1,98 @@
+1-1:
+  absent: []
+  merits: 2
+  p: []
+  rs:
+  - 1
+  - 0
+  tardy: []
+1-2:
+  absent: 
+    - Abby
+  merits: 2
+  p: []
+  rs:
+  - 1
+  - 0
+  tardy: []
+1-3: null
+1-4: null
+1-5: null
+2-1:
+  absent:
+    - Janice
+  merits: 2
+  p: []
+  rs:
+  - 0
+  - 1
+  tardy: []
+2-2:
+  absent:
+    - Emily
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 0
+  tardy: []
+2-3:
+  absent:
+    - Sandy
+  merits: 2
+  p: []
+  rs:
+  - 1
+  - 0
+  tardy:
+    - Irene
+2-4:
+  absent: []
+  merits: 2
+  p: []
+  rs:
+  - 1
+  - 0
+  tardy: []
+2-5: null
+3-1:
+  absent: []
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 0
+  tardy: []
+3-2:
+  absent:
+    - Chuck
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 0
+  tardy: []
+3-3: null
+3-4: null
+3-5: null
+4-1: null
+4-2: null
+4-3: null
+4-4: null
+4-5: null
+5-1: null
+5-2: null
+day: (042) 2016-6-8
+qz:
+- a: 0
+  o:
+  - one of rat racer, or hedonist
+  - neither of the above
+  q: ! 'Tomoko is a:'
+- a: 0
+  o:
+  - one of rat racer, or happy person
+  - neither of the above
+  q: ! 'Nazin is a:'
+topic: pts_of_view,wellbeing_framework
+
