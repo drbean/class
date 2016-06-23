@@ -1,0 +1,153 @@
+1-1:
+  absent: []
+  merits: 3
+  p:
+  - 2
+  rs:
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+  - 0
+  tardy: []
+1-2:
+  absent:
+    - Winnie
+  merits: 2.5
+  p:
+  - 2
+  rs:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  tardy: []
+1-3: null
+1-4: null
+1-5: null
+2-1:
+  absent: []
+  merits: 2.5
+  p:
+  - 2
+  rs:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  tardy: []
+2-2:
+  absent: []
+  merits: 2.5
+  p:
+  - 2
+  rs:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  tardy: []
+2-3:
+  absent: []
+  merits: 2
+  p:
+  - 1
+  rs:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  tardy: []
+2-4:
+  absent: []
+  merits: 2.5
+  p:
+  - 2
+  rs:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  tardy: []
+2-5: null
+3-1:
+  absent: []
+  merits: 2
+  p:
+  - 2
+  rs:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+  tardy: []
+3-2:
+  absent: []
+  merits: 2
+  p:
+  - 1
+  rs:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  tardy: []
+3-3: null
+3-4: null
+3-5: null
+4-1: null
+4-2: null
+4-3: null
+4-4: null
+4-5: null
+5-1: null
+5-2: null
+day: (042) 2016-6-15
+qz:
+- a: 0
+  o:
+  - Grammatical
+  - Ungrammatical
+  q: Do I have many friends?
+- a: 0
+  o:
+  - Grammatical
+  - Ungrammatical
+  q: Do I feel happy in my life?
+- a: 1
+  o:
+  - Grammatical
+  - Ungrammatical
+  q: Do I feel meaningful in my life?
+- a: 1
+  o:
+  - Grammatical
+  - Ungrammatical
+  q: Am I satisfied on my life?
+- a: 0
+  o:
+  - Grammatical
+  - Ungrammatical
+  q: Do I feel positive?
+- a: 0
+  o:
+  - Grammatical
+  - Ungrammatical
+  q: Am I happy?
+topic: grammatical_world_questions
+
