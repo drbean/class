@@ -25,6 +25,12 @@ activity:
       - 8
       - 9
 assistant:
+  1-2:
+    V0241031: 5
+  2-1:
+    V0241039: 5
+  2-2:
+    V0241038: 5
 dispensation: ~
 divisions: ~
 group:
