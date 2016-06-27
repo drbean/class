@@ -1,0 +1,138 @@
+---
+free:
+  0:
+    tal:
+      0:
+        N03200014:
+          point:
+            1: Unreturned
+        N03200030:
+          point:
+            1: Returned
+    perma:
+      0:
+        N03200014:
+          point:
+            1: Unreturned
+        N03200030:
+          point:
+            1: Returned
+  1:
+    tal:
+      0:
+        N03203104:
+          point:
+            1: Returned
+        N03200008:
+          point:
+            1: Unreturned
+    perma:
+      0:
+        N03203104:
+          point:
+            1: Returned
+        N03200008:
+          point:
+            1: Unreturned
+  2:
+    tal:
+      0:
+        N03200010:
+          point:
+            1: Returned
+        N03200004:
+          point:
+            1: Unreturned
+    perma:
+      0:
+        N03200010:
+          point:
+            1: Returned
+        N03200004:
+          point:
+            1: Unreturned
+  3:
+    tal:
+      0:
+        N03200001:
+          point:
+            1: Unreturned
+        N04202109:
+          point:
+            1: Returned
+    perma:
+      0:
+        N03200001:
+          point:
+            1: Unreturned
+        N04202109:
+          point:
+            1: Returned
+  4:
+    tal:
+      0:
+        N02202107:
+          point:
+            1: Unreturned
+        N03200027:
+          point:
+            1: Returned
+    perma:
+      0:
+        N02202107:
+          point:
+            1: Unreturned
+        N03200027:
+          point:
+            1: Returned
+  5:
+    tal:
+      0:
+        N03200025:
+          point:
+            1: Unreturned
+        N02202111:
+          point:
+            1: Returned
+    perma:
+      0:
+        N03200025:
+          point:
+            1: Unreturned
+        N02202111:
+          point:
+            1: Returned
+  6:
+    tal:
+      0:
+        N01200014:
+          point:
+            1: Unreturned
+        N03203103:
+          point:
+            1: Returned
+    perma:
+      0:
+        N01200014:
+          point:
+            1: Returned
+        N03203103:
+          point:
+            1: Unreturned
+  7:
+    tal:
+      0:
+        N04202101:
+          point:
+            1: Unreturned
+        N02203102:
+          point:
+            1: Returned
+    perma:
+      0:
+        N04202101:
+          point:
+            1: Returned
+        N02203102:
+          point:
+            1: Unreturned
