@@ -1,0 +1,60 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 6
+assistant:
+  - Penny
+absent:
+  - Angela
+text: /home/drbean/class/speaking/happiness/cards.yaml
+activity:
+  wellbeing:
+    0:
+      - 2-1
+      - 3-2
+  happyperson:
+    0:
+      - 1-2
+      - 2-4
+      - 3-1
+  framework:
+    0:
+      - 1-1
+      - 2-2
+      - 2-3
+
+group:
+  1-1:
+    - Penny
+    - Cherry
+    - Ellie
+  1-2:
+    - Winnie
+    - Abby
+    - Fiona
+  2-1:
+    - Joyce
+    - Tina
+    - Janice
+  2-2:
+    - Emily
+    - Nancy
+    - Penny
+  3-1:
+    - Andy2
+    - Jason
+    - Josh
+  3-2:
+    - Catherine
+    - Amber
+    - Chuck
+  2-3:
+    - Nina
+    - Sandy
+    - Irene
+  2-4:
+    - Andy1
+    - Jackie
+    - Lily
