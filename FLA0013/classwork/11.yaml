@@ -1,0 +1,111 @@
+1-1:
+  absent: []
+  merits: 2.5
+  p: []
+  rs:
+  - 0
+  - 1
+  - 0
+  tardy: []
+1-2:
+  absent: []
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy:
+    - Emily
+1-3: null
+1-4: null
+1-5: null
+2-1:
+  absent:
+    - Sandy
+  merits: 2.5
+  p: []
+  rs:
+  - 0
+  - 1
+  - 0
+  tardy: []
+2-2:
+  absent: []
+  merits: 2.5
+  p: []
+  rs:
+  - 0
+  - 1
+  - 0
+  tardy: []
+2-3:
+  absent:
+    - Angela
+    - Jackie
+  merits: 2.5
+  p: []
+  rs:
+  - 0
+  - 1
+  - 0
+  tardy: []
+2-4:
+  absent:
+    - Andy2
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+2-5: null
+3-1:
+  absent: []
+  merits: 2.5
+  p: []
+  rs:
+  - 0
+  - 1
+  - 0
+  tardy: []
+3-2:
+  absent:
+    - Cherry
+  merits: 2
+  p: []
+  rs:
+  - 0
+  - 1
+  - 1
+  tardy: []
+3-3: null
+3-4: null
+3-5: null
+4-1: null
+4-2: null
+4-3: null
+4-4: null
+4-5: null
+5-1: null
+5-2: null
+day: (042) 2016-5-4
+qz:
+- a: 0
+  o:
+  - Earth
+  - Other
+  q: Where area was attacked?
+- a: 0
+  o:
+  - big head, small body, etc
+  - Other
+  q: What are the aliens look like?
+- a: 0
+  o:
+  - Dog, president, etc
+  - No humans
+  q: Does the human begins alive?
+topic: indie
+
