@@ -18,6 +18,7 @@ grade:
   V0241030: 2
   V0241031: 2
   V0241032: 2
+  V0241034: 0
   V0241037: 2
   V0241038: 2
   V0241039: 2
@@ -198,6 +199,19 @@ points:
       answers: 0
       questions: 0
       attempts: 0
+  V0241034:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
   V0241037:
     Wh:
       answers: 0
