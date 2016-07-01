@@ -1,0 +1,67 @@
+---
+topic: sugar
+
+
+1-1:
+  tardy:
+  absent:
+    - Brian
+  merits: 3
+  p: 2
+1-2:
+  tardy:
+  absent:
+    - Amber
+  merits: 3
+  p: 2
+1-3:
+  tardy:
+  absent:
+    - Lydia
+    - Ula
+  merits: 3
+  p: 2
+2-1:
+  tardy:
+  absent:
+  merits: 3
+  p: 2
+2-2:
+  tardy:
+  absent:
+  merits: 3
+  p: 2
+2-3:
+  tardy:
+  absent:
+  merits: 3
+  p: 2
+3-1:
+  tardy:
+  absent:
+  merits: 3
+  p: 2
+3-2:
+  tardy:
+  absent:
+    - Carol
+  merits: 3
+  p: 2
+3-3:
+  tardy:
+  absent:
+    - Elena
+  merits: 3
+  p: 2
+4-1:
+  tardy:
+  absent:
+    - Abby
+    - Sandy1
+  merits: 3
+  p: 2
+4-2:
+  tardy:
+  absent:
+  merits: 3
+  p: 2
