@@ -1,0 +1,238 @@
+1-1:
+  absent: []
+  merits: 2.4285715
+  p:
+  - 1
+  rs:
+  - 1
+  - 9
+  - 1
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 1
+  tardy: []
+1-2:
+  absent: []
+  merits: 2.5714285
+  p:
+  - 1
+  rs:
+  - 1
+  - 0
+  - 1
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  tardy: []
+1-3:
+  absent: []
+  merits: 2.142857
+  p:
+  - 0
+  rs:
+  - 9
+  - 9
+  - 1
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  tardy: []
+1-4: null
+1-5: null
+2-1:
+  absent: []
+  merits: 2.142857
+  p:
+  - 1
+  rs:
+  - 0
+  - 9
+  - 1
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 9
+  tardy: []
+2-2:
+  absent: []
+  merits: 2
+  p:
+  - 1
+  rs:
+  - 1
+  - 9
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0
+  - 1
+  - 1
+  tardy: []
+2-3:
+  absent: []
+  merits: 2.7142859
+  p:
+  - 1
+  rs:
+  - 0
+  - 9
+  - 0
+  - 0
+  - 1
+  - 0
+  - 1
+  - 0
+  - 0
+  tardy: []
+2-4: null
+2-5: null
+3-1:
+  absent: []
+  merits: 2.5714285
+  p:
+  - 1
+  rs:
+  - 0
+  - 0
+  - 1
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  tardy: []
+3-2:
+  absent: []
+  merits: 2.7142859
+  p:
+  - 1
+  rs:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  tardy: []
+3-3:
+  absent:
+    - Kitty
+  merits: 3
+  p:
+  - 1
+  rs:
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+  - 1
+  tardy: []
+3-4: null
+3-5: null
+4-1:
+  absent: []
+  merits: 2.857143
+  p:
+  - 1
+  rs:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 0
+  - 1
+  - 0
+  - 0
+  tardy: []
+4-2:
+  absent:
+    - Sally
+  merits: 2.857143
+  p:
+  - 1
+  rs:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 0
+  - 1
+  - 0
+  - 0
+  tardy: []
+4-3: null
+4-4: null
+4-5: null
+5-1: null
+5-2: null
+day: (042) 2016-5-16
+qz:
+- a: 1
+  o:
+  - 'Yes'
+  - 'No'
+  q: Is the cafe latte added the ice milk?
+- a: 0
+  o:
+  - Ice cream
+  - Other
+  q: What added to the top of affogato?
+- a: 0
+  o:
+  - Kenya
+  - Other
+  q: Which country's coffee is sour?
+- a: 0
+  o:
+  - ! 'cappuccino has more/less milk '
+  - Other
+  q: How is cappuccino different/same as cafe latte?
+- a: 0
+  o:
+  - Melange
+  - Other
+  q: Which coffee is popular in Austria?
+- a: 0
+  o:
+  - Americano
+  - Other
+  q: Which coffee was espresso with hot water?
+- a: 1
+  o:
+  - 'Yes'
+  - 'No'
+  q: Can we stir the coffee after putting hot water?
+- a: 0
+  o:
+  - For taste more detailed flavor
+  - Other
+  q: Why they drink coffee loudly?
+- a: 0
+  o:
+  - Choose better coffee/Plan brewing procedure
+  - Other
+  q: What is the purpose of cupping?
+topic: coffee
+
