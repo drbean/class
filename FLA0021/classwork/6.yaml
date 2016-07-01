@@ -1,0 +1,142 @@
+1-1:
+  absent: []
+  merits: 3
+  p:
+  - 1
+  rs:
+  - 1
+  - 0
+  - 0
+  tardy: []
+1-2:
+  absent: []
+  merits: 2.5
+  p:
+  - 1
+  rs:
+  - 1
+  - 1
+  - 0
+  tardy: []
+1-3:
+  absent: []
+  merits: 2
+  p:
+  - 0
+  rs:
+  - 1
+  - 1
+  - 0
+  tardy: []
+1-4: null
+1-5: null
+2-1:
+  absent: []
+  merits: 3
+  p:
+  - 0
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+2-2:
+  absent: []
+  merits: 3
+  p:
+  - 1
+  rs:
+  - 1
+  - 0
+  - 0
+  tardy: []
+2-3:
+  absent: []
+  merits: 2.5
+  p:
+  - 1
+  rs:
+  - 0
+  - 1
+  - 1
+  tardy: []
+2-4: null
+2-5: null
+3-1:
+  absent: []
+  merits: 3
+  p:
+  - 1
+  rs:
+  - 0
+  - 1
+  - 0
+  tardy: []
+3-2:
+  absent: []
+  merits: 3
+  p:
+  - 1
+  rs:
+  - 0
+  - 1
+  - 0
+  tardy: []
+3-3:
+  absent: []
+  merits: 3
+  p:
+  - 1
+  rs:
+  - 0
+  - 1
+  - 0
+  tardy: []
+3-4: null
+3-5: null
+4-1:
+  absent:
+    - Lydia
+  merits: 2
+  p:
+  - 0
+  rs:
+  - 1
+  - 1
+  - 0
+  tardy: []
+4-2:
+  absent:
+    - Grace
+  merits: 2
+  p:
+  - 0
+  rs:
+  - 1
+  - 1
+  - 0
+  tardy: []
+4-3: null
+4-4: null
+4-5: null
+5-1: null
+5-2: null
+day: (042) 2016-3-28
+qz:
+- a: 0
+  o:
+  - Exhaust
+  - Other
+  q: What do you take off/apart first?
+- a: 0
+  o:
+  - Using a hammer, or similar
+  - Other
+  q: What is the easy way to remove the pin?
+- a: 0
+  o:
+  - Because prevent the tire move
+  - Other
+  q: Why did she press the brake?
+topic: motorcycle_cloze_video
+
