@@ -1,0 +1,54 @@
+---
+topic: dickson
+
+
+1-1:
+  tardy:
+  absent:
+    - Vicky
+  merits: 3
+  p: 2
+1-2:
+  tardy:
+  absent:
+  merits: 3
+  p: 2
+2-1:
+  tardy:
+  absent:
+    - Kris
+    - Elvira
+  merits: 3
+  p: 2
+2-2:
+  tardy:
+  absent:
+  merits: 2.5
+  p: 1
+3-1:
+  tardy:
+  absent:
+    - Amy
+  merits: 3
+  p: 2
+3-2:
+  tardy:
+  absent:
+    - Molly
+    - Devon
+    - Dawn
+  merits: 0
+  p: 0
+4-1:
+  tardy:
+  absent:
+    - Kelly
+    - Beemo
+  merits: 2
+  p: 0
+4-2:
+  tardy:
+  absent:
+    - James
+  merits: 3
+  p: 2
