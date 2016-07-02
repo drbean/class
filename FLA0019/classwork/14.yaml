@@ -1,0 +1,105 @@
+1-1:
+  absent: []
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+1-2:
+  absent: []
+  merits: 2.5
+  p: []
+  rs:
+  - 1
+  - 0
+  - 0
+  tardy: []
+1-3: null
+1-4: null
+1-5: null
+2-1:
+  absent: []
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+2-2:
+  absent: []
+  merits: 2
+  p: []
+  rs:
+  - 0
+  - 1
+  - 1
+  tardy: []
+2-3: null
+2-4: null
+2-5: null
+3-1:
+  absent: []
+  merits: 2.5
+  p: []
+  rs:
+  - 1
+  - 0
+  - 0
+  tardy: []
+3-2:
+  absent: []
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+3-3: null
+3-4: null
+3-5: null
+4-1:
+  absent: []
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+4-2:
+  absent: []
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+4-3: null
+4-4: null
+4-5: null
+5-1: null
+5-2: null
+day: (042) 2016-5-27
+qz:
+- a: 0
+  o:
+  - interests
+  - Other
+  q: What do you need to understand about the other side in order to create value?
+- a: 0
+  o:
+  - Zero-sum game or similar
+  - Other
+  q: What is the most common mistake people make?
+- a: 0
+  o:
+  - Being exploited, etc
+  - Other
+  q: Why do people often fear sharing information?
+topic: 1st_tension
+
