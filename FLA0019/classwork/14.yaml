@@ -71,8 +71,9 @@
   - 0
   tardy: []
 4-2:
-  absent: []
-  merits: 3
+  absent:
+    - Jay
+  merits: 0
   p: []
   rs:
   - 0
