@@ -20,6 +20,11 @@ member:
     name: Sandy
     password: yu
     rating: ~
+  - Chinese: 邱煒傑
+    id: V0241063
+    name: Jay
+    password: wei
+    rating: ~
   - Chinese: 劉威昇
     id: V0241067
     name: Jason
@@ -41,6 +46,11 @@ member:
     password: jun
     rating: ~
 
+  - Chinese: 黃嘉嘉
+    id: V0316060
+    name: Jessica
+    password: jia
+    rating: ~
   
   - Chinese: 何姿儀
     id: V0241038
@@ -56,6 +66,11 @@ member:
     id: V0241041
     name: Winnie
     password: yu
+    rating: ~
+  - Chinese: 陳巧惠
+    id: V0241022
+    name: Cherry
+    password: qiao
     rating: ~
 
   - Chinese: 黃昭寧
@@ -114,22 +129,7 @@ member:
     name: Joe
     password: wei
     rating: ~
-  - Chinese: 陳巧惠
-    id: V0241022
-    name: Cherry
-    password: qiao
-    rating: ~
-  - Chinese: 黃嘉嘉
-    id: V0316060
-    name: Jessica
-    password: jia
-    rating: ~
-  - Chinese: 邱煒傑
-    id: V0241063
-    name: Jay
-    password: wei
-    rating: ~
-out:
+out: ~
 room: A705
 school: nuu
 session:
