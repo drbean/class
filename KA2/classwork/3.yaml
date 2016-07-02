@@ -43,3 +43,9 @@ topic: definitions,IMRAD
     - 曾宥蓁
   merits: 3
   p: 2
+wes:
+  tardy:
+  absent:
+    - Wes
+  merits: 0
+  p: ~
