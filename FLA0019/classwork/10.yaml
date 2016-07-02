@@ -1,0 +1,129 @@
+1-1:
+  absent:
+    - Kevin
+  merits: 2.8
+  p:
+  - 1
+  - 1
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+1-2:
+  absent:
+    - David
+  merits: 2.8
+  p:
+  - 0
+  - 2
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+1-3: null
+1-4: null
+1-5: null
+2-1:
+  absent: []
+  merits: 3
+  p:
+  - 1
+  - 2
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+2-2:
+  absent:
+    - Sandy
+  merits: 2.6
+  p:
+  - 0
+  - 1
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+2-3: null
+2-4: null
+2-5: null
+3-1:
+  absent:
+    - YuWen
+  merits: 2.8
+  p:
+  - 0
+  - 2
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+3-2:
+  absent:
+    - Joe
+  merits: 2.8
+  p:
+  - 0
+  - 1
+  rs:
+  - 0
+  - 0
+  - 1
+  tardy: []
+3-3: null
+3-4: null
+3-5: null
+4-1:
+  absent:
+    - Chuck
+  merits: 3
+  p:
+  - 1
+  - 2
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+4-2:
+  absent:
+    - Jay
+  merits: 2
+  p:
+  - 0
+  - 0
+  rs:
+  - 9
+  - 9
+  - 9
+  tardy: []
+4-3: null
+4-4: null
+4-5: null
+5-1: null
+5-2: null
+day: (042) 2016-4-29
+qz:
+- a: 0
+  o:
+  - 'Yes'
+  - 'No'
+  q: Do Theory X managers think employees are lazy?
+- a: 0
+  o:
+  - 'Yes'
+  - 'No'
+  q: Do theory Y managers think employees like to seek responsibility?
+- a: 1
+  o:
+  - Theory Y
+  - Theory ?
+  q: Managers who think employees enjoy their work are managers who believe in which
+    theory?
+topic: theoryX,Y
+
