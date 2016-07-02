@@ -1,0 +1,44 @@
+---
+topic: reflecting
+
+
+1-1:
+  tardy:
+  absent:
+    - Kevin
+    - Penny
+  merits: 3
+1-2:
+  tardy:
+  absent:
+    - David
+  merits: 3
+2-1:
+  tardy:
+  absent:
+    - Jason
+  merits: 3
+2-2:
+  tardy:
+  absent:
+    - Jessica
+  merits: 3
+3-1:
+  tardy:
+  absent:
+    - Cherry
+  merits: 3
+3-2:
+  tardy:
+  absent:
+    - Joe
+  merits: 3
+4-1:
+  tardy:
+  absent:
+  merits: 3
+4-2:
+  tardy:
+  absent:
+    - Jay
+  merits: 0
