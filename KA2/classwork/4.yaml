@@ -56,3 +56,9 @@ topic: definitions,paragraphing
   p:
     - 0
     - 2
+wes:
+  tardy:
+  absent:
+    - Wes
+  merits: 0
+  p: ~

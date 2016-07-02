@@ -90,6 +90,13 @@
   - 0
   - 1
   tardy: []
+wes:
+  tardy:
+  absent:
+    - Wes
+  merits: 0
+  p:
+    - 0
 4-3: null
 4-4: null
 4-5: null
