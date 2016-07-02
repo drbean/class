@@ -15,11 +15,6 @@ hwMax: 2
 id: 042FLA0013
 league: 夜應外三甲
 member:
-  - Chinese: 謝宜潔
-    id: V0041022
-    name: Angela
-    password: yi
-    rating: ~
  
   - Chinese: 蔡方如
     id: V0241031
@@ -91,11 +86,6 @@ member:
     name: Irene
     password: rui
     rating: ~
-  - Chinese: 蔡方如
-    id: V0241031
-    name: Fiona
-    password: fang
-    rating: ~
   - Chinese: 彭?惠
     id: V0241032
     name: Nancy
@@ -105,21 +95,6 @@ member:
     id: V0241034
     name: Nina
     password: wei
-    rating: ~
-  - Chinese: '?鈺茹'
-    id: V0241037
-    name: Ellie
-    password: yu
-    rating: ~
-  - Chinese: 何姿儀
-    id: V0241038
-    name: Penny
-    password: zi
-    rating: ~
-  - Chinese: 梁怡萍
-    id: V0241039
-    name: Janice
-    password: yi
     rating: ~
   - Chinese: 黃鈺婷
     id: V0241041
@@ -157,6 +132,11 @@ member:
     password: wei
     rating: ~
 out:
+  - Chinese: 謝宜潔
+    id: V0041022
+    name: Angela
+    password: yi
+    rating: ~
   - Chinese: 黃俊豪
     id: V0241064
     name: Kevin
