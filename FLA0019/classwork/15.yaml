@@ -1,0 +1,67 @@
+---
+topic: 2nd_tension
+
+
+1-1:
+  tardy:
+  absent:
+  merits: 2.5
+  p:
+    - 1
+    - 1
+    - 1
+    - 0
+1-2:
+  tardy:
+  absent:
+  merits: 2.5
+  p:
+    - 1
+    - 1
+    - 1
+    - 0
+2-1:
+  tardy:
+  absent:
+  merits: 3
+  p:
+    - 1
+    - 1
+    - 1
+    - 1
+2-2:
+  tardy:
+  absent:
+  merits: 2.5
+  p:
+    - 0
+    - 1
+    - 1
+    - 1
+3-1:
+  tardy:
+  absent:
+  merits: 3
+  p:
+    - 0
+    - 1
+    - 1
+    - 2
+3-2:
+  tardy:
+  absent:
+  merits: 2
+  p:
+    - 0
+    - 1
+    - 1
+    - 0
+4-1:
+  tardy:
+  absent:
+  merits: 2
+  p:
+    - 0
+    - 1
+    - 1
+    - 0
