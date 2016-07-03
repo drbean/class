@@ -15,10 +15,35 @@ id: 042AFB2L2
 jigsaw: exam
 league: BAF022_四技應外二乙
 member:
+  - Chinese: 李宜安
+    id: B01130006
+    name: Kevin2
+    password: yi
+    rating: ~
+  - Chinese: 劉意玲
+    id: B00230075
+    name: Eva
+    password: yi
+    rating: ~
+  - Chinese: 曾淑慧
+    id: B02200046
+    name: Sylvia
+    password: shu
+    rating: ~
+  - Chinese: 廖婉廷
+    id: B02200064
+    name: Amber
+    password: wan
+    rating: ~
   - Chinese: 郭俐君
     id: B02200094
     name: Polly
     password: li
+    rating: ~
+  - Chinese: 王韻筌
+    id: B02200096
+    name: YunChuan
+    password: yun
     rating: ~
   - Chinese: 徐珮云
     id: B03192105
@@ -39,6 +64,11 @@ member:
     id: B03200011
     name: Cindy2
     password: yun
+    rating: ~
+  - Chinese: 張珈瑜
+    id: B03200015
+    name: Jenny
+    password: jia
     rating: ~
   - Chinese: 張雅媛
     id: B03200019
@@ -90,6 +120,11 @@ member:
     name: Michael
     password: jing
     rating: ~
+  - Chinese: 林采鈴
+    id: B03200068
+    name: Grace1
+    password: cai
+    rating: ~
   - Chinese: 鄒沛筠
     id: B03200078
     name: Mandy
@@ -120,47 +155,12 @@ member:
     name: Harry
     password: ming
     rating: ~
-out:
-  - Chinese: 林采鈴
-    id: B03200068
-    name: Grace1
-    password: cai
-    rating: ~
-  - Chinese: 張珈瑜
-    id: B03200015
-    name: Jenny
-    password: jia
-    rating: ~
   - Chinese: 黃曉雯
     id: B03200110
     name: Sharon
     password: xiao
     rating: ~
-  - Chinese: 李宜安
-    id: B01130006
-    name: Kevin2
-    password: yi
-    rating: ~
-  - Chinese: 劉意玲
-    id: B00230075
-    name: Eva
-    password: yi
-    rating: ~
-  - Chinese: 曾淑慧
-    id: B02200046
-    name: Sylvia
-    password: shu
-    rating: ~
-  - Chinese: 廖婉廷
-    id: B02200064
-    name: Amber
-    password: wan
-    rating: ~
-  - Chinese: 王韻筌
-    id: B02200096
-    name: YunChuan
-    password: yun
-    rating: ~
+out:
   - Chinese: 劉恩典
     id: B03200072
     name: Grace2
