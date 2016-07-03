@@ -1,0 +1,84 @@
+---
+activity:
+  tal:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+  perma:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+assistant:
+  2-3:
+    B03200037: 5
+  3-1:
+    B03200056: 5
+bye: B03200084
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: B02200064
+    Black: B03200027
+    
+  1:
+    White: B03200110
+    Black: B00230075
+  2:
+    White: B02200096
+    Black: B03200023
+  3:
+    White: B03200015
+    Black: B03200052
+  4:
+    White: B03200100
+    Black: B03200007
+  5:
+    White: B03200064
+    Black: B03200011
+  6:
+    White: B03200031
+    Black: B03200068
+  7:
+    White: B03200106
+    Black: B03200005
+  8:
+    White: B03200043
+    Black: B03200039
+  9:
+    White: B02200094
+    Black: B03192105
+  10:
+    White: B03200102
+    Black: B03200019
+  11:
+    White: B03200078
+    Black: B03200092
+late:
+  - B03200084
+  - B03200027
+pairing: swiss
+payprotocol: meritPay 2
+round: 3
+text: /home/drbean/class/speaking/happiness/cards.yaml
+week: 18
