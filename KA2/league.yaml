@@ -20,6 +20,11 @@ member:
     name: BoHao
     password: bai
     rating: ~
+  - Chinese: 陳怡安
+    id: N02200012
+    name: Anita
+    password: yi
+    rating: ~
   - Chinese: 許慈顯
     id: N02200022
     name: Wed
@@ -95,17 +100,12 @@ member:
     name: John
     password: yu
     rating: ~
-out:
-  - Chinese: 陳怡安
-    id: N02200012
-    name: Anita
-    password: yi
-    rating: ~
   - Chinese: 劉意玲
     id: B00230075
     name: Eva
     password: yi
     rating: ~
+out:
   - Chinese: 田雅勻
     id: N03200016
     name: YaYun
