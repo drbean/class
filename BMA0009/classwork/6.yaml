@@ -9,7 +9,8 @@
   - 1
   tardy: []
 1-2:
-  absent: []
+  absent:
+    - YoYo
   merits: 3
   p:
   - 0
@@ -37,7 +38,8 @@
   - 0
   - 1
   - 1
-  tardy: []
+  tardy:
+    - Jacky
 1-5:
   absent: []
   merits: 2
@@ -67,9 +69,11 @@
   - 1
   - 0
   - 1
-  tardy: []
+  tardy: 
+    - Glace
 2-3:
-  absent: []
+  absent:
+    - Iris2
   merits: 3
   p:
   - 0
@@ -98,9 +102,11 @@
   - 0
   - 0
   - 1
-  tardy: []
+  tardy:
+    - Kiki
 3-2:
-  absent: []
+  absent:
+    - Jack1
   merits: 2
   p:
   - 0
@@ -149,7 +155,8 @@
   - 1
   - 1
   - 1
-  tardy: []
+  tardy:
+    - Roxy
 4-3:
   absent: []
   merits: 2.5
@@ -161,7 +168,8 @@
   - 1
   tardy: []
 4-4:
-  absent: []
+  absent:
+    - Wes
   merits: 2.5
   p:
   - 0
