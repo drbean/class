@@ -1,6 +1,6 @@
 1-1:
   absent:
-    - 曾胤齊
+    - Julia
   merits: 3
   p:
   - 0
@@ -41,7 +41,7 @@
   tardy: []
 1-5:
   absent:
-    - 黃韋程
+    - Felix
   merits: 2.6666667
   p:
   - 0
@@ -52,7 +52,7 @@
   tardy: []
 2-1:
   absent:
-    - 王傳宇
+    - Tony
   merits: 2.3333333
   p:
   - 0
@@ -63,7 +63,7 @@
   tardy: []
 2-2:
   absent:
-    - 張庭睿
+    - Peter
   merits: 2.6666667
   p:
   - 0
@@ -74,7 +74,7 @@
   tardy: []
 2-3:
   absent:
-    - 范雅媛
+    - Iris2
   merits: 2.6666667
   p:
   - 0
@@ -106,8 +106,8 @@
   tardy: []
 3-2:
   absent:
-    - 林孟賢
-    - 陳奕全
+    - Lemon
+    - Andy
   merits: 2
   p:
   - 0
