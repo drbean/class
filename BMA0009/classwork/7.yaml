@@ -1,0 +1,184 @@
+1-1:
+  absent:
+    - Queena
+  merits: 2.3333333
+  p: []
+  rs:
+  - 9
+  - 0
+  - 0
+  tardy: []
+1-2:
+  absent: []
+  merits: 2.6666667
+  p: []
+  rs:
+  - 1
+  - 0
+  - 1
+  tardy: []
+1-3:
+  absent: []
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 0
+  - 1
+  tardy: []
+1-4:
+  absent: []
+  merits: 2.6666667
+  p: []
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy:
+    - Jacky
+1-5:
+  absent:
+    - Felix
+    - Bean
+  merits: 2.3333333
+  p: []
+  rs:
+  - 1
+  - 0
+  - 0
+  tardy: []
+2-1:
+  absent:
+    - Tony
+  merits: 2.6666667
+  p: []
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+2-2:
+  absent: []
+  merits: 2.6666667
+  p: []
+  rs:
+  - 0
+  - 0
+  - 0
+  tardy: []
+2-3:
+  absent: []
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 0
+  - 1
+  tardy: []
+2-4:
+  absent: []
+  merits: 2.6666667
+  p: []
+  rs:
+  - 1
+  - 0
+  - 1
+  tardy: []
+2-5: null
+3-1:
+  absent: []
+  merits: 3
+  p: []
+  rs:
+  - 0
+  - 0
+  - 1
+  tardy: []
+3-2:
+  absent:
+    - Lemon
+  merits: 2
+  p: []
+  rs:
+  - 1
+  - 1
+  - 0
+  tardy: []
+3-3:
+  absent: []
+  merits: 2.6666667
+  p: []
+  rs:
+  - 0
+  - 1
+  - 1
+  tardy: []
+3-4:
+  absent: []
+  merits: 2.6666667
+  p: []
+  rs:
+  - 0
+  - 1
+  - 1
+  tardy: []
+3-5: null
+4-1:
+  absent: []
+  merits: 2.3333333
+  p: []
+  rs:
+  - 0
+  - 1
+  - 0
+  tardy: []
+4-2:
+  absent: []
+  merits: 2
+  p: []
+  rs:
+  - 1
+  - 1
+  - 0
+  tardy: []
+4-3:
+  absent: []
+  merits: 2.3333333
+  p: []
+  rs:
+  - 9
+  - 1
+  - 1
+  tardy: []
+4-4:
+  absent:
+    - Jane
+  merits: 2.6666667
+  p: []
+  rs:
+  - 0
+  - 1
+  - 1
+  tardy: []
+4-5: null
+5-1: null
+5-2: null
+day: (042) 2016-4-6
+qz:
+- a: 0
+  o:
+  - news details details appeal/offer sentiment (+ve)
+  - Other
+  q: 4 names for the 5 different sections
+- a: 0
+  o:
+  - news details appeal/offer sentiment (+ve)
+  - Other
+  q: Good news structure
+- a: 1
+  o:
+  - might
+  - must
+  q: I might/must refuse your offer
+topic: transfer_approval, bright_side_bad_news
+
