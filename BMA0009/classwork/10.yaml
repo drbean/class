@@ -128,8 +128,8 @@ day: (042) 2016-4-27
 qz:
 - a: 0
   o:
-  - ! 'Problem/background Bad news Solution/alternative Sentiment/feeling '
+  - 'Problem/background Bad news Solution/alternative Sentiment/feeling '
   - Other
-  q: ! 'Bad news Problem/background Sentiment/feeling Solution/alternative '
+  q: 'Bad news Problem/background Sentiment/feeling Solution/alternative '
 topic: bad_news_structure
 
