@@ -133,8 +133,8 @@ day: (042) 2016-5-18
 qz:
 - a: 0
   o:
-  - ! 'The C-400 tape cleaner can be cleaned using warn water .  '
+  - 'The C-400 tape cleaner can be cleaned using warn water .  '
   - Other
-  q: ! 'The C-400 tape cleaner can be cleaned using warn water .  '
+  q: 'The C-400 tape cleaner can be cleaned using warn water .  '
 topic: The C-400 tape cleaner can be cleaned using warn water .
 

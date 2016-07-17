@@ -188,7 +188,7 @@ qz:
   o:
   - Act (emphasized)
   - details (subordinated)
-  - ! 'sentiment '
+  - 'sentiment '
   q: Looking forward
 - a: 0
   o:

@@ -187,7 +187,7 @@ qz:
   o:
   - courteous
   - sincere
-  q: ! 'Problem with, You didn''t read .. '
+  q: 'Problem with, You didn''t read .. '
 - a: 0
   o:
   - No thanks/thank you.

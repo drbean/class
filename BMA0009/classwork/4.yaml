@@ -154,8 +154,8 @@ qz:
   q: Non-discrimination cause
 - a: 0
   o:
-  - ! 'First: Need to increase ability, representations from industry'
-  - ! 'Last: Need to increase ability, representations from industry'
+  - 'First: Need to increase ability, representations from industry'
+  - 'Last: Need to increase ability, representations from industry'
   - Other
   q: Emphasizing GEPT decision
 topic: non-discrimination
