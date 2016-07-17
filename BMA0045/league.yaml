@@ -1,0 +1,281 @@
+---
+absent: ~
+active: ~
+anterior: 042BMA0009
+approach: GroupworkNoFault
+classMax: 3
+examMax: 100
+exams: exam
+field: 商用英文書信實務(一)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 051BMA0045
+league: 日經管三乙
+member:
+  - Chinese: 黃威杰
+    id: U0331101
+    name: 黃威杰
+    password: wei
+    rating: ~
+  - Chinese: 鄭傑
+    id: U0331105
+    name: 鄭傑
+    password: jie
+    rating: ~
+  - Chinese: 余思樺
+    id: U0331106
+    name: 余思樺
+    password: si
+    rating: ~
+  - Chinese: 陳冠綾
+    id: U0331108
+    name: 陳冠綾
+    password: guan
+    rating: ~
+  - Chinese: 莊博宇
+    id: U0331109
+    name: 莊博宇
+    password: bo
+    rating: ~
+  - Chinese: 邱湲閔
+    id: U0331110
+    name: 邱湲閔
+    password: yuan
+    rating: ~
+  - Chinese: 李孟儒
+    id: U0331111
+    name: 李孟儒
+    password: meng
+    rating: ~
+  - Chinese: 林佩柔
+    id: U0331112
+    name: 林佩柔
+    password: pei
+    rating: ~
+  - Chinese: 羅丞宏
+    id: U0331113
+    name: 羅丞宏
+    password: cheng
+    rating: ~
+  - Chinese: 王鈺艷
+    id: U0331114
+    name: 王鈺艷
+    password: yu
+    rating: ~
+  - Chinese: 楊虹修
+    id: U0331115
+    name: 楊虹修
+    password: hong
+    rating: ~
+  - Chinese: 羅紫玲
+    id: U0331116
+    name: 羅紫玲
+    password: zi
+    rating: ~
+  - Chinese: 莊雅雯
+    id: U0331117
+    name: 莊雅雯
+    password: ya
+    rating: ~
+  - Chinese: 郭耕華
+    id: U0331118
+    name: 郭耕華
+    password: geng
+    rating: ~
+  - Chinese: 古贊
+    id: U0331119
+    name: 古贊
+    password: zan
+    rating: ~
+  - Chinese: 周靖偉
+    id: U0331120
+    name: 周靖偉
+    password: jing
+    rating: ~
+  - Chinese: 鍾丞浩
+    id: U0331121
+    name: 鍾丞浩
+    password: cheng
+    rating: ~
+  - Chinese: 孫丞甫
+    id: U0331122
+    name: 孫丞甫
+    password: cheng
+    rating: ~
+  - Chinese: 郭姵儀
+    id: U0331123
+    name: 郭姵儀
+    password: pei
+    rating: ~
+  - Chinese: 鄭惠婷
+    id: U0331124
+    name: 鄭惠婷
+    password: hui
+    rating: ~
+  - Chinese: 林岱緯
+    id: U0331125
+    name: 林岱緯
+    password: dai
+    rating: ~
+  - Chinese: 梁容禎
+    id: U0331126
+    name: 梁容禎
+    password: rong
+    rating: ~
+  - Chinese: 王町豪
+    id: U0331127
+    name: 王町豪
+    password: ting
+    rating: ~
+  - Chinese: 陳宥瑜
+    id: U0331128
+    name: 陳宥瑜
+    password: you
+    rating: ~
+  - Chinese: 陳?靜
+    id: U0331129
+    name: 陳?靜
+    password: '?'
+    rating: ~
+  - Chinese: 林佳瑜
+    id: U0331130
+    name: 林佳瑜
+    password: jia
+    rating: ~
+  - Chinese: 許尚雯
+    id: U0331131
+    name: 許尚雯
+    password: shang
+    rating: ~
+  - Chinese: 楊博翔
+    id: U0331132
+    name: 楊博翔
+    password: bo
+    rating: ~
+  - Chinese: 張庭菀
+    id: U0331133
+    name: 張庭菀
+    password: ting
+    rating: ~
+  - Chinese: 李明親
+    id: U0331134
+    name: 李明親
+    password: ming
+    rating: ~
+  - Chinese: 高子佩
+    id: U0331135
+    name: 高子佩
+    password: zi
+    rating: ~
+  - Chinese: 方炯彤
+    id: U0331136
+    name: 方炯彤
+    password: jiong
+    rating: ~
+  - Chinese: 林詠佳
+    id: U0331137
+    name: 林詠佳
+    password: yong
+    rating: ~
+  - Chinese: 陳俞方
+    id: U0331138
+    name: 陳俞方
+    password: yu
+    rating: ~
+  - Chinese: 吳珮綺
+    id: U0331139
+    name: 吳珮綺
+    password: pei
+    rating: ~
+  - Chinese: 鄭瑋銘
+    id: U0331140
+    name: 鄭瑋銘
+    password: wei
+    rating: ~
+  - Chinese: 潘柔安
+    id: U0331141
+    name: 潘柔安
+    password: rou
+    rating: ~
+  - Chinese: 陳淑珍
+    id: U0331142
+    name: 陳淑珍
+    password: shu
+    rating: ~
+  - Chinese: 林丞義
+    id: U0331143
+    name: 林丞義
+    password: cheng
+    rating: ~
+  - Chinese: 黃鉦洋
+    id: U0331144
+    name: 黃鉦洋
+    password: zheng
+    rating: ~
+  - Chinese: 翁造蔚
+    id: U0331145
+    name: 翁造蔚
+    password: zao
+    rating: ~
+  - Chinese: 陳宥燕
+    id: U0331146
+    name: 陳宥燕
+    password: you
+    rating: ~
+  - Chinese: 蔡慈涵
+    id: U0331147
+    name: 蔡慈涵
+    password: ci
+    rating: ~
+  - Chinese: 陳柏中
+    id: U0331148
+    name: 陳柏中
+    password: bai
+    rating: ~
+  - Chinese: 李宗哲
+    id: U0331149
+    name: 李宗哲
+    password: zong
+    rating: ~
+  - Chinese: 潘奕瑄
+    id: U0331150
+    name: 潘奕瑄
+    password: yi
+    rating: ~
+  - Chinese: 謝宜姍
+    id: U0331151
+    name: 謝宜姍
+    password: yi
+    rating: ~
+  - Chinese: 沈郁媚
+    id: U0331153
+    name: 沈郁媚
+    password: yu
+    rating: ~
+  - Chinese: 賴顗任
+    id: U0331154
+    name: 賴顗任
+    password: yi
+    rating: ~
+  - Chinese: 陳穎琪
+    id: U0331155
+    name: 陳穎琪
+    password: ying
+    rating: ~
+  - Chinese: 周聖棻
+    id: U0331156
+    name: 周聖棻
+    password: sheng
+    rating: ~
+out: ~
+room: A706
+school: nuu
+session:
+  1: 1
+  2: 10
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
