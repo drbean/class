@@ -149,14 +149,22 @@ day: (042) 2016-3-16
 qz:
 - a: 1
   o:
-  - UN Bill of Rights
-  - Women's dissatisfaction with position
-  q: Non-discrimination cause
-- a: 0
+  - Response to UN Bill of Rights
+  - Response to women's dissatisfaction with their treatment and gender inequality
+  q: What motivated businesses to use non-discriminatory language?
+- a: 1
   o:
   - 'First: Need to increase ability, representations from industry'
   - 'Last: Need to increase ability, representations from industry'
-  - Other
-  q: Emphasizing GEPT decision
+  q: |
+     1. The need to increase ability and representations from industry motivated NUU to decide to require students to pass the GEPT.
+     OR
+     2. Students are now required to pass the GEPT. NUU decided this, after representations from industry & because of the need to increase ability.
+     Which of the 2 paragraph emphasizes the GEPT requirement more?
+- a: 1
+  o:
+  - young
+  - old
+  q: "'Connie Young did a good job for her age.' Assuming Connie is a worker, is she young or old?"
 topic: non-discrimination
 

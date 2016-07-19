@@ -243,42 +243,51 @@
 5-2: null
 day: (042) 2016-3-9
 qz:
-- a: 1
+- a: 0
   o:
   - 1st
   - 2nd
-  q: emphasized_sentence
+  q: p44, the smoking paragraph. The emphasized_sentence?
 - a: 0
   o:
   - 1st
   - 2nd
   - 3rd
-  q: summary_sentence
+  - 4th
+  - 5th
+  q: p44, the paragraph explaining emphasis and subordination. The summary_sentence?
 - a: 1
   o:
   - 1st
   - 2nd
   - 3rd
-  q: example_of_advice
+  - 4th
+  - 5th
+  q: p44, the paragraph explaining emphasis and subordination. Which sentence is an EXAMPLE of the advice about emphasis?
 - a: 0
   o:
   - is_important
   - isnt_important
-  q: Does the last sentence show subordination isn't important?
+  q: p44, the paragraph explaining emphasis and subordination. Does the last sentence show using subordination isn't important?
 - a: 0
   o:
   - 1st
   - 2nd
-  q: Which paragraph emphasizes the smoking rule more.
+  q: |
+     "Compare the smoking paragraph with the following paragraph:"
+
+     The committee on employee health and safety has decided that smoking will no longer be permitted in the building, after considering evidence from researchers and physicians on the dangers of second-hand smoke.
+
+     Which paragraph emphasizes the smoking rule more?
 - a: 1
   o:
   - Passive
   - Not_Passive
-  q: I've been sick, Have you been to 台東?
-- a: 0
-  o:
-  - Good
-  - Not_Good
-  q: japan_earthquake
+  q: "Examples of the passive: I've been sick, Have you been to 台東?"
+#- a: 0
+#  o:
+#  - Good
+#  - Not_Good
+#  q: japan_earthquake
 topic: passive,emphasis,subordination
 

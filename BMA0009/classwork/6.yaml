@@ -186,17 +186,28 @@ qz:
 - a: 0
   o:
   - warning, bad news, solution, sentiment
-  - Other
-  q: refusal structure
+  - sentiment, bad news, solution, warning
+  - sentiment, warning, solution, bad news
+  q: p53 refusal structure. The 4 paragraphs categorized
+- a: 1
+  o:
+  - accept
+  - decline
+  q: p53. Is Chen accepting or declining (refusing) the invitation?
 - a: 0
   o:
-  - due to a prior commitment
+  - usually, due to a prior commitment
   - Other
-  q: words indicating refusal
-- a: 0
+  q: phrases indicating refusal
+- a: 1
   o:
-  - Right
-  - Wrong
-  q: refusal cloze
+  - might
+  - must
+  q: I might/must refuse your offer
+#- a: 0
+#  o:
+#  - Right
+#  - Wrong
+#  q: refusal cloze
 topic: invitation_reply,refusal
 

@@ -178,23 +178,30 @@ day: (042) 2016-4-13
 qz:
 - a: 0
   o:
-  - 1 point
-  - Other
-  q: bright side of bad 1 point news for tardies
+  - You are tardy, but you get 1 point
+  - If you are in class on time, you can get 2 or more points.
+  q: Wording the bad news for tardy students that the teacher is cutting their grade so it is less of a disappointment. See approach 1, p60.
+- a: 0
+  o:
+  - Good news letter
+  - Bad news letter
+  q: "The p58 message to Charlie Warth about the transfer to Kaohsiung is a:"
 - a: 1
   o:
   - must
   - will
-  q: 'You will/must be happy to hear .. '
-- a: 0
+  q: "The message to Charlie Warth starts: 'You will/must be happy to hear .. '"
+- a: 1
   o:
+  - If an earthquake demolishes the building, I will run down the stairs.
   - If an earthquake demolished the building, I would run down the stairs.
-  - Other
-  q: 'In case of (imaginary) earthquake, ... '
-- a: 0
+  - If an earthquake had demolished the building, I would have run down the stairs.
+  q: 'p62. In case of an (imaginary, ie counter-factual) earthquake, ... '
+- a: 2
   o:
+  - 'If the class starts at 7, we will get very wet.  '
+  - 'If the class started at 7, we would get very wet.  '
   - 'If the class had started at 7, we would have gotten very wet.  '
-  - Other
-  q: We were lucky the class started later
+  q: p62. We were lucky the class started at 8, rather than 7, because at 7 there was a heavy downpour.
 topic: bright_side_bad_news,must/will_be,conditionals
 
