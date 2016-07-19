@@ -184,21 +184,30 @@
 5-2: null
 day: (042) 2016-3-23
 qz:
+- a: 0
+  o:
+  - Act (emphasized)
+  - details (subordinated)
+  - sentiment
+  q: "The expressions, 'We would be very pleased .., I would like to .., We would be delighted .., We have pleasure ..,  On behalf of .. ' are used to perform/convey:"
 - a: 2
   o:
   - Act (emphasized)
   - details (subordinated)
-  - 'sentiment '
-  q: Looking forward
+  - sentiment
+  q: "The expression, 'Looking forward ..' is used to perform/convey:"
 - a: 0
   o:
   - act, details, details, sentiment
+  - act, details, sentiment, sentiment
+  - act, details, act, sentiment
+  - act, act, act, sentiment
   - Other
-  q: invitation_structure
-- a: 1
+  q: p52, invitation_structure. The 4 paragraphs categorized
+- a: 0
   o:
-  - fit
-  - not_fit
-  q: Smokers_fitness
+  - The name celebrates smoking, but the symposium is about lung disease.
+  - Smoking is not good, so should not be part of a company's name.
+  q: What is strange about 'Smokers, Inc'?
 topic: invitation
 

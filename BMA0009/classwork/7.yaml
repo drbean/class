@@ -165,20 +165,54 @@
 5-2: null
 day: (042) 2016-4-6
 qz:
+- a: 1
+  o:
+  - an award
+  - a car
+  - insurance
+  q: The prize in the p56 letter
 - a: 0
   o:
   - news details details appeal/offer sentiment (+ve)
+  - news details appeal/offer details sentiment (+ve)
   - Other
-  q: 4 names for the 5 different sections
+  q: "4 names for the 5 different sections in the p56 letter: news details appeal/offer sentiment (+ve)" 
 - a: 0
   o:
   - news details appeal/offer sentiment (+ve)
+  - news appeal/offer details sentiment (+ve)
+  - appeal/offer news details sentiment (+ve)
   - Other
-  q: Good news structure
+  q: Good news structure p54. What is the structure?
 - a: 1
   o:
-  - might
-  - must
-  q: I might/must refuse your offer
+  - 1st
+  - 2nd
+  q: |
+     In which of these 2 replies to the p51 invitation is the tone better? Remember the prof is writing to a student.
+
+      First letter:
+
+      Dear Jessica
+
+      Thank you for inviting me to be a guest at your 40th Anniversary reception at International Conference Hall, National United University. I am glad to have been given such an invitation.
+
+      Usually, I would be pleased to accept your invitation. Unfortunately, due to a prior commitment, I might decline your invitation.
+
+      Please accept my apology for not being able to join your reception. I wish the reception will be successful, and hope that I can join next time.
+
+      Sincerely                  
+
+      Professor Chang
+
+      Second letter:
+
+      Dear Stella Fong,
+
+      Thank you for inviting me to the 40th Anniversary Reception.
+
+      I really want to share my stories to every student. Unfortunately, I can’t take part in the reception because I have to attend a conference on November 24, I think I might decline your invitation.
+
+      I am sorry about that I can’t join in. If I have the opportunity to join the reception next year, I must promise your invitation. I hope this reception will successfully conduct. 
 topic: transfer_approval, bright_side_bad_news
 

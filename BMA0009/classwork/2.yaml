@@ -182,16 +182,17 @@ qz:
   o:
   - confident
   - overconfident
-  q: Problem with 'I know co-workers will like me.
+  q: "p71. Sue's acceptance letter. Problem with 'I know co-workers will like me.'?"
 - a: 0
   o:
-  - courteous
-  - sincere
-  q: 'Problem with, You didn''t read .. '
+  - not courteous
+  - not sincere
+  q: 'p72. Telling a user about a mistake. Problem with, You didn''t read .. '
 - a: 0
   o:
   - No thanks/thank you.
+  - I don't need it.
   - Other
-  q: Translation of 不要
+  q: In the supermarket, the cashier offers you a bag. What is the translation of 不要?
 topic: 7,7-1.1,2
 
