@@ -1,0 +1,118 @@
+---
+absent: ~
+active: ~
+anterior: 041FLA0024
+approach: GroupworkNoFault
+classMax: 3
+examMax: 5
+exams: exam
+field: 新聞英語
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 051FLA0015
+league: 夜應外大學四甲
+member:
+  - Chinese: 陳珮文
+    id: V0141050
+    name: 陳珮文
+    password: pei
+    rating: ~
+  - Chinese: 施其儀
+    id: V0241004
+    name: Jackie
+    password: qi
+    rating: ~
+  - Chinese: 賴彥鈞
+    id: V0241014
+    name: Josh
+    password: yan
+    rating: ~
+  - Chinese: 吳思賢
+    id: V0241017
+    name: Andy1
+    password: si
+    rating: ~
+  - Chinese: 李盈瑩
+    id: V0241024
+    name: Abby
+    password: ying
+    rating: ~
+  - Chinese: 涂馨尹
+    id: V0241026
+    name: 涂馨尹
+    password: xin
+    rating: ~
+  - Chinese: 陳亮彤
+    id: V0241029
+    name: Lily
+    password: liang
+    rating: ~
+  - Chinese: 何瑞嬿
+    id: V0241030
+    name: Irene
+    password: rui
+    rating: ~
+  - Chinese: 蔡方如
+    id: V0241031
+    name: Fiona
+    password: fang
+    rating: ~
+  - Chinese: 彭?惠
+    id: V0241032
+    name: Nancy
+    password: '?'
+    rating: ~
+  - Chinese: 王緯婷
+    id: V0241034
+    name: Nina
+    password: wei
+    rating: ~
+  - Chinese: '?鈺茹'
+    id: V0241037
+    name: Ellie
+    password: yu
+    rating: ~
+  - Chinese: 何姿儀
+    id: V0241038
+    name: Penny
+    password: zi
+    rating: ~
+  - Chinese: 梁怡萍
+    id: V0241039
+    name: Janice
+    password: yi
+    rating: ~
+  - Chinese: 黃鈺婷
+    id: V0241041
+    name: Winnie
+    password: yu
+    rating: ~
+  - Chinese: 黃俊豪
+    id: V0241064
+    name: 黃俊豪
+    password: jun
+    rating: ~
+  - Chinese: 郭姿婷
+    id: V0241066
+    name: Tina
+    password: zi
+    rating: ~
+  - Chinese: 劉威昇
+    id: V0241067
+    name: Jason
+    password: wei
+    rating: ~
+out:
+room: A705
+school: nuu
+session:
+  1: 1
+  2: 5
+  3: 10
+  4: 14
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
