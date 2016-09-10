@@ -1,0 +1,166 @@
+---
+absent: ~
+anterior: 041AFN2KB1
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 基礎英文寫作(一)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 051AFB241
+jigsaw: exam
+league: BAF021__四技外二甲
+member:
+  - Chinese: 江柏勳
+    id: B04090003
+    name: 江柏勳
+    password: bai
+    rating: ~
+  - Chinese: 陳政瑋
+    id: B04140059
+    name: 陳政瑋
+    password: zheng
+    rating: ~
+  - Chinese: 蔡政龍
+    id: B04200001
+    name: 蔡政龍
+    password: zheng
+    rating: ~
+  - Chinese: 戴亞暄
+    id: B04200006
+    name: 戴亞暄
+    password: ya
+    rating: ~
+  - Chinese: 林湘瑀
+    id: B04200010
+    name: 林湘瑀
+    password: xiang
+    rating: ~
+  - Chinese: 康雅婷
+    id: B04200015
+    name: 康雅婷
+    password: ya
+    rating: ~
+  - Chinese: 招怡安
+    id: B04200020
+    name: 招怡安
+    password: yi
+    rating: ~
+  - Chinese: 王彥增
+    id: B04200025
+    name: 王彥增
+    password: yan
+    rating: ~
+  - Chinese: 林罁茹
+    id: B04200029
+    name: 林罁茹
+    password: gang
+    rating: ~
+  - Chinese: 陳皓蓉
+    id: B04200033
+    name: 陳皓蓉
+    password: hao
+    rating: ~
+  - Chinese: 黃慧菁
+    id: B04200038
+    name: 黃慧菁
+    password: hui
+    rating: ~
+  - Chinese: 黃子馨
+    id: B04200042
+    name: 黃子馨
+    password: zi
+    rating: ~
+  - Chinese: 董嘉詩
+    id: B04200048
+    name: 董嘉詩
+    password: jia
+    rating: ~
+  - Chinese: 黃雅君
+    id: B04200052
+    name: 黃雅君
+    password: ya
+    rating: ~
+  - Chinese: 陳妤菁
+    id: B04200057
+    name: 陳妤菁
+    password: yu
+    rating: ~
+  - Chinese: 郭哲源
+    id: B04200061
+    name: 郭哲源
+    password: zhe
+    rating: ~
+  - Chinese: 倪崇維
+    id: B04200068
+    name: 倪崇維
+    password: chong
+    rating: ~
+  - Chinese: 戴家芸
+    id: B04200072
+    name: 戴家芸
+    password: jia
+    rating: ~
+  - Chinese: 陳冠中
+    id: B04200081
+    name: 陳冠中
+    password: guan
+    rating: ~
+  - Chinese: 陳恩喬
+    id: B04200088
+    name: 陳恩喬
+    password: en
+    rating: ~
+  - Chinese: 林望凱
+    id: B04200093
+    name: 林望凱
+    password: wang
+    rating: ~
+  - Chinese: 曹若情
+    id: B04200098
+    name: 曹若情
+    password: ruo
+    rating: ~
+  - Chinese: 翁靖旻
+    id: B04200102
+    name: 翁靖旻
+    password: jing
+    rating: ~
+  - Chinese: 張馨云
+    id: B04200111
+    name: 張馨云
+    password: xin
+    rating: ~
+  - Chinese: 范子祥
+    id: B04200116
+    name: 范子祥
+    password: zi
+    rating: ~
+  - Chinese: 翁銓
+    id: B04200118
+    name: 翁銓
+    password: quan
+    rating: ~
+out:
+room: hong-603
+school: must
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 0
+  2: 5
+  3: 9
+  4: 13
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
