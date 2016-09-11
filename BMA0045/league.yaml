@@ -14,6 +14,12 @@ hwMax: 2
 id: 051BMA0045
 league: 日經管三乙
 member:
+  - Chinese: 鄭瑞陽
+    id: U0131005
+    name: 鄭瑞陽
+    password: rui
+    rating: ~
+  
   - Chinese: 黃威杰
     id: U0331101
     name: 黃威杰
@@ -53,11 +59,6 @@ member:
     id: U0331112
     name: 林佩柔
     password: pei
-    rating: ~
-  - Chinese: 羅丞宏
-    id: U0331113
-    name: 羅丞宏
-    password: cheng
     rating: ~
   - Chinese: 王鈺艷
     id: U0331114
@@ -269,7 +270,12 @@ member:
     name: 周聖棻
     password: sheng
     rating: ~
-out: ~
+out:
+  - Chinese: 羅丞宏
+    id: U0331113
+    name: 羅丞宏
+    password: cheng
+    rating: ~
 room: A706
 school: nuu
 session:
