@@ -59,11 +59,6 @@ member:
     name: 鄧景謙
     password: jing
     rating: ~
-  - Chinese: 朱銘揚
-    id: U0333015
-    name: 朱銘揚
-    password: ming
-    rating: ~
   - Chinese: 廖雅慧
     id: U0333016
     name: 廖雅慧
@@ -224,7 +219,12 @@ member:
     name: 張暄挺
     password: xuan
     rating: ~
-out: ~
+out:
+  - Chinese: 朱銘揚
+    id: U0333015
+    name: 朱銘揚
+    password: ming
+    rating: ~
 room: A706
 school: nuu
 session:
