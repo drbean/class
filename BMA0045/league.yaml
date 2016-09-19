@@ -22,22 +22,22 @@ member:
   
   - Chinese: 黃威杰
     id: U0331101
-    name: 黃威杰
+    name: WeiJie
     password: wei
     rating: ~
   - Chinese: 鄭傑
     id: U0331105
-    name: 鄭傑
+    name: Elaine
     password: jie
     rating: ~
   - Chinese: 余思樺
     id: U0331106
-    name: 余思樺
+    name: SsuHua
     password: si
     rating: ~
   - Chinese: 陳冠綾
     id: U0331108
-    name: 陳冠綾
+    name: Linda
     password: guan
     rating: ~
   - Chinese: 莊博宇
@@ -47,42 +47,42 @@ member:
     rating: ~
   - Chinese: 邱湲閔
     id: U0331110
-    name: 邱湲閔
+    name: Michelle
     password: yuan
     rating: ~
   - Chinese: 李孟儒
     id: U0331111
-    name: 李孟儒
+    name: MonLu
     password: meng
     rating: ~
   - Chinese: 林佩柔
     id: U0331112
-    name: 林佩柔
+    name: Judy
     password: pei
     rating: ~
   - Chinese: 王鈺艷
     id: U0331114
-    name: 王鈺艷
+    name: YuYan
     password: yu
     rating: ~
   - Chinese: 楊虹修
     id: U0331115
-    name: 楊虹修
+    name: Jenny
     password: hong
     rating: ~
   - Chinese: 羅紫玲
     id: U0331116
-    name: 羅紫玲
+    name: Nico
     password: zi
     rating: ~
   - Chinese: 莊雅雯
     id: U0331117
-    name: 莊雅雯
+    name: Kate
     password: ya
     rating: ~
   - Chinese: 郭耕華
     id: U0331118
-    name: 郭耕華
+    name: Steven
     password: geng
     rating: ~
   - Chinese: 古贊
@@ -92,17 +92,17 @@ member:
     rating: ~
   - Chinese: 周靖偉
     id: U0331120
-    name: 周靖偉
+    name: Jacky
     password: jing
     rating: ~
   - Chinese: 鍾丞浩
     id: U0331121
-    name: 鍾丞浩
+    name: Joe
     password: cheng
     rating: ~
   - Chinese: 孫丞甫
     id: U0331122
-    name: 孫丞甫
+    name: Jacky
     password: cheng
     rating: ~
   - Chinese: 郭姵儀
@@ -112,22 +112,22 @@ member:
     rating: ~
   - Chinese: 鄭惠婷
     id: U0331124
-    name: 鄭惠婷
+    name: Lily
     password: hui
     rating: ~
   - Chinese: 林岱緯
     id: U0331125
-    name: 林岱緯
+    name: David
     password: dai
     rating: ~
   - Chinese: 梁容禎
     id: U0331126
-    name: 梁容禎
+    name: Meji
     password: rong
     rating: ~
   - Chinese: 王町豪
     id: U0331127
-    name: 王町豪
+    name: TheWang
     password: ting
     rating: ~
   - Chinese: 陳宥瑜
@@ -137,27 +137,27 @@ member:
     rating: ~
   - Chinese: 陳俞靜
     id: U0331129
-    name: 陳俞靜
+    name: Minnie
     password: yu
     rating: ~
   - Chinese: 林佳瑜
     id: U0331130
-    name: 林佳瑜
+    name: JiaJia
     password: jia
     rating: ~
   - Chinese: 許尚雯
     id: U0331131
-    name: 許尚雯
+    name: ShangWen
     password: shang
     rating: ~
   - Chinese: 楊博翔
     id: U0331132
-    name: 楊博翔
+    name: BoShiang
     password: bo
     rating: ~
   - Chinese: 張庭菀
     id: U0331133
-    name: 張庭菀
+    name: TingWan
     password: ting
     rating: ~
   - Chinese: 李明親
@@ -167,7 +167,7 @@ member:
     rating: ~
   - Chinese: 高子佩
     id: U0331135
-    name: 高子佩
+    name: Peggy1
     password: zi
     rating: ~
   - Chinese: 方炯彤
@@ -177,97 +177,97 @@ member:
     rating: ~
   - Chinese: 林詠佳
     id: U0331137
-    name: 林詠佳
+    name: Sunny
     password: yong
     rating: ~
   - Chinese: 陳俞方
     id: U0331138
-    name: 陳俞方
+    name: YuFang
     password: yu
     rating: ~
   - Chinese: 吳珮綺
     id: U0331139
-    name: 吳珮綺
+    name: Peggy2
     password: pei
     rating: ~
   - Chinese: 鄭瑋銘
     id: U0331140
-    name: 鄭瑋銘
+    name: Eric
     password: wei
     rating: ~
   - Chinese: 潘柔安
     id: U0331141
-    name: 潘柔安
+    name: RouAn
     password: rou
     rating: ~
   - Chinese: 陳淑珍
     id: U0331142
-    name: 陳淑珍
+    name: Jane
     password: shu
     rating: ~
   - Chinese: 林丞義
     id: U0331143
-    name: 林丞義
+    name: Michael
     password: cheng
     rating: ~
   - Chinese: 黃鉦洋
     id: U0331144
-    name: 黃鉦洋
+    name: Bill
     password: zheng
     rating: ~
   - Chinese: 翁造蔚
     id: U0331145
-    name: 翁造蔚
+    name: Wei
     password: zao
     rating: ~
   - Chinese: 陳宥燕
     id: U0331146
-    name: 陳宥燕
+    name: Sherry
     password: you
     rating: ~
   - Chinese: 蔡慈涵
     id: U0331147
-    name: 蔡慈涵
+    name: Ruby
     password: ci
     rating: ~
   - Chinese: 陳柏中
     id: U0331148
-    name: 陳柏中
+    name: Brian
     password: bai
     rating: ~
   - Chinese: 李宗哲
     id: U0331149
-    name: 李宗哲
+    name: ZongChe
     password: zong
     rating: ~
   - Chinese: 潘奕瑄
     id: U0331150
-    name: 潘奕瑄
+    name: Pan
     password: yi
     rating: ~
   - Chinese: 謝宜姍
     id: U0331151
-    name: 謝宜姍
+    name: Cindy
     password: yi
     rating: ~
   - Chinese: 沈郁媚
     id: U0331153
-    name: 沈郁媚
+    name: Summer
     password: yu
     rating: ~
   - Chinese: 賴顗任
     id: U0331154
-    name: 賴顗任
+    name: Nick
     password: yi
     rating: ~
   - Chinese: 陳穎琪
     id: U0331155
-    name: 陳穎琪
+    name: YingChi
     password: ying
     rating: ~
   - Chinese: 周聖棻
     id: U0331156
-    name: 周聖棻
+    name: Fen
     password: sheng
     rating: ~
 out:
