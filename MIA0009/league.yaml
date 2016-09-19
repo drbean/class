@@ -16,162 +16,162 @@ league: 日資管三甲
 member:
   - Chinese: 陳靖中
     id: U0133016
-    name: 陳靖中
+    name: Kaven
     password: jing
     rating: ~
   - Chinese: 梁浩輝
     id: U0333005
-    name: 梁浩輝
+    name: Andrew
     password: hao
     rating: ~
   - Chinese: 戴思源
     id: U0333006
-    name: 戴思源
+    name: Sam
     password: si
     rating: ~
   - Chinese: 蔡以琳
     id: U0333009
-    name: 蔡以琳
+    name: Irene
     password: yi
     rating: ~
   - Chinese: 王維宗
     id: U0333010
-    name: 王維宗
+    name: WeiZong
     password: wei
     rating: ~
   - Chinese: 陳昭惠
     id: U0333011
-    name: 陳昭惠
+    name: ChaoHui
     password: zhao
     rating: ~
   - Chinese: 張懿誠
     id: U0333012
-    name: 張懿誠
+    name: Roy
     password: yi
     rating: ~
   - Chinese: 洪子盈
     id: U0333013
-    name: 洪子盈
+    name: Jean
     password: zi
     rating: ~
   - Chinese: 鄧景謙
     id: U0333014
-    name: 鄧景謙
+    name: Mark
     password: jing
     rating: ~
   - Chinese: 廖雅慧
     id: U0333016
-    name: 廖雅慧
+    name: YaHuei
     password: ya
     rating: ~
   - Chinese: 何書齊
     id: U0333017
-    name: 何書齊
+    name: ShuChi
     password: shu
     rating: ~
   - Chinese: 蘇新銘
     id: U0333018
-    name: 蘇新銘
+    name: Mike
     password: xin
     rating: ~
   - Chinese: 施柏辰
     id: U0333019
-    name: 施柏辰
+    name: BaiChen
     password: bai
     rating: ~
   - Chinese: 保瑞鴻
     id: U0333020
-    name: 保瑞鴻
+    name: Jim
     password: rui
     rating: ~
   - Chinese: 周俊儒
     id: U0333021
-    name: 周俊儒
+    name: ChingJu
     password: jun
     rating: ~
   - Chinese: 張家豪
     id: U0333022
-    name: 張家豪
+    name: Jerry
     password: jia
     rating: ~
   - Chinese: 林新善
     id: U0333023
-    name: 林新善
+    name: Margen
     password: xin
     rating: ~
   - Chinese: 崔遠晟
     id: U0333024
-    name: 崔遠晟
+    name: YuanCheng
     password: yuan
     rating: ~
   - Chinese: 孫笙富
     id: U0333025
-    name: 孫笙富
+    name: LBJ
     password: sheng
     rating: ~
   - Chinese: 邱忠誠
     id: U0333026
-    name: 邱忠誠
+    name: Russell
     password: zhong
     rating: ~
   - Chinese: 陳昱穎
     id: U0333027
-    name: 陳昱穎
+    name: YuYing
     password: yu
     rating: ~
   - Chinese: 陳璽安
     id: U0333028
-    name: 陳璽安
+    name: Westbrook
     password: xi
     rating: ~
   - Chinese: 翁嘉嫻
     id: U0333029
-    name: 翁嘉嫻
+    name: Rita
     password: jia
     rating: ~
   - Chinese: 林威丞
     id: U0333030
-    name: 林威丞
+    name: Johnson
     password: wei
     rating: ~
   - Chinese: 楊景翔
     id: U0333031
-    name: 楊景翔
+    name: Allen
     password: jing
     rating: ~
   - Chinese: 林冠廷
     id: U0333032
-    name: 林冠廷
+    name: Teemo
     password: guan
     rating: ~
   - Chinese: 江尚恩
     id: U0333033
-    name: 江尚恩
+    name: Sean
     password: shang
     rating: ~
   - Chinese: 林容羽
     id: U0333034
-    name: 林容羽
+    name: RongYu
     password: rong
     rating: ~
   - Chinese: 張皓雲
     id: U0333035
-    name: 張皓雲
+    name: Howard
     password: hao
     rating: ~
   - Chinese: 林姿妤
     id: U0333036
-    name: 林姿妤
+    name: Larcker
     password: zi
     rating: ~
   - Chinese: 黃湘瑜
     id: U0333038
-    name: 黃湘瑜
+    name: Kiyomi
     password: xiang
     rating: ~
   - Chinese: 潘奕均
     id: U0333039
-    name: 潘奕均
+    name: MasterLee
     password: yi
     rating: ~
   - Chinese: 張仲緯
@@ -181,42 +181,42 @@ member:
     rating: ~
   - Chinese: 蔡侑宸
     id: U0333042
-    name: 蔡侑宸
+    name: Elliot
     password: you
     rating: ~
   - Chinese: 吳珮瑜
     id: U0333044
-    name: 吳珮瑜
+    name: PeiYu
     password: pei
     rating: ~
   - Chinese: 薛尚融
     id: U0333045
-    name: 薛尚融
+    name: Allan
     password: shang
     rating: ~
   - Chinese: 劉凌翰
     id: U0333046
-    name: 劉凌翰
+    name: Han
     password: ling
     rating: ~
   - Chinese: 林尊韋
     id: U0333049
-    name: 林尊韋
+    name: ZunWei
     password: zun
     rating: ~
   - Chinese: 余信諭
     id: U0333051
-    name: 余信諭
+    name: ShinYu
     password: xin
     rating: ~
   - Chinese: 龔孟涵
     id: U0333052
-    name: 龔孟涵
+    name: MengHan
     password: meng
     rating: ~
   - Chinese: 張暄挺
     id: U0333053
-    name: 張暄挺
+    name: HsuanTing
     password: xuan
     rating: ~
 out:
