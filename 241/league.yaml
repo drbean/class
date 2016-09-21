@@ -27,7 +27,7 @@ member:
     rating: ~
   - Chinese: 蔡政龍
     id: B04200001
-    name: 蔡政龍
+    name: Barry
     password: zheng
     rating: ~
   - Chinese: 戴亞暄
@@ -57,7 +57,7 @@ member:
     rating: ~
   - Chinese: 林罁茹
     id: B04200029
-    name: 林罁茹
+    name: LuLu
     password: gang
     rating: ~
   - Chinese: 陳皓蓉
@@ -77,7 +77,7 @@ member:
     rating: ~
   - Chinese: 董嘉詩
     id: B04200048
-    name: 董嘉詩
+    name: Peggy
     password: jia
     rating: ~
   - Chinese: 黃雅君
@@ -102,12 +102,12 @@ member:
     rating: ~
   - Chinese: 戴家芸
     id: B04200072
-    name: 戴家芸
+    name: Debby
     password: jia
     rating: ~
   - Chinese: 陳冠中
     id: B04200081
-    name: 陳冠中
+    name: KuanChung
     password: guan
     rating: ~
   - Chinese: 陳恩喬
@@ -127,7 +127,7 @@ member:
     rating: ~
   - Chinese: 翁靖旻
     id: B04200102
-    name: 翁靖旻
+    name: Sunny
     password: jing
     rating: ~
   - Chinese: 張馨云
