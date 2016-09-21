@@ -9,6 +9,7 @@ topic: vacation
   p: 3
 1-3:
   tardy:
+    - Michelle
   absent:
     - 陳冠中
   merits: ~
@@ -54,6 +55,7 @@ topic: vacation
   p: 3
 4-2:
   tardy:
+    - Sally
   absent:
     - 蔡政龍
   merits: ~
