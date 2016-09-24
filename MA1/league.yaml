@@ -1,0 +1,201 @@
+---
+absent: ~
+anterior: 041AFN2MB1
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 英語會話(一)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 051AFN2MA1
+jigsaw: exam
+league: NAF021四技外二甲
+member:
+  - Chinese: 蕭婷元
+    id: N04083101
+    name: 蕭婷元
+    password: ting
+    rating: ~
+  - Chinese: 戴涵盈
+    id: N01200030
+    name: 戴涵盈
+    password: han
+    rating: ~
+  - Chinese: 陳怡芳
+    id: N01200049
+    name: 陳怡芳
+    password: yi
+    rating: ~
+  - Chinese: 劉怡甄
+    id: N02202107
+    name: 劉怡甄
+    password: yi
+    rating: ~
+  - Chinese: 許雅晶
+    id: N03203104
+    name: 許雅晶
+    password: ya
+    rating: ~
+  - Chinese: 林冠宏
+    id: N03203201
+    name: 林冠宏
+    password: guan
+    rating: ~
+  - Chinese: 鄭惠云
+    id: N01200047
+    name: 鄭惠云
+    password: hui
+    rating: ~
+  - Chinese: 張育慈
+    id: N04200002
+    name: 張育慈
+    password: yu
+    rating: ~
+  - Chinese: 范雅惠
+    id: N04200004
+    name: 范雅惠
+    password: ya
+    rating: ~
+  - Chinese: 劉媺莉
+    id: N04200007
+    name: 劉媺莉
+    password: mei
+    rating: ~
+  - Chinese: 葉珮玟
+    id: N04200009
+    name: 葉珮玟
+    password: pei
+    rating: ~
+  - Chinese: 郭士毓
+    id: N04200011
+    name: 郭士毓
+    password: shi
+    rating: ~
+  - Chinese: 湯奕婷
+    id: N04200013
+    name: 湯奕婷
+    password: yi
+    rating: ~
+  - Chinese: 崔粲
+    id: N04200016
+    name: 崔粲
+    password: can
+    rating: ~
+  - Chinese: 涂麗萍
+    id: N04200018
+    name: 涂麗萍
+    password: li
+    rating: ~
+  - Chinese: 楊豐駿
+    id: N04200021
+    name: 楊豐駿
+    password: feng
+    rating: ~
+  - Chinese: 戴琪如
+    id: N04200024
+    name: 戴琪如
+    password: qi
+    rating: ~
+  - Chinese: 葉縵琳
+    id: N04200026
+    name: 葉縵琳
+    password: man
+    rating: ~
+  - Chinese: 何冠豪
+    id: N04200031
+    name: 何冠豪
+    password: guan
+    rating: ~
+  - Chinese: 曾瑜
+    id: N04200035
+    name: 曾瑜
+    password: yu
+    rating: ~
+  - Chinese: 陳祺葶
+    id: N04200038
+    name: 陳祺葶
+    password: qi
+    rating: ~
+  - Chinese: 陳昱嘉
+    id: N04200042
+    name: 陳昱嘉
+    password: yu
+    rating: ~
+  - Chinese: 張書毓
+    id: N04200044
+    name: 張書毓
+    password: shu
+    rating: ~
+  - Chinese: 柏雅馨
+    id: N04200046
+    name: 柏雅馨
+    password: ya
+    rating: ~
+  - Chinese: 劉弘浩
+    id: N04200048
+    name: 劉弘浩
+    password: hong
+    rating: ~
+  - Chinese: 羅芷仙
+    id: N04200050
+    name: 羅芷仙
+    password: zhi
+    rating: ~
+  - Chinese: 范佑綾
+    id: N04200052
+    name: 范佑綾
+    password: you
+    rating: ~
+  - Chinese: 徐嘉鴻
+    id: N04200054
+    name: 徐嘉鴻
+    password: jia
+    rating: ~
+  - Chinese: 吳沛慈
+    id: N04200056
+    name: 吳沛慈
+    password: pei
+    rating: ~
+  - Chinese: 宋文豪
+    id: N04200059
+    name: 宋文豪
+    password: wen
+    rating: ~
+  - Chinese: 張偉聲
+    id: N04200061
+    name: 張偉聲
+    password: wei
+    rating: ~
+  - Chinese: 吳慶翎
+    id: N05202102
+    name: 吳慶翎
+    password: qing
+    rating: ~
+  - Chinese: 吳政桓
+    id: N05202104
+    name: 吳政桓
+    password: zheng
+    rating: ~
+out: ~
+room: A705
+school: must
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 0
+  2: 5
+  3: 9
+  4: 13
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
