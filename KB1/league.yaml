@@ -1,0 +1,181 @@
+---
+absent: ~
+anterior: 041AFN2KB1
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 基礎英文寫作(一)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 051AFN2KB1
+jigsaw: exam
+league: NAF021__四技外二甲
+member:
+  - Chinese: 張羽綺
+    id: N04203106
+    name: 張羽綺
+    password: yu
+    rating: ~
+  - Chinese: 鄧如芸
+    id: N03200006
+    name: 鄧如芸
+    password: ru
+    rating: ~
+  - Chinese: 王顥臻
+    id: N03200008
+    name: 王顥臻
+    password: hao
+    rating: ~
+  - Chinese: 潘韻宇
+    id: N03200030
+    name: 潘韻宇
+    password: yun
+    rating: ~
+  - Chinese: 萬筱微
+    id: N03200034
+    name: 萬筱微
+    password: xiao
+    rating: ~
+  - Chinese: 羅紘璿
+    id: N04200001
+    name: 羅紘璿
+    password: hong
+    rating: ~
+  - Chinese: 鍾慧美
+    id: N04200003
+    name: 鍾慧美
+    password: hui
+    rating: ~
+  - Chinese: 謝旭棻
+    id: N04200005
+    name: 謝旭棻
+    password: xu
+    rating: ~
+  - Chinese: 鍾淑君
+    id: N042000010
+    name: 鍾淑君
+    password: shu
+    rating: ~
+  - Chinese: 潘詩雯
+    id: N04200012
+    name: 潘詩雯
+    password: shi
+    rating: ~
+  - Chinese: 曾夢瑤
+    id: N04200014
+    name: 曾夢瑤
+    password: meng
+    rating: ~
+  - Chinese: 吳英雄
+    id: N04200017
+    name: 吳英雄
+    password: ying
+    rating: ~
+  - Chinese: 鄧育慧
+    id: N04200019
+    name: 鄧育慧
+    password: yu
+    rating: ~
+  - Chinese: 卓園園
+    id: N04200022
+    name: 卓園園
+    password: yuan
+    rating: ~
+  - Chinese: 張偉慈
+    id: N04200025
+    name: 張偉慈
+    password: wei
+    rating: ~
+  - Chinese: 彭婉晴
+    id: N04200029
+    name: 彭婉晴
+    password: wan
+    rating: ~
+  - Chinese: 彭如菁
+    id: N04200032
+    name: 彭如菁
+    password: ru
+    rating: ~
+  - Chinese: 林品辰
+    id: N04200036
+    name: 林品辰
+    password: pin
+    rating: ~
+  - Chinese: 杜立堯
+    id: N04200041
+    name: 杜立堯
+    password: li
+    rating: ~
+  - Chinese: 陳嘉煒
+    id: N04200043
+    name: 陳嘉煒
+    password: jia
+    rating: ~
+  - Chinese: 李修瑋
+    id: N04200045
+    name: 李修瑋
+    password: xiu
+    rating: ~
+  - Chinese: 鍾旻宸
+    id: N04200049
+    name: 鍾旻宸
+    password: min
+    rating: ~
+  - Chinese: 彭彥翔
+    id: N04200051
+    name: 彭彥翔
+    password: yan
+    rating: ~
+  - Chinese: 余郁姍
+    id: N04200053
+    name: 余郁姍
+    password: yu
+    rating: ~
+  - Chinese: 鄭孟浩
+    id: N04200055
+    name: 鄭孟浩
+    password: meng
+    rating: ~
+  - Chinese: 葉王翎
+    id: N04200057
+    name: 葉王翎
+    password: wang
+    rating: ~
+  - Chinese: 彭姿燕
+    id: N04200060
+    name: 彭姿燕
+    password: zi
+    rating: ~
+  - Chinese: 鄒采妘
+    id: N05202101
+    name: 鄒采妘
+    password: cai
+    rating: ~
+  - Chinese: 王姿穎
+    id: N05202103
+    name: 王姿穎
+    password: zi
+    rating: ~
+out:
+room: A705
+school: must
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 0
+  2: 5
+  3: 9
+  4: 13
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
