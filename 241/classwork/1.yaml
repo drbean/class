@@ -11,7 +11,7 @@ topic: vacation
   tardy:
     - Michelle
   absent:
-    - 陳冠中
+    - KuanChung
   merits: ~
   p: 3
 2-1:
@@ -22,8 +22,8 @@ topic: vacation
 2-2:
   tardy:
   absent:
-    - 董嘉詩
-    - 林罁茹
+    - Peggy
+    - LuLu
   merits: ~
   p: 3
 2-3:
@@ -57,7 +57,7 @@ topic: vacation
   tardy:
     - Sally
   absent:
-    - 蔡政龍
+    - Barry
   merits: ~
   p: 3
 4-3:
@@ -73,7 +73,7 @@ topic: vacation
 5-3:
   tardy:
   absent:
-    - 翁靖旻
-    - 戴家芸
+    - Sunny
+    - Debby
   merits: ~
   p: 3
