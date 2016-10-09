@@ -15,11 +15,6 @@ id: 051AFN2MA1
 jigsaw: exam
 league: NAF021四技外二甲
 member:
-  - Chinese: 蕭婷元
-    id: N04083101
-    name: Joan
-    password: ting
-    rating: ~
   - Chinese: 戴涵盈
     id: N01200030
     name: Jimmy
@@ -180,7 +175,12 @@ member:
     name: Brian
     password: zheng
     rating: ~
-out: ~
+out:
+  - Chinese: 蕭婷元
+    id: N04083101
+    name: Joan
+    password: ting
+    rating: ~
 room: A705
 school: must
 scores:
