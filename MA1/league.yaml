@@ -15,6 +15,12 @@ id: 051AFN2MA1
 jigsaw: exam
 league: NAF021四技外二甲
 member:
+  - Chinese: 江丞凱
+    id: B02200031
+    name: Pizza
+    password: cheng
+    rating: ~
+
   - Chinese: 戴涵盈
     id: N01200030
     name: Jimmy
