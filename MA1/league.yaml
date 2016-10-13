@@ -15,6 +15,12 @@ id: 051AFN2MA1
 jigsaw: exam
 league: NAF021四技外二甲
 member:
+  - Chinese: 童佳琪
+    id: B02100046
+    name: Teresa
+    password: jia
+    rating: ~
+
   - Chinese: 江丞凱
     id: B02200031
     name: Pizza
