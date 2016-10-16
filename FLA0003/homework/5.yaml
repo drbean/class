@@ -1,0 +1,190 @@
+---
+cutpoints:
+  loser: 2
+  quitter: 1
+  winner: 2
+exercise: fire
+grade:
+  V0241008: 2
+  V0341001: 2
+  V0341005: 0
+  V0341011: 2
+  V0341015: 1
+  V0341019: 1
+  V0341024: 2
+  V0341027: 2
+  V0341033: 1
+  V0341035: 2
+  V0341037: 2
+  V0341044: 2
+  V0341052: 2
+points:
+  V0241008:
+    Wh:
+      answers: 1
+      questions: 0
+      attempts: 14
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341001:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 3
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341005:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0341011:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 5
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341015:
+    Wh:
+      answers: 1
+      questions: 0
+      attempts: 5
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341019:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 9
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341024:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 10
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341027:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 7
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341033:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 8
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341035:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 4
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341037:
+    Wh:
+      answers: 2
+      questions: 0
+      attempts: 10
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 1
+      questions: 0
+      attempts: 10
+  V0341044:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 11
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341052:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 12
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
