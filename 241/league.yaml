@@ -35,11 +35,6 @@ member:
     name: Milly
     password: ya
     rating: ~
-  - Chinese: 林湘瑀
-    id: B04200010
-    name: 林湘瑀
-    password: xiang
-    rating: ~
   - Chinese: 康雅婷
     id: B04200015
     name: Michelle
@@ -140,12 +135,17 @@ member:
     name: Eros
     password: zi
     rating: ~
+out:
+  - Chinese: 林湘瑀
+    id: B04200010
+    name: 林湘瑀
+    password: xiang
+    rating: ~
   - Chinese: 翁銓
     id: B04200118
     name: 翁銓
     password: quan
     rating: ~
-out:
 room: hong-603
 school: must
 scores:
@@ -157,9 +157,6 @@ scores:
   win: 5
 session:
   1: 0
-  2: 5
-  3: 9
-  4: 13
 weights:
   classwork: 40
   exams: 20
