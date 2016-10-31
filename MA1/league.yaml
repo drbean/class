@@ -34,7 +34,7 @@ member:
     rating: ~
   - Chinese: 陳怡芳
     id: N01200049
-    name: 陳怡芳
+    name: Yvonne
     password: yi
     rating: ~
   - Chinese: 劉怡甄
@@ -54,7 +54,7 @@ member:
     rating: ~
   - Chinese: 鄭惠云
     id: N01200047
-    name: 鄭惠云
+    name: Summer
     password: hui
     rating: ~
   - Chinese: 張育慈
@@ -82,11 +82,6 @@ member:
     name: ShihYu
     password: shi
     rating: ~
-  - Chinese: 湯奕婷
-    id: N04200013
-    name: 湯奕婷
-    password: yi
-    rating: ~
   - Chinese: 崔粲
     id: N04200016
     name: Tsan
@@ -99,7 +94,7 @@ member:
     rating: ~
   - Chinese: 楊豐駿
     id: N04200021
-    name: 楊豐駿
+    name: Karry
     password: feng
     rating: ~
   - Chinese: 戴琪如
@@ -127,14 +122,9 @@ member:
     name: ChiTing
     password: qi
     rating: ~
-  - Chinese: 陳昱嘉
-    id: N04200042
-    name: 陳昱嘉
-    password: yu
-    rating: ~
   - Chinese: 張書毓
     id: N04200044
-    name: 張書毓
+    name: John
     password: shu
     rating: ~
   - Chinese: 柏雅馨
@@ -172,6 +162,22 @@ member:
     name: WenHao
     password: wen
     rating: ~
+  - Chinese: 吳政桓
+    id: N05202104
+    name: Brian
+    password: zheng
+    rating: ~
+out:
+  - Chinese: 湯奕婷
+    id: N04200013
+    name: 湯奕婷
+    password: yi
+    rating: ~
+  - Chinese: 陳昱嘉
+    id: N04200042
+    name: 陳昱嘉
+    password: yu
+    rating: ~
   - Chinese: 張偉聲
     id: N04200061
     name: 張偉聲
@@ -182,12 +188,6 @@ member:
     name: 吳慶翎
     password: qing
     rating: ~
-  - Chinese: 吳政桓
-    id: N05202104
-    name: Brian
-    password: zheng
-    rating: ~
-out:
   - Chinese: 蕭婷元
     id: N04083101
     name: Joan
