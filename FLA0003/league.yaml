@@ -218,8 +218,7 @@ room: A705
 school: nuu
 session:
   1: 1
-  2: 6
-  3: 8
+  2: 8
 weights:
   classwork: 40
   exams: 20
