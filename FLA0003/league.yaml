@@ -17,12 +17,12 @@ league: 夜應外二甲
 member:
   - Chinese: 廖家成
     id: U0143020
-    name: Andy2
+    name: Andy3
     password: jia
     rating: ~
   - Chinese: 吳思賢
     id: V0241017
-    name: Andy1
+    name: Andy2
     password: si
     rating: ~
   - Chinese: 吳恩維
@@ -57,7 +57,7 @@ member:
     rating: ~
   - Chinese: 劉家瑋
     id: V0341031
-    name: Andy
+    name: Andy1
     password: jia
     rating: ~
   - Chinese: 李彥熾
