@@ -20,11 +20,6 @@ member:
     password: qiao
     rating: ~
 
-  - Chinese: 陳珮文
-    id: V0141050
-    name: 陳珮文
-    password: pei
-    rating: ~
   - Chinese: 施其儀
     id: V0241004
     name: Jackie
@@ -111,6 +106,11 @@ member:
     password: wei
     rating: ~
 out:
+  - Chinese: 陳珮文
+    id: V0141050
+    name: 陳珮文
+    password: pei
+    rating: ~
 room: A705
 school: nuu
 session:
