@@ -25,11 +25,6 @@ member:
     name: Andy2
     password: si
     rating: ~
-  - Chinese: 吳恩維
-    id: V0341004
-    name: Eric1
-    password: en
-    rating: ~
   - Chinese: 葉芳成
     id: V0341010
     name: Toby
@@ -158,11 +153,6 @@ cohort:
       name: Andy1
       password: si
       rating: ~
-    - Chinese: 吳恩維
-      id: V0341004
-      name: Eric1
-      password: en
-      rating: ~
     - Chinese: 葉芳成
       id: V0341010
       name: Toby
@@ -213,7 +203,12 @@ cohort:
       name: Gina
       password: si
       rating: ~
-out: ~
+out:
+  - Chinese: 吳恩維
+    id: V0341004
+    name: Eric1
+    password: en
+    rating: ~
 room: A705
 school: nuu
 session:
