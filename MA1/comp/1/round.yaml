@@ -1,0 +1,93 @@
+---
+activity:
+  bezos:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+  sivers:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+  novogratz:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+assistant:
+  4-2:
+    N02202107: 5
+bye: N01200049
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: N04200035
+    Black: N04200048
+  2:
+    White: N04200054
+    Black: N04200002
+  3:
+    White: N04200052
+    Black: N04200031
+  4:
+    White: N03203201
+    Black: N04200016
+  5:
+    White: N04200011
+    Black: N04200004
+  6:
+    White: N04200046
+    Black: N04200009
+  7:
+    White: N03203104
+    Black: N04200050
+  8:
+    White: N04200038
+    Black: N04200026
+  9:
+    White: N04200007
+    Black: N04200024
+  10:
+    White: N04200018
+    Black: N04200044
+  11:
+    White: N04200021
+    Black: N05202104
+  12:
+    White: N01200030
+    Black: N04200056
+late:
+pairing: swiss
+payprotocol: meritPay
+round: 1
+text: /home/drbean/curriculum/conversation/volunteer/cards.yaml
+week: ~

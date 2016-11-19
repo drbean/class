@@ -1,0 +1,77 @@
+---
+round: Exam 1
+week: 9
+questions:
+  - 3
+pass: 1
+assistant:
+  - Jimmy
+  - James
+  - John
+  - Doris
+absent:
+  - Pizza
+  - Teresa
+  - WenHao
+  - Summer
+text: /home/drbean/curriculum/conversation/volunteer/cards.yaml
+activity:
+  bezos:
+    0:
+      - 1-2
+      - 2-1
+      - 3-1
+  sivers:
+    0:
+      - 2-2
+      - 2-3
+      - 4-1
+  jane:
+    0:
+      - 1-1
+      - 3-2
+      - 3-3
+      - 4-2
+
+
+group:
+  1-1:
+    - ManLin
+    - Jimmy
+    - Amber
+  1-2:
+    - ChiRu
+    - Yvonne
+    - Lilyan
+  2-3:
+    - James
+    - John
+    - Howard
+  3-3:
+    - Guan
+    - Milly
+    - YouLing
+  2-1:
+    - John
+    - Cathy
+    - James
+  2-2:
+    - Jimmy
+    - ShihYu
+    - Elain
+  3-1:
+    - Tsan
+    - ChiTing
+    - Karry
+  3-2:
+    - ChihHsien
+    - Doris
+    - YuCih
+  4-1:
+    - PeiWen
+    - GuanHao
+    - Brian
+  4-2:
+    - Doris
+    - Amy
+    - YuWen
