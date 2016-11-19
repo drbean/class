@@ -157,17 +157,17 @@ member:
     name: Amber
     password: pei
     rating: ~
-  - Chinese: 宋文豪
-    id: N04200059
-    name: WenHao
-    password: wen
-    rating: ~
   - Chinese: 吳政桓
     id: N05202104
     name: Brian
     password: zheng
     rating: ~
 out:
+  - Chinese: 宋文豪
+    id: N04200059
+    name: WenHao
+    password: wen
+    rating: ~
   - Chinese: 湯奕婷
     id: N04200013
     name: 湯奕婷
