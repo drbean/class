@@ -1,37 +1,49 @@
 ---
-1-2:
-  - Sally
-  - Kevin
-1-3:
-  - EnChiao
-  - Barry
-2-1:
-  - Winnie
-  - YanZeng
-2-2:
-  - Sunny
-  - YuChing
-2-3:
+Ethan:
   - Ethan
-  - Debby
-3-1:
-  - LuLu
-  - Angela
-3-2:
-  - Nancy
-  - Katie
-3-3:
-  - Milly
-  - Michelle
-4-1:
-  - Tiffany
-  - David
-4-2:
-  - Peggy
-  - KuanChung
-5-1:
+Nathan:
   - Nathan
-  - Eros
-5-2:
+Barry:
+  - Barry
+Milly:
+  - Milly
+Michelle:
+  - Michelle
+Amber:
   - Amber
+YanZeng:
+  - YanZeng
+LuLu:
+  - LuLu
+Katie:
+  - Katie
+Angela:
+  - Angela
+Sally:
+  - Sally
+Peggy:
+  - Peggy
+Winnie:
+  - Winnie
+YuChing:
+  - YuChing
+CheYuan:
   - CheYuan
+Kevin:
+  - Kevin
+Debby:
+  - Debby
+KuanChung:
+  - KuanChung
+EnChiao:
+  - EnChiao
+David:
+  - David
+Tiffany:
+  - Tiffany
+Sunny:
+  - Sunny
+Nancy:
+  - Nancy
+Eros:
+  - Eros
