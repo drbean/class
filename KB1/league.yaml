@@ -42,7 +42,7 @@ member:
     rating: ~
   - Chinese: 羅紘璿
     id: N04200001
-    name: Tomy
+    name: Tony
     password: hong
     rating: ~
   - Chinese: 鍾慧美
@@ -72,13 +72,8 @@ member:
     rating: ~
   - Chinese: 吳英雄
     id: N04200017
-    name: 吳英雄
+    name: Hero
     password: ying
-    rating: ~
-  - Chinese: 鄧育慧
-    id: N04200019
-    name: 鄧育慧
-    password: yu
     rating: ~
   - Chinese: 卓園園
     id: N04200022
@@ -97,23 +92,13 @@ member:
     rating: ~
   - Chinese: 彭如菁
     id: N04200032
-    name: 彭如菁
+    name: RuJing
     password: ru
-    rating: ~
-  - Chinese: 林品辰
-    id: N04200036
-    name: 林品辰
-    password: pin
     rating: ~
   - Chinese: 杜立堯
     id: N04200041
     name: Levi
     password: li
-    rating: ~
-  - Chinese: 陳嘉煒
-    id: N04200043
-    name: 陳嘉煒
-    password: jia
     rating: ~
   - Chinese: 李修瑋
     id: N04200045
@@ -130,14 +115,9 @@ member:
     name: YanXiang
     password: yan
     rating: ~
-  - Chinese: 余郁姍
-    id: N04200053
-    name: 余郁姍
-    password: yu
-    rating: ~
   - Chinese: 鄭孟浩
     id: N04200055
-    name: 鄭孟浩
+    name: Ivan
     password: meng
     rating: ~
   - Chinese: 葉王翎
@@ -152,7 +132,7 @@ member:
     rating: ~
   - Chinese: 鄒采妘
     id: N05202101
-    name: 鄒采妘
+    name: Lulu
     password: cai
     rating: ~
   - Chinese: 王姿穎
@@ -161,6 +141,26 @@ member:
     password: zi
     rating: ~
 out:
+  - Chinese: 鄧育慧
+    id: N04200019
+    name: 鄧育慧
+    password: yu
+    rating: ~
+  - Chinese: 林品辰
+    id: N04200036
+    name: 林品辰
+    password: pin
+    rating: ~
+  - Chinese: 陳嘉煒
+    id: N04200043
+    name: 陳嘉煒
+    password: jia
+    rating: ~
+  - Chinese: 余郁姍
+    id: N04200053
+    name: 余郁姍
+    password: yu
+    rating: ~
 room: A705
 school: must
 scores:
@@ -171,10 +171,8 @@ scores:
   loss: 3
   win: 5
 session:
-  1: 0
-  2: 5
-  3: 9
-  4: 13
+  1: 1
+  2: 6
 weights:
   classwork: 40
   exams: 20
