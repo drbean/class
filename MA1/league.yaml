@@ -205,8 +205,7 @@ scores:
 session:
   1: 0
   2: 5
-  3: 9
-  4: 13
+  3: 10
 weights:
   classwork: 40
   exams: 20
