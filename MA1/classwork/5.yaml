@@ -1,51 +1,59 @@
 ---
-Teresa:
-  merits: 1.00
-Pizza:
-  merits: 3.80
-Jimmy:
-  merits: 4.00
+Amber:
+  merits: 62.5
 Amy:
-  merits: 5.80
-Milly:
-  merits: 2.00
-Guan:
-  merits: 0.00
-YuCih:
-  merits: 0.60
+  merits: 72.5
+Brian:
+  merits: 100
+Cathy:
+  merits: 15
+ChiRu:
+  merits: 20
+ChiTing:
+  merits: 45
+ChihHsien:
+  merits: 12.5
+Doris:
+  merits: 62.5
 Elain:
-  merits: 0.00
+  merits: 0
+Guan:
+  merits: 0
+GuanHao:
+  merits: 32.5
+Howard:
+  merits: 25
+James:
+  merits: 15
+Jimmy:
+  merits: 50
+John:
+  merits: 0
+Karry:
+  merits: 0
 Lilyan:
-  merits: 6.00
+  merits: 75
+ManLin:
+  merits: 80
+Milly:
+  merits: 25
 PeiWen:
-  merits: 0.00
+  merits: 0
+Pizza:
+  merits: 47.5
 ShihYu:
   merits: 0
+Summer:
+  merits: 0
+Teresa:
+  merits: 12.5
 Tsan:
-  merits: 2.80
-Cathy:
-  merits: 1.20
-ChiRu:
-  merits: 1.60
-ManLin:
-  merits: 6.40
-GuanHao:
-  merits: 2.60
+  merits: 35
+YouLing:
+  merits: 45
+YuCih:
+  merits: 7.5
 YuWen:
   merits: 0
-ChiTing:
-  merits: 3.60
-Doris:
-  merits: 5.00
-James:
-  merits: 1.20
-ChihHsien:
-  merits: 1.00
-YouLing:
-  merits: 3.60
-Howard:
-  merits: 2.00
-Amber:
-  merits: 5.00
-Brian:
-  merits: 8.00
+Yvonne:
+  merits: 0
