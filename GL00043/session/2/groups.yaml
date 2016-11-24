@@ -1,25 +1,28 @@
 ---
 1-1:
-  - Eva
-  - Tiffany
-  - Lin
-1-2:
-  - Lucy1
-  - Luna
-  - Andy
-1-3:
-  - Johnny
-  - Jason
-  - Justin
-2-4:
-  - Christine
-  - Hubert
-  - Frank
-3-1:
-  - Mandy
-  - Tim
-  - Melody
-3-2:
-  - Daniel
   - Mark
+  - Johnny
+1-2:
+  - Tiffany
+  - Justin
+1-3:
+  - Luna
+  - Daniel
+2-1:
+  - Mandy
   - Lucy2
+2-2:
+  - Lin
+  - Lucy1
+3-1:
+  - Eva
+  - Hubert
+3-2:
+  - Tim
+  - Frank
+4-1:
+  - Christine
+  - Jason
+4-2:
+  - Andy
+  - Melody
