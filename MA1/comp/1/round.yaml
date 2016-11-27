@@ -87,7 +87,7 @@ group:
     Black: N04200056
 late:
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 1
 round: 1
 text: /home/drbean/curriculum/conversation/volunteer/cards.yaml
 week: ~
