@@ -1,59 +1,59 @@
 ---
 Amber:
-  merits: 62.5
+  merits: 100
 Amy:
-  merits: 72.5
+  merits: 100
 Brian:
   merits: 100
 Cathy:
-  merits: 15
+  merits: 60
 ChiRu:
-  merits: 20
+  merits: 60
 ChiTing:
-  merits: 45
-ChihHsien:
-  merits: 12.5
-Doris:
-  merits: 62.5
-Elain:
-  merits: 0
-Guan:
-  merits: 0
-GuanHao:
-  merits: 32.5
-Howard:
-  merits: 25
-James:
-  merits: 15
-Jimmy:
-  merits: 50
-John:
-  merits: 0
-Karry:
-  merits: 0
-Lilyan:
-  merits: 75
-ManLin:
   merits: 80
+ChihHsien:
+  merits: 60
+Doris:
+  merits: 100
+Elain:
+  merits: 60
+Guan:
+  merits: 60
+GuanHao:
+  merits: 80
+Howard:
+  merits: 60
+James:
+  merits: 60
+Jimmy:
+  merits: 80
+John:
+  merits: 60
+Karry:
+  merits: 60
+Lilyan:
+  merits: 100
+ManLin:
+  merits: 100
 Milly:
-  merits: 25
+  merits: 60
 PeiWen:
-  merits: 0
+  merits: 60
 Pizza:
-  merits: 47.5
+  merits: 80
 ShihYu:
-  merits: 0
+  merits: 60
 Summer:
-  merits: 0
+  merits: 60
 Teresa:
-  merits: 12.5
+  merits: 60
 Tsan:
-  merits: 35
+  merits: 80
 YouLing:
-  merits: 45
+  merits: 80
 YuCih:
-  merits: 7.5
+  merits: 60
 YuWen:
-  merits: 0
+  merits: 60
 Yvonne:
-  merits: 0
+  merits: 60
