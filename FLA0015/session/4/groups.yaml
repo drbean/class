@@ -1,25 +1,28 @@
 ---
 1-1:
-  - Lily
-  - Abby
-  - Fiona
-1-2:
-  - Josh
   - Irene
-  - Jackie
-2-1:
-  - Tina
+  - Rita
+1-2:
   - Ellie
   - Winnie
-2-2:
-  - Rita
-  - Nancy
+1-3:
+  - Josh
+  - Lily
+2-1:
+  - Abby
   - Nina
-3-1:
-  - Cherry
-  - Jason
-  - Penny
-3-2:
-  - Janice
-  - Kevin
+2-2:
+  - Tina
   - Andy1
+3-1:
+  - Janice
+  - Fiona
+3-2:
+  - Jason
+  - Kevin
+4-1:
+  - Nancy
+  - Cherry
+4-2:
+  - Penny
+  - Jackie
