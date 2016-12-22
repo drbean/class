@@ -70,11 +70,6 @@ member:
     name: Becca
     password: meng
     rating: ~
-  - Chinese: 吳英雄
-    id: N04200017
-    name: Hero
-    password: ying
-    rating: ~
   - Chinese: 卓園園
     id: N04200022
     name: Roundy
@@ -141,6 +136,11 @@ member:
     password: zi
     rating: ~
 out:
+  - Chinese: 吳英雄
+    id: N04200017
+    name: Hero
+    password: ying
+    rating: ~
   - Chinese: 鄧育慧
     id: N04200019
     name: 鄧育慧
@@ -174,6 +174,7 @@ session:
   1: 1
   2: 6
   3: 10
+  4: 14
 weights:
   classwork: 40
   exams: 20
