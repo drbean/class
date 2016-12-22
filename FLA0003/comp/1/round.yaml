@@ -1,0 +1,37 @@
+---
+activity:
+  '':
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+assistant:
+  1-2:
+    V0341027: 5
+bye: V0341011
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: V0341005
+    Black: V0341037
+  2:
+    White: V0241008
+    Black: V0341052
+  3:
+    White: V0341015
+    Black: V0341001
+  4:
+    White: V0341024
+    Black: V0341019
+  5:
+    White: V0341035
+    Black: V0341033
+late:
+pairing: swiss
+payprotocol: meritPay 2
+round: 1
+text: /home/drbean/curriculum/conversation/volunteer/cards.yaml
+week: 9

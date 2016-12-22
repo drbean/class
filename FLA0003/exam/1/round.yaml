@@ -1,0 +1,48 @@
+---
+round: Exam 1
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+  - Toyz
+  - Lily
+  - Johnson
+absent:
+  - Shelli
+text: /home/drbean/curriculum/conversation/volunteer/cards.yaml
+activity:
+  bezos:
+    0:
+      - 1-1
+  sivers:
+    0:
+      - 2-1
+      - 2-2
+  jane:
+    0:
+      - 1-2
+      - 3-1
+
+
+group:
+  1-1:
+    - Tina
+    - Johnson
+    - Eric2
+  1-2:
+    - Lily
+    - Winnie
+    - Sherry
+  2-1:
+    - Jessie
+    - Shelli
+    - Toyz
+  2-2:
+    - Bamboo
+    - David
+    - Lily
+  3-1:
+    - Nora
+    - Antonio
+    - Toyz
