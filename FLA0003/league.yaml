@@ -3,7 +3,7 @@ absent: ~
 active: ~
 anterior: 041FLA0008
 approach: GroupworkNoFault
-classMax: 3
+classMax: 100
 compcomp: comp
 examMax: 5
 exams: exam
@@ -213,7 +213,6 @@ room: A705
 school: nuu
 session:
   1: 1
-  2: 8
 weights:
   classwork: 40
   exams: 20
