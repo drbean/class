@@ -15,17 +15,6 @@ id: 051AFN2MA1
 jigsaw: exam
 league: NAF021四技外二甲
 member:
-  - Chinese: 童佳琪
-    id: B02100046
-    name: Teresa
-    password: jia
-    rating: ~
-
-  - Chinese: 江丞凱
-    id: B02200031
-    name: Pizza
-    password: cheng
-    rating: ~
 
   - Chinese: 戴涵盈
     id: N01200030
@@ -51,11 +40,6 @@ member:
     id: N03203201
     name: Guan
     password: guan
-    rating: ~
-  - Chinese: 鄭惠云
-    id: N01200047
-    name: Summer
-    password: hui
     rating: ~
   - Chinese: 張育慈
     id: N04200002
@@ -163,6 +147,24 @@ member:
     password: zheng
     rating: ~
 out:
+  - Chinese: 鄭惠云
+    id: N01200047
+    name: Summer
+    password: hui
+    rating: ~
+
+  - Chinese: 童佳琪
+    id: B02100046
+    name: Teresa
+    password: jia
+    rating: ~
+
+  - Chinese: 江丞凱
+    id: B02200031
+    name: Pizza
+    password: cheng
+    rating: ~
+
   - Chinese: 宋文豪
     id: N04200059
     name: WenHao
