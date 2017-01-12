@@ -4,7 +4,8 @@ active: ~
 anterior: 051BMA0045
 approach: GroupworkNoFault
 classMax: 3
-examMax: 100
+compcomp: comp
+examMax: 5
 exams: exam
 field: 英文(一)
 group: session
