@@ -1,0 +1,49 @@
+---
+round: Exam 1
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+absent:
+text: /home/drbean/curriculum/conversation/volunteer/cards.yaml
+activity:
+  bezos:
+    0:
+      - 1-3
+      - 3-2
+  sivers:
+    0:
+      - 1-1
+      - 3-1
+  jane:
+    0:
+      - 1-2
+      - 2-4
+
+
+group:
+  1-1:
+    - Eva
+    - Tiffany
+    - Lin
+  1-2:
+    - Lucy1
+    - Luna
+    - Andy
+  1-3:
+    - Johnny
+    - Jason
+    - Justin
+  2-4:
+    - Christine
+    - Hubert
+    - Frank
+  3-1:
+    - Mandy
+    - Tim
+    - Melody
+  3-2:
+    - Daniel
+    - Mark
+    - Lucy2

@@ -1,0 +1,72 @@
+---
+activity:
+  bezos:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+  sivers:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+  novogratz:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+assistant: ~
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: U0516029
+    Black: U0534033
+  1:
+    White: U0534048
+    Black: U0531144
+  2:
+    White: U0517046
+    Black: U0533003
+  3:
+    White: U0516044
+    Black: U0534047
+  4:
+    White: U0557037
+    Black: U0533016
+  5:
+    White: U0517025
+    Black: U0516008
+  6:
+    White: U0531211
+    Black: U0531113
+  7:
+    White: U0516005
+    Black: U0542014
+  8:
+    White: U0516048
+    Black: U0557029
+late:
+pairing: swiss
+payprotocol: meritPay 1
+round: 1
+text: /home/drbean/curriculum/conversation/volunteer/cards.yaml
+week: 10
