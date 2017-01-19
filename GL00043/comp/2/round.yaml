@@ -2,9 +2,9 @@
 activity:
   marshmallow:
     0:
-      - 01
-      - 02
-      - 03
+      - 1
+      - 2
+      - 3
       - 10
       - 11
       - 12
@@ -13,9 +13,9 @@ activity:
       - 15
   marketing:
     0:
-      - 01
-      - 02
-      - 03
+      - 1
+      - 2
+      - 3
       - 10
       - 11
       - 12
@@ -24,9 +24,9 @@ activity:
       - 15
   communication:
     0:
-      - 01
-      - 02
-      - 03
+      - 1
+      - 2
+      - 3
       - 10
       - 11
       - 12
@@ -37,13 +37,13 @@ assistant: ~
 dispensation: ~
 divisions: ~
 group:
-  01:
+  1:
     White: U0531211
     Black: U0531144
-  02:
+  2:
     White: U0534047
     Black: U0534048
-  03:
+  3:
     White: U0531113
     Black: U0534033
   
