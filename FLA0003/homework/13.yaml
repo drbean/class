@@ -1,0 +1,176 @@
+---
+cutpoints:
+  loser: 2
+  quitter: 1
+  winner: 2
+exercise: marshmallow
+grade:
+  U0143020: 0
+  V0241017: 1
+  V0341010: 2
+  V0341012: 2
+  V0341016: 2
+  V0341022: 2
+  V0341025: 2
+  V0341031: 2
+  V0341034: 0
+  V0341036: 2
+  V0341039: 2
+  V0341051: 2
+points:
+  U0143020:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0241017:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 8
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341010:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 4
+      questions: 0
+      attempts: 14
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341012:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 1
+    Yn:
+      answers: 4
+      questions: 0
+      attempts: 15
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341016:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 4
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341022:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 4
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341025:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 14
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341031:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 12
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341034:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  V0341036:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 3
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341039:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 5
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  V0341051:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 4
+      questions: 0
+      attempts: 8
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
