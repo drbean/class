@@ -1,0 +1,39 @@
+---
+Chinese:
+  1-1: 0
+  1-2: 0
+  1-3: 0
+  2-4: 0
+  3-1: 0
+  3-2: 0
+letters:
+  1-1:
+    U0531211: 9
+    U0531144: 10
+    U0531113: 9
+    story: communication0
+  1-2:
+    U0534048: 9
+    U0534033: 7
+    U0534047: 6
+    story: marketing0
+  1-3:
+    U0533016: 7
+    U0516044: 9
+    U0533003: 10
+    story: marshmallow0
+  2-4:
+    U0516048: 8
+    U0542014: 4
+    U0517046: 10
+    story: communication0
+  3-1:
+    U0516029: 9
+    U0516008: 6
+    U0516005: 9
+    story: marketing0
+  3-2:
+    U0517025: 7
+    U0557037: 10
+    U0557029: 10
+    story: marshmallow0

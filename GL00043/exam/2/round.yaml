@@ -1,0 +1,49 @@
+---
+round: Exam 2
+week: 18
+questions:
+  - 10
+pass: 5
+assistant:
+absent:
+text: /home/drbean/curriculum/conversation/cards.yaml
+activity:
+  marshmallow:
+    0:
+      - 1-3
+      - 3-2
+
+  marketing:
+    0:
+      - 1-2
+      - 3-1
+  communication:
+    0:
+      - 1-1
+      - 2-4
+
+group:
+  1-1:
+    - Lucy2
+    - Tiffany
+    - Daniel
+  1-2:
+    - Johnny
+    - Justin
+    - Mark
+  1-3:
+    - Frank
+    - Hubert
+    - Jason
+  2-4:
+    - Lin
+    - Lucy1
+    - Melody
+  3-1:
+    - Tim
+    - Luna
+    - Christine
+  3-2:
+    - Eva
+    - Mandy
+    - Andy

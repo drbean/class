@@ -1,0 +1,76 @@
+---
+activity:
+  marshmallow:
+    0:
+      - 01
+      - 02
+      - 03
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+  marketing:
+    0:
+      - 01
+      - 02
+      - 03
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+  communication:
+    0:
+      - 01
+      - 02
+      - 03
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+assistant: ~
+dispensation: ~
+divisions: ~
+group:
+  01:
+    White: U0531211
+    Black: U0531144
+  02:
+    White: U0534047
+    Black: U0534048
+  03:
+    White: U0531113
+    Black: U0534033
+  
+  10:
+    White: U0542014
+    Black: U0516029
+  11:
+    White: U0557029
+    Black: U0533016
+  12:
+    White: U0516008
+    Black: U0516044
+  13:
+    White: U0517046
+    Black: U0517025
+  14:
+    White: U0533003
+    Black: U0557037
+  15:
+    White: U0516048
+    Black: U0516005
+late:
+  - U0517046
+  - U0517025
+  - U0516048
+pairing: swiss adjusted
+payprotocol: meritPay 2
+round: 2
+text: /home/drbean/conversation/{success,shopping,language}/cards.yaml
+week: 18
