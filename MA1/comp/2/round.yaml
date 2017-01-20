@@ -1,0 +1,91 @@
+---
+activity:
+  marshmallow:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+  marketing:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+  communication:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+assistant:
+  1-2:
+    N04200018: 5
+  4-2:
+    N04200004: 5
+dispensation: ~
+divisions: ~
+group:
+
+  0:
+    White: B02200031
+    Black: N04200007
+  1:
+    White: N04200044
+    Black: N04200011
+  2:
+    White: N04200009
+    Black: N03203201
+  3:
+    White: N04200050
+    Black: N04200021
+  4:
+    White: N04200031
+    Black: N04200002
+  5:
+    White: N04200056
+    Black: N04200052
+  6:
+    White: N04200016
+    Black: N02202107
+  7:
+    White: N04200026
+    Black: N01200049
+  8:
+    White: N04200024
+    Black: N04200054
+  9:
+    White: N05202104
+    Black: N01200030
+  10:
+    White: N04200038
+    Black: N04200035
+late:
+  - N04200007
+  - N01200049
+pairing: swiss adjusted
+payprotocol: meritPay 1
+round: 2
+text: /home/drbean/class/conversation/{success,shopping,language}/cards.yaml
+week: 18
