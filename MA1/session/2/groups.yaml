@@ -1,61 +1,40 @@
 ---
-ManLin:
-  - ManLin
-Pizza:
-  - Pizza
-Amber:
-  - Amber
-ChiRu:
-  - ChiRu
-Yvonne:
-  - Yvonne
-Lilyan:
+1-1:
   - Lilyan
-Teresa:
-  - Teresa
-John:
-  - John
-Howard:
-  - Howard
-Guan:
-  - Guan
-Milly:
-  - Milly
-YouLing:
-  - YouLing
-WenHao:
-  - WenHao
-Cathy:
-  - Cathy
-James:
-  - James
-Jimmy:
-  - Jimmy
-ShihYu:
-  - ShihYu
-Elain:
-  - Elain
-Tsan:
+  - Amber
   - Tsan
-ChiTing:
-  - ChiTing
-Karry:
-  - Karry
-ChihHsien:
-  - ChihHsien
-Summer:
-  - Summer
-YuCih:
-  - YuCih
-PeiWen:
-  - PeiWen
-GuanHao:
-  - GuanHao
-Brian:
+1-2:
+  - ChiRu
+  - ShihYu
+  - Cathy
+2-1:
   - Brian
-Doris:
-  - Doris
-Amy:
+  - GuanHao
+  - Karry
+2-2:
   - Amy
-YuWen:
+  - Jimmy
+  - PeiWen
+2-3:
+  - James
+  - John
+  - Doris
+3-1:
+  - Milly
+  - Howard
+  - Guan
+3-2:
+  - ChiTing
+  - YuCih
+  - Yvonne
+3-3:
+  - Pizza
+  - Teresa
+4-1:
+  - ManLin
+  - YouLing
+  - ChihHsien
+4-2:
   - YuWen
+  - Summer
+  - Elain
