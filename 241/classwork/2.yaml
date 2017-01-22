@@ -1,74 +1,27 @@
 ---
-topic: vacation
-
-
-1-2:
-  tardy:
-  absent:
-  merits: 100
-  p: ~
-1-3:
-  tardy:
-  absent:
-    - Michelle
-  merits: 100
-  p: ~
-2-1:
-  tardy:
-  absent:
-  merits: 100
-  p: ~
-2-2:
-  tardy:
-  absent:
-  merits: 100
-  p: ~
-2-3:
-  tardy:
-  absent:
-  merits: 100
-  p: ~
-3-1:
-  tardy:
-  absent:
-    - XiangYu
-  merits: 100
-  p: ~
-3-2:
-  tardy:
-  absent:
-   - 翁銓
-  merits: 100
-  p: ~
-3-3:
-  tardy:
-  absent:
-    - Eros
-  merits: 100
-  p: ~
-4-1:
-  tardy:
-  absent:
-  merits: 100
-  p: ~
-4-2:
-  tardy:
-  absent:
-  merits: 100
-  p: ~
-4-3:
-  tardy:
-  absent:
-  merits: 100
-  p: ~
-5-2:
-  tardy:
-  absent:
-    - Milly
-  merits: 100
-  p: ~
-5-3:
-  tardy:
-  absent:
-  merits: 100
-  p: ~
+B04090003: 100.00
+B04140059: 100.00
+B04200001: 100.00
+B04200006: 0.00
+B04200010: 0.00
+B04200015: 0.00
+B04200020: 100.00
+B04200025: 100.00
+B04200029: 100.00
+B04200033: 66.67
+B04200038: 100.00
+B04200042: 100.00
+B04200048: 100.00
+B04200052: 100.00
+B04200057: 100.00
+B04200061: 100.00
+B04200068: 66.67
+B04200072: 100.00
+B04200081: 100.00
+B04200088: 66.67
+B04200093: 100.00
+B04200098: 100.00
+B04200102: 100.00
+B04200111: 100.00
+B04200116: 0.00
+B04200118: 0.00
