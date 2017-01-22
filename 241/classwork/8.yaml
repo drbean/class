@@ -1,48 +1,27 @@
-Ethan:
-  merits: 66.67
-Nathan:
-  merits: 66.67
-Barry:
-  merits: 0.00
-Milly:
-  merits: 100.00
-Michelle:
-  merits: 0.00
-Amber:
-  merits: 50.00
-YanZeng:
-  merits: 0.00
-LuLu:
-  merits: 100.00
-Katie:
-  merits: 100.00
-Angela:
-  merits: 66.67
-Sally:
-  merits: 100.00
-Peggy:
-  merits: 100.00
-Winnie:
-  merits: 66.67
-YuChing:
-  merits: 0.00
-CheYuan:
-  merits: 100.00
-Kevin:
-  merits: 0.00
-Debby:
-  merits: 100.00
-KuanChung:
-  merits: 66.67
-EnChiao:
-  merits: 100.00
-David:
-  merits: 100.00
-Tiffany:
-  merits: 66.67
-Sunny:
-  merits: 33.33
-Nancy:
-  merits: 100.00
-Eros:
-  merits: 66.67
+---
+B04090003: 66.67
+B04140059: 66.67
+B04200001: 0.00
+B04200006: 100.00
+B04200010: 0.00
+B04200015: 0.00
+B04200020: 50.00
+B04200025: 0.00
+B04200029: 100.00
+B04200033: 100.00
+B04200038: 66.67
+B04200042: 100.00
+B04200048: 100.00
+B04200052: 66.67
+B04200057: 0.00
+B04200061: 100.00
+B04200068: 0.00
+B04200072: 100.00
+B04200081: 66.67
+B04200088: 100.00
+B04200093: 100.00
+B04200098: 66.67
+B04200102: 33.33
+B04200111: 100.00
+B04200116: 66.67
+B04200118: 0.00
