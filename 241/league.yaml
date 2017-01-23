@@ -10,7 +10,7 @@ field: 基礎英文寫作(一)
 group: session
 groupwork: classwork
 hw: homework
-hwMax: 100
+hwMax: 3
 id: 051AFB241
 jigsaw: exam
 league: BAF021__四技外二甲
@@ -160,6 +160,6 @@ session:
   2: 6
   3: 10
 weights:
-  classwork: 40
-  exams: 20
-  homework: 40
+  classwork: 33
+  exams: 33
+  homework: 34
