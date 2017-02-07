@@ -10,7 +10,7 @@ field: 英語會話(一)
 group: session
 groupwork: classwork
 hw: homework
-hwMax: 100
+hwMax: 5
 id: 051AFN2MA1
 jigsaw: exam
 league: NAF021四技外二甲
@@ -209,5 +209,5 @@ session:
   2: 10
 weights:
   classwork: 40
-  exams: 20
-  homework: 40
+  exams: 40
+  homework: 20
