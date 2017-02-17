@@ -1,0 +1,169 @@
+---
+absent: ~
+anterior: 052AFN2MA1
+approach: GroupworkNoFault
+classMax: 100
+compcomp: comp
+examMax: 5
+exams: exam
+field: 英語會話(二)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 5
+id: 052AFN2MB2
+jigsaw: exam
+league: NAF021四技外二甲
+member:
+  - Chinese: 孫柏皓
+    id: N02202105
+    name: BoHao
+    password: bo
+    rating: ~
+  - Chinese: 蔡欣祐
+    id: N03203105
+    name: 蔡欣祐
+    password: xin
+    rating: ~
+  - Chinese: 林冠宏
+    id: N03203201
+    name: 林冠宏
+    password: guan
+    rating: ~
+  - Chinese: 羅紘璿
+    id: N04200001
+    name: Tony
+    password: hong
+    rating: ~
+  - Chinese: 鍾慧美
+    id: N04200003
+    name: HuiMei
+    password: hui
+    rating: ~
+  - Chinese: 謝旭棻
+    id: N04200005
+    name: Sally
+    password: xu
+    rating: ~
+  - Chinese: 林慧婷
+    id: N04200008
+    name: 林慧婷
+    password: hui
+    rating: ~
+  - Chinese: 鍾淑君
+    id: N04200010
+    name: Sarah
+    password: shu
+    rating: ~
+  - Chinese: 曾夢瑤
+    id: N04200014
+    name: Becca
+    password: meng
+    rating: ~
+  - Chinese: 吳英雄
+    id: N04200017
+    name: 吳英雄
+    password: ying
+    rating: ~
+  - Chinese: 卓園園
+    id: N04200022
+    name: Roundy
+    password: yuan
+    rating: ~
+  - Chinese: 張偉慈
+    id: N04200025
+    name: WeiChi
+    password: wei
+    rating: ~
+  - Chinese: 彭婉晴
+    id: N04200029
+    name: Sunny
+    password: wan
+    rating: ~
+  - Chinese: 彭如菁
+    id: N04200032
+    name: RuJing
+    password: ru
+    rating: ~
+  - Chinese: 杜立堯
+    id: N04200041
+    name: Levi
+    password: li
+    rating: ~
+  - Chinese: 陳嘉煒
+    id: N04200043
+    name: 陳嘉煒
+    password: jia
+    rating: ~
+  - Chinese: 李修瑋
+    id: N04200045
+    name: SiouWei
+    password: xiu
+    rating: ~
+  - Chinese: 鍾旻宸
+    id: N04200049
+    name: Max
+    password: min
+    rating: ~
+  - Chinese: 彭彥翔
+    id: N04200051
+    name: YanXiang
+    password: yan
+    rating: ~
+  - Chinese: 鄭孟浩
+    id: N04200055
+    name: Ivan
+    password: meng
+    rating: ~
+  - Chinese: 葉王翎
+    id: N04200057
+    name: Margaret
+    password: wang
+    rating: ~
+  - Chinese: 彭姿燕
+    id: N04200060
+    name: ZiYan
+    password: zi
+    rating: ~
+  - Chinese: 鄒采妘
+    id: N05202101
+    name: Lulu
+    password: cai
+    rating: ~
+  - Chinese: 王姿穎
+    id: N05202103
+    name: Katy
+    password: zi
+    rating: ~
+  - Chinese: 林家禾
+    id: N05202201
+    name: 林家禾
+    password: jia
+    rating: ~
+  - Chinese: 古旂瑛
+    id: N05202203
+    name: 古旂瑛
+    password: qi
+    rating: ~
+  - Chinese: 鄭筠儒
+    id: N05262101
+    name: 鄭筠儒
+    password: yun
+    rating: ~
+out: ~
+room: A705
+school: must
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 0
+  2: 10
+weights:
+  classwork: 40
+  exams: 40
+  homework: 20
