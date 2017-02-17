@@ -1,0 +1,161 @@
+---
+absent: ~
+anterior: 051AFN2KB1
+approach: GroupworkNoFault
+classMax: 100
+compcomp: comp
+examMax: 100
+exams: exam
+field: 基礎英文寫作(二)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 100
+id: 052AFN2KA2
+jigsaw: exam
+league: NAF021__四技外二甲
+member:
+  - Chinese: 陳怡芳
+    id: N01200049
+    name: Yvonne
+    password: yi
+    rating: ~
+  - Chinese: 蔡欣祐
+    id: N03203105
+    name: 蔡欣祐
+    password: xin
+    rating: ~
+  - Chinese: 張育慈
+    id: N04200002
+    name: YuCih
+    password: yu
+    rating: ~
+  - Chinese: 范雅惠
+    id: N04200004
+    name: Elain
+    password: ya
+    rating: ~
+  - Chinese: 劉媺莉
+    id: N04200007
+    name: Lilyan
+    password: mei
+    rating: ~
+  - Chinese: 葉珮玟
+    id: N04200009
+    name: PeiWen
+    password: pei
+    rating: ~
+  - Chinese: 郭士毓
+    id: N04200011
+    name: ShihYu
+    password: shi
+    rating: ~
+  - Chinese: 崔粲
+    id: N04200016
+    name: Tsan
+    password: can
+    rating: ~
+  - Chinese: 涂麗萍
+    id: N04200018
+    name: Cathy
+    password: li
+    rating: ~
+  - Chinese: 楊豐駿
+    id: N04200021
+    name: Karry
+    password: feng
+    rating: ~
+  - Chinese: 戴琪如
+    id: N04200024
+    name: ChiRu
+    password: qi
+    rating: ~
+  - Chinese: 葉縵琳
+    id: N04200026
+    name: ManLin
+    password: man
+    rating: ~
+  - Chinese: 何冠豪
+    id: N04200031
+    name: GuanHao
+    password: guan
+    rating: ~
+  - Chinese: 曾瑜𡚒髴
+    id: N04200035
+    name: YuWen
+    password: yu
+    rating: ~
+  - Chinese: 陳祺葶
+    id: N04200038
+    name: ChiTing
+    password: qi
+    rating: ~
+  - Chinese: 張書毓
+    id: N04200044
+    name: John
+    password: shu
+    rating: ~
+  - Chinese: 柏雅馨
+    id: N04200046
+    name: Doris
+    password: ya
+    rating: ~
+  - Chinese: 劉弘浩
+    id: N04200048
+    name: James
+    password: hong
+    rating: ~
+  - Chinese: 羅芷仙
+    id: N04200050
+    name: ChihHsien
+    password: zhi
+    rating: ~
+  - Chinese: 范佑綾
+    id: N04200052
+    name: YouLing
+    password: you
+    rating: ~
+  - Chinese: 徐嘉鴻
+    id: N04200054
+    name: Howard
+    password: jia
+    rating: ~
+  - Chinese: 吳沛慈
+    id: N04200056
+    name: Amber
+    password: pei
+    rating: ~
+  - Chinese: 林家禾
+    id: N05202201
+    name: 林家禾
+    password: jia
+    rating: ~
+  - Chinese: 古旂瑛
+    id: N05202203
+    name: 古旂瑛
+    password: qi
+    rating: ~
+  - Chinese: 鄭筠儒
+    id: N05262101
+    name: 鄭筠儒
+    password: yun
+    rating: ~
+out: ~
+room: A705
+school: must
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 1
+  2: 6
+  3: 10
+  4: 14
+weights:
+  classwork: 10
+  exams: 10
+  homework: 80
