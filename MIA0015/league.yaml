@@ -1,0 +1,241 @@
+---
+absent: ~
+active: ~
+anterior: 051MIA0009
+approach: GroupworkNoFault
+classMax: 3
+examMax: 100
+exams: exam
+field: 商用英文書信實務(一)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 052MIA0015
+league: 日資管三甲
+member:
+  - Chinese: 陳靖中
+    id: U0133016
+    name: Kaven
+    password: jing
+    rating: ~
+  - Chinese: 潘嶧德
+    id: U0233102
+    name: 潘嶧德
+    password: yi
+    rating: ~
+  - Chinese: 梁浩輝
+    id: U0333005
+    name: Andrew
+    password: hao
+    rating: ~
+  - Chinese: 戴思源
+    id: U0333006
+    name: Sam
+    password: si
+    rating: ~
+  - Chinese: 蔡以琳
+    id: U0333009
+    name: Irene
+    password: yi
+    rating: ~
+  - Chinese: 王維宗
+    id: U0333010
+    name: WeiZong
+    password: wei
+    rating: ~
+  - Chinese: 陳昭惠
+    id: U0333011
+    name: ChaoHui
+    password: zhao
+    rating: ~
+  - Chinese: 張懿誠
+    id: U0333012
+    name: Roy
+    password: yi
+    rating: ~
+  - Chinese: 洪子盈
+    id: U0333013
+    name: Jean
+    password: zi
+    rating: ~
+  - Chinese: 鄧景謙
+    id: U0333014
+    name: Mark
+    password: jing
+    rating: ~
+  - Chinese: 廖雅慧
+    id: U0333016
+    name: YaHuei
+    password: ya
+    rating: ~
+  - Chinese: 何書齊
+    id: U0333017
+    name: ShuChi
+    password: shu
+    rating: ~
+  - Chinese: 蘇新銘
+    id: U0333018
+    name: Mike
+    password: xin
+    rating: ~
+  - Chinese: 施柏辰
+    id: U0333019
+    name: BaiChen
+    password: bai
+    rating: ~
+  - Chinese: 保瑞鴻
+    id: U0333020
+    name: Jim
+    password: rui
+    rating: ~
+  - Chinese: 周俊儒
+    id: U0333021
+    name: ChingJu
+    password: jun
+    rating: ~
+  - Chinese: 張家豪
+    id: U0333022
+    name: Jerry
+    password: jia
+    rating: ~
+  - Chinese: 林新善
+    id: U0333023
+    name: Margen
+    password: xin
+    rating: ~
+  - Chinese: 崔遠晟
+    id: U0333024
+    name: YuanCheng
+    password: yuan
+    rating: ~
+  - Chinese: 孫笙富
+    id: U0333025
+    name: LBJ
+    password: sheng
+    rating: ~
+  - Chinese: 邱忠誠
+    id: U0333026
+    name: Russell
+    password: zhong
+    rating: ~
+  - Chinese: 陳昱穎
+    id: U0333027
+    name: YuYing
+    password: yu
+    rating: ~
+  - Chinese: 陳璽安
+    id: U0333028
+    name: Westbrook
+    password: xi
+    rating: ~
+  - Chinese: 翁嘉嫻
+    id: U0333029
+    name: Rita
+    password: jia
+    rating: ~
+  - Chinese: 林威丞
+    id: U0333030
+    name: Johnson
+    password: wei
+    rating: ~
+  - Chinese: 楊景翔
+    id: U0333031
+    name: Allen
+    password: jing
+    rating: ~
+  - Chinese: 林冠廷
+    id: U0333032
+    name: Teemo
+    password: guan
+    rating: ~
+  - Chinese: 江尚恩
+    id: U0333033
+    name: Sean
+    password: shang
+    rating: ~
+  - Chinese: 林容羽
+    id: U0333034
+    name: RongYu
+    password: rong
+    rating: ~
+  - Chinese: 張皓雲
+    id: U0333035
+    name: Howard
+    password: hao
+    rating: ~
+  - Chinese: 林姿妤
+    id: U0333036
+    name: Larcker
+    password: zi
+    rating: ~
+  - Chinese: 黃湘瑜
+    id: U0333038
+    name: Kiyomi
+    password: xiang
+    rating: ~
+  - Chinese: 潘奕均
+    id: U0333039
+    name: MasterLee
+    password: yi
+    rating: ~
+  - Chinese: 張仲緯
+    id: U0333041
+    name: Wei
+    password: zhong
+    rating: ~
+  - Chinese: 蔡侑宸
+    id: U0333042
+    name: Elliot
+    password: you
+    rating: ~
+  - Chinese: 吳珮瑜
+    id: U0333044
+    name: PeiYu
+    password: pei
+    rating: ~
+  - Chinese: 薛尚融
+    id: U0333045
+    name: Allan
+    password: shang
+    rating: ~
+  - Chinese: 劉凌翰
+    id: U0333046
+    name: Han
+    password: ling
+    rating: ~
+  - Chinese: 林尊韋
+    id: U0333049
+    name: ZunWei
+    password: zun
+    rating: ~
+  - Chinese: 余信諭
+    id: U0333051
+    name: ShinYu
+    password: xin
+    rating: ~
+  - Chinese: 龔孟涵
+    id: U0333052
+    name: MengHan
+    password: meng
+    rating: ~
+  - Chinese: 張暄挺
+    id: U0333053
+    name: HsuanTing
+    password: xuan
+    rating: ~
+  - Chinese: 朱銘揚
+    id: U0333054
+    name: 朱銘揚
+    password: ming
+    rating: ~
+out:
+room: A706
+school: nuu
+session:
+  1: 1
+  2: 10
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
