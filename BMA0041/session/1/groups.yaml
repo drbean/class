@@ -11,17 +11,6 @@
 1-4:
   - JiaJia
   - WeiJie
-1-5:
-  - Steven
-  - YuYan
-1-6:
-  - Yvonne
-  - Ruby
-1-7:
-  - ZongChe
-  - TheWang
-1-8:
-  - Jenny
 2-1:
   - Pan
   - MingChin
@@ -34,12 +23,6 @@
 2-4:
   - Michelle
   - YingChi
-2-5:
-  - Joe
-  - Jacky2
-2-6:
-  - Peggy2
-  - MonLu
 3-1:
   - Jackson
   - Zan
@@ -52,12 +35,6 @@
 3-4:
   - Wei
   - Peggy1
-3-5:
-  - Jane
-  - Sherry
-3-6:
-  - Fen
-  - YouYu
 4-1:
   - Meji
   - Sunny
@@ -70,9 +47,32 @@
 4-4:
   - Jacky1
   - Bill
-4-5:
+5-1:
+  - Steven
+  - YuYan
+5-2:
+  - Yvonne
+  - Ruby
+5-3:
+  - ZongChe
+  - TheWang
+5-4:
+  - Jenny
+6-1:
+  - Joe
+  - Jacky2
+6-2:
+  - Peggy2
+  - MonLu
+6-3:
+  - Jane
+  - Sherry
+6-4:
+  - Fen
+  - YouYu
+7-1:
   - Kate
   - Minnie
-4-6:
+7-2:
   - RouAn
   - Nick
