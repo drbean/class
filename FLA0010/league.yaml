@@ -46,7 +46,7 @@ member:
     rating: ~
   - Chinese: 黃鈺婷
     id: V0241041
-    name: Winnie
+    name: Winnie1
     password: yu
     rating: ~
   - Chinese: 羅思弦
@@ -71,7 +71,7 @@ member:
     rating: ~
   - Chinese: 郭姿婷
     id: V0241066
-    name: Tina
+    name: Tina1
     password: zi
     rating: ~
   - Chinese: 劉威昇
@@ -81,7 +81,7 @@ member:
     rating: ~
   - Chinese: 吳祐誠
     id: V0341005
-    name: Toyz
+    name: Stark
     password: you
     rating: ~
   - Chinese: 葉芳成
@@ -91,7 +91,7 @@ member:
     rating: ~
   - Chinese: 周雅云
     id: V0341011
-    name: Winnie
+    name: Winnie2
     password: ya
     rating: ~
   - Chinese: 李殷
@@ -121,12 +121,12 @@ member:
     rating: ~
   - Chinese: 彭紹安
     id: V0341027
-    name: Sherry
+    name: Leon
     password: shao
     rating: ~
   - Chinese: 劉家瑋
     id: V0341031
-    name: Andy1
+    name: Andy2
     password: jia
     rating: ~
   - Chinese: 陳聖儒
@@ -166,11 +166,11 @@ member:
     rating: ~
   - Chinese: 李佳玲
     id: V0341052
-    name: Tina
+    name: Tina2
     password: jia
     rating: ~
 out: ~
-room: A705
+room: A706
 school: nuu
 session:
   1: 1
