@@ -15,15 +15,50 @@ id: 052AFN2KA2
 jigsaw: exam
 league: NAF021__四技外二甲
 member:
-  - Chinese: 陳怡芳
-    id: N01200049
-    name: Yvonne
-    password: yi
-    rating: ~
   - Chinese: 蔡欣祐
     id: N03203105
-    name: 蔡欣祐
+    name: Stan
     password: xin
+    rating: ~
+  - Chinese: 陳怡安
+    id: N02200012
+    name: Anita
+    password: yi
+    rating: ~
+  - Chinese: 鄭惠云
+    id: N01200047
+    name: 鄭惠云
+    password: hui
+    rating: ~
+  - Chinese: 鄧如芸
+    id: N03200006
+    name: Kelly
+    password: ru
+    rating: ~
+  - Chinese: 鄭又元
+    id: N03200014
+    name: York
+    password: you
+    rating: ~
+  - Chinese: 宋柏賢
+    id: N03200018
+    name: Rain
+    password: bai
+    rating: ~
+  - Chinese: 萬筱微
+    id: N03200034
+    name: Vicky
+    password: xiao
+    rating: ~
+  - Chinese: 陳桂益
+    id: N03200036
+    name: Gary
+    password: gui
+    rating: ~
+  - Chinese: 黃冠潔
+    id: N04202105
+    name: Crown
+    password: guan
     rating: ~
   - Chinese: 張育慈
     id: N04200002
@@ -134,11 +169,6 @@ member:
     id: N05202203
     name: 古旂瑛
     password: qi
-    rating: ~
-  - Chinese: 鄭筠儒
-    id: N05262101
-    name: 鄭筠儒
-    password: yun
     rating: ~
 out: ~
 room: A705
