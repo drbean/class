@@ -15,11 +15,6 @@ id: 052AFN2MB2
 jigsaw: exam
 league: NAF021四技外二甲
 member:
-  - Chinese: 孫柏皓
-    id: N02202105
-    name: BoHao
-    password: bo
-    rating: ~
   - Chinese: 蔡欣祐
     id: N03203105
     name: 蔡欣祐
@@ -29,6 +24,36 @@ member:
     id: N03203201
     name: 林冠宏
     password: guan
+    rating: ~
+  - Chinese: 鄭惠云
+    id: N01200047
+    name: 鄭惠云
+    password: hui
+    rating: ~
+  - Chinese: 鄧如芸
+    id: N03200006
+    name: Kelly
+    password: ru
+    rating: ~
+  - Chinese: 江宜蓁
+    id: N03200010
+    name: Kris
+    password: yi
+    rating: ~
+  - Chinese: 宋柏賢
+    id: N03200018
+    name: 宋柏賢
+    password: bai
+    rating: ~
+  - Chinese: 萬筱微
+    id: N03200034
+    name: Vicky
+    password: xiao
+    rating: ~
+  - Chinese: 陳桂益
+    id: N03200036
+    name: Gary
+    password: gui
     rating: ~
   - Chinese: 羅紘璿
     id: N04200001
@@ -45,11 +70,6 @@ member:
     name: Sally
     password: xu
     rating: ~
-  - Chinese: 林慧婷
-    id: N04200008
-    name: 林慧婷
-    password: hui
-    rating: ~
   - Chinese: 鍾淑君
     id: N04200010
     name: Sarah
@@ -62,7 +82,7 @@ member:
     rating: ~
   - Chinese: 吳英雄
     id: N04200017
-    name: 吳英雄
+    name: Hero
     password: ying
     rating: ~
   - Chinese: 卓園園
@@ -134,16 +154,6 @@ member:
     id: N05202103
     name: Katy
     password: zi
-    rating: ~
-  - Chinese: 林家禾
-    id: N05202201
-    name: 林家禾
-    password: jia
-    rating: ~
-  - Chinese: 古旂瑛
-    id: N05202203
-    name: 古旂瑛
-    password: qi
     rating: ~
   - Chinese: 鄭筠儒
     id: N05262101
