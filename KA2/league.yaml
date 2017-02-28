@@ -15,157 +15,188 @@ id: 052AFN2KA2
 jigsaw: exam
 league: NAF021__四技外二甲
 member:
-  - Chinese: 蔡欣祐
-    id: N03203105
-    name: Stan
-    password: xin
-    rating: ~
-  - Chinese: 陳怡安
-    id: N02200012
-    name: Anita
-    password: yi
-    rating: ~
   - Chinese: 鄭惠云
+    email: a0931206159@gmail.com
     id: N01200047
     name: 鄭惠云
     password: hui
     rating: ~
+  - Chinese: 陳怡安
+    email: anita1414@yahoo.com.tw
+    id: N02200012
+    name: Anita
+    password: yi
+    rating: ~
   - Chinese: 鄧如芸
+    email: home811120@yahoo.com.tw
     id: N03200006
     name: Kelly
     password: ru
     rating: ~
   - Chinese: 鄭又元
+    email: KHJHS9888@yahoo.com.tw
     id: N03200014
     name: York
     password: you
     rating: ~
   - Chinese: 宋柏賢
+    email: a549521@yahoo.com.tw
     id: N03200018
     name: Rain
     password: bai
     rating: ~
   - Chinese: 萬筱微
+    email: rock211227@yahoo.com.tw
     id: N03200034
     name: Vicky
     password: xiao
     rating: ~
   - Chinese: 陳桂益
+    email: may80126@yahoo.com.tw
     id: N03200036
     name: Gary
     password: gui
     rating: ~
-  - Chinese: 黃冠潔
-    id: N04202105
-    name: Crown
-    password: guan
+  - Chinese: 蔡欣祐
+    email: wgki454@yahoo.com.tw
+    id: N03203105
+    name: Stan
+    password: xin
     rating: ~
   - Chinese: 張育慈
+    email: vu06vu06110825@yahoo.com.tw
     id: N04200002
     name: YuCih
     password: yu
     rating: ~
   - Chinese: 范雅惠
+    email: elan2233aa@yahoo.com.tw
     id: N04200004
     name: Elain
     password: ya
     rating: ~
   - Chinese: 劉媺莉
+    email: asdhjk1232196@gmail.com
     id: N04200007
     name: Lilyan
     password: mei
     rating: ~
   - Chinese: 葉珮玟
+    email: qaz598759@gmail.com
     id: N04200009
     name: PeiWen
     password: pei
     rating: ~
   - Chinese: 郭士毓
+    email: cwga555111@yahoo.com.tw
     id: N04200011
     name: ShihYu
     password: shi
     rating: ~
   - Chinese: 崔粲
+    email: sameimeicom@gmail.com
     id: N04200016
     name: Tsan
     password: can
     rating: ~
   - Chinese: 涂麗萍
+    email: tugmy@yahoo.com.tw
     id: N04200018
     name: Cathy
     password: li
     rating: ~
   - Chinese: 楊豐駿
+    email: corte41267@gmail.com
     id: N04200021
     name: Karry
     password: feng
     rating: ~
   - Chinese: 戴琪如
+    email: judy06222@yahoo.com.tw
     id: N04200024
     name: ChiRu
     password: qi
     rating: ~
   - Chinese: 葉縵琳
+    email: m_840307@yahoo.com.tw
     id: N04200026
     name: ManLin
     password: man
     rating: ~
   - Chinese: 何冠豪
+    email: s5971896a@gmail.com
     id: N04200031
     name: GuanHao
     password: guan
     rating: ~
   - Chinese: 曾瑜𡚒髴
+    email: japple18182@yahoo.com.tw
     id: N04200035
     name: YuWen
     password: yu
     rating: ~
   - Chinese: 陳祺葶
+    email: ating246@gmail.com
     id: N04200038
     name: ChiTing
     password: qi
     rating: ~
   - Chinese: 張書毓
+    email: shuua1002@gmail.com
     id: N04200044
     name: John
     password: shu
     rating: ~
   - Chinese: 柏雅馨
+    email: mitake.milk@yahoo.com.tw
     id: N04200046
     name: Doris
     password: ya
     rating: ~
   - Chinese: 劉弘浩
+    email: jj1654788237@gmail.com
     id: N04200048
     name: James
     password: hong
     rating: ~
   - Chinese: 羅芷仙
+    email: chihhsien0101@gmail.com
     id: N04200050
     name: ChihHsien
     password: zhi
     rating: ~
   - Chinese: 范佑綾
+    email: pnnn850105@gmail.com
     id: N04200052
     name: YouLing
     password: you
     rating: ~
   - Chinese: 徐嘉鴻
+    email: he572941@gmail.com
     id: N04200054
     name: Howard
     password: jia
     rating: ~
   - Chinese: 吳沛慈
+    email: vivimiki2@gmail.com
     id: N04200056
     name: Amber
     password: pei
     rating: ~
+  - Chinese: 黃冠潔
+    email: s5533906@msn.com
+    id: N04202105
+    name: Crown
+    password: guan
+    rating: ~
   - Chinese: 林家禾
+    email: charly12828@gmail.com
     id: N05202201
     name: 林家禾
     password: jia
     rating: ~
   - Chinese: 古旂瑛
+    email: lostlove11051021@gmail.com
     id: N05202203
     name: 古旂瑛
     password: qi
@@ -181,10 +212,10 @@ scores:
   loss: 3
   win: 5
 session:
-  1: 1
-  2: 6
-  3: 10
-  4: 14
+  '1': 1
+  '2': 6
+  '3': 10
+  '4': 14
 weights:
   classwork: 10
   exams: 10
