@@ -15,147 +15,176 @@ id: 052AFN2MB2
 jigsaw: exam
 league: NAF021四技外二甲
 member:
-  - Chinese: 蔡欣祐
-    id: N03203105
-    name: 蔡欣祐
-    password: xin
-    rating: ~
-  - Chinese: 林冠宏
-    id: N03203201
-    name: 林冠宏
-    password: guan
-    rating: ~
   - Chinese: 鄭惠云
+    email: a0931206159@gmail.com
     id: N01200047
     name: 鄭惠云
     password: hui
     rating: ~
   - Chinese: 鄧如芸
+    email: home811120@yahoo.com.tw
     id: N03200006
     name: Kelly
     password: ru
     rating: ~
   - Chinese: 江宜蓁
+    email: N03200010@std.must.edu.tw
     id: N03200010
     name: Kris
     password: yi
     rating: ~
   - Chinese: 宋柏賢
+    email: a549521@yahoo.com.tw
     id: N03200018
     name: 宋柏賢
     password: bai
     rating: ~
   - Chinese: 萬筱微
+    email: rock211227@yahoo.com.tw
     id: N03200034
     name: Vicky
     password: xiao
     rating: ~
   - Chinese: 陳桂益
+    email: may80126@yahoo.com.tw
     id: N03200036
     name: Gary
     password: gui
     rating: ~
+  - Chinese: 蔡欣祐
+    email: wgki454@yahoo.com.tw
+    id: N03203105
+    name: 蔡欣祐
+    password: xin
+    rating: ~
+  - Chinese: 林冠宏
+    email: wlo1431339@gmail.com
+    id: N03203201
+    name: 林冠宏
+    password: guan
+    rating: ~
   - Chinese: 羅紘璿
+    email: love52101314@gmail.com
     id: N04200001
     name: Tony
     password: hong
     rating: ~
   - Chinese: 鍾慧美
+    email: yam3415@gmail.com
     id: N04200003
     name: HuiMei
     password: hui
     rating: ~
   - Chinese: 謝旭棻
+    email: sally840326@yahoo.com.tw
     id: N04200005
     name: Sally
     password: xu
     rating: ~
   - Chinese: 鍾淑君
+    email: girl19970519@gmail.com
     id: N04200010
     name: Sarah
     password: shu
     rating: ~
   - Chinese: 曾夢瑤
+    email: yao8067@gmail.com
     id: N04200014
     name: Becca
     password: meng
     rating: ~
   - Chinese: 吳英雄
+    email: hmc1982@livemail.tw
     id: N04200017
     name: Hero
     password: ying
     rating: ~
   - Chinese: 卓園園
+    email: roundy529@gmail.com
     id: N04200022
     name: Roundy
     password: yuan
     rating: ~
   - Chinese: 張偉慈
+    email: a1993011120@yahoo.com.tw
     id: N04200025
     name: WeiChi
     password: wei
     rating: ~
   - Chinese: 彭婉晴
+    email: a5590936@yahoo.com.tw
     id: N04200029
     name: Sunny
     password: wan
     rating: ~
   - Chinese: 彭如菁
+    email: qir581k45a314@gmail.com
     id: N04200032
     name: RuJing
     password: ru
     rating: ~
   - Chinese: 杜立堯
+    email: levi20108@gmail.com
     id: N04200041
     name: Levi
     password: li
     rating: ~
   - Chinese: 陳嘉煒
+    email: aker9128@yahoo.com.tw
     id: N04200043
     name: 陳嘉煒
     password: jia
     rating: ~
   - Chinese: 李修瑋
+    email: siouwei199612@yahoo.com.tw
     id: N04200045
     name: SiouWei
     password: xiu
     rating: ~
   - Chinese: 鍾旻宸
+    email: run5829288@gmail.com
     id: N04200049
     name: Max
     password: min
     rating: ~
   - Chinese: 彭彥翔
+    email: rasdfy801013@gmail.com
     id: N04200051
     name: YanXiang
     password: yan
     rating: ~
   - Chinese: 鄭孟浩
+    email: s2683900777@gmail.com
     id: N04200055
     name: Ivan
     password: meng
     rating: ~
   - Chinese: 葉王翎
+    email: mag87118@yahoo.com.tw
     id: N04200057
     name: Margaret
     password: wang
     rating: ~
   - Chinese: 彭姿燕
+    email: intimate622@yahoo.com.tw
     id: N04200060
     name: ZiYan
     password: zi
     rating: ~
   - Chinese: 鄒采妘
+    email: w050704@gmail.com
     id: N05202101
     name: Lulu
     password: cai
     rating: ~
   - Chinese: 王姿穎
+    email: mm568066@gmail.com
     id: N05202103
     name: Katy
     password: zi
     rating: ~
   - Chinese: 鄭筠儒
+    email: pray_pepo@yahoo.com.tw
     id: N05262101
     name: 鄭筠儒
     password: yun
@@ -171,8 +200,8 @@ scores:
   loss: 3
   win: 5
 session:
-  1: 0
-  2: 10
+  '1': 0
+  '2': 10
 weights:
   classwork: 40
   exams: 40
