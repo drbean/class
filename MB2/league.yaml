@@ -33,6 +33,18 @@ member:
     name: Kris
     password: yi
     rating: ~
+  - Chinese: 陳郁心
+    email: ivychen5411@gmail.com
+    id: N03200011
+    name: 陳郁心
+    password: yu
+    rating: ~
+  - Chinese: 田雅勻
+    email: tyy8399@gmail.com
+    id: N03200016
+    name: YaYun
+    password: ya
+    rating: ~
   - Chinese: 宋柏賢
     email: a549521@yahoo.com.tw
     id: N03200018
