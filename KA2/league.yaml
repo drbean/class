@@ -33,17 +33,35 @@ member:
     name: Kelly
     password: ru
     rating: ~
+  - Chinese: 陳郁心
+    email: ivychen5411@gmail.com
+    id: N03200011
+    name: 陳郁心
+    password: yu
+    rating: ~
   - Chinese: 鄭又元
     email: KHJHS9888@yahoo.com.tw
     id: N03200014
     name: York
     password: you
     rating: ~
+  - Chinese: 田雅勻
+    email: tyy8399@gmail.com
+    id: N03200016
+    name: YaYun
+    password: ya
+    rating: ~
   - Chinese: 宋柏賢
     email: a549521@yahoo.com.tw
     id: N03200018
     name: Rain
     password: bai
+    rating: ~
+  - Chinese: 陳沚瑩
+    email: k5886174@yahoo.com.tw
+    id: N03200027
+    name: Orange
+    password: zhi
     rating: ~
   - Chinese: 萬筱微
     email: rock211227@yahoo.com.tw
@@ -56,6 +74,12 @@ member:
     id: N03200036
     name: Gary
     password: gui
+    rating: ~
+  - Chinese: 林妮琪
+    email: nicki83712@yahoo.com.tw
+    id: N03202104
+    name: Nicki
+    password: ni
     rating: ~
   - Chinese: 蔡欣祐
     email: wgki454@yahoo.com.tw
@@ -182,6 +206,12 @@ member:
     id: N04200056
     name: Amber
     password: pei
+    rating: ~
+  - Chinese: 陳季柔
+    email: co20043@yahoo.com.tw
+    id: N04202103
+    name: 陳季柔
+    password: ji
     rating: ~
   - Chinese: 黃冠潔
     email: s5533906@msn.com
