@@ -14,6 +14,27 @@ hwMax: 2
 id: 052FLA0010
 league: 夜應外大學四甲
 member:
+  - Chinese: 洪君綾
+    id: V0141063
+    name: Joy
+    password: jun
+    rating: ~
+  - Chinese: 林遠凱
+    id: V0141062
+    name: Karsten
+    password: yuan
+    rating: ~
+  - Chinese: 王緯婷
+    id: V0241034
+    name: Nina
+    password: wei
+    rating: ~
+  - Chinese: 江宜潔
+    id: V0341012
+    name: Annie
+    password: yi
+    rating: ~
+  
   - Chinese: 胡靖宜
     id: V0241001
     name: Joyce
