@@ -243,9 +243,6 @@ scores:
   win: 5
 session:
   '1': 1
-  '2': 6
-  '3': 10
-  '4': 14
 weights:
   classwork: 10
   exams: 10
