@@ -14,6 +14,17 @@ hwMax: 2
 id: 052MIA0015
 league: 日資管三甲
 member:
+  - Chinese: 張顥學
+    id: U9933042
+    name: HaoShen
+    password: hao
+    rating: ~
+  - Chinese: 沈怡臻
+    id: U0233145
+    name: YiZhen
+    password: yi
+    rating: ~
+  
   - Chinese: 陳靖中
     id: U0133016
     name: Kaven
