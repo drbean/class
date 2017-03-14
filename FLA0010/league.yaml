@@ -14,6 +14,12 @@ hwMax: 2
 id: 052FLA0010
 league: 夜應外大學四甲
 member:
+  - Chinese: 謝婕榆
+    id: V0141038
+    name: Judy
+    password: jie
+    rating: ~
+  
   - Chinese: 洪君綾
     id: V0141063
     name: Joy
