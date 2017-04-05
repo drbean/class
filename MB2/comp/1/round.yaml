@@ -1,0 +1,61 @@
+---
+activity:
+  career:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+assistant:
+  2-1:
+    N03203105: 4
+  2-3:
+    N03203201: 4
+  1-2:
+    N03200018: 4
+dispensation: ~
+divisions: ~
+group:
+  0:
+     White: N04200060
+     Black: N03200010
+  8:
+     White: N01200047
+     Black: N04200022
+  
+  
+  1:
+    White: N04200049
+    Black: N04200025
+  2:
+    White: N03200034
+    Black: N04200057
+  3:
+    White: N03200006
+    Black: N04200029
+  4:
+    White: N04200045
+    Black: N05202103
+  5:
+    White: N04200010
+    Black: N04200055
+  6:
+    White: N04200003
+    Black: N04200005
+  7:
+    White: N04200014
+    Black: N04200032
+late:
+  - N03200010
+  - N01200047
+  - N04200022
+pairing: swiss
+payprotocol: meritPay 1
+round: 1
+text: /home/drbean/curriculum/conversation/psych/cards.yaml
+week: 5
