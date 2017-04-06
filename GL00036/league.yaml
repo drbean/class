@@ -1,0 +1,148 @@
+---
+absent: ~
+active: ~
+anterior: 051GL00043
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 英文(二)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 052GL00036
+league: 日大一英文進階班一甲    高來圭,程小芳
+member:
+  - Chinese: 張羽沛
+    id: U0543045
+    name: 張羽沛
+    password: xiang
+    rating: ~
+  - Chinese: 蔡亭幼
+    id: U0543040
+    name: 蔡亭幼
+    password: ting
+    rating: ~
+  - Chinese: 李玉琪
+    id: U0521143
+    name: 李玉琪
+    password: yu
+    rating: ~
+  - Chinese: 曾皓柏
+    id: U0521133
+    name: 曾皓柏
+    password: hao
+    rating: ~
+  - Chinese: 游媛淇
+    id: U0510012
+    name: 游媛淇
+    password: yuan
+    rating: ~
+  - Chinese: 蘇聖晏
+    id: U0510005
+    name: 蘇聖晏
+    password: sheng
+    rating: ~
+  
+  - Chinese: 祝育婷
+    id: U0516005
+    name: Christine
+    password: yu
+    rating: ~
+  - Chinese: 張汝沐
+    id: U0516008
+    name: Luna
+    password: ru
+    rating: ~
+  - Chinese: 廖柏凱
+    id: U0516029
+    name: Tim
+    password: bai
+    rating: ~
+  - Chinese: 陳宇輝
+    id: U0516044
+    name: Hubert
+    password: yu
+    rating: ~
+  - Chinese: 林千詠
+    id: U0516048
+    name: Lin
+    password: qian
+    rating: ~
+  - Chinese: 劉懿靚
+    id: U0517025
+    name: Eva
+    password: yi
+    rating: ~
+  - Chinese: 吳佩棻
+    id: U0517046
+    name: Melody
+    password: pei
+    rating: ~
+  - Chinese: 徐嵩德
+    id: U0531113
+    name: Daniel
+    password: song
+    rating: ~
+  - Chinese: 汪思緹
+    id: U0531144
+    name: Tiffany
+    password: si
+    rating: ~
+  - Chinese: 黃依苓
+    id: U0531211
+    name: Lucy2
+    password: yi
+    rating: ~
+  - Chinese: 陳柏翰
+    id: U0533003
+    name: Jason
+    password: bai
+    rating: ~
+  - Chinese: 涂毅凡
+    id: U0533016
+    name: Frank
+    password: yi
+    rating: ~
+  - Chinese: 吳哲銘
+    id: U0534033
+    name: Justin
+    password: zhe
+    rating: ~
+  - Chinese: 楊朝翔
+    id: U0534047
+    name: Mark
+    password: chao
+    rating: ~
+  - Chinese: 童紹哲
+    id: U0534048
+    name: Johnny
+    password: shao
+    rating: ~
+  - Chinese: 蘇盈蓁
+    id: U0542014
+    name: Lucy1
+    password: ying
+    rating: ~
+  - Chinese: 李政偉
+    id: U0557029
+    name: Andy
+    password: zheng
+    rating: ~
+  - Chinese: 李亭誼
+    id: U0557037
+    name: Mandy
+    password: ting
+    rating: ~
+out: ~
+room: A706
+school: nuu
+session:
+  1: 1
+  2: 2
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
