@@ -4,6 +4,7 @@ active: ~
 anterior: 042FLA0021
 approach: GroupworkNoFault
 classMax: 3
+compcomp: comp
 examMax: 5
 exams: exam
 field: 科技英文
@@ -82,11 +83,6 @@ member:
     name: Winnie1
     password: yu
     rating: ~
-  - Chinese: 羅思弦
-    id: V0241042
-    name: Amber
-    password: si
-    rating: ~
   - Chinese: 羅宇辰
     id: V0241045
     name: Sandy
@@ -121,16 +117,6 @@ member:
     id: V0341010
     name: Toby
     password: fang
-    rating: ~
-  - Chinese: 周雅云
-    id: V0341011
-    name: Winnie2
-    password: ya
-    rating: ~
-  - Chinese: 李殷
-    id: V0341015
-    name: Nora
-    password: yin
     rating: ~
   - Chinese: 羅文伶
     id: V0341016
@@ -177,11 +163,6 @@ member:
     name: Johnson
     password: you
     rating: ~
-  - Chinese: 潘卉蓁
-    id: V0341036
-    name: Jennifer
-    password: hui
-    rating: ~
   - Chinese: 江婕熙
     id: V0341037
     name: Jessie
@@ -202,7 +183,27 @@ member:
     name: Tina2
     password: jia
     rating: ~
-out: ~
+out:
+  - Chinese: 潘卉蓁
+    id: V0341036
+    name: Jennifer
+    password: hui
+    rating: ~
+  - Chinese: 李殷
+    id: V0341015
+    name: Nora
+    password: yin
+    rating: ~
+  - Chinese: 周雅云
+    id: V0341011
+    name: Winnie2
+    password: ya
+    rating: ~
+  - Chinese: 羅思弦
+    id: V0241042
+    name: Amber
+    password: si
+    rating: ~
 room: A706
 school: nuu
 session:
