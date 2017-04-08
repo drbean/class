@@ -15,6 +15,13 @@ id: 052AFN2MB2
 jigsaw: exam
 league: NAF021四技外二甲
 member:
+  - Chinese: 鄭筠儒
+    email: pray_pepo@yahoo.com.tw
+    id: N05262101
+    name: Luffy
+    password: yun
+    rating: ~
+
   - Chinese: 鄭惠云
     email: a0931206159@gmail.com
     id: N01200047
@@ -195,12 +202,6 @@ out:
     id: N03200016
     name: YaYun
     password: ya
-    rating: ~
-  - Chinese: 鄭筠儒
-    email: pray_pepo@yahoo.com.tw
-    id: N05262101
-    name: Luffy
-    password: yun
     rating: ~
 room: A705
 school: must
