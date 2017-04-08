@@ -39,12 +39,6 @@ member:
     name: Ivy
     password: yu
     rating: ~
-  - Chinese: 田雅勻
-    email: tyy8399@gmail.com
-    id: N03200016
-    name: YaYun
-    password: ya
-    rating: ~
   - Chinese: 宋柏賢
     email: a549521@yahoo.com.tw
     id: N03200018
@@ -104,12 +98,6 @@ member:
     id: N04200014
     name: Becca
     password: meng
-    rating: ~
-  - Chinese: 吳英雄
-    email: hmc1982@livemail.tw
-    id: N04200017
-    name: Hero
-    password: ying
     rating: ~
   - Chinese: 卓園園
     email: roundy529@gmail.com
@@ -195,13 +183,25 @@ member:
     name: Katy
     password: zi
     rating: ~
+out:
+  - Chinese: 吳英雄
+    email: hmc1982@livemail.tw
+    id: N04200017
+    name: Hero
+    password: ying
+    rating: ~
+  - Chinese: 田雅勻
+    email: tyy8399@gmail.com
+    id: N03200016
+    name: YaYun
+    password: ya
+    rating: ~
   - Chinese: 鄭筠儒
     email: pray_pepo@yahoo.com.tw
     id: N05262101
     name: Luffy
     password: yun
     rating: ~
-out: ~
 room: A705
 school: must
 scores:
@@ -213,7 +213,8 @@ scores:
   win: 5
 session:
   1: 0
+  2: 7
 weights:
-  classwork: 40
-  exams: 40
-  homework: 20
+  classwork: 48
+  exams: 48
+  homework: 4
