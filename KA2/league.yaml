@@ -45,12 +45,6 @@ member:
     name: York
     password: you
     rating: ~
-  - Chinese: 田雅勻
-    email: tyy8399@gmail.com
-    id: N03200016
-    name: YaYun
-    password: ya
-    rating: ~
   - Chinese: 宋柏賢
     email: a549521@yahoo.com.tw
     id: N03200018
@@ -171,18 +165,6 @@ member:
     name: John
     password: shu
     rating: ~
-  - Chinese: 柏雅馨
-    email: mitake.milk@yahoo.com.tw
-    id: N04200046
-    name: Doris
-    password: ya
-    rating: ~
-  - Chinese: 劉弘浩
-    email: jj1654788237@gmail.com
-    id: N04200048
-    name: James
-    password: hong
-    rating: ~
   - Chinese: 羅芷仙
     email: chihhsien0101@gmail.com
     id: N04200050
@@ -231,7 +213,25 @@ member:
     name: Mindy
     password: qi
     rating: ~
-out: ~
+out:
+  - Chinese: 田雅勻
+    email: tyy8399@gmail.com
+    id: N03200016
+    name: YaYun
+    password: ya
+    rating: ~
+  - Chinese: 劉弘浩
+    email: jj1654788237@gmail.com
+    id: N04200048
+    name: James
+    password: hong
+    rating: ~
+  - Chinese: 柏雅馨
+    email: mitake.milk@yahoo.com.tw
+    id: N04200046
+    name: Doris
+    password: ya
+    rating: ~
 room: A705
 school: must
 scores:
@@ -244,6 +244,6 @@ scores:
 session:
   '1': 1
 weights:
-  classwork: 10
-  exams: 10
-  homework: 80
+  classwork: 48
+  exams: 48
+  homework: 4
