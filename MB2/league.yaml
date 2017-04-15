@@ -15,6 +15,12 @@ id: 052AFN2MB2
 jigsaw: exam
 league: NAF021四技外二甲
 member:
+  - Chinese: 田雅勻
+    email: tyy8399@gmail.com
+    id: N03200016
+    name: YaYun
+    password: ya
+    rating: ~
   - Chinese: 鄭筠儒
     email: pray_pepo@yahoo.com.tw
     id: N05262101
@@ -196,12 +202,6 @@ out:
     id: N04200017
     name: Hero
     password: ying
-    rating: ~
-  - Chinese: 田雅勻
-    email: tyy8399@gmail.com
-    id: N03200016
-    name: YaYun
-    password: ya
     rating: ~
 room: A705
 school: must
