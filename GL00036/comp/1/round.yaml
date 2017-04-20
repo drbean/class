@@ -1,0 +1,67 @@
+---
+activity:
+  autism:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+  career:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+assistant: ~
+bye: U0510005
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: U0516048
+    Black: U0510012
+  2:
+    White: U0521143
+    Black: U0534033
+  3:
+    White: U0534048
+    Black: U0531144
+  4:
+    White: U0521133
+    Black: U0533016
+  5:
+    White: U0517025
+    Black: U0517046
+  6:
+    White: U0534047
+    Black: U0531113
+  7:
+    White: U0516005
+    Black: U0557037
+  8:
+    White: U0516008
+    Black: U0543040
+  9:
+    White: U0557029
+    Black: U0531211
+  10:
+    White: U0542014
+    Black: U0543045
+late:
+pairing: swiss
+payprotocol: meritPay 2
+round: 1
+text: /home/drbean/curriculum/conversation/psych/cards.yaml
+week: 8

@@ -1,0 +1,172 @@
+---
+free:
+  1:
+    autism:
+      0:
+        U0516048:
+          point:
+            1: Unreturned
+        U0510012:
+          point:
+            1: Returned
+    career:
+      0:
+        U0516048:
+          point:
+            1: Unreturned
+        U0510012:
+          point:
+            1: Returned
+  2:
+    autism:
+      0:
+        U0521143:
+          point:
+            1: Nil
+        U0534033:
+          point:
+            1: Nil
+    career:
+      0:
+        U0521143:
+          point:
+            1: Returned
+        U0534033:
+          point:
+            1: Unreturned
+  3:
+    autism:
+      0:
+        U0534048:
+          point:
+            1: Returned
+        U0531144:
+          point:
+            1: Unreturned
+    career:
+      0:
+        U0534048:
+          point:
+            1: Nil
+        U0531144:
+          point:
+            1: Nil
+  4:
+    autism:
+      0:
+        U0521133:
+          point:
+            1: Nil
+        U0533016:
+          point:
+            1: Nil
+    career:
+      0:
+        U0521133:
+          point:
+            1: Returned
+        U0533016:
+          point:
+            1: Unreturned
+  5:
+    autism:
+      0:
+        U0517025:
+          point:
+            1: Returned
+        U0517046:
+          point:
+            1: Returned
+    career:
+      0:
+        U0517025:
+          point:
+            1: Returned
+        U0517046:
+          point:
+            1: Returned
+  6:
+    autism:
+      0:
+        U0534047:
+          point:
+            1: Returned
+        U0531113:
+          point:
+            1: Unreturned
+    career:
+      0:
+        U0534047:
+          point:
+            1: Nil
+        U0531113:
+          point:
+            1: Nil
+  7:
+    autism:
+      0:
+        U0516005:
+          point:
+            1: Returned
+        U0557037:
+          point:
+            1: Unreturned
+    career:
+      0:
+        U0516005:
+          point:
+            1: Unreturned
+        U0557037:
+          point:
+            1: Returned
+  8:
+    autism:
+      0:
+        U0516008:
+          point:
+            1: Returned
+        U0543040:
+          point:
+            1: Unreturned
+    career:
+      0:
+        U0516008:
+          point:
+            1: Returned
+        U0543040:
+          point:
+            1: Unreturned
+  9:
+    autism:
+      0:
+        U0557029:
+          point:
+            1: Unreturned
+        U0531211:
+          point:
+            1: Returned
+    career:
+      0:
+        U0557029:
+          point:
+            1: Unreturned
+        U0531211:
+          point:
+            1: Returned
+  10:
+    autism:
+      0:
+        U0542014:
+          point:
+            1: Returned
+        U0543045:
+          point:
+            1: Unreturned
+    career:
+      0:
+        U0542014:
+          point:
+            1: Unreturned
+        U0543045:
+          point:
+            1: Returned

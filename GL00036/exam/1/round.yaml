@@ -1,0 +1,63 @@
+---
+round: Exam 1
+week: 8
+questions:
+  - 3
+pass: 1
+assistant:
+  - Ariel
+  - Melody
+  - Mandy
+absent:
+  - Jason
+  - Hubert
+  - Tim
+text: /home/drbean/curriculum/conversation/psych/cards.yaml
+activity:
+  jegede:
+    0:
+      - 2-4
+      - 3-2
+    1:
+      - 1-3
+      - 1-4
+      - 3-1
+    2:
+      - 1-1
+      - 1-2
+      - 3-3
+
+
+group:
+  1-1:
+    - Lucy1
+    - Robert
+    - Lucy2
+  1-2:
+    - Daniel
+    - Ariel
+    - Amber
+  1-3:
+    - Eva
+    - Melody
+    - Yuki
+  1-4:
+    - Justin
+    - Ariel
+    - Tiffany
+  2-4:
+    - Melody
+    - Luna
+    - Johnny
+  3-1:
+    - Mark
+    - Mandy
+    - Christine
+  3-2:
+    - Mandy
+    - Sheng
+    - Lin
+  3-3:
+    - Nina
+    - Andy
+    - Frank
