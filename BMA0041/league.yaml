@@ -14,6 +14,18 @@ hwMax: 3
 id: 052BMA0041
 league: 日經管三乙
 member:
+  - Chinese: U0131152
+    id: U0131152
+    name: David2
+    password: shang
+    rating: ~
+  
+  - Chinese: 侍建勳
+    id: U9831134
+    name: Xun
+    password: jian
+    rating: ~
+  
   - Chinese: 黃韋程
     id: U0231144
     name: 黃韋程
