@@ -41,11 +41,6 @@ member:
     name: Yvonne
     password: jie
     rating: ~
-  - Chinese: 余思樺
-    id: U0331106
-    name: SsuHua
-    password: si
-    rating: ~
   - Chinese: 陳冠綾
     id: U0331108
     name: Linda
@@ -181,11 +176,6 @@ member:
     name: Peggy1
     password: zi
     rating: ~
-  - Chinese: 方炯彤
-    id: U0331136
-    name: 方炯彤
-    password: jiong
-    rating: ~
   - Chinese: 林詠佳
     id: U0331137
     name: Sunny
@@ -261,11 +251,6 @@ member:
     name: Cindy
     password: yi
     rating: ~
-  - Chinese: 沈郁媚
-    id: U0331153
-    name: Summer
-    password: yu
-    rating: ~
   - Chinese: 賴顗任
     id: U0331154
     name: Nick
@@ -282,6 +267,21 @@ member:
     password: sheng
     rating: ~
 out:
+  - Chinese: 方炯彤
+    id: U0331136
+    name: 方炯彤
+    password: jiong
+    rating: ~
+  - Chinese: 沈郁媚
+    id: U0331153
+    name: Summer
+    password: yu
+    rating: ~
+  - Chinese: 余思樺
+    id: U0331106
+    name: SsuHua
+    password: si
+    rating: ~
 room: A706
 school: nuu
 session:
