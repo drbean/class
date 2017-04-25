@@ -1,0 +1,79 @@
+---
+activity:
+  motorcycle:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+assistant: ~
+bye: V0341019
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: V0141038
+    Black: V0241008
+  2:
+    White: V0241064
+    Black: V0341010
+  3:
+    White: V0241067
+    Black: V0341005
+  4:
+    White: V0341025
+    Black: V0241039
+  5:
+    White: V0241045
+    Black: V0341051
+  6:
+    White: V0341012
+    Black: V0241026
+  7:
+    White: V0241034
+    Black: V0341031
+  8:
+    White: V0241017
+    Black: V0241001
+  9:
+    White: V0241066
+    Black: V0241024
+  10:
+    White: V0341044
+    Black: V0341035
+  11:
+    White: V0341037
+    Black: V0241041
+  12:
+    White: V0241004
+    Black: V0341052
+  13:
+    White: V0341027
+    Black: V0241046
+  14:
+    White: V0341024
+    Black: V0341016
+  15:
+    White: V0141063
+    Black: V0341033
+  16:
+    White: V0341034
+    Black: V0141062
+late:
+pairing: swiss
+payprotocol: meritPay 1
+round: 2
+text: /home/drbean/curriculum/tech/motorcycle/cards.yaml
+week: 10

@@ -1,0 +1,137 @@
+---
+free:
+  0:
+    cooking:
+      0:
+        V0241041:
+          point:
+            1: Unreturned
+        V0241064:
+          point:
+            1: Returned
+  1:
+    cooking:
+      0:
+        V0341035:
+          point:
+            1: Unreturned
+        V0341025:
+          point:
+            1: Returned
+  2:
+    cooking:
+      0:
+        V0341010:
+          point:
+            1: Returned
+        V0341037:
+          point:
+            1: Unreturned
+  3:
+    cooking:
+      0:
+        V0341052:
+          point:
+            1: Unreturned
+        V0241067:
+          point:
+            1: Returned
+  4:
+    cooking:
+      0:
+        V0241039:
+          point:
+            1: Returned
+        V0241066:
+          point:
+            1: Unreturned
+  5:
+    cooking:
+      0:
+        V0341005:
+          point:
+            1: Returned
+        V0241004:
+          point:
+            1: Unreturned
+  6:
+    cooking:
+      0:
+        V0341051:
+          point:
+            1: Returned
+        V0341044:
+          point:
+            1: Unreturned
+  7:
+    cooking:
+      0:
+        V0241046:
+          point:
+            1: Unreturned
+        V0241045:
+          point:
+            1: Returned
+  8:
+    cooking:
+      0:
+        V0241026:
+          point:
+            1: Returned
+        V0341024:
+          point:
+            1: Unreturned
+  9:
+    cooking:
+      0:
+        V0341033:
+          point:
+            1: Unreturned
+        V0241034:
+          point:
+            1: Returned
+  10:
+    cooking:
+      0:
+        V0341016:
+          point:
+            1: Unreturned
+        V0341012:
+          point:
+            1: Returned
+  11:
+    cooking:
+      0:
+        V0341031:
+          point:
+            1: Returned
+        V0341027:
+          point:
+            1: Unreturned
+  12:
+    cooking:
+      0:
+        V0141062:
+          point:
+            1: Unreturned
+        V0241017:
+          point:
+            1: Returned
+  13:
+    cooking:
+      0:
+        V0241001:
+          point:
+            1: Returned
+        V0341034:
+          point:
+            1: Unreturned
+  14:
+    cooking:
+      0:
+        V0241024:
+          point:
+            1: Returned
+        V0141063:
+          point:
+            1: Unreturned
