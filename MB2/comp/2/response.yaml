@@ -1,0 +1,223 @@
+---
+free:
+  0:
+    transport:
+      0:
+        N05202101:
+          point:
+            1: Nil
+        N04200051:
+          point:
+            1: Nil
+    telephoning:
+      0:
+        N05202101:
+          point:
+            1: Unreturned
+        N04200051:
+          point:
+            1: Returned
+  1:
+    transport:
+      0:
+        N04200001:
+          point:
+            1: Returned
+        N05262101:
+          point:
+            1: Unreturned
+    telephoning:
+      0:
+        N04200001:
+          point:
+            1: Nil
+        N05262101:
+          point:
+            1: Nil
+  2:
+    transport:
+      0:
+        N04200041:
+          point:
+            1: Unreturned
+        N04200043:
+          point:
+            1: Nil
+    telephoning:
+      0:
+        N04200041:
+          point:
+            1: Nil
+        N04200043:
+          point:
+            1: Returned
+  3:
+    transport:
+      0:
+        N03203201:
+          point:
+            1: Unreturned
+        N03200018:
+          point:
+            1: Returned
+    telephoning:
+      0:
+        N03203201:
+          point:
+            1: Nil
+        N03200018:
+          point:
+            1: Nil
+  4:
+    transport:
+      0:
+        N04200022:
+          point:
+            1: Unreturned
+        N03200036:
+          point:
+            1: Returned
+    telephoning:
+      0:
+        N04200022:
+          point:
+            1: Nil
+        N03200036:
+          point:
+            1: Nil
+  5:
+    transport:
+      0:
+        N03200010:
+          point:
+            1: Unreturned
+        N03200034:
+          point:
+            1: Returned
+    telephoning:
+      0:
+        N03200010:
+          point:
+            1: Nil
+        N03200034:
+          point:
+            1: Nil
+  6:
+    transport:
+      0:
+        N04200032:
+          point:
+            1: Nil
+        N04200045:
+          point:
+            1: Returned
+    telephoning:
+      0:
+        N04200032:
+          point:
+            1: Unreturned
+        N04200045:
+          point:
+            1: Nil
+  7:
+    transport:
+      0:
+        N04200025:
+          point:
+            1: Unreturned
+        N03200006:
+          point:
+            1: Returned
+    telephoning:
+      0:
+        N04200025:
+          point:
+            1: Nil
+        N03200006:
+          point:
+            1: Nil
+  8:
+    transport:
+      0:
+        N04200010:
+          point:
+            1: Unreturned
+        N04200003:
+          point:
+            1: Returned
+    telephoning:
+      0:
+        N04200010:
+          point:
+            1: Nil
+        N04200003:
+          point:
+            1: Nil
+  9:
+    transport:
+      0:
+        N05202103:
+          point:
+            1: Unreturned
+        N04200060:
+          point:
+            1: Returned
+    telephoning:
+      0:
+        N05202103:
+          point:
+            1: Nil
+        N04200060:
+          point:
+            1: Nil
+  10:
+    transport:
+      0:
+        N04200055:
+          point:
+            1: Unreturned
+        N04200029:
+          point:
+            1: Returned
+    telephoning:
+      0:
+        N04200055:
+          point:
+            1: Nil
+        N04200029:
+          point:
+            1: Nil
+  11:
+    transport:
+      0:
+        N04200005:
+          point:
+            1: Returned
+        N04200014:
+          point:
+            1: Nil
+    telephoning:
+      0:
+        N04200005:
+          point:
+            1: Nil
+        N04200014:
+          point:
+            1: Unreturned
+  12:
+    transport:
+      0:
+        N03200016:
+          point:
+            1: Unreturned
+        N03200011:
+          point:
+            1: Returned
+    telephoning:
+      0:
+        N03200016:
+          point:
+            1: Nil
+        N03200011:
+          point:
+            1: Nil

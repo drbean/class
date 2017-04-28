@@ -1,0 +1,88 @@
+---
+activity:
+  transport:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+  telephoning:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+assistant:
+  1-2:
+    N04200057: 5
+  1-3:
+    N04200049: 5
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: N05202101
+    Black: N04200051
+  1:
+    White: N04200001
+    Black: N05262101
+  2:
+    White: N04200041
+    Black: N04200043
+  3:
+    White: N03203201
+    Black: N03200018
+  4:
+    White: N04200022
+    Black: N03200036
+  5:
+    White: N03200010
+    Black: N03200034
+  6:
+    White: N04200032
+    Black: N04200045
+  7:
+    White: N04200025
+    Black: N03200006
+  8:
+    White: N04200010
+    Black: N04200003
+  9:
+    White: N05202103
+    Black: N04200060
+  10:
+    White: N04200055
+    Black: N04200029
+  11:
+    White: N04200005
+    Black: N04200014
+  12:
+    White: N03200016
+    Black: N03200011
+  
+late:
+  - N03200011
+  - N03200016
+pairing: swiss
+payprotocol: meritPay 1
+round: 2
+text: /home/drbean/curriculum/conversation/psych/cards.yaml
+week: 9
