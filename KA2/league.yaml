@@ -15,6 +15,13 @@ id: 052AFN2KA2
 jigsaw: exam
 league: NAF021__四技外二甲
 member:
+  - Chinese: 田雅勻
+    email: tyy8399@gmail.com
+    id: N03200016
+    name: YaYun
+    password: ya
+    rating: ~
+
   - Chinese: 鄭惠云
     email: a0931206159@gmail.com
     id: N01200047
@@ -214,12 +221,6 @@ member:
     password: qi
     rating: ~
 out:
-  - Chinese: 田雅勻
-    email: tyy8399@gmail.com
-    id: N03200016
-    name: YaYun
-    password: ya
-    rating: ~
   - Chinese: 劉弘浩
     email: jj1654788237@gmail.com
     id: N04200048
