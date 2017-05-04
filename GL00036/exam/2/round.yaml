@@ -1,0 +1,54 @@
+---
+round: Exam 2
+week: 10
+questions:
+  - 10
+pass: 5
+assistant:
+absent:
+  - Hubert
+  - Johnny
+  - Sheng
+  - Christine
+  - Mandy
+  - Daniel
+text: /home/drbean/curriculum/conversation/trend/cards.yaml
+activity:
+  dastoor:
+    0:
+      - 3-1
+      - 1-2
+    1:
+      - 4-2
+      - 4-1
+    2:
+      - 2-2
+      - 1-1
+
+
+
+group:
+  1-1:
+    - Eva
+    - Justin
+    - Lin
+  1-2:
+    - Nina
+    - Jason
+    - Luna
+  2-2:
+    - Mark
+    - Andy
+    - Lucy2
+  3-1:
+    - Amber
+    - Robert
+    - Yuki
+  4-1:
+    - Melody
+    - Tiffany
+    - Tim
+  4-2:
+    - Ariel
+    - Lucy1
+    - Frank

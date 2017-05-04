@@ -1,0 +1,66 @@
+---
+activity:
+  transport:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+  telephoning:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+assistant:
+# bye: U0516029
+#dispensation:
+#  2-2:
+#    U0516029: 5
+divisions: ~
+group:
+  0:
+    White: U0516029
+    Black: U0510012
+  
+  1:
+    White: U0533003
+    Black: U0521133
+  2:
+    White: U0531211
+    Black: U0521143
+  3:
+    White: U0534047
+    Black: U0516008
+  4:
+    White: U0517046
+    Black: U0542014
+  5:
+    White: U0543045
+    Black: U0517025
+  6:
+    White: U0534033
+    Black: U0557029
+  7:
+    White: U0533016
+    Black: U0516048
+  8:
+    White: U0543040
+    Black: U0531144
+late:
+  - U0510012
+pairing: swiss
+payprotocol: meritPay 2
+round: 2
+text: /home/drbean/curriculum/conversation/trend/cards.yaml
+week: 10
