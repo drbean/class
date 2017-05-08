@@ -1,0 +1,206 @@
+---
+base:
+  AbbyLi6616: 2738
+  BambooLiang52: 20792
+  ChuckCCChen: 15247
+  JiWu0433: 20090
+  JiaLingLi6: 12457
+  JieYuea94: 2459
+  ShelliYang54: 13491
+  ShihJackie28: 21122
+  SiYun8a61: 4950
+  V0241008_Eric: 9812
+  V0341033: 5591
+  WeiTingWang99: 12161
+  Yuan-KaiLin46: 20455
+  pamjoy28: 23535
+  上秋心44: 964
+  劉家瑋84: 9814
+  卓意瑄5: 14409
+  威昇_劉Jason: 7872
+  嵐伊槿35: 2189
+  彥熾_李78: 19635
+  怡萍_梁26: 33599
+  江宜潔48: 23702
+  江潔西16: 3236
+  田心吳22: 17876
+  羅宇辰9: 9823
+  羅文伶35: 112358
+  胡靖宜95: 24530
+  萬世揚87: 8393
+  葉芳成3: 6306
+  郭姿婷85: 10649
+  陳佑維53: 35540
+  黃俊豪Kevin: 9093
+  黃鈺婷93: 21284
+exercise: memrise
+grade:
+  Abby: '2.34'
+  Allen: '2.00'
+  Andy1: '4.01'
+  Andy2: '2.37'
+  Annie: '2.10'
+  Antonio: '2.27'
+  Bamboo: '4.03'
+  Chuck: '4.31'
+  Eric: '5.00'
+  Gina: '2.00'
+  Jackie: '2.00'
+  Janice: '2.00'
+  Jason: '4.17'
+  Jessica: '2.00'
+  Jessie: '2.00'
+  Johnson: '2.07'
+  Joy: '4.23'
+  Joyce: '2.00'
+  Karsten: '4.56'
+  Kevin: '4.81'
+  Leon: '2.00'
+  Lily: '2.00'
+  Lori: '2.78'
+  Nina: '4.00'
+  Rita: '2.00'
+  Sandy: '3.17'
+  Shelli: '2.63'
+  Stark: '2.00'
+  Tina1: '4.34'
+  Tina2: '2.82'
+  Toby: '2.00'
+  Wan: '4.02'
+  Winnie1: '2.94'
+id:
+  Abby: AbbyLi6616
+  Allen: 彥熾_李78
+  Andy1: 田心吳22
+  Andy2: 劉家瑋84
+  Annie: 江宜潔48
+  Antonio: V0341033
+  Bamboo: BambooLiang52
+  Chuck: ChuckCCChen
+  Eric: V0241008_Eric
+  Gina: SiYun8a61
+  Jackie: ShihJackie28
+  Janice: 怡萍_梁26
+  Jason: 威昇_劉Jason
+  Jessica: JieYuea94
+  Jessie: 江潔西16
+  Johnson: 陳佑維53
+  Joy: pamjoy28
+  Joyce: 胡靖宜95
+  Karsten: Yuan-KaiLin46
+  Kevin: 黃俊豪Kevin
+  Leon: 上秋心44
+  Lily: 卓意瑄5
+  Lori: 羅文伶35
+  Nina: WeiTingWang99
+  Rita: 嵐伊槿35
+  Sandy: 羅宇辰9
+  Shelli: ShelliYang54
+  Stark: JiWu0433
+  Tina1: 郭姿婷85
+  Tina2: JiaLingLi6
+  Toby: 葉芳成3
+  Wan: 萬世揚87
+  Winnie1: 黃鈺婷93
+raw_increase:
+  AbbyLi6616: 448
+  BambooLiang52: 3286
+  ChuckCCChen: 9137
+  JiWu0433: 0
+  JiaLingLi6: 1065
+  JieYuea94: 0
+  ShelliYang54: 828
+  ShihJackie28: 0
+  SiYun8a61: 0
+  V0241008_Eric: 23376
+  V0341033: 353
+  WeiTingWang99: 2608
+  Yuan-KaiLin46: 14296
+  pamjoy28: 7334
+  上秋心44: 0
+  劉家瑋84: 487
+  卓意瑄5: 0
+  威昇_劉Jason: 6073
+  嵐伊槿35: 0
+  彥熾_李78: 0
+  怡萍_梁26: 0
+  江宜潔48: 135
+  江潔西16: 0
+  田心吳22: 2860
+  羅宇辰9: 1526
+  羅文伶35: 1015
+  胡靖宜95: 0
+  萬世揚87: 3028
+  葉芳成3: 0
+  郭姿婷85: 9732
+  陳佑維53: 90
+  黃俊豪Kevin: 19411
+  黃鈺婷93: 1230
+test:
+  AbbyLi6616: 3186
+  BambooLiang52: 24078
+  ChuckCCChen: 24384
+  JiWu0433: 20090
+  JiaLingLi6: 13522
+  JieYuea94: 2459
+  ShelliYang54: 14319
+  ShihJackie28: 21122
+  SiYun8a61: 4950
+  V0241008_Eric: 33188
+  V0341033: 5944
+  WeiTingWang99: 14769
+  Yuan-KaiLin46: 34751
+  pamjoy28: 30869
+  上秋心44: 964
+  劉家瑋84: 10301
+  卓意瑄5: 14409
+  威昇_劉Jason: 13945
+  嵐伊槿35: 2189
+  彥熾_李78: 19635
+  怡萍_梁26: 33599
+  江宜潔48: 23837
+  江潔西16: 3236
+  田心吳22: 20736
+  羅宇辰9: 11349
+  羅文伶35: 113373
+  胡靖宜95: 24530
+  萬世揚87: 11421
+  葉芳成3: 6306
+  郭姿婷85: 20381
+  陳佑維53: 35630
+  黃俊豪Kevin: 28504
+  黃鈺婷93: 22514
+---
+V0141038: '2.00'
+V0141062: '4.56'
+V0141063: '4.23'
+V0241001: '2.00'
+V0241004: '2.00'
+V0241008: '5.00'
+V0241017: '4.01'
+V0241024: '2.34'
+V0241026: '2.00'
+V0241034: '4.00'
+V0241039: '2.00'
+V0241041: '2.94'
+V0241045: '3.17'
+V0241046: '4.31'
+V0241064: '4.81'
+V0241066: '4.34'
+V0241067: '4.17'
+V0341005: '2.00'
+V0341010: '2.00'
+V0341012: '2.10'
+V0341016: '2.78'
+V0341019: '2.00'
+V0341024: '4.03'
+V0341025: '4.02'
+V0341027: '2.00'
+V0341031: '2.37'
+V0341033: '2.27'
+V0341034: '2.00'
+V0341035: '2.07'
+V0341037: '2.00'
+V0341044: '2.63'
+V0341051: '2.00'
+V0341052: '2.82'
