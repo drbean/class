@@ -216,6 +216,6 @@ session:
   1: 0
   2: 7
 weights:
-  classwork: 48
-  exams: 48
-  homework: 4
+  classwork: 40
+  exams: 30
+  homework: 30
