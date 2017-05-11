@@ -1,37 +1,33 @@
 ---
-2-1:
-  - Justin
-  - Tiffany
-2-2:
-  - Sheng
-  - Ariel
-2-3:
-  - Frank
-  - Johnny
-3-1:
-  - Robert
-  - Lin
-3-2:
-  - Lucy2
-  - Melody
-3-3:
-  - Eva
-  - Hubert
-4-1:
-  - Mandy
-  - Daniel
-4-2:
-  - Mark
+1-1:
   - Amber
-4-3:
+  - Eva
+  - Mark
+1-2:
+  - Hubert
+  - Lucy1
+  - Tiffany
+2-1:
+  - Christine
   - Andy
   - Yuki
-5-1:
+2-2:
   - Nina
-  - Lucy1
-5-2:
-  - Christine
-  - Tim
-5-3:
   - Luna
+  - Lucy2
+3-1:
+  - Daniel
+  - Tim
+  - Lin
+3-2:
+  - Mandy
   - Jason
+  - Robert
+4-1:
+  - Johnny
+  - Frank
+  - Sheng
+4-2:
+  - Melody
+  - Ariel
+  - Justin
