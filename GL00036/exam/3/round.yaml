@@ -1,0 +1,62 @@
+---
+round: Exam 2
+week: 10
+questions:
+  - 10
+pass: 5
+assistant:
+  - Yuki
+  - Sheng
+  - Frank
+absent:
+  - Eva
+  - Daniel
+  - Johnny
+  - Jason
+text: /home/drbean/curriculum/conversation/action/cards.yaml
+activity:
+  moore:
+    0:
+      - 1-2
+      - 2-4
+    1:
+      - 1-3
+      - 3-2
+    2:
+      - 1-1
+      - 1-4
+      - 3-1
+      - 3-3
+group:
+  1-1:
+    - Justin
+    - Mark
+    - Tim
+  1-2:
+    - Hubert
+    - Lucy1
+    - Tiffany
+  1-3:
+    - Christine
+    - Andy
+    - Yuki
+  1-4:
+    - Nina
+    - Luna
+    - Lucy2
+  2-4:
+    - Amber
+    - Tim
+    - Lin
+  3-1:
+    - Mandy
+    - Yuki
+    - Robert
+  3-2:
+    - Melody
+    - Frank
+    - Sheng
+  3-3:
+    - Frank
+    - Ariel
+    - Sheng

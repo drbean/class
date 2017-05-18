@@ -1,0 +1,172 @@
+---
+free:
+  0:
+    effectiveness:
+      0:
+        U0557037:
+          point:
+            1: Unreturned
+        U0516044:
+          point:
+            1: Returned
+    language:
+      0:
+        U0557037:
+          point:
+            1: Unreturned
+        U0516044:
+          point:
+            1: Returned
+  1:
+    effectiveness:
+      0:
+        U0510012:
+          point:
+            1: Returned
+        U0516005:
+          point:
+            1: Unreturned
+    language:
+      0:
+        U0510012:
+          point:
+            1: Nil
+        U0516005:
+          point:
+            1: Nil
+  2:
+    effectiveness:
+      0:
+        U0510005:
+          point:
+            1: Unreturned
+        U0516029:
+          point:
+            1: Returned
+    language:
+      0:
+        U0510005:
+          point:
+            1: Unreturned
+        U0516029:
+          point:
+            1: Returned
+  3:
+    effectiveness:
+      0:
+        U0516008:
+          point:
+            1: Returned
+        U0531211:
+          point:
+            1: Unreturned
+    language:
+      0:
+        U0516008:
+          point:
+            1: Returned
+        U0531211:
+          point:
+            1: Unreturned
+  4:
+    effectiveness:
+      0:
+        U0521133:
+          point:
+            1: Unreturned
+        U0517046:
+          point:
+            1: Returned
+    language:
+      0:
+        U0521133:
+          point:
+            1: Unreturned
+        U0517046:
+          point:
+            1: Returned
+  5:
+    effectiveness:
+      0:
+        U0521143:
+          point:
+            1: Returned
+        U0534047:
+          point:
+            1: Unreturned
+    language:
+      0:
+        U0521143:
+          point:
+            1: Unreturned
+        U0534047:
+          point:
+            1: Returned
+  6:
+    effectiveness:
+      0:
+        U0542014:
+          point:
+            1: Returned
+        U0543040:
+          point:
+            1: Unreturned
+    language:
+      0:
+        U0542014:
+          point:
+            1: Unreturned
+        U0543040:
+          point:
+            1: Returned
+  7:
+    effectiveness:
+      0:
+        U0516048:
+          point:
+            1: Unreturned
+        U0534033:
+          point:
+            1: Returned
+    language:
+      0:
+        U0516048:
+          point:
+            1: Returned
+        U0534033:
+          point:
+            1: Unreturned
+  8:
+    effectiveness:
+      0:
+        U0557029:
+          point:
+            1: Returned
+        U0533016:
+          point:
+            1: Unreturned
+    language:
+      0:
+        U0557029:
+          point:
+            1: Unreturned
+        U0533016:
+          point:
+            1: Returned
+  9:
+    effectiveness:
+      0:
+        U0531144:
+          point:
+            1: Returned
+        U0543045:
+          point:
+            1: Unreturned
+    language:
+      0:
+        U0531144:
+          point:
+            1: Nil
+        U0543045:
+          point:
+            1: Nil
