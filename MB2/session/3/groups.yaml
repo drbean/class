@@ -1,46 +1,41 @@
 ---
 1-1:
-  - Ivy
-  - Sally
-1-2:
-  - Royal
-  - Lulu
-1-3:
-  - Roundy
-  - Rain
-1-4:
-  - ZiYan
-  - Summer
-2-1:
-  - WeiChi
-  - Katy
-2-2:
-  - Vicky
-  - Levi
-2-3:
-  - Stan
   - RuJing
-2-4:
-  - SiouWei
-  - Luffy
-3-1:
-  - Sunny
-  - Becca
-3-2:
-  - HuiMei
-  - YanXiang
-3-3:
-  - Margaret
-  - Gary
-3-4:
-  - Tony
   - Kris
-4-1:
-  - Kelly
+  - Ivy
+1-2:
+  - Luffy
+  - Becca
+  - Roundy
+1-3:
+  - Margaret
+  - WeiChi
+  - Gary
+2-1:
+  - YanXiang
   - YaYun
-4-2:
-  - Guan
+  - SiouWei
+2-2:
   - Sarah
-4-3:
-  - Max
+  - Vicky
+  - Kelly
+2-3:
   - Ivan
+  - HuiMei
+  - Royal
+3-1:
+  - Rain
+  - ZiYan
+  - Guan
+3-2:
+  - Katy
+  - Sally
+  - Tony
+4-1:
+  - Levi
+  - Max
+  - Summer
+4-2:
+  - Sunny
+  - Lulu
+  - Stan
