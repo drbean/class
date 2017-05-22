@@ -1,0 +1,137 @@
+---
+free:
+  0:
+    device:
+      0:
+        V0241008:
+          point:
+            1: Unreturned
+        V0341005:
+          point:
+            1: Returned
+  1:
+    device:
+      0:
+        V0341010:
+          point:
+            1: Unreturned
+        V0341019:
+          point:
+            1: Returned
+  2:
+    device:
+      0:
+        V0241039:
+          point:
+            1: Unreturned
+        V0241045:
+          point:
+            1: Returned
+  3:
+    device:
+      0:
+        V0341031:
+          point:
+            1: Unreturned
+        V0241067:
+          point:
+            1: Returned
+  4:
+    device:
+      0:
+        V0241026:
+          point:
+            1: Returned
+        V0241017:
+          point:
+            1: Unreturned
+  5:
+    device:
+      0:
+        V0341052:
+          point:
+            1: Unreturned
+        V0241024:
+          point:
+            1: Returned
+  6:
+    device:
+      0:
+        V0341051:
+          point:
+            1: Returned
+        V0341025:
+          point:
+            1: Unreturned
+  7:
+    device:
+      0:
+        V0241046:
+          point:
+            1: Unreturned
+        V0341016:
+          point:
+            1: Returned
+  8:
+    device:
+      0:
+        V0341033:
+          point:
+            1: Returned
+        V0341037:
+          point:
+            1: Returned
+  9:
+    device:
+      0:
+        V0241001:
+          point:
+            1: Unreturned
+        V0341012:
+          point:
+            1: Returned
+  10:
+    device:
+      0:
+        V0341035:
+          point:
+            1: Unreturned
+        V0341034:
+          point:
+            1: Returned
+  11:
+    device:
+      0:
+        V0141062:
+          point:
+            1: Unreturned
+        V0241066:
+          point:
+            1: Returned
+  12:
+    device:
+      0:
+        V0241041:
+          point:
+            1: Returned
+        V0141063:
+          point:
+            1: Unreturned
+  13:
+    device:
+      0:
+        V0341044:
+          point:
+            1: Unreturned
+        V0241004:
+          point:
+            1: Returned
+  14:
+    device:
+      0:
+        V0341027:
+          point:
+            1: Unreturned
+        V0341024:
+          point:
+            1: Returned
