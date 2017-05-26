@@ -1,0 +1,73 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 5
+pass: 2
+assistant:
+absent:
+  - Roundy
+  - Margaret
+  - WeiChi
+  - YaYun
+  - Ivan
+  - Royal
+  - Summer
+text: /home/drbean/curriculum/conversation/action/cards.yaml
+activity:
+  moore:
+    0:
+      - 2-1
+      - 3-2
+      - 4-1
+    1:
+      - 1-2
+      - 2-2
+      - 2-3
+      - 4-2
+    2:
+      - 1-1
+      - 1-3
+      - 3-1
+
+group:
+  1-1:
+    - RuJing
+    - Kris
+    - Ivy
+  1-2:
+    - Luffy
+    - Becca
+    - Becca
+  1-3:
+    - Gary
+    - Gary
+    - Gary
+  2-1:
+    - YanXiang
+    - SiouWei
+    - SiouWei
+  2-2:
+    - Sarah
+    - Vicky
+    - Kelly
+  2-3:
+    - HuiMei
+    - HuiMei
+    - HuiMei
+  3-1:
+    - Rain
+    - ZiYan
+    - Guan
+  3-2:
+    - Katy
+    - Sally
+    - Tony
+  4-1:
+    - Levi
+    - Max
+    - Max
+  4-2:
+    - Sunny
+    - Lulu
+    - Stan

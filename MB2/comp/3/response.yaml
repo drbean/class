@@ -1,0 +1,172 @@
+---
+free:
+  0:
+    effectiveness:
+      0:
+        N03200006:
+          point:
+            1: Nil
+        N03203105:
+          point:
+            1: Nil
+    language:
+      0:
+        N03200006:
+          point:
+            1: Returned
+        N03203105:
+          point:
+            1: Unreturned
+  1:
+    effectiveness:
+      0:
+        N03200018:
+          point:
+            1: Nil
+        N04200051:
+          point:
+            1: Nil
+    language:
+      0:
+        N03200018:
+          point:
+            1: Unreturned
+        N04200051:
+          point:
+            1: Returned
+  2:
+    effectiveness:
+      0:
+        N04200049:
+          point:
+            1: Nil
+        N04200041:
+          point:
+            1: Nil
+    language:
+      0:
+        N04200049:
+          point:
+            1: Returned
+        N04200041:
+          point:
+            1: Unreturned
+  3:
+    effectiveness:
+      0:
+        N05202101:
+          point:
+            1: Nil
+        N03203201:
+          point:
+            1: Nil
+    language:
+      0:
+        N05202101:
+          point:
+            1: Unreturned
+        N03203201:
+          point:
+            1: Returned
+  4:
+    effectiveness:
+      0:
+        N04200003:
+          point:
+            1: Nil
+        N04200045:
+          point:
+            1: Nil
+    language:
+      0:
+        N04200003:
+          point:
+            1: Returned
+        N04200045:
+          point:
+            1: Unreturned
+  5:
+    effectiveness:
+      0:
+        N04200060:
+          point:
+            1: Nil
+        N04200010:
+          point:
+            1: Nil
+    language:
+      0:
+        N04200060:
+          point:
+            1: Unreturned
+        N04200010:
+          point:
+            1: Returned
+  6:
+    effectiveness:
+      0:
+        N04200032:
+          point:
+            1: Nil
+        N05202103:
+          point:
+            1: Nil
+    language:
+      0:
+        N04200032:
+          point:
+            1: Returned
+        N05202103:
+          point:
+            1: Unreturned
+  7:
+    effectiveness:
+      0:
+        N03200034:
+          point:
+            1: Nil
+        N03200036:
+          point:
+            1: Nil
+    language:
+      0:
+        N03200034:
+          point:
+            1: Unreturned
+        N03200036:
+          point:
+            1: Returned
+  8:
+    effectiveness:
+      0:
+        N05262101:
+          point:
+            1: Nil
+        N04200029:
+          point:
+            1: Nil
+    language:
+      0:
+        N05262101:
+          point:
+            1: Unreturned
+        N04200029:
+          point:
+            1: Nil
+  9:
+    effectiveness:
+      0:
+        N03200010:
+          point:
+            1: Nil
+        N03200011:
+          point:
+            1: Returned
+    language:
+      0:
+        N03200010:
+          point:
+            1: Unreturned
+        N03200011:
+          point:
+            1: Nil

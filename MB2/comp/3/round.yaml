@@ -1,0 +1,83 @@
+---
+activity:
+  effectiveness:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+  language:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+assistant:
+  3-2:
+    N04200001: 5
+    N04200005: 5
+  1-2:
+    N04200014: 5
+dispensation:
+  4-2:
+    N03203105: 5
+divisions: ~
+group:
+  0:
+    White: N03200006
+    Black: N03203105
+  
+  1:
+    White: N03200018
+    Black: N04200051
+  2:
+    White: N04200049
+    Black: N04200041
+  3:
+    White: N05202101
+    Black: N03203201
+  4:
+    White: N04200003
+    Black: N04200045
+  5:
+    White: N04200060
+    Black: N04200010
+  6:
+    White: N04200032
+    Black: N05202103
+  7:
+    White: N03200034
+    Black: N03200036
+  8:
+    White: N05262101
+    Black: N04200029
+  9:
+    White: N03200010
+    Black: N03200011
+  
+late:
+  - N03200006
+  - N03200034
+  - N03200036
+  - N05262101
+  - N03200010
+  - N03200011
+forfeit:
+  - N04200029
+pairing: swiss
+payprotocol: meritPay 1
+round: 3
+text: /home/drbean/curriculum/conversation/action/cards.yaml
+week: 13
