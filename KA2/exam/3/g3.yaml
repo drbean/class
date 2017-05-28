@@ -1,0 +1,527 @@
+---
+exercise: evaluation
+fishing:
+  N03200006:
+    N03200034: 2
+  N03200011:
+    N03200027: 3
+  N03200014:
+    N04202103: 5
+  N03200018:
+    N03203105: 5
+  N03200027:
+    N03200011: 2
+  N03200034:
+    N03200006: 3
+  N03200036:
+    N03200018: 4
+  N03202104:
+    N05202201: 5
+  N03203105:
+    N03200018: 3
+  N04200002:
+    N04200009: 3
+  N04200007:
+    N03202104: 2
+  N04200009:
+    N04200002: 3
+  N04200011:
+    N04200035: 4
+  N04200018:
+    N04200026: 5
+  N04200024:
+    N04200052: 4
+  N04200026:
+    N04200056: 4
+  N04200035:
+    N04200038: 4
+  N04200038:
+    N04200011: 5
+  N04200050:
+    N03202104: 2
+  N04200052:
+    N04200024: 4
+  N04200056:
+    N04200018: 4
+  N04202103:
+    N03200036: 5
+  N04202105:
+    N03200014: 4
+  N05202201:
+    N04200007: 5
+evaluators:
+  N01200047:
+    fishing: ~
+    house: ~
+  N02200012:
+    fishing: ~
+    house: ~
+  N03200006:
+    fishing:
+      N03200034: 2
+      drbean: 4
+    house:
+      N03200034: 3
+      drbean: 5
+  N03200011:
+    fishing:
+      N03200027: 3
+      drbean: 3
+    house:
+      N03200027: 4
+      drbean: 5
+  N03200014:
+    fishing:
+      N04202103: 5
+      drbean: 5
+    house:
+      N03202104: 5
+      drbean: 4
+  N03200016:
+    fishing: ~
+    house: ~
+  N03200018:
+    fishing:
+      N03203105: 5
+      drbean: 3
+    house:
+      N03203105: 5
+      drbean: 4
+  N03200027:
+    fishing:
+      N03200011: 2
+      drbean: 3
+    house:
+      N03200011: 2
+      drbean: 3
+  N03200034:
+    fishing:
+      N03200006: 3
+      drbean: 4
+    house:
+      N03200006: 3
+      drbean: 4
+  N03200036:
+    fishing:
+      N03200018: 4
+      drbean: 3
+    house:
+      N03200018: 4
+      drbean: 3
+  N03202104:
+    fishing:
+      N05202201: 5
+      drbean: 5
+    house:
+      N05202201: 5
+      drbean: 5
+  N03203105:
+    fishing:
+      N03200018: 3
+      drbean: 3
+    house:
+      N03200018: 4
+      drbean: 3
+  N04200002:
+    fishing:
+      N04200009: 3
+      drbean: 5
+    house:
+      N04202105: 2
+      drbean: 3
+  N04200004:
+    fishing: ~
+    house: ~
+  N04200007:
+    fishing:
+      N03202104: 2
+      drbean: 3
+    house:
+      N05202201: 5
+      drbean: 5
+  N04200009:
+    fishing:
+      N04200002: 3
+      drbean: 5
+    house:
+      N05202201: 4
+      drbean: 5
+  N04200011:
+    fishing:
+      N04200035: 4
+      drbean: 5
+    house:
+      N04200035: 4
+      drbean: 5
+  N04200016:
+    fishing: ~
+    house: ~
+  N04200018:
+    fishing:
+      N04200026: 5
+      drbean: 5
+    house:
+      N04200026: 4
+      drbean: 4
+  N04200021:
+    fishing: ~
+    house: ~
+  N04200024:
+    fishing:
+      N04200052: 4
+      drbean: 4
+    house:
+      N04200052: 5
+      drbean: 5
+  N04200026:
+    fishing:
+      N04200056: 4
+      drbean: 5
+    house:
+      N04200056: 4
+      drbean: 5
+  N04200031:
+    fishing: ~
+    house: ~
+  N04200035:
+    fishing:
+      N04200038: 4
+      drbean: 3
+    house:
+      N04200038: 4
+      drbean: 3
+  N04200038:
+    fishing:
+      N04200011: 5
+      drbean: 3
+    house:
+      N04200011: 5
+      drbean: 3
+  N04200044:
+    fishing: ~
+    house: ~
+  N04200050:
+    fishing:
+      N03202104: 2
+      drbean: 3
+    house:
+      N03200014: 2
+      drbean: 4
+  N04200052:
+    fishing:
+      N04200024: 4
+      drbean: 4
+    house:
+      N04200024: 5
+      drbean: 5
+  N04200054:
+    fishing: ~
+    house: ~
+  N04200056:
+    fishing:
+      N04200018: 4
+      drbean: 4
+    house:
+      N04200018: 4
+      drbean: 5
+  N04202103:
+    fishing:
+      N03200036: 5
+      drbean: 2
+    house:
+      N04200050: 4
+      drbean: 5
+  N04202105:
+    fishing:
+      N03200014: 4
+      drbean: 3
+    house:
+      N04202103: 4
+      drbean: 4
+  N05202201:
+    fishing:
+      N04200007: 5
+      drbean: 4
+    house:
+      N04202105: 4
+      drbean: 3
+  N05202203:
+    fishing: ~
+    house: ~
+house:
+  N03200006:
+    N03200034: 3
+  N03200011:
+    N03200027: 4
+  N03200014:
+    N03202104: 5
+  N03200018:
+    N03203105: 5
+  N03200027:
+    N03200011: 2
+  N03200034:
+    N03200006: 3
+  N03200036:
+    N03200018: 4
+  N03202104:
+    N05202201: 5
+  N03203105:
+    N03200018: 4
+  N04200002:
+    N04202105: 2
+  N04200007:
+    N05202201: 5
+  N04200009:
+    N05202201: 4
+  N04200011:
+    N04200035: 4
+  N04200018:
+    N04200026: 4
+  N04200024:
+    N04200052: 5
+  N04200026:
+    N04200056: 4
+  N04200035:
+    N04200038: 4
+  N04200038:
+    N04200011: 5
+  N04200050:
+    N03200014: 2
+  N04200052:
+    N04200024: 5
+  N04200056:
+    N04200018: 4
+  N04202103:
+    N04200050: 4
+  N04202105:
+    N04202103: 4
+  N05202201:
+    N04202105: 4
+points:
+  N01200047: 0
+  N02200012: 0
+  N03200006: 0
+  N03200011: 0
+  N03200014: 0
+  N03200016: 0
+  N03200018: 0
+  N03200027: 0
+  N03200034: 0
+  N03200036: 0
+  N03202104: 0
+  N03203105: 0
+  N04200002: 0
+  N04200004: 0
+  N04200007: 0
+  N04200009: 0
+  N04200011: 0
+  N04200016: 0
+  N04200018: 0
+  N04200021: 0
+  N04200024: 0
+  N04200026: 0
+  N04200031: 0
+  N04200035: 0
+  N04200038: 0
+  N04200044: 0
+  N04200050: 0
+  N04200052: 0
+  N04200054: 0
+  N04200056: 0
+  N04202103: 0
+  N04202105: 0
+  N05202201: 0
+  N05202203: 0
+evaluees:
+  N01200047:
+    fishing: ~
+    house: ~
+  N02200012:
+    fishing: ~
+    house: ~
+  N03200006:
+    fishing:
+      N03200034: 3
+      drbean: 4
+    house:
+      N03200034: 3
+      drbean: 4
+  N03200011:
+    fishing:
+      N03200027: 2
+      drbean: 3
+    house:
+      N03200027: 2
+      drbean: 3
+  N03200014:
+    fishing:
+      N04202105: 4
+      drbean: 3
+    house:
+      N04200050: 2
+      drbean: 4
+  N03200016:
+    fishing: ~
+    house: ~
+  N03200018:
+    fishing:
+      N03200036: 4
+      N03203105: 3
+      drbean: 3
+    house:
+      N03200036: 4
+      N03203105: 4
+      drbean: 3
+  N03200027:
+    fishing:
+      N03200011: 3
+      drbean: 3
+    house:
+      N03200011: 4
+      drbean: 5
+  N03200034:
+    fishing:
+      N03200006: 2
+      drbean: 4
+    house:
+      N03200006: 3
+      drbean: 5
+  N03200036:
+    fishing:
+      N04202103: 5
+      drbean: 2
+    house: ~
+  N03202104:
+    fishing:
+      N04200007: 2
+      N04200050: 2
+      drbean: 3
+    house:
+      N03200014: 5
+      drbean: 4
+  N03203105:
+    fishing:
+      N03200018: 5
+      drbean: 3
+    house:
+      N03200018: 5
+      drbean: 4
+  N04200002:
+    fishing:
+      N04200009: 3
+      drbean: 5
+    house: ~
+  N04200004:
+    fishing: ~
+    house: ~
+  N04200007:
+    fishing:
+      N05202201: 5
+      drbean: 4
+    house: ~
+  N04200009:
+    fishing:
+      N04200002: 3
+      drbean: 5
+    house: ~
+  N04200011:
+    fishing:
+      N04200038: 5
+      drbean: 3
+    house:
+      N04200038: 5
+      drbean: 3
+  N04200016:
+    fishing: ~
+    house: ~
+  N04200018:
+    fishing:
+      N04200056: 4
+      drbean: 4
+    house:
+      N04200056: 4
+      drbean: 5
+  N04200021:
+    fishing: ~
+    house: ~
+  N04200024:
+    fishing:
+      N04200052: 4
+      drbean: 4
+    house:
+      N04200052: 5
+      drbean: 5
+  N04200026:
+    fishing:
+      N04200018: 5
+      drbean: 5
+    house:
+      N04200018: 4
+      drbean: 4
+  N04200031:
+    fishing: ~
+    house: ~
+  N04200035:
+    fishing:
+      N04200011: 4
+      drbean: 5
+    house:
+      N04200011: 4
+      drbean: 5
+  N04200038:
+    fishing:
+      N04200035: 4
+      drbean: 3
+    house:
+      N04200035: 4
+      drbean: 3
+  N04200044:
+    fishing: ~
+    house: ~
+  N04200050:
+    fishing: ~
+    house:
+      N04202103: 4
+      drbean: 5
+  N04200052:
+    fishing:
+      N04200024: 4
+      drbean: 4
+    house:
+      N04200024: 5
+      drbean: 5
+  N04200054:
+    fishing: ~
+    house: ~
+  N04200056:
+    fishing:
+      N04200026: 4
+      drbean: 5
+    house:
+      N04200026: 4
+      drbean: 5
+  N04202103:
+    fishing:
+      N03200014: 5
+      drbean: 5
+    house:
+      N04202105: 4
+      drbean: 4
+  N04202105:
+    fishing: ~
+    house:
+      N04200002: 2
+      N05202201: 4
+      drbean: 3
+  N05202201:
+    fishing:
+      N03202104: 5
+      drbean: 5
+    house:
+      N03202104: 5
+      N04200007: 5
+      N04200009: 4
+      drbean: 5
+  N05202203:
+    fishing: ~
+    house: ~
