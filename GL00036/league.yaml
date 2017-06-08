@@ -140,8 +140,10 @@ out: ~
 room: A706
 school: nuu
 session:
-  1: 1
-  2: 2
+  1: 7
+  2: 9
+  3: 11
+  4: 13
 weights:
   classwork: 20
   exams: 40
