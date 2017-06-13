@@ -1,51 +1,44 @@
 ---
-2-1:
-  - Jessica
-  - Antonio
-2-2:
-  - Tina1
-  - Tina2
-2-3:
-  - Rita
+1-1:
+  - Abby
+  - Jason
+  - Shelli
+  - Jessie
+1-2:
+  - Gina
+  - Jackie
+  - Andy2
+  - Annie
+1-3:
+  - Leon
   - Janice
-2-4:
-  - Joy
-  - Bamboo
-3-5:
-  - Toby
+  - Wan
+  - Rita
+2-1:
+  - Antonio
+  - Lily
+  - Kevin
+  - Joyce
+2-2:
+  - Allen
+  - Tina1
+  - Nina
+  - Lori
 3-1:
   - Winnie1
-  - Abby
-3-2:
-  - Wan
-  - Shelli
-3-3:
-  - Gina
-  - Karsten
-3-4:
-  - Jason
-  - Andy2
-4-1:
-  - Jessie
-  - Allen
-4-2:
-  - Chuck
-  - Eric
-4-3:
-  - Joyce
-  - Jackie
-4-4:
-  - Lily
   - Johnson
-5-1:
-  - Andy1
-  - Stark
-5-2:
-  - Kevin
-  - Leon
-5-3:
+  - Bamboo
+3-2:
   - Sandy
-  - Nina
-5-4:
-  - Annie
-  - Lori
+  - Tina2
+  - Andy1
+  - Chuck
+4-1:
+  - Joy
+  - Karsten
+  - Stark
+  - Toby
+out:
+  - Jessica
+  - Eric
+  
