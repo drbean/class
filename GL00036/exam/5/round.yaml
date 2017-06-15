@@ -1,0 +1,53 @@
+---
+round: Exam 5
+week: 16
+questions:
+  - 10
+pass: 5
+assistant:
+  - Johnny
+absent:
+  - Frank
+  - Daniel
+  - Eva
+  - Lin
+text: /home/drbean/curriculum/conversation/people/cards.yaml
+activity:
+  branson:
+    0:
+      - 1-1
+      - 1-2
+      - 1-3
+      - 1-4
+      - 2-4
+      - 3-1
+      - 3-2
+group:
+  1-1:
+    - Nina
+    - Lucy2
+    - Tim
+  1-2:
+    - Robert
+    - Jason
+    - Ariel
+  1-3:
+    - Johnny
+    - Lucy1
+    - Melody
+  1-4:
+    - Sheng
+    - Hubert
+    - Andy
+  2-4:
+    - Mandy
+    - Justin
+    - Johnny
+  3-1:
+    - Yuki
+    - Tiffany
+    - Mark
+  3-2:
+    - Christine
+    - Luna
+    - Amber
