@@ -1,0 +1,66 @@
+---
+activity:
+  business:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+  risk:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+assistant: ~
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: U0516044
+    Black: U0534048
+  1:
+    White: U0516005
+    Black: U0533003
+  2:
+    White: U0510005
+    Black: U0510012
+  3:
+    White: U0517046
+    Black: U0516029
+  4:
+    White: U0557037
+    Black: U0516008
+  5:
+    White: U0531211
+    Black: U0542014
+  6:
+    White: U0521143
+    Black: U0521133
+  7:
+    White: U0534047
+    Black: U0531144
+  8:
+    White: U0534033
+    Black: U0543045
+  9:
+    White: U0557029
+    Black: U0543040
+late:
+pairing: swiss
+payprotocol: meritPay 2
+round: 5
+text: /home/drbean/curriculum/conversation/people/cards.yaml
+week: 16

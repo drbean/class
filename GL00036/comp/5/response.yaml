@@ -1,0 +1,172 @@
+---
+free:
+  0:
+    business:
+      0:
+        U0516044:
+          point:
+            1: Unreturned
+        U0534048:
+          point:
+            1: Returned
+    risk:
+      0:
+        U0516044:
+          point:
+            1: Unreturned
+        U0534048:
+          point:
+            1: Returned
+  1:
+    business:
+      0:
+        U0516005:
+          point:
+            1: Returned
+        U0533003:
+          point:
+            1: Unreturned
+    risk:
+      0:
+        U0516005:
+          point:
+            1: Returned
+        U0533003:
+          point:
+            1: Unreturned
+  2:
+    business:
+      0:
+        U0510005:
+          point:
+            1: Unreturned
+        U0510012:
+          point:
+            1: Returned
+    risk:
+      0:
+        U0510005:
+          point:
+            1: Unreturned
+        U0510012:
+          point:
+            1: Returned
+  3:
+    business:
+      0:
+        U0517046:
+          point:
+            1: Unreturned
+        U0516029:
+          point:
+            1: Returned
+    risk:
+      0:
+        U0517046:
+          point:
+            1: Returned
+        U0516029:
+          point:
+            1: Unreturned
+  4:
+    business:
+      0:
+        U0557037:
+          point:
+            1: Returned
+        U0516008:
+          point:
+            1: Unreturned
+    risk:
+      0:
+        U0557037:
+          point:
+            1: Unreturned
+        U0516008:
+          point:
+            1: Returned
+  5:
+    business:
+      0:
+        U0531211:
+          point:
+            1: Unreturned
+        U0542014:
+          point:
+            1: Returned
+    risk:
+      0:
+        U0531211:
+          point:
+            1: Returned
+        U0542014:
+          point:
+            1: Unreturned
+  6:
+    business:
+      0:
+        U0521143:
+          point:
+            1: Unreturned
+        U0521133:
+          point:
+            1: Returned
+    risk:
+      0:
+        U0521143:
+          point:
+            1: Returned
+        U0521133:
+          point:
+            1: Unreturned
+  7:
+    business:
+      0:
+        U0534047:
+          point:
+            1: Returned
+        U0531144:
+          point:
+            1: Unreturned
+    risk:
+      0:
+        U0534047:
+          point:
+            1: Unreturned
+        U0531144:
+          point:
+            1: Returned
+  8:
+    business:
+      0:
+        U0534033:
+          point:
+            1: Unreturned
+        U0543045:
+          point:
+            1: Returned
+    risk:
+      0:
+        U0534033:
+          point:
+            1: Returned
+        U0543045:
+          point:
+            1: Unreturned
+  9:
+    business:
+      0:
+        U0557029:
+          point:
+            1: Unreturned
+        U0543040:
+          point:
+            1: Returned
+    risk:
+      0:
+        U0557029:
+          point:
+            1: Unreturned
+        U0543040:
+          point:
+            1: Returned
