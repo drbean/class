@@ -1,0 +1,172 @@
+---
+free:
+  0:
+    sleep:
+      0:
+        U0516005:
+          point:
+            1: Returned
+        U0510005:
+          point:
+            1: Unreturned
+    wellbeing:
+      0:
+        U0516005:
+          point:
+            1: Unreturned
+        U0510005:
+          point:
+            1: Returned
+  1:
+    sleep:
+      0:
+        U0517025:
+          point:
+            1: Returned
+        U0516044:
+          point:
+            1: Unreturned
+    wellbeing:
+      0:
+        U0517025:
+          point:
+            1: Returned
+        U0516044:
+          point:
+            1: Unreturned
+  2:
+    sleep:
+      0:
+        U0534048:
+          point:
+            1: Returned
+        U0517046:
+          point:
+            1: Unreturned
+    wellbeing:
+      0:
+        U0534048:
+          point:
+            1: Returned
+        U0517046:
+          point:
+            1: Unreturned
+  3:
+    sleep:
+      0:
+        U0510012:
+          point:
+            1: Returned
+        U0533003:
+          point:
+            1: Unreturned
+    wellbeing:
+      0:
+        U0510012:
+          point:
+            1: Returned
+        U0533003:
+          point:
+            1: Unreturned
+  4:
+    sleep:
+      0:
+        U0516029:
+          point:
+            1: Unreturned
+        U0557037:
+          point:
+            1: Returned
+    wellbeing:
+      0:
+        U0516029:
+          point:
+            1: Unreturned
+        U0557037:
+          point:
+            1: Returned
+  5:
+    sleep:
+      0:
+        U0516008:
+          point:
+            1: Returned
+        U0533016:
+          point:
+            1: Unreturned
+    wellbeing:
+      0:
+        U0516008:
+          point:
+            1: Unreturned
+        U0533016:
+          point:
+            1: Returned
+  6:
+    sleep:
+      0:
+        U0542014:
+          point:
+            1: Returned
+        U0521143:
+          point:
+            1: Unreturned
+    wellbeing:
+      0:
+        U0542014:
+          point:
+            1: Returned
+        U0521143:
+          point:
+            1: Unreturned
+  7:
+    sleep:
+      0:
+        U0534033:
+          point:
+            1: Returned
+        U0543040:
+          point:
+            1: Unreturned
+    wellbeing:
+      0:
+        U0534033:
+          point:
+            1: Unreturned
+        U0543040:
+          point:
+            1: Returned
+  8:
+    sleep:
+      0:
+        U0543045:
+          point:
+            1: Unreturned
+        U0534047:
+          point:
+            1: Returned
+    wellbeing:
+      0:
+        U0543045:
+          point:
+            1: Returned
+        U0534047:
+          point:
+            1: Unreturned
+  9:
+    sleep:
+      0:
+        U0521133:
+          point:
+            1: Returned
+        U0557029:
+          point:
+            1: Unreturned
+    wellbeing:
+      0:
+        U0521133:
+          point:
+            1: Unreturned
+        U0557029:
+          point:
+            1: Returned

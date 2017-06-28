@@ -1,0 +1,69 @@
+---
+activity:
+  sleep:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+  wellbeing:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+assistant: ~
+dispensation:
+  1-1:
+    U0516048: 4
+divisions: ~
+bye: U0516048
+group:
+  0:
+    White: U0516005
+    Black: U0510005
+  1:
+    White: U0517025
+    Black: U0516044
+  2:
+    White: U0534048
+    Black: U0517046
+  3:
+    White: U0510012
+    Black: U0533003
+  4:
+    White: U0516029
+    Black: U0557037
+  5:
+    White: U0516008
+    Black: U0533016
+  6:
+    White: U0542014
+    Black: U0521143
+  7:
+    White: U0534033
+    Black: U0543040
+  8:
+    White: U0543045
+    Black: U0534047
+  9:
+    White: U0521133
+    Black: U0557029
+late:
+pairing: swiss adjusted
+payprotocol: meritPay 2
+round: 6
+text: /home/drbean/curriculum/conversation/wellbeing/cards.yaml
+week: 18
