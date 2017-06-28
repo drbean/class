@@ -1,0 +1,344 @@
+---
+cutpoints:
+  loser: 2
+  quitter: 1
+  winner: 2
+exercise: autism
+grade:
+  U0510005: 2
+  U0510012: 1
+  U0516005: 1
+  U0516008: 1
+  U0516029: 0
+  U0516044: 0
+  U0516048: 1
+  U0517025: 1
+  U0517046: 2
+  U0521133: 2
+  U0521143: 2
+  U0531113: 2
+  U0531144: 2
+  U0531211: 1
+  U0533003: 0
+  U0533016: 1
+  U0534033: 2
+  U0534047: 2
+  U0534048: 2
+  U0542014: 2
+  U0543040: 2
+  U0543045: 2
+  U0557029: 2
+  U0557037: 2
+points:
+  U0510005:
+    Wh:
+      answers: 1
+      questions: 0
+      attempts: 4
+    Yn:
+      answers: 1
+      questions: 0
+      attempts: 10
+    Tag:
+      answers: 1
+      questions: 0
+      attempts: 3
+  U0510012:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 8
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0516005:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 0
+      attempts: 6
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0516008:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 0
+      attempts: 8
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0516029:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0516044:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0516048:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 0
+      attempts: 4
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0517025:
+    Wh:
+      answers: 1
+      questions: 0
+      attempts: 3
+    Yn:
+      answers: 2
+      questions: 0
+      attempts: 5
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0517046:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 7
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0521133:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 4
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0521143:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 6
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0531113:
+    Wh:
+      answers: 4
+      questions: 0
+      attempts: 5
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0531144:
+    Wh:
+      answers: 4
+      questions: 0
+      attempts: 10
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0531211:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 5
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0533003:
+    Wh:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Yn:
+      answers: ~
+      questions: ~
+      attempts: ~
+    Tag:
+      answers: ~
+      questions: ~
+      attempts: ~
+  U0533016:
+    Wh:
+      answers: 2
+      questions: 0
+      attempts: 10
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0534033:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 18
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0534047:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 5
+      questions: 0
+      attempts: 11
+  U0534048:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 3
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0542014:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 4
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0543040:
+    Wh:
+      answers: 1
+      questions: 0
+      attempts: 13
+    Yn:
+      answers: 1
+      questions: 0
+      attempts: 12
+    Tag:
+      answers: 1
+      questions: 0
+      attempts: 3
+  U0543045:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 14
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0557029:
+    Wh:
+      answers: 3
+      questions: 0
+      attempts: 13
+    Yn:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
+  U0557037:
+    Wh:
+      answers: 0
+      questions: 0
+      attempts: 0
+    Yn:
+      answers: 3
+      questions: 0
+      attempts: 21
+    Tag:
+      answers: 0
+      questions: 0
+      attempts: 0
