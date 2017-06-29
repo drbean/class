@@ -1,0 +1,36 @@
+GL00036 日大一英文進階班一甲    高來圭,程小芳 英文(二) Grades
+Classwork: 20
+Homework: 40
+Exams: 40
+Failing: 6 / 24 = 25%
+Raw
+  Low: 13
+  Median: 69
+  Mean 63.4583333333333
+  High: 85
+                             Classwork H'work Exams    Total
+Sheng	U0510005		45	83	71	71
+Nina	U0510012		60	75	65	68
+Christine	U0516005		97	25	58	53
+Luna	U0516008		99	42	84	70
+Tim	U0516029		100	75	66	76
+Hubert	U0516044		93	33	35	46
+Lin	U0516048		72	58	65	64
+Eva	U0517025		86	83	47	69
+Melody	U0517046		100	100	60	84
+Robert	U0521133		89	67	78	76
+Yuki	U0521143		88	67	80	76
+Daniel	U0531113		1	17	14	13
+Tiffany	U0531144		83	100	71	85
+Lucy2	U0531211		73	58	61	62
+Jason	U0533003		41	0	39	24
+Frank	U0533016		80	17	48	42
+Justin	U0534033		92	67	66	71
+Mark	U0534047		81	83	85	83
+Johnny	U0534048		14	33	32	29
+Lucy1	U0542014		93	100	56	81
+Ariel	U0543040		64	83	75	76
+Amber	U0543045		59	67	77	69
+Andy	U0557029		88	50	79	69
+Mandy	U0557037		88	58	63	66
+
