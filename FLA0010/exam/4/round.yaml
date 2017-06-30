@@ -1,0 +1,67 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 10
+pass: 4
+assistant:
+  - Allen
+absent:
+  - Jessica
+  - Eric
+text: /home/drbean/curriculum/tech/academic/cards.yaml
+activity:
+  imrad:
+    2:
+      - Black
+      - Orange
+      - Pink
+    3:
+      - Blue
+      - Purple
+    4:
+      - Brown
+      - Gray
+      - Red
+
+group:
+  Black:
+    - Abby
+    - Jason
+    - Shelli
+    - Jessie
+  Blue:
+    - Gina
+    - Jackie
+    - Andy2
+    - Annie
+  Brown:
+    - Leon
+    - Janice
+    - Wan
+    - Rita
+  Gray:
+    - Antonio
+    - Lily
+    - Kevin
+    - Joyce
+  Orange:
+    - Allen
+    - Tina1
+    - Nina
+    - Lori
+  Pink:
+    - Winnie1
+    - Johnson
+    - Bamboo
+    - Allen
+  Purple:
+    - Sandy
+    - Tina2
+    - Andy1
+    - Chuck
+  Red:
+    - Joy
+    - Karsten
+    - Stark
+    - Toby

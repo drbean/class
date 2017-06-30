@@ -1,0 +1,59 @@
+---
+Chinese:
+  Black: 0
+  Blue: 0
+  Brown: 0
+  Gray: 0
+  Orange: 0
+  Pink: 0
+  Purple: 0
+  Red: 0
+letters:
+  Black:
+    V0241024: 6
+    V0241067: 4
+    V0341044: 5
+    V0341037: 2
+    story: imrad2
+  Blue:
+    V0341051: 5
+    V0241004: 3
+    V0341031: 3
+    V0341012: 4
+    story: imrad3
+  Brown:
+    V0341027: 2
+    V0241039: 6
+    V0341025: 6
+    V0241026: 7
+    story: imrad4
+  Gray:
+    V0341033: 5
+    V0341019: 4
+    V0241064: 5
+    V0241001: 1
+    story: imrad4
+  Orange:
+    V0341034: 6
+    V0241066: 4
+    V0241034: 6
+    V0341016: 6
+    story: imrad2
+  Pink:
+    V0241041: 8
+    V0341035: 8
+    V0341024: 10
+    V0341034: 9
+    story: imrad2
+  Purple:
+    V0241045: 5
+    V0341052: 3
+    V0241017: 3
+    V0241046: 5
+    story: imrad3
+  Red:
+    V0141063: 7
+    V0141062: 7
+    V0341005: 3
+    V0341010: 5
+    story: imrad4
