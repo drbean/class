@@ -3,7 +3,7 @@ absent: ~
 active: ~
 anterior: 042FLA0021
 approach: GroupworkNoFault
-classMax: 3
+classMax: 100
 compcomp: comp
 examMax: 5
 exams: exam
@@ -11,7 +11,7 @@ field: 科技英文
 group: session
 groupwork: classwork
 hw: homework
-hwMax: 2
+hwMax: 100
 id: 052FLA0010
 league: 夜應外大學四甲
 member:
@@ -212,6 +212,6 @@ session:
   3: 10
   4: 14
 weights:
-  classwork: 20
+  classwork: 40
   exams: 40
-  homework: 40
+  homework: 20
