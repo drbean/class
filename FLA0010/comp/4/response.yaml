@@ -1,0 +1,128 @@
+---
+free:
+  1:
+    academic:
+      0:
+        V0341019:
+          point:
+            1: Returned
+        V0241034:
+          point:
+            1: Unreturned
+  2:
+    academic:
+      0:
+        V0341005:
+          point:
+            1: Unreturned
+        V0241026:
+          point:
+            1: Returned
+  3:
+    academic:
+      0:
+        V0241067:
+          point:
+            1: Unreturned
+        V0241045:
+          point:
+            1: Returned
+  4:
+    academic:
+      0:
+        V0241024:
+          point:
+            1: Returned
+        V0341010:
+          point:
+            1: Unreturned
+  5:
+    academic:
+      0:
+        V0341012:
+          point:
+            1: Unreturned
+        V0241039:
+          point:
+            1: Returned
+  6:
+    academic:
+      0:
+        V0341016:
+          point:
+            1: Returned
+        V0341031:
+          point:
+            1: Unreturned
+  7:
+    academic:
+      0:
+        V0241017:
+          point:
+            1: Returned
+        V0341051:
+          point:
+            1: Unreturned
+  8:
+    academic:
+      0:
+        V0341034:
+          point:
+            1: Unreturned
+        V0341033:
+          point:
+            1: Returned
+  9:
+    academic:
+      0:
+        V0341037:
+          point:
+            1: Unreturned
+        V0341052:
+          point:
+            1: Returned
+  10:
+    academic:
+      0:
+        V0341025:
+          point:
+            1: Unreturned
+        V0241001:
+          point:
+            1: Returned
+  11:
+    academic:
+      0:
+        V0241066:
+          point:
+            1: Unreturned
+        V0341035:
+          point:
+            1: Returned
+  12:
+    academic:
+      0:
+        V0241004:
+          point:
+            1: Returned
+        V0241041:
+          point:
+            1: Unreturned
+  13:
+    academic:
+      0:
+        V0241046:
+          point:
+            1: Unreturned
+        V0341044:
+          point:
+            1: Returned
+  14:
+    academic:
+      0:
+        V0141063:
+          point:
+            1: Returned
+        V0141062:
+          point:
+            1: Unreturned
