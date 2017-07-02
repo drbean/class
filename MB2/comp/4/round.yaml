@@ -1,0 +1,91 @@
+---
+activity:
+  business:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+  risk:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+assistant:
+  2-3:
+    N04200029: 5
+  1-1:
+    N05262101: 5
+bye: N03200010
+dispensation:
+  4-2:
+    N03200010: 3
+divisions: ~
+group:
+  0:
+    White: N03200016
+    Black: N03200011
+  
+  1:
+    White: N01200047
+    Black: N04200001
+  2:
+    White: N03200036
+    Black: N03203105
+  3:
+    White: N04200057
+    Black: N04200022
+  4:
+    White: N04200051
+    Black: N05262101
+  5:
+    White: N03200034
+    Black: N03200006
+  6:
+    White: N04200025
+    Black: N03200018
+  7:
+    White: N04200005
+    Black: N04200049
+  8:
+    White: N03203201
+    Black: N04200003
+  9:
+    White: N04200014
+    Black: N04200055
+  10:
+    White: N04200041
+    Black: N04200032
+  11:
+    White: N04200045
+    Black: N04200060
+  12:
+    White: N05202103
+    Black: N04200010
+late:
+  - N03200011
+  - N03200010
+pairing: swiss adjusted
+payprotocol: meritPay 1
+round: 4
+text: /home/drbean/curriculum/conversation/people/cards.yaml
+week: 18
