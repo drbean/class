@@ -1,0 +1,780 @@
+---
+compare:
+  evaluations:
+    N01200047:
+      N03200011: 3
+    N02200012:
+      N04200007: 4
+    N03200006:
+      N03200034: 4
+    N03200011:
+      N01200047: 3
+    N03200014:
+      N03200006: 3
+    N03200016:
+      N04202105: 5
+    N03200018:
+      N03200014: 4
+    N03200027:
+      N03203105: 3
+    N03200034:
+      N04200050: 2
+    N03200036:
+      N05202203: 4
+    N03202104:
+      N03203105: 4
+    N03203105:
+      N03200027: 3
+    N04200002:
+      N04200009: 3
+    N04200004:
+      N03200018: 4
+    N04200007:
+      N04200018: 3
+    N04200009:
+      N04200002: 2
+    N04200011:
+      N04200035: 4
+    N04200018:
+      N03200016: 3
+    N04200021:
+      N04200031: 5
+    N04200024:
+      N04200021: 5
+    N04200026:
+      N04200052: 4
+    N04200031:
+      N04200024: 3
+    N04200035:
+      N02200012: 3
+    N04200038:
+      N04200044: 4
+    N04200044:
+      N04200038: 4
+    N04200050:
+      N05202201: 5
+    N04200052:
+      N04200026: 4
+    N04200056:
+      N04200050: 4
+    N04202103:
+      N04200004: 4
+    N04202105:
+      N04202103: 4
+    N05202201:
+      N04200050: 3
+    N05202203:
+      N03200036: 4
+evaluators:
+  N01200047:
+    compare:
+      N03200011:
+        drbean: 3
+        peer: 3
+      fit: 50
+    study:
+      N03200011:
+        drbean: 3
+        peer: 3
+      fit: 50
+  N02200012:
+    compare:
+      N04200007:
+        drbean: 4
+        peer: 4
+      fit: 50
+    study:
+      N04200011:
+        drbean: 2
+        peer: 4
+      fit: 15
+  N03200006:
+    compare:
+      N03200034:
+        drbean: 5
+        peer: 4
+      fit: 35
+    study:
+      N03200034:
+        drbean: 4
+        peer: 3
+      fit: 35
+  N03200011:
+    compare:
+      N01200047:
+        drbean: 3
+        peer: 3
+      fit: 50
+    study:
+      N01200047:
+        drbean: 3
+        peer: 3
+      fit: 50
+  N03200014:
+    compare:
+      N03200006:
+        drbean: 3
+        peer: 3
+      fit: 50
+    study:
+      N03200006:
+        drbean: 3
+        peer: 3
+      fit: 50
+  N03200016:
+    compare:
+      N04202105:
+        drbean: 3
+        peer: 5
+      fit: 15
+    study:
+      N04202105:
+        drbean: 4
+        peer: 5
+      fit: 35
+  N03200018:
+    compare:
+      N03200014:
+        drbean: 3
+        peer: 4
+      fit: 35
+    study:
+      N03200014:
+        drbean: 3
+        peer: 4
+      fit: 35
+  N03200027:
+    compare:
+      N03203105:
+        drbean: 4
+        peer: 3
+      fit: 35
+    study:
+      N03203105:
+        drbean: 3
+        peer: 4
+      fit: 35
+  N03200034:
+    compare:
+      N04200050:
+        drbean: 3
+        peer: 2
+      fit: 35
+    study:
+      N04200056:
+        drbean: 3
+        peer: 4
+      fit: 35
+  N03200036:
+    compare:
+      N05202203:
+        drbean: 5
+        peer: 4
+      fit: 35
+    study:
+      N05202203:
+        drbean: 5
+        peer: 4
+      fit: 35
+  N03202104:
+    compare:
+      N03203105:
+        drbean: 4
+        peer: 4
+      fit: 50
+    study:
+      N03203105:
+        drbean: 3
+        peer: 4
+      fit: 35
+  N03203105:
+    compare:
+      N03200027:
+        drbean: 3
+        peer: 3
+      fit: 50
+    study:
+      N03200027:
+        drbean: 3
+        peer: 4
+      fit: 35
+  N04200002:
+    compare:
+      N04200009:
+        drbean: 4
+        peer: 3
+      fit: 35
+    study:
+      N04200009:
+        drbean: 2
+        peer: 1
+      fit: 35
+  N04200004:
+    compare:
+      N03200018:
+        drbean: 3
+        peer: 4
+      fit: 35
+    study:
+      N03200018:
+        drbean: 3
+        peer: 4
+      fit: 35
+  N04200007:
+    compare:
+      N04200018:
+        drbean: 3
+        peer: 3
+      fit: 50
+    study:
+      N04200018:
+        drbean: 3
+        peer: 5
+      fit: 15
+  N04200009:
+    compare:
+      N04200002:
+        drbean: 4
+        peer: 2
+      fit: 15
+    study:
+      N04200002:
+        drbean: 4
+        peer: 3
+      fit: 35
+  N04200011:
+    compare:
+      N04200035:
+        drbean: 4
+        peer: 4
+      fit: 50
+    study:
+      N04200035:
+        drbean: 5
+        peer: 4
+      fit: 35
+  N04200016:
+    compare:
+      fit: 0
+    study:
+      fit: 0
+  N04200018:
+    compare:
+      N03200016:
+        drbean: 3
+        peer: 3
+      fit: 50
+    study:
+      N03200016:
+        drbean: 3
+        peer: 5
+      fit: 15
+  N04200021:
+    compare:
+      N04200031:
+        drbean: 4
+        peer: 5
+      fit: 35
+    study:
+      N04200031:
+        drbean: 4
+        peer: 5
+      fit: 35
+  N04200024:
+    compare:
+      N04200021:
+        drbean: 4
+        peer: 5
+      fit: 35
+    study:
+      N04200021:
+        drbean: 5
+        peer: 5
+      fit: 50
+  N04200026:
+    compare:
+      N04200052:
+        drbean: 4
+        peer: 4
+      fit: 50
+    study:
+      N04200052:
+        drbean: 3
+        peer: 4
+      fit: 35
+  N04200031:
+    compare:
+      N04200024:
+        drbean: 5
+        peer: 3
+      fit: 15
+    study:
+      N04200024:
+        drbean: 4
+        peer: 4
+      fit: 50
+  N04200035:
+    compare:
+      N02200012:
+        drbean: 3
+        peer: 3
+      fit: 50
+    study:
+      N02200012:
+        drbean: 3
+        peer: 3
+      fit: 50
+  N04200038:
+    compare:
+      N04200044:
+        drbean: 3
+        peer: 4
+      fit: 35
+    study:
+      N04200044:
+        drbean: 4
+        peer: 4
+      fit: 50
+  N04200044:
+    compare:
+      N04200038:
+        drbean: 3
+        peer: 4
+      fit: 35
+    study:
+      N04200038:
+        drbean: 3
+        peer: 4
+      fit: 35
+  N04200050:
+    compare:
+      N05202201:
+        drbean: 5
+        peer: 5
+      fit: 50
+    study:
+      N05202201:
+        drbean: 5
+        peer: 5
+      fit: 50
+  N04200052:
+    compare:
+      N04200026:
+        drbean: 5
+        peer: 4
+      fit: 35
+    study:
+      N04200026:
+        drbean: 5
+        peer: 4
+      fit: 35
+  N04200054:
+    compare:
+      fit: 0
+    study:
+      fit: 0
+  N04200056:
+    compare:
+      N04200050:
+        drbean: 3
+        peer: 4
+      fit: 35
+    study:
+      N04200050:
+        drbean: 5
+        peer: 4
+      fit: 35
+  N04202103:
+    compare:
+      N04200004:
+        drbean: 4
+        peer: 4
+      fit: 50
+    study:
+      N04200004:
+        drbean: 4
+        peer: 4
+      fit: 50
+  N04202105:
+    compare:
+      N04202103:
+        drbean: 5
+        peer: 4
+      fit: 35
+    study:
+      N04202103:
+        drbean: 4
+        peer: 4
+      fit: 50
+  N05202201:
+    compare:
+      N04200050:
+        drbean: 3
+        peer: 3
+      fit: 50
+    study:
+      N04200050:
+        drbean: 5
+        peer: 3
+      fit: 15
+  N05202203:
+    compare:
+      N03200036:
+        drbean: 3
+        peer: 4
+      fit: 35
+    study:
+      N03200036:
+        drbean: 4
+        peer: 3
+      fit: 35
+evaluees:
+  N01200047:
+    compare:
+      N03200011: 3
+      drbean: 3
+    study:
+      N03200011: 3
+      drbean: 3
+  N02200012:
+    compare:
+      N04200035: 3
+      drbean: 3
+    study:
+      N04200035: 3
+      drbean: 3
+  N03200006:
+    compare:
+      N03200014: 3
+      drbean: 3
+    study:
+      N03200014: 3
+      drbean: 3
+  N03200011:
+    compare:
+      N01200047: 3
+      drbean: 3
+    study:
+      N01200047: 3
+      drbean: 3
+  N03200014:
+    compare:
+      N03200018: 4
+      drbean: 3
+    study:
+      N03200018: 4
+      drbean: 3
+  N03200016:
+    compare:
+      N04200018: 3
+      drbean: 3
+    study:
+      N04200018: 5
+      drbean: 3
+  N03200018:
+    compare:
+      N04200004: 4
+      drbean: 3
+    study:
+      N04200004: 4
+      drbean: 3
+  N03200027:
+    compare:
+      N03203105: 3
+      drbean: 3
+    study:
+      N03203105: 4
+      drbean: 3
+  N03200034:
+    compare:
+      N03200006: 4
+      drbean: 5
+    study:
+      N03200006: 3
+      drbean: 4
+  N03200036:
+    compare:
+      N05202203: 4
+      drbean: 3
+    study:
+      N05202203: 3
+      drbean: 4
+  N03203105:
+    compare:
+      N03200027: 3
+      N03202104: 4
+      drbean: 4
+    study:
+      N03200027: 4
+      N03202104: 4
+      drbean: 3
+  N04200002:
+    compare:
+      N04200009: 2
+      drbean: 4
+    study:
+      N04200009: 3
+      drbean: 4
+  N04200004:
+    compare:
+      N04202103: 4
+      drbean: 4
+    study:
+      N04202103: 4
+      drbean: 4
+  N04200007:
+    compare:
+      N02200012: 4
+      drbean: 4
+  N04200009:
+    compare:
+      N04200002: 3
+      drbean: 4
+    study:
+      N04200002: 1
+      drbean: 2
+  N04200011:
+    study:
+      N02200012: 4
+      drbean: 2
+  N04200018:
+    compare:
+      N04200007: 3
+      drbean: 3
+    study:
+      N04200007: 5
+      drbean: 3
+  N04200021:
+    compare:
+      N04200024: 5
+      drbean: 4
+    study:
+      N04200024: 5
+      drbean: 5
+  N04200024:
+    compare:
+      N04200031: 3
+      drbean: 5
+    study:
+      N04200031: 4
+      drbean: 4
+  N04200026:
+    compare:
+      N04200052: 4
+      drbean: 5
+    study:
+      N04200052: 4
+      drbean: 5
+  N04200031:
+    compare:
+      N04200021: 5
+      drbean: 4
+    study:
+      N04200021: 5
+      drbean: 4
+  N04200035:
+    compare:
+      N04200011: 4
+      drbean: 4
+    study:
+      N04200011: 4
+      drbean: 5
+  N04200038:
+    compare:
+      N04200044: 4
+      drbean: 3
+    study:
+      N04200044: 4
+      drbean: 3
+  N04200044:
+    compare:
+      N04200038: 4
+      drbean: 3
+    study:
+      N04200038: 4
+      drbean: 4
+  N04200050:
+    compare:
+      N03200034: 2
+      N04200056: 4
+      N05202201: 3
+      drbean: 3
+    study:
+      N04200056: 4
+      N05202201: 3
+      drbean: 5
+  N04200052:
+    compare:
+      N04200026: 4
+      drbean: 4
+    study:
+      N04200026: 4
+      drbean: 3
+  N04200056:
+    study:
+      N03200034: 4
+      drbean: 3
+  N04202103:
+    compare:
+      N04202105: 4
+      drbean: 5
+    study:
+      N04202105: 4
+      drbean: 4
+  N04202105:
+    compare:
+      N03200016: 5
+      drbean: 3
+    study:
+      N03200016: 5
+      drbean: 4
+  N05202201:
+    compare:
+      N04200050: 5
+      drbean: 5
+    study:
+      N04200050: 5
+      drbean: 5
+  N05202203:
+    compare:
+      N03200036: 4
+      drbean: 5
+    study:
+      N03200036: 4
+      drbean: 5
+fitness:
+  N01200047: 100
+  N02200012: 65
+  N03200006: 70
+  N03200011: 100
+  N03200014: 100
+  N03200016: 50
+  N03200018: 70
+  N03200027: 70
+  N03200034: 70
+  N03200036: 70
+  N03202104: 85
+  N03203105: 85
+  N04200002: 70
+  N04200004: 70
+  N04200007: 65
+  N04200009: 50
+  N04200011: 85
+  N04200016: 0
+  N04200018: 65
+  N04200021: 70
+  N04200024: 85
+  N04200026: 85
+  N04200031: 65
+  N04200035: 100
+  N04200038: 85
+  N04200044: 70
+  N04200050: 100
+  N04200052: 70
+  N04200054: 0
+  N04200056: 70
+  N04202103: 100
+  N04202105: 85
+  N05202201: 65
+  N05202203: 70
+study:
+  evaluations:
+    N01200047:
+      N03200011: 3
+    N02200012:
+      N04200011: 4
+    N03200006:
+      N03200034: 3
+    N03200011:
+      N01200047: 3
+    N03200014:
+      N03200006: 3
+    N03200016:
+      N04202105: 5
+    N03200018:
+      N03200014: 4
+    N03200027:
+      N03203105: 4
+    N03200034:
+      N04200056: 4
+    N03200036:
+      N05202203: 4
+    N03202104:
+      N03203105: 4
+    N03203105:
+      N03200027: 4
+    N04200002:
+      N04200009: 1
+    N04200004:
+      N03200018: 4
+    N04200007:
+      N04200018: 5
+    N04200009:
+      N04200002: 3
+    N04200011:
+      N04200035: 4
+    N04200018:
+      N03200016: 5
+    N04200021:
+      N04200031: 5
+    N04200024:
+      N04200021: 5
+    N04200026:
+      N04200052: 4
+    N04200031:
+      N04200024: 4
+    N04200035:
+      N02200012: 3
+    N04200038:
+      N04200044: 4
+    N04200044:
+      N04200038: 4
+    N04200050:
+      N05202201: 5
+    N04200052:
+      N04200026: 4
+    N04200056:
+      N04200050: 4
+    N04202103:
+      N04200004: 4
+    N04202105:
+      N04202103: 4
+    N05202201:
+      N04200050: 3
+    N05202203:
+      N03200036: 3
+---
+N01200047: 100
+N02200012: 65
+N03200006: 70
+N03200011: 100
+N03200014: 100
+N03200016: 50
+N03200018: 70
+N03200027: 70
+N03200034: 70
+N03200036: 70
+N03202104: 85
+N03203105: 85
+N04200002: 70
+N04200004: 70
+N04200007: 65
+N04200009: 50
+N04200011: 85
+N04200016: 0
+N04200018: 65
+N04200021: 70
+N04200024: 85
+N04200026: 85
+N04200031: 65
+N04200035: 100
+N04200038: 85
+N04200044: 70
+N04200050: 100
+N04200052: 70
+N04200054: 0
+N04200056: 70
+N04202103: 100
+N04202105: 85
+N05202201: 65
+N05202203: 70
