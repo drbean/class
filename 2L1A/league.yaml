@@ -1,0 +1,35 @@
+---
+absent: ~
+anterior: 042AFB2L2
+approach: GroupworkNoFault
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 英語會話(一)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 061AFB2L1A
+jigsaw: exam
+league: BAF021_四技應外二甲
+member:
+room: A705
+school: must
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 1
+  2: 6
+  3: 10
+  4: 14
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
