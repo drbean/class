@@ -1,0 +1,199 @@
+---
+absent: ~
+anterior: 052AFN2KA2
+approach: GroupworkNoFault
+classMax: 100
+compcomp: comp
+examMax: 100
+exams: exam
+field: 基礎英文寫作(一)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 100
+id: 061AFN251
+jigsaw: exam
+league: NAF021__四技外二甲
+member:
+  - Chinese: 張紘瑋
+    id: N01120009
+    name: 張紘瑋
+    password: hong
+    rating: ~
+  - Chinese: 楊明錡
+    id: N03093105
+    name: 楊明錡
+    password: ming
+    rating: ~
+  - Chinese: 吳英雄
+    id: N04200017
+    name: 吳英雄
+    password: ying
+    rating: ~
+  - Chinese: 孫怡安
+    id: N06203101
+    name: 孫怡安
+    password: yi
+    rating: ~
+  - Chinese: 許惠敏
+    id: N05200001
+    name: 許惠敏
+    password: hui
+    rating: ~
+  - Chinese: 徐梓玲
+    id: N05200002
+    name: 徐梓玲
+    password: zi
+    rating: ~
+  - Chinese: 許寶旺
+    id: N05200005
+    name: 許寶旺
+    password: bao
+    rating: ~
+  - Chinese: 陳思羽
+    id: N05200007
+    name: 陳思羽
+    password: si
+    rating: ~
+  - Chinese: 蕭富家
+    id: N05200008
+    name: 蕭富家
+    password: fu
+    rating: ~
+  - Chinese: 孫睿朋
+    id: N05200009
+    name: 孫睿朋
+    password: rui
+    rating: ~
+  - Chinese: 陶宥凱
+    id: N05200011
+    name: 陶宥凱
+    password: you
+    rating: ~
+  - Chinese: 葉昌鑫
+    id: N05200013
+    name: 葉昌鑫
+    password: chang
+    rating: ~
+  - Chinese: 張婷亭
+    id: N05200016
+    name: 張婷亭
+    password: ting
+    rating: ~
+  - Chinese: 徐雅琪
+    id: N05200017
+    name: 徐雅琪
+    password: ya
+    rating: ~
+  - Chinese: 蔡萍芳
+    id: N05200018
+    name: 蔡萍芳
+    password: ping
+    rating: ~
+  - Chinese: 胡政邦
+    id: N05200020
+    name: 胡政邦
+    password: zheng
+    rating: ~
+  - Chinese: 姚伊璘
+    id: N05200021
+    name: 姚伊璘
+    password: yi
+    rating: ~
+  - Chinese: 賴宣霓
+    id: N05200022
+    name: 賴宣霓
+    password: xuan
+    rating: ~
+  - Chinese: 湯亞芯
+    id: N05200023
+    name: 湯亞芯
+    password: ya
+    rating: ~
+  - Chinese: 溫宏傑
+    id: N05200026
+    name: 溫宏傑
+    password: hong
+    rating: ~
+  - Chinese: 馬承恩
+    id: N05200027
+    name: 馬承恩
+    password: cheng
+    rating: ~
+  - Chinese: 曾意珺
+    id: N05200029
+    name: 曾意珺
+    password: yi
+    rating: ~
+  - Chinese: 陳彥均
+    id: N05200030
+    name: 陳彥均
+    password: yan
+    rating: ~
+  - Chinese: 陸正維
+    id: N05200031
+    name: 陸正維
+    password: zheng
+    rating: ~
+  - Chinese: 張學介
+    id: N05200035
+    name: 張學介
+    password: xue
+    rating: ~
+  - Chinese: 周敬媛
+    id: N05200036
+    name: 周敬媛
+    password: jing
+    rating: ~
+  - Chinese: 范佳惠
+    id: N05200037
+    name: 范佳惠
+    password: jia
+    rating: ~
+  - Chinese: 林佳璇
+    id: N05200039
+    name: 林佳璇
+    password: jia
+    rating: ~
+  - Chinese: 李宥儒
+    id: N05200040
+    name: 李宥儒
+    password: you
+    rating: ~
+  - Chinese: 邱柏源
+    id: N05200041
+    name: 邱柏源
+    password: bai
+    rating: ~
+  - Chinese: 陳佩汝
+    id: N06202102
+    name: 陳佩汝
+    password: pei
+    rating: ~
+  - Chinese: 葉書漢
+    id: N06202103
+    name: 葉書漢
+    password: shu
+    rating: ~
+  - Chinese: 蔡若亞
+    id: N06202104
+    name: 蔡若亞
+    password: ruo
+    rating: ~
+out: ~
+room: A705
+school: must
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 1
+  2: 7
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
