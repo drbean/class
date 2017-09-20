@@ -15,6 +15,26 @@ id: 061AFB2L1B
 jigsaw: exam
 league: BAF022_四技應外二乙
 member:
+  - Chinese: 彭星維
+    id: B04140028
+    name: Parker
+    password: xing
+    rating: ~
+    email: pupss92086@yahoo.com.tw
+  
+  - Chinese: 廖士賓
+    id: B04202201
+    name: Tony
+    password: shi
+    rating: ~
+    email: smilmp0618@gmail.com
+  - Chinese: 陳虹寧
+    id: B04202204
+    name: Jasmine
+    password: hong
+    rating: ~
+    email: jasmine.02chen@gmail.com
+  
   - Chinese: 陳盈璇
     email: ieka9722@gmail.com
     id: B04200108
@@ -102,7 +122,7 @@ member:
   - Chinese: 余彥民
     email: tsrn74869677@gmail.com
     id: B05200063
-    name: Jimmy
+    name: Jimmy1
     password: yan
     rating: ~
   - Chinese: 官姿昕
@@ -132,7 +152,7 @@ member:
   - Chinese: 蔡文財
     email: adidas860904@yahoo.com.tw
     id: B05200083
-    name: 蔡文財
+    name: Jimmy2
     password: wen
     rating: ~
   - Chinese: 吳玉關
