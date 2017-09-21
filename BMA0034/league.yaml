@@ -11,303 +11,303 @@ group: session
 groupwork: classwork
 hw: homework
 hwMax: 3
-id: 061BMA0043
+id: 061BMA0034
 league: 日經管三乙
 member:
-- Chinese: 莊博宇
-  email: u0331109@smail.nuu.edu.tw
-  id: U0331109
-  name: Jackson
-  password: bo
-  rating: ~
-- Chinese: 郭姵儀
-  email: u0331123@smail.nuu.edu.tw
-  id: U0331123
-  name: Elaine
-  password: pei
-  rating: ~
-- Chinese: 陳宥瑜
-  email: u0331128@smail.nuu.edu.tw
-  id: U0331128
-  name: YouYu
-  password: you
-  rating: ~
-- Chinese: 邱創偉
-  email: u0331262@smail.nuu.edu.tw
-  id: U0331262
-  name: 邱創偉
-  password: chuang
-  rating: ~
-- Chinese: 張梓鑫
-  email: u0431101@smail.nuu.edu.tw
-  id: U0431101
-  name: 張梓鑫
-  password: zi
-  rating: ~
-- Chinese: 李茂像
-  email: u0431103@smail.nuu.edu.tw
-  id: U0431103
-  name: 李茂像
-  password: mao
-  rating: ~
-- Chinese: 黃秋蓉
-  email: u0431106@smail.nuu.edu.tw
-  id: U0431106
-  name: 黃秋蓉
-  password: qiu
-  rating: ~
-- Chinese: 陳遵仁
-  email: u0431107@smail.nuu.edu.tw
-  id: U0431107
-  name: 陳遵仁
-  password: zun
-  rating: ~
-- Chinese: 曾家晏
-  email: u0431108@smail.nuu.edu.tw
-  id: U0431108
-  name: 曾家晏
-  password: jia
-  rating: ~
-- Chinese: 陳逸紋
-  email: u0431109@smail.nuu.edu.tw
-  id: U0431109
-  name: 陳逸紋
-  password: yi
-  rating: ~
-- Chinese: 黃鳳瑛
-  email: u0431110@smail.nuu.edu.tw
-  id: U0431110
-  name: 黃鳳瑛
-  password: feng
-  rating: ~
-- Chinese: 羅以青
-  email: u0431111@smail.nuu.edu.tw
-  id: U0431111
-  name: 羅以青
-  password: yi
-  rating: ~
-- Chinese: 黃子容
-  email: u0431112@smail.nuu.edu.tw
-  id: U0431112
-  name: 黃子容
-  password: zi
-  rating: ~
-- Chinese: 蔡鎮宇
-  email: u0431114@smail.nuu.edu.tw
-  id: U0431114
-  name: 蔡鎮宇
-  password: zhen
-  rating: ~
-- Chinese: 鄭婷云
-  email: u0431115@smail.nuu.edu.tw
-  id: U0431115
-  name: 鄭婷云
-  password: ting
-  rating: ~
-- Chinese: 黃柔禎
-  email: u0431116@smail.nuu.edu.tw
-  id: U0431116
-  name: 黃柔禎
-  password: rou
-  rating: ~
-- Chinese: 羅天祥
-  email: u0431119@smail.nuu.edu.tw
-  id: U0431119
-  name: 羅天祥
-  password: tian
-  rating: ~
-- Chinese: 楊鈞閎
-  email: u0431120@smail.nuu.edu.tw
-  id: U0431120
-  name: 楊鈞閎
-  password: jun
-  rating: ~
-- Chinese: 吳尚桓
-  email: u0431121@smail.nuu.edu.tw
-  id: U0431121
-  name: 吳尚桓
-  password: shang
-  rating: ~
-- Chinese: 徐郁琳
-  email: u0431122@smail.nuu.edu.tw
-  id: U0431122
-  name: 徐郁琳
-  password: yu
-  rating: ~
-- Chinese: 莊沛祥
-  email: u0431123@smail.nuu.edu.tw
-  id: U0431123
-  name: 莊沛祥
-  password: pei
-  rating: ~
-- Chinese: 張宇竣
-  email: u0431124@smail.nuu.edu.tw
-  id: U0431124
-  name: 張宇竣
-  password: yu
-  rating: ~
-- Chinese: 范姜士昌
-  email: u0431125@smail.nuu.edu.tw
-  id: U0431125
-  name: 范姜士昌
-  password: jiang
-  rating: ~
-- Chinese: 林詠軒
-  email: u0431126@smail.nuu.edu.tw
-  id: U0431126
-  name: 林詠軒
-  password: yong
-  rating: ~
-- Chinese: 尤佑誠
-  email: u0431127@smail.nuu.edu.tw
-  id: U0431127
-  name: 尤佑誠
-  password: you
-  rating: ~
-- Chinese: 蘇柏穎
-  email: u0431129@smail.nuu.edu.tw
-  id: U0431129
-  name: 蘇柏穎
-  password: bo
-  rating: ~
-- Chinese: 蘇沄庭
-  email: u0431130@smail.nuu.edu.tw
-  id: U0431130
-  name: 蘇沄庭
-  password: yun
-  rating: ~
-- Chinese: 黃子恒
-  email: u0431132@smail.nuu.edu.tw
-  id: U0431132
-  name: 黃子恒
-  password: zi
-  rating: ~
-- Chinese: 藍中成
-  email: u0431133@smail.nuu.edu.tw
-  id: U0431133
-  name: 藍中成
-  password: zhong
-  rating: ~
-- Chinese: 鍾瑩葶
-  email: u0431134@smail.nuu.edu.tw
-  id: U0431134
-  name: 鍾瑩葶
-  password: ying
-  rating: ~
-- Chinese: 連柏為
-  email: u0431135@smail.nuu.edu.tw
-  id: U0431135
-  name: 連柏為
-  password: bo
-  rating: ~
-- Chinese: 余承儒
-  email: u0431136@smail.nuu.edu.tw
-  id: U0431136
-  name: 余承儒
-  password: cheng
-  rating: ~
-- Chinese: 朱翊瑄
-  email: u0431137@smail.nuu.edu.tw
-  id: U0431137
-  name: 朱翊瑄
-  password: yi
-  rating: ~
-- Chinese: 許立憲
-  email: u0431139@smail.nuu.edu.tw
-  id: U0431139
-  name: 許立憲
-  password: li
-  rating: ~
-- Chinese: 陳怡靜
-  email: u0431140@smail.nuu.edu.tw
-  id: U0431140
-  name: 陳怡靜
-  password: yi
-  rating: ~
-- Chinese: 謝佳佑
-  email: u0431141@smail.nuu.edu.tw
-  id: U0431141
-  name: 謝佳佑
-  password: jia
-  rating: ~
-- Chinese: 劉佩欣
-  email: u0431142@smail.nuu.edu.tw
-  id: U0431142
-  name: 劉佩欣
-  password: pei
-  rating: ~
-- Chinese: 佘宗濠
-  email: u0431143@smail.nuu.edu.tw
-  id: U0431143
-  name: 佘宗濠
-  password: zong
-  rating: ~
-- Chinese: 李世平
-  email: u0431144@smail.nuu.edu.tw
-  id: U0431144
-  name: 李世平
-  password: shi
-  rating: ~
-- Chinese: 蔡明翰
-  email: u0431146@smail.nuu.edu.tw
-  id: U0431146
-  name: 蔡明翰
-  password: ming
-  rating: ~
-- Chinese: 簡巧婷
-  email: u0431147@smail.nuu.edu.tw
-  id: U0431147
-  name: 簡巧婷
-  password: qiao
-  rating: ~
-- Chinese: 蔡宛螢
-  email: u0431148@smail.nuu.edu.tw
-  id: U0431148
-  name: 蔡宛螢
-  password: wan
-  rating: ~
-- Chinese: 廖珮晴
-  email: u0431150@smail.nuu.edu.tw
-  id: U0431150
-  name: 廖珮晴
-  password: pei
-  rating: ~
-- Chinese: 蔡宜芳
-  email: u0431151@smail.nuu.edu.tw
-  id: U0431151
-  name: 蔡宜芳
-  password: yi
-  rating: ~
-- Chinese: 李勗瑋
-  email: u0431152@smail.nuu.edu.tw
-  id: U0431152
-  name: 李勗瑋
-  password: xu
-  rating: ~
-- Chinese: 林祺烜
-  email: u0431153@smail.nuu.edu.tw
-  id: U0431153
-  name: 林祺烜
-  password: qi
-  rating: ~
-- Chinese: 孫國育
-  email: u0431154@smail.nuu.edu.tw
-  id: U0431154
-  name: 孫國育
-  password: guo
-  rating: ~
-- Chinese: 張雁菱
-  email: u0431155@smail.nuu.edu.tw
-  id: U0431155
-  name: 張雁菱
-  password: yan
-  rating: ~
-- Chinese: 羅劭竹
-  email: u0431156@smail.nuu.edu.tw
-  id: U0431156
-  name: 羅劭竹
-  password: shao
-  rating: ~
+  - Chinese: 莊博宇
+    email: u0331109@smail.nuu.edu.tw
+    id: U0331109
+    name: Jackson
+    password: bo
+    rating: ~
+  - Chinese: 郭姵儀
+    email: u0331123@smail.nuu.edu.tw
+    id: U0331123
+    name: Elaine
+    password: pei
+    rating: ~
+  - Chinese: 陳宥瑜
+    email: u0331128@smail.nuu.edu.tw
+    id: U0331128
+    name: YouYu
+    password: you
+    rating: ~
+  - Chinese: 邱創偉
+    email: u0331262@smail.nuu.edu.tw
+    id: U0331262
+    name: 邱創偉
+    password: chuang
+    rating: ~
+  - Chinese: 張梓鑫
+    email: u0431101@smail.nuu.edu.tw
+    id: U0431101
+    name: 張梓鑫
+    password: zi
+    rating: ~
+  - Chinese: 李茂像
+    email: u0431103@smail.nuu.edu.tw
+    id: U0431103
+    name: 李茂像
+    password: mao
+    rating: ~
+  - Chinese: 黃秋蓉
+    email: u0431106@smail.nuu.edu.tw
+    id: U0431106
+    name: 黃秋蓉
+    password: qiu
+    rating: ~
+  - Chinese: 陳遵仁
+    email: u0431107@smail.nuu.edu.tw
+    id: U0431107
+    name: 陳遵仁
+    password: zun
+    rating: ~
+  - Chinese: 曾家晏
+    email: u0431108@smail.nuu.edu.tw
+    id: U0431108
+    name: 曾家晏
+    password: jia
+    rating: ~
+  - Chinese: 陳逸紋
+    email: u0431109@smail.nuu.edu.tw
+    id: U0431109
+    name: 陳逸紋
+    password: yi
+    rating: ~
+  - Chinese: 黃鳳瑛
+    email: u0431110@smail.nuu.edu.tw
+    id: U0431110
+    name: 黃鳳瑛
+    password: feng
+    rating: ~
+  - Chinese: 羅以青
+    email: u0431111@smail.nuu.edu.tw
+    id: U0431111
+    name: 羅以青
+    password: yi
+    rating: ~
+  - Chinese: 黃子容
+    email: u0431112@smail.nuu.edu.tw
+    id: U0431112
+    name: 黃子容
+    password: zi
+    rating: ~
+  - Chinese: 蔡鎮宇
+    email: u0431114@smail.nuu.edu.tw
+    id: U0431114
+    name: 蔡鎮宇
+    password: zhen
+    rating: ~
+  - Chinese: 鄭婷云
+    email: u0431115@smail.nuu.edu.tw
+    id: U0431115
+    name: 鄭婷云
+    password: ting
+    rating: ~
+  - Chinese: 黃柔禎
+    email: u0431116@smail.nuu.edu.tw
+    id: U0431116
+    name: 黃柔禎
+    password: rou
+    rating: ~
+  - Chinese: 羅天祥
+    email: u0431119@smail.nuu.edu.tw
+    id: U0431119
+    name: 羅天祥
+    password: tian
+    rating: ~
+  - Chinese: 楊鈞閎
+    email: u0431120@smail.nuu.edu.tw
+    id: U0431120
+    name: 楊鈞閎
+    password: jun
+    rating: ~
+  - Chinese: 吳尚桓
+    email: u0431121@smail.nuu.edu.tw
+    id: U0431121
+    name: 吳尚桓
+    password: shang
+    rating: ~
+  - Chinese: 徐郁琳
+    email: u0431122@smail.nuu.edu.tw
+    id: U0431122
+    name: 徐郁琳
+    password: yu
+    rating: ~
+  - Chinese: 莊沛祥
+    email: u0431123@smail.nuu.edu.tw
+    id: U0431123
+    name: 莊沛祥
+    password: pei
+    rating: ~
+  - Chinese: 張宇竣
+    email: u0431124@smail.nuu.edu.tw
+    id: U0431124
+    name: 張宇竣
+    password: yu
+    rating: ~
+  - Chinese: 范姜士昌
+    email: u0431125@smail.nuu.edu.tw
+    id: U0431125
+    name: 范姜士昌
+    password: jiang
+    rating: ~
+  - Chinese: 林詠軒
+    email: u0431126@smail.nuu.edu.tw
+    id: U0431126
+    name: 林詠軒
+    password: yong
+    rating: ~
+  - Chinese: 尤佑誠
+    email: u0431127@smail.nuu.edu.tw
+    id: U0431127
+    name: 尤佑誠
+    password: you
+    rating: ~
+  - Chinese: 蘇柏穎
+    email: u0431129@smail.nuu.edu.tw
+    id: U0431129
+    name: 蘇柏穎
+    password: bo
+    rating: ~
+  - Chinese: 蘇沄庭
+    email: u0431130@smail.nuu.edu.tw
+    id: U0431130
+    name: 蘇沄庭
+    password: yun
+    rating: ~
+  - Chinese: 黃子恒
+    email: u0431132@smail.nuu.edu.tw
+    id: U0431132
+    name: 黃子恒
+    password: zi
+    rating: ~
+  - Chinese: 藍中成
+    email: u0431133@smail.nuu.edu.tw
+    id: U0431133
+    name: 藍中成
+    password: zhong
+    rating: ~
+  - Chinese: 鍾瑩葶
+    email: u0431134@smail.nuu.edu.tw
+    id: U0431134
+    name: 鍾瑩葶
+    password: ying
+    rating: ~
+  - Chinese: 連柏為
+    email: u0431135@smail.nuu.edu.tw
+    id: U0431135
+    name: 連柏為
+    password: bo
+    rating: ~
+  - Chinese: 余承儒
+    email: u0431136@smail.nuu.edu.tw
+    id: U0431136
+    name: 余承儒
+    password: cheng
+    rating: ~
+  - Chinese: 朱翊瑄
+    email: u0431137@smail.nuu.edu.tw
+    id: U0431137
+    name: 朱翊瑄
+    password: yi
+    rating: ~
+  - Chinese: 許立憲
+    email: u0431139@smail.nuu.edu.tw
+    id: U0431139
+    name: 許立憲
+    password: li
+    rating: ~
+  - Chinese: 陳怡靜
+    email: u0431140@smail.nuu.edu.tw
+    id: U0431140
+    name: 陳怡靜
+    password: yi
+    rating: ~
+  - Chinese: 謝佳佑
+    email: u0431141@smail.nuu.edu.tw
+    id: U0431141
+    name: 謝佳佑
+    password: jia
+    rating: ~
+  - Chinese: 劉佩欣
+    email: u0431142@smail.nuu.edu.tw
+    id: U0431142
+    name: 劉佩欣
+    password: pei
+    rating: ~
+  - Chinese: 佘宗濠
+    email: u0431143@smail.nuu.edu.tw
+    id: U0431143
+    name: 佘宗濠
+    password: zong
+    rating: ~
+  - Chinese: 李世平
+    email: u0431144@smail.nuu.edu.tw
+    id: U0431144
+    name: 李世平
+    password: shi
+    rating: ~
+  - Chinese: 蔡明翰
+    email: u0431146@smail.nuu.edu.tw
+    id: U0431146
+    name: 蔡明翰
+    password: ming
+    rating: ~
+  - Chinese: 簡巧婷
+    email: u0431147@smail.nuu.edu.tw
+    id: U0431147
+    name: 簡巧婷
+    password: qiao
+    rating: ~
+  - Chinese: 蔡宛螢
+    email: u0431148@smail.nuu.edu.tw
+    id: U0431148
+    name: 蔡宛螢
+    password: wan
+    rating: ~
+  - Chinese: 廖珮晴
+    email: u0431150@smail.nuu.edu.tw
+    id: U0431150
+    name: 廖珮晴
+    password: pei
+    rating: ~
+  - Chinese: 蔡宜芳
+    email: u0431151@smail.nuu.edu.tw
+    id: U0431151
+    name: 蔡宜芳
+    password: yi
+    rating: ~
+  - Chinese: 李勗瑋
+    email: u0431152@smail.nuu.edu.tw
+    id: U0431152
+    name: 李勗瑋
+    password: xu
+    rating: ~
+  - Chinese: 林祺烜
+    email: u0431153@smail.nuu.edu.tw
+    id: U0431153
+    name: 林祺烜
+    password: qi
+    rating: ~
+  - Chinese: 孫國育
+    email: u0431154@smail.nuu.edu.tw
+    id: U0431154
+    name: 孫國育
+    password: guo
+    rating: ~
+  - Chinese: 張雁菱
+    email: u0431155@smail.nuu.edu.tw
+    id: U0431155
+    name: 張雁菱
+    password: yan
+    rating: ~
+  - Chinese: 羅劭竹
+    email: u0431156@smail.nuu.edu.tw
+    id: U0431156
+    name: 羅劭竹
+    password: shao
+    rating: ~
 out: ~
 room: A706
 school: nuu
