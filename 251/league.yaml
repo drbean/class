@@ -16,171 +16,204 @@ jigsaw: exam
 league: NAF021__四技外二甲
 member:
   - Chinese: 張紘瑋
+    email: herman4545@yahoo.com.tw
     id: N01120009
     name: 張紘瑋
     password: hong
     rating: ~
   - Chinese: 楊明錡
+    email: a034861881@gmail.com
     id: N03093105
     name: 楊明錡
     password: ming
     rating: ~
-  - Chinese: 吳英雄
-    id: N04200017
-    name: 吳英雄
-    password: ying
-    rating: ~
-  - Chinese: 孫怡安
-    id: N06203101
-    name: 孫怡安
-    password: yi
-    rating: ~
   - Chinese: 許惠敏
+    email: howard030581@gmail.com
     id: N05200001
-    name: 許惠敏
+    name: Margret
     password: hui
     rating: ~
   - Chinese: 徐梓玲
+    email: mina199825@gmail.com
     id: N05200002
-    name: 徐梓玲
+    name: Mina
     password: zi
     rating: ~
   - Chinese: 許寶旺
+    email: enjoy5557@yahoo.com.tw
     id: N05200005
-    name: 許寶旺
+    name: Woody
     password: bao
     rating: ~
   - Chinese: 陳思羽
+    email: yukichen0107@gmail.com
     id: N05200007
     name: 陳思羽
     password: si
     rating: ~
   - Chinese: 蕭富家
+    email: shylock861022@gmail.com
     id: N05200008
     name: 蕭富家
     password: fu
     rating: ~
   - Chinese: 孫睿朋
+    email: aaa0982477050@gmail.com
     id: N05200009
     name: 孫睿朋
     password: rui
     rating: ~
   - Chinese: 陶宥凱
+    email: taolin0516@gmail.com
     id: N05200011
-    name: 陶宥凱
+    name: Nick
     password: you
     rating: ~
   - Chinese: 葉昌鑫
+    email: tt831212@gmail.com
     id: N05200013
-    name: 葉昌鑫
+    name: Sam
     password: chang
     rating: ~
   - Chinese: 張婷亭
+    email: j830509@yahoo.com.tw
     id: N05200016
-    name: 張婷亭
+    name: Tina
     password: ting
     rating: ~
   - Chinese: 徐雅琪
+    email: fkx0929@gmail.com
     id: N05200017
-    name: 徐雅琪
+    name: Sandy
     password: ya
     rating: ~
   - Chinese: 蔡萍芳
+    email: Shine.tsai@formericaoe.com
     id: N05200018
-    name: 蔡萍芳
+    name: Shine
     password: ping
     rating: ~
   - Chinese: 胡政邦
+    email: crew821104@gmail.com
     id: N05200020
     name: 胡政邦
     password: zheng
     rating: ~
   - Chinese: 姚伊璘
+    email: Nancy_Yao@sercomm.com
     id: N05200021
-    name: 姚伊璘
+    name: Nancy
     password: yi
     rating: ~
   - Chinese: 賴宣霓
+    email: tom597773111@gmail.com.tw
     id: N05200022
     name: 賴宣霓
     password: xuan
     rating: ~
   - Chinese: 湯亞芯
+    email: e0921471286@yahoo.com.tw
     id: N05200023
     name: 湯亞芯
     password: ya
     rating: ~
   - Chinese: 溫宏傑
+    email: JJ02520888@gmail.com
     id: N05200026
-    name: 溫宏傑
+    name: Jason
     password: hong
     rating: ~
   - Chinese: 馬承恩
-    id: N05200027
+    email: wen_60122@yahoo.com.tw
+    id: James
     name: 馬承恩
     password: cheng
     rating: ~
   - Chinese: 曾意珺
+    email: pig930058@yahoo.com.tw
     id: N05200029
-    name: 曾意珺
+    name: Becky
     password: yi
     rating: ~
   - Chinese: 陳彥均
+    email: gba321j6@gmail.com
     id: N05200030
     name: 陳彥均
     password: yan
     rating: ~
   - Chinese: 陸正維
+    email: david19960427@gmail.com
     id: N05200031
-    name: 陸正維
+    name: David
     password: zheng
     rating: ~
   - Chinese: 張學介
+    email: dajie0720@yahoo.com.tw
     id: N05200035
     name: 張學介
     password: xue
     rating: ~
   - Chinese: 周敬媛
+    email: a0938519891@gmail.com
     id: N05200036
     name: 周敬媛
     password: jing
     rating: ~
   - Chinese: 范佳惠
+    email: N05200037@no.email.address
     id: N05200037
     name: 范佳惠
     password: jia
     rating: ~
   - Chinese: 林佳璇
+    email: murphy5387@gmail.com
     id: N05200039
-    name: 林佳璇
+    name: Murphy
     password: jia
     rating: ~
   - Chinese: 李宥儒
+    email: lovebabe1129@yahoo.com.tw
     id: N05200040
     name: 李宥儒
     password: you
     rating: ~
   - Chinese: 邱柏源
+    email: sf5553365@gmail.com
     id: N05200041
-    name: 邱柏源
-    password: bai
+    name: Robert
+    password: bo
     rating: ~
   - Chinese: 陳佩汝
+    email: N06202102@no.email.address
     id: N06202102
     name: 陳佩汝
     password: pei
     rating: ~
   - Chinese: 葉書漢
+    email: opp55899@gmail.com
     id: N06202103
-    name: 葉書漢
+    name: Parker
     password: shu
     rating: ~
   - Chinese: 蔡若亞
+    email: N06202104@no.email.address
     id: N06202104
     name: 蔡若亞
     password: ruo
     rating: ~
-out: ~
+  - Chinese: 孫怡安
+    email: sdf10880@yahoo.com.tw
+    id: N06203101
+    name: 孫怡安
+    password: yi
+    rating: ~
+out:
+  - Chinese: 吳英雄
+    email: hmc1982@livemail.tw
+    id: N04200017
+    name: 吳英雄
+    password: ying
+    rating: ~
 room: A705
 school: must
 scores:
@@ -191,8 +224,7 @@ scores:
   loss: 3
   win: 5
 session:
-  1: 1
-  2: 7
+  '1': 1
 weights:
   classwork: 40
   exams: 20
