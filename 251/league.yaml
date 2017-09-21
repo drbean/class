@@ -207,13 +207,13 @@ member:
     name: 孫怡安
     password: yi
     rating: ~
-out:
   - Chinese: 吳英雄
     email: hmc1982@livemail.tw
     id: N04200017
     name: 吳英雄
     password: ying
     rating: ~
+out:
 room: A705
 school: must
 scores:
