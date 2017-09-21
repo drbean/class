@@ -1,7 +1,7 @@
 ---
 absent: ~
 active: ~
-anterior: 051MIA0009
+anterior: 052MIA0015
 approach: GroupworkNoFault
 classMax: 3
 examMax: 100
@@ -11,7 +11,7 @@ group: session
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 052MIA0015
+id: 061MIA0016
 league: 日資管三甲
 member:
   - Chinese: 梁浩輝
@@ -29,7 +29,7 @@ member:
   - Chinese: 賴瑞霖
     email: u0333050@smail.nuu.edu.tw
     id: U0333050
-    name: 賴瑞霖
+    name: RuiLin
     password: rui
     rating: ~
   - Chinese: 黎俊賢
@@ -47,7 +47,7 @@ member:
   - Chinese: 張逸楓
     email: u0433005@smail.nuu.edu.tw
     id: U0433005
-    name: 張逸楓
+    name: Eric
     password: yi
     rating: ~
   - Chinese: 莊力彥
@@ -59,19 +59,19 @@ member:
   - Chinese: 楊子平
     email: u0433008@smail.nuu.edu.tw
     id: U0433008
-    name: 楊子平
+    name: ZiPing
     password: zi
     rating: ~
   - Chinese: 甯佐惠
     email: u0433009@smail.nuu.edu.tw
     id: U0433009
-    name: 甯佐惠
+    name: Claire
     password: zuo
     rating: ~
   - Chinese: 楊程鈞
     email: u0433012@smail.nuu.edu.tw
     id: U0433012
-    name: 楊程鈞
+    name: Kevin
     password: cheng
     rating: ~
   - Chinese: 周書丞
@@ -83,205 +83,205 @@ member:
   - Chinese: 秦偉濠
     email: u0433016@smail.nuu.edu.tw
     id: U0433016
-    name: 秦偉濠
+    name: WeiHao
     password: wei
     rating: ~
   - Chinese: 陳泓宇
     email: u0433017@smail.nuu.edu.tw
     id: U0433017
-    name: 陳泓宇
+    name: HongYu
     password: hong
     rating: ~
   - Chinese: 林哲緯
     email: u0433021@smail.nuu.edu.tw
     id: U0433021
-    name: 林哲緯
+    name: Ken
     password: zhe
     rating: ~
   - Chinese: 張俞絃
     email: u0433022@smail.nuu.edu.tw
     id: U0433022
-    name: 張俞絃
+    name: YuXian
     password: yu
     rating: ~
   - Chinese: 龔利耀
     email: u0433023@smail.nuu.edu.tw
     id: U0433023
-    name: 龔利耀
+    name: LiYao
     password: li
     rating: ~
   - Chinese: 張雅雯
     email: u0433024@smail.nuu.edu.tw
     id: U0433024
-    name: 張雅雯
+    name: Alice
     password: ya
     rating: ~
   - Chinese: 林虹汝
     email: u0433026@smail.nuu.edu.tw
     id: U0433026
-    name: 林虹汝
+    name: HongRu
     password: hong
     rating: ~
   - Chinese: 王彥勛
     email: u0433027@smail.nuu.edu.tw
     id: U0433027
-    name: 王彥勛
+    name: YanXun
     password: yan
     rating: ~
   - Chinese: 楊宇倫
     email: u0433028@smail.nuu.edu.tw
     id: U0433028
-    name: 楊宇倫
+    name: Landon
     password: yu
     rating: ~
   - Chinese: 林子桓
     email: u0433029@smail.nuu.edu.tw
     id: U0433029
-    name: 林子桓
+    name: ZiHuan
     password: zi
     rating: ~
   - Chinese: 曾莉婷
     email: u0433030@smail.nuu.edu.tw
     id: U0433030
-    name: 曾莉婷
+    name: Doma
     password: li
     rating: ~
   - Chinese: 王飛鳴
     email: u0433031@smail.nuu.edu.tw
     id: U0433031
-    name: 王飛鳴
+    name: Famine
     password: fei
     rating: ~
   - Chinese: 李庚頷
     email: u0433032@smail.nuu.edu.tw
     id: U0433032
-    name: 李庚頷
+    name: GongHan
     password: geng
     rating: ~
   - Chinese: 梁家豪
     email: u0433033@smail.nuu.edu.tw
     id: U0433033
-    name: 梁家豪
+    name: JiaHao
     password: jia
     rating: ~
   - Chinese: 黃玥慈
     email: u0433034@smail.nuu.edu.tw
     id: U0433034
-    name: 黃玥慈
+    name: YueCih
     password: yue
     rating: ~
   - Chinese: 廖暐瑋
     email: u0433035@smail.nuu.edu.tw
     id: U0433035
-    name: 廖暐瑋
+    name: WeiWei
     password: wei
     rating: ~
   - Chinese: 盧立辰
     email: u0433036@smail.nuu.edu.tw
     id: U0433036
-    name: 盧立辰
+    name: Sam
     password: li
     rating: ~
   - Chinese: 蔡欣學
     email: u0433037@smail.nuu.edu.tw
     id: U0433037
-    name: 蔡欣學
+    name: ShinHsueh
     password: xin
     rating: ~
   - Chinese: 王毅霖
     email: u0433038@smail.nuu.edu.tw
     id: U0433038
-    name: 王毅霖
+    name: YiLing
     password: yi
     rating: ~
   - Chinese: 林昶亨
     email: u0433039@smail.nuu.edu.tw
     id: U0433039
-    name: 林昶亨
+    name: ChangHeng
     password: chang
     rating: ~
   - Chinese: 張家誠
     email: u0433041@smail.nuu.edu.tw
     id: U0433041
-    name: 張家誠
+    name: ChiaCheng
     password: jia
     rating: ~
   - Chinese: 高培勛
     email: u0433042@smail.nuu.edu.tw
     id: U0433042
-    name: 高培勛
+    name: Perry
     password: pei
     rating: ~
   - Chinese: 張哲愷
     email: u0433044@smail.nuu.edu.tw
     id: U0433044
-    name: 張哲愷
+    name: Allen
     password: zhe
     rating: ~
   - Chinese: 王晴儒
     email: u0433045@smail.nuu.edu.tw
     id: U0433045
-    name: 王晴儒
+    name: QingRu
     password: qing
     rating: ~
   - Chinese: 姚柏瑋
     email: u0433046@smail.nuu.edu.tw
     id: U0433046
-    name: 姚柏瑋
+    name: Way
     password: bo
     rating: ~
   - Chinese: 劉子豪
     email: u0433047@smail.nuu.edu.tw
     id: U0433047
-    name: 劉子豪
+    name: ZiuHao
     password: zi
     rating: ~
   - Chinese: 湯幸融
     email: u0433048@smail.nuu.edu.tw
     id: U0433048
-    name: 湯幸融
+    name: HsingJung
     password: xing
     rating: ~
   - Chinese: 鄭又誠
     email: u0433049@smail.nuu.edu.tw
     id: U0433049
-    name: 鄭又誠
+    name: You
     password: you
     rating: ~
   - Chinese: 范瑜萍
     email: u0433050@smail.nuu.edu.tw
     id: U0433050
-    name: 范瑜萍
+    name: Aasta
     password: yu
     rating: ~
   - Chinese: 許翔惟
     email: u0433051@smail.nuu.edu.tw
     id: U0433051
-    name: 許翔惟
+    name: Xiang
     password: xiang
     rating: ~
   - Chinese: 劉若宇
     email: u0433052@smail.nuu.edu.tw
     id: U0433052
-    name: 劉若宇
+    name: Rick
     password: ruo
     rating: ~
   - Chinese: 蘇育民
     email: u0433053@smail.nuu.edu.tw
     id: U0433053
-    name: 蘇育民
+    name: YuMin
     password: yu
     rating: ~
   - Chinese: 莊曜聰
     email: u0433054@smail.nuu.edu.tw
     id: U0433054
-    name: 莊曜聰
+    name: Yao
     password: yao
     rating: ~
   - Chinese: 顏思宇
     email: u0433055@smail.nuu.edu.tw
     id: U0433055
-    name: 顏思宇
+    name: SzYu
     password: si
     rating: ~
 out: ~
