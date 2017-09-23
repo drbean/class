@@ -15,6 +15,13 @@ id: 061AFN251
 jigsaw: exam
 league: NAF021__四技外二甲
 member:
+  - Chinese: testuser
+    id: testuser4
+    name: testuser4
+    password: 
+    email: drbean+test4@freeshell.org
+    rating: ~
+  
   - Chinese: 張紘瑋
     email: herman4545@yahoo.com.tw
     id: N01120009
