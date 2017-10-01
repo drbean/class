@@ -1,0 +1,128 @@
+---
+absent: ~
+active: ~
+anterior: 051FLA0015
+approach: GroupworkNoFault
+classMax: 3
+examMax: 100
+exams: exam
+field: 新聞英語
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 061FLA0003
+league: 夜應外大學四甲
+member:
+  - Chinese: 李樵風
+    email: v0341001@smail.nuu.edu.tw
+    id: V0341001
+    name: David
+    password: qiao
+    rating: ~
+  - Chinese: 吳祐誠
+    email: v0341005@smail.nuu.edu.tw
+    id: V0341005
+    name: Stark
+    password: you
+    rating: ~
+  - Chinese: 葉芳成
+    email: v0341010@smail.nuu.edu.tw
+    id: V0341010
+    name: Toby
+    password: fang
+    rating: ~
+  - Chinese: 周雅云
+    email: v0341011@smail.nuu.edu.tw
+    id: V0341011
+    name: Winnie
+    password: ya
+    rating: ~
+  - Chinese: 江宜潔
+    email: v0341012@smail.nuu.edu.tw
+    id: V0341012
+    name: Annie
+    password: yi
+    rating: ~
+  - Chinese: 李殷
+    email: v0341015@smail.nuu.edu.tw
+    id: V0341015
+    name: Nora
+    password: yin
+    rating: ~
+  - Chinese: 羅文伶
+    email: v0341016@smail.nuu.edu.tw
+    id: V0341016
+    name: Lori
+    password: wen
+    rating: ~
+  - Chinese: 卓意瑄
+    email: v0341019@smail.nuu.edu.tw
+    id: V0341019
+    name: Lily
+    password: yi
+    rating: ~
+  - Chinese: 萬世揚
+    email: v0341025@smail.nuu.edu.tw
+    id: V0341025
+    name: Wan
+    password: shi
+    rating: ~
+  - Chinese: 彭紹安
+    email: v0341027@smail.nuu.edu.tw
+    id: V0341027
+    name: Leon
+    password: shao
+    rating: ~
+  - Chinese: 陳聖儒
+    email: v0341033@smail.nuu.edu.tw
+    id: V0341033
+    name: Antonio
+    password: sheng
+    rating: ~
+  - Chinese: 李彥熾
+    email: v0341034@smail.nuu.edu.tw
+    id: V0341034
+    name: Allen
+    password: yan
+    rating: ~
+  - Chinese: 江婕熙
+    email: v0341037@smail.nuu.edu.tw
+    id: V0341037
+    name: Jessie
+    password: jie
+    rating: ~
+  - Chinese: 陳思妘
+    email: v0341051@smail.nuu.edu.tw
+    id: V0341051
+    name: Gina
+    password: si
+    rating: ~
+out:
+  - Chinese: 陳思妘
+    email: v0318014@smail.nuu.edu.tw
+    id: V0318014
+    name: 陳思妘
+    password: si
+    rating: ~
+  - Chinese: 劉家瑋
+    email: v0341031@smail.nuu.edu.tw
+    id: V0341031
+    name: Andy
+    password: jia
+    rating: ~
+  - Chinese: 陳佑維
+    email: v0341035@smail.nuu.edu.tw
+    id: V0341035
+    name: Johnson
+    password: you
+    rating: ~
+room: A705
+school: nuu
+session:
+  '1': 1
+  '2': 2
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
