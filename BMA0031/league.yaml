@@ -11,7 +11,7 @@ group: session
 groupwork: classwork
 hw: homework
 hwMax: 3
-id: 061BMA0041
+id: 061BMA0031
 league: 日經管三甲
 member:
   - Chinese: 劉毓婷
@@ -155,7 +155,7 @@ member:
   - Chinese: 鄭家凱
     email: u0431022@smail.nuu.edu.tw
     id: U0431022
-    name: 鄭家凱
+    name: ChiaKai
     password: jia
     rating: ~
   - Chinese: 黃雅翎
