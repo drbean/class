@@ -15,13 +15,6 @@ id: 061AFN251
 jigsaw: exam
 league: NAF021__四技外二甲
 member:
-  - Chinese: testuser
-    id: testuser4
-    name: testuser4
-    password: 
-    email: drbean+test4@freeshell.org
-    rating: ~
-  
   - Chinese: 張紘瑋
     email: herman4545@yahoo.com.tw
     id: N01120009
@@ -103,7 +96,7 @@ member:
   - Chinese: 胡政邦
     email: crew821104@gmail.com
     id: N05200020
-    name: 胡政邦
+    name: Henry
     password: zheng
     rating: ~
   - Chinese: 姚伊璘
@@ -121,7 +114,7 @@ member:
   - Chinese: 湯亞芯
     email: e0921471286@yahoo.com.tw
     id: N05200023
-    name: 湯亞芯
+    name: Taylor
     password: ya
     rating: ~
   - Chinese: 溫宏傑
@@ -142,12 +135,6 @@ member:
     name: Becky
     password: yi
     rating: ~
-  - Chinese: 陳彥均
-    email: gba321j6@gmail.com
-    id: N05200030
-    name: 陳彥均
-    password: yan
-    rating: ~
   - Chinese: 陸正維
     email: david19960427@gmail.com
     id: N05200031
@@ -166,12 +153,6 @@ member:
     name: Peggy
     password: jing
     rating: ~
-  - Chinese: 范佳惠
-    email: N05200037@no.email.address
-    id: N05200037
-    name: 范佳惠
-    password: jia
-    rating: ~
   - Chinese: 林佳璇
     email: murphy5387@gmail.com
     id: N05200039
@@ -181,7 +162,7 @@ member:
   - Chinese: 李宥儒
     email: lovebabe1129@yahoo.com.tw
     id: N05200040
-    name: 李宥儒
+    name: Vivi
     password: you
     rating: ~
   - Chinese: 邱柏源
@@ -221,6 +202,18 @@ member:
     password: ying
     rating: ~
 out:
+  - Chinese: 范佳惠
+    email: N05200037@no.email.address
+    id: N05200037
+    name: 范佳惠
+    password: jia
+    rating: ~
+  - Chinese: 陳彥均
+    email: gba321j6@gmail.com
+    id: N05200030
+    name: 陳彥均
+    password: yan
+    rating: ~
 room: A705
 school: must
 scores:
