@@ -15,6 +15,13 @@ id: 061AFB2L1A
 jigsaw: exam
 league: BAF021_四技應外二甲
 member:
+  - Chinese: 王寄予
+    id: U06100101
+    name: Erickson
+    password: ji
+    email: zfx342673133@126.com
+    rating: ~
+  
   - Chinese: 林聿庭
     email: rx782rx781@yahoo.com.tw
     id: B04200066
@@ -177,6 +184,7 @@ scores:
   win: 5
 session:
   '1': 1
+  '2': 5
 weights:
   classwork: 40
   exams: 20
