@@ -1,42 +1,37 @@
 ---
-01:
-  - Leo
-11:
-  - Wilson1
-  - Jimmy1
-21:
-  - Jimmy2
-  - Vane
-31:
-  - David
-  - Wilson2
-41:
-  - Max
-  - Ray
-42:
-  - Tony
-  - Parker
-03:
-  - Leah
-  - Daphne
-13:
-  - Lisa
-  - Sherry
-23:
-  - Joy
+1-1:
+  - Kang
   - Megan
-33:
-  - Janet
-  - Kiki
-04:
-  - Alice
-  - Coco
-14:
+  - David
+2-1:
+  - Karen
   - Jenny
   - Betty
-24:
-  - Kang
-  - Cheng
-34:
+3-1:
+  - Parker
+  - Max
+  - Leo
+4-3:
+  - Janet
+  - Ray
+  - Sherry
+1-2:
+  - Tony
+  - Kiki
+  - Jimmy2
+2-2:
   - Jasmine
-  - Karen
+  - Daphne
+  - Wilson1
+3-2:
+  - Jimmy1
+  - Wilson2
+  - Cheng
+4-4:
+  - Joy
+  - Vane
+  - Alice
+3-3:
+  - Lisa
+  - Leah
+  - Coco
