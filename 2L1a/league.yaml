@@ -1,7 +1,7 @@
 ---
 absent: ~
 anterior: 042AFB2L2
-approach: GroupworkNoFault
+approach: Individual
 classMax: 3
 compcomp: comp
 examMax: 5
@@ -13,7 +13,7 @@ hw: homework
 hwMax: 2
 id: 061AFB2L1A
 jigsaw: exam
-league: BAF021_四技應外二甲
+league: BAF021 四技應外二甲
 member:
   - Chinese: 王寄予
     id: U06100101
