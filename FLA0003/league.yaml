@@ -2,7 +2,7 @@
 absent: ~
 active: ~
 anterior: 051FLA0015
-approach: GroupworkNoFault
+approach: Individual
 classMax: 3
 examMax: 100
 exams: exam
@@ -117,7 +117,7 @@ out:
     name: Johnson
     password: you
     rating: ~
-room: A706
+room: A705
 school: nuu
 session:
   '1': 1
