@@ -1,0 +1,64 @@
+---
+free:
+  0:
+    relationship:
+      0:
+        B05200042:
+          point:
+            1: Returned
+        B05200089:
+          point:
+            1: Unreturned
+  1:
+    relationship:
+      0:
+        B04202201:
+          point:
+            1: Returned
+        B06202105:
+          point:
+            1: Unreturned
+  2:
+    relationship:
+      0:
+        B05200012:
+          point:
+            1: Returned
+        B05200019:
+          point:
+            1: Unreturned
+  3:
+    relationship:
+      0:
+        B05200023:
+          point:
+            1: Unreturned
+        B05200037:
+          point:
+            1: Returned
+  4:
+    relationship:
+      0:
+        B05200027:
+          point:
+            1: Unreturned
+        B05200006:
+          point:
+            1: Returned
+  5:
+    relationship:
+      0:
+        B05200030:
+          point:
+            1: Returned
+        B04200108:
+          point:
+            1: Unreturned
+  6:
+    relationship:
+      0:
+        B05200065:
+          point:
+            1: Returned
+        B05200073:
+          point:

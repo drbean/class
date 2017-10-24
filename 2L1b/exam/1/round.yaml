@@ -1,0 +1,57 @@
+---
+round: Exam 1
+week: 5
+questions:
+  - 6
+pass: 3
+assistant:
+  - Leah
+absent:
+  - Parker
+  - Jasmine
+  - Jenny
+  - Sherry
+  - Janet
+  - Jimmy1
+  - Ray
+  - Jimmy2
+  - Daphne
+  - Cheng
+text: /home/drbean/curriculum/conversation/relationship/cards.yaml
+activity:
+  date:
+    2:
+      - 1-2
+      - 3-3
+    3:
+      - 3-2
+    4:
+      - 1-1
+      - 2-1
+      - 4-4
+
+group:
+  1-1:
+    - Kang
+    - Megan
+    - David
+  2-1:
+    - Karen
+    - Jenny
+    - Betty
+  1-2:
+    - Tony
+    - Kiki
+    - Wilson1
+  3-2:
+    - Leo
+    - Wilson2
+    - Leah
+  4-4:
+    - Joy
+    - Vane
+    - Alice
+  3-3:
+    - Lisa
+    - Leah
+    - Max
