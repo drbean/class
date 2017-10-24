@@ -1,7 +1,7 @@
 ---
 absent: ~
 anterior: 061AFB2L1A
-approach: GroupworkNoFault
+approach: Individual
 classMax: 3
 compcomp: comp
 examMax: 5
@@ -13,7 +13,7 @@ hw: homework
 hwMax: 2
 id: 061AFB2L1B
 jigsaw: exam
-league: BAF022_四技應外二乙
+league: BAF022 四技應外二乙
 member:
   - Chinese: 彭星維
     id: B04140028
@@ -113,12 +113,6 @@ member:
     name: Janet
     password: qiao
     rating: ~
-  - Chinese: 翟中瑄
-    email: cocojai42@gmail.com
-    id: B05200059
-    name: Coco
-    password: zhong
-    rating: ~
   - Chinese: 余彥民
     email: tsrn74869677@gmail.com
     id: B05200063
@@ -179,7 +173,13 @@ member:
     name: Daphne
     password: zi
     rating: ~
-out: ~
+out:
+  - Chinese: 翟中瑄
+    email: cocojai42@gmail.com
+    id: B05200059
+    name: Coco
+    password: zhong
+    rating: ~
 room: A705
 school: must
 scores:
