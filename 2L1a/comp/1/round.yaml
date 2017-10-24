@@ -1,0 +1,58 @@
+---
+activity:
+  relationship:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+assistant:
+  4-4:
+    B05200066: 5
+  4-3:
+    B05200036: 5
+  1-2:
+    B05200009: 5
+bye: B05200048
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: B05200054
+    Black: B05200086
+  1:
+    White: B05200032
+    Black: B05200022
+  2:
+    White: B06202101
+    Black: B05200018
+  3:
+    White: U06100101
+    Black: B05200082
+  4:
+    White: B06202104
+    Black: B05200074
+  5:
+    White: B05210064
+    Black: B05200070
+  6:
+    White: B05200078
+    Black: B05200026
+  7:
+    White: B06202102
+    Black: B05200043
+  8:
+    White: B05200092
+    Black: B06202106
+late:
+  - B05200048
+pairing: swiss
+payprotocol: meritPay 1
+round: 1
+text: /home/drbean/curriculum/conversation/relationship/cards.yaml
+week: 6
