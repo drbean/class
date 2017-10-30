@@ -167,7 +167,7 @@ member:
   - Chinese: 陳柏諺
     email: u0431025@smail.nuu.edu.tw
     id: U0431025
-    name: 陳柏諺
+    name: Jack
     password: bo
     rating: ~
   - Chinese: 黃郁文
@@ -209,13 +209,13 @@ member:
   - Chinese: 杜承?
     email: u0431036@smail.nuu.edu.tw
     id: U0431036
-    name: 杜承?
+    name: Derrick
     password: cheng
     rating: ~
   - Chinese: 陳功聯
     email: u0431037@smail.nuu.edu.tw
     id: U0431037
-    name: 陳功聯
+    name: Amile
     password: gong
     rating: ~
   - Chinese: 洪育樺
@@ -245,7 +245,7 @@ member:
   - Chinese: 陳哲安
     email: u0431045@smail.nuu.edu.tw
     id: U0431045
-    name: 陳哲安
+    name: David
     password: zhe
     rating: ~
   - Chinese: 劉慧然
@@ -287,7 +287,7 @@ member:
   - Chinese: 高暉評
     email: u0431055@smail.nuu.edu.tw
     id: U0431055
-    name: Sam
+    name: Sam1
     password: hui
     rating: ~
   - Chinese: 林慕涵
@@ -317,7 +317,7 @@ member:
   - Chinese: 尤佑誠
     email: u0431127@smail.nuu.edu.tw
     id: U0431127
-    name: 尤佑誠
+    name: Sam2
     password: you
     rating: ~
 out:
