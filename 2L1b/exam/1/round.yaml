@@ -16,18 +16,17 @@ absent:
   - Ray
   - Jimmy2
   - Daphne
-  - Cheng
 text: /home/drbean/curriculum/conversation/relationship/cards.yaml
 activity:
   date:
     2:
       - 1-2
       - 3-3
+      - 2-1
     3:
       - 3-2
     4:
       - 1-1
-      - 2-1
       - 4-4
 
 group:
@@ -37,8 +36,8 @@ group:
     - David
   2-1:
     - Karen
-    - Jenny
     - Betty
+    - Cheng
   1-2:
     - Tony
     - Kiki
