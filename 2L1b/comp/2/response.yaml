@@ -1,0 +1,83 @@
+---
+free:
+  1:
+    job:
+      0:
+        B05200033:
+          point:
+            1: Returned
+        B05200047:
+          point:
+            1: Unreturned
+  2:
+    job:
+      0:
+        B04202204:
+          point:
+            1: Unreturned
+        B06202107:
+          point:
+            1: Returned
+  3:
+    job:
+      0:
+        B05200073:
+          point:
+            1: Returned
+        B05200063:
+          point:
+            1: Unreturned
+  4:
+    job:
+      0:
+        B05200006:
+          point:
+            1: Returned
+        B05200065:
+          point:
+            1: Unreturned
+  5:
+    job:
+      0:
+        B05200037:
+          point:
+            1: Returned
+        B04202201:
+          point:
+            1: Unreturned
+  6:
+    job:
+      0:
+        B06202103:
+          point:
+            1: Unreturned
+        B05200016:
+          point:
+            1: Returned
+  7:
+    job:
+      0:
+        B05200089:
+          point:
+            1: Unreturned
+        B05200023:
+          point:
+            1: Returned
+  8:
+    job:
+      0:
+        B05200019:
+          point:
+            1: Unreturned
+        B05200027:
+          point:
+            1: Returned
+  9:
+    job:
+      0:
+        B06202105:
+          point:
+            1: Returned
+        B04200108:
+          point:
+            1: Unreturned

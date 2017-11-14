@@ -1,0 +1,67 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 6
+pass: 3
+assistant:
+  - David
+  - Kang
+  - Leah
+absent:
+  - Parker
+  - Ray
+text: /home/drbean/curriculum/conversation/work/cards.yaml
+activity:
+  change:
+    0:
+      - 2-2
+      - 4-2
+    1:
+      - 1-1
+      - 2-3
+    2:
+      - 3-1
+      - 4-1
+    3:
+      - 1-2
+      - 2-1
+      - 3-2
+
+group:
+  1-1:
+    - Janet
+    - Lisa
+    - David
+  2-1:
+    - Jenny
+    - David
+    - Leah
+  3-1:
+    - Jasmine
+    - Jimmy1
+    - Leo
+  4-1:
+    - Wilson1
+    - Max
+    - Kang
+  1-2:
+    - Betty
+    - Daphne
+    - Vane
+  2-2:
+    - Tony
+    - Cheng
+    - Karen
+  3-2:
+    - Leah
+    - Alice
+    - Kiki
+  4-2:
+    - Sherry
+    - Megan
+    - Wilson2
+  2-3:
+    - Kang
+    - Joy
+    - Megan
