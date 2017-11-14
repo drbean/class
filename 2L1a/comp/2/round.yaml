@@ -1,0 +1,58 @@
+---
+activity:
+  'job':
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+assistant: ~
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: B04200066
+    Black: B05200013
+  1:
+    White: B05200048
+    Black: B05200054
+  2:
+    White: B05200022
+    Black: B06202104
+  3:
+    White: B05200092
+    Black: B05210064
+  4:
+    White: B05200026
+    Black: B06202101
+  5:
+    White: U06100101
+    Black: B06202102
+  6:
+    White: B05200070
+    Black: B05200066
+  7:
+    White: B05200086
+    Black: B05200078
+  8:
+    White: B05200082
+    Black: B05200036
+  9:
+    White: B05200074
+    Black: B05200009
+  10:
+    White: B06202106
+    Black: B05200032
+late:
+pairing: swiss
+payprotocol: meritPay 1
+round: 2
+text: /home/drbean/curriculum/conversation/work/cards.yaml
+week: 9
