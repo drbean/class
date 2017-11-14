@@ -15,6 +15,18 @@ id: 061AFB2L1B
 jigsaw: exam
 league: BAF022 四技應外二乙
 member:
+  - Chinese: 蔡文財
+    email: adidas860904@yahoo.com.tw
+    id: B05200083
+    name: Jimmy2
+    password: wen
+    rating: ~
+  - Chinese: 劉昆委
+    email: cmpss90098@gmail.com
+    id: B05200069
+    name: Ray
+    password: kun
+    rating: ~
   - Chinese: 彭星維
     id: B04140028
     name: Parker
@@ -125,12 +137,6 @@ member:
     name: Lisa
     password: zi
     rating: ~
-  - Chinese: 劉昆委
-    email: cmpss90098@gmail.com
-    id: B05200069
-    name: Ray
-    password: kun
-    rating: ~
   - Chinese: 王柏翔
     email: max861005@gmail.com
     id: B05200073
@@ -142,12 +148,6 @@ member:
     id: B05200077
     name: Wilson1
     password: bo
-    rating: ~
-  - Chinese: 蔡文財
-    email: adidas860904@yahoo.com.tw
-    id: B05200083
-    name: Jimmy2
-    password: wen
     rating: ~
   - Chinese: 吳玉關
     email: ventzx98@gmail.com
@@ -173,6 +173,7 @@ member:
     name: Daphne
     password: zi
     rating: ~
+
 out:
   - Chinese: 翟中瑄
     email: cocojai42@gmail.com
@@ -192,6 +193,7 @@ scores:
 session:
   '1': 1
   2: 5
+  3: 7
 weights:
   classwork: 40
   exams: 20
