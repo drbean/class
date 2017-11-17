@@ -14,6 +14,13 @@ hwMax: 3
 id: 061BMA0031
 league: 日經管三甲
 member:
+  - Chinese: 張懿誠
+    id: U0333012
+    name: Roy
+    password: yi
+    email: u0333012@smail.nuu.edu.tw
+    rating: ~
+  
   - Chinese: 劉毓婷
     email: u0331034@smail.nuu.edu.tw
     id: U0331034
