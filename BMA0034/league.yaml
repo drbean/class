@@ -32,12 +32,6 @@ member:
     name: YouYu
     password: you
     rating: ~
-  - Chinese: 邱創偉
-    email: u0331262@smail.nuu.edu.tw
-    id: U0331262
-    name: 邱創偉
-    password: chuang
-    rating: ~
   - Chinese: 張梓鑫
     email: u0431101@smail.nuu.edu.tw
     id: U0431101
@@ -145,12 +139,6 @@ member:
     id: U0431126
     name: Molly
     password: yong
-    rating: ~
-  - Chinese: 尤佑誠
-    email: u0431127@smail.nuu.edu.tw
-    id: U0431127
-    name: 尤佑誠
-    password: you
     rating: ~
   - Chinese: 蘇柏穎
     email: u0431129@smail.nuu.edu.tw
@@ -291,6 +279,18 @@ member:
     password: yan
     rating: ~
 out:
+  - Chinese: 尤佑誠
+    email: u0431127@smail.nuu.edu.tw
+    id: U0431127
+    name: 尤佑誠
+    password: you
+    rating: ~
+  - Chinese: 邱創偉
+    email: u0331262@smail.nuu.edu.tw
+    id: U0331262
+    name: 邱創偉
+    password: chuang
+    rating: ~
   - Chinese: 羅劭竹
     email: u0431156@smail.nuu.edu.tw
     id: U0431156
