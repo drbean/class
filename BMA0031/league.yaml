@@ -21,36 +21,6 @@ member:
     email: u0333012@smail.nuu.edu.tw
     rating: ~
   
-  - Chinese: 劉毓婷
-    email: u0331034@smail.nuu.edu.tw
-    id: U0331034
-    name: 劉毓婷
-    password: yu
-    rating: ~
-  - Chinese: 許尚雯
-    email: u0331131@smail.nuu.edu.tw
-    id: U0331131
-    name: ShangWen
-    password: shang
-    rating: ~
-  - Chinese: 楊博翔
-    email: u0331132@smail.nuu.edu.tw
-    id: U0331132
-    name: BoShiang
-    password: bo
-    rating: ~
-  - Chinese: 陳柏中
-    email: u0331148@smail.nuu.edu.tw
-    id: U0331148
-    name: Brian
-    password: bo
-    rating: ~
-  - Chinese: 鍾弘益
-    email: u0331241@smail.nuu.edu.tw
-    id: U0331241
-    name: HungYi
-    password: hong
-    rating: ~
   - Chinese: 陳鈴文
     email: u0334061@smail.nuu.edu.tw
     id: U0334061
@@ -328,6 +298,37 @@ member:
     password: you
     rating: ~
 out:
+  - Chinese: 劉毓婷
+    email: u0331034@smail.nuu.edu.tw
+    id: U0331034
+    name: 劉毓婷
+    password: yu
+    rating: ~
+  - Chinese: 許尚雯
+    email: u0331131@smail.nuu.edu.tw
+    id: U0331131
+    name: ShangWen
+    password: shang
+    rating: ~
+  - Chinese: 楊博翔
+    email: u0331132@smail.nuu.edu.tw
+    id: U0331132
+    name: BoShiang
+    password: bo
+    rating: ~
+  - Chinese: 陳柏中
+    email: u0331148@smail.nuu.edu.tw
+    id: U0331148
+    name: Brian
+    password: bo
+    rating: ~
+  - Chinese: 鍾弘益
+    email: u0331241@smail.nuu.edu.tw
+    id: U0331241
+    name: HungYi
+    password: hong
+    rating: ~
+
   - Chinese: 游承翰
     email: u0133148@smail.nuu.edu.tw
     id: U0133148
