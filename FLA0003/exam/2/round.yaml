@@ -1,0 +1,50 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+  - Antonio
+  - Wan
+absent:
+  - Leon
+text: /home/drbean/curriculum/media/cards.yaml
+activity:
+  illegals:
+    1:
+      - 2-1
+  pope:
+    0:
+      - 2-2
+  freakout:
+    0:
+      - 3-1
+  dinner:
+    0:
+      - 3-2
+  espn:
+    0:
+      - 4-1
+
+group:
+  2-1:
+    - Allen
+    - Winnie
+    - Wan
+  2-2:
+    - Nora
+    - Annie
+    - Lori
+  3-1:
+    - Toby
+    - Wan
+    - Antonio
+  3-2:
+    - Gina
+    - David
+    - Stark
+  4-1:
+    - Jessie
+    - Lily
+    - Antonio
