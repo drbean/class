@@ -1,0 +1,47 @@
+---
+free:
+  1:
+    interdependence:
+      0:
+        B05200030:
+          point:
+            1: Returned
+        B05200012:
+          point:
+            1: Unreturned
+  2:
+    interdependence:
+      0:
+        B06202107:
+          point:
+            1: Unreturned
+        B05200042:
+          point:
+            1: Returned
+  3:
+    interdependence:
+      0:
+        B05200073:
+          point:
+            1: Returned
+        B05200037:
+          point:
+            1: Unreturned
+  4:
+    interdependence:
+      0:
+        B05200023:
+          point:
+            1: Returned
+        B06202103:
+          point:
+            1: Unreturned
+  5:
+    interdependence:
+      0:
+        B05200089:
+          point:
+            1: Unreturned
+        B05200019:
+          point:
+            1: Returned

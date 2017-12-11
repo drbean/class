@@ -1,0 +1,62 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 5
+pass: 2
+assistant:
+  - Joy
+  - Alice
+  - Kiki
+absent:
+  - Parker
+  - Jenny
+  - Wilson1
+  - Sherry
+  - Tony
+  - Jimmy2
+  - Betty
+  - Karen
+  - Leo
+
+text: /home/drbean/curriculum/conversation/request/cards.yaml
+activity:
+  indirect:
+    0:
+      - 2-2
+    1:
+      - 1-1
+    2:
+    3:
+      - 3-2
+    4:
+      - 3-1
+      - 4-2
+    5:
+      - 1-2
+
+group:
+  1-1:
+    - Joy
+    - Lisa
+    - Alice
+  3-1:
+    - Joy
+    - Cheng
+    - Megan
+  1-2:
+    - Alice
+    - Kang
+    - Kiki
+  2-2:
+    - Ray
+    - Leah
+    - Vane
+  3-2:
+    - Kiki
+    - Daphne
+    - David
+  4-2:
+    - Janet
+    - Max
+    - Wilson2

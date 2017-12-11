@@ -1,0 +1,45 @@
+---
+activity:
+  interdependence:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+assistant:
+  1-2:
+    B05200027: 5
+  2-1:
+    B06202105: 5
+  1-1:
+    B05200065: 1
+bye: B05200069
+dispensation:
+  4-2:
+    B05200053: 1
+divisions: ~
+group:
+  1:
+    White: B05200030
+    Black: B05200012
+  2:
+    White: B06202107
+    Black: B05200042
+  3:
+    White: B05200073
+    Black: B05200037
+  4:
+    White: B05200023
+    Black: B06202103
+  5:
+    White: B05200089
+    Black: B05200019
+late:
+  - B05200065
+  - B05200053
+pairing: swiss
+payprotocol: meritPay 1
+round: 3
+text: /home/drbean/curriculum/conversation/request/cards.yaml
+week: 13
