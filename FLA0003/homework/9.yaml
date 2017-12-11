@@ -7,7 +7,7 @@ exercise: dinner
 grade:
   V0341001: 2
   V0341005: 0
-  V0341010: 0
+  V0341010: 2
   V0341011: 2
   V0341012: 2
   V0341015: 2
@@ -16,7 +16,7 @@ grade:
   V0341025: 2
   V0341027: 0
   V0341033: 2
-  V0341034: 0
+  V0341034: 2
   V0341037: 2
   V0341051: 0
 points:
@@ -48,17 +48,17 @@ points:
       attempts: ~
   V0341010:
     Wh:
-      answers: ~
-      questions: ~
-      attempts: ~
+      answers: 0
+      questions: 0
+      attempts: 0
     Yn:
-      answers: ~
-      questions: ~
-      attempts: ~
+      answers: 4
+      questions: 0
+      attempts: 5
     Tag:
-      answers: ~
-      questions: ~
-      attempts: ~
+      answers: 0
+      questions: 0
+      attempts: 0
   V0341011:
     Wh:
       answers: 3
@@ -169,9 +169,9 @@ points:
       questions: 0
       attempts: 0
     Yn:
-      answers: 0
+      answers: 4
       questions: 0
-      attempts: 0
+      attempts: 13
     Tag:
       answers: 0
       questions: 0
