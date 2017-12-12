@@ -188,6 +188,8 @@ session:
   '3': 7
   '4': 8
   '5': 10
+  '6': 12
+  '7': 14
 weights:
   classwork: 40
   exams: 20
