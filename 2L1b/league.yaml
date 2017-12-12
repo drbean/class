@@ -27,12 +27,6 @@ member:
     name: Ray
     password: kun
     rating: ~
-  - Chinese: 彭星維
-    id: B04140028
-    name: Parker
-    password: xing
-    rating: ~
-    email: pupss92086@yahoo.com.tw
   
   - Chinese: 廖士賓
     id: B04202201
@@ -175,6 +169,12 @@ member:
     rating: ~
 
 out:
+  - Chinese: 彭星維
+    id: B04140028
+    name: Parker
+    password: xing
+    rating: ~
+    email: pupss92086@yahoo.com.tw
   - Chinese: 翟中瑄
     email: cocojai42@gmail.com
     id: B05200059
@@ -197,6 +197,7 @@ session:
   4: 8
   5: 10
   6: 12
+  7: 14
 weights:
   classwork: 40
   exams: 20
