@@ -1,0 +1,66 @@
+---
+round: Exam 3
+week: 13
+questions:
+  - 5
+pass: 2
+assistant:
+  - Kim
+  - Ruby
+absent:
+  - Eric
+  - Max
+  - Ricardo
+  - Jasmine
+
+text: /home/drbean/curriculum/conversation/request/cards.yaml
+activity:
+  indirect:
+    0:
+      - 1-1
+    1:
+      - 2-3
+    2:
+      - 3-1
+      - 3-2
+    3:
+      - 1-2
+    4:
+      - 2-2
+    5:
+      - 4-1
+      - 4-2
+
+group:
+  1-1:
+    - Erickson
+    - Brian
+    - Joanne
+  3-1:
+    - Osas
+    - Wilson
+    - Louis
+  4-1:
+    - Eve
+    - Betty
+    - Peggie
+  1-2:
+    - Koala
+    - Elly
+    - Ann
+  2-2:
+    - Debby
+    - Jessie
+    - Janice
+  3-2:
+    - Yoyo
+    - Sara
+    - Dylan
+  4-2:
+    - Ruby
+    - Kim
+    - Flora
+  2-3:
+    - Kim
+    - Zadia
+    - Ruby
