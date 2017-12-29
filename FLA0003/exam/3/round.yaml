@@ -1,0 +1,40 @@
+---
+round: Exam 2
+week: 9
+questions:
+  - 10
+pass: 6
+assistant:
+  - Jessie
+  - Wan
+absent:
+  - Antonio
+  - Lily
+text: /home/drbean/curriculum/media/cards.yaml
+activity:
+  blair:
+    1:
+      - 2-1
+      - 4-1
+  thanksgiving:
+    0:
+      - 1-1
+      - 3-2
+
+group:
+  1-1:
+    - Toby
+    - Wan
+    - David
+  2-1:
+    - Gina
+    - Stark
+    - Wan
+  4-1:
+    - Jessie
+    - Nora
+    - Annie
+  3-2:
+    - Jessie
+    - Allen
+    - Lori
