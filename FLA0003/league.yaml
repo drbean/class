@@ -32,12 +32,6 @@ member:
     name: Toby
     password: fang
     rating: ~
-  - Chinese: 周雅云
-    email: v0341011@smail.nuu.edu.tw
-    id: V0341011
-    name: Winnie
-    password: ya
-    rating: ~
   - Chinese: 江宜潔
     email: v0341012@smail.nuu.edu.tw
     id: V0341012
@@ -68,12 +62,6 @@ member:
     name: Wan
     password: shi
     rating: ~
-  - Chinese: 彭紹安
-    email: v0341027@smail.nuu.edu.tw
-    id: V0341027
-    name: Leon
-    password: shao
-    rating: ~
   - Chinese: 陳聖儒
     email: v0341033@smail.nuu.edu.tw
     id: V0341033
@@ -99,6 +87,18 @@ member:
     password: si
     rating: ~
 out:
+  - Chinese: 周雅云
+    email: v0341011@smail.nuu.edu.tw
+    id: V0341011
+    name: Winnie
+    password: ya
+    rating: ~
+  - Chinese: 彭紹安
+    email: v0341027@smail.nuu.edu.tw
+    id: V0341027
+    name: Leon
+    password: shao
+    rating: ~
   - Chinese: 陳思妘
     email: v0318014@smail.nuu.edu.tw
     id: V0318014
@@ -126,6 +126,7 @@ session:
   '4': 8
   '5': 10
   '6': 12
+  '7': 14
 weights:
   classwork: 40
   exams: 20
