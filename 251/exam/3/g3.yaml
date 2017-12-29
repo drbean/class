@@ -1,291 +1,71 @@
 ---
-evaluators:
-  N03093105:
-    food_research:
-      N05200029:
-        drbean: 3
-        peer: 3
-      fit: 5
-    shopping_survey:
-      N05200001:
-        drbean: 4
-        peer: 4
-      fit: 5
-  N05200001:
-    food_research:
-      fit: 0
-    shopping_survey:
-      N05200005:
-        drbean: 3
-        peer: 3
-      N05200035:
-        drbean: 4
-        peer: 3
-      fit: 4.25
-  N05200002:
-    food_research:
-      fit: 0
-    shopping_survey:
-      fit: 0
-  N05200005:
-    food_research:
-      N03093105:
-        drbean: 3
-        peer: 2
-      fit: 3.5
-    shopping_survey:
-      N05200018:
-        drbean: 3
-        peer: 4
-      N05200036:
-        drbean: 1
-        peer: 1
-      fit: 4.25
-  N05200007:
-    food_research:
-      N05200035:
-        drbean: 4
-        peer: 4
-      N05200036:
-        drbean: 2
-        peer: 1
-      fit: 4.25
-    shopping_survey:
-      fit: 0
-  N05200011:
-    food_research:
-      fit: 0
-    shopping_survey:
-      fit: 0
-  N05200013:
-    food_research:
-      N05200007:
-        drbean: 5
-        peer: 4
-      N05200013:
-        drbean: 3
-        peer: 3
-      fit: 4.25
-    shopping_survey:
-      N05200001:
-        drbean: 4
-        peer: 5
-      fit: 3.5
-  N05200016:
-    food_research:
-      N05200018:
-        drbean: 3
-        peer: 4
-      fit: 3.5
-    shopping_survey:
-      N03093105:
-        drbean: 2
-        peer: 1
-      fit: 3.5
-  N05200017:
-    food_research:
-      N05200007:
-        drbean: 5
-        peer: 4
-      fit: 3.5
-    shopping_survey:
-      N05200016:
-        drbean: 5
-        peer: 4
-      fit: 3.5
-  N05200018:
-    food_research:
-      N05200001:
-        drbean: 5
-        peer: 5
-      fit: 5
-    shopping_survey:
-      N05200016:
-        drbean: 5
-        peer: 4
-      N05200017:
-        drbean: 3
-        peer: 4
-      fit: 3.5
-  N05200022:
-    food_research:
-      fit: 0
-    shopping_survey:
-      fit: 0
-  N05200023:
-    food_research:
-      fit: 0
-    shopping_survey:
-      fit: 0
-  N05200026:
-    food_research:
-      fit: 0
-    shopping_survey:
-      fit: 0
-  N05200029:
-    food_research:
-      N05200016:
-        drbean: 5
-        peer: 4
-      fit: 3.5
-    shopping_survey:
-      N05200007:
-        drbean: 4
-        peer: 3
-      N05200013:
-        drbean: 3
-        peer: 3
-      fit: 4.25
-  N05200035:
-    food_research:
-      N05200001:
-        drbean: 5
-        peer: 5
-      N05200017:
-        drbean: 3
-        peer: 3
-      fit: 5
-    shopping_survey:
-      fit: 0
-  N05200036:
-    food_research:
-      N05200005:
-        drbean: 3
-        peer: 3
-      N05200016:
-        drbean: 5
-        peer: 4
-      fit: 4.25
-    shopping_survey:
-      N05200007:
-        drbean: 4
-        peer: 3
-      N05200029:
-        drbean: 3
-        peer: 3
-      fit: 4.25
-  N05200039:
-    food_research:
-      fit: 0
-    shopping_survey:
-      fit: 0
-  N05200040:
-    food_research:
-      fit: 0
-    shopping_survey:
-      fit: 0
-  N05200041:
-    food_research:
-      fit: 0
-    shopping_survey:
-      fit: 0
-evaluees:
-  N03093105:
-    N05200016: 1
-    shopping_survey:
+shopping_survey:
+  evaluations_of_by:
+    N03093105:
       N05200016: 1
-      drbean: 2
-  N05200001:
-    N03093105: 4
-    N05200013: 5
-    shopping_survey:
+    N05200001:
       N03093105: 4
       N05200013: 5
-      drbean: 4
-  N05200002: ~
-  N05200005:
-    N05200001: 3
-    shopping_survey:
+    N05200002:
+    N05200005:
       N05200001: 3
-      drbean: 3
-  N05200007:
-    N05200029: 3
-    N05200036: 3
-    shopping_survey:
+    N05200007:
       N05200029: 3
       N05200036: 3
-      drbean: 4
-  N05200011: ~
-  N05200013:
-    N05200029: 3
-    shopping_survey:
+    N05200011:
+    N05200013:
       N05200029: 3
-      drbean: 3
-  N05200016:
-    N05200017: 4
-    N05200018: 4
-    shopping_survey:
+    N05200016:
       N05200017: 4
       N05200018: 4
-      drbean: 5
-  N05200017:
-    N05200018: 4
-    shopping_survey:
+    N05200017:
       N05200018: 4
-      drbean: 3
-  N05200018:
-    N05200005: 4
-    shopping_survey:
+    N05200018:
       N05200005: 4
-      drbean: 3
-  N05200022: ~
-  N05200023: ~
-  N05200026: ~
-  N05200029:
-    N05200036: 3
-    shopping_survey:
+    N05200022:
+    N05200023:
+    N05200026:
+    N05200029:
       N05200036: 3
-      drbean: 3
-  N05200035:
-    N05200001: 3
-    shopping_survey:
+    N05200035:
       N05200001: 3
-      drbean: 4
-  N05200036:
-    N05200005: 1
-    shopping_survey:
+    N05200036:
       N05200005: 1
-      drbean: 1
-  N05200039: ~
-  N05200040: ~
-  N05200041: ~
-fitness:
-  N03093105: 5
-  N05200001: 4.25
-  N05200002: 0
-  N05200005: 3.875
-  N05200007: 4.25
-  N05200011: 0
-  N05200013: 3.875
-  N05200016: 3.5
-  N05200017: 3.5
-  N05200018: 4.25
-  N05200022: 0
-  N05200023: 0
-  N05200026: 0
-  N05200029: 3.875
-  N05200035: 5
-  N05200036: 4.25
-  N05200039: 0
-  N05200040: 0
-  N05200041: 0
----
-N03093105: 5
-N05200001: 4.25
-N05200002: 0
-N05200005: 3.875
-N05200007: 4.25
-N05200011: 0
-N05200013: 3.875
-N05200016: 3.5
-N05200017: 3.5
-N05200018: 4.25
-N05200022: 0
-N05200023: 0
-N05200026: 0
-N05200029: 3.875
-N05200035: 5
-N05200036: 4.25
-N05200039: 0
-N05200040: 0
-N05200041: 0
+    N05200039:
+    N05200040:
+    N05200041:
+food_research:
+  evaluations_of_by:
+    N03093105:
+      N05200005: 2
+    N05200001:
+      N05200035: 5
+      N05200018: 5
+    N05200002:
+    N05200005:
+      N05200036: 3
+    N05200007:
+      N05200013: 4
+      N05200017: 4
+    N05200011:
+    N05200013:
+      N05200013: 3
+    N05200016:
+      N05200029: 4
+      N05200036: 4
+    N05200017:
+      N05200035: 3
+    N05200018:
+      N05200016: 4
+    N05200022:
+    N05200023:
+    N05200026:
+    N05200029:
+      N03093105: 3
+    N05200035:
+      N05200007: 4
+    N05200036:
+      N05200007: 1
+    N05200039:
+    N05200040:
+    N05200041:
