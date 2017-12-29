@@ -1,7 +1,7 @@
 ---
 absent: ~
 anterior: 052AFN2KA2
-approach: GroupworkNoFault
+approach: Individual
 classMax: 100
 compcomp: comp
 examMax: 5
@@ -15,12 +15,6 @@ id: 061AFN251
 jigsaw: exam
 league: NAF021__四技外二甲
 member:
-  - Chinese: 張紘瑋
-    email: herman4545@yahoo.com.tw
-    id: N01120009
-    name: 張紘瑋
-    password: hong
-    rating: ~
   - Chinese: 楊明錡
     email: a034861881@gmail.com
     id: N03093105
@@ -50,18 +44,6 @@ member:
     id: N05200007
     name: Yuki
     password: si
-    rating: ~
-  - Chinese: 蕭富家
-    email: shylock861022@gmail.com
-    id: N05200008
-    name: Jimmy
-    password: fu
-    rating: ~
-  - Chinese: 孫睿朋
-    email: aaa0982477050@gmail.com
-    id: N05200009
-    name: Pony
-    password: rui
     rating: ~
   - Chinese: 陶宥凱
     email: taolin0516@gmail.com
@@ -93,18 +75,6 @@ member:
     name: Shine
     password: ping
     rating: ~
-  - Chinese: 胡政邦
-    email: crew821104@gmail.com
-    id: N05200020
-    name: Henry
-    password: zheng
-    rating: ~
-  - Chinese: 姚伊璘
-    email: Nancy_Yao@sercomm.com
-    id: N05200021
-    name: Nancy
-    password: yi
-    rating: ~
   - Chinese: 賴宣霓
     email: tom597773111@gmail.com
     id: N05200022
@@ -123,23 +93,11 @@ member:
     name: Jason
     password: hong
     rating: ~
-  - Chinese: 馬承恩
-    email: wen_60122@yahoo.com.tw
-    id: N05200027
-    name: James
-    password: cheng
-    rating: ~
   - Chinese: 曾意珺
     email: pig930058@yahoo.com.tw
     id: N05200029
     name: Becky
     password: yi
-    rating: ~
-  - Chinese: 陸正維
-    email: david19960427@gmail.com
-    id: N05200031
-    name: David
-    password: zheng
     rating: ~
   - Chinese: 張學介
     email: dajie0720@yahoo.com.tw
@@ -171,6 +129,19 @@ member:
     name: Robert
     password: bo
     rating: ~
+out:
+  - Chinese: 孫怡安
+    email: sdf10880@yahoo.com.tw
+    id: N06203101
+    name: 孫怡安
+    password: yi
+    rating: ~
+  - Chinese: 吳英雄
+    email: hmc1982@livemail.tw
+    id: N04200017
+    name: Hero
+    password: ying
+    rating: ~
   - Chinese: 陳佩汝
     email: N06202102@no.email.address
     id: N06202102
@@ -189,19 +160,48 @@ member:
     name: 蔡若亞
     password: ruo
     rating: ~
-  - Chinese: 孫怡安
-    email: sdf10880@yahoo.com.tw
-    id: N06203101
-    name: 孫怡安
+  - Chinese: 陸正維
+    email: david19960427@gmail.com
+    id: N05200031
+    name: David
+    password: zheng
+    rating: ~
+  - Chinese: 馬承恩
+    email: wen_60122@yahoo.com.tw
+    id: N05200027
+    name: James
+    password: cheng
+    rating: ~
+  - Chinese: 胡政邦
+    email: crew821104@gmail.com
+    id: N05200020
+    name: Henry
+    password: zheng
+    rating: ~
+  - Chinese: 姚伊璘
+    email: Nancy_Yao@sercomm.com
+    id: N05200021
+    name: Nancy
     password: yi
     rating: ~
-  - Chinese: 吳英雄
-    email: hmc1982@livemail.tw
-    id: N04200017
-    name: Hero
-    password: ying
+  - Chinese: 蕭富家
+    email: shylock861022@gmail.com
+    id: N05200008
+    name: Jimmy
+    password: fu
     rating: ~
-out:
+  - Chinese: 孫睿朋
+    email: aaa0982477050@gmail.com
+    id: N05200009
+    name: Pony
+    password: rui
+    rating: ~
+  - Chinese: 張紘瑋
+    email: herman4545@yahoo.com.tw
+    id: N01120009
+    name: 張紘瑋
+    password: hong
+    rating: ~
   - Chinese: 范佳惠
     email: N05200037@no.email.address
     id: N05200037
@@ -225,6 +225,8 @@ scores:
   win: 5
 session:
   '1': 1
+  '2': 10
+  3: 14
 weights:
   classwork: 40
   exams: 20
