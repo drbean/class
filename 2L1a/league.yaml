@@ -190,6 +190,7 @@ session:
   '5': 10
   '6': 12
   '7': 14
+  '8': 18
 weights:
   classwork: 40
   exams: 20
