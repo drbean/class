@@ -1,0 +1,67 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 6
+pass: 3
+assistant:
+  - Wilson
+  - Ricardo
+absent:
+  - Jasmine
+
+text: /home/drbean/curriculum/conversation/story/cards.yaml
+activity:
+  gold:
+    1:
+      - 1-1
+      - 2-1
+      - 3-2
+      - 4-2
+  hair:
+    0:
+      - 3-1
+      - 4-1
+  ambulance:
+    0:
+      - 1-2
+      - 2-2
+      - 3-3
+
+group:
+  1-1:
+    - Erickson
+    - Wilson
+    - Joanne
+  2-1:
+    - Eric
+    - Brian
+    - Louis
+  3-1:
+    - Osas
+    - Betty
+    - Janice
+  4-1:
+    - Eve
+    - Yoyo
+    - Dylan
+  1-2:
+    - Koala
+    - Sara
+    - Ann
+  2-2:
+    - Ricardo
+    - Jessie
+    - Peggie
+  3-2:
+    - Debby
+    - Elly
+    - Flora
+  4-2:
+    - Ruby
+    - Max
+    - Kim
+  3-3:
+    - Ricardo
+    - Zadia
+    - Wilson
