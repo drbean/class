@@ -1,0 +1,92 @@
+---
+free:
+  0:
+    story or travel question:
+      0:
+        B05200033:
+          point:
+            1: Returned
+        B04202204:
+          point:
+            1: Unreturned
+  1:
+    story or travel question:
+      0:
+        B05200047:
+          point:
+            1: Returned
+        B05200016:
+          point:
+            1: Unreturned
+  2:
+    story or travel question:
+      0:
+        B05200063:
+          point:
+            1: Returned
+        B05200053:
+          point:
+            1: Unreturned
+  3:
+    story or travel question:
+      0:
+        B05200065:
+          point:
+            1: Returned
+        B05200030:
+          point:
+            1: Unreturned
+  4:
+    story or travel question:
+      0:
+        B05200042:
+          point:
+            1: Returned
+        B05200006:
+          point:
+            1: Unreturned
+  5:
+    story or travel question:
+      0:
+        B04202201:
+          point:
+            1: Unreturned
+        B05200073:
+          point:
+            1: Returned
+  6:
+    story or travel question:
+      0:
+        B05200012:
+          point:
+            1: Returned
+        B06202107:
+          point:
+            1: Unreturned
+  7:
+    story or travel question:
+      0:
+        B05200027:
+          point:
+            1: Returned
+        B06202105:
+          point:
+            1: Unreturned
+  8:
+    story or travel question:
+      0:
+        B05200037:
+          point:
+            1: Returned
+        B06202103:
+          point:
+            1: Unreturned
+  9:
+    story or travel question:
+      0:
+        B04200108:
+          point:
+            1: Unreturned
+        B05200023:
+          point:
+            1: Returned

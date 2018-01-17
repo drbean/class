@@ -1,0 +1,62 @@
+---
+activity:
+  story or travel question:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+assistant:
+  4-2:
+    B05200019: 5
+  1-2:
+    B05200069: 5
+    B05200089: 5
+bye: B05200033
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: B05200033
+    Black: B04202204
+  
+  1:
+    White: B05200047
+    Black: B05200016
+  2:
+    White: B05200063
+    Black: B05200053
+  3:
+    White: B05200065
+    Black: B05200030
+  4:
+    White: B05200042
+    Black: B05200006
+  5:
+    White: B04202201
+    Black: B05200073
+  6:
+    White: B05200012
+    Black: B06202107
+  7:
+    White: B05200027
+    Black: B06202105
+  8:
+    White: B05200037
+    Black: B06202103
+  9:
+    White: B04200108
+    Black: B05200023
+late:
+  - B04202204
+pairing: swiss
+payprotocol: meritPay 1
+round: 4
+text: /home/drbean/curriculum/conversation/story/cards.yaml
+week: 18

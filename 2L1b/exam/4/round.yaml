@@ -1,0 +1,62 @@
+---
+round: Exam 4
+week: 18
+questions:
+  - 6
+pass: 3
+assistant:
+  - Vane
+absent:
+  - Wilson1
+  - Jimmy2
+
+text: /home/drbean/curriculum/conversation/story/cards.yaml
+activity:
+  gold:
+    1:
+      - 1-1
+      - 2-2
+      - 3-2
+  hair:
+    0:
+      - 2-1
+      - 3-3
+      - 4-1
+  ambulance:
+    0:
+      - 1-2
+      - 3-1
+
+group:
+  1-1:
+    - Tony
+    - Lisa
+    - Kang
+  2-1:
+    - Betty
+    - Leah
+    - Megan
+  3-1:
+    - Alice
+    - Jimmy1
+    - Cheng
+  4-1:
+    - David
+    - Leo
+    - Kiki
+  1-2:
+    - Vane
+    - Jasmine
+    - Ray
+  2-2:
+    - Max
+    - Karen
+    - Janet
+  3-2:
+    - Wilson2
+    - Daphne
+    - Sherry
+  3-3:
+    - Jenny
+    - Joy
+    - Vane
