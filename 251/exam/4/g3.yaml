@@ -1,17 +1,379 @@
 ---
+evaluators:
+  N03093105:
+    N05200005:
+      study_survey:
+        drbean: 2
+        peer: 4
+        fit: 2
+    N05200007:
+      study_survey:
+        drbean: 2
+        peer: 3
+        fit: 3.5
+  N05200001:
+    N05200018:
+      study_survey:
+        drbean: 4
+        peer: 4
+        fit: 5
+    N05200023:
+      exam_study_research:
+        drbean: 3
+        peer: 2
+        fit: 3.5
+    N05200029:
+      study_survey:
+        drbean: 3
+        peer: 3
+        fit: 5
+  N05200005:
+    N05200017:
+      exam_study_research:
+        drbean: 4
+        peer: 4
+        fit: 5
+    N05200029:
+      exam_study_research:
+        drbean: 5
+        peer: 5
+        fit: 5
+    N05200036:
+      exam_study_research:
+        drbean: 2
+        peer: 2
+        fit: 5
+  N05200007:
+    N05200001:
+      exam_study_research:
+        drbean: 5
+        peer: 5
+        fit: 5
+    N05200035:
+      exam_study_research:
+        drbean: 3
+        peer: 3
+        fit: 5
+      study_survey:
+        drbean: 3
+        peer: 4
+        fit: 3.5
+  N05200013:
+    N05200018:
+      exam_study_research:
+        drbean: 4
+        peer: 5
+        fit: 3.5
+    N05200029:
+      study_survey:
+        drbean: 3
+        peer: 3
+        fit: 5
+    N05200039:
+      exam_study_research:
+        drbean: 2
+        peer: 3
+        fit: 3.5
+  N05200016:
+    N05200013:
+      exam_study_research:
+        drbean: 4
+        peer: 4
+        fit: 5
+    N05200035:
+      study_survey:
+        drbean: 3
+        peer: 5
+        fit: 2
+    N05200040:
+      study_survey:
+        drbean: 2
+        peer: 2
+        fit: 5
+  N05200017:
+    N03093105:
+      study_survey:
+        drbean: 3
+        peer: 3
+        fit: 5
+    N05200022:
+      study_survey:
+        drbean: 3
+        peer: 2
+        fit: 3.5
+    N05200026:
+      exam_study_research:
+        drbean: 4
+        peer: 4
+        fit: 5
+  N05200018:
+    N05200005:
+      exam_study_research:
+        drbean: 4
+        peer: 4
+        fit: 5
+    N05200013:
+      exam_study_research:
+        drbean: 4
+        peer: 3
+        fit: 3.5
+      study_survey:
+        drbean: 3
+        peer: 4
+        fit: 3.5
+    N05200026:
+      exam_study_research:
+        drbean: 4
+        peer: 3
+        fit: 3.5
+      study_survey:
+        drbean: 2
+        peer: 1
+        fit: 3.5
+    N05200029:
+      exam_study_research:
+        drbean: 5
+        peer: 4
+        fit: 3.5
+    N05200040:
+      exam_study_research:
+        drbean: 2
+        peer: 1
+        fit: 3.5
+  N05200022:
+    N05200016:
+      study_survey:
+        drbean: 5
+        peer: 4
+        fit: 3.5
+    N05200023:
+      study_survey:
+        drbean: 2
+        peer: 3
+        fit: 3.5
+  N05200023:
+    N05200013:
+      study_survey:
+        drbean: 3
+        peer: 4
+        fit: 3.5
+  N05200029:
+    N03093105:
+      exam_study_research:
+        drbean: 3
+        peer: 2
+        fit: 3.5
+    N05200016:
+      study_survey:
+        drbean: 5
+        peer: 4
+        fit: 3.5
+    N05200035:
+      exam_study_research:
+        drbean: 3
+        peer: 2
+        fit: 3.5
+  N05200035:
+    N05200016:
+      exam_study_research:
+        drbean: 5
+        peer: 5
+        fit: 5
+  N05200036:
+    N05200001:
+      study_survey:
+        drbean: 5
+        peer: 5
+        fit: 5
+    N05200017:
+      study_survey:
+        drbean: 3
+        peer: 3
+        fit: 5
+    N05200022:
+      study_survey:
+        drbean: 3
+        peer: 2
+        fit: 3.5
+  N05200039:
+    N05200022:
+      exam_study_research:
+        drbean: 3
+        peer: 3
+        fit: 5
+  N05200040:
+    N05200005:
+      exam_study_research:
+        drbean: 4
+        peer: 4
+        fit: 5
+    N05200023:
+      exam_study_research:
+        drbean: 3
+        peer: 3
+        fit: 5
+    N05200036:
+      study_survey:
+        drbean: 2
+        peer: 2
+        fit: 5
+    N05200041:
+      exam_study_research:
+        drbean: 2
+        peer: 2
+        fit: 5
+  N05200041:
+    N05200007:
+      exam_study_research:
+        drbean: 3
+        peer: 2
+        fit: 3.5
+    N05200039:
+      study_survey:
+        drbean: 2
+        peer: 2
+        fit: 5
+evaluees:
+  N03093105:
+    exam_study_research:
+      N05200029: 2
+      drbean: 3
+    study_survey:
+      N05200017: 3
+      drbean: 3
+  N05200001:
+    exam_study_research:
+      N05200007: 5
+      drbean: 5
+    study_survey:
+      N05200036: 5
+      drbean: 5
+  N05200005:
+    exam_study_research:
+      N05200018: 4
+      N05200040: 4
+      drbean: 4
+    study_survey:
+      N03093105: 4
+      drbean: 2
+  N05200007:
+    exam_study_research:
+      N05200041: 2
+      drbean: 3
+    study_survey:
+      N03093105: 3
+      drbean: 2
+  N05200013:
+    exam_study_research:
+      N05200016: 4
+      N05200018: 3
+      drbean: 4
+    study_survey:
+      N05200018: 4
+      N05200023: 4
+      drbean: 3
+  N05200016:
+    exam_study_research:
+      N05200035: 5
+      drbean: 5
+    study_survey:
+      N05200022: 4
+      N05200029: 4
+      drbean: 5
+  N05200017:
+    exam_study_research:
+      N05200005: 4
+      drbean: 4
+    study_survey:
+      N05200036: 3
+      drbean: 3
+  N05200018:
+    exam_study_research:
+      N05200013: 5
+      drbean: 4
+    study_survey:
+      N05200001: 4
+      drbean: 4
+  N05200022:
+    exam_study_research:
+      N05200039: 3
+      drbean: 3
+    study_survey:
+      N05200017: 2
+      N05200036: 2
+      drbean: 3
+  N05200023:
+    exam_study_research:
+      N05200001: 2
+      N05200040: 3
+      drbean: 3
+    study_survey:
+      N05200022: 3
+      drbean: 2
+  N05200026:
+    exam_study_research:
+      N05200017: 4
+      N05200018: 3
+      drbean: 4
+    study_survey:
+      N05200018: 1
+      drbean: 2
+  N05200029:
+    exam_study_research:
+      N05200005: 5
+      N05200018: 4
+      drbean: 5
+    study_survey:
+      N05200001: 3
+      N05200013: 3
+      drbean: 3
+  N05200035:
+    exam_study_research:
+      N05200007: 3
+      N05200029: 2
+      drbean: 3
+    study_survey:
+      N05200007: 4
+      N05200016: 5
+      drbean: 3
+  N05200036:
+    exam_study_research:
+      N05200005: 2
+      drbean: 2
+    study_survey:
+      N05200040: 2
+      drbean: 2
+  N05200039:
+    exam_study_research:
+      N05200013: 3
+      drbean: 2
+    study_survey:
+      N05200041: 2
+      drbean: 2
+  N05200040:
+    exam_study_research:
+      N05200018: 1
+      drbean: 2
+    study_survey:
+      N05200016: 2
+      drbean: 2
+  N05200041:
+    exam_study_research:
+      N05200040: 2
+      drbean: 2
 exam_study_research:
   evaluations_of_by:
     N03093105:
       N05200029: 2
     N05200001:
       N05200007: 5
-    N05200002:
+    N05200002: ~
     N05200005:
-      N05200040: 4
       N05200018: 4
+      N05200040: 4
     N05200007:
       N05200041: 2
-    N05200011:
+    N05200011: ~
     N05200013:
       N05200016: 4
       N05200018: 3
@@ -24,8 +386,8 @@ exam_study_research:
     N05200022:
       N05200039: 3
     N05200023:
-      N05200040: 3
       N05200001: 2
+      N05200040: 3
     N05200026:
       N05200017: 4
       N05200018: 3
@@ -33,8 +395,8 @@ exam_study_research:
       N05200005: 5
       N05200018: 4
     N05200035:
-      N05200029: 2
       N05200007: 3
+      N05200029: 2
     N05200036:
       N05200005: 2
     N05200039:
@@ -43,21 +405,41 @@ exam_study_research:
       N05200018: 1
     N05200041:
       N05200040: 2
+fitness:
+  N03093105: 2.75
+  N05200001: 4.5
+  N05200002: 0
+  N05200005: 5
+  N05200007: 4.5
+  N05200011: 0
+  N05200013: 4
+  N05200016: 4
+  N05200017: 4.5
+  N05200018: 3.71428571428571
+  N05200022: 3.5
+  N05200023: 3.5
+  N05200026: 0
+  N05200029: 3.5
+  N05200035: 5
+  N05200036: 4.5
+  N05200039: 5
+  N05200040: 5
+  N05200041: 4.25
 study_survey:
   evaluations_of_by:
     N03093105:
       N05200017: 3
     N05200001:
       N05200036: 5
-    N05200002:
+    N05200002: ~
     N05200005:
       N03093105: 4
     N05200007:
       N03093105: 3
-    N05200011:
+    N05200011: ~
     N05200013:
-      N05200023: 4
       N05200018: 4
+      N05200023: 4
     N05200016:
       N05200022: 4
       N05200029: 4
@@ -73,15 +455,35 @@ study_survey:
     N05200026:
       N05200018: 1
     N05200029:
-      N05200013: 3
       N05200001: 3
+      N05200013: 3
     N05200035:
-      N05200016: 5
       N05200007: 4
+      N05200016: 5
     N05200036:
       N05200040: 2
     N05200039:
       N05200041: 2
     N05200040:
       N05200016: 2
-    N05200041:
+    N05200041: ~
+---
+N03093105: 2.75
+N05200001: 4.5
+N05200002: 0
+N05200005: 5
+N05200007: 4.5
+N05200011: 0
+N05200013: 4
+N05200016: 4
+N05200017: 4.5
+N05200018: 3.71428571428571
+N05200022: 3.5
+N05200023: 3.5
+N05200026: 0
+N05200029: 3.5
+N05200035: 5
+N05200036: 4.5
+N05200039: 5
+N05200040: 5
+N05200041: 4.25
