@@ -86,18 +86,18 @@ member:
     name: Gina
     password: si
     rating: ~
+  - Chinese: 彭紹安
+    email: v0341027@smail.nuu.edu.tw
+    id: V0341027
+    name: Leon
+    password: shao
+    rating: ~
 out:
   - Chinese: 周雅云
     email: v0341011@smail.nuu.edu.tw
     id: V0341011
     name: Winnie
     password: ya
-    rating: ~
-  - Chinese: 彭紹安
-    email: v0341027@smail.nuu.edu.tw
-    id: V0341027
-    name: Leon
-    password: shao
     rating: ~
   - Chinese: 陳思妘
     email: v0318014@smail.nuu.edu.tw
