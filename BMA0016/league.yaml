@@ -1,0 +1,296 @@
+---
+absent: ~
+active: ~
+anterior: 061BMA0031
+approach: GroupworkNoFault
+classMax: 3
+examMax: 100
+exams: exam
+field: 商用英文書信實務(二)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 3
+id: 062BMA0016
+league: 日經管三甲
+member:
+  - Chinese: 吳承育
+    email: s0231010@mail.nuu.edu.tw
+    id: U0231010
+    name: 吳承育
+    password: cheng
+    rating: ~
+  - Chinese: 顧臻鈺
+    email: s0418006@mail.nuu.edu.tw
+    id: U0418006
+    name: Yvette
+    password: zhen
+    rating: ~
+  - Chinese: 侯宇祥
+    email: s0431001@mail.nuu.edu.tw
+    id: U0431001
+    name: Lucent
+    password: yu
+    rating: ~
+  - Chinese: 林彤
+    email: s0431005@mail.nuu.edu.tw
+    id: U0431005
+    name: Lydia
+    password: tong
+    rating: ~
+  - Chinese: 蘇文豪
+    email: s0431006@mail.nuu.edu.tw
+    id: U0431006
+    name: Jeff
+    password: wen
+    rating: ~
+  - Chinese: 羅敏慈
+    email: s0431008@mail.nuu.edu.tw
+    id: U0431008
+    name: Emily
+    password: min
+    rating: ~
+  - Chinese: 林利昇
+    email: s0431009@mail.nuu.edu.tw
+    id: U0431009
+    name: Jason1
+    password: li
+    rating: ~
+  - Chinese: 黃悅慈
+    email: s0431010@mail.nuu.edu.tw
+    id: U0431010
+    name: Cherry
+    password: yue
+    rating: ~
+  - Chinese: 鄧尹茜
+    email: s0431011@mail.nuu.edu.tw
+    id: U0431011
+    name: Karen
+    password: yin
+    rating: ~
+  - Chinese: 蕭喻文
+    email: s0431012@mail.nuu.edu.tw
+    id: U0431012
+    name: Judy
+    password: yu
+    rating: ~
+  - Chinese: 吳冠蓁
+    email: s0431014@mail.nuu.edu.tw
+    id: U0431014
+    name: 吳冠蓁
+    password: guan
+    rating: ~
+  - Chinese: 張紹禹
+    email: s0431015@mail.nuu.edu.tw
+    id: U0431015
+    name: Ian
+    password: shao
+    rating: ~
+  - Chinese: 陳子翔
+    email: s0431016@mail.nuu.edu.tw
+    id: U0431016
+    name: Sean
+    password: zi
+    rating: ~
+  - Chinese: 蕭見燊
+    email: s0431017@mail.nuu.edu.tw
+    id: U0431017
+    name: Jason2
+    password: jian
+    rating: ~
+  - Chinese: 林子揚
+    email: s0431018@mail.nuu.edu.tw
+    id: U0431018
+    name: Darren
+    password: zi
+    rating: ~
+  - Chinese: 林竑
+    email: s0431019@mail.nuu.edu.tw
+    id: U0431019
+    name: Philco
+    password: hong
+    rating: ~
+  - Chinese: 王可文
+    email: s0431020@mail.nuu.edu.tw
+    id: U0431020
+    name: Kevin1
+    password: ke
+    rating: ~
+  - Chinese: 王憶綺
+    email: s0431021@mail.nuu.edu.tw
+    id: U0431021
+    name: Rosa
+    password: yi
+    rating: ~
+  - Chinese: 鄭家凱
+    email: s0431022@mail.nuu.edu.tw
+    id: U0431022
+    name: ChiaKai
+    password: jia
+    rating: ~
+  - Chinese: 黃雅翎
+    email: s0431023@mail.nuu.edu.tw
+    id: U0431023
+    name: Ling
+    password: ya
+    rating: ~
+  - Chinese: 陳柏諺
+    email: s0431025@mail.nuu.edu.tw
+    id: U0431025
+    name: Jack
+    password: bai
+    rating: ~
+  - Chinese: 黃郁文
+    email: s0431027@mail.nuu.edu.tw
+    id: U0431027
+    name: Amy1
+    password: yu
+    rating: ~
+  - Chinese: 石紘旗
+    email: s0431028@mail.nuu.edu.tw
+    id: U0431028
+    name: Jacky
+    password: hong
+    rating: ~
+  - Chinese: 黃莉媛
+    email: s0431029@mail.nuu.edu.tw
+    id: U0431029
+    name: Arout
+    password: li
+    rating: ~
+  - Chinese: 劉鎔瑋
+    email: s0431031@mail.nuu.edu.tw
+    id: U0431031
+    name: Joy
+    password: rong
+    rating: ~
+  - Chinese: 王姿涵
+    email: s0431034@mail.nuu.edu.tw
+    id: U0431034
+    name: Amy2
+    password: zi
+    rating: ~
+  - Chinese: 陳俊凱
+    email: s0431035@mail.nuu.edu.tw
+    id: U0431035
+    name: Kevin2
+    password: jun
+    rating: ~
+  - Chinese: 杜承衞
+    email: s0431036@mail.nuu.edu.tw
+    id: U0431036
+    name: Derrick
+    password: cheng
+    rating: ~
+  - Chinese: 陳功聯
+    email: s0431037@mail.nuu.edu.tw
+    id: U0431037
+    name: Amile
+    password: gong
+    rating: ~
+  - Chinese: 洪育樺
+    email: s0431038@mail.nuu.edu.tw
+    id: U0431038
+    name: Brenda
+    password: yu
+    rating: ~
+  - Chinese: 陳玫伶
+    email: s0431039@mail.nuu.edu.tw
+    id: U0431039
+    name: Katherine
+    password: mei
+    rating: ~
+  - Chinese: 楊子萱
+    email: s0431041@mail.nuu.edu.tw
+    id: U0431041
+    name: Tina
+    password: zi
+    rating: ~
+  - Chinese: 陳玟瀞
+    email: s0431043@mail.nuu.edu.tw
+    id: U0431043
+    name: 陳玟瀞
+    password: wen
+    rating: ~
+  - Chinese: 邱敏清
+    email: s0431044@mail.nuu.edu.tw
+    id: U0431044
+    name: Andy
+    password: min
+    rating: ~
+  - Chinese: 陳哲安
+    email: s0431045@mail.nuu.edu.tw
+    id: U0431045
+    name: David
+    password: zhe
+    rating: ~
+  - Chinese: 劉慧然
+    email: s0431046@mail.nuu.edu.tw
+    id: U0431046
+    name: Hedy
+    password: hui
+    rating: ~
+  - Chinese: 陳郁雯
+    email: s0431048@mail.nuu.edu.tw
+    id: U0431048
+    name: May
+    password: yu
+    rating: ~
+  - Chinese: 李佳怡
+    email: s0431049@mail.nuu.edu.tw
+    id: U0431049
+    name: 李佳怡
+    password: jia
+    rating: ~
+  - Chinese: 王紹宇
+    email: s0431050@mail.nuu.edu.tw
+    id: U0431050
+    name: Shawn
+    password: shao
+    rating: ~
+  - Chinese: 董祈妏
+    email: s0431052@mail.nuu.edu.tw
+    id: U0431052
+    name: Annie
+    password: qi
+    rating: ~
+  - Chinese: 林哲安
+    email: s0431053@mail.nuu.edu.tw
+    id: U0431053
+    name: Allen
+    password: zhe
+    rating: ~
+  - Chinese: 傅玉
+    email: s0431054@mail.nuu.edu.tw
+    id: U0431054
+    name: Jada
+    password: yu
+    rating: ~
+  - Chinese: 高暉評
+    email: s0431055@mail.nuu.edu.tw
+    id: U0431055
+    name: Sam
+    password: hui
+    rating: ~
+  - Chinese: 林慕涵
+    email: s0431057@mail.nuu.edu.tw
+    id: U0431057
+    name: Doris
+    password: mu
+    rating: ~
+  - Chinese: 羅郁雯
+    email: s0431058@mail.nuu.edu.tw
+    id: U0431058
+    name: YuWen
+    password: yu
+    rating: ~
+out: ~
+room: A706
+school: nuu
+session:
+  1: 1
+  2: 10
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
