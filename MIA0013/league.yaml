@@ -1,0 +1,246 @@
+---
+absent: ~
+active: ~
+anterior: 061MIA0016
+approach: GroupworkNoFault
+classMax: 3
+examMax: 100
+exams: exam
+field: 商用英文書信實務(二)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 062MIA0013
+league: 日資管三甲
+member:
+  - Chinese: 賴瑞霖
+    id: U0333050
+    name: RuiLin
+    password: rui
+    rating: ~
+  - Chinese: 黎俊賢
+    id: U0433002
+    name: JunIn
+    password: jun
+    rating: ~
+  - Chinese: 張偉傑
+    id: U0433004
+    name: WaiKit
+    password: wei
+    rating: ~
+  - Chinese: 張逸楓
+    id: U0433005
+    name: Eric
+    password: yi
+    rating: ~
+  - Chinese: 莊力彥
+    id: U0433006
+    name: LiYan
+    password: li
+    rating: ~
+  - Chinese: 劉子雯
+    id: U0433007
+    name: Vera
+    password: zi
+    rating: ~
+  - Chinese: 楊子平
+    id: U0433008
+    name: ZiPing
+    password: zi
+    rating: ~
+  - Chinese: 甯佐惠
+    id: U0433009
+    name: Claire
+    password: zuo
+    rating: ~
+  - Chinese: 楊程鈞
+    id: U0433012
+    name: Kevin
+    password: cheng
+    rating: ~
+  - Chinese: 周書丞
+    id: U0433015
+    name: ShuCheng
+    password: shu
+    rating: ~
+  - Chinese: 秦偉濠
+    id: U0433016
+    name: WeiHao
+    password: wei
+    rating: ~
+  - Chinese: 陳泓宇
+    id: U0433017
+    name: HongYu
+    password: hong
+    rating: ~
+  - Chinese: 林哲緯
+    id: U0433021
+    name: Ken
+    password: zhe
+    rating: ~
+  - Chinese: 張俞絃
+    id: U0433022
+    name: YuXian
+    password: yu
+    rating: ~
+  - Chinese: 龔利耀
+    id: U0433023
+    name: LiYao
+    password: li
+    rating: ~
+  - Chinese: 張雅雯
+    id: U0433024
+    name: Alice
+    password: ya
+    rating: ~
+  - Chinese: 林虹汝
+    id: U0433026
+    name: HongRu
+    password: hong
+    rating: ~
+  - Chinese: 王彥勛
+    id: U0433027
+    name: YanXun
+    password: yan
+    rating: ~
+  - Chinese: 楊宇倫
+    id: U0433028
+    name: Landon
+    password: yu
+    rating: ~
+  - Chinese: 林子桓
+    id: U0433029
+    name: ZiHuan
+    password: zi
+    rating: ~
+  - Chinese: 曾莉婷
+    id: U0433030
+    name: Doma
+    password: li
+    rating: ~
+  - Chinese: 王飛鳴
+    id: U0433031
+    name: Famine
+    password: fei
+    rating: ~
+  - Chinese: 李庚頷
+    id: U0433032
+    name: GongHan
+    password: geng
+    rating: ~
+  - Chinese: 梁家豪
+    id: U0433033
+    name: JiaHao
+    password: jia
+    rating: ~
+  - Chinese: 黃玥慈
+    id: U0433034
+    name: YueCih
+    password: yue
+    rating: ~
+  - Chinese: 廖暐瑋
+    id: U0433035
+    name: WeiWei
+    password: wei
+    rating: ~
+  - Chinese: 盧立辰
+    id: U0433036
+    name: Sam
+    password: li
+    rating: ~
+  - Chinese: 蔡欣學
+    id: U0433037
+    name: ShinHsueh
+    password: xin
+    rating: ~
+  - Chinese: 王毅霖
+    id: U0433038
+    name: YiLing
+    password: yi
+    rating: ~
+  - Chinese: 林昶亨
+    id: U0433039
+    name: ChangHeng
+    password: chang
+    rating: ~
+  - Chinese: 張家誠
+    id: U0433041
+    name: ChiaCheng
+    password: jia
+    rating: ~
+  - Chinese: 高培勛
+    id: U0433042
+    name: Perry
+    password: pei
+    rating: ~
+  - Chinese: 張哲愷
+    id: U0433044
+    name: Allen
+    password: zhe
+    rating: ~
+  - Chinese: 姚柏瑋
+    id: U0433046
+    name: Way
+    password: bai
+    rating: ~
+  - Chinese: 劉子豪
+    id: U0433047
+    name: ZiuHao
+    password: zi
+    rating: ~
+  - Chinese: 湯幸融
+    id: U0433048
+    name: HsingJung
+    password: xing
+    rating: ~
+  - Chinese: 鄭又誠
+    id: U0433049
+    name: You
+    password: you
+    rating: ~
+  - Chinese: 范瑜萍
+    id: U0433050
+    name: Aasta
+    password: yu
+    rating: ~
+  - Chinese: 許翔惟
+    id: U0433051
+    name: Xiang
+    password: xiang
+    rating: ~
+  - Chinese: 劉若宇
+    id: U0433052
+    name: Rick
+    password: ruo
+    rating: ~
+  - Chinese: 蘇育民
+    id: U0433053
+    name: YuMin
+    password: yu
+    rating: ~
+  - Chinese: 莊曜聰
+    id: U0433054
+    name: Yao
+    password: yao
+    rating: ~
+  - Chinese: 顏思宇
+    id: U0433055
+    name: SzYu
+    password: si
+    rating: ~
+  - Chinese: 黃思豪
+    id: U0433118
+    name: 黃思豪
+    password: si
+    rating: ~
+out: ~
+room: A706
+school: nuu
+session:
+  1: 1
+  2: 10
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
