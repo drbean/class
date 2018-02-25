@@ -1,7 +1,7 @@
 ---
 absent: ~
 active: ~
-anterior: 052BMA0041
+anterior: 061BMA0034
 approach: GroupworkNoFault
 classMax: 3
 examMax: 100
@@ -11,7 +11,7 @@ group: session
 groupwork: classwork
 hw: homework
 hwMax: 3
-id: 061BMA0034
+id: 062BMA0029
 league: 日經管三乙
 member:
   - Chinese: 余思樺
