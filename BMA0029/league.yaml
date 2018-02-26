@@ -56,12 +56,6 @@ member:
     name: Oscar
     password: zun
     rating: ~
-  - Chinese: 曾家晏
-    email: u0431108@smail.nuu.edu.tw
-    id: U0431108
-    name: Dami
-    password: jia
-    rating: ~
   - Chinese: 陳逸紋
     email: u0431109@smail.nuu.edu.tw
     id: U0431109
@@ -176,12 +170,6 @@ member:
     name: Daniel
     password: zhong
     rating: ~
-  - Chinese: 鍾瑩葶
-    email: u0431134@smail.nuu.edu.tw
-    id: U0431134
-    name: Jody
-    password: ying
-    rating: ~
   - Chinese: 連柏為
     email: u0431135@smail.nuu.edu.tw
     id: U0431135
@@ -291,6 +279,18 @@ member:
     password: shao
     rating: ~
 out:
+  - Chinese: 曾家晏
+    email: u0431108@smail.nuu.edu.tw
+    id: U0431108
+    name: Dami
+    password: jia
+    rating: ~
+  - Chinese: 鍾瑩葶
+    email: u0431134@smail.nuu.edu.tw
+    id: U0431134
+    name: Jody
+    password: ying
+    rating: ~
 room: A706
 school: nuu
 session:
