@@ -68,12 +68,6 @@ member:
     name: Eve
     password: feng
     rating: ~
-  - Chinese: 羅以青
-    email: u0431111@smail.nuu.edu.tw
-    id: U0431111
-    name: Ching
-    password: yi
-    rating: ~
   - Chinese: 黃子容
     email: u0431112@smail.nuu.edu.tw
     id: U0431112
@@ -115,12 +109,6 @@ member:
     id: U0431121
     name: Shang
     password: shang
-    rating: ~
-  - Chinese: 徐郁琳
-    email: u0431122@smail.nuu.edu.tw
-    id: U0431122
-    name: Linda
-    password: yu
     rating: ~
   - Chinese: 莊沛祥
     email: u0431123@smail.nuu.edu.tw
@@ -275,10 +263,22 @@ member:
   - Chinese: 羅劭竹
     email: u0431156@smail.nuu.edu.tw
     id: U0431156
-    name: 羅劭竹
+    name: Julia
     password: shao
     rating: ~
 out:
+  - Chinese: 徐郁琳
+    email: u0431122@smail.nuu.edu.tw
+    id: U0431122
+    name: Linda
+    password: yu
+    rating: ~
+  - Chinese: 羅以青
+    email: u0431111@smail.nuu.edu.tw
+    id: U0431111
+    name: Ching
+    password: yi
+    rating: ~
   - Chinese: 曾家晏
     email: u0431108@smail.nuu.edu.tw
     id: U0431108
