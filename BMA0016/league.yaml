@@ -14,6 +14,13 @@ hwMax: 3
 id: 062BMA0016
 league: 日經管三甲
 member:
+  - Chinese: 梁慕天
+    email: u0410004
+    id: U0410004
+    name: Fafa
+    password: mu
+    rating: ~
+
   - Chinese: 吳承育
     email: u0231010@smail.nuu.edu.tw
     id: U0231010
