@@ -15,7 +15,7 @@ id: 062BMA0016
 league: 日經管三甲
 member:
   - Chinese: 梁慕天
-    email: u0410004
+    email: u0410004@smail.nuu.edu.tw
     id: U0410004
     name: Fafa
     password: mu
@@ -216,7 +216,7 @@ member:
   - Chinese: 陳玟瀞
     email: u0431043@smail.nuu.edu.tw
     id: U0431043
-    name: 陳玟瀞
+    name: Adeline
     password: wen
     rating: ~
   - Chinese: 邱敏清
@@ -246,7 +246,7 @@ member:
   - Chinese: 李佳怡
     email: u0431049@smail.nuu.edu.tw
     id: U0431049
-    name: 李佳怡
+    name: Amelia
     password: jia
     rating: ~
   - Chinese: 王紹宇
