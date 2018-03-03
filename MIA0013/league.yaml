@@ -14,6 +14,13 @@ hwMax: 2
 id: 062MIA0013
 league: 日資管三甲
 member:
+  - Chinese: 博翔
+    email: u0443000@smail.nuu.edu.tw
+    id: U0443000
+    name: Sean
+    password: bo
+    rating: ~
+
   - Chinese: 徐郁琳
     email: u0431122@smail.nuu.edu.tw
     id: U0431122
