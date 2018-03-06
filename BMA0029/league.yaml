@@ -14,6 +14,19 @@ hwMax: 3
 id: 062BMA0029
 league: 日經管三乙
 member:
+  - Chinese: 陳愷容
+    email: u0331039@smail.nuu.edu.tw
+    id: U0331039
+    name: Emily
+    password: kai
+    rating: ~
+  - Chinese: 陳奕全
+    email: u0231137@smail.nuu.edu.tw
+    id: U0231137
+    name: Andy2
+    password: yi
+    rating: ~
+
   - Chinese: 余思樺
     email: u0331106@smail.nuu.edu.tw
     id: U0331106
