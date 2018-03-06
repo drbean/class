@@ -14,6 +14,13 @@ hwMax: 2
 id: 062MIA0013
 league: 日資管三甲
 member:
+  - Chinese: 黃盈潔
+    email: u0443056@smail.nuu.edu.tw
+    id: U0433056
+    name: YingJie
+    password: ying
+    rating: ~
+
   - Chinese: 博翔
     email: u0443000@smail.nuu.edu.tw
     id: U0443000
@@ -307,7 +314,7 @@ member:
   - Chinese: 黃思豪
     email: u0433118@smail.nuu.edu.tw
     id: U0433118
-    name: 黃思豪
+    name: SiHao
     password: si
     rating: ~
 out: ~
