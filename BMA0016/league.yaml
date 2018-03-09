@@ -14,6 +14,13 @@ hwMax: 3
 id: 062BMA0016
 league: 日經管三甲
 member:
+  - Chinese: 黃怡
+    id: U0334047
+    name: YiTing
+    password: yi
+    email: u0334047@smail.nuu.edu.tw
+    rating: ~
+  
   - Chinese: 梁慕天
     email: u0410004@smail.nuu.edu.tw
     id: U0410004
