@@ -171,6 +171,7 @@ scores:
   win: 5
 session:
   1: 1
+  2: 4
 weights:
   classwork: 40
   exams: 20
