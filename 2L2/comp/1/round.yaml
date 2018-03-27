@@ -1,0 +1,59 @@
+---
+activity:
+  complaint:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+assistant: ~
+bye: B05200066
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: B05200009
+    Black: B05200054
+  2:
+    White: B05200032
+    Black: B05200086
+  3:
+    White: B05200022
+    Black: B05200018
+  4:
+    White: B05200082
+    Black: B06202101
+  5:
+    White: B05200058
+    Black: B05200074
+  6:
+    White: B06202104
+    Black: B05200070
+  7:
+    White: B04200066
+    Black: B05200048
+  8:
+    White: B05210064
+    Black: B05200078
+  9:
+    White: B05200036
+    Black: B05200026
+  10:
+    White: B06202102
+    Black: B05200043
+  11:
+    White: B05200092
+    Black: B06202106
+late:
+pairing: swiss
+payprotocol: meritPay 1
+round: 1
+text: /home/drbean/curriculum/conversation/fix/cards.yaml
+week: 4
