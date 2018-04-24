@@ -172,6 +172,8 @@ scores:
 session:
   1: 1
   2: 4
+  3: 5
+  4: 8
 weights:
   classwork: 40
   exams: 20
