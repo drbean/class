@@ -1,0 +1,60 @@
+---
+activity:
+  pollution:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+assistant: ~
+bye: B05200026
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: B05200070
+    Black: B05210064
+  2:
+    White: B05200054
+    Black: B05200022
+  3:
+    White: B05200043
+    Black: B04200066
+  4:
+    White: B05200086
+    Black: B05200058
+  5:
+    White: B06202101
+    Black: B05200092
+  6:
+    White: B06202106
+    Black: B05200082
+  7:
+    White: B05200048
+    Black: B06202104
+  8:
+    White: B05200018
+    Black: B05200036
+  9:
+    White: B05200078
+    Black: B05200009
+  10:
+    White: B05200066
+    Black: B06202102
+  11:
+    White: B05200074
+    Black: B05200032
+forfeit:
+  - B05200048
+pairing: swiss
+payprotocol: meritPay 1
+round: 2
+text: /home/drbean/curriculum/conversation/environment/cards.yaml
+week: 9
