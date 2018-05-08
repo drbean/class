@@ -10,7 +10,7 @@ field: 英語會話(二)
 group: session
 groupwork: classwork
 hw: homework
-hwMax: 2
+hwMax: 100
 id: 062AFB2L2
 jigsaw: exam
 league: BAF021 四技應外二甲
@@ -175,6 +175,7 @@ session:
   3: 5
   4: 8
   5: 9
+  6: 10
 weights:
   classwork: 40
   exams: 20
