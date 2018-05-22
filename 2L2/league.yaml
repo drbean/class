@@ -4,7 +4,7 @@ anterior: 061AFB2L1A
 approach: Individual
 classMax: 3
 compcomp: comp
-examMax: 5
+examMax: 100
 exams: exam
 field: 英語會話(二)
 group: session
@@ -176,6 +176,7 @@ session:
   4: 8
   5: 9
   6: 10
+  # 7: 12
 weights:
   classwork: 40
   exams: 20
