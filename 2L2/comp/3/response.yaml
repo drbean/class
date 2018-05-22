@@ -1,0 +1,92 @@
+---
+free:
+  1:
+    learning:
+      0:
+        B05200043:
+          point:
+            1: Unreturned
+        B05200054:
+          point:
+            1: Returned
+  2:
+    learning:
+      0:
+        B05200058:
+          point:
+            1: Unreturned
+        B06202101:
+          point:
+            1: Returned
+  3:
+    learning:
+      0:
+        B06202102:
+          point:
+            1: Unreturned
+        B05210064:
+          point:
+            1: Returned
+  4:
+    learning:
+      0:
+        B05200032:
+          point:
+            1: Returned
+        B05200078:
+          point:
+            1: Unreturned
+  5:
+    learning:
+      0:
+        B05200036:
+          point:
+            1: Unreturned
+        B05200022:
+          point:
+            1: Returned
+  6:
+    learning:
+      0:
+        B05200026:
+          point:
+            1: Returned
+        B05200082:
+          point:
+            1: Unreturned
+  7:
+    learning:
+      0:
+        B05200092:
+          point:
+            1: Returned
+        B05200018:
+          point:
+            1: Unreturned
+  8:
+    learning:
+      0:
+        B06202104:
+          point:
+            1: Returned
+        B05200066:
+          point:
+            1: Unreturned
+  9:
+    learning:
+      0:
+        B05200009:
+          point:
+            1: Returned
+        B05200074:
+          point:
+            1: Unreturned
+  10:
+    learning:
+      0:
+        B06202106:
+          point:
+            1: Unreturned
+        B05200070:
+          point:
+            1: Returned

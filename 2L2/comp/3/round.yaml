@@ -1,0 +1,57 @@
+---
+activity:
+  learning:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+assistant: ~
+bye: B05200013
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: B05200043
+    Black: B05200054
+  2:
+    White: B05200058
+    Black: B06202101
+  3:
+    White: B06202102
+    Black: B05210064
+  4:
+    White: B05200032
+    Black: B05200078
+  5:
+    White: B05200036
+    Black: B05200022
+  6:
+    White: B05200026
+    Black: B05200082
+  7:
+    White: B05200092
+    Black: B05200018
+  8:
+    White: B06202104
+    Black: B05200066
+  9:
+    White: B05200009
+    Black: B05200074
+  10:
+    White: B06202106
+    Black: B05200070
+late:
+  - B06202106
+  - B05200070
+pairing: swiss adjusted
+payprotocol: meritPay 1
+round: 3
+text: /home/drbean/curriculum/conversation/learning/cards.yaml
+week: 12
