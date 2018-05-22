@@ -12,8 +12,10 @@ activity:
       - 8
       - 9
       - 10
-assistant: ~
-bye: B05200013
+assistant:
+  3-2:
+    B05200048: 5
+bye: ~
 dispensation: ~
 divisions: ~
 group:
