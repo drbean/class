@@ -124,8 +124,8 @@ points:
     try: 2
 report: |+
   grammatical: 2
-  try: 1
   correct: 0
+  try: 1
   Player     Question Grammatical Answers   Total     Grade
   B04200066      0        0         0         0        0.0
   B05200009      7        1         1         9        1.9
