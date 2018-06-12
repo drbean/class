@@ -1,0 +1,92 @@
+---
+free:
+  0:
+    improvement:
+      0:
+        B05200048:
+          point:
+            1: Returned
+        B06202106:
+          point:
+            2: Unreturned
+  1:
+    improvement:
+      0:
+        B06202101:
+          point:
+            1: Unreturned
+        B05200054:
+          point:
+            1: Returned
+  2:
+    improvement:
+      0:
+        B05210064:
+          point:
+            1: Returned
+        B05200032:
+          point:
+            1: Unreturned
+  3:
+    improvement:
+      0:
+        B05200022:
+          point:
+            1: Returned
+        B05200043:
+          point:
+            1: Unreturned
+  4:
+    improvement:
+      0:
+        B05200092:
+          point:
+            1: Returned
+        B05200036:
+          point:
+            1: Unreturned
+  5:
+    improvement:
+      0:
+        B05200026:
+          point:
+            1: Unreturned
+        B05200009:
+          point:
+            1: Returned
+  6:
+    improvement:
+      0:
+        B05200082:
+          point:
+            1: Returned
+        B05200074:
+          point:
+            1: Unreturned
+  7:
+    improvement:
+      0:
+        B05200018:
+          point:
+            1: Unreturned
+        B05200066:
+          point:
+            1: Returned
+  8:
+    improvement:
+      0:
+        B05200070:
+          point:
+            1: Returned
+        B04200066:
+          point:
+            1: Unreturned
+  9:
+    improvement:
+      0:
+        B06202104:
+          point:
+            1: Returned
+        B05200078:
+          point:
+            1: Unreturned
