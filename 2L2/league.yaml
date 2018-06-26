@@ -179,6 +179,8 @@ session:
   7: 12
   8: 13
   9: 15
+  10: 16
+  11: 18
 weights:
   classwork: 40
   exams: 20
