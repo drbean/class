@@ -308,6 +308,8 @@ room: A706
 school: nuu
 session:
   1: 1
+  2: 2
+  3: 10
 weights:
   classwork: 20
   exams: 40
