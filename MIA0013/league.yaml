@@ -3,14 +3,14 @@ absent: ~
 active: ~
 anterior: 061MIA0016
 approach: GroupworkNoFault
-classMax: 3
+classMax: 100
 examMax: 100
 exams: exam
 field: 商用英文書信實務(二)
 group: session
 groupwork: classwork
 hw: homework
-hwMax: 2
+hwMax: 100
 id: 062MIA0013
 league: 日資管三甲
 member:
@@ -322,6 +322,8 @@ room: A706
 school: nuu
 session:
   1: 1
+  2: 2
+  3: 10
 weights:
   classwork: 20
   exams: 40
