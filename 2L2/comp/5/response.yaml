@@ -1,0 +1,101 @@
+---
+free:
+  1:
+    'trigger, regret':
+      0:
+        B05200086:
+          point:
+            1: Unreturned
+        B05200048:
+          point:
+            1: Returned
+  2:
+    'trigger, regret':
+      0:
+        B04200066:
+          point:
+            1: Returned
+        B05200058:
+          point:
+            1: Unreturned
+  3:
+    'trigger, regret':
+      0:
+        B05200054:
+          point:
+            1: Returned
+        B06202102:
+          point:
+            1: Unreturned
+  4:
+    'trigger, regret':
+      0:
+        B06202106:
+          point:
+            1: Unreturned
+        B05210064:
+          point:
+            1: Returned
+  5:
+    'trigger, regret':
+      0:
+        B05200022:
+          point:
+            1: Returned
+        B05200092:
+          point:
+            1: Unreturned
+  6:
+    'trigger, regret':
+      0:
+        B05200032:
+          point:
+            1: Unreturned
+        B06202101:
+          point:
+            1: Returned
+  7:
+    'trigger, regret':
+      0:
+        B05200009:
+          point:
+            1: Unreturned
+        B05200043:
+          point:
+            1: Returned
+  8:
+    'trigger, regret':
+      0:
+        B05200036:
+          point:
+            1: Returned
+        B05200082:
+          point:
+            1: Unreturned
+  9:
+    'trigger, regret':
+      0:
+        B05200066:
+          point:
+            1: Returned
+        B05200026:
+          point:
+            1: Unreturned
+  10:
+    'trigger, regret':
+      0:
+        B05200074:
+          point:
+            1: Returned
+        B05200018:
+          point:
+            1: Unreturned
+  11:
+    'trigger, regret':
+      0:
+        B05200078:
+          point:
+            1: Unreturned
+        B06202104:
+          point:
+            1: Returned

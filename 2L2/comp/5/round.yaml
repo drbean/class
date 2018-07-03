@@ -1,0 +1,62 @@
+---
+activity:
+  'trigger, regret':
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+assistant: ~
+bye: B05200070
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: B05200086
+    Black: B05200048
+  2:
+    White: B04200066
+    Black: B05200058
+  3:
+    White: B05200054
+    Black: B06202102
+  4:
+    White: B06202106
+    Black: B05210064
+  5:
+    White: B05200022
+    Black: B05200092
+  6:
+    White: B05200032
+    Black: B06202101
+  7:
+    White: B05200009
+    Black: B05200043
+  8:
+    White: B05200036
+    Black: B05200082
+  9:
+    White: B05200066
+    Black: B05200026
+  10:
+    White: B05200074
+    Black: B05200018
+  11:
+    White: B05200078
+    Black: B06202104
+  
+late:
+  - B05200078
+  - B06202104
+pairing: swiss adjusted
+payprotocol: meritPay 1
+round: 5
+text: /home/drbean/curriculum/conversation/identity/cards.yaml
+week: 18
