@@ -2,7 +2,7 @@
 absent: ~
 active: ~
 anterior: 061BMA0031
-approach: GroupworkNoFault
+approach: Individual
 classMax: 3
 examMax: 100
 exams: exam
@@ -303,6 +303,8 @@ room: A706
 school: nuu
 session:
   1: 1
+  2: 9
+  3: 10
 weights:
   classwork: 20
   exams: 40
