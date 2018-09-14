@@ -1,0 +1,313 @@
+---
+absent: ~
+anterior: 071AFB2L1
+approach: Individual
+classMax: 3
+compcomp: comp
+examMax: 5
+exams: exam
+field: 進階英語聽講(一)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 100
+id: 071AFBB91
+jigsaw: exam
+league: BAF022 四技應外二乙
+member:
+  - Chinese: 劉子郡
+    email: a0955005940@gmail.com
+    id: B05200078
+    name: 劉子郡
+    password: zi
+    rating: ~
+  - Chinese: 砂川朝宏(外)
+    email: schaohong@gmail.com
+    id: B06080105
+    name: 砂川朝宏(外)
+    password: chuan
+    rating: ~
+  - Chinese: 劉俊宏
+    email: a22212221@kimo.com
+    id: B06200002
+    name: 劉俊宏
+    password: jun
+    rating: ~
+  - Chinese: 鄭傳圓
+    email: a941831216@gmail.com
+    id: B06200005
+    name: 鄭傳圓
+    password: chuan
+    rating: ~
+  - Chinese: X雅婷
+    email: bless9758@gmail.com
+    id: B06200007
+    name: X雅婷
+    password: ya
+    rating: ~
+  - Chinese: 巫佩芸
+    email: cas1616812@gmail.com
+    id: B06200009
+    name: 巫佩芸
+    password: pei
+    rating: ~
+  - Chinese: 徐品睿
+    email: calvins0728@gmail.com
+    id: B06200011
+    name: 徐品睿
+    password: pin
+    rating: ~
+  - Chinese: 余婕菱
+    email: amyyu871103@gmail.com
+    id: B06200013
+    name: 余婕菱
+    password: jie
+    rating: ~
+  - Chinese: 黃震維
+    email: sd8680@yahoo.com.tw
+    id: B06200015
+    name: 黃震維
+    password: zhen
+    rating: ~
+  - Chinese: 周心柔
+    email: jou880802@gmail.com
+    id: B06200019
+    name: 周心柔
+    password: xin
+    rating: ~
+  - Chinese: 沈宜欣
+    email: yixin090987@gmail.com
+    id: B06200023
+    name: 沈宜欣
+    password: yi
+    rating: ~
+  - Chinese: 梁雅媗
+    email: amber0525293@yahoo.com
+    id: B06200025
+    name: 梁雅媗
+    password: ya
+    rating: ~
+  - Chinese: 林詩涵
+    email: latte6927@gmail.com
+    id: B06200027
+    name: 林詩涵
+    password: shi
+    rating: ~
+  - Chinese: 蘇志祥
+    email: a121170882@yahoo.com.tw
+    id: B06200029
+    name: 蘇志祥
+    password: zhi
+    rating: ~
+  - Chinese: 郭念慈
+    email: hccvsma332022@gmail.com
+    id: B06200031
+    name: 郭念慈
+    password: nian
+    rating: ~
+  - Chinese: 何嘉芬
+    email: nmo3152@gmail.com
+    id: B06200035
+    name: 何嘉芬
+    password: jia
+    rating: ~
+  - Chinese: 黃詩豪
+    email: z0100322@yahoo.com.tw
+    id: B06200037
+    name: 黃詩豪
+    password: shi
+    rating: ~
+  - Chinese: 羅雨萱
+    email: sherry871123@gmail.com
+    id: B06200041
+    name: 羅雨萱
+    password: yu
+    rating: ~
+  - Chinese: 葉柏顯
+    email: htc888172@gmail.com
+    id: B06200043
+    name: 葉柏顯
+    password: bai
+    rating: ~
+  - Chinese: 曾智瑄
+    email: michael60213@icloud.com
+    id: B06200046
+    name: 曾智瑄
+    password: zhi
+    rating: ~
+  - Chinese: 劉子睿
+    email: zirui0910@gmail.com
+    id: B06200048
+    name: 劉子睿
+    password: zi
+    rating: ~
+  - Chinese: 何胤廷
+    email: roger970512@yahoo.com.tw
+    id: B06200052
+    name: 何胤廷
+    password: yin
+    rating: ~
+  - Chinese: 陳昱志
+    email: karta407989@gmail.com
+    id: B06200058
+    name: 陳昱志
+    password: yu
+    rating: ~
+  - Chinese: 胡廷嘉
+    email: zxc98719@gmail.com
+    id: B06200061
+    name: 胡廷嘉
+    password: ting
+    rating: ~
+  - Chinese: 陳彤縈
+    email: mory871014@gmail.com
+    id: B06200063
+    name: 陳彤縈
+    password: tong
+    rating: ~
+  - Chinese: 吳聲昊
+    email: tssaaos20303@gmail.com
+    id: B06200065
+    name: 吳聲昊
+    password: sheng
+    rating: ~
+  - Chinese: 鄒欣芸
+    email: alice0916467246@gmail.com
+    id: B06200067
+    name: 鄒欣芸
+    password: xin
+    rating: ~
+  - Chinese: 湯惠雯
+    email: Girlsmile@gmail.com
+    id: B06200069
+    name: 湯惠雯
+    password: hui
+    rating: ~
+  - Chinese: 彭詠軒
+    email: s8790644@gmail.com
+    id: B06200071
+    name: 彭詠軒
+    password: yong
+    rating: ~
+  - Chinese: 吳宗烜
+    email: eraser171738@gmail.com
+    id: B06200073
+    name: 吳宗烜
+    password: zong
+    rating: ~
+  - Chinese: 狩綾乃(外)
+    email: ayano126x@gmail.com
+    id: B06200080
+    name: 狩綾乃(外)
+    password: ling
+    rating: ~
+  - Chinese: 安賢智(外)
+    email: anhyungg@naver.com
+    id: B06200081
+    name: 安賢智(外)
+    password: xian
+    rating: ~
+  - Chinese: 唐湘琳
+    email: daejae1224@gmail.com
+    id: B06209101
+    name: 唐湘琳
+    password: xiang
+    rating: ~
+  - Chinese: 賴新
+    email: simon19990722@yahoo.com.tw
+    id: B06210041
+    name: 賴新
+    password: xin
+    rating: ~
+  - Chinese: 黃美菱
+    email: lovely606252@gmail.com
+    id: B07202101
+    name: 黃美菱
+    password: mei
+    rating: ~
+  - Chinese: 莊凱陽
+    email: jeff4504@yahoo.com.tw
+    id: B07202102
+    name: 莊凱陽
+    password: kai
+    rating: ~
+  - Chinese: 范姜宥晴
+    email: ch1021511003@gmail.com
+    id: B07202103
+    name: 范姜宥晴
+    password: jiang
+    rating: ~
+  - Chinese: 李宇媃
+    email: halo861209@gmail.com
+    id: B07202104
+    name: 李宇媃
+    password: yu
+    rating: ~
+  - Chinese: 顏又雯
+    email: w04090301@gmail.com
+    id: B07202106
+    name: 顏又雯
+    password: you
+    rating: ~
+  - Chinese: 范馨云
+    email: a0985066024@gmail.com
+    id: B07202107
+    name: 范馨云
+    password: xin
+    rating: ~
+  - Chinese: 劉和諺
+    email: chu123321123321123@gmail.com
+    id: B07202108
+    name: 劉和諺
+    password: he
+    rating: ~
+  - Chinese: 李芝綾
+    email: a0977203087@gmail.com
+    id: B07202110
+    name: 李芝綾
+    password: zhi
+    rating: ~
+  - Chinese: 范姜家喬
+    email: alice85120877@gmail.com
+    id: B07202112
+    name: 范姜家喬
+    password: jiang
+    rating: ~
+  - Chinese: 胡家榮
+    email: ryji0811@yahoo.com.tw
+    id: B07202114
+    name: 胡家榮
+    password: jia
+    rating: ~
+  - Chinese: 陳伯宥
+    email: yorkchen782@gmail.com
+    id: B07202117
+    name: 陳伯宥
+    password: bo
+    rating: ~
+out: ~
+room: hong-603
+school: must
+scores:
+  bye: 5
+  draw: 4
+  forfeit: 0
+  late: 1
+  loss: 3
+  win: 5
+session:
+  1: 1
+  10: 16
+  11: 18
+  2: 4
+  3: 5
+  4: 8
+  5: 9
+  6: 10
+  7: 12
+  8: 13
+  9: 15
+weights:
+  classwork: 40
+  exams: 20
+  homework: 40
