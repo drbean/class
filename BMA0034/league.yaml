@@ -1,0 +1,308 @@
+---
+absent: ~
+active: ~
+anterior: 061BMA0034
+approach: GroupworkNoFault
+classMax: 3
+examMax: 100
+exams: exam
+field: 商用英文書信實務(一)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 3
+id: 071BMA0034
+league: 日經管三乙
+member:
+  - Chinese: 葉泓佑
+    email: u0531101@smail.nuu.edu.tw
+    id: U0531101
+    name: 葉泓佑
+    password: hong
+    rating: ~
+  - Chinese: 盧奕君
+    email: u0531102@smail.nuu.edu.tw
+    id: U0531102
+    name: 盧奕君
+    password: yi
+    rating: ~
+  - Chinese: 林殊慧
+    email: u0531103@smail.nuu.edu.tw
+    id: U0531103
+    name: 林殊慧
+    password: shu
+    rating: ~
+  - Chinese: 陳瑩珊
+    email: u0531104@smail.nuu.edu.tw
+    id: U0531104
+    name: 陳瑩珊
+    password: ying
+    rating: ~
+  - Chinese: 王伯豪
+    email: u0531105@smail.nuu.edu.tw
+    id: U0531105
+    name: 王伯豪
+    password: bo
+    rating: ~
+  - Chinese: 陳奐雯
+    email: u0531106@smail.nuu.edu.tw
+    id: U0531106
+    name: 陳奐雯
+    password: huan
+    rating: ~
+  - Chinese: 楊雅涵
+    email: u0531107@smail.nuu.edu.tw
+    id: U0531107
+    name: 楊雅涵
+    password: ya
+    rating: ~
+  - Chinese: 周亞慧
+    email: u0531108@smail.nuu.edu.tw
+    id: U0531108
+    name: 周亞慧
+    password: ya
+    rating: ~
+  - Chinese: 林欣瑩
+    email: u0531109@smail.nuu.edu.tw
+    id: U0531109
+    name: 林欣瑩
+    password: xin
+    rating: ~
+  - Chinese: 陳冠宇
+    email: u0531110@smail.nuu.edu.tw
+    id: U0531110
+    name: 陳冠宇
+    password: guan
+    rating: ~
+  - Chinese: 林祐震
+    email: u0531111@smail.nuu.edu.tw
+    id: U0531111
+    name: 林祐震
+    password: you
+    rating: ~
+  - Chinese: 林芸萍
+    email: u0531112@smail.nuu.edu.tw
+    id: U0531112
+    name: 林芸萍
+    password: yun
+    rating: ~
+  - Chinese: 劉佳玲
+    email: u0531116@smail.nuu.edu.tw
+    id: U0531116
+    name: 劉佳玲
+    password: jia
+    rating: ~
+  - Chinese: 洪涵筠
+    email: u0531117@smail.nuu.edu.tw
+    id: U0531117
+    name: 洪涵筠
+    password: han
+    rating: ~
+  - Chinese: 黃沛玉
+    email: u0531118@smail.nuu.edu.tw
+    id: U0531118
+    name: 黃沛玉
+    password: pei
+    rating: ~
+  - Chinese: 張詠翔
+    email: u0531119@smail.nuu.edu.tw
+    id: U0531119
+    name: 張詠翔
+    password: yong
+    rating: ~
+  - Chinese: 吳宜玲
+    email: u0531120@smail.nuu.edu.tw
+    id: U0531120
+    name: 吳宜玲
+    password: yi
+    rating: ~
+  - Chinese: 林佩蓁
+    email: u0531121@smail.nuu.edu.tw
+    id: U0531121
+    name: 林佩蓁
+    password: pei
+    rating: ~
+  - Chinese: 文郁甯
+    email: u0531122@smail.nuu.edu.tw
+    id: U0531122
+    name: 文郁甯
+    password: yu
+    rating: ~
+  - Chinese: 邱名廣
+    email: u0531123@smail.nuu.edu.tw
+    id: U0531123
+    name: 邱名廣
+    password: ming
+    rating: ~
+  - Chinese: 宣文皓
+    email: u0531124@smail.nuu.edu.tw
+    id: U0531124
+    name: 宣文皓
+    password: wen
+    rating: ~
+  - Chinese: 李華美
+    email: u0531126@smail.nuu.edu.tw
+    id: U0531126
+    name: 李華美
+    password: hua
+    rating: ~
+  - Chinese: 黃碧茹
+    email: u0531127@smail.nuu.edu.tw
+    id: U0531127
+    name: 黃碧茹
+    password: bi
+    rating: ~
+  - Chinese: 張才琳
+    email: u0531128@smail.nuu.edu.tw
+    id: U0531128
+    name: 張才琳
+    password: cai
+    rating: ~
+  - Chinese: 鄒嘉慧
+    email: u0531129@smail.nuu.edu.tw
+    id: U0531129
+    name: 鄒嘉慧
+    password: jia
+    rating: ~
+  - Chinese: 姚俊竹
+    email: u0531130@smail.nuu.edu.tw
+    id: U0531130
+    name: 姚俊竹
+    password: jun
+    rating: ~
+  - Chinese: 簡宏家
+    email: u0531131@smail.nuu.edu.tw
+    id: U0531131
+    name: 簡宏家
+    password: hong
+    rating: ~
+  - Chinese: 謝宜珊
+    email: u0531132@smail.nuu.edu.tw
+    id: U0531132
+    name: 謝宜珊
+    password: yi
+    rating: ~
+  - Chinese: 黃冠文
+    email: u0531133@smail.nuu.edu.tw
+    id: U0531133
+    name: 黃冠文
+    password: guan
+    rating: ~
+  - Chinese: 楊沛紅
+    email: u0531134@smail.nuu.edu.tw
+    id: U0531134
+    name: 楊沛紅
+    password: pei
+    rating: ~
+  - Chinese: 黃瀞葇
+    email: u0531136@smail.nuu.edu.tw
+    id: U0531136
+    name: 黃瀞葇
+    password: jing
+    rating: ~
+  - Chinese: 黃耕凡
+    email: u0531137@smail.nuu.edu.tw
+    id: U0531137
+    name: 黃耕凡
+    password: geng
+    rating: ~
+  - Chinese: 江佩珊
+    email: u0531138@smail.nuu.edu.tw
+    id: U0531138
+    name: 江佩珊
+    password: pei
+    rating: ~
+  - Chinese: 陳家秝
+    email: u0531139@smail.nuu.edu.tw
+    id: U0531139
+    name: 陳家秝
+    password: jia
+    rating: ~
+  - Chinese: 陳姿霖
+    email: u0531141@smail.nuu.edu.tw
+    id: U0531141
+    name: 陳姿霖
+    password: zi
+    rating: ~
+  - Chinese: 蔡宗倫
+    email: u0531142@smail.nuu.edu.tw
+    id: U0531142
+    name: 蔡宗倫
+    password: zong
+    rating: ~
+  - Chinese: 王宏滔
+    email: u0531143@smail.nuu.edu.tw
+    id: U0531143
+    name: 王宏滔
+    password: hong
+    rating: ~
+  - Chinese: 汪思緹
+    email: u0531144@smail.nuu.edu.tw
+    id: U0531144
+    name: Tiffany
+    password: si
+    rating: ~
+  - Chinese: 彭啟皓
+    email: u0531145@smail.nuu.edu.tw
+    id: U0531145
+    name: 彭啟皓
+    password: qi
+    rating: ~
+  - Chinese: 吳侑潔
+    email: u0531146@smail.nuu.edu.tw
+    id: U0531146
+    name: 吳侑潔
+    password: you
+    rating: ~
+  - Chinese: 林奕叡
+    email: u0531147@smail.nuu.edu.tw
+    id: U0531147
+    name: 林奕叡
+    password: yi
+    rating: ~
+  - Chinese: 洪欣渝
+    email: u0531148@smail.nuu.edu.tw
+    id: U0531148
+    name: 洪欣渝
+    password: xin
+    rating: ~
+  - Chinese: 吳沛芯
+    email: u0531149@smail.nuu.edu.tw
+    id: U0531149
+    name: 吳沛芯
+    password: pei
+    rating: ~
+  - Chinese: 陳彥愷
+    email: u0531150@smail.nuu.edu.tw
+    id: U0531150
+    name: 陳彥愷
+    password: yan
+    rating: ~
+  - Chinese: 蘇品諼
+    email: u0531151@smail.nuu.edu.tw
+    id: U0531151
+    name: 蘇品諼
+    password: pin
+    rating: ~
+  - Chinese: 姜家任
+    email: u0531153@smail.nuu.edu.tw
+    id: U0531153
+    name: 姜家任
+    password: jia
+    rating: ~
+  - Chinese: 徐兆寬
+    email: u0531155@smail.nuu.edu.tw
+    id: U0531155
+    name: 徐兆寬
+    password: zhao
+    rating: ~
+out:
+room: A706
+school: nuu
+session:
+  1: 1
+  2: 10
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
