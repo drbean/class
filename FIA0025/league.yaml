@@ -4,15 +4,14 @@ active: ~
 anterior: 011FIA0033
 approach: GroupworkNoFault
 classMax: 3
-compcomp: comp
 examMax: 5
 exams: exam
 field: 商用英文實務(一)
+group: session
 groupwork: classwork
 hw: homework
 hwMax: 2
 id: 071FIA0025
-jigsaw: exam
 league: 日財金三甲
 member:
   - Chinese: 周碩容
@@ -312,6 +311,9 @@ member:
 out: ~
 room: A706
 school: nuu
+session:
+  1: 1
+  2: 10
 scores:
   bye: 5
   draw: 4
