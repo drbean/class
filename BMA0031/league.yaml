@@ -17,61 +17,61 @@ member:
   - Chinese: 吳沂錚
     email: u0531002@smail.nuu.edu.tw
     id: U0531002
-    name: 吳沂錚
+    name: Andrea
     password: yi
     rating: ~
   - Chinese: 詹雅雲
     email: u0531003@smail.nuu.edu.tw
     id: U0531003
-    name: 詹雅雲
+    name: Julia
     password: ya
     rating: ~
   - Chinese: 梁凱傑
     email: u0531004@smail.nuu.edu.tw
     id: U0531004
-    name: 梁凱傑
+    name: Leo1
     password: kai
     rating: ~
   - Chinese: 鄭欣融
     email: u0531005@smail.nuu.edu.tw
     id: U0531005
-    name: 鄭欣融
+    name: Rita
     password: xin
     rating: ~
   - Chinese: 黃翊雯
     email: u0531007@smail.nuu.edu.tw
     id: U0531007
-    name: 黃翊雯
+    name: Karen
     password: yi
     rating: ~
   - Chinese: 邱世豪
     email: u0531008@smail.nuu.edu.tw
     id: U0531008
-    name: 邱世豪
+    name: David
     password: shi
     rating: ~
   - Chinese: 黃慧芯
     email: u0531009@smail.nuu.edu.tw
     id: U0531009
-    name: 黃慧芯
+    name: HuiSin
     password: hui
     rating: ~
   - Chinese: 戴宜玟
     email: u0531010@smail.nuu.edu.tw
     id: U0531010
-    name: 戴宜玟
+    name: Nicole1
     password: yi
     rating: ~
   - Chinese: 陳俊億
     email: u0531011@smail.nuu.edu.tw
     id: U0531011
-    name: 陳俊億
+    name: Banana
     password: jun
     rating: ~
   - Chinese: 林瀧城
     email: u0531012@smail.nuu.edu.tw
     id: U0531012
-    name: 林瀧城
+    name: Dragon
     password: long
     rating: ~
   - Chinese: 李謙
@@ -83,61 +83,61 @@ member:
   - Chinese: 王宗麟
     email: u0531014@smail.nuu.edu.tw
     id: U0531014
-    name: 王宗麟
+    name: Vic
     password: zong
     rating: ~
   - Chinese: 賴嘉翎
     email: u0531016@smail.nuu.edu.tw
     id: U0531016
-    name: 賴嘉翎
+    name: Aril
     password: jia
     rating: ~
   - Chinese: 陳泓銘
     email: u0531017@smail.nuu.edu.tw
     id: U0531017
-    name: 陳泓銘
+    name: HongMing
     password: hong
     rating: ~
   - Chinese: 顏妙珊
     email: u0531018@smail.nuu.edu.tw
     id: U0531018
-    name: 顏妙珊
+    name: Sherry
     password: miao
     rating: ~
   - Chinese: 林宥君
     email: u0531019@smail.nuu.edu.tw
     id: U0531019
-    name: 林宥君
+    name: Irena
     password: you
     rating: ~
   - Chinese: 王立杰
     email: u0531020@smail.nuu.edu.tw
     id: U0531020
-    name: 王立杰
+    name: Frank
     password: li
     rating: ~
   - Chinese: 蔡怡貞
     email: u0531021@smail.nuu.edu.tw
     id: U0531021
-    name: 蔡怡貞
+    name: Giny
     password: yi
     rating: ~
   - Chinese: 侯彥君
     email: u0531022@smail.nuu.edu.tw
     id: U0531022
-    name: 侯彥君
+    name: YanJiun
     password: yan
     rating: ~
   - Chinese: 黃廷元
     email: u0531023@smail.nuu.edu.tw
     id: U0531023
-    name: 黃廷元
+    name: Tim
     password: ting
     rating: ~
   - Chinese: 何旻紜
     email: u0531024@smail.nuu.edu.tw
     id: U0531024
-    name: 何旻紜
+    name: Cara
     password: min
     rating: ~
   - Chinese: 羅貞善
@@ -149,55 +149,55 @@ member:
   - Chinese: 鄭喻丰
     email: u0531031@smail.nuu.edu.tw
     id: U0531031
-    name: 鄭喻丰
+    name: Jack
     password: yu
     rating: ~
   - Chinese: 王麗雯
     email: u0531032@smail.nuu.edu.tw
     id: U0531032
-    name: 王麗雯
+    name: Wendy
     password: li
     rating: ~
   - Chinese: 徐翊慈
     email: u0531033@smail.nuu.edu.tw
     id: U0531033
-    name: 徐翊慈
+    name: Maggie
     password: yi
     rating: ~
   - Chinese: 吳志琛
     email: u0531034@smail.nuu.edu.tw
     id: U0531034
-    name: 吳志琛
+    name: Kevin
     password: zhi
     rating: ~
   - Chinese: 邱博昇
     email: u0531035@smail.nuu.edu.tw
     id: U0531035
-    name: 邱博昇
+    name: Edison
     password: bo
     rating: ~
   - Chinese: 簡毓萱
     email: u0531036@smail.nuu.edu.tw
     id: U0531036
-    name: 簡毓萱
+    name: Xuan
     password: yu
     rating: ~
   - Chinese: 翁瑩珊
     email: u0531037@smail.nuu.edu.tw
     id: U0531037
-    name: 翁瑩珊
+    name: Sharen
     password: ying
     rating: ~
   - Chinese: 黃品敍
     email: u0531038@smail.nuu.edu.tw
     id: U0531038
-    name: 黃品敍
+    name: Owen
     password: pin
     rating: ~
   - Chinese: 吳婉綺
     email: u0531039@smail.nuu.edu.tw
     id: U0531039
-    name: 吳婉綺
+    name: Catherine
     password: wan
     rating: ~
   - Chinese: 歐怡伶
@@ -209,7 +209,7 @@ member:
   - Chinese: 孫嘉謙
     email: u0531041@smail.nuu.edu.tw
     id: U0531041
-    name: 孫嘉謙
+    name: Serah
     password: jia
     rating: ~
   - Chinese: 李睿軒
@@ -221,49 +221,49 @@ member:
   - Chinese: 趙庭萱
     email: u0531043@smail.nuu.edu.tw
     id: U0531043
-    name: 趙庭萱
+    name: Flora
     password: ting
     rating: ~
   - Chinese: 高孔崧
     email: u0531044@smail.nuu.edu.tw
     id: U0531044
-    name: 高孔崧
+    name: Vincent
     password: kong
     rating: ~
   - Chinese: 王雅宜
     email: u0531045@smail.nuu.edu.tw
     id: U0531045
-    name: 王雅宜
+    name: Damie
     password: ya
     rating: ~
   - Chinese: 胡詠皓
     email: u0531047@smail.nuu.edu.tw
     id: U0531047
-    name: 胡詠皓
+    name: Leo2
     password: yong
     rating: ~
   - Chinese: 蘇洺亮
     email: u0531048@smail.nuu.edu.tw
     id: U0531048
-    name: 蘇洺亮
+    name: Joe
     password: ming
     rating: ~
   - Chinese: 許海琳
     email: u0531049@smail.nuu.edu.tw
     id: U0531049
-    name: 許海琳
+    name: Shyla
     password: hai
     rating: ~
   - Chinese: 鍾毓枚
     email: u0531050@smail.nuu.edu.tw
     id: U0531050
-    name: 鍾毓枚
+    name: Mavis
     password: yu
     rating: ~
   - Chinese: 陳思廷
     email: u0531051@smail.nuu.edu.tw
     id: U0531051
-    name: 陳思廷
+    name: Irene
     password: si
     rating: ~
   - Chinese: 陳威安
@@ -275,37 +275,37 @@ member:
   - Chinese: 張恩綺
     email: u0531053@smail.nuu.edu.tw
     id: U0531053
-    name: 張恩綺
+    name: Angel
     password: en
     rating: ~
   - Chinese: 劉憶樺
     email: u0531055@smail.nuu.edu.tw
     id: U0531055
-    name: 劉憶樺
+    name: Kelly
     password: yi
     rating: ~
   - Chinese: 徐雯萱
     email: u0531056@smail.nuu.edu.tw
     id: U0531056
-    name: 徐雯萱
+    name: Nicole2
     password: wen
     rating: ~
   - Chinese: 呂佩珊
     email: u0531057@smail.nuu.edu.tw
     id: U0531057
-    name: 呂佩珊
+    name: Penny
     password: pei
     rating: ~
   - Chinese: 李珮如
     email: u0531058@smail.nuu.edu.tw
     id: U0531058
-    name: 李珮如
+    name: Peggy
     password: pei
     rating: ~
   - Chinese: 蕭聖文
     email: u0531059@smail.nuu.edu.tw
     id: U0531059
-    name: 蕭聖文
+    name: Jerry
     password: sheng
     rating: ~
 out: ~
