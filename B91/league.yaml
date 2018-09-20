@@ -15,6 +15,20 @@ id: 071AFBB91
 jigsaw: exam
 league: BAF022 四技應外二乙
 member:
+  - Chinese: 廖士賓
+    id: B04202201
+    name: 廖士賓
+    password: shi
+    email: smilmp0618@gmail.com
+    rating: ~
+  - Chinese: 陳虹寧
+    id: B04202204
+    name: 陳虹寧
+    password: hong
+    email:      jasmine.02chen@gmail.com
+    rating: ~
+  
+  
   - Chinese: 劉子郡
     email: a0955005940@gmail.com
     id: B05200078
@@ -165,12 +179,6 @@ member:
     name: 陳彤縈
     password: tong
     rating: ~
-  - Chinese: 吳聲昊
-    email: tssaaos20303@gmail.com
-    id: B06200065
-    name: 吳聲昊
-    password: sheng
-    rating: ~
   - Chinese: 鄒欣芸
     email: alice0916467246@gmail.com
     id: B06200067
@@ -243,12 +251,6 @@ member:
     name: 李宇媃
     password: yu
     rating: ~
-  - Chinese: 顏又雯
-    email: w04090301@gmail.com
-    id: B07202106
-    name: 顏又雯
-    password: you
-    rating: ~
   - Chinese: 范馨云
     email: a0985066024@gmail.com
     id: B07202107
@@ -285,7 +287,19 @@ member:
     name: 陳伯宥
     password: bo
     rating: ~
-out: ~
+out:
+  - Chinese: 顏又雯
+    email: w04090301@gmail.com
+    id: B07202106
+    name: 顏又雯
+    password: you
+    rating: ~
+  - Chinese: 吳聲昊
+    email: tssaaos20303@gmail.com
+    id: B06200065
+    name: 吳聲昊
+    password: sheng
+    rating: ~
 room: A705
 school: must
 scores:
