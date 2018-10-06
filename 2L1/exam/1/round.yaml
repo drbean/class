@@ -1,0 +1,48 @@
+---
+round: Exam 1
+week: 3
+questions:
+  - 5
+pass: 3
+assistant:
+  - Fiona
+absent:
+  - Yumi
+  - Ivan
+  - Jenny
+  - Joanne
+  - Kevin
+  - 林威杉
+  - 林湘瑀
+  - 李亭利
+  - 劉千瑜
+text: /home/drbean/curriculum/conversation/work/cards.yaml
+activity:
+  summer:
+    2:
+      - 1-3
+      - 2-2
+      - 2-3
+      - 3-1
+      - 3-2
+    3:
+      - 1-1
+group:
+  1-1:
+    - Julie
+    - Groot
+  1-3:
+    - Eva
+    - Phoebe
+  2-2:
+    - Lydia
+    - Ashley2
+  2-3:
+    - Emma
+    - Cherry
+  3-1:
+    - Tina
+    - Fiona
+  3-2:
+    - Sara
+    - Ashley1
