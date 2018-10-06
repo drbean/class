@@ -1,0 +1,102 @@
+---
+round: Exam 1
+week: 3
+questions:
+  - 5
+pass: 3
+assistant:
+  - Roger
+  - Eva
+absent:
+  - Allen
+  - Andy
+  - John
+  - Max
+  - Jasmine
+  - Tony
+  - 湯惠雯
+text: /home/drbean/curriculum/conversation/work/cards.yaml
+activity:
+  summer:
+    2:
+    3:
+      - 11
+      - 13
+      - 14
+      - 21
+      - 23
+      - 31
+      - 34
+    4:
+      - 01
+      - 03
+      - 04
+      - 33
+      - 43
+      - 52
+    5:
+      - 12
+      - 22
+      - 24
+      - 41
+      - 42
+      - 51
+
+group:
+  01:
+    - Eva
+    - Roger
+  03:
+    - Willy
+    - Alice2
+  04:
+    - Jeff3
+    - Amber2
+  11:
+    - Amber1
+    - Michael
+  12:
+    - Nancy
+    - Allan
+  13:
+    - Jason
+    - Nina
+  14:
+    - Ella
+    - Roxanne
+  21:
+    - Kendall
+    - Kim
+  22:
+    - Vic
+    - Tikita
+  23:
+    - Jassy
+    - Sherry
+  24:
+    - Jenny
+    - Diana
+  31:
+    - Fanny
+    - Alice1
+  33:
+    - Zoe
+    - Jeff2
+  34:
+    - Jeff1
+    - Elaiza
+  41:
+    - Jimmy
+    - Mory
+  42:
+    - Ariel
+    - Hans
+  43:
+    - Sandy
+    - Daniel
+  51:
+    - Sharon
+    - York
+  52:
+    - Gary
+    - Amy

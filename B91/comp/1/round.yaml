@@ -1,0 +1,89 @@
+---
+activity:
+  summer:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+assistant:
+  01:
+    B06200005: 4
+    B06200052: 4
+bye: B06200037
+dispensation:
+  13:
+    B06200011: 1
+divisions: ~
+group:
+  1:
+    White: B06200031
+    Black: B06200048
+  2:
+    White: B07202102
+    Black: B07202114
+  3:
+    White: B06200023
+    Black: B06200073
+  4:
+    White: B06200080
+    Black: B07202117
+  5:
+    White: B06200043
+    Black: B06200015
+  6:
+    White: B07202108
+    Black: B06200035
+  7:
+    White: B06200081
+    Black: B06200027
+  8:
+    White: B07202110
+    Black: B06200041
+  9:
+    White: B06200071
+    Black: B07202104
+  10:
+    White: B06210041
+    Black: B07202107
+  11:
+    White: B06200007
+    Black: B07202101
+  12:
+    White: B07202103
+    Black: B06200013
+  13:
+    White: B06200025
+    Black: B06200019
+  14:
+    White: B06200063
+    Black: B06200009
+  15:
+    White: B06200046
+    Black: B06200061
+  16:
+    White: B07202112
+    Black: B06209101
+  17:
+    White: B06080105
+    Black: B06200067
+late:
+  - B06200011
+pairing: swiss adjusted
+payprotocol: meritPay 1
+round: 1
+text: /home/drbean/curriculum/conversation/work/cards.yaml
+week: 3,4

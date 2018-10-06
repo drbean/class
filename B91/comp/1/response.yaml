@@ -1,0 +1,155 @@
+---
+free:
+  1:
+    summer:
+      0:
+        B06200031:
+          point:
+            1: Unreturned
+        B06200048:
+          point:
+            1: Returned
+  2:
+    summer:
+      0:
+        B07202102:
+          point:
+            1: Returned
+        B07202114:
+          point:
+            1: Unreturned
+  3:
+    summer:
+      0:
+        B06200023:
+          point:
+            1: Returned
+        B06200073:
+          point:
+            1: Unreturned
+  4:
+    summer:
+      0:
+        B06200080:
+          point:
+            1: Returned
+        B07202117:
+          point:
+            1: Unreturned
+  5:
+    summer:
+      0:
+        B06200043:
+          point:
+            1: Returned
+        B06200015:
+          point:
+            1: Unreturned
+  6:
+    summer:
+      0:
+        B07202108:
+          point:
+            1: Returned
+        B06200035:
+          point:
+            1: Unreturned
+  7:
+    summer:
+      0:
+        B06200081:
+          point:
+            1: Returned
+        B06200027:
+          point:
+            1: Unreturned
+  8:
+    summer:
+      0:
+        B07202110:
+          point:
+            1: Unreturned
+        B06200041:
+          point:
+            1: Returned
+  9:
+    summer:
+      0:
+        B06200071:
+          point:
+            1: Returned
+        B07202104:
+          point:
+            1: Unreturned
+  10:
+    summer:
+      0:
+        B06210041:
+          point:
+            1: Unreturned
+        B07202107:
+          point:
+            1: Returned
+  11:
+    summer:
+      0:
+        B06200007:
+          point:
+            1: Unreturned
+        B07202101:
+          point:
+            1: Returned
+  12:
+    summer:
+      0:
+        B07202103:
+          point:
+            1: Unreturned
+        B06200013:
+          point:
+            1: Returned
+  13:
+    summer:
+      0:
+        B06200025:
+          point:
+            1: Returned
+        B06200019:
+          point:
+            1: Unreturned
+  14:
+    summer:
+      0:
+        B06200063:
+          point:
+            1: Returned
+        B06200009:
+          point:
+            1: Unreturned
+  15:
+    summer:
+      0:
+        B06200046:
+          point:
+            1: Unreturned
+        B06200061:
+          point:
+            1: Returned
+  16:
+    summer:
+      0:
+        B07202112:
+          point:
+            1: Unreturned
+        B06209101:
+          point:
+            1: Returned
+  17:
+    summer:
+      0:
+        B06080105:
+          point:
+            1: Unreturned
+        B06200067:
+          point:
+            1: Returned
