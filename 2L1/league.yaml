@@ -21,12 +21,6 @@ member:
     password: qian
     email: tyou77414@yahoo.com.tw
     rating: ~
-  - Chinese: 林湘瑀
-    id: B04200010
-    name: 林湘瑀
-    password: xiang
-    email: fishoo2839@yahoo.com.tw
-    rating: ~
   
   
   - Chinese: 彭巧妃
@@ -52,12 +46,6 @@ member:
     id: B06200008
     name: Ashley1
     password: cai
-    rating: ~
-  - Chinese: 李亭利
-    email: alice_chen@globalised.com.tw
-    id: B06200012
-    name: 李亭利
-    password: ting
     rating: ~
   - Chinese: 梁雅婷
     email: mfpss94204@yahoo.com.tw
@@ -95,12 +83,6 @@ member:
     name: Ashley2
     password: zi
     rating: ~
-  - Chinese: 劉千瑜
-    email: ivy880729@kimo.com
-    id: B06200059
-    name: 劉千瑜
-    password: qian
-    rating: ~
   - Chinese: 余世翔
     email: k0958500989@gmail.com
     id: B06200064
@@ -137,13 +119,31 @@ member:
     name: Julie
     password: hui
     rating: ~
+out:
   - Chinese: 林威杉
     email: brad841024@gmail.com
     id: B07202116
     name: 林威杉
     password: wei
     rating: ~
-out:
+  - Chinese: 劉千瑜
+    email: ivy880729@kimo.com
+    id: B06200059
+    name: 劉千瑜
+    password: qian
+    rating: ~
+  - Chinese: 李亭利
+    email: alice_chen@globalised.com.tw
+    id: B06200012
+    name: 李亭利
+    password: ting
+    rating: ~
+  - Chinese: 林湘瑀
+    id: B04200010
+    name: 林湘瑀
+    password: xiang
+    email: fishoo2839@yahoo.com.tw
+    rating: ~
   - Chinese: 范姜宥晴
     email: ch1021511003@gmail.com
     id: B07202103
