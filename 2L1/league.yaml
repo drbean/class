@@ -25,8 +25,8 @@ member:
     id: B04200010
     name: 林湘瑀
     password: xiang
-    email: 
-    rating: 
+    email: fishoo2839@yahoo.com.tw
+    rating: ~
   
   
   - Chinese: 彭巧妃
@@ -178,17 +178,8 @@ scores:
   loss: 3
   win: 5
 session:
+  0: 0
   1: 1
-  10: 16
-  11: 18
-  2: 4
-  3: 5
-  4: 8
-  5: 9
-  6: 10
-  7: 12
-  8: 13
-  9: 15
 weights:
   classwork: 40
   exams: 20
