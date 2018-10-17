@@ -15,6 +15,18 @@ id: 071AFB2L1
 jigsaw: exam
 league: BAF021 四技應外二甲
 member:
+  - Chinese: 劉千瑜
+    email: ivy880729@kimo.com
+    id: B06200059
+    name: Ivy
+    password: qian
+    rating: ~
+  - Chinese: 李亭利
+    email: alice_chen@globalised.com.tw
+    id: B06200012
+    name: Bonnie
+    password: ting
+    rating: ~
   - Chinese: 沈千玉
     id: B03200025
     name: Cherry
@@ -125,18 +137,6 @@ out:
     id: B07202116
     name: 林威杉
     password: wei
-    rating: ~
-  - Chinese: 劉千瑜
-    email: ivy880729@kimo.com
-    id: B06200059
-    name: 劉千瑜
-    password: qian
-    rating: ~
-  - Chinese: 李亭利
-    email: alice_chen@globalised.com.tw
-    id: B06200012
-    name: 李亭利
-    password: ting
     rating: ~
   - Chinese: 林湘瑀
     id: B04200010
