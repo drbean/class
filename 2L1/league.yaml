@@ -15,6 +15,13 @@ id: 071AFB2L1
 jigsaw: exam
 league: BAF021 四技應外二甲
 member:
+  - Chinese: 林湘瑀
+    id: B04200010
+    name: Jenny2
+    password: xiang
+    email: fishoo2839@yahoo.com.tw
+    rating: ~
+
   - Chinese: 劉千瑜
     email: ivy880729@kimo.com
     id: B06200059
@@ -68,7 +75,7 @@ member:
   - Chinese: 廖芫湘
     email: hsiang88427@gmail.com
     id: B06200024
-    name: Jenny
+    name: Jenny1
     password: yan
     rating: ~
   - Chinese: 高毓婷
@@ -137,12 +144,6 @@ out:
     id: B07202116
     name: 林威杉
     password: wei
-    rating: ~
-  - Chinese: 林湘瑀
-    id: B04200010
-    name: 林湘瑀
-    password: xiang
-    email: fishoo2839@yahoo.com.tw
     rating: ~
   - Chinese: 范姜宥晴
     email: ch1021511003@gmail.com
