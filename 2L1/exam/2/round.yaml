@@ -1,0 +1,55 @@
+---
+round: Exam 2
+week: 6/7
+questions:
+  - 5
+pass: 3
+assistant:
+  - Groot
+absent:
+  - Ivy
+  - Bonnie
+  - Yumi
+  - Ivan
+  - Joanne
+  - Ashley2
+  - 林威杉
+text: /home/drbean/curriculum/conversation/request/cards.yaml
+activity:
+  request:
+    1:
+      - 1-1
+      - 1-3
+      - 2-3
+      - 3-1
+    2:
+      - 1-2
+      - 2-1
+    3:
+      - 2-2
+      - 3-3
+group:
+  1-1:
+    - Sara
+    - Groot
+  1-2:
+    - Julie
+    - Ashley1
+  1-3:
+    - Phoebe
+    - Eva
+  2-1:
+    - Fiona
+    - Jenny2
+  2-2:
+    - Emma
+    - Tina
+  2-3:
+    - Cherry
+    - Lydia
+  3-1:
+    - Kevin
+    - Groot
+  3-3:
+    - Ivan
+    - Jenny1
