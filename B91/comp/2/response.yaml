@@ -1,0 +1,155 @@
+---
+free:
+  0:
+    '':
+      0:
+        B06200063:
+          point:
+            1: Returned
+        B07202108:
+          point:
+            1: Unreturned
+  1:
+    '':
+      0:
+        B06200061:
+          point:
+            1: Returned
+        B06200080:
+          point:
+            1: Unreturned
+  2:
+    '':
+      0:
+        B06200067:
+          point:
+            1: Unreturned
+        B06200071:
+          point:
+            1: Returned
+  3:
+    '':
+      0:
+        B07202107:
+          point:
+            1: Unreturned
+        B06200023:
+          point:
+            1: Returned
+  4:
+    '':
+      0:
+        B07202101:
+          point:
+            1: Unreturned
+        B06200081:
+          point:
+            1: Returned
+  5:
+    '':
+      0:
+        B06200041:
+          point:
+            1: Unreturned
+        B07202102:
+          point:
+            1: Returned
+  6:
+    '':
+      0:
+        B06200013:
+          point:
+            1: Returned
+        B06200043:
+          point:
+            1: Unreturned
+  7:
+    '':
+      0:
+        B06200052:
+          point:
+            1: Unreturned
+        B06200025:
+          point:
+            1: Returned
+  8:
+    '':
+      0:
+        B06200015:
+          point:
+            1: Unreturned
+        B06200005:
+          point:
+            1: Returned
+  9:
+    '':
+      0:
+        B07202114:
+          point:
+            1: Unreturned
+        B06200007:
+          point:
+            1: Returned
+  10:
+    '':
+      0:
+        B06200027:
+          point:
+            1: Returned
+        B06210041:
+          point:
+            1: Unreturned
+  11:
+    '':
+      0:
+        B06200019:
+          point:
+            1: Returned
+        B07202103:
+          point:
+            1: Unreturned
+  12:
+    '':
+      0:
+        B07202104:
+          point:
+            1: Returned
+        B07202112:
+          point:
+            1: Unreturned
+  13:
+    '':
+      0:
+        B06200029:
+          point:
+            1: Returned
+        B06200073:
+          point:
+            1: Unreturned
+  14:
+    '':
+      0:
+        B06080105:
+          point:
+            1: Returned
+        B07202117:
+          point:
+            1: Unreturned
+  15:
+    '':
+      0:
+        B06200046:
+          point:
+            1: Unreturned
+        B06200009:
+          point:
+            1: Returned
+  16:
+    '':
+      0:
+        B06200037:
+          point:
+            1: Returned
+        B06200011:
+          point:
+            1: Unreturned
