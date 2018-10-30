@@ -1,0 +1,98 @@
+---
+round: Exam 2
+week: 6/7
+questions:
+  - 5
+pass: 3
+assistant:
+absent:
+    - Jeff3
+    - Kendall
+    - Allen
+    - Fanny
+    - Max
+    - Jasmine
+    - Tony
+    - John
+    - 湯惠雯
+text: /home/drbean/curriculum/conversation/request/cards.yaml
+activity:
+  request:
+    1:
+      - 03
+      - 13
+      - 24
+      - 31
+    2:
+      - 04
+      - 11
+      - 14
+      - 32
+      - 34
+      - 42
+    3:
+      - 01
+      - 02
+      - 21
+      - 22
+      - 23
+      - 33
+  summer:
+    2:
+      - 41
+      - ex
+group:
+  01:
+    - Jeff1
+    - Alice2
+  02:
+    - Amber2
+    - Sandy
+  03:
+    - Kim
+    - Nina
+  04:
+    - Alice1
+    - Tikita
+  11:
+    - Gary
+    - Amy
+  13:
+    - Andy
+    - Roxanne
+  14:
+    - Jimmy
+    - Diana
+  21:
+    - Hans
+    - York
+  22:
+    - Willy
+    - Eva
+  23:
+    - Daniel
+    - Nancy
+  24:
+    - Roger
+    - Ella
+  31:
+    - Sharon
+    - Vic
+  32:
+    - Amber1
+    - Zoe
+  33:
+    - Jason
+    - Allan
+  34:
+    - Michael
+    - Sherry
+  41:
+    - Ariel
+    - Jassy
+  42:
+    - Jeff2
+    - Mory
+  ex:
+    - Elaiza
+    - Jenny
