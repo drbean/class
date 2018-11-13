@@ -1,0 +1,56 @@
+---
+free:
+  1:
+    '':
+      0:
+        B06060001:
+          point:
+            1: Unreturned
+        B06200024:
+          point:
+            1: Returned
+  2:
+    '':
+      0:
+        B06200008:
+          point:
+            1: Unreturned
+        B06200003:
+          point:
+            1: Returned
+  3:
+    '':
+      0:
+        B06200072:
+          point:
+            1: Returned
+        B06200038:
+          point:
+            1: Unreturned
+  4:
+    '':
+      0:
+        B03200025:
+          point:
+            1: Unreturned
+        B06200068:
+          point:
+            1: Returned
+  5:
+    '':
+      0:
+        B06200028:
+          point:
+            1: Unreturned
+        B07202109:
+          point:
+            1: Returned
+  6:
+    '':
+      0:
+        B06200032:
+          point:
+            1: Returned
+        B07202113:
+          point:
+            1: Unreturned

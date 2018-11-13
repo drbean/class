@@ -1,0 +1,41 @@
+---
+activity:
+  '':
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+assistant:
+  3-1:
+    B06200064: 5
+bye: B06200064
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: B06060001
+    Black: B06200024
+  2:
+    White: B06200008
+    Black: B06200003
+  3:
+    White: B06200072
+    Black: B06200038
+  4:
+    White: B03200025
+    Black: B06200068
+  5:
+    White: B06200028
+    Black: B07202109
+  6:
+    White: B06200032
+    Black: B07202113
+late:
+pairing: swiss
+payprotocol: meritPay 1
+round: 2
+text: /home/drbean/curriculum/conversation/request/cards.yaml
+week: 6/7
