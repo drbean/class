@@ -1,0 +1,99 @@
+---
+round: Exam 3
+week: 8/9
+questions:
+  - 5
+pass: 2
+assistant:
+absent:
+    - Max
+    - John
+    - Jeff3
+    - Kendall
+    - York
+    - Jimmy
+    - 湯惠雯
+text: /home/drbean/curriculum/conversation/story/cards.yaml
+activity:
+  story:
+    0:
+      - 03
+      - 31
+      - 42
+      - 54
+    1:
+      - 01
+      - 02
+      - 11
+      - 14
+      - 21
+      - 32
+      - 34
+      - 41
+      - 43
+      - 51
+    2:
+      - 04
+      - 22
+      - 23
+      - 24
+      - 33
+
+group:
+  01:
+    - Amy
+    - Alice2
+  02:
+    - Allen
+    - Amber2
+  03:
+    - Alice1
+    - Willy
+  04:
+    - Kim
+    - Gary
+  11:
+    - Elaiza
+    - Roxanne
+  14:
+    - Andy
+    - Fanny
+  21:
+    - Hans
+    - Nancy
+  22:
+    - Daniel
+    - Eva
+  23:
+    - Jenny
+    - Vic
+  24:
+    - Amber1
+    - Ella
+  31:
+    - Sharon
+    - Zoe
+  32:
+    - Jason
+    - Allan
+  33:
+    - Michael
+    - Sherry
+  34:
+    - Roger
+    - Jassy
+  41:
+    - Jeff2
+    - Mory
+  42:
+    - Ariel
+    - Tikita
+  43:
+    - Jeff1
+    - Sandy
+  51:
+    - Tony
+    - Jasmine
+  54:
+    - Diana
+    - Nina
