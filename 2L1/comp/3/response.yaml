@@ -1,0 +1,146 @@
+---
+free:
+  0:
+    story:
+      0:
+        B04200010:
+          point:
+            1: Unreturned
+        B04200022:
+          point:
+            1: Returned
+      1:
+        B04200010:
+          point:
+            1: Nil
+        B04200022:
+          point:
+            1: Nil
+  1:
+    story:
+      0:
+        B06200012:
+          point:
+            1: Unreturned
+        B06200078:
+          point:
+            1: Returned
+      1:
+        B06200012:
+          point:
+            1: Returned
+        B06200078:
+          point:
+            1: Unreturned
+  2:
+    story:
+      0:
+        B06200024:
+          point:
+            1: Unreturned
+        B06200018:
+          point:
+            1: Returned
+      1:
+        B06200024:
+          point:
+            1: Returned
+        B06200018:
+          point:
+            1: Unreturned
+  3:
+    story:
+      0:
+        B06200064:
+          point:
+            1: Returned
+        B06200047:
+          point:
+            1: Unreturned
+      1:
+        B06200064:
+          point:
+            1: Returned
+        B06200047:
+          point:
+            1: Unreturned
+  4:
+    story:
+      0:
+        B06200068:
+          point:
+            1: Returned
+        B06200003:
+          point:
+            1: Unreturned
+      1:
+        B06200068:
+          point:
+            1: Returned
+        B06200003:
+          point:
+            1: Unreturned
+  5:
+    story:
+      0:
+        B07202109:
+          point:
+            1: Unreturned
+        B06200032:
+          point:
+            1: Returned
+      1:
+        B07202109:
+          point:
+            1: Returned
+        B06200032:
+          point:
+            1: Unreturned
+  6:
+    story:
+      0:
+        B06200038:
+          point:
+            1: Returned
+        B06060001:
+          point:
+            1: Returned
+      1:
+        B06200038:
+          point:
+            1: Unreturned
+        B06060001:
+          point:
+            1: Returned
+  7:
+    story:
+      0:
+        B06200008:
+          point:
+            1: Returned
+        B06200028:
+          point:
+            1: Unreturned
+      1:
+        B06200008:
+          point:
+            1: Returned
+        B06200028:
+          point:
+            1: Unreturned
+  8:
+    story:
+      0:
+        B07202113:
+          point:
+            1: Unreturned
+        B03200025:
+          point:
+            1: Returned
+      1:
+        B07202113:
+          point:
+            1: Unreturned
+        B03200025:
+          point:
+            1: Returned

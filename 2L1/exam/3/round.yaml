@@ -1,0 +1,57 @@
+---
+round: Exam 3
+week: 8/9
+questions:
+  - 5
+pass: 2
+assistant:
+absent:
+    - 林威杉
+text: /home/drbean/curriculum/conversation/story/cards.yaml
+activity:
+  story:
+    0:
+      - 1-1
+      - 1-2
+      - 1-3
+    1:
+      - 3-2
+    2:
+      - 2-1
+      - 2-2
+      - 2-3
+      - 3-1
+      - 3-3
+      - 4-1
+
+group:
+  1-1:
+    - Yumi
+    - Groot
+  1-2:
+    - Julie
+    - Emma
+  1-3:
+    - Cherry
+    - Ashley2
+  2-1:
+    - Kevin
+    - Tina
+  2-2:
+    - Fiona
+    - Lydia
+  2-3:
+    - Jenny1
+    - Ashley1
+  3-1:
+    - Jenny2
+    - Eva
+  3-2:
+    - Ivan
+    - Phoebe
+  3-3:
+    - Joanne
+    - Sara
+  4-1:
+    - Bonnie
+    - Ivy

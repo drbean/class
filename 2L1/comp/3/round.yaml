@@ -1,0 +1,65 @@
+---
+activity:
+  story:
+    0:
+      -
+        - 0
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+        - 7
+        - 8
+      -
+        - 0
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+        - 7
+        - 8
+assistant:
+  4-1:
+    B06200059: 5
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: B04200010
+    Black: B04200022
+  1:
+    White: B06200012
+    Black: B06200078
+  2:
+    White: B06200024
+    Black: B06200018
+  3:
+    White: B06200064
+    Black: B06200047
+  4:
+    White: B06200068
+    Black: B06200003
+  5:
+    White: B07202109
+    Black: B06200032
+  6:
+    White: B06200038
+    Black: B06060001
+  7:
+    White: B06200008
+    Black: B06200028
+  8:
+    White: B07202113
+    Black: B03200025
+late:
+  - B04200010
+  - B04200022
+pairing: swiss adjusted
+payprotocol: meritPay 2
+round: 3
+text: /home/drbean/curriculum/conversation/story/cards.yaml
+week: 8/9
