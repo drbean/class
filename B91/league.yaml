@@ -41,12 +41,6 @@ member:
     name: Jimmy
     password: chuan
     rating: ~
-  - Chinese: 劉俊宏
-    email: a22212221@kimo.com
-    id: B06200002
-    name: John
-    password: jun
-    rating: ~
   - Chinese: 鄭傳圓
     email: a941831216@gmail.com
     id: B06200005
@@ -288,6 +282,12 @@ member:
     password: bo
     rating: ~
 out:
+  - Chinese: 劉俊宏
+    email: a22212221@kimo.com
+    id: B06200002
+    name: John
+    password: jun
+    rating: ~
   - Chinese: 顏又雯
     email: w04090301@gmail.com
     id: B07202106
