@@ -15,13 +15,6 @@ id: 071AFB2L1
 jigsaw: exam
 league: BAF021 四技應外二甲
 member:
-  - Chinese: 林威杉
-    email: brad841024@gmail.com
-    id: B07202116
-    name: 林威杉
-    password: wei
-    rating: ~
-
   - Chinese: 林湘瑀
     id: B04200010
     name: Jenny2
@@ -146,6 +139,13 @@ member:
     password: hui
     rating: ~
 out:
+  - Chinese: 林威杉
+    email: brad841024@gmail.com
+    id: B07202116
+    name: 林威杉
+    password: wei
+    rating: ~
+
   - Chinese: 范姜宥晴
     email: ch1021511003@gmail.com
     id: B07202103
