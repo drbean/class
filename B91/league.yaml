@@ -313,6 +313,8 @@ session:
   0: 0
   1: 1
   2: 4
+  3: 7
+  4: 9
 weights:
   classwork: 40
   exams: 20
