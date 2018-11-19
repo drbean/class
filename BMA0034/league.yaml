@@ -74,12 +74,6 @@ member:
     name: Jimmy
     password: guan
     rating: ~
-  - Chinese: 林祐震
-    email: u0531111@smail.nuu.edu.tw
-    id: U0531111
-    name: Neo
-    password: you
-    rating: ~
   - Chinese: 林芸萍
     email: u0531112@smail.nuu.edu.tw
     id: U0531112
@@ -116,12 +110,6 @@ member:
     name: Nini
     password: yi
     rating: ~
-  - Chinese: 林佩蓁
-    email: u0531121@smail.nuu.edu.tw
-    id: U0531121
-    name: Kelly
-    password: pei
-    rating: ~
   - Chinese: 文郁甯
     email: u0531122@smail.nuu.edu.tw
     id: U0531122
@@ -139,24 +127,6 @@ member:
     id: U0531124
     name: Benjamin
     password: wen
-    rating: ~
-  - Chinese: 李華美
-    email: u0531126@smail.nuu.edu.tw
-    id: U0531126
-    name: Ella
-    password: hua
-    rating: ~
-  - Chinese: 黃碧茹
-    email: u0531127@smail.nuu.edu.tw
-    id: U0531127
-    name: Lucy
-    password: bi
-    rating: ~
-  - Chinese: 張才琳
-    email: u0531128@smail.nuu.edu.tw
-    id: U0531128
-    name: 張才琳
-    password: cai
     rating: ~
   - Chinese: 鄒嘉慧
     email: u0531129@smail.nuu.edu.tw
@@ -205,12 +175,6 @@ member:
     id: U0531137
     name: Matt
     password: geng
-    rating: ~
-  - Chinese: 江佩珊
-    email: u0531138@smail.nuu.edu.tw
-    id: U0531138
-    name: 江佩珊
-    password: pei
     rating: ~
   - Chinese: 陳家秝
     email: u0531139@smail.nuu.edu.tw
@@ -290,13 +254,49 @@ member:
     name: Johnson
     password: jia
     rating: ~
+out:
+  - Chinese: 林佩蓁
+    email: u0531121@smail.nuu.edu.tw
+    id: U0531121
+    name: Kelly
+    password: pei
+    rating: ~
+  - Chinese: 林祐震
+    email: u0531111@smail.nuu.edu.tw
+    id: U0531111
+    name: Neo
+    password: you
+    rating: ~
+  - Chinese: 黃碧茹
+    email: u0531127@smail.nuu.edu.tw
+    id: U0531127
+    name: Lucy
+    password: bi
+    rating: ~
+  - Chinese: 李華美
+    email: u0531126@smail.nuu.edu.tw
+    id: U0531126
+    name: Ella
+    password: hua
+    rating: ~
+  - Chinese: 江佩珊
+    email: u0531138@smail.nuu.edu.tw
+    id: U0531138
+    name: 江佩珊
+    password: pei
+    rating: ~
   - Chinese: 徐兆寬
     email: u0531155@smail.nuu.edu.tw
     id: U0531155
     name: 徐兆寬
     password: zhao
     rating: ~
-out:
+  - Chinese: 張才琳
+    email: u0531128@smail.nuu.edu.tw
+    id: U0531128
+    name: 張才琳
+    password: cai
+    rating: ~
 room: A706
 school: nuu
 session:
