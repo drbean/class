@@ -2,7 +2,7 @@
 absent: ~
 active: ~
 anterior: 061MIA0016
-approach: GroupworkNoFault
+approach: Individual
 classMax: 3
 examMax: 100
 exams: exam
@@ -21,12 +21,6 @@ member:
     email: u0433056@smail.nuu.edu.tw
     rating: ~
   
-  - Chinese: 黃梓閔
-    email: u0333146@smail.nuu.edu.tw
-    id: U0333146
-    name: 黃梓閔
-    password: zi
-    rating: ~
   - Chinese: 祁冠宇
     email: u0421111@smail.nuu.edu.tw
     id: U0421111
@@ -249,19 +243,25 @@ member:
     name: YuShan
     password: yu
     rating: ~
-  - Chinese: 黃煖婷
-    email: u0533046@smail.nuu.edu.tw
-    id: U0533046
-    name: 黃煖婷
-    password: nuan
-    rating: ~
   - Chinese: 金琪潔
     email: u0533047@smail.nuu.edu.tw
     id: U0533047
     name: Julia
     password: qi
     rating: ~
-out: ~
+out:
+  - Chinese: 黃煖婷
+    email: u0533046@smail.nuu.edu.tw
+    id: U0533046
+    name: 黃煖婷
+    password: nuan
+    rating: ~
+  - Chinese: 黃梓閔
+    email: u0333146@smail.nuu.edu.tw
+    id: U0333146
+    name: 黃梓閔
+    password: zi
+    rating: ~
 room: A706
 school: nuu
 session:
