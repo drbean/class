@@ -1,0 +1,48 @@
+---
+round: Exam 4
+week: 11/12
+questions:
+  - 6
+pass: 3
+assistant:
+  - Eva
+absent:
+  - Jenny2
+  - Groot
+  - Kevin
+  - Fiona
+  - Jenny1
+  - Cherry
+  - Ashley1
+  - Joanne
+  - Ashley2
+  - Bonnie
+  - Ivy
+text: /home/drbean/curriculum/conversation/intercultural/cards.yaml
+activity:
+  shock:
+    0:
+      - 2-1
+    1:
+      - 2-2
+      - 3-2
+    2:
+      - 1-2
+      - 3-1
+
+group:
+  1-2:
+    - Eva
+    - Julie
+  2-1:
+    - Emma
+    - Tina
+  2-2:
+    - Ivan
+    - Eva
+  3-1:
+    - Sara
+    - Lydia
+  3-2:
+    - Yumi
+    - Phoebe
