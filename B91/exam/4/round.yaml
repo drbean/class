@@ -1,0 +1,95 @@
+---
+round: Exam 4
+week: 11/12
+questions:
+  - 6
+pass: 3
+assistant:
+absent:
+    - Tony
+    - Jasmine
+    - Michael
+    - Amber1
+    - Jeff1
+    - Jason
+    - Max
+    - John
+    - Jeff3
+    - Kendall
+    - 湯惠雯
+text: /home/drbean/curriculum/conversation/intercultural/cards.yaml
+activity:
+  shock:
+    0:
+      - 01
+      - 04
+      - 13
+      - 23
+      - 33
+      - 41
+    1:
+      - 02
+      - 11
+      - 12
+      - 14
+      - 21
+      - 24
+    2:
+      - 03
+      - 22
+      - 31
+      - 32
+      - 43
+
+group:
+  01:
+    - Allen
+    - Alice2
+  02:
+    - Jimmy
+    - Amber2
+  03:
+    - Hans
+    - Alice1
+  04:
+    - Willy
+    - Nina
+  11:
+    - Mory
+    - Amy
+  12:
+    - Daniel
+    - Diana
+  13:
+    - Jenny
+    - Roxanne
+  14:
+    - Vic
+    - Fanny
+  21:
+    - Sharon
+    - York
+  22:
+    - Sherry
+    - Nancy
+  23:
+    - Roger
+    - Eva
+  24:
+    - Gary
+    - Andy
+  31:
+    - Jeff2
+    - Ella
+  32:
+    - Ariel
+    - Zoe
+  33:
+    - Kim
+    - Allan
+  41:
+    - Elaiza
+    - Jassy
+  43:
+    - Sandy
+    - Tikita
