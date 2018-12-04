@@ -23,48 +23,54 @@ assistant:
 dispensation: ~
 divisions: ~
 group:
-  0:
-    White: B06200058
-    Black: B06200052
-  1:
+  20:
+    White: B07202117
+    Black: B06200058
+  21:
+    White: B06200052
+    Black: B06200061
+  22:
     White: B07202102
     Black: B06080105
-  2:
-    White: B06200009
-    Black: B06200031
-  3:
+  23:
+    White: B06200031
+    Black: B06200063
+  24:
     White: B06200005
     Black: B07202104
-  4:
-    White: B06200061
-    Black: B06200071
-  5:
+  25:
     White: B06200013
+    Black: B06200071
+  26:
+    White: B06200080
     Black: B07202110
-  6:
+  27:
     White: B07202103
-    Black: B06200037
-  7:
+    Black: B06200041
+  28:
     White: B07202107
-    Black: B06200080
-  8:
-    White: B06200081
     Black: B07202108
-  9:
+  29:
     White: B06200067
-    Black: B06200063
-  10:
+    Black: B06200081
+  30:
     White: B07202114
     Black: B06200025
-  11:
+  31:
     White: B06200019
-    Black: B06200041
-  12:
+    Black: B06210041
+  32:
     White: B06200027
     Black: B06200007
-  13:
+  33:
     White: B06200015
     Black: B07202112
+  40:
+    White: B06200043
+    Black: B06200037
+  41:
+    White: B06200035
+    Black: B06200029
 late:
   - B06200043
   - B06200037
