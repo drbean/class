@@ -1,0 +1,153 @@
+---
+exercise: custom
+grade:
+  B03200025: 0
+  B04200010: 0
+  B04200022: 0
+  B06060001: 4.225
+  B06200003: 4.4
+  B06200008: 0
+  B06200012: 0
+  B06200018: 4.3
+  B06200024: 0
+  B06200028: 4.55
+  B06200032: 5
+  B06200038: 4.725
+  B06200047: 0
+  B06200059: 0
+  B06200064: 0
+  B06200068: 0
+  B06200072: 4.925
+  B06200078: 0
+  B07202109: 0
+  B07202113: 4.6
+points:
+  B03200025:
+    answer: 0
+    question: 0
+    try: 0
+  B04200010:
+    answer: 0
+    question: 0
+    try: 0
+  B04200022:
+    answer: 0
+    question: 0
+    try: 0
+  B06060001:
+    answer: 1
+    question: 1
+    try: 8
+  B06200003:
+    answer: 3
+    question: 4
+    try: 9
+  B06200008:
+    answer: 0
+    question: 0
+    try: 0
+  B06200012:
+    answer: 0
+    question: 0
+    try: 0
+  B06200018:
+    answer: 0
+    question: 3
+    try: 7
+  B06200024:
+    answer: 0
+    question: 0
+    try: 0
+  B06200028:
+    answer: 3
+    question: 6
+    try: 11
+  B06200032:
+    answer: 6
+    question: 9
+    try: 23
+  B06200038:
+    answer: 2
+    question: 2
+    try: 26
+  B06200047:
+    answer: 0
+    question: 0
+    try: 0
+  B06200059:
+    answer: 0
+    question: 0
+    try: 0
+  B06200064:
+    answer: 0
+    question: 0
+    try: 0
+  B06200068:
+    answer: 0
+    question: 0
+    try: 0
+  B06200072:
+    answer: 3
+    question: 4
+    try: 30
+  B06200078:
+    answer: 0
+    question: 0
+    try: 0
+  B07202109:
+    answer: 0
+    question: 0
+    try: 0
+  B07202113:
+    answer: 4
+    question: 5
+    try: 15
+report: |+
+  grammatical: 2
+  try: 1
+  correct: 0
+  Player     Question Grammatical Answers   Total     Grade
+  B03200025      0        0         0         0        0.0
+  B04200010      0        0         0         0        0.0
+  B04200022      0        0         0         0        0.0
+  B06060001      8        1         1        10        4.2
+  B06200003      9        4         3        17        4.4
+  B06200008      0        0         0         0        0.0
+  B06200012      0        0         0         0        0.0
+  B06200018      7        3         0        13        4.3
+  B06200024      0        0         0         0        0.0
+  B06200028     11        6         3        23        4.5
+  B06200032     23        9         6        41        5.0
+  B06200038     26        2         2        30        4.7
+  B06200047      0        0         0         0        0.0
+  B06200059      0        0         0         0        0.0
+  B06200064      0        0         0         0        0.0
+  B06200068      0        0         0         0        0.0
+  B06200072     30        4         3        38        4.9
+  B06200078      0        0         0         0        0.0
+  B07202109      0        0         0         0        0.0
+  B07202113     15        5         4        25        4.6
+  Class Totals
+             Question Grammatical Answers   Total     Grade
+               129         34        22       197      4.6
+---
+B03200025: 0
+B04200010: 0
+B04200022: 0
+B06060001: 4.225
+B06200003: 4.4
+B06200008: 0
+B06200012: 0
+B06200018: 4.3
+B06200024: 0
+B06200028: 4.55
+B06200032: 5
+B06200038: 4.725
+B06200047: 0
+B06200059: 0
+B06200064: 0
+B06200068: 0
+B06200072: 4.925
+B06200078: 0
+B07202109: 0
+B07202113: 4.6
