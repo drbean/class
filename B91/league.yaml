@@ -15,6 +15,26 @@ id: 071AFBB91
 jigsaw: exam
 league: BAF022 四技應外二乙
 member:
+  - Chinese: 廖士賓
+    id: B04202201
+    name: Tony
+    password: shi
+    email: smilmp0618@gmail.com
+    rating: ~
+  - Chinese: 陳虹寧
+    id: B04202204
+    name: Jasmine
+    password: hong
+    email: jasmine.02chen@gmail.com
+    rating: ~
+  
+  
+  - Chinese: 劉子郡
+    email: a0955005940@gmail.com
+    id: B05200078
+    name: Max
+    password: zi
+    rating: ~
   - Chinese: 砂川朝宏(外)
     email: chaohongshachuan@gmail.com
     id: B06080105
@@ -123,6 +143,12 @@ member:
     name: Michael
     password: zhi
     rating: ~
+  - Chinese: 劉子睿
+    email: zirui0910@gmail.com
+    id: B06200048
+    name: Jeff3
+    password: zi
+    rating: ~
   - Chinese: 何胤廷
     email: roger970512@yahoo.com.tw
     id: B06200052
@@ -153,6 +179,12 @@ member:
     name: Alice1
     password: xin
     rating: ~
+  - Chinese: 湯惠雯
+    email: Girlsmile@gmail.com
+    id: B06200069
+    name: 湯惠雯
+    password: hui
+    rating: ~
   - Chinese: 彭詠軒
     email: s8790644@gmail.com
     id: B06200071
@@ -176,6 +208,12 @@ member:
     id: B06200081
     name: Tikita
     password: xian
+    rating: ~
+  - Chinese: 唐湘琳
+    email: daejae1224@gmail.com
+    id: B06209101
+    name: Kendall
+    password: xiang
     rating: ~
   - Chinese: 賴新
     email: simon19990722@yahoo.com.tw
@@ -244,44 +282,6 @@ member:
     password: bo
     rating: ~
 out:
-  - Chinese: 唐湘琳
-    email: daejae1224@gmail.com
-    id: B06209101
-    name: Kendall
-    password: xiang
-    rating: ~
-  - Chinese: 劉子睿
-    email: zirui0910@gmail.com
-    id: B06200048
-    name: Jeff3
-    password: zi
-    rating: ~
-  - Chinese: 湯惠雯
-    email: Girlsmile@gmail.com
-    id: B06200069
-    name: 湯惠雯
-    password: hui
-    rating: ~
-  - Chinese: 廖士賓
-    id: B04202201
-    name: Tony
-    password: shi
-    email: smilmp0618@gmail.com
-    rating: ~
-  - Chinese: 陳虹寧
-    id: B04202204
-    name: Jasmine
-    password: hong
-    email: jasmine.02chen@gmail.com
-    rating: ~
-  
-  
-  - Chinese: 劉子郡
-    email: a0955005940@gmail.com
-    id: B05200078
-    name: Max
-    password: zi
-    rating: ~
   - Chinese: 劉俊宏
     email: a22212221@kimo.com
     id: B06200002
@@ -315,7 +315,6 @@ session:
   2: 4
   3: 7
   4: 9
-  5: 12
 weights:
   classwork: 40
   exams: 20
