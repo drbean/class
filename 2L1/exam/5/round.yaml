@@ -1,0 +1,48 @@
+---
+round: Exam 5
+week: 14/15
+questions:
+  - 6
+pass: 3
+assistant:
+  - Lydia
+absent:
+  - Ivan
+  - Sara
+  - Jenny2
+  - Kevin
+  - Fiona
+  - Jenny1
+  - Ashley1
+  - Joanne
+  - Ashley2
+  - Bonnie
+  - Ivy
+text: /home/drbean/curriculum/conversation/fix/cards.yaml
+activity:
+  tenant:
+    0:
+      - 1-1
+      - 3-1
+    1:
+      - 1-3
+      - 1-2
+    2:
+      - 2-1
+
+group:
+  1-1:
+    - Julie
+    - Emma
+  1-2:
+    - Groot
+    - Phoebe
+  1-3:
+    - Yumi
+    - Eva
+  2-1:
+    - Tina
+    - Lydia
+  3-1:
+    - Cherry
+    - Lydia

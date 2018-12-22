@@ -1,0 +1,45 @@
+---
+activity:
+  broken_thing:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+  complaint:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+assistant:
+  1-3:
+    B06200072: 5
+# bye: B06200068
+dispensation:
+  1-2:
+    B06200068: 5
+  3-1:
+    B03200025: 1
+divisions: ~
+group:
+  0:
+    White: B06200068
+    Black: B03200025
+  
+  1:
+    White: B06200003
+    Black: B06200018
+  2:
+    White: B06200028
+    Black: B06200032
+  3:
+    White: B07202113
+    Black: B06200038
+late:
+  - B03200025
+pairing: swiss
+payprotocol: meritPay 2
+round: 5
+text: /home/drbean/curriculum/conversation/fix/cards.yaml
+week: 14/15

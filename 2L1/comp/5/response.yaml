@@ -1,0 +1,70 @@
+---
+free:
+  0:
+    broken_thing:
+      0:
+        B06200068:
+          point:
+            1: Returned
+        B03200025:
+          point:
+            1: Unreturned
+    complaint:
+      0:
+        B06200068:
+          point:
+            1: Returned
+        B03200025:
+          point:
+            1: Unreturned
+  1:
+    broken_thing:
+      0:
+        B06200003:
+          point:
+            1: Unreturned
+        B06200018:
+          point:
+            1: Returned
+    complaint:
+      0:
+        B06200003:
+          point:
+            1: Returned
+        B06200018:
+          point:
+            1: Unreturned
+  2:
+    broken_thing:
+      0:
+        B06200028:
+          point:
+            1: Unreturned
+        B06200032:
+          point:
+            1: Returned
+    complaint:
+      0:
+        B06200028:
+          point:
+            1: Unreturned
+        B06200032:
+          point:
+            1: Returned
+  3:
+    broken_thing:
+      0:
+        B07202113:
+          point:
+            1: Unreturned
+        B06200038:
+          point:
+            1: Returned
+    complaint:
+      0:
+        B07202113:
+          point:
+            1: Unreturned
+        B06200038:
+          point:
+            1: Returned
