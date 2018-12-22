@@ -79,7 +79,7 @@ late:
   - B06200035
   - B06200029
 pairing: swiss
-payprotocol: meritPay
+payprotocol: meritPay 1
 round: 4
 text: /home/drbean/curriculum/conversation/intercultural/cards.yaml
 week: 11/12
