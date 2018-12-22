@@ -1,0 +1,35 @@
+---
+free:
+  20:
+    custom:
+      0:
+        B06200018:
+          point:
+            1: Returned
+            2: Unreturned
+        B07202113:
+          point:
+            1: Unreturned
+            2: Returned
+  21:
+    custom:
+      0:
+        B07202109:
+          point:
+            1: Returned
+            2: Unreturned
+        B06200072:
+          point:
+            1: Unreturned
+            2: Returned
+  22:
+    custom:
+      0:
+        B06200032:
+          point:
+            1: Returned
+            2: Unreturned
+        B06200038:
+          point:
+            1: Unreturned
+            2: Returned
