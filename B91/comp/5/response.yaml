@@ -1,0 +1,110 @@
+---
+free:
+  0:
+    problem:
+      0:
+        B06200048:
+          point:
+            1: Unreturned
+        B06200023:
+          point:
+            1: Returned
+  1:
+    problem:
+      0:
+        B06200058:
+          point:
+            1: Unreturned
+        B06200052:
+          point:
+            1: Returned
+  2:
+    problem:
+      0:
+        B06200061:
+          point:
+            1: Nil
+        B06200071:
+          point:
+            1: Nil
+  3:
+    problem:
+      0:
+        B07202101:
+          point:
+            1: Returned
+        B06200031:
+          point:
+            1: Unreturned
+  4:
+    problem:
+      0:
+        B07202104:
+          point:
+            1: Unreturned
+        B06200080:
+          point:
+            1: Returned
+  5:
+    problem:
+      0:
+        B06200063:
+          point:
+            1: Returned
+        B06200067:
+          point:
+            1: Unreturned
+  6:
+    problem:
+      0:
+        B06200025:
+          point:
+            1: Unreturned
+        B06200013:
+          point:
+            1: Returned
+  7:
+    problem:
+      0:
+        B07202110:
+          point:
+            1: Unreturned
+        B07202103:
+          point:
+            1: Returned
+  8:
+    problem:
+      0:
+        B06200081:
+          point:
+            1: Returned
+        B07202107:
+          point:
+            1: Unreturned
+  9:
+    problem:
+      0:
+        B06200007:
+          point:
+            1: Returned
+        B06200015:
+          point:
+            1: Unreturned
+  10:
+    problem:
+      0:
+        B07202114:
+          point:
+            1: Returned
+        B06200027:
+          point:
+            1: Unreturned
+  21:
+    problem:
+      0:
+        B07202112:
+          point:
+            1: Unreturned
+        B06200037:
+          point:
+            1: Returned

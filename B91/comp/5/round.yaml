@@ -1,0 +1,71 @@
+---
+activity:
+  problem:
+    0:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 21
+assistant:
+  34:
+    B06200041: 5
+  23:
+    B06200019: 5
+bye: B06200011
+dispensation: ~
+divisions: ~
+group:
+  0:
+    White: B06200048
+    Black: B06200023
+  1:
+    White: B06200058
+    Black: B06200052
+  2:
+    White: B06200061
+    Black: B06200071
+  3:
+    White: B07202101
+    Black: B06200031
+  4:
+    White: B07202104
+    Black: B06200080
+  5:
+    White: B06200063
+    Black: B06200067
+  6:
+    White: B06200025
+    Black: B06200013
+  7:
+    White: B07202110
+    Black: B07202103
+  8:
+    White: B06200081
+    Black: B07202107
+  9:
+    White: B06200007
+    Black: B06200015
+  10:
+    White: B07202114
+    Black: B06200027
+  21:
+    White: B07202112
+    Black: B06200037
+    
+late:
+  - B07202112
+  - B06200037
+  - B06200011
+pairing: swiss
+payprotocol: meritPay 1
+round: 5
+text: /home/drbean/curriculum/conversation/fix/cards.yaml
+week: 14/15

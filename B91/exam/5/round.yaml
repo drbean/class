@@ -1,0 +1,91 @@
+---
+round: Exam 5
+week: 14/15
+questions:
+  - 6
+pass: 3
+assistant:
+    - Hans
+absent:
+    - Eva
+    - Vic
+    - Gary
+    - Jeff2
+    - York
+    - Andy
+    - Fanny
+    - Daniel
+    - Jimmy
+    - Tony
+    - Jasmine
+    - Michael
+    - Amber1
+    - Jeff1
+    - Max
+    - John
+    - Kendall
+    - 湯惠雯
+text: /home/drbean/curriculum/conversation/fix/cards.yaml
+activity:
+  tenant:
+    0:
+      - 41
+      - 34
+      - 11
+      - 03
+      - 02
+    1:
+      - 32
+      - 22
+      - 12
+      - 04
+      - 01
+    2:
+      - 43
+      - 33
+      - 24
+      - 21
+
+group:
+  01:
+    - Jassy
+    - Alice2
+  02:
+    - Allen
+    - Amber2
+  03:
+    - Diana
+    - Nina
+  04:
+    - Hans
+    - Alice1
+  11:
+    - Willy
+    - Amy
+  12:
+    - Jenny
+    - Roxanne
+  21:
+    - Sharon
+    - Ella
+  22:
+    - Jason
+    - Hans
+  24:
+    - Roger
+    - Jeff3
+  32:
+    - Ariel
+    - Zoe
+  33:
+    - Kim
+    - Allan
+  34:
+    - Sherry
+    - Nancy
+  41:
+    - Elaiza
+    - Mory
+  43:
+    - Sandy
+    - Tikita
