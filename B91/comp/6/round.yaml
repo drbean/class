@@ -1,0 +1,103 @@
+---
+activity:
+  conversation:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+      - 350
+      - 351
+      - 352
+      - 353
+      - 354
+assistant:
+  32:
+    B06200035: 4
+bye: B06200029
+dispensation:
+  01:
+    B07202114: 1
+divisions: ~
+group:
+  1:
+    White: B07202117
+    Black: B06200048
+  2:
+    White: B06200037
+    Black: B06080105
+  3:
+    White: B06200023
+    Black: B06200043
+  4:
+    White: B06200071
+    Black: B06200058
+  5:
+    White: B06200061
+    Black: B06210041
+  6:
+    White: B06200041
+    Black: B07202101
+  7:
+    White: B06200080
+    Black: B06200063
+  8:
+    White: B06200013
+    Black: B06200019
+  9:
+    White: B07202104
+    Black: B06200031
+  10:
+    White: B07202103
+    Black: B06200081
+  11:
+    White: B06200007
+    Black: B06200025
+  12:
+    White: B06200067
+    Black: B07202110
+  13:
+    White: B06200015
+    Black: B07202107
+  350:
+    White: B07202108
+    Black: B06200005
+  351:
+    White: B06200073
+    Black: B06200011
+  352:
+    White: B06200046
+    Black: B06200009
+  353:
+    White: B06200027
+    Black: B07202102
+  354:
+    White: B06200052
+    Black: B07202112
+  
+late:
+  - B07202108
+  - B06200005
+  - B06200073
+  - B06200011
+  - B06200046
+  - B06200009
+  - B06200027
+  - B07202102
+  - B06200052
+  - B07202112
+  - B07202114 # with Andy, but Andy bye
+pairing: swiss adjusted
+payprotocol: meritPay 1
+round: 6
+text: /home/drbean/curriculum/conversation/environment/cards.yaml
+week: 17/18

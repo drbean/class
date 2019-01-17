@@ -1,0 +1,164 @@
+---
+free:
+  1:
+    conversation:
+      0:
+        B07202117:
+          point:
+            1: Returned
+        B06200048:
+          point:
+            1: Unreturned
+  2:
+    conversation:
+      0:
+        B06200037:
+          point:
+            1: Returned
+        B06080105:
+          point:
+            1: Unreturned
+  3:
+    conversation:
+      0:
+        B06200023:
+          point:
+            1: Unreturned
+        B06200043:
+          point:
+            1: Returned
+  4:
+    conversation:
+      0:
+        B06200071:
+          point:
+            1: Returned
+        B06200058:
+          point:
+            1: Unreturned
+  5:
+    conversation:
+      0:
+        B06200061:
+          point:
+            1: Returned
+        B06210041:
+          point:
+            1: Unreturned
+  6:
+    conversation:
+      0:
+        B06200041:
+          point:
+            1: Unreturned
+        B07202101:
+          point:
+            1: Returned
+  7:
+    conversation:
+      0:
+        B06200080:
+          point:
+            1: Returned
+        B06200063:
+          point:
+            1: Unreturned
+  8:
+    conversation:
+      0:
+        B06200013:
+          point:
+            1: Returned
+        B06200019:
+          point:
+            1: Unreturned
+  9:
+    conversation:
+      0:
+        B07202104:
+          point:
+            1: Returned
+        B06200031:
+          point:
+            1: Unreturned
+  10:
+    conversation:
+      0:
+        B07202103:
+          point:
+            1: Returned
+        B06200081:
+          point:
+            1: Unreturned
+  11:
+    conversation:
+      0:
+        B06200007:
+          point:
+            1: Returned
+        B06200025:
+          point:
+            1: Unreturned
+  12:
+    conversation:
+      0:
+        B06200067:
+          point:
+            1: Returned
+        B07202110:
+          point:
+            1: Unreturned
+  13:
+    conversation:
+      0:
+        B06200015:
+          point:
+            1: Unreturned
+        B07202107:
+          point:
+            1: Returned
+  350:
+    conversation:
+      0:
+        B07202108:
+          point:
+            1: Returned
+        B06200005:
+          point:
+            1: Unreturned
+  351:
+    conversation:
+      0:
+        B06200073:
+          point:
+            1: Returned
+        B06200011:
+          point:
+            1: Unreturned
+  352:
+    conversation:
+      0:
+        B06200046:
+          point:
+            1: Unreturned
+        B06200009:
+          point:
+            1: Returned
+  353:
+    conversation:
+      0:
+        B06200027:
+          point:
+            1: Unreturned
+        B07202102:
+          point:
+            1: Returned
+  354:
+    conversation:
+      0:
+        B06200052:
+          point:
+            1: Returned
+        B07202112:
+          point:
+            1: Unreturned
