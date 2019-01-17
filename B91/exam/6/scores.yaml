@@ -1,0 +1,108 @@
+---
+Chinese:
+  01: 0
+  02: 0
+  03: 0
+  04: 0
+  11: 0
+  12: 0
+  13: 0
+  14: 0
+  21: 0
+  22: 0
+  23: 0
+  24: 0
+  31: 0
+  32: 0
+  33: 0
+  34: 0
+  41: 0
+  42: 0
+  43: 0
+  44: 0
+  99: 0
+letters:
+  01:
+    B06200013: 2
+    B06200025: 4
+    story: pollution1
+  02:
+    B06080105: 2
+    B06200067: 2
+    story: pollution2
+  03:
+    B06200015: 5
+    B07202112: 5
+    story: pollution1
+  04:
+    B06200073: 4
+    B06200041: 5
+    story: pollution1
+  11:
+    B06200009: 4
+    B07202103: 4
+    story: pollution2
+  12:
+    B07202102: 5
+    B07202104: 5
+    story: pollution1
+  13:
+    B06200052: 2
+    B06200013: 2
+    story: pollution2
+  14:
+    B06200011: 3
+    B06200007: 3
+    story: pollution0
+  21:
+    B06210041: 6
+    B06200019: 6
+    story: pollution0
+  22:
+    B06200029: 5
+    B06200023: 5
+    story: pollution0
+  23:
+    B06200046: 2
+    B06200027: 2
+    story: pollution2
+  24:
+    B07202110: 6
+    B07202117: 6
+    story: pollution0
+  31:
+    B06200037: 2
+    B06200081: 4
+    story: pollution2
+  32:
+    B06200071: 2
+    B06200035: 3
+    story: pollution2
+  33:
+    B06200043: 4
+    B06200063: 6
+    story: pollution0
+  34:
+    B06200080: 5
+    B07202108: 5
+    story: pollution2
+  41:
+    B06200031: 5
+    B06200005: 5
+    story: pollution0
+  42:
+    B06200058: 6
+    B07202107: 6
+    story: pollution0
+  43:
+    B06200061: 3
+    B07202101: 4
+    story: pollution2
+  44:
+    B06200048: 5
+    B07202117: 5
+    story: pollution1
+  99:
+    B06200037: 6
+    B07202114: 5
+    story: pollution0

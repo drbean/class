@@ -1,0 +1,110 @@
+---
+round: Exam 6
+week: 17/18
+questions:
+  - 6
+pass: 3
+assistant:
+    - York
+    - Amy
+    - Kim
+absent:
+    - Tony
+    - Jasmine
+    - Max
+    - Kendall
+    - 湯惠雯
+text: /home/drbean/curriculum/conversation/environment/cards.yaml
+activity:
+  pollution:
+    0: # morgan
+      - 99
+      - 42
+      - 41
+      - 33
+      - 24
+      - 22
+      - 21
+      - 14
+    1: # dalton
+      - 44
+      - 12
+      - 04
+      - 03
+      - 01
+    2: # kendall
+      - 43
+      - 34
+      - 32
+      - 31
+      - 23
+      - 13
+      - 11
+      - 02
+
+
+group:
+  01:
+    - Amy
+    - Amber2
+  02:
+    - Jimmy
+    - Alice1
+  03:
+    - Willy
+    - Alice2
+  04:
+    - Jeff1
+    - Sherry
+  11:
+    - Amber1
+    - Nina
+  12:
+    - Jeff2
+    - Diana
+  13:
+    - Roger
+    - Amy
+  14:
+    - Jason
+    - Roxanne
+  21:
+    - Daniel
+    - Nancy
+  22:
+    - Andy
+    - Zoe
+  23:
+    - Michael
+    - Ella
+  24:
+    - Elaiza
+    - York
+  31:
+    - Kim
+    - Tikita
+  32:
+    - Sharon
+    - Fanny
+  33:
+    - Gary
+    - Mory
+  34:
+    - Jassy
+    - Vic
+  41:
+    - Jenny
+    - Eva
+  42:
+    - Allen
+    - Sandy
+  43:
+    - Allan
+    - Ariel
+  44:
+    - Jeff3
+    - York
+  99:
+    - Kim
+    - Hans
+
