@@ -1,0 +1,43 @@
+---
+activity:
+  conversation:
+    environment:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+    social:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+assistant:
+  3-1:
+    B06060001: 5
+bye: B06200047
+dispensation: ~
+divisions: ~
+group:
+  1:
+    White: B06200018
+    Black: B06200072
+  2:
+    White: B03200025
+    Black: B06200003
+  3:
+    White: B06200032
+    Black: B06200068
+  4:
+    White: B06200038
+    Black: B07202109
+  5:
+    White: B06200028
+    Black: B07202113
+late:
+pairing: swiss
+payprotocol: meritPay 2
+round: 6
+text: /home/drbean/curriculum/conversation/environment/cards.yaml
+week: 17/18

@@ -1,0 +1,82 @@
+---
+free:
+  1:
+    conversation:
+      environment:
+        B06200018:
+          point:
+            1: Unreturned
+        B06200072:
+          point:
+            1: Returned
+      social:
+        B06200018:
+          point:
+            1: Unreturned
+        B06200072:
+          point:
+            1: Returned
+  2:
+    conversation:
+      environment:
+        B03200025:
+          point:
+            1: Returned
+        B06200003:
+          point:
+            1: Unreturned
+      social:
+        B03200025:
+          point:
+            1: Returned
+        B06200003:
+          point:
+            1: Unreturned
+  3:
+    conversation:
+      environment:
+        B06200032:
+          point:
+            1: Unreturned
+        B06200068:
+          point:
+            1: Returned
+      social:
+        B06200032:
+          point:
+            1: Unreturned
+        B06200068:
+          point:
+            1: Returned
+  4:
+    conversation:
+      environment:
+        B06200038:
+          point:
+            1: Unreturned
+        B07202109:
+          point:
+            1: Returned
+      social:
+        B06200038:
+          point:
+            1: Unreturned
+        B07202109:
+          point:
+            1: Returned
+  5:
+    conversation:
+      environment:
+        B06200028:
+          point:
+            1: Returned
+        B07202113:
+          point:
+            1: Unreturned
+      social:
+        B06200028:
+          point:
+            1: Returned
+        B07202113:
+          point:
+            1: Unreturned
