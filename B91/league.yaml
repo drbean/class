@@ -316,6 +316,7 @@ session:
   3: 7
   4: 9
   5: 12
+  6: 15
 weights:
   classwork: 40
   exams: 20
