@@ -103,8 +103,8 @@ points:
     question: 3
     try: 21
 report: |+
-  try: 1
   grammatical: 2
+  try: 1
   correct: 0
   Player     Question Grammatical Answers   Total     Grade
   B03200025      6        1         1         8        2.6
@@ -134,7 +134,7 @@ report: |+
 B03200025: 2.59259259259259
 B04200010: 0
 B04200022: 0
-B06060001: 4.5
+B06060001: 0
 B06200003: 4.20481927710843
 B06200008: 0
 B06200012: 0
