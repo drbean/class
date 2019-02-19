@@ -1,0 +1,236 @@
+---
+absent: ~
+active: ~
+anterior: 071MIA0018
+approach: Individual
+classMax: 3
+examMax: 100
+exams: exam
+field: 商用英文書信實務(二)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 072MIA0014
+league: 日資管三甲
+member:
+  - Chinese: 祁冠宇
+    id: U0421111
+    name: GuanYu
+    password: guan
+    rating: ~
+  - Chinese: 徐意翔
+    id: U0433018
+    name: Shiang
+    password: yi
+    rating: ~
+  - Chinese: 洪涵筠
+    id: U0531117
+    name: Eve
+    password: han
+    rating: ~
+  - Chinese: 姚俊竹
+    id: U0531130
+    name: Gene
+    password: jun
+    rating: ~
+  - Chinese: 簡宏家
+    id: U0531131
+    name: John
+    password: hong
+    rating: ~
+  - Chinese: 林奕叡
+    id: U0531147
+    name: Roy
+    password: yi
+    rating: ~
+  - Chinese: 蔡沛靜
+    id: U0533001
+    name: PeiJing
+    password: pei
+    rating: ~
+  - Chinese: 李育萱
+    id: U0533002
+    name: YuSyuan
+    password: yu
+    rating: ~
+  - Chinese: 陳柏翰
+    id: U0533003
+    name: Jason1
+    password: bai
+    rating: ~
+  - Chinese: 廖若安
+    id: U0533004
+    name: Annie
+    password: ruo
+    rating: ~
+  - Chinese: 莊學欣
+    id: U0533005
+    name: Russell
+    password: xue
+    rating: ~
+  - Chinese: 呂芳芸
+    id: U0533006
+    name: Yun
+    password: fang
+    rating: ~
+  - Chinese: 游惠君
+    id: U0533008
+    name: Winnie
+    password: hui
+    rating: ~
+  - Chinese: 陳彥仁
+    id: U0533009
+    name: Jason2
+    password: yan
+    rating: ~
+  - Chinese: 魏奕文
+    id: U0533010
+    name: Hunter
+    password: yi
+    rating: ~
+  - Chinese: 蔡震東
+    id: U0533011
+    name: Dong
+    password: zhen
+    rating: ~
+  - Chinese: 邱柏碩
+    id: U0533013
+    name: Nason
+    password: bai
+    rating: ~
+  - Chinese: 王韋璿
+    id: U0533014
+    name: Syuan
+    password: wei
+    rating: ~
+  - Chinese: 徐薇雅
+    id: U0533017
+    name: Angel
+    password: wei
+    rating: ~
+  - Chinese: 王建致
+    id: U0533018
+    name: Ken
+    password: jian
+    rating: ~
+  - Chinese: 陳筑卉
+    id: U0533019
+    name: Elena
+    password: zhu
+    rating: ~
+  - Chinese: 詹孟勳
+    id: U0533021
+    name: Robby
+    password: meng
+    rating: ~
+  - Chinese: 洪健峰
+    id: U0533022
+    name: Lebron
+    password: jian
+    rating: ~
+  - Chinese: 石孟軒
+    id: U0533023
+    name: Curry
+    password: meng
+    rating: ~
+  - Chinese: 陳雪恬
+    id: U0533024
+    name: Chloe
+    password: xue
+    rating: ~
+  - Chinese: 葉萬霖
+    id: U0533026
+    name: WanLin
+    password: wan
+    rating: ~
+  - Chinese: 黃馨儀
+    id: U0533028
+    name: Sandy
+    password: xin
+    rating: ~
+  - Chinese: 賴威宗
+    id: U0533030
+    name: Jordan
+    password: wei
+    rating: ~
+  - Chinese: 唐翌齊
+    id: U0533032
+    name: Owen
+    password: yi
+    rating: ~
+  - Chinese: 林珈毓
+    id: U0533033
+    name: Tiffany
+    password: jia
+    rating: ~
+  - Chinese: 江岳修
+    id: U0533034
+    name: Yue
+    password: yue
+    rating: ~
+  - Chinese: 侯絨心
+    id: U0533035
+    name: Alice
+    password: rong
+    rating: ~
+  - Chinese: 李珮妤
+    id: U0533036
+    name: PeiYu
+    password: pei
+    rating: ~
+  - Chinese: 呂坤燁
+    id: U0533037
+    name: Bryant
+    password: kun
+    rating: ~
+  - Chinese: 馮國翔
+    id: U0533038
+    name: Gary
+    password: guo
+    rating: ~
+  - Chinese: 唐敏玟
+    id: U0533039
+    name: Nancy
+    password: min
+    rating: ~
+  - Chinese: 王愷妘
+    id: U0533040
+    name: Kai
+    password: kai
+    rating: ~
+  - Chinese: 賴昱夫
+    id: U0533042
+    name: Joseph
+    password: yu
+    rating: ~
+  - Chinese: 巫沛釗
+    id: U0533043
+    name: Neal
+    password: pei
+    rating: ~
+  - Chinese: 林宜靜
+    id: U0533044
+    name: Dawn
+    password: yi
+    rating: ~
+  - Chinese: 張育珊
+    id: U0533045
+    name: YuShan
+    password: yu
+    rating: ~
+  - Chinese: 金琪潔
+    id: U0533047
+    name: Julia
+    password: qi
+    rating: ~
+out:
+room: A706
+school: nuu
+session:
+  1: 1
+  2: 10
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
