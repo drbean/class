@@ -218,7 +218,6 @@ member:
     name: Johnson
     password: jia
     rating: ~
-out:
   - Chinese: 林祐震
     id: U0531111
     email: u0531111@smail.nuu.edu.tw
@@ -246,7 +245,7 @@ out:
   - Chinese: 江佩珊
     id: U0531138
     email: u0531138@smail.nuu.edu.tw
-    name: 江佩珊
+    name: PeiShan
     password: pei
     rating: ~
   - Chinese: 汪思緹
@@ -261,6 +260,7 @@ out:
     name: 徐兆寬
     password: zhao
     rating: ~
+out:
 room: A706
 school: nuu
 session:
