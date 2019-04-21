@@ -98,12 +98,6 @@ member:
     name: Kevin
     password: yong
     rating: ~
-  - Chinese: 吳宜玲
-    email: u0531120@smail.nuu.edu.tw
-    id: U0531120
-    name: Nini
-    password: yi
-    rating: ~
   - Chinese: 文郁甯
     email: u0531122@smail.nuu.edu.tw
     id: U0531122
@@ -218,29 +212,11 @@ member:
     name: Johnson
     password: jia
     rating: ~
-  - Chinese: 林祐震
-    id: U0531111
-    email: u0531111@smail.nuu.edu.tw
-    name: Neo
-    password: you
-    rating: ~
-  - Chinese: 李華美
-    id: U0531126
-    email: u0531126@smail.nuu.edu.tw
-    name: Ella
-    password: hua
-    rating: ~
   - Chinese: 黃碧茹
     id: U0531127
     email: u0531127@smail.nuu.edu.tw
     name: Lucy
     password: bi
-    rating: ~
-  - Chinese: 張才琳
-    id: U0531128
-    email: u0531128@smail.nuu.edu.tw
-    name: 張才琳
-    password: cai
     rating: ~
   - Chinese: 江佩珊
     id: U0531138
@@ -254,13 +230,37 @@ member:
     name: Tiffany
     password: si
     rating: ~
+out:
   - Chinese: 徐兆寬
     id: U0531155
     email: u0531155@smail.nuu.edu.tw
     name: 徐兆寬
     password: zhao
     rating: ~
-out:
+  - Chinese: 張才琳
+    id: U0531128
+    email: u0531128@smail.nuu.edu.tw
+    name: 張才琳
+    password: cai
+    rating: ~
+  - Chinese: 李華美
+    id: U0531126
+    email: u0531126@smail.nuu.edu.tw
+    name: Ella
+    password: hua
+    rating: ~
+  - Chinese: 吳宜玲
+    email: u0531120@smail.nuu.edu.tw
+    id: U0531120
+    name: Nini
+    password: yi
+    rating: ~
+  - Chinese: 林祐震
+    id: U0531111
+    email: u0531111@smail.nuu.edu.tw
+    name: Neo
+    password: you
+    rating: ~
 room: A706
 school: nuu
 session:
