@@ -2,7 +2,7 @@
 absent: ~
 active: ~
 anterior: 071FIA0025
-approach: GroupworkNoFault
+approach: Individual
 classMax: 3
 examMax: 100
 exams: exam
@@ -315,7 +315,7 @@ member:
     password: sheng
     rating: ~
 out: ~
-room: A702
+room: A706
 school: nuu
 scores:
   bye: 5
