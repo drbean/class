@@ -2,7 +2,7 @@
 absent: ~
 active: ~
 anterior: 071BMA0031
-approach: GroupworkNoFault
+approach: Individual
 classMax: 3
 examMax: 100
 exams: exam
@@ -297,12 +297,6 @@ member:
     password: pei
     rating: ~
 
-  - Chinese: 李睿軒
-    email: u0531042@smail.nuu.edu.tw
-    id: U0531042
-    name: 李睿軒
-    password: rui
-    rating: ~
   - Chinese: 王憶綺
     email: u0431021@smail.nuu.edu.tw
     id: U0431021
@@ -322,7 +316,13 @@ member:
     password: jun
     rating: ~
 out:
-room: A702
+  - Chinese: 李睿軒
+    email: u0531042@smail.nuu.edu.tw
+    id: U0531042
+    name: 李睿軒
+    password: rui
+    rating: ~
+room: A706
 school: nuu
 session:
   1: 0
