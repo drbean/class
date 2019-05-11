@@ -189,11 +189,6 @@ member:
     name: Gary
     password: guo
     rating: ~
-  - Chinese: 唐敏玟
-    id: U0533039
-    name: Nancy
-    password: min
-    rating: ~
   - Chinese: 王愷妘
     id: U0533040
     name: Kai
@@ -225,6 +220,11 @@ member:
     password: qi
     rating: ~
 out:
+  - Chinese: 唐敏玟
+    id: U0533039
+    name: Nancy
+    password: min
+    rating: ~
 room: A706
 school: nuu
 session:
