@@ -1,0 +1,315 @@
+---
+absent: ~
+active: ~
+anterior: '072BMA0047, 991CLA0023'
+approach: Individual
+classMax: 3
+examMax: 100
+exams: exam
+field: 英文閱讀及寫作
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 3
+id: 081CLA0026
+league: 日華文三甲
+member:
+  - Chinese: 岳祺
+    email: u0511048@smail.nuu.edu.tw
+    id: U0511048
+    name: 岳祺
+    password: qi
+    rating: ~
+  - Chinese: 邱繽慧
+    email: u0543001@smail.nuu.edu.tw
+    id: U0543001
+    name: 邱繽慧
+    password: bin
+    rating: ~
+  - Chinese: 何佳薇
+    email: u0543006@smail.nuu.edu.tw
+    id: U0543006
+    name: 何佳薇
+    password: jia
+    rating: ~
+  - Chinese: 李安佳
+    email: u0543009@smail.nuu.edu.tw
+    id: U0543009
+    name: 李安佳
+    password: an
+    rating: ~
+  - Chinese: 呂冠周
+    email: u0543017@smail.nuu.edu.tw
+    id: U0543017
+    name: 呂冠周
+    password: guan
+    rating: ~
+  - Chinese: 陳景威
+    email: u0543024@smail.nuu.edu.tw
+    id: U0543024
+    name: 陳景威
+    password: jing
+    rating: ~
+  - Chinese: 蘇皓晨
+    email: u0543025@smail.nuu.edu.tw
+    id: U0543025
+    name: 蘇皓晨
+    password: hao
+    rating: ~
+  - Chinese: 邱晟芳
+    email: u0543041@smail.nuu.edu.tw
+    id: U0543041
+    name: 邱晟芳
+    password: cheng
+    rating: ~
+  - Chinese: 吳映萱
+    email: u0543042@smail.nuu.edu.tw
+    id: U0543042
+    name: 吳映萱
+    password: ying
+    rating: ~
+  - Chinese: 吳侑蓁
+    email: u0543043@smail.nuu.edu.tw
+    id: U0543043
+    name: 吳侑蓁
+    password: you
+    rating: ~
+  - Chinese: 張彥閔
+    email: u0543051@smail.nuu.edu.tw
+    id: U0543051
+    name: 張彥閔
+    password: yan
+    rating: ~
+  - Chinese: 尤怡鈞
+    email: u0543052@smail.nuu.edu.tw
+    id: U0543052
+    name: 尤怡鈞
+    password: yi
+    rating: ~
+  - Chinese: 陳心如
+    email: u0543054@smail.nuu.edu.tw
+    id: U0543054
+    name: 陳心如
+    password: xin
+    rating: ~
+  - Chinese: 王川
+    email: u0543056@smail.nuu.edu.tw
+    id: U0543056
+    name: 王川
+    password: chuan
+    rating: ~
+  - Chinese: 陳思瑜
+    email: u0557012@smail.nuu.edu.tw
+    id: U0557012
+    name: 陳思瑜
+    password: si
+    rating: ~
+  - Chinese: 陳志豪
+    email: u0643006@smail.nuu.edu.tw
+    id: U0643006
+    name: 陳志豪
+    password: zhi
+    rating: ~
+  - Chinese: 曾毓婷
+    email: u0643007@smail.nuu.edu.tw
+    id: U0643007
+    name: 曾毓婷
+    password: yu
+    rating: ~
+  - Chinese: 劉廷芳
+    email: u0643009@smail.nuu.edu.tw
+    id: U0643009
+    name: 劉廷芳
+    password: ting
+    rating: ~
+  - Chinese: 翁子甯
+    email: u0643010@smail.nuu.edu.tw
+    id: U0643010
+    name: 翁子甯
+    password: zi
+    rating: ~
+  - Chinese: 何采靜
+    email: u0643011@smail.nuu.edu.tw
+    id: U0643011
+    name: 何采靜
+    password: cai
+    rating: ~
+  - Chinese: 陳秀慧
+    email: u0643013@smail.nuu.edu.tw
+    id: U0643013
+    name: 陳秀慧
+    password: xiu
+    rating: ~
+  - Chinese: 林郁庭
+    email: u0643014@smail.nuu.edu.tw
+    id: U0643014
+    name: 林郁庭
+    password: yu
+    rating: ~
+  - Chinese: 邱韋傑
+    email: u0643016@smail.nuu.edu.tw
+    id: U0643016
+    name: 邱韋傑
+    password: wei
+    rating: ~
+  - Chinese: 涂家軒
+    email: u0643017@smail.nuu.edu.tw
+    id: U0643017
+    name: 涂家軒
+    password: jia
+    rating: ~
+  - Chinese: 王士豪
+    email: u0643018@smail.nuu.edu.tw
+    id: U0643018
+    name: 王士豪
+    password: shi
+    rating: ~
+  - Chinese: 吳若綺
+    email: u0643021@smail.nuu.edu.tw
+    id: U0643021
+    name: 吳若綺
+    password: ruo
+    rating: ~
+  - Chinese: 吳宜儒
+    email: u0643022@smail.nuu.edu.tw
+    id: U0643022
+    name: 吳宜儒
+    password: yi
+    rating: ~
+  - Chinese: 蔡孟慈
+    email: u0643023@smail.nuu.edu.tw
+    id: U0643023
+    name: 蔡孟慈
+    password: meng
+    rating: ~
+  - Chinese: 洪子鈞
+    email: u0643026@smail.nuu.edu.tw
+    id: U0643026
+    name: 洪子鈞
+    password: zi
+    rating: ~
+  - Chinese: 呂芯妍
+    email: u0643032@smail.nuu.edu.tw
+    id: U0643032
+    name: 呂芯妍
+    password: xin
+    rating: ~
+  - Chinese: 劉和珍
+    email: u0643034@smail.nuu.edu.tw
+    id: U0643034
+    name: 劉和珍
+    password: he
+    rating: ~
+  - Chinese: 徐千隄
+    email: u0643035@smail.nuu.edu.tw
+    id: U0643035
+    name: 徐千隄
+    password: qian
+    rating: ~
+  - Chinese: 楊愷倪
+    email: u0643036@smail.nuu.edu.tw
+    id: U0643036
+    name: 楊愷倪
+    password: kai
+    rating: ~
+  - Chinese: 吳右梅
+    email: u0643038@smail.nuu.edu.tw
+    id: U0643038
+    name: 吳右梅
+    password: you
+    rating: ~
+  - Chinese: 陳欣穎
+    email: u0643039@smail.nuu.edu.tw
+    id: U0643039
+    name: 陳欣穎
+    password: xin
+    rating: ~
+  - Chinese: 謝京君
+    email: u0643040@smail.nuu.edu.tw
+    id: U0643040
+    name: 謝京君
+    password: jing
+    rating: ~
+  - Chinese: 黃忻珏
+    email: u0643041@smail.nuu.edu.tw
+    id: U0643041
+    name: 黃忻珏
+    password: xin
+    rating: ~
+  - Chinese: 魏妤軒
+    email: u0643044@smail.nuu.edu.tw
+    id: U0643044
+    name: 魏妤軒
+    password: yu
+    rating: ~
+  - Chinese: 許銘芯
+    email: u0643046@smail.nuu.edu.tw
+    id: U0643046
+    name: 許銘芯
+    password: ming
+    rating: ~
+  - Chinese: 楊舜智
+    email: u0643047@smail.nuu.edu.tw
+    id: U0643047
+    name: 楊舜智
+    password: shun
+    rating: ~
+  - Chinese: 鍾采玲
+    email: u0643048@smail.nuu.edu.tw
+    id: U0643048
+    name: 鍾采玲
+    password: cai
+    rating: ~
+  - Chinese: 唐雅琪
+    email: u0643049@smail.nuu.edu.tw
+    id: U0643049
+    name: 唐雅琪
+    password: ya
+    rating: ~
+  - Chinese: 鄧佩琳
+    email: u0643052@smail.nuu.edu.tw
+    id: U0643052
+    name: 鄧佩琳
+    password: pei
+    rating: ~
+  - Chinese: 宋佳融
+    email: u0643054@smail.nuu.edu.tw
+    id: U0643054
+    name: 宋佳融
+    password: jia
+    rating: ~
+  - Chinese: 黃彥蓉
+    email: u0643058@smail.nuu.edu.tw
+    id: U0643058
+    name: 黃彥蓉
+    password: yan
+    rating: ~
+  - Chinese: 姚羿豪
+    email: u0643059@smail.nuu.edu.tw
+    id: U0643059
+    name: 姚羿豪
+    password: yi
+    rating: ~
+  - Chinese: 孫偉勝
+    email: u0643061@smail.nuu.edu.tw
+    id: U0643061
+    name: 孫偉勝
+    password: wei
+    rating: ~
+  - Chinese: 陳亭安
+    email: u0758023@smail.nuu.edu.tw
+    id: U0758023
+    name: 陳亭安
+    password: ting
+    rating: ~
+out: ~
+room: A705
+school: nuu
+session:
+  1: 0
+  2: 1
+  3: 9
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
