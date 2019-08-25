@@ -1,0 +1,315 @@
+---
+absent: ~
+active: ~
+anterior: 072BMA0047
+approach: Individual
+classMax: 3
+examMax: 100
+exams: exam
+field: 商用英文書信實務(一)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 3
+id: 081BMA0047
+league: 日經管三乙
+member:
+  - Chinese: 李睿軒
+    email: u0531042@smail.nuu.edu.tw
+    id: U0531042
+    name: 李睿軒
+    password: rui
+    rating: ~
+  - Chinese: 胡詠皓
+    email: u0531047@smail.nuu.edu.tw
+    id: U0531047
+    name: Leo2
+    password: yong
+    rating: ~
+  - Chinese: 徐兆寬
+    email: u0531155@smail.nuu.edu.tw
+    id: U0531155
+    name: 徐兆寬
+    password: zhao
+    rating: ~
+  - Chinese: 劉庭源
+    email: u0631018@smail.nuu.edu.tw
+    id: U0631018
+    name: 劉庭源
+    password: ting
+    rating: ~
+  - Chinese: 傅映禎
+    email: u0631024@smail.nuu.edu.tw
+    id: U0631024
+    name: 傅映禎
+    password: ying
+    rating: ~
+  - Chinese: 曾聖紘
+    email: u0631025@smail.nuu.edu.tw
+    id: U0631025
+    name: 曾聖紘
+    password: sheng
+    rating: ~
+  - Chinese: 邱敬丝
+    email: u0631101@smail.nuu.edu.tw
+    id: U0631101
+    name: 邱敬丝
+    password: jing
+    rating: ~
+  - Chinese: 張慧君
+    email: u0631102@smail.nuu.edu.tw
+    id: U0631102
+    name: 張慧君
+    password: hui
+    rating: ~
+  - Chinese: 謝佩珊
+    email: u0631103@smail.nuu.edu.tw
+    id: U0631103
+    name: 謝佩珊
+    password: pei
+    rating: ~
+  - Chinese: 蔡一菲
+    email: u0631106@smail.nuu.edu.tw
+    id: U0631106
+    name: 蔡一菲
+    password: yi
+    rating: ~
+  - Chinese: 屈恩如
+    email: u0631107@smail.nuu.edu.tw
+    id: U0631107
+    name: 屈恩如
+    password: en
+    rating: ~
+  - Chinese: 陳致宇
+    email: u0631108@smail.nuu.edu.tw
+    id: U0631108
+    name: 陳致宇
+    password: zhi
+    rating: ~
+  - Chinese: 陳悦昕
+    email: u0631109@smail.nuu.edu.tw
+    id: U0631109
+    name: 陳悦昕
+    password: yue
+    rating: ~
+  - Chinese: 曹宜婷
+    email: u0631110@smail.nuu.edu.tw
+    id: U0631110
+    name: 曹宜婷
+    password: yi
+    rating: ~
+  - Chinese: 陳志杰
+    email: u0631111@smail.nuu.edu.tw
+    id: U0631111
+    name: 陳志杰
+    password: zhi
+    rating: ~
+  - Chinese: 張容萍
+    email: u0631112@smail.nuu.edu.tw
+    id: U0631112
+    name: 張容萍
+    password: rong
+    rating: ~
+  - Chinese: 林宥萱
+    email: u0631113@smail.nuu.edu.tw
+    id: U0631113
+    name: 林宥萱
+    password: you
+    rating: ~
+  - Chinese: 林淮鍀
+    email: u0631114@smail.nuu.edu.tw
+    id: U0631114
+    name: 林淮鍀
+    password: huai
+    rating: ~
+  - Chinese: 黃俊翔
+    email: u0631115@smail.nuu.edu.tw
+    id: U0631115
+    name: 黃俊翔
+    password: jun
+    rating: ~
+  - Chinese: 王祥郁
+    email: u0631116@smail.nuu.edu.tw
+    id: U0631116
+    name: 王祥郁
+    password: xiang
+    rating: ~
+  - Chinese: 林瑩慈
+    email: u0631117@smail.nuu.edu.tw
+    id: U0631117
+    name: 林瑩慈
+    password: ying
+    rating: ~
+  - Chinese: 顏碩亨
+    email: u0631121@smail.nuu.edu.tw
+    id: U0631121
+    name: 顏碩亨
+    password: shuo
+    rating: ~
+  - Chinese: 莊欣菱
+    email: u0631123@smail.nuu.edu.tw
+    id: U0631123
+    name: 莊欣菱
+    password: xin
+    rating: ~
+  - Chinese: 徐振豪
+    email: u0631125@smail.nuu.edu.tw
+    id: U0631125
+    name: 徐振豪
+    password: zhen
+    rating: ~
+  - Chinese: 余育憲
+    email: u0631126@smail.nuu.edu.tw
+    id: U0631126
+    name: 余育憲
+    password: yu
+    rating: ~
+  - Chinese: 劉欣華
+    email: u0631127@smail.nuu.edu.tw
+    id: U0631127
+    name: 劉欣華
+    password: xin
+    rating: ~
+  - Chinese: 王郁齊
+    email: u0631128@smail.nuu.edu.tw
+    id: U0631128
+    name: 王郁齊
+    password: yu
+    rating: ~
+  - Chinese: 王毓琦
+    email: u0631129@smail.nuu.edu.tw
+    id: U0631129
+    name: 王毓琦
+    password: yu
+    rating: ~
+  - Chinese: 方彥智
+    email: u0631130@smail.nuu.edu.tw
+    id: U0631130
+    name: 方彥智
+    password: yan
+    rating: ~
+  - Chinese: 顏宏哲
+    email: u0631131@smail.nuu.edu.tw
+    id: U0631131
+    name: 顏宏哲
+    password: hong
+    rating: ~
+  - Chinese: 莊昀霓
+    email: u0631132@smail.nuu.edu.tw
+    id: U0631132
+    name: 莊昀霓
+    password: yun
+    rating: ~
+  - Chinese: 林雅琪
+    email: u0631133@smail.nuu.edu.tw
+    id: U0631133
+    name: 林雅琪
+    password: ya
+    rating: ~
+  - Chinese: 張沛縈
+    email: u0631134@smail.nuu.edu.tw
+    id: U0631134
+    name: 張沛縈
+    password: pei
+    rating: ~
+  - Chinese: 劉彥鋒
+    email: u0631135@smail.nuu.edu.tw
+    id: U0631135
+    name: 劉彥鋒
+    password: yan
+    rating: ~
+  - Chinese: 林祐安
+    email: u0631138@smail.nuu.edu.tw
+    id: U0631138
+    name: 林祐安
+    password: you
+    rating: ~
+  - Chinese: 嚴萬霖
+    email: u0631139@smail.nuu.edu.tw
+    id: U0631139
+    name: 嚴萬霖
+    password: wan
+    rating: ~
+  - Chinese: 王竣霆
+    email: u0631140@smail.nuu.edu.tw
+    id: U0631140
+    name: 王竣霆
+    password: jun
+    rating: ~
+  - Chinese: 薛亦庭
+    email: u0631141@smail.nuu.edu.tw
+    id: U0631141
+    name: 薛亦庭
+    password: yi
+    rating: ~
+  - Chinese: 杜宗晏
+    email: u0631142@smail.nuu.edu.tw
+    id: U0631142
+    name: 杜宗晏
+    password: zong
+    rating: ~
+  - Chinese: 谷冠萱
+    email: u0631143@smail.nuu.edu.tw
+    id: U0631143
+    name: 谷冠萱
+    password: guan
+    rating: ~
+  - Chinese: 劉子綺
+    email: u0631145@smail.nuu.edu.tw
+    id: U0631145
+    name: 劉子綺
+    password: zi
+    rating: ~
+  - Chinese: 吳欣穎
+    email: u0631146@smail.nuu.edu.tw
+    id: U0631146
+    name: 吳欣穎
+    password: xin
+    rating: ~
+  - Chinese: 黃柏諺
+    email: u0631147@smail.nuu.edu.tw
+    id: U0631147
+    name: 黃柏諺
+    password: bai
+    rating: ~
+  - Chinese: 羅昱傑
+    email: u0631149@smail.nuu.edu.tw
+    id: U0631149
+    name: 羅昱傑
+    password: yu
+    rating: ~
+  - Chinese: 顏
+    email: u0631151@smail.nuu.edu.tw
+    id: U0631151
+    name: 顏
+    password: ''
+    rating: ~
+  - Chinese: 李唯菱
+    email: u0631152@smail.nuu.edu.tw
+    id: U0631152
+    name: 李唯菱
+    password: wei
+    rating: ~
+  - Chinese: 鄭佩霖
+    email: u0631154@smail.nuu.edu.tw
+    id: U0631154
+    name: 鄭佩霖
+    password: pei
+    rating: ~
+  - Chinese: 黃靖雁
+    email: u0631155@smail.nuu.edu.tw
+    id: U0631155
+    name: 黃靖雁
+    password: jing
+    rating: ~
+out: ~
+room: A706
+school: nuu
+session:
+  1: 0
+  2: 1
+  3: 9
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
