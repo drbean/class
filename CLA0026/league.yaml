@@ -14,6 +14,19 @@ hwMax: 3
 id: 081CLA0026
 league: 日華文三甲
 member:
+  - Chinese: 張葉蓁
+    id: U0643005
+    name: 張葉蓁
+    password: ye
+    email: u0643005@smail.nuu.edu.tw
+    rating: 
+  - Chinese: 李睿騰
+    id: U0643062
+    name: 李睿騰
+    password: rui
+    email: u0643062@smail.nuu.edu.tw
+    rating: 
+  
   - Chinese: 岳祺
     email: u0511048@smail.nuu.edu.tw
     id: U0511048
