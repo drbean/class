@@ -51,12 +51,6 @@ member:
     name: 許鎧麒
     password: kai
     rating: ~
-  - Chinese: 黃教頤
-    email: u0622202@smail.nuu.edu.tw
-    id: U0622202
-    name: 黃教頤
-    password: jiao
-    rating: ~
   - Chinese: 翁學民
     email: u0623101@smail.nuu.edu.tw
     id: U0623101
@@ -93,12 +87,6 @@ member:
     name: 林建宏
     password: jian
     rating: ~
-  - Chinese: 呂彥儒
-    email: u0623110@smail.nuu.edu.tw
-    id: U0623110
-    name: 呂彥儒
-    password: yan
-    rating: ~
   - Chinese: 劉政銓
     email: u0623111@smail.nuu.edu.tw
     id: U0623111
@@ -111,37 +99,31 @@ member:
     name: 邵弘羽
     password: hong
     rating: ~
-  - Chinese: 甘珀瑜
-    email: u0623125@smail.nuu.edu.tw
-    id: U0623125
-    name: 甘珀瑜
-    password: po
-    rating: ~
   - Chinese: 黃伯洋
     email: u0623138@smail.nuu.edu.tw
     id: U0623138
     name: 黃伯洋
     password: bo
     rating: ~
-  - Chinese: 蔡育哲
-    email: u0711305@smail.nuu.edu.tw
-    id: U0711305
-    name: 蔡育哲
-    password: yu
+out:
+  - Chinese: 黃教頤
+    email: u0622202@smail.nuu.edu.tw
+    id: U0622202
+    name: 黃教頤
+    password: jiao
     rating: ~
-  - Chinese: 簡秀玲
-    email: u0711307@smail.nuu.edu.tw
-    id: U0711307
-    name: 簡秀玲
-    password: xiu
+  - Chinese: 甘珀瑜
+    email: u0623125@smail.nuu.edu.tw
+    id: U0623125
+    name: 甘珀瑜
+    password: po
     rating: ~
-  - Chinese: 孫毅
-    email: u0711344@smail.nuu.edu.tw
-    id: U0711344
-    name: 孫毅
-    password: yi
+  - Chinese: 呂彥儒
+    email: u0623110@smail.nuu.edu.tw
+    id: U0623110
+    name: 呂彥儒
+    password: yan
     rating: ~
-out: ~
 room: A705
 school: nuu
 session:
