@@ -15,6 +15,91 @@ hwMax: 2
 id: 081GL00027
 league: 日語文共同學制虛擬班二乙        高來圭
 member:
+  - Chinese: 楊栢勝
+    email: u0523033@smail.nuu.edu.tw
+    id: U0523033
+    name: 楊栢勝
+    password: bai
+    rating: ~
+  - Chinese: 林葳沁
+    email: u0523119@smail.nuu.edu.tw
+    id: U0523119
+    name: 林葳沁
+    password: wei
+    rating: ~
+  - Chinese: 李亭誼
+    email: u0557037@smail.nuu.edu.tw
+    id: U0557037
+    name: 李亭誼
+    password: ting
+    rating: ~
+  - Chinese: 江虹霓
+    email: u0558023@smail.nuu.edu.tw
+    id: U0558023
+    name: 江虹霓
+    password: hong
+    rating: ~
+  - Chinese: 陳泓安
+    email: u0611138@smail.nuu.edu.tw
+    id: U0611138
+    name: 陳泓安
+    password: hong
+    rating: ~
+  - Chinese: 鍾詠皓
+    email: u0611145@smail.nuu.edu.tw
+    id: U0611145
+    name: 鍾詠皓
+    password: yong
+    rating: ~
+  - Chinese: 陳晁偉
+    email: u0611146@smail.nuu.edu.tw
+    id: U0611146
+    name: 陳晁偉
+    password: chao
+    rating: ~
+  - Chinese: 張宏銘
+    email: u0623045@smail.nuu.edu.tw
+    id: U0623045
+    name: 張宏銘
+    password: hong
+    rating: ~
+  - Chinese: 林揚議
+    email: u0623142@smail.nuu.edu.tw
+    id: U0623142
+    name: 林揚議
+    password: yang
+    rating: ~
+  - Chinese: 張庭瑋
+    email: u0721146@smail.nuu.edu.tw
+    id: U0721146
+    name: 張庭瑋
+    password: ting
+    rating: ~
+  - Chinese: 徐嘉澤
+    email: u0811013@smail.nuu.edu.tw
+    id: U0811013
+    name: 徐嘉澤
+    password: jia
+    rating: ~
+  - Chinese: 姚佳妤
+    email: u0857027@smail.nuu.edu.tw
+    id: U0857027
+    name: 姚佳妤
+    password: jia
+    rating: ~
+  - Chinese: 歐沛鑫
+    email: u0857040@smail.nuu.edu.tw
+    id: U0857040
+    name: 歐沛鑫
+    password: pei
+    rating: ~
+  - Chinese: 陳心玉
+    email: u0857042@smail.nuu.edu.tw
+    id: U0857042
+    name: 陳心玉
+    password: xin
+    rating: ~
+
   - Chinese: 陳婕芸
     email: u0416023@smail.nuu.edu.tw
     id: U0416023
