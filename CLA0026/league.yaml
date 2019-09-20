@@ -30,7 +30,7 @@ member:
   - Chinese: 岳祺
     email: u0511048@smail.nuu.edu.tw
     id: U0511048
-    name: 岳祺
+    name: Bill
     password: qi
     rating: ~
   - Chinese: 邱繽慧
@@ -66,7 +66,7 @@ member:
   - Chinese: 蘇皓晨
     email: u0543025@smail.nuu.edu.tw
     id: U0543025
-    name: 蘇皓晨
+    name: Harry
     password: hao
     rating: ~
   - Chinese: 邱晟芳
@@ -78,7 +78,7 @@ member:
   - Chinese: 吳映萱
     email: u0543042@smail.nuu.edu.tw
     id: U0543042
-    name: 吳映萱
+    name: Christina
     password: ying
     rating: ~
   - Chinese: 吳侑蓁
@@ -90,7 +90,7 @@ member:
   - Chinese: 張彥閔
     email: u0543051@smail.nuu.edu.tw
     id: U0543051
-    name: 張彥閔
+    name: Jackson
     password: yan
     rating: ~
   - Chinese: 尤怡鈞
@@ -316,7 +316,7 @@ member:
     password: ting
     rating: ~
 out: ~
-room: A706
+room: A705
 school: nuu
 session:
   1: 0
