@@ -197,6 +197,21 @@ member:
     name: Grant
     password: bo
     rating: ~
+  - Chinese: 蔡育哲
+    email: u0711305@smail.nuu.edu.tw
+    id: U0711305
+    name: 蔡育哲
+    password: yu
+  - Chinese: 簡秀玲
+    email: u0711307@smail.nuu.edu.tw
+    id: U0711307
+    name: 簡秀玲
+    password: xiu
+  - Chinese: 孫毅
+    email: u0711344@smail.nuu.edu.tw
+    id: U0711344
+    name: 孫毅
+    password: yi
 out:
   - Chinese: 黃教頤
     email: u0622202@smail.nuu.edu.tw
