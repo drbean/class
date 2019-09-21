@@ -15,6 +15,13 @@ hwMax: 2
 id: 081GL00027
 league: 日語文共同學制虛擬班二乙        高來圭
 member:
+  - Chinese: 翁Chi惠
+    id: U0714130
+    name: ChiHui
+    password: chi
+    email: u0714130@smail.nuu.edu.tw
+    rating: 
+  
   - Chinese: 楊栢勝
     email: u0523033@smail.nuu.edu.tw
     id: U0523033
