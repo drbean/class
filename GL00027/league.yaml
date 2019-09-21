@@ -116,7 +116,7 @@ member:
   - Chinese: 黃茵
     email: u0416037@smail.nuu.edu.tw
     id: U0416037
-    name: Yin
+    name: HuangYin
     password: yin
     rating: ~
   - Chinese: 林宜志
@@ -210,7 +210,7 @@ member:
   - Chinese: 孫毅
     email: u0711344@smail.nuu.edu.tw
     id: U0711344
-    name: Yi
+    name: SunYi
     password: yi
 out:
   - Chinese: 黃教頤
