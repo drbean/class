@@ -14,6 +14,13 @@ hwMax: 3
 id: 081BMA0034
 league: 日經管三甲
 member:
+  - Chinese: 呂坤燁
+    email: u0533037@smail.nuu.edu.tw
+    id: U0533037
+    name: Bryant
+    password: kun
+    rating: ~
+  
   - Chinese: 潘安平
     email: u0518025@smail.nuu.edu.tw
     id: U0518025
