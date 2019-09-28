@@ -15,25 +15,19 @@ hwMax: 2
 id: 081GL00027
 league: 日語文共同學制虛擬班二乙        高來圭
 member:
-  - Chinese: 何采凌
-    email: U0517048@smail.nuu.edu.tw
-    id: U0517048
-    name: Carol
-    password: cai
+  
+  - Chinese: 李沛誼
+    id: U0824007
+    name: 李沛誼
+    password: pei
+    email: U0824007@smail.nuu.edu.tw
     rating: 
   
 
-  - Chinese: 翁Chi惠
-    email: u0714130@smail.nuu.edu.tw
-    id: U0714130
-    name: ChiHui
-    password: chi
-    rating: 
-  
   - Chinese: 楊栢勝
     email: u0523033@smail.nuu.edu.tw
     id: U0523033
-    name: 楊栢勝
+    name: Henry
     password: bai
     rating: ~
   - Chinese: 林葳沁
@@ -69,14 +63,8 @@ member:
   - Chinese: 陳晁偉
     email: u0611146@smail.nuu.edu.tw
     id: U0611146
-    name: Tin
+    name: Andy
     password: chao
-    rating: ~
-  - Chinese: 張宏銘
-    email: u0623045@smail.nuu.edu.tw
-    id: U0623045
-    name: Krisgart
-    password: hong
     rating: ~
   - Chinese: 林揚議
     email: u0623142@smail.nuu.edu.tw
@@ -87,7 +75,7 @@ member:
   - Chinese: 張庭瑋
     email: u0721146@smail.nuu.edu.tw
     id: U0721146
-    name: Andy
+    name: Tin
     password: ting
     rating: ~
   - Chinese: 徐嘉澤
@@ -127,12 +115,6 @@ member:
     name: HuangYin
     password: yin
     rating: ~
-  - Chinese: 林宜志
-    email: u0421046@smail.nuu.edu.tw
-    id: U0421046
-    name: LinYi
-    password: yi
-    rating: ~
   - Chinese: 岳祺
     email: u0511048@smail.nuu.edu.tw
     id: U0511048
@@ -148,7 +130,7 @@ member:
   - Chinese: 許鎧麒
     email: u0617034@smail.nuu.edu.tw
     id: U0617034
-    name: Henry
+    name: Kenny
     password: kai
     rating: ~
   - Chinese: 翁學民
@@ -205,22 +187,49 @@ member:
     name: Grant
     password: bo
     rating: ~
-  - Chinese: 蔡育哲
-    email: u0711305@smail.nuu.edu.tw
-    id: U0711305
-    name: YuZhe
-    password: yu
-  - Chinese: 簡秀玲
-    email: u0711307@smail.nuu.edu.tw
-    id: U0711307
-    name: Sherry
-    password: xiu
+out:
   - Chinese: 孫毅
     email: u0711344@smail.nuu.edu.tw
     id: U0711344
     name: SunYi
     password: yi
-out:
+    rating: ~
+  - Chinese: 簡秀玲
+    email: u0711307@smail.nuu.edu.tw
+    id: U0711307
+    name: Sherry
+    password: xiu
+    rating: ~
+  - Chinese: 蔡育哲
+    email: u0711305@smail.nuu.edu.tw
+    id: U0711305
+    name: YuZhe
+    password: yu
+  - Chinese: 林宜志
+    email: u0421046@smail.nuu.edu.tw
+    id: U0421046
+    name: LinYi
+    password: yi
+    rating: ~
+  - Chinese: 張宏銘
+    email: u0623045@smail.nuu.edu.tw
+    id: U0623045
+    name: Krisgart
+    password: hong
+    rating: ~
+  - Chinese: 翁Chi惠
+    email: u0714130@smail.nuu.edu.tw
+    id: U0714130
+    name: ChiHui
+    password: chi
+    rating: 
+  
+  - Chinese: 何采凌
+    email: U0517048@smail.nuu.edu.tw
+    id: U0517048
+    name: Carol
+    password: cai
+    rating: 
   - Chinese: 黃教頤
     email: u0622202@smail.nuu.edu.tw
     id: U0622202
