@@ -53,7 +53,7 @@ member:
   - Chinese: 邱敬丝
     email: u0631101@smail.nuu.edu.tw
     id: U0631101
-    name: 邱敬丝
+    name: JinShi
     password: jing
     rating: ~
   - Chinese: 張慧君
@@ -65,7 +65,7 @@ member:
   - Chinese: 謝佩珊
     email: u0631103@smail.nuu.edu.tw
     id: U0631103
-    name: 謝佩珊
+    name: PeiShan
     password: pei
     rating: ~
   - Chinese: 蔡一菲
@@ -215,7 +215,7 @@ member:
   - Chinese: 劉彥鋒
     email: u0631135@smail.nuu.edu.tw
     id: U0631135
-    name: 劉彥鋒
+    name: Ben
     password: yan
     rating: ~
   - Chinese: 林祐安
