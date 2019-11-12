@@ -14,12 +14,6 @@ hwMax: 3
 id: 081CLA0026
 league: 日華文三甲
 member:
-- Chinese: 邱怡欣
-  email: U0543002@smail.nuu.edu.tw
-  id: U0543002
-  name: 邱怡欣
-  password: yi
-  rating: 0
 - Chinese: 李睿騰
   email: u0643062@smail.nuu.edu.tw
   id: U0643062
@@ -105,6 +99,13 @@ member:
   password: ting
   rating: 89
 out:
+- Chinese: 邱怡欣
+  email: U0543002@smail.nuu.edu.tw
+  id: U0543002
+  name: 邱怡欣
+  password: yi
+  rating: 0
+
 - Chinese: 楊愷倪
   email: u0643036@smail.nuu.edu.tw
   id: U0643036
