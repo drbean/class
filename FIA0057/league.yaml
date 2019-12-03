@@ -19,278 +19,277 @@ member:
     id: U0634024
     name: Eric1
     password: yuan
-    rating: 
-  
+    rating: 14
   - Chinese: 鄒嘉慧
     email: u0531129@smail.nuu.edu.tw
     id: U0531129
     name: Kayi
     password: jia
-    rating: ~
+    rating: 5
   - Chinese: 葉萬霖
     email: u0533026@smail.nuu.edu.tw
     id: U0533026
     name: WanLin
     password: wan
-    rating: ~
+    rating: 11
   - Chinese: 林育暘
     email: u0534014@smail.nuu.edu.tw
     id: U0534014
     name: Uyang
     password: yu
-    rating: ~
+    rating: 14
   - Chinese: 許晉銘
     email: u0534017@smail.nuu.edu.tw
     id: U0534017
     name: Bernie
     password: jin
-    rating: ~
+    rating: 12
   - Chinese: 童紹哲
     email: u0534048@smail.nuu.edu.tw
     id: U0534048
     name: Johnny
     password: shao
-    rating: ~
+    rating: 6
   - Chinese: 莊昌憲
     email: u0631226@smail.nuu.edu.tw
     id: U0631226
     name: David
     password: chang
-    rating: ~
+    rating: 16
   - Chinese: 莊薇虹
     email: u0634001@smail.nuu.edu.tw
     id: U0634001
     name: Huong
     password: wei
-    rating: ~
+    rating: 14
   - Chinese: 張敬家
     email: u0634005@smail.nuu.edu.tw
     id: U0634005
     name: Melody
     password: jing
-    rating: ~
+    rating: 17
   - Chinese: 楊雅婷
     email: u0634006@smail.nuu.edu.tw
     id: U0634006
     name: YaTing
     password: ya
-    rating: ~
+    rating: 13
   - Chinese: 黃中岳
     email: u0634008@smail.nuu.edu.tw
     id: U0634008
     name: Eddie
     password: zhong
-    rating: ~
+    rating: 17
   - Chinese: 林敬和
     email: u0634009@smail.nuu.edu.tw
     id: U0634009
     name: Jimmy
     password: jing
-    rating: ~
+    rating: 17
   - Chinese: 李湘綺
     email: u0634010@smail.nuu.edu.tw
     id: U0634010
     name: Linda
     password: xiang
-    rating: ~
+    rating: 13
   - Chinese: 黃佳瑩
     email: u0634011@smail.nuu.edu.tw
     id: U0634011
     name: Anny
     password: jia
-    rating: ~
+    rating: 16
   - Chinese: 黃靖芸
     email: u0634012@smail.nuu.edu.tw
     id: U0634012
     name: JingYun
     password: jing
-    rating: ~
+    rating: 15
   - Chinese: 蔡育樺
     email: u0634013@smail.nuu.edu.tw
     id: U0634013
     name: YuHua
     password: yu
-    rating: ~
+    rating: 12
   - Chinese: 陳怡君
     email: u0634015@smail.nuu.edu.tw
     id: U0634015
     name: Lucy
     password: yi
-    rating: ~
+    rating: 17
   - Chinese: 曾德倫
     email: u0634016@smail.nuu.edu.tw
     id: U0634016
     name: Alan
     password: de
-    rating: ~
+    rating: 17
   - Chinese: 吳宜蓁
     email: u0634017@smail.nuu.edu.tw
     id: U0634017
     name: YiZhen
     password: yi
-    rating: ~
+    rating: 16
   - Chinese: 李慧珍
     email: u0634019@smail.nuu.edu.tw
     id: U0634019
     name: Emily
     password: hui
-    rating: ~
+    rating: 14
   - Chinese: 謝宜軒
     email: u0634020@smail.nuu.edu.tw
     id: U0634020
     name: Stephanie
     password: yi
-    rating: ~
+    rating: 15
   - Chinese: 王羿茹
     email: u0634026@smail.nuu.edu.tw
     id: U0634026
     name: QiRu
     password: yi
-    rating: ~
+    rating: 14
   - Chinese: 李亮穎
     email: u0634030@smail.nuu.edu.tw
     id: U0634030
     name: Jenna
     password: liang
-    rating: ~
+    rating: 13
   - Chinese: 丘尚文
     email: u0634031@smail.nuu.edu.tw
     id: U0634031
     name: Wayne
     password: shang
-    rating: ~
+    rating: 17
   - Chinese: 鍾宜君
     email: u0634032@smail.nuu.edu.tw
     id: U0634032
     name: Ella
     password: yi
-    rating: ~
+    rating: 15
   - Chinese: 陳慈軒
     email: u0634034@smail.nuu.edu.tw
     id: U0634034
     name: Amy
     password: ci
-    rating: ~
+    rating: 17
   - Chinese: 林庭琪
     email: u0634035@smail.nuu.edu.tw
     id: U0634035
     name: TingChi
     password: ting
-    rating: ~
+    rating: 16
   - Chinese: 林翔遠
     email: u0634037@smail.nuu.edu.tw
     id: U0634037
     name: Andy
     password: xiang
-    rating: ~
+    rating: 16
   - Chinese: 石秉弘
     email: u0634038@smail.nuu.edu.tw
     id: U0634038
     name: Eric2
     password: bing
-    rating: ~
+    rating: 17
   - Chinese: 黃思豪
     email: u0634039@smail.nuu.edu.tw
     id: U0634039
     name: Adam
     password: si
-    rating: ~
+    rating: 16
   - Chinese: 葉展平
     email: u0634040@smail.nuu.edu.tw
     id: U0634040
     name: Yeh
     password: zhan
-    rating: ~
+    rating: 9
   - Chinese: 陳宥瑄
     email: u0634041@smail.nuu.edu.tw
     id: U0634041
     name: YouXuan
     password: you
-    rating: ~
+    rating: 15
   - Chinese: 許家泰
     email: u0634043@smail.nuu.edu.tw
     id: U0634043
     name: Tad
     password: jia
-    rating: ~
+    rating: 8
   - Chinese: 王憶庭
     email: u0634044@smail.nuu.edu.tw
     id: U0634044
     name: YiTing
     password: yi
-    rating: ~
+    rating: 16
   - Chinese: 蔡秉均
     email: u0634045@smail.nuu.edu.tw
     id: U0634045
     name: Steven
     password: bing
-    rating: ~
+    rating: 16
   - Chinese: 蕭詠心
     email: u0634046@smail.nuu.edu.tw
     id: U0634046
     name: Cindy
     password: yong
-    rating: ~
+    rating: 14
   - Chinese: 何昇柏
     email: u0634047@smail.nuu.edu.tw
     id: U0634047
     name: Jason
     password: sheng
-    rating: ~
+    rating: 17
   - Chinese: 陳家滿
     email: u0634049@smail.nuu.edu.tw
     id: U0634049
     name: JiaMan
     password: jia
-    rating: ~
+    rating: 14
   - Chinese: 吳鎮堡
     email: u0634050@smail.nuu.edu.tw
     id: U0634050
     name: Kevin
     password: zhen
-    rating: ~
+    rating: 17
   - Chinese: 李安和
     email: u0634051@smail.nuu.edu.tw
     id: U0634051
     name: Ken
     password: an
-    rating: ~
+    rating: 11
   - Chinese: 陳志勤
     email: u0634053@smail.nuu.edu.tw
     id: U0634053
     name: ZhiChin
     password: zhi
-    rating: ~
+    rating: 9
   - Chinese: 林雅婷
     email: u0634055@smail.nuu.edu.tw
     id: U0634055
     name: Amber
     password: ya
-    rating: ~
+    rating: 16
   - Chinese: 林欣儀
     email: u0634056@smail.nuu.edu.tw
     id: U0634056
     name: XinYi
     password: xin
-    rating: ~
+    rating: 17
   - Chinese: 張語凡
     email: u0634057@smail.nuu.edu.tw
     id: U0634057
     name: Vivian
     password: yu
-    rating: ~
+    rating: 17
   - Chinese: 方蘊葶
     email: u0634058@smail.nuu.edu.tw
     id: U0634058
     name: Novia
     password: yun
-    rating: ~
+    rating: 16
   - Chinese: 黃雅惠
     email: u0634060@smail.nuu.edu.tw
     id: U0634060
     name: YaHui
     password: ya
-    rating: ~
+    rating: 6
 out: ~
 room: A706
 school: nuu
