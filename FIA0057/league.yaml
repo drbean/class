@@ -309,7 +309,6 @@ session:
   0: 0
   1: 1
   2: 9
-  3: 10
 weights:
   classwork: 40
   exams: 20
