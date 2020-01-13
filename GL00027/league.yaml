@@ -5,7 +5,7 @@ anterior: 052GL00036
 approach: Individual
 classMax: 3
 compcomp: comp
-examMax: 5
+examMax: 100
 exams: exam
 field: 多益口說與寫作測驗分析
 group: session
@@ -243,7 +243,7 @@ out:
   name: 呂彥儒
   password: yan
   rating: ~
-room: A706
+room: A705
 school: nuu
 session:
   '1': 7
