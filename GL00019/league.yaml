@@ -16,61 +16,73 @@ id: 082GL00019
 league: 日語文共同學制虛擬班二甲        高來圭
 member:
   - Chinese: 張淳雁
+    email: u0457021@smail.nuu.edu.tw
     id: U0457021
     name: 張淳雁
     password: chun
     rating: ~
   - Chinese: 蘇冠綸
+    email: u0518005@smail.nuu.edu.tw
     id: U0518005
     name: 蘇冠綸
     password: guan
     rating: ~
   - Chinese: 陳穎震
+    email: u0522202@smail.nuu.edu.tw
     id: U0522202
     name: 陳穎震
     password: ying
     rating: ~
   - Chinese: 謝宏佶
+    email: u0522217@smail.nuu.edu.tw
     id: U0522217
     name: 謝宏佶
     password: hong
     rating: ~
   - Chinese: 徐薇雅
+    email: u0533017@smail.nuu.edu.tw
     id: U0533017
     name: Angel
     password: wei
     rating: ~
   - Chinese: 洪章凱
+    email: u0710018@smail.nuu.edu.tw
     id: U0710018
     name: 洪章凱
     password: zhang
     rating: ~
   - Chinese: 呂佳恩
+    email: u0758013@smail.nuu.edu.tw
     id: U0758013
     name: 呂佳恩
     password: jia
     rating: ~
   - Chinese: 詹雅琪
+    email: u0758018@smail.nuu.edu.tw
     id: U0758018
     name: 詹雅琪
     password: ya
     rating: ~
   - Chinese: 張家瑄
+    email: u0758019@smail.nuu.edu.tw
     id: U0758019
     name: 張家瑄
     password: jia
     rating: ~
   - Chinese: 陳亭安
+    email: u0758023@smail.nuu.edu.tw
     id: U0758023
     name: TA
     password: ting
     rating: ~
   - Chinese: 廖桓君
+    email: u0758033@smail.nuu.edu.tw
     id: U0758033
     name: 廖桓君
     password: huan
     rating: ~
   - Chinese: 陳巧蓉
+    email: u0758038@smail.nuu.edu.tw
     id: U0758038
     name: 陳巧蓉
     password: qiao
