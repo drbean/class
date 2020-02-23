@@ -1,0 +1,91 @@
+---
+absent: ~
+active: ~
+anterior: 081GL00027
+approach: Individual
+classMax: 3
+compcomp: comp
+examMax: 100
+exams: exam
+field: 動漫中級英文聽說訓練
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 082GL00019
+league: 日語文共同學制虛擬班二甲        高來圭
+member:
+  - Chinese: 張淳雁
+    id: U0457021
+    name: 張淳雁
+    password: chun
+    rating: ~
+  - Chinese: 蘇冠綸
+    id: U0518005
+    name: 蘇冠綸
+    password: guan
+    rating: ~
+  - Chinese: 陳穎震
+    id: U0522202
+    name: 陳穎震
+    password: ying
+    rating: ~
+  - Chinese: 謝宏佶
+    id: U0522217
+    name: 謝宏佶
+    password: hong
+    rating: ~
+  - Chinese: 徐薇雅
+    id: U0533017
+    name: Angel
+    password: wei
+    rating: ~
+  - Chinese: 洪章凱
+    id: U0710018
+    name: 洪章凱
+    password: zhang
+    rating: ~
+  - Chinese: 呂佳恩
+    id: U0758013
+    name: 呂佳恩
+    password: jia
+    rating: ~
+  - Chinese: 詹雅琪
+    id: U0758018
+    name: 詹雅琪
+    password: ya
+    rating: ~
+  - Chinese: 張家瑄
+    id: U0758019
+    name: 張家瑄
+    password: jia
+    rating: ~
+  - Chinese: 陳亭安
+    id: U0758023
+    name: TA
+    password: ting
+    rating: ~
+  - Chinese: 廖桓君
+    id: U0758033
+    name: 廖桓君
+    password: huan
+    rating: ~
+  - Chinese: 陳巧蓉
+    id: U0758038
+    name: 陳巧蓉
+    password: qiao
+    rating: ~
+out:
+room: A705
+school: nuu
+session:
+  1: 7
+  2: 9
+  3: 11
+  4: 13
+  5: 15
+  6: 17
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
