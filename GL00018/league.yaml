@@ -1,0 +1,133 @@
+---
+absent: ~
+active: ~
+anterior: 082GL00018
+approach: Individual
+classMax: 3
+compcomp: comp
+examMax: 100
+exams: exam
+field: 中級英文聽說訓練
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 082GL00018
+league: 日語文共同學制虛擬班二甲 高來圭
+member:
+  - Chinese: 劉洤瑋
+    email: u0514032@smail.nuu.edu.tw
+    id: U0514032
+    name: 劉洤瑋
+    password: quan
+    rating: ~
+  - Chinese: 程詩涵
+    email: u0518018@smail.nuu.edu.tw
+    id: U0518018
+    name: 程詩涵
+    password: shi
+    rating: ~
+  - Chinese: 王博生
+    email: u0521233@smail.nuu.edu.tw
+    id: U0521233
+    name: 王博生
+    password: bo
+    rating: ~
+  - Chinese: 賴建宇
+    email: u0521237@smail.nuu.edu.tw
+    id: U0521237
+    name: 賴建宇
+    password: jian
+    rating: ~
+  - Chinese: 巫沛釗
+    email: u0533043@smail.nuu.edu.tw
+    id: U0533043
+    name: Neal
+    password: pei
+    rating: ~
+  - Chinese: 王韡璇
+    email: u0614132@smail.nuu.edu.tw
+    id: U0614132
+    name: 王韡璇
+    password: wei
+    rating: ~
+  - Chinese: 何溢鴻
+    email: u0617019@smail.nuu.edu.tw
+    id: U0617019
+    name: 何溢鴻
+    password: yi
+    rating: ~
+  - Chinese: 陳安皓
+    email: u0617030@smail.nuu.edu.tw
+    id: U0617030
+    name: 陳安皓
+    password: an
+    rating: ~
+  - Chinese: 陳婷蕾
+    email: u0623104@smail.nuu.edu.tw
+    id: U0623104
+    name: 陳婷蕾
+    password: ting
+    rating: ~
+  - Chinese: 林子傑
+    email: u0623131@smail.nuu.edu.tw
+    id: U0623131
+    name: 林子傑
+    password: zi
+    rating: ~
+  - Chinese: 謝沛宏
+    email: u0623145@smail.nuu.edu.tw
+    id: U0623145
+    name: 謝沛宏
+    password: pei
+    rating: ~
+  - Chinese: 許詹敦惟
+    email: u0624046@smail.nuu.edu.tw
+    id: U0624046
+    name: 許詹敦惟
+    password: zhan
+    rating: ~
+  - Chinese: 黃靜雯
+    email: u0718004@smail.nuu.edu.tw
+    id: U0718004
+    name: 黃靜雯
+    password: jing
+    rating: ~
+  - Chinese: 陳雯琦
+    email: u0718013@smail.nuu.edu.tw
+    id: U0718013
+    name: 陳雯琦
+    password: wen
+    rating: ~
+  - Chinese: 王馨卉
+    email: u0811119@smail.nuu.edu.tw
+    id: U0811119
+    name: 王馨卉
+    password: xin
+    rating: ~
+  - Chinese: 蔡姿妤
+    email: u0813037@smail.nuu.edu.tw
+    id: U0813037
+    name: 蔡姿妤
+    password: zi
+    rating: ~
+  - Chinese: 李欣芳
+    email: u0831252@smail.nuu.edu.tw
+    id: U0831252
+    name: 李欣芳
+    password: xin
+    rating: ~
+out: ~
+room: A705
+school: nuu
+session:
+  1: 7
+  2: 9
+  3: 11
+  4: 13
+  5: 15
+  6: 17
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
