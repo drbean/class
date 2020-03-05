@@ -1,0 +1,133 @@
+---
+absent: ~
+active: ~
+anterior: 081GL00027
+approach: Individual
+classMax: 3
+compcomp: comp
+examMax: 100
+exams: exam
+field: 多益口說與寫作測驗分析
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 083GL00020
+league: 日語文共同學制虛擬班二甲       高來圭
+member:
+  - Chinese: 江佳俞
+    email: u0416015@smail.nuu.edu.tw
+    id: U0416015
+    name: 江佳俞
+    password: jia
+    rating: ~
+  - Chinese: 徐琳雅
+    email: u0416059@smail.nuu.edu.tw
+    id: U0416059
+    name: 徐琳雅
+    password: lin
+    rating: ~
+  - Chinese: 沈姵含
+    email: u0416060@smail.nuu.edu.tw
+    id: U0416060
+    name: 沈姵含
+    password: pei
+    rating: ~
+  - Chinese: 黎懿嫻
+    email: u0516043@smail.nuu.edu.tw
+    id: U0516043
+    name: 黎懿嫻
+    password: yi
+    rating: ~
+  - Chinese: 徐珷哲
+    email: u0521110@smail.nuu.edu.tw
+    id: U0521110
+    name: 徐珷哲
+    password: wu
+    rating: ~
+  - Chinese: 褚御智
+    email: u0522215@smail.nuu.edu.tw
+    id: U0522215
+    name: 褚御智
+    password: yu
+    rating: ~
+  - Chinese: 郭永寬
+    email: u0523014@smail.nuu.edu.tw
+    id: U0523014
+    name: 郭永寬
+    password: yong
+    rating: ~
+  - Chinese: 洪千惠
+    email: u0542015@smail.nuu.edu.tw
+    id: U0542015
+    name: 洪千惠
+    password: qian
+    rating: ~
+  - Chinese: 邱晟芳
+    email: u0543041@smail.nuu.edu.tw
+    id: U0543041
+    name: Myron
+    password: cheng
+    rating: ~
+  - Chinese: 謝佳隆
+    email: u0611107@smail.nuu.edu.tw
+    id: U0611107
+    name: 謝佳隆
+    password: jia
+    rating: ~
+  - Chinese: 張立璇
+    email: u0613051@smail.nuu.edu.tw
+    id: U0613051
+    name: 張立璇
+    password: li
+    rating: ~
+  - Chinese: 賈宜蓁
+    email: u0622120@smail.nuu.edu.tw
+    id: U0622120
+    name: 賈宜蓁
+    password: yi
+    rating: ~
+  - Chinese: 黃子瑜
+    email: u0622149@smail.nuu.edu.tw
+    id: U0622149
+    name: 黃子瑜
+    password: zi
+    rating: ~
+  - Chinese: 莊傑仁
+    email: u0623007@smail.nuu.edu.tw
+    id: U0623007
+    name: 莊傑仁
+    password: jie
+    rating: ~
+  - Chinese: 張立賢
+    email: u0711005@smail.nuu.edu.tw
+    id: U0711005
+    name: 張立賢
+    password: li
+    rating: ~
+  - Chinese: 曾昱勻
+    email: u0731006@smail.nuu.edu.tw
+    id: U0731006
+    name: 曾昱勻
+    password: yu
+    rating: ~
+  - Chinese: 鄭椲齡
+    email: u0743056@smail.nuu.edu.tw
+    id: U0743056
+    name: 鄭椲齡
+    password: wei
+    rating: ~
+out: ~
+room: A705
+school: nuu
+session:
+  1: 7
+  2: 9
+  3: 11
+  4: 13
+  5: 15
+  6: 17
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
