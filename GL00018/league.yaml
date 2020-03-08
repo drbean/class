@@ -30,7 +30,7 @@ member:
   - Chinese: 王博生
     email: u0521233@smail.nuu.edu.tw
     id: U0521233
-    name: 王博生
+    name: Ballson
     password: bo
     rating: ~
   - Chinese: 賴建宇
@@ -48,7 +48,7 @@ member:
   - Chinese: 王韡璇
     email: u0614132@smail.nuu.edu.tw
     id: U0614132
-    name: 王韡璇
+    name: Sherry
     password: wei
     rating: ~
   - Chinese: 何溢鴻
@@ -66,19 +66,19 @@ member:
   - Chinese: 陳婷蕾
     email: u0623104@smail.nuu.edu.tw
     id: U0623104
-    name: 陳婷蕾
+    name: Tina
     password: ting
     rating: ~
   - Chinese: 林子傑
     email: u0623131@smail.nuu.edu.tw
     id: U0623131
-    name: 林子傑
+    name: Jay
     password: zi
     rating: ~
   - Chinese: 謝沛宏
     email: u0623145@smail.nuu.edu.tw
     id: U0623145
-    name: 謝沛宏
+    name: Rex
     password: pei
     rating: ~
   - Chinese: 許詹敦惟
@@ -90,13 +90,13 @@ member:
   - Chinese: 黃靜雯
     email: u0718004@smail.nuu.edu.tw
     id: U0718004
-    name: 黃靜雯
+    name: Emily
     password: jing
     rating: ~
   - Chinese: 陳雯琦
     email: u0718013@smail.nuu.edu.tw
     id: U0718013
-    name: 陳雯琦
+    name: Audrey
     password: wen
     rating: ~
   - Chinese: 王馨卉
@@ -114,7 +114,7 @@ member:
   - Chinese: 李欣芳
     email: u0831252@smail.nuu.edu.tw
     id: U0831252
-    name: 李欣芳
+    name: Jane
     password: xin
     rating: ~
 out: ~
