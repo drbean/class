@@ -15,6 +15,13 @@ hwMax: 2
 id: 082GL00018
 league: 日語文共同學制虛擬班二甲 高來圭
 member:
+  - Chinese: 吳昱璇
+    id: U0614140
+    name: Sharon
+    password: yu
+    email: u0614140@smail.nuu.edu.tw
+    rating: ~
+  
   - Chinese: 劉洤瑋
     email: u0514032@smail.nuu.edu.tw
     id: U0514032
