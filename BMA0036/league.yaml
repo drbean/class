@@ -14,6 +14,13 @@ hwMax: 3
 id: 082BMA0036
 league: 日經管三甲
 member:
+  - Chinese: 楊中玉
+    id: barry
+    name: Barry
+    password: zhong
+    email: bcyyang@gmail.com
+    rating: ~
+  
   - Chinese: 潘安平
     email: u0518025@smail.nuu.edu.tw
     id: U0518025
