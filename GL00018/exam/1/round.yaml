@@ -1,0 +1,30 @@
+---
+round: Exam 1
+week: 9
+questions:
+  - 10
+pass: 3
+assistant:
+absent:
+text: /home/drbean/curriculum/conversation/work/cards.yaml
+activity:
+  abreu:
+    3:
+      - 1
+  dickson:
+    2:
+      - 2
+      - 3
+group:
+  1:
+    - Tina
+    - Jay
+    - Ballson
+  2:
+    - Sharon
+    - Sherry
+    - Ellsa
+  3:
+    - Tina
+    - Jay
+    - Rex
