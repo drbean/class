@@ -14,12 +14,12 @@ hwMax: 3
 id: 082BMA0036
 league: 日經管三甲
 member:
-  - Chinese: 楊中玉
-    id: barry
-    name: Barry
-    password: zhong
-    email: bcyyang@gmail.com
-    rating: ~
+  #- Chinese: 楊中玉
+  #  id: barry
+  #  name: Barry
+  #  password: zhong
+  #  email: bcyyang@gmail.com
+  #  rating: ~
   
   - Chinese: 潘安平
     email: u0518025@smail.nuu.edu.tw
@@ -32,18 +32,6 @@ member:
     id: U0531042
     name: RueiShiuan
     password: rui
-    rating: ~
-  - Chinese: 吳宜玲
-    email: u0531120@smail.nuu.edu.tw
-    id: U0531120
-    name: Nini
-    password: yi
-    rating: ~
-  - Chinese: 徐兆寬
-    email: u0531155@smail.nuu.edu.tw
-    id: U0531155
-    name: JhaoKuan
-    password: zhao
     rating: ~
   - Chinese: 顏薇芳
     email: u0631003@smail.nuu.edu.tw
@@ -201,12 +189,6 @@ member:
     name: KuanLing
     password: guan
     rating: ~
-  - Chinese: 林維祥
-    email: u0631035@smail.nuu.edu.tw
-    id: U0631035
-    name: Steward
-    password: wei
-    rating: ~
   - Chinese: 李育綸
     email: u0631036@smail.nuu.edu.tw
     id: U0631036
@@ -297,12 +279,6 @@ member:
     name: Larry
     password: heng
     rating: ~
-  - Chinese: 易夢琪
-    email: u0631053@smail.nuu.edu.tw
-    id: U0631053
-    name: Daniel
-    password: meng
-    rating: ~
   - Chinese: 張宛盈
     email: u0633008@smail.nuu.edu.tw
     id: U0633008
@@ -322,6 +298,30 @@ member:
     password: yu
     rating: ~
 out:
+  - Chinese: 徐兆寬
+    email: u0531155@smail.nuu.edu.tw
+    id: U0531155
+    name: JhaoKuan
+    password: zhao
+    rating: ~
+  - Chinese: 吳宜玲
+    email: u0531120@smail.nuu.edu.tw
+    id: U0531120
+    name: Nini
+    password: yi
+    rating: ~
+  - Chinese: 易夢琪
+    email: u0631053@smail.nuu.edu.tw
+    id: U0631053
+    name: Daniel
+    password: meng
+    rating: ~
+  - Chinese: 林維祥
+    email: u0631035@smail.nuu.edu.tw
+    id: U0631035
+    name: Steward
+    password: wei
+    rating: ~
 room: A706
 school: nuu
 session:
