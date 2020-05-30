@@ -1,0 +1,116 @@
+---
+absent: ~
+active: ~
+anterior: 082GL00020
+approach: Individual
+classMax: 3
+compcomp: comp
+examMax: 100
+exams: exam
+field: 多益口說與寫作測驗分析
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 2
+id: 083GL00020
+league: 日語文共同學制虛擬班二甲       高來圭
+member:
+  - Chinese: ~
+    id: ~
+    name: Max
+    password: ~
+    email: ~
+    rating: ~
+  - Chinese: ~
+    id: ~
+    name: Ray
+    password: ~
+    email: ~
+    rating: ~
+  - Chinese: ~
+    id: ~
+    name: Lucas
+    password: ~
+    email: ~
+    rating: ~
+  - Chinese: ~
+    id: ~
+    name: Bryan
+    password: ~
+    email: ~
+    rating: ~
+  - Chinese: ~
+    id: ~
+    name: Jason Huang
+    password: ~
+    email: ~
+    rating: ~
+  - Chinese: ~
+    id: ~
+    name: Jason Hsu
+    password: ~
+    email: ~
+    rating: ~
+  - Chinese: ~
+    id: ~
+    name: John
+    password: ~
+    email: ~
+    rating: ~
+  - Chinese: ~
+    id: ~
+    name: Roslyn
+    password: ~
+    email: ~
+    rating: ~
+  - Chinese: ~
+    id: ~
+    name: Rita
+    password: ~
+    email: ~
+    rating: ~
+  - Chinese: ~
+    id: ~
+    name: Victoria
+    password: ~
+    email: ~
+    rating: ~
+  - Chinese: ~
+    id: ~
+    name: Fisher
+    password: ~
+    email: ~
+    rating: ~
+  - Chinese: ~
+    id: ~
+    name: Emily
+    password: ~
+    email: ~
+    rating: ~
+  - Chinese: ~
+    id: ~
+    name: Katrina
+    password: ~
+    email: ~
+    rating: ~
+  - Chinese: ~
+    id: ~
+    name: Renee
+    password: ~
+    email: ~
+    rating: ~
+  
+out: ~
+room: saturn
+school: vance
+session:
+  1: 7
+  2: 9
+  3: 11
+  4: 13
+  5: 15
+  6: 17
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
