@@ -12,7 +12,7 @@ group: session
 groupwork: classwork
 hw: homework
 hwMax: 2
-id: 083GL00020
+id: Advanced B
 league: 日語文共同學制虛擬班二甲       高來圭
 member:
   - Chinese: ~
@@ -29,25 +29,19 @@ member:
     rating: ~
   - Chinese: ~
     id: ~
-    name: Lucas
-    password: ~
-    email: ~
-    rating: ~
-  - Chinese: ~
-    id: ~
     name: Bryan
     password: ~
     email: ~
     rating: ~
   - Chinese: ~
     id: ~
-    name: Jason Huang
+    name: JasonHuang
     password: ~
     email: ~
     rating: ~
   - Chinese: ~
     id: ~
-    name: Jason Hsu
+    name: JasonHsu
     password: ~
     email: ~
     rating: ~
@@ -100,7 +94,13 @@ member:
     email: ~
     rating: ~
   
-out: ~
+out:
+  - Chinese: ~
+    id: ~
+    name: Lucas
+    password: ~
+    email: ~
+    rating: ~
 room: saturn
 school: vance
 session:
