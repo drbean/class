@@ -16,79 +16,79 @@ id: Advanced B
 league: 日語文共同學制虛擬班二甲       高來圭
 member:
   - Chinese: ~
-    id: ~
+    id: V0832001
     name: Max
     password: ~
     email: ~
     rating: ~
   - Chinese: ~
-    id: ~
+    id: V0832002
     name: Ray
     password: ~
     email: ~
     rating: ~
   - Chinese: ~
-    id: ~
+    id: V0832003
     name: Bryan
     password: ~
     email: ~
     rating: ~
   - Chinese: ~
-    id: ~
+    id: V0832004
     name: JasonHuang
     password: ~
     email: ~
     rating: ~
   - Chinese: ~
-    id: ~
+    id: V0832005
     name: JasonHsu
     password: ~
     email: ~
     rating: ~
   - Chinese: ~
-    id: ~
+    id: V0832006
     name: John
     password: ~
     email: ~
     rating: ~
   - Chinese: ~
-    id: ~
+    id: V0832007
     name: Roslyn
     password: ~
     email: ~
     rating: ~
   - Chinese: ~
-    id: ~
+    id: V0832008
     name: Rita
     password: ~
     email: ~
     rating: ~
   - Chinese: ~
-    id: ~
+    id: V0832009
     name: Victoria
     password: ~
     email: ~
     rating: ~
   - Chinese: ~
-    id: ~
+    id: V0832010
     name: Fisher
     password: ~
     email: ~
     rating: ~
   - Chinese: ~
-    id: ~
+    id: V0832011
     name: Emily
     password: ~
     email: ~
     rating: ~
   - Chinese: ~
-    id: ~
+    id: V0832012
     name: Katrina
     password: ~
     email: ~
     rating: ~
   - Chinese: ~
-    id: ~
+    id: V0832013
     name: Renee
     password: ~
     email: ~
@@ -96,7 +96,7 @@ member:
   
 out:
   - Chinese: ~
-    id: ~
+    id: V0832014
     name: Lucas
     password: ~
     email: ~
