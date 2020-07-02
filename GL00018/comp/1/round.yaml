@@ -1,0 +1,32 @@
+---
+activity:
+  story:
+    0:
+      - 1
+      - 2
+      - 3
+      - 4
+assistant:
+bye: ~
+dispensation:
+divisions: ~
+group:
+  1:
+    White: U0518018
+    Black: U0521233
+  2:
+    White: U0614140
+    Black: U0614132
+  3:
+    White: U0623104
+    Black: U0623131
+  4:
+    White: U0623131
+    Black: U0623145
+late:
+  - 
+pairing: convenience--classmates
+payprotocol: meritPay 1
+round: 1
+text: /home/drbean/curriculum/conversation/work/cards.yaml
+week: 9
