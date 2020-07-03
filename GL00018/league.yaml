@@ -21,54 +21,18 @@ member:
     password: yu
     email: u0614140@smail.nuu.edu.tw
     rating: ~
-  
-  - Chinese: 劉洤瑋
-    email: u0514032@smail.nuu.edu.tw
-    id: U0514032
-    name: 劉洤瑋
-    password: quan
-    rating: ~
-  - Chinese: 程詩涵
-    email: u0518018@smail.nuu.edu.tw
-    id: U0518018
-    name: Ellsa
-    password: shi
-    rating: ~
-  - Chinese: 王博生
-    email: u0521233@smail.nuu.edu.tw
-    id: U0521233
-    name: Ballson
-    password: bo
-    rating: ~
-  - Chinese: 賴建宇
-    email: u0521237@smail.nuu.edu.tw
-    id: U0521237
-    name: 賴建宇
-    password: jian
-    rating: ~
-  - Chinese: 巫沛釗
-    email: u0533043@smail.nuu.edu.tw
-    id: U0533043
-    name: Neal
-    password: pei
-    rating: ~
   - Chinese: 王韡璇
     email: u0614132@smail.nuu.edu.tw
     id: U0614132
     name: Sherry
     password: wei
     rating: ~
-  - Chinese: 何溢鴻
-    email: u0617019@smail.nuu.edu.tw
-    id: U0617019
-    name: 何溢鴻
-    password: yi
-    rating: ~
-  - Chinese: 陳安皓
-    email: u0617030@smail.nuu.edu.tw
-    id: U0617030
-    name: 陳安皓
-    password: an
+  
+  - Chinese: 王博生
+    email: u0521233@smail.nuu.edu.tw
+    id: U0521233
+    name: Ballson
+    password: bo
     rating: ~
   - Chinese: 陳婷蕾
     email: u0623104@smail.nuu.edu.tw
@@ -88,6 +52,7 @@ member:
     name: Rex
     password: pei
     rating: ~
+out:
   - Chinese: 許詹敦惟
     email: u0624046@smail.nuu.edu.tw
     id: U0624046
@@ -124,7 +89,42 @@ member:
     name: Jane
     password: xin
     rating: ~
-out: ~
+  - Chinese: 賴建宇
+    email: u0521237@smail.nuu.edu.tw
+    id: U0521237
+    name: 賴建宇
+    password: jian
+    rating: ~
+  - Chinese: 巫沛釗
+    email: u0533043@smail.nuu.edu.tw
+    id: U0533043
+    name: Neal
+    password: pei
+    rating: ~
+  - Chinese: 何溢鴻
+    email: u0617019@smail.nuu.edu.tw
+    id: U0617019
+    name: 何溢鴻
+    password: yi
+    rating: ~
+  - Chinese: 陳安皓
+    email: u0617030@smail.nuu.edu.tw
+    id: U0617030
+    name: 陳安皓
+    password: an
+    rating: ~
+  - Chinese: 劉洤瑋
+    email: u0514032@smail.nuu.edu.tw
+    id: U0514032
+    name: 劉洤瑋
+    password: quan
+    rating: ~
+  - Chinese: 程詩涵
+    email: u0518018@smail.nuu.edu.tw
+    id: U0518018
+    name: Ellsa
+    password: shi
+    rating: ~
 room: A705
 school: nuu
 session:
