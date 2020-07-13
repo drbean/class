@@ -1,0 +1,35 @@
+---
+round: Exam 2
+week: 18
+questions:
+  - 10
+pass: 3
+assistant:
+absent:
+text: /home/drbean/curriculum/anime/contributed/cards.yaml
+activity:
+  nogamenolife:
+    2:
+      - 01
+  spongebobsquarepants:
+    2:
+      - 02
+  gumball:
+    2:
+      - 03
+group:
+  01:
+    - Lulu
+    - Jun
+    - Jane
+    - Grace
+  02:
+    - Angel
+    - Kevin
+    - Emily
+    - Jun
+  03:
+    - Wero
+    - Eve
+    - Gigi
+    - Jane

@@ -1,0 +1,39 @@
+---
+round: Exam 1
+week: 9
+questions:
+  - 10
+pass: 3
+assistant:
+absent:
+text: /home/drbean/curriculum/anime/contributed/cards.yaml
+activity:
+  lovecomedy:
+    1:
+      - 1
+  doraemon:
+    1:
+      - 2
+  patemainverted:
+    1:
+      - 3
+  violetevergarden:
+    1:
+      - 4
+group:
+  1:
+    - Jun
+    - Jane
+    - Gigi
+  2:
+    - Dina
+    - Angel
+    - Wero
+  3:
+    - Emily
+    - Grace
+    - Kevin
+  4:
+    - Lulu
+    - Eve
+    - Gigi
