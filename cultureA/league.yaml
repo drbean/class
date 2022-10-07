@@ -57,30 +57,9 @@ member:
     email: 
     rating: ~
   - Chinese: 
-    seat: 14
-    id: U0931207
-    name: Cindy
-    password: 
-    email: 
-    rating: ~
-  - Chinese: 
-    seat: 13
-    id: U0931212
-    name: Doris
-    password: 
-    email: 
-    rating: ~
-  - Chinese: 
-    seat: 12
-    id: U0931215
-    name: YuXian
-    password: 
-    email: 
-    rating: ~
-  - Chinese: 
-    seat: 11
-    id: U0931244
-    name: Sherry
+    seat: 09
+    id: U0931209
+    name: Gavin
     password: 
     email: 
     rating: ~
@@ -92,15 +71,36 @@ member:
     email: 
     rating: ~
   - Chinese: 
-    seat: 09
-    id: U0931209
-    name: Gavin
+    seat: 11
+    id: U0931244
+    name: Sherry
+    password: 
+    email: 
+    rating: ~
+  - Chinese: 
+    seat: 12
+    id: U0931215
+    name: YuXian
+    password: 
+    email: 
+    rating: ~
+  - Chinese: 
+    seat: 13
+    id: U0931212
+    name: Doris
+    password: 
+    email: 
+    rating: ~
+  - Chinese: 
+    seat: 14
+    id: U0931207
+    name: Cindy
     password: 
     email: 
     rating: ~
   - Chinese: 
     seat: 22
-    name: Dora
+    name: Piru
     id: U0931255
     password: 
     email: 
