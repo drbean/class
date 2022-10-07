@@ -92,6 +92,7 @@ member:
     email: 
     rating: ~
   - Chinese: 
+    seat: 09
     id: U0931209
     name: Gavin
     password: 
