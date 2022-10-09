@@ -1,0 +1,349 @@
+---
+absent: ~
+active: ~
+anterior: 111cultureA
+approach: Individual
+classMax: 3
+examMax: 100
+exams: exam
+field: 商用英文書信實務(二)
+group: session
+groupwork: classwork
+hw: homework
+hwMax: 3
+id: 111cultureB
+league: 日經管三乙
+member:
+  - Chinese: 
+    seat: 01
+    name: Azzy
+    id: U0931107
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 02
+    name: Daniel
+    id: U0931104
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 03
+    name: Alan
+    id: U0931111
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 04
+    name: Jerry
+    id: U0931121
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 05
+    name: Gina12
+    id: U0931112
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 06
+    name: Vivian
+    id: U0734044
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 07
+    name: Vicky
+    id: U0931115
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 08
+    name: Xenia
+    id: U0931149
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 09
+    name: Brian
+    id: U0931105
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 10
+    name: Shawn
+    id: U0931110
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 13
+    name: Gina22
+    id: U0931122
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 14
+    name: Siyuan
+    id: U0931126
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 15
+    name: Irene
+    id: U0931124
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 16
+    name: Yuhan
+    id: U0931125
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 19
+    name: Barry
+    id: U0918006
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 20
+    name: Quan
+    id: U0931129
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 21
+    name: Cathy
+    id: U0931144
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 22
+    name: Sherline
+    id: U0931103
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 23
+    name: Ruting
+    id: U0931151
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 24
+    name: Jack
+    id: U0931123
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 25
+    name: Jiaqian
+    id: U0931141
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 26
+    name: Benny
+    id: U0931132
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 27
+    name: Dorris
+    id: U0931128
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 28
+    name: Bryrony
+    id: U0931131
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 29
+    name: Sandy09
+    id: U0931109
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 30
+    name: Sandy20
+    id: U0931120
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 31
+    name: Apple
+    id: U0931134
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 32
+    name: YuYen
+    id: U0931140
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 33
+    name: Amy
+    id: U0931116
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 34
+    name: Susan
+    id: U0931127
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 35
+    name: Alice
+    id: U0931114
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 36
+    name: Clara
+    id: U0931130
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 41
+    name: Lulu
+    id: U0931119
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 42
+    name: Yummy
+    id: U0931135
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 43
+    name: Ken
+    id: U0931136
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 44
+    name: Nick
+    id: U0931154
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 45
+    name: Eddie
+    id: U0931132
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 46
+    name: Benjamin
+    id: U0931146
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 48
+    name: Jacky
+    id: U0931147
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 49
+    name: Wei
+    id: U0931142
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 50
+    name: Roy
+    id: U0931139
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 52
+    name: Rancho
+    id: U0931133
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 53
+    name: ShengWei
+    id: U0931153
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 54
+    name: Mandy
+    id: U0931138
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 55
+    name: Oakley
+    id: U0931106
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 56
+    name: Yuren
+    id: U0931150
+    password: 
+    email: 
+    rating: 
+out:
+room: A706
+school: nuu
+session:
+  0: 0
+  1: 1
+  2: 10
+weights:
+  classwork: 20
+  exams: 40
+  homework: 40
