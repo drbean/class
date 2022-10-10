@@ -1,0 +1,34 @@
+---
+2:                           1:                             
+  interviewee: Wei U0931142    interviewee: Dorris U0931128 
+  interviewers:                interviewers:                
+    - Bryony U0931131            - Jerry U0931121           
+    - Sandy09 U0931109           - Alan U0931111            
+    - Apple U0931134             - Daniel U0931104          
+    - Lulu U0931119              - Azzy U0931107            
+    - Jacky U0931147             - Shawn U0931110           
+3:                               - Brian U0931105           
+  i'viewee: Sand20 U0931120 7:                             
+  interviewers:               interviewee: Gina22 U0931122 
+    - Roy U0931139            interviewers:                
+    - YuYen U0931140            - Irene U0931124           
+    - Yummy U0931135            - Siyuan U0931126          
+    - Amy U0931116              - Xenia U0931149           
+    - Ken U0931136              - Vicky U0931115           
+4:                              - Vivian U0734044          
+  i'viewee: Susan U0931127      - Gina12 U0931112          
+  interviewers:
+    - Rancho U0931133        6:                            
+    - ShengWei U0931153        i'viewee: Yuhan U0931125 
+    - Mandy U0931138           interviewers:               
+    - Oakley U0931106            - Jack U0931123           
+    - Yuren U0931150             - Ruting U0931151         
+5:                               - Sherline U0931103       
+  i'viewee: Jiaqian U0931141     - Cathy U0931144          
+  interviewers:                  - Quan U0931129           
+    - Nick U0931154              - Barry U0918006          
+    - Alice U0931114
+    - Eddie U0931132
+    - Clara U0931130
+    - Benjamin U0931146
+    - Benny U0931132
