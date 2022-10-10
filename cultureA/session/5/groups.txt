@@ -1,0 +1,28 @@
+---
+2:                            1:                           
+  interviewee: Joyce U0931206   interviewee: Tina U0931226 
+  interviewers:                 interviewers:              
+    - Sandy U0931248              - Hannah U0931208        
+    - Nicky U0931219              - Gavin U0931209         
+    - Maisy U0931250              - Alice U0931214         
+    - Olivia U0931258             - Long U0931220          
+    - RenYu U0931231              - Ruby U0831234          
+    - Toyz U0931252               - RuYun U0931205         
+3:                           6:                              
+  i'viewee: YunJung U0931210   interviewee: YenTing U0931230 
+  interviewers:                interviewers:                 
+    - Dinter U0931228            - Bevis U0931202            
+    - YiJun U0931206             - Doris U0931212            
+    - Belinda U0931232           - Chen U0931235             
+    - Michael U0931218           - YuXian U0931215           
+    - ShaoChieh U0931222         - Sherry U0931244           
+    - Joanna U0931236
+4:                          5:                            
+  i'viewee: Melody U0931211   interviewee: Bella U0931216 
+  interviewers:               interviewers:               
+    - YiShan U0931238           - Gigi U0931242           
+    - YuWan U0931247            - Anny U0931243           
+    - Teddy U0931223            - Piru U0931255           
+    - ChengHan U0931234         - Cindy U0931207          
+    - KuoFeng U0931241          - Emily U0931221          
+    - Jenny U0931245            - Kelsey U0931233         
