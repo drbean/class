@@ -148,6 +148,20 @@ member:
     email: 
     rating: 
   - Chinese: 
+    seat: 29
+    name: Mandy
+    id: U0931048
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
+    seat: 30
+    name: Cinny
+    id: U0931057
+    password: 
+    email: 
+    rating: 
+  - Chinese: 
     seat: 31
     name: RenYu
     id: U0931231
