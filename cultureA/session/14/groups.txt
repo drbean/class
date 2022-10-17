@@ -1,0 +1,38 @@
+---
+2:                   1:
+  lecturer:            lecturer:
+  - Michael U0931218   - Belinda U0931232
+  promoter:            promoter:
+  - Alice U0931214     - Doris U0931212
+  - Long U0931220      - Chen U0931235
+  - Ruby U0831234      - YuXian U0931215
+  detractor:           detractor:
+  - RuYun U0931205     - Sherry U0931244
+  - Tina U0931226      - YenTing U0931230
+  - Sandy U0931248     - Hannah U0931208
+  - Nicky U0931219     - Gavin U0931209
+3:                    6:                  
+  lecturer:             lecturer:         
+  - ShaoChieh U0931222  - YuWan U0931247  
+  promoter:             - YiShan U0931238 
+  - Maisy U0931250      promoter:         
+  - Olivia U0931258     - Piru U0931255   
+  - RenYu U0931231      - Cindy U0931207  
+  detractor:            - Emily U0931221  
+  - Toyz U0931252       detractor:        
+  - Joyce U0931206      - Kelsey U0931233 
+  - Dinter U0931228     - Bella U0931216  
+  - YiJun U0931206      - Bevis U0931202  
+4:                    5:                    
+                        lecturer:           
+                        - YunJung U0931210  
+                        - Joanna U0931236   
+                        promoter:           
+                        - Teddy U0931223    
+                        - ChengHan U0931234 
+                        - KuoFeng U0931241  
+                        detractor:          
+                        - Jenny U0931245    
+                        - Melody U0931211   
+                        - Gigi U0931242     
+                        - Anny U0931243     
