@@ -1,0 +1,63 @@
+---
+                      1:                   
+2:                                          
+  Lecturer:                                 
+    - Doris U0931212                        
+  Promoter:                                 
+    - Alice U0931214                        
+    - Long U0931220                         
+    - Ruby U0831234                         
+  Detractor:                                
+    - RuYun U0931205                        
+    - Tina U0931226                         
+    - Sandy U0931248                        
+    - Nicky U0931219                        
+3:                    6:                    
+  Lecturer:             Lecturer:           
+    - Chen U0931235       - Hannah U0931208 
+  Promoter:               - Gavin U0931209  
+    - Maisy U0931250    Promoter:           
+    - Olivia U0931258     - Piru U0931255   
+    - RenYu U0931231      - Cindy U0931207  
+  Detractor:              - Emily U0931221  
+    - Toyz U0931252     Detractor:          
+    - Joyce U0931206      - Kelsey U0931233 
+    - Dinter U0931228     - Bella U0931216  
+    - YiJun U0931206      - Bevis U0931202  
+4:                    5:                      
+  Lecturer:             Lecturer:             
+    - YuXian U0931215     - Sherry U0931244   
+  Promoter:               - YenTing U0931230  
+    - Belinda U0931232  Promoter:             
+    - Michael U0931218    - Teddy U0931223    
+    - ShaoChieh U0931222  - ChengHan U0931234 22
+  Detractor:              - KuoFeng U0931241  
+    - Joanna U0931236   Detractor:            
+    - YunJung U0931210    - Jenny U0931245    
+    - YiShan U0931238     - Melody U0931211   
+    - YuWan U0931247      - Gigi U0931242     
+                          - Anny U0931243     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
