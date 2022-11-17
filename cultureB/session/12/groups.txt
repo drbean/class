@@ -1,0 +1,38 @@
+---
+2:                          1:                             
+  lecturer: Roy U0931139   lecturer: Bryony U0931131 
+  detractor:               detractor:                
+    - Sandy09 U0931109          - Alan U0931111            
+    - Apple U0931134            - Daniel U0931104          
+    - Lulu U0931119             - Azzy U0931107            
+  promoter:                promoter:
+    - Jacky U0931147            - Shawn U0931110           
+    - Wei U0931142              - Brian U0931105           
+3:                              - Dorris U0931128          
+  lecturer: Rancho U0931133
+  detractor:             7:                            
+    - YuYen U0931140          lecturer: Jerry U0931121 
+    - Yummy U0931135          detractor:               
+    - Amy U0931116              - Siyuan U0931126         
+  promoter:                   promoter:
+    - Ken U0931136              - Xenia U0931149          
+    - Sandy20 U0931120          - Vicky U0931115          
+4:                              - Vivian U0734044         
+  lecturer: Nick U0931154    - detractor
+  detractor:                 - Gina12 U0931112,Gina22 U0931122         
+    - ShengWei U0931153      6:                            
+    - Mandy U0931138           lecturer: Irene U0931124 
+    - Oakley U0931106          detractor:               
+  promoter:                
+    - Yuren U0931150             - Ruting U0931151         
+    - Susan U0931127             - Sherline U0931103       
+5:                               - Cathy U0931144          
+  lecturer: Jack U0931123     promoter:
+  detractor:                     - Barry U0918006          
+    - Alice U0931114             - Yuhan U0931125          
+    - Eddie U0931132             - Quan U0931129           
+    - Clara U0931130
+  promoter:
+    - Benjamin U0931146
+    - Benny U0931132
+    - Jiaqian U0931141
